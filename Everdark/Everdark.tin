@@ -1,0 +1,92 @@
+#CLASS {Everdark} OPEN
+
+#ACTION {<%d/%d>}
+{
+	#variable HP %1;
+	#variable SP %2
+}
+{5}
+
+#ACTION {You have %d/%dhp, and %d/%dsp.}
+{
+	#variable HP {%1};
+	#variable MHP %2;
+	#variable SP %3;
+	#variable MHP %4
+}
+{5}
+
+#ACTION {^%w tells you%*: %*}
+{
+	#system play ./Everdark/Sounds/chimes.wav -qV0 gain -h &
+}
+{5}
+
+#ALIAS {ce}
+{
+	climb e wall
+}
+{5}
+
+#ALIAS {clsh}
+{
+	climb shale
+}
+{5}
+
+#ALIAS {g}
+{
+	listen
+}
+{5}
+
+#ALIAS {j}
+{
+	bl;
+	bc;
+	bc
+}
+{5}
+
+#ALIAS {login}
+{
+	#session everdark everdark.org 3000
+}
+{5}
+
+#ALIAS {savescript}
+{
+	#write ./Everdark/script.tin
+}
+{5}
+
+#EVENT {DAY}
+{
+	#log append ./Everdark/logs/@date{}
+}
+
+#GAG              {<%d/%d>}
+#GAG              {^$}
+#GAG              {^Alphiril}
+#GAG              {^Coach}
+#GAG              {^Eamane}
+#GAG              {^Lainor}
+#GAG              {^Samuel}
+#GAG              {^Woodward}
+#GAG              {^You drop the empty}
+#GAG              {^You shoot the shot}
+#MACRO {\e1}
+{
+	#system say -v samantha -r 265 "$HP"
+}
+
+#MACRO {\e2}
+{
+	#system say -v samantha -r 265 "$SP"
+}
+
+#VARIABLE         {HP}  {274}
+#VARIABLE         {MHP}  {210}
+#VARIABLE         {SP}  {210}
+
+#CLASS {Everdark} CLOSE

@@ -1,0 +1,280 @@
+#CLASS {Everdark} OPEN
+
+#ACTION {<%d/%d>}
+{
+	#variable HP %1;
+	#variable SP %2
+}
+{5}
+
+#ACTION {You have %d/%dhp, and %d/%dsp.}
+{
+	#variable HP {%1};
+	#variable MHP %2;
+	#variable SP %3;
+	#variable MSP %4
+}
+{5}
+
+#ACTION {^%w tells you%*: %*}
+{
+	#system play ./Everdark/Sounds/chimes.wav -qV0 gain -h &
+}
+{5}
+
+#ACTION {^Rolling thunder shakes the clouds around you.$}
+{
+	#system play ./Everdark/sounds/thunder.mp3 -qV0 gain -5 &
+}
+{5}
+
+#ACTION {^The local pub}
+{
+	#if {$HP<$MHP || $SP<$MSP}
+	{
+		bl;
+		bc;
+		bc
+	}
+}
+{5}
+
+#ACTION {^The wind gusts with a fury, nearly toppling you over.$}
+{
+	#system play ./Everdark/sounds/wind.mp3 -qV0 &
+}
+{5}
+
+#ACTION {^You are drenched by a sheet of cold rain.$}
+{
+	#system play ./Everdark/sounds/rain.mp3 -qV0 gain -5 &
+}
+{5}
+
+#ACTION {^You hurl a dagger at}
+{
+	#system play ./Everdark/sounds/dagger.mp3 -qV0 &
+}
+{5}
+
+#ACTION {^Your longbow fires a %w arrow}
+{
+	#system play ./Everdark/sounds/bow.mp3 -qV0 &
+}
+{5}
+
+#ACTION {^Your wings steer you clear of a bolt of lightning.$}
+{
+	#system play ./Everdark/sounds/lightning.mp3 -qV0 gain -h &
+}
+{5}
+
+#ACTION {bad shape.$}
+{
+	#system say -v samantha -r 265 "bad shape"
+}
+{5}
+
+#ACTION {bloodhound snarls and sinks {her|his} teeth into}
+{
+	#system play ./Everdark/sounds/dogbite.mp3 -qV0 gain -5 &
+}
+{5}
+
+#ACTION {died.$}
+{
+	#system play ./Everdark/sounds/tada.wav -qV0 &
+}
+{5}
+
+#ACTION {not in good shape.$}
+{
+	#system say -v samantha -r 265 "not in good shape"
+}
+{5}
+
+#ACTION {slightly hurt.$}
+{
+	#system say -v samantha -r 265 "slightly hurt"
+}
+{5}
+
+#ACTION {somewhat hurt.$}
+{
+	#system say -v samantha -r 265 "somewhat hurt"
+}
+{5}
+
+#ACTION {very bad shape.$}
+{
+	#system say -v samantha -r 265 "very bad shape"
+}
+{5}
+
+#ALIAS {ce}
+{
+	climb e wall
+}
+{5}
+
+#ALIAS {clsh}
+{
+	climb shale
+}
+{5}
+
+#ALIAS {common}
+{
+	#if {""=="%0"}
+	{
+		speak common
+	};
+	#else
+	{
+		speak in common %0
+	}
+}
+{5}
+
+#ALIAS {drow}
+{
+	#if {""=="%0"}
+	{
+		speak drow
+	};
+	#else
+	{
+		speak in drow %0
+	}
+}
+{5}
+
+#ALIAS {elven}
+{
+	#if {""=="%0"}
+	{
+		speak elven
+	};
+	#else
+	{
+		speak in elven %0
+	}
+}
+{5}
+
+#ALIAS {g}
+{
+	listen
+}
+{5}
+
+#ALIAS {j}
+{
+	bl;
+	bc;
+	bc
+}
+{5}
+
+#ALIAS {lba}
+{
+	longbow of air
+}
+{5}
+
+#ALIAS {lbf}
+{
+	longbow of fire
+}
+{5}
+
+#ALIAS {lbi}
+{
+	longbow of ice
+}
+{5}
+
+#ALIAS {lbs}
+{
+	longbow of stone
+}
+{5}
+
+#ALIAS {loadscript}
+{
+	#class Everdark read ./Everdark/script.tin
+}
+{5}
+
+#ALIAS {login}
+{
+	#session everdark everdark.org 3000
+}
+{5}
+
+#ALIAS {pd}
+{
+	press diamond
+}
+{5}
+
+#ALIAS {savescript}
+{
+	#class Everdark write ./Everdark/script.tin
+}
+{5}
+
+#EVENT {DAY}
+{
+	#log append ./Everdark/logs/@date{}
+}
+
+#GAG              {%* missed %w.$}
+#GAG              {%w hit you %*hard.$}
+#GAG              {<%d/%d>}
+#GAG              {The wind gusts with a fury, nearly toppling you over.$}
+#GAG              {^$}
+#GAG              {^Alphiril}
+#GAG              {^Beldok}
+#GAG              {^Coach}
+#GAG              {^Eamane}
+#GAG              {^Lainor}
+#GAG              {^Rolling thunder shakes the clouds around you.$}
+#GAG              {^Samuel}
+#GAG              {^Sumaire missed}
+#GAG              {^Woodward}
+#GAG              {^You are drenched by a sheet of cold rain.$}
+#GAG              {^You drink the hot cup of coffee.}
+#GAG              {^You drop the empty}
+#GAG              {^You hurl a dagger at}
+#GAG              {^You shoot the shot}
+#GAG              {^Your wings steer you clear of a bolt of lightning.$}
+#GAG              {bad shape.$}
+#GAG              {bloodhound snarls and sinks {his|her} teeth into}
+#GAG              {not in good shape.$}
+#GAG              {slightly hurt.$}
+#GAG              {somewhat hurt.$}
+#GAG              {very bad shape.$}
+#MACRO {\e1}
+{
+	#system say -v samantha -r 265 "$HP"
+}
+
+#MACRO {\e2}
+{
+	#system say -v samantha -r 265 "$SP"
+}
+
+#MACRO {\eOQ}
+{
+	bl;
+	bc;
+	bc
+}
+
+#VARIABLE         {HP}  {274}
+#VARIABLE         {MHP}  {330}
+#VARIABLE         {MSP}  {226}
+#VARIABLE         {SP}  {210}
+
+#CLASS {Everdark} CLOSE

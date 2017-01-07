@@ -1,0 +1,257 @@
+#CLASS {Miriani} OPEN
+
+#ACTION {^A &* Lore computer beeps quietly, indicating that its TransLink tracking functionality has been activated.}
+{
+	#system play /Miriani/Sounds/General/Lore/Tracking.wav -qV0 gain -10 &
+}
+{5}
+
+#ACTION {^Target: Starship}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/LockedonOther.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^The computer announces, "Hit on}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/OtherHit1.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^The computer announces, "Partial hit}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/Partialhit.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
+{
+	#system play ./Miriani/Sounds/Ship/Move/Accelerate.mp3 -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^The ship jerks slightly as its turrets are fired.$}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/Laser1.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^The ship jerks slightly as its turrets are fired.4}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/Laser1.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
+{
+	#system play ./Miriani/Sounds/Ship/Move/Decelerate.mp3 -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^This starship has been hit by}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/YouHit1.wav -qV0 gain -7 &
+}
+{5}
+
+#ACTION {^You feel the pull of sudden acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
+{
+	#system play ./Miriani/Sounds/Ship/Move/Jumpgate.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^You feel the sudden pull of acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
+{
+	#system play ./Miriani/Sounds/Ship/Move/Jumpgate.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^You hear a deep hum as the starship begins an intrasector subwarp.$}
+{
+	#system play ./Miriani/Sounds/Ship/Move/Subwarp.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^You hear a low rumbling sound as the wormhole drive opens a wormhole.$}
+{
+	#system play ./Miriani/Sounds/Ship/Move/ftl.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^You hear a sharp whine as the starship begins an intrasector slip.$}
+{
+	#system play ./Miriani/Sounds/Ship/Move/slip.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^[Frequency %*]}
+{
+	#system play ./Miriani/Sounds/General/Comm/Metaf.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^[General Communication]}
+{
+	#system play ./Miriani/Sounds/General/Comm/General.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^[Newbie]}
+{
+	#system play ./Miriani/Sounds/General/Comm/Newbie.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^[Private}
+{
+	#system play ./Miriani/Sounds/General/Comm/private.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^[Short-range Communication]}
+{
+	#system play ./Miriani/Sounds/General/Comm/Short.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {cannons are fired.$}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/Cannon1.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {fired from the ship's cannons.$}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/Cannon1.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {has a lock on this starship.$}
+{
+	#system play ./Miriani/Sounds/Ship/Combat/LockedOnYou.wav -qV0 gain -12 &
+}
+{5}
+
+#ALIAS {f}
+{
+	la
+}
+{5}
+
+#ALIAS {fo}
+{
+	focus
+}
+{5}
+
+#ALIAS {grp}
+{
+	group
+}
+{5}
+
+#ALIAS {rel}
+{
+	reload
+}
+{5}
+
+#ALIAS {savescript}
+{
+	#class Miriani write ./Miriani/script.tin
+}
+{5}
+
+#ALIAS {sf}
+{
+	shoot fuzzy
+}
+{5}
+
+#ALIAS {ufo}
+{
+	unfocus
+}
+{5}
+
+#ALIAS {ung}
+{
+	ungroup
+}
+{5}
+
+#GAG              {Target: Starship}
+#GAG              {The room is filled with}
+#GAG              {You hear a deafening booming sound as repairs to the ship proceed.}
+#GAG              {^#gag ^You hear a sharp whine as the starship begins an intrasector slip.}
+#GAG              {^$}
+#GAG              {^A bright flash of blue light floods the room as the starship travels through the wormhole.}
+#GAG              {^The bright light vanishes as the starship emerges at the other side of the wormhole.}
+#GAG              {^The computer announces, "%*"}
+#GAG              {^The computer announces, "Hit on}
+#GAG              {^The computer announces, "Partial hit}
+#GAG              {^The computer announces, "The target has moved from the locked coordinates."}
+#GAG              {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
+#GAG              {^The experience abruptly ends as the starship exits from the companion jumpgate}
+#GAG              {^The experience abruptly ends as the starship exits from the companion jumpgate.}
+#GAG              {^The experience abruptly ends as the starship exits the companion jumpgate.$}
+#GAG              {^The experience abruptly ends as the starship exits the compnaion jumpgate.$}
+#GAG              {^The experience ends as the starship exits from the companion jumpgate}
+#GAG              {^The room is bathed in brilliant red and green light as the ship's laser turrets}
+#GAG              {^The ship jerks slightly as its turrets are fired.$}
+#GAG              {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
+#GAG              {^The starship begins vibrating violently as the hum picks up in intensity.}
+#GAG              {^The starship shudders beneath your feet. It feels like the hull is breaking apart around you.$}
+#GAG              {^The starship shutters beneath your feet. It feels like the hull is breaking apart around you.$}
+#GAG              {^The starship vibrates violently as it nears the wormhole's event horizon.}
+#GAG              {^The vibration diminishes as the starship completes its subwarp.}
+#GAG              {^The windows automatically dim as gate after gate becomes visible}
+#GAG              {^The windows automatically dimm as gate after gate becomes visible}
+#GAG              {^The windows dim automatically as gate after gate becomes visible}
+#GAG              {^This starship has been hit by}
+#GAG              {^With a sharp lurch, the starship completes its intrasector slip.}
+#GAG              {^You are suddenly jarred as the ship begins rapid deceleration.$}
+#GAG              {^You feel a mild vibration as the ship nears the active jumpgate.$}
+#GAG              {^You feel the pull of suden acceleration as the relativity drive kicks in}
+#GAG              {^You feel the sudden pull of acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
+#GAG              {^You hear a buzzing sound from the hull as repairs continue.}
+#GAG              {^You hear a deep hum as the starship begins an intrasector subwarp.}
+#GAG              {^You hear a low rumbling sound as the wormhole drive opens a wormhole.}
+#GAG              {^You hear a sharp whine as the starship begins an intrasector slip.}
+#GAG              {^You hear a shrill screeching sound as repair drones drag replacement components}
+#GAG              {^You hear an electrical zapping sound as repairs to the ship continue.}
+#GAG              {^You hear several clinking sounds as the ship is repaired.}
+#GAG              {fired from the ship's cannons.$}
+#GAG              {has a lock on this starship.}
+#GAG              {has a lock on this starship.$}
+#GAG              {laser turrets are fired}
+#MACRO {\eOP}
+{
+	la
+}
+
+#MACRO {\eOQ}
+{
+	can
+}
+
+#MACRO {\eOR}
+{
+	fo
+}
+
+#MACRO {\eOS}
+{
+	ufo
+}
+
+#MACRO {\er}
+{
+	#system play -qV0 speak.aiff gain -6 reverb &
+}
+
+#SUBSTITUTE       {^Current coordinates: %*}      {%1}  {5}
+#SUBSTITUTE       {^Praelor %w %d (%*)}  {%3}  {5}
+#SUBSTITUTE       {^Praelor %w %d: %*}  {%3}  {5}
+
+#CLASS {Miriani} CLOSE
