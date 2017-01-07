@@ -1,3 +1,9 @@
+#ACTION {^The computer announces, "%*"}
+{
+	speech %1
+}
+{6}
+
 #ALIAS {connect-everdark}
 {
 	#session Everdark everdark.org 3000
@@ -15,6 +21,14 @@
 	#session StarConquest squidsoft.net 7777
 }
 {5}
+
+#ALIAS {speech}
+{
+	#system rm speak.aiff &;
+	#system say -v samantha -r 255 "%0" -o speak.aiff;
+	#system play -qV0 speak.aiff gain -6 reverb &
+}
+{6}
 
 #CONFIG           {256 COLORS}  {ON}
 #CONFIG           {AUTO TAB}  {5000}
