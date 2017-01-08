@@ -1,8 +1,32 @@
 #CLASS {Miriani} OPEN
 
-#ACTION {^A &* Lore computer beeps quietly, indicating that its TransLink tracking functionality has been activated.}
+#ACTION {^A %* Lore computer beeps quietly, indicating that its TransLink}
 {
-	#system play /Miriani/Sounds/General/Lore/Tracking.wav -qV0 gain -10 &
+	#system play -qV0 ./Miriani/Sounds/General/Lore/track.wav gain -12 &
+}
+{5}
+
+#ACTION {^A %* flight control scanner announces, "%*"}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Comm/FlightScanner.wav gain -12 &
+}
+{5}
+
+#ACTION {^A level %* archaeological dig site scanner indicates that there is an artifact buried approximately}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/ArtifactHere.wav gain -12 &
+}
+{5}
+
+#ACTION {^A level %* archaeological dig site scanner reports nothing nearby.}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/NothingFound.wav gain -12 &
+}
+{5}
+
+#ACTION {^A level %* archaeological dig site scanner reports that there is an object in the immediate area.$}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/ArtifactNear.wav gain -12 &
 }
 {5}
 
@@ -54,6 +78,19 @@
 }
 {5}
 
+#ACTION {^You begin gently brushing dirt aside with a small brush.}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Brush@rnd{8}.wav gain -12 &;
+	#line GAG
+}
+{5}
+
+#ACTION {^You cease digging.}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Cease.wav gain -12 &
+}
+{5}
+
 #ACTION {^You feel the pull of sudden acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
 {
 	#system play ./Miriani/Sounds/Ship/Move/Jumpgate.wav -qV0 gain -12 &
@@ -81,6 +118,18 @@
 #ACTION {^You hear a sharp whine as the starship begins an intrasector slip.$}
 {
 	#system play ./Miriani/Sounds/Ship/Move/slip.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^You thrust a small shovel into the ground and begin methodically removing large chunks of dirt.$}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Shovel@rnd{12}.wav gain -12 &
+}
+{5}
+
+#ACTION {^You wipe your brow and cease digging.}
+{
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Cease.wav gain -12 &
 }
 {5}
 
@@ -211,6 +260,8 @@
 #GAG              {^This starship has been hit by}
 #GAG              {^With a sharp lurch, the starship completes its intrasector slip.}
 #GAG              {^You are suddenly jarred as the ship begins rapid deceleration.$}
+#GAG              {^You begin gently brushing dirt aside with a small brush.}
+#GAG              {^You cease digging.}
 #GAG              {^You feel a mild vibration as the ship nears the active jumpgate.$}
 #GAG              {^You feel the pull of suden acceleration as the relativity drive kicks in}
 #GAG              {^You feel the sudden pull of acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
@@ -221,6 +272,8 @@
 #GAG              {^You hear a shrill screeching sound as repair drones drag replacement components}
 #GAG              {^You hear an electrical zapping sound as repairs to the ship continue.}
 #GAG              {^You hear several clinking sounds as the ship is repaired.}
+#GAG              {^You thrust a small shovel}
+#GAG              {^You wipe your brow and cease digging.}
 #GAG              {fired from the ship's cannons.$}
 #GAG              {has a lock on this starship.}
 #GAG              {has a lock on this starship.$}

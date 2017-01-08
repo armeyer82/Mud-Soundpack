@@ -26,7 +26,7 @@
 {
 	#system rm speak.aiff &;
 	#system say -v samantha -r 255 "%0" -o speak.aiff;
-	#system play -qV0 speak.aiff gain -6 reverb &
+	#system play -qV0 speak.aiff gain -6 pad 0 3 reverb &
 }
 {6}
 
@@ -59,6 +59,11 @@
 	#format result %t %m-%d-%Y
 }
 
+#FUNCTION {rnd}
+{
+	#math result { 1 d %1}
+}
+
 #PATHDIR          {d}  {u}  {32}
 #PATHDIR          {e}  {w}  {2}
 #PATHDIR          {n}  {s}  {1}
@@ -69,4 +74,4 @@
 #PATHDIR          {sw}  {ne}  {12}
 #PATHDIR          {u}  {d}  {16}
 #PATHDIR          {w}  {e}  {8}
-#VARIABLE         {result}  {16:00:00}
+#VARIABLE         {result}  {2}
