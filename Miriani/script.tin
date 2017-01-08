@@ -54,6 +54,12 @@
 }
 {5}
 
+#ACTION {^The pull of acceleration eases off as the craft completes its maneuvering.$}
+{
+	#system play -qV0 ./Miriani/Sounds/SalvageStop.wav gain -12 &
+}
+{5}
+
 #ACTION {^The ship jerks slightly as its turrets are fired.$}
 {
 	#system play ./Miriani/Sounds/Ship/Combat/Laser1.wav -qV0 gain -12 &
@@ -78,6 +84,12 @@
 }
 {5}
 
+#ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
+{
+	#system play -qV0 ./Miriani/Sounds/salvagelaunch.wav gain -12 &
+}
+{5}
+
 #ACTION {^You begin gently brushing dirt aside with a small brush.}
 {
 	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Brush@rnd{8}.wav gain -12 &;
@@ -88,6 +100,12 @@
 #ACTION {^You cease digging.}
 {
 	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Cease.wav gain -12 &
+}
+{5}
+
+#ACTION {^You feel the pull of acceleration as the craft navigates through the atmosphere.$}
+{
+	#system play -qV0 ./Miriani/Sounds/SalvageMove.wav gain -12 &
 }
 {5}
 
@@ -118,6 +136,12 @@
 #ACTION {^You hear a sharp whine as the starship begins an intrasector slip.$}
 {
 	#system play ./Miriani/Sounds/Ship/Move/slip.wav -qV0 gain -12 &
+}
+{5}
+
+#ACTION {^You hear the sounds of the atmospheric scoop activating.$}
+{
+	#system play -qV0 ./Miriani/Sounds/salvagescoop.wav gain -12 &
 }
 {5}
 
@@ -246,6 +270,7 @@
 #GAG              {^The experience abruptly ends as the starship exits the companion jumpgate.$}
 #GAG              {^The experience abruptly ends as the starship exits the compnaion jumpgate.$}
 #GAG              {^The experience ends as the starship exits from the companion jumpgate}
+#GAG              {^The pull of acceleration eases off as the craft completes its maneuvering.$}
 #GAG              {^The room is bathed in brilliant red and green light as the ship's laser turrets}
 #GAG              {^The ship jerks slightly as its turrets are fired.$}
 #GAG              {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
@@ -260,9 +285,11 @@
 #GAG              {^This starship has been hit by}
 #GAG              {^With a sharp lurch, the starship completes its intrasector slip.}
 #GAG              {^You are suddenly jarred as the ship begins rapid deceleration.$}
+#GAG              {^You are suddenly pressed against your seat as the vehicle is catapulted}
 #GAG              {^You begin gently brushing dirt aside with a small brush.}
 #GAG              {^You cease digging.}
 #GAG              {^You feel a mild vibration as the ship nears the active jumpgate.$}
+#GAG              {^You feel the pull of acceleration as the craft navigates through the atmosphere.$}
 #GAG              {^You feel the pull of suden acceleration as the relativity drive kicks in}
 #GAG              {^You feel the sudden pull of acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
 #GAG              {^You hear a buzzing sound from the hull as repairs continue.}
@@ -272,6 +299,7 @@
 #GAG              {^You hear a shrill screeching sound as repair drones drag replacement components}
 #GAG              {^You hear an electrical zapping sound as repairs to the ship continue.}
 #GAG              {^You hear several clinking sounds as the ship is repaired.}
+#GAG              {^You hear the sounds of the atmospheric scoop activating.$}
 #GAG              {^You thrust a small shovel}
 #GAG              {^You wipe your brow and cease digging.}
 #GAG              {fired from the ship's cannons.$}
