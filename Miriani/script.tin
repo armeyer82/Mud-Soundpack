@@ -306,26 +306,6 @@
 #GAG              {has a lock on this starship.}
 #GAG              {has a lock on this starship.$}
 #GAG              {laser turrets are fired}
-#MACRO {\eOP}
-{
-	la
-}
-
-#MACRO {\eOQ}
-{
-	can
-}
-
-#MACRO {\eOR}
-{
-	fo
-}
-
-#MACRO {\eOS}
-{
-	ufo
-}
-
 #MACRO {\er}
 {
 	#system play -qV0 speak.aiff gain -6 reverb &
