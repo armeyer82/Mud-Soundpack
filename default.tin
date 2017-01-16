@@ -22,6 +22,12 @@
 }
 {5}
 
+#ALIAS {play %*.{wav|mp3|aiff}}
+{
+	#system play -qV0 $soundpath/%1.%2 vol $volume &
+}
+{5}
+
 #ALIAS {soundpack-test}
 {
 	#system say -v samantha -r 255 "This is a test." -o test.aiff;
@@ -34,7 +40,7 @@
 {
 	#system rm speak.aiff &;
 	#system say -v samantha -r 255 "%0" -o speak.aiff;
-	#system play -qV0 speak.aiff gain -6 pad 0 3 reverb &
+	#system play -qV0 speak.aiff vol $volume pad 0 3 reverb &
 }
 {6}
 
@@ -69,7 +75,31 @@
 
 #FUNCTION {rnd}
 {
-	#math result { 1 d %1}
+	#math result { 1 d %1};
+	#format result %d $result
+}
+
+#MACRO {\e[17~}
+{
+	#session +
+}
+
+#MACRO {\e[19~}
+{
+	#showme Current volume: $volume
+}
+
+#MACRO {\e[20~}
+{
+	#math tempvolume {$volume-0.05};
+	#math volume {$volume-0.05};
+	#showme Volume: $volume
+}
+
+#MACRO {\e[21~}
+{
+	#math volume {$volume+.05};
+	#showme Volume: $volume
 }
 
 #PATHDIR          {d}  {u}  {32}
@@ -82,4 +112,5 @@
 #PATHDIR          {sw}  {ne}  {12}
 #PATHDIR          {u}  {d}  {16}
 #PATHDIR          {w}  {e}  {8}
-#VARIABLE         {result}  {2}
+#VARIABLE         {result}  {4}
+#VARIABLE         {tempvolume}  {0.10}

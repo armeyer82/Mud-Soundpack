@@ -1,80 +1,98 @@
 #CLASS {Miriani} OPEN
 
+#ACTION {^#$#mcp version:}
+{
+	#send #$#register_soundpack Tintin Soundpacks for Mac | 1.0
+}
+{5}
+
+#ACTION {^#$#soundpack environment %w | %w | %w}
+{
+	#variable environment[type] %1;
+	#variable environment[safe] %2;
+	#variable environment[lighted] %3
+}
+{5}
+
+#ACTION {^#$#soundpack environment starship %w | %w | %w | %w}
+{
+	#variable environment[type] starship;
+	#variable environment[location] %1;
+	#variable environment[powered] %2;
+	#variable environment[safe] %3;
+	#variable environment[lighted] %4
+}
+{5}
+
 #ACTION {^A %* Lore computer beeps quietly, indicating that its TransLink}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Lore/track.wav gain -12 &
+	play $soundpath/General/Lore/track.wav
 }
 {5}
 
 #ACTION {^A %* flight control scanner announces, "%*"}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Comm/FlightScanner.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/General/Comm/FlightScanner.wav vol $volume &
 }
 {5}
 
 #ACTION {^A level %* archaeological dig site scanner indicates that there is an artifact buried approximately}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Archaeology/ArtifactHere.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/ArtifactHere.wav vol $volume &
 }
 {5}
 
 #ACTION {^A level %* archaeological dig site scanner reports nothing nearby.}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Archaeology/NothingFound.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/NothingFound.wav vol $volume &
 }
 {5}
 
 #ACTION {^A level %* archaeological dig site scanner reports that there is an object in the immediate area.$}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Archaeology/ArtifactNear.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/ArtifactNear.wav vol $volume &
 }
 {5}
 
 #ACTION {^Target: Starship}
 {
-	#system play ./Miriani/Sounds/Ship/Combat/LockedonOther.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Combat/LockedonOther.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^The computer announces, "Hit on}
 {
-	#system play ./Miriani/Sounds/Ship/Combat/OtherHit1.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Combat/OtherHit1.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^The computer announces, "Partial hit}
 {
-	#system play ./Miriani/Sounds/Ship/Combat/Partialhit.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Combat/Partialhit.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
 {
-	#system play ./Miriani/Sounds/Ship/Move/Accelerate.mp3 -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Move/Accelerate.mp3 -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^The pull of acceleration eases off as the craft completes its maneuvering.$}
 {
-	#system play -qV0 ./Miriani/Sounds/SalvageStop.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/SalvageStop.wav vol $volume &
 }
 {5}
 
 #ACTION {^The ship jerks slightly as its turrets are fired.$}
 {
-	#system play ./Miriani/Sounds/Ship/Combat/Laser1.wav -qV0 gain -12 &
-}
-{5}
-
-#ACTION {^The ship jerks slightly as its turrets are fired.4}
-{
-	#system play ./Miriani/Sounds/Ship/Combat/Laser1.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Combat/Laser1.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
 {
-	#system play ./Miriani/Sounds/Ship/Move/Decelerate.mp3 -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Move/Decelerate.mp3 -qV0 vol $volume &
 }
 {5}
 
@@ -86,122 +104,122 @@
 
 #ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
 {
-	#system play -qV0 ./Miriani/Sounds/salvagelaunch.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/salvagelaunch.wav vol $volume &
 }
 {5}
 
 #ACTION {^You begin gently brushing dirt aside with a small brush.}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Brush@rnd{8}.wav gain -12 &;
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Brush@rnd{8}.wav vol $volume &;
 	#line GAG
 }
 {5}
 
 #ACTION {^You cease digging.}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Cease.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Cease.wav vol $volume &
 }
 {5}
 
 #ACTION {^You feel the pull of acceleration as the craft navigates through the atmosphere.$}
 {
-	#system play -qV0 ./Miriani/Sounds/SalvageMove.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/SalvageMove.wav vol $volume &
 }
 {5}
 
 #ACTION {^You feel the pull of sudden acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
 {
-	#system play ./Miriani/Sounds/Ship/Move/Jumpgate.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Move/Jumpgate.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^You feel the sudden pull of acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
 {
-	#system play ./Miriani/Sounds/Ship/Move/Jumpgate.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Move/Jumpgate.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^You hear a deep hum as the starship begins an intrasector subwarp.$}
 {
-	#system play ./Miriani/Sounds/Ship/Move/Subwarp.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Move/Subwarp.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^You hear a low rumbling sound as the wormhole drive opens a wormhole.$}
 {
-	#system play ./Miriani/Sounds/Ship/Move/ftl.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Move/ftl.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^You hear a sharp whine as the starship begins an intrasector slip.$}
 {
-	#system play ./Miriani/Sounds/Ship/Move/slip.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Move/slip.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^You hear the sounds of the atmospheric scoop activating.$}
 {
-	#system play -qV0 ./Miriani/Sounds/salvagescoop.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/salvagescoop.wav vol $volume &
 }
 {5}
 
 #ACTION {^You thrust a small shovel into the ground and begin methodically removing large chunks of dirt.$}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Shovel@rnd{12}.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Shovel@rnd{12}.wav vol $volume &
 }
 {5}
 
 #ACTION {^You wipe your brow and cease digging.}
 {
-	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Cease.wav gain -12 &
+	#system play -qV0 ./Miriani/Sounds/General/Archaeology/Cease.wav vol $volume &
 }
 {5}
 
 #ACTION {^[Frequency %*]}
 {
-	#system play ./Miriani/Sounds/General/Comm/Metaf.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/General/Comm/Metaf.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^[General Communication]}
 {
-	#system play ./Miriani/Sounds/General/Comm/General.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/General/Comm/General.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^[Newbie]}
 {
-	#system play ./Miriani/Sounds/General/Comm/Newbie.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/General/Comm/Newbie.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^[Private}
 {
-	#system play ./Miriani/Sounds/General/Comm/private.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/General/Comm/private.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {^[Short-range Communication]}
 {
-	#system play ./Miriani/Sounds/General/Comm/Short.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/General/Comm/Short.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {cannons are fired.$}
 {
-	#system play ./Miriani/Sounds/Ship/Combat/Cannon1.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Combat/Cannon1.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {fired from the ship's cannons.$}
 {
-	#system play ./Miriani/Sounds/Ship/Combat/Cannon1.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Combat/Cannon1.wav -qV0 vol $volume &
 }
 {5}
 
 #ACTION {has a lock on this starship.$}
 {
-	#system play ./Miriani/Sounds/Ship/Combat/LockedOnYou.wav -qV0 gain -12 &
+	#system play ./Miriani/Sounds/Ship/Combat/LockedOnYou.wav -qV0 vol $volume &
 }
 {5}
 
@@ -314,5 +332,8 @@
 #SUBSTITUTE       {^Current coordinates: %*}      {%1}  {5}
 #SUBSTITUTE       {^Praelor %w %d (%*)}  {%3}  {5}
 #SUBSTITUTE       {^Praelor %w %d: %*}  {%3}  {5}
+#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{unpowered}{safe}{safe}{type}{starship}}
+#VARIABLE         {soundpath}  {./Miriani/Sounds}
+#VARIABLE         {volume}  {1}
 
 #CLASS {Miriani} CLOSE
