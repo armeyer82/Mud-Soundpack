@@ -3,4 +3,5 @@
 #read ./Miriani/Ship-Comm.tin
 #read ./Miriani/Out-Of-Band.tin
 #read Numpad-walk.tin
-
+#read ./Miriani/Archaeology.tin
+#read ./Miriani/Combat.tin

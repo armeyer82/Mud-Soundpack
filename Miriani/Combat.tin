@@ -1,0 +1,147 @@
+#CLASS {Combat} OPEN
+
+#action {You slide a%1out of a pulse emitter clip.}
+{ play General/Combat/DrawEMPulse@rnd{3}.wav
+}
+#action {%1 slides a%2out of a pulse emitter clip.}
+{ play General/Combat/DrawEMPulse@rnd{3}.wav
+}
+#action {You deftly draw a%1from a%2}
+{ play General/Combat/DrawGun@rnd{3}.wav
+}
+#action {%1 deftly draws a%2from a%3}
+{ play General/Combat/DrawGun@rnd{3}.wav
+}
+#action {A%1seems to have run out of energy.}
+{ play General/Combat/EmptyEmitter.wav
+}
+#action {A loud clicking is followed by the clatter of an empty 
+#cartridge to the floor.}
+{ play empty.wav
+}
+#action {You aim a%1at%2and activate it.}
+{ play General/Combat/EMPulse.wav
+}
+#action {%1 aims a%2at%3 and activates it.}
+{ play General/Combat/EMPulse.wav
+}
+#action {You stop using%1for cover.}
+{ play uncrouch.wav
+}
+#action {You deftly insert a%1 into a%2}
+{ play holster.wav
+}
+#action {%1 deftly inserts a%2into a%3}
+{ play holster.wav
+}
+#action {You slide%1into a%2 where it settles into place with a small click.}
+{ play holster.wav
+}
+#action {%1 slides %2 into a %3, where it snaps into place with a 
+#click.}
+{ play holster.wav
+}
+#action {You carefully discharge a%1into a%2}
+{ play General/Combat/LoadEMPulse@rnd{3}.wav
+}
+#action {%1 carefully discharges a%2into a%3}
+{ play General/Combat/LoadEMPulse@rnd{3}.wav
+}
+#action {You hastily slam a%1into the open ammo slot of a%2}
+{ play General/Combat/LoadGun@rnd{3}.wav
+}
+#action {%1 hastily slams a%2 into the open ammo slot of a%3}
+{ play General/Combat/LoadGun@rnd{3}.wav
+}
+#action {A%1clicks oddly. It must be out of ammo.}
+{ play emptygun.wav
+}
+#action {The shot hits %1's %2.}
+{play General/Combat/OtherShot.wav
+}
+#action {%1 points a%2at%3head and fires!}
+{ play General/Combat/OtherShot.wav
+}
+#action {The shot misses!}
+{ play General/Combat/ShotMisses.wav
+}
+#action {%1 suddenly begins to power down.}
+{ play General/Combat/Shutdown@rnd{4}.wav
+}
+#action {%1 suddenly slumps over as %2 mechanical systems begin to shut 
+#down.}
+{ play General/Combat/Shutdown@rnd{4}.wav
+}
+#action {A %1 falls to the ground, disabled.}
+{play General/Combat/Shutdown@rnd{4}.wav
+}
+#action {You crouch behind%1, using%2 for cover.}
+{ play crouch.wav
+}
+#action {%1 unloads a %2 from %3}
+{ play General/Combat/UnloadAmmo@rnd{5}.wav
+}
+#action {You unload a %1 from %2}
+{ play General/Combat/UnloadAmmo@rnd{5}.wav
+}
+#action {You depress the cartridge release lever on a %1, causing the 
+#loaded cartridge to slide out of the weapon, and into your hand.}
+{ play General/Combat/UnloadGun@rnd{2}.wav
+}
+#action {%1 depresses the cartridge release lever on a %2, causing the 
+#loaded cartridge to slide out of the weapon, and into %3 hand.}
+{ play General/Combat/UnloadGun@rnd{2}.wav
+}
+#action {The shot hits your %1.}
+{play General/Combat/YouShot.wav
+}
+#action {You point %1 at your head and fire!}
+{ play General/Combat/YouShot.wav
+}
+#action {You skillfully dodge the shot.}
+{ play General/Combat/ShotMisses.wav
+}
+#action {%1 skillfully dodges the shot.}
+{ play General/Combat/ShotMisses.wav
+}
+#action {%1takes aim at you%2}
+{ play General/Combat/DrawEMPulse@rnd{3}.wav
+}
+#action {%1joins your group%2}
+{ play joins.wav
+}
+#action {%1 take%2control of%3group%4}
+{ play joins.wav
+}
+#action {%1 insectoid creature scurries in%2}
+{ play General/Combat/PraelorScurry@rnd{}2.wav
+}
+#action {%1You see %2 insectoid creature%3here%4}
+{ play General/Combat/PraelorScurry@rnd{2}.wav
+}
+#action {A %1 insectoid creature crouches low to the ground and hisses, 
+#expelling a large quantity of an acidic compound at %2}
+{ play General/Combat/PraelorSpit@rnd{3}.wav
+}
+#action {A %1 insectoid creature starts shrieking loudly, the pitch 
+#ramping up as it succumbs to the effects of the alkalines. Sections of 
+#its exoskeleton begin to swell, tiny bumps forming on the swelling 
+#sections%2}
+{ play General/Combat/PraelorDeath.wav
+}
+#action {%1The shot blows a hole in a %2 insectoid creature's 
+#exoskeleton, sending a spray of acid outward%3}
+{ play General/Combat/PraelorHit.wav
+}
+#action {You conjure up some mighty force and slam %1 into %2 You watch 
+#in satisfaction as a surge of energy courses through %3 body.}
+{ play General/Combat/StunBatonHit.wav
+}
+#action {A fuzzy creature lets out a pitiful screech before collapsing 
+#to the ground. It lifts its head weakly, staring at you with black, 
+#beady, watery eyes for a moment before wobbling and dropping its head, 
+#completing its life.}
+{ play General/Combat/FuzzyDeath.wav
+}
+
+#CLASS {Combat} CLOSE

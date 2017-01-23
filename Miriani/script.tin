@@ -12,23 +12,6 @@
 }
 {5}
 
-#ACTION {^A level %* archaeological dig site scanner indicates that there is an artifact buried approximately}
-{
-	play General/Archaeology/ArtifactHere.wav
-}
-{5}
-
-#ACTION {^A level %* archaeological dig site scanner reports nothing nearby.}
-{
-	play General/Archaeology/NothingFound.wav
-}
-{5}
-
-#ACTION {^A level %* archaeological dig site scanner reports that there is an object in the immediate area.$}
-{
-	play General/Archaeology/ArtifactNear.wav
-}
-{5}
 
 #ACTION {^Target: Starship}
 {
@@ -341,6 +324,3 @@
 
 #CLASS {Miriani} CLOSE
 
-#read ./Miriani/AtmoSalvage.tin
-#read Numpad-walk.tin
-#read ./Miriani/Out-Of-Band.tin
