@@ -1,225 +1,225 @@
 #CLASS {Miriani} OPEN
 
-#ACTION {^#$#mcp version:}
-{
-	#send #$#register_soundpack Tintin Soundpacks for Mac | 1.0
-}
-{5}
-
-#ACTION {^#$#soundpack environment %w | %w | %w}
-{
-	#variable environment[type] %1;
-	#variable environment[safe] %2;
-	#variable environment[lighted] %3
-}
-{5}
-
-#ACTION {^#$#soundpack environment starship %w | %w | %w | %w}
-{
-	#variable environment[type] starship;
-	#variable environment[location] %1;
-	#variable environment[powered] %2;
-	#variable environment[safe] %3;
-	#variable environment[lighted] %4
-}
-{5}
-
 #ACTION {^A %* Lore computer beeps quietly, indicating that its TransLink}
 {
-	play $soundpath/General/Lore/track.wav
+	play General/Lore/track.wav
 }
 {5}
 
 #ACTION {^A %* flight control scanner announces, "%*"}
 {
-	play $soundpath/General/Comm/FlightScanner.wav
+	play General/Comm/FlightScanner.wav
 }
 {5}
 
 #ACTION {^A level %* archaeological dig site scanner indicates that there is an artifact buried approximately}
 {
-	play $soundpath/General/Archaeology/ArtifactHere.wav
+	play General/Archaeology/ArtifactHere.wav
 }
 {5}
 
 #ACTION {^A level %* archaeological dig site scanner reports nothing nearby.}
 {
-	play $soundpath/General/Archaeology/NothingFound.wav
+	play General/Archaeology/NothingFound.wav
 }
 {5}
 
 #ACTION {^A level %* archaeological dig site scanner reports that there is an object in the immediate area.$}
 {
-	play $soundpath/General/Archaeology/ArtifactNear.wav
+	play General/Archaeology/ArtifactNear.wav
 }
 {5}
 
 #ACTION {^Target: Starship}
 {
-	play $soundpath/Ship/Combat/LockedonOther.wav
+	play Ship/Combat/LockedonOther.wav
 }
 {5}
 
 #ACTION {^The computer announces, "Hit on}
 {
-	play $soundpath/Ship/Combat/OtherHit1.wav
+	play Ship/Combat/OtherHit1.wav
 }
 {5}
 
 #ACTION {^The computer announces, "Partial hit}
 {
-	play $soundpath/Ship/Combat/Partialhit.wav
+	play Ship/Combat/Partialhit.wav
 }
 {5}
 
 #ACTION {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
 {
-	play $soundpath/Ship/Move/Accelerate.mp3
+	play Ship/Move/Accelerate.mp3
 }
 {5}
 
 #ACTION {^The pull of acceleration eases off as the craft completes its maneuvering.$}
 {
-	play $soundpath/SalvageStop.wav
+	play SalvageStop.wav
 }
 {5}
 
 #ACTION {^The ship jerks slightly as its turrets are fired.$}
 {
-	play $soundpath/Ship/Combat/Laser1.wav
+	play Ship/Combat/Laser1.wav
+}
+{5}
+
+#ACTION {^The sound of the relativity drive echoes through the room as it propels the ship towards space.$}
+{
+	play Ship/Move/YouLaunch2.wav
+}
+{5}
+
+#ACTION {^The sound of the relativity drive echos through the room as it propels}
+{
+	play Ship/Move/YouLaunch2.wav
+}
+{5}
+
+#ACTION {^The sound of the relativity drive echos through the room as it propels the ship towards space.$}
+{
+	play Ship/Move/YouLaunch2.wav
 }
 {5}
 
 #ACTION {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
 {
-	play $soundpath/Ship/Move/Decelerate.mp3
+	play Ship/Move/Decelerate.mp3
 }
 {5}
 
 #ACTION {^This starship has been hit by}
 {
-	play $soundpath/Ship/Combat/YouHit1.wav
+	play Ship/Combat/YouHit1.wav
 }
 {5}
 
 #ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
 {
-	play $soundpath/salvagelaunch.wav
+	play salvagelaunch.wav
 }
 {5}
 
 #ACTION {^You begin gently brushing dirt aside with a small brush.}
 {
-	play $soundpath/General/Archaeology/Brush@rnd{8}.wav;
+	play General/Archaeology/Brush@rnd{8}.wav;
 	#line GAG
 }
 {5}
 
 #ACTION {^You cease digging.}
 {
-	play $soundpath/General/Archaeology/Cease.wav
+	play General/Archaeology/Cease.wav
+}
+{5}
+
+#ACTION {^You feel mild acceleration as the ship descends}
+{
+	play Ship/Move/YouLanding.mp3
 }
 {5}
 
 #ACTION {^You feel the pull of acceleration as the craft navigates through the atmosphere.$}
 {
-	play $soundpath/SalvageMove.wav
+	play SalvageMove.wav
 }
 {5}
 
 #ACTION {^You feel the pull of sudden acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
 {
-	play $soundpath/Ship/Move/Jumpgate.wav
+	play Ship/Move/Jumpgate.wav
 }
 {5}
 
 #ACTION {^You feel the sudden pull of acceleration as the starship's relativity drive kicks in, hurling you through the gate's event horizon.$}
 {
-	play $soundpath/Ship/Move/Jumpgate.wav
+	play Ship/Move/Jumpgate.wav
 }
 {5}
 
 #ACTION {^You hear a deep hum as the starship begins an intrasector subwarp.$}
 {
-	play $soundpath/Ship/Move/Subwarp.wav
+	play Ship/Move/Subwarp.wav
 }
 {5}
 
 #ACTION {^You hear a low rumbling sound as the wormhole drive opens a wormhole.$}
 {
-	play $soundpath/Ship/Move/ftl.wav
+	play Ship/Move/ftl.wav
 }
 {5}
 
 #ACTION {^You hear a sharp whine as the starship begins an intrasector slip.$}
 {
-	play $soundpath/Ship/Move/slip.wav
+	play Ship/Move/slip.wav
 }
 {5}
 
 #ACTION {^You hear the sounds of the atmospheric scoop activating.$}
 {
-	play $soundpath/salvagescoop.wav
+	play salvagescoop.wav
 }
 {5}
 
 #ACTION {^You thrust a small shovel into the ground and begin methodically removing large chunks of dirt.$}
 {
-	play $soundpath/General/Archaeology/Shovel@rnd{12}.wav
+	play General/Archaeology/Shovel@rnd{12}.wav
 }
 {5}
 
 #ACTION {^You wipe your brow and cease digging.}
 {
-	play $soundpath/General/Archaeology/Cease.wav
+	play General/Archaeology/Cease.wav
 }
 {5}
 
 #ACTION {^[Frequency %*]}
 {
-	play $soundpath/General/Comm/Metaf.wav
+	play General/Comm/Metaf.wav
 }
 {5}
 
 #ACTION {^[General Communication]}
 {
-	play $soundpath/General/Comm/General.wav
+	play General/Comm/General.wav
 }
 {5}
 
 #ACTION {^[Newbie]}
 {
-	play $soundpath/General/Comm/Newbie.wav
+	play General/Comm/Newbie.wav
 }
 {5}
 
 #ACTION {^[Private}
 {
-	play $soundpath/General/Comm/private.wav
+	play General/Comm/private.wav
 }
 {5}
 
 #ACTION {^[Short-range Communication]}
 {
-	play $soundpath/General/Comm/Short.wav
+	play General/Comm/Short.wav
 }
 {5}
 
 #ACTION {cannons are fired.$}
 {
-	play $soundpath/Ship/Combat/Cannon1.wav
+	play Ship/Combat/Cannon1.wav
 }
 {5}
 
 #ACTION {fired from the ship's cannons.$}
 {
-	play $soundpath/Ship/Combat/Cannon1.wav
+	play Ship/Combat/Cannon1.wav
 }
 {5}
 
 #ACTION {has a lock on this starship.$}
 {
-	play $soundpath/Ship/Combat/LockedOnYou.wav
+	play Ship/Combat/LockedOnYou.wav
 }
 {5}
 
@@ -291,6 +291,8 @@
 #GAG              {^The pull of acceleration eases off as the craft completes its maneuvering.$}
 #GAG              {^The room is bathed in brilliant red and green light as the ship's laser turrets}
 #GAG              {^The ship jerks slightly as its turrets are fired.$}
+#GAG              {^The sound of the relativity drive echoes through the room as it propels the ship towards space.$}
+#GAG              {^The sounds of the relativity drive calm as the starship completes its final maneuver into space.$}
 #GAG              {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
 #GAG              {^The starship begins vibrating violently as the hum picks up in intensity.}
 #GAG              {^The starship shudders beneath your feet. It feels like the hull is breaking apart around you.$}
@@ -332,8 +334,13 @@
 #SUBSTITUTE       {^Current coordinates: %*}      {%1}  {5}
 #SUBSTITUTE       {^Praelor %w %d (%*)}  {%3}  {5}
 #SUBSTITUTE       {^Praelor %w %d: %*}  {%3}  {5}
-#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{unpowered}{safe}{safe}{type}{starship}}
-#VARIABLE         {soundpath}  {$soundpath}
-#VARIABLE         {volume}  {1}
+#VARIABLE         {Volume}  {{ComputerVoice}{0.25}{GameSounds}{0.15}}
+#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{unpowered}{safe}{safe}{type}{station}}
+#VARIABLE         {soundpath}  {./Miriani/Sounds/}
+#VARIABLE         {volume}  {0.15}
 
 #CLASS {Miriani} CLOSE
+
+#read ./Miriani/AtmoSalvage.tin
+#read Numpad-walk.tin
+#read ./Miriani/Out-Of-Band.tin

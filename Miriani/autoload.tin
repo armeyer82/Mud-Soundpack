@@ -1,0 +1,6 @@
+#read ./Miriani/script.tin
+#read ./Miriani/AtmoSalvage.tin
+#read ./Miriani/Ship-Comm.tin
+#read ./Miriani/Out-Of-Band.tin
+#read Numpad-walk.tin
+

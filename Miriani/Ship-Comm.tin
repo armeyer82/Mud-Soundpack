@@ -1,0 +1,12 @@
+#CLASS {Ship-Comm} OPEN
+
+#ACTION {%1's voice comes over the intercom}
+{
+	play Ship/Comm/PA@rnd{8}.wav
+}
+{5}
+
+#SUBSTITUTE       {%1's voice comes over the intercom, saying, "%2"}                              {%1, "%2"}  {5}
+#VARIABLE         {PA}  {{1}{Nothing}}
+
+#CLASS {Ship-Comm} CLOSE

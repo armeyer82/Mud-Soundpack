@@ -863,11 +863,6 @@
 	#math result {%1 * 7.74}
 }
 
-#FUNCTION {rnd}
-{
-	#math result {1 d %1}
-}
-
 #FUNCTION {time}
 {
 	#format result %t %H:%M:%S
@@ -993,26 +988,6 @@
 	#line log {review.txt} {$review};
 	#system say -v alex -r 525 -f review.txt;
 	#system rm review.txt
-}
-
-#MACRO {\eOP}
-{
-	rel
-}
-
-#MACRO {\eOQ}
-{
-	mini
-}
-
-#MACRO {\eOR}
-{
-	auto
-}
-
-#MACRO {\eOS}
-{
-	manual
 }
 
 #MACRO {\em}

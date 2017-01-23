@@ -1,0 +1,37 @@
+#CLASS {Out-Of-Band} OPEN
+
+#ACTION {^#$#mcp version:}
+{
+	#send #$#register_soundpack Tintin Soundpacks for Mac | 1.0
+}
+{5}
+
+#ACTION {^#$#soundpack environment %w | %w | %w}
+{
+	#variable environment[type] %1;
+	#variable environment[safe] %2;
+	#variable environment[lighted] %3
+}
+{5}
+
+#ACTION {^#$#soundpack environment starship %w | %w | %w | %w}
+{
+	#variable environment[type] starship;
+	#variable environment[location] %1;
+	#variable environment[powered] %2;
+	#variable environment[safe] %3;
+	#variable environment[lighted] %4
+}
+{5}
+
+#ACTION {^#$#soundpack planet %1 | %w | %w}
+{
+	#variable environment[type] planet;
+	#variable environment[safe] %2;
+	#variable environment[lighted] %3
+}
+{5}
+
+#GAG              {^#$#}
+
+#CLASS {Out-Of-Band} CLOSE

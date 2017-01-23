@@ -1,0 +1,131 @@
+#CLASS {AtmoSalvage} OPEN
+
+#ACTION {The computer announces, "Warning, avian lifeform in processing chamber. Expelling..."}
+{
+	play General/Atmo/SalvageLifeform@math{1d2}.wav
+}
+{5}
+
+#ACTION {^A gust of atmospheric wind suddenly buffets the ship%1}
+{
+	play Ship/Misc/WindGust@math{1d2}.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The pull of acceleration eases off as the craft completes its maneuvering.}
+{
+	play General/Atmo/salvagestop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The pull of acceleration eases off as the ship ceases its ascent.}
+{
+	play General/Atmo/salvagestop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The pull of acceleration eases off as the ship ceases its descent.}
+{
+	play General/Atmo/salvagestop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The ship comes to a halt in the planet's atmosphere.}
+{
+	play General/Atmo/salvagestop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The vehicle carefully maneuvers into the docking bay.}
+{
+	play General/Misc/SalvagerReturns.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The vehicle manages to break free from the pocket of wind and stabilize its course.}
+{
+	play General/Atmo/salvagestop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The vehicle suddenly hits a pocket of fierce wind%1}
+{
+	play Ship/Misc/Wind.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You carefully pilot the vehicle into a small chamber above the docking bay.}
+{
+	play General/Atmo/SalvageLaunch.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You climb out of the vehicle%2}
+{
+	play Ship/Misc/HatchExit.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You feel the pull of acceleration as the craft navigates through the atmosphere.}
+{
+	play General/Atmo/salvagemove.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You feel the pull of acceleration as the ship begins ascending through the planet's atmosphere.}
+{
+	play General/Atmo/salvagemove.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You feel the pull of acceleration as the ship begins descending through the planet's atmosphere.}
+{
+	play General/Atmo/salvagemove.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear a gentle thud as the salvager sets down in the docking bay.}
+{
+	play General/Misc/SalvagerLands.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear a sharp whine as the vehicle accelerates through the%1}
+{
+	play General/Atmo/SalvageDescent.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear the sounds of the atmospheric scoop activating.}
+{
+	play General/Atmo/salvagescoop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You open the hatch of a standard atmospheric salvager called%2 and climb inside%3}
+{
+	play Ship/Misc/HatchEnter.wav;
+	#line gag
+}
+{5}
+
+#GAG              {"Vehicle catapult active. Prepare for extreme acceleration."}
+#GAG              {You are suddenly pressed against your seat as the vehicle is catapulted out of the docking bay.}
+
+#CLASS {AtmoSalvage} CLOSE

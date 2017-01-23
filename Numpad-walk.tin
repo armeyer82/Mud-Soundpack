@@ -1,0 +1,64 @@
+#CLASS {Numpad-walk} OPEN
+
+#MACRO {\eOl}
+{
+	u
+}
+
+#MACRO {\eOm}
+{
+	d
+}
+
+#MACRO {\eOp}
+{
+	l
+}
+
+#MACRO {\eOq}
+{
+	sw
+}
+
+#MACRO {\eOr}
+{
+	s
+}
+
+#MACRO {\eOs}
+{
+	se
+}
+
+#MACRO {\eOt}
+{
+	w
+}
+
+#MACRO {\eOu}
+{
+	out
+}
+
+#MACRO {\eOv}
+{
+	e
+}
+
+#MACRO {\eOw}
+{
+	nw
+}
+
+#MACRO {\eOx}
+{
+	n
+}
+
+#MACRO {\eOy}
+{
+	ne
+}
+
+
+#CLASS {Numpad-walk} CLOSE
