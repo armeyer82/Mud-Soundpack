@@ -32,6 +32,22 @@
 }
 {5}
 
+#ACTION {^#$#soundpack status %w}
+{
+	#switch {"%1"}
+	{
+		#case {"ok"}
+		{
+			#showme Your soundpack is up to date
+		};
+		#case {"unknown"}
+		{
+			#showme There was a problem registering your soundpack with the MOO.
+		}
+	}
+}
+{5}
+
 #GAG              {^#$#}
 
 #CLASS {Out-Of-Band} CLOSE

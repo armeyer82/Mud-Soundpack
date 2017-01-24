@@ -8,3 +8,4 @@
 #read ./Miriani/User.tin
 #read ./Miriani/Ship-Misc.tin
 #read ./Miriani/CameraFeed.tin
+#read ./Miriani/Devices.tin
