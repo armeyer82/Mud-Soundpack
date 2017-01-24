@@ -37,12 +37,6 @@
 }
 {5}
 
-#ACTION {^The pull of acceleration eases off as the craft completes its maneuvering.$}
-{
-	play SalvageStop.wav
-}
-{5}
-
 #ACTION {^The ship jerks slightly as its turrets are fired.$}
 {
 	play Ship/Combat/Laser1.wav
@@ -50,18 +44,6 @@
 {5}
 
 #ACTION {^The sound of the relativity drive echoes through the room as it propels the ship towards space.$}
-{
-	play Ship/Move/YouLaunch2.wav
-}
-{5}
-
-#ACTION {^The sound of the relativity drive echos through the room as it propels}
-{
-	play Ship/Move/YouLaunch2.wav
-}
-{5}
-
-#ACTION {^The sound of the relativity drive echos through the room as it propels the ship towards space.$}
 {
 	play Ship/Move/YouLaunch2.wav
 }
@@ -79,34 +61,9 @@
 }
 {5}
 
-#ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
-{
-	play salvagelaunch.wav
-}
-{5}
-
-#ACTION {^You begin gently brushing dirt aside with a small brush.}
-{
-	play General/Archaeology/Brush@rnd{8}.wav;
-	#line GAG
-}
-{5}
-
-#ACTION {^You cease digging.}
-{
-	play General/Archaeology/Cease.wav
-}
-{5}
-
 #ACTION {^You feel mild acceleration as the ship descends}
 {
 	play Ship/Move/YouLanding.mp3
-}
-{5}
-
-#ACTION {^You feel the pull of acceleration as the craft navigates through the atmosphere.$}
-{
-	play SalvageMove.wav
 }
 {5}
 
@@ -137,24 +94,6 @@
 #ACTION {^You hear a sharp whine as the starship begins an intrasector slip.$}
 {
 	play Ship/Move/slip.wav
-}
-{5}
-
-#ACTION {^You hear the sounds of the atmospheric scoop activating.$}
-{
-	play salvagescoop.wav
-}
-{5}
-
-#ACTION {^You thrust a small shovel into the ground and begin methodically removing large chunks of dirt.$}
-{
-	play General/Archaeology/Shovel@rnd{12}.wav
-}
-{5}
-
-#ACTION {^You wipe your brow and cease digging.}
-{
-	play General/Archaeology/Cease.wav
 }
 {5}
 
@@ -206,53 +145,12 @@
 }
 {5}
 
-#ALIAS {f}
-{
-	la
-}
-{5}
-
-#ALIAS {fo}
-{
-	focus
-}
-{5}
-
-#ALIAS {grp}
-{
-	group
-}
-{5}
-
-#ALIAS {rel}
-{
-	reload
-}
-{5}
-
 #ALIAS {savescript}
 {
 	#class Miriani write ./Miriani/script.tin
 }
 {5}
 
-#ALIAS {sf}
-{
-	shoot fuzzy
-}
-{5}
-
-#ALIAS {ufo}
-{
-	unfocus
-}
-{5}
-
-#ALIAS {ung}
-{
-	ungroup
-}
-{5}
 
 #GAG              {Target: Starship}
 #GAG              {The room is filled with}
@@ -309,10 +207,6 @@
 #GAG              {has a lock on this starship.}
 #GAG              {has a lock on this starship.$}
 #GAG              {laser turrets are fired}
-#MACRO {\er}
-{
-	play -qV0 speak.aiff gain -6 reverb &
-}
 
 #SUBSTITUTE       {^Current coordinates: %*}      {%1}  {5}
 #SUBSTITUTE       {^Praelor %w %d (%*)}  {%3}  {5}

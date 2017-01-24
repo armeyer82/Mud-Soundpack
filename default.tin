@@ -1,7 +1,13 @@
 #class {Main} OPEN
 
+#MACRO {\er}
+{
+	#system play -qV0 speak.aiff vol $Volume[ComputerVoice] pad 0 3 reverb &
+}
+
 #ACTION {^The computer announces, "%*"}
 {
+	play Ship/Computer/Announce@rnd{4}.wav;
 	speech %1
 }
 {6}

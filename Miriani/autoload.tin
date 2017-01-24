@@ -5,3 +5,6 @@
 #read Numpad-walk.tin
 #read ./Miriani/Archaeology.tin
 #read ./Miriani/Combat.tin
+#read ./Miriani/User.tin
+#read ./Miriani/Ship-Misc.tin
+#read ./Miriani/CameraFeed.tin

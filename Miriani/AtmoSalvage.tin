@@ -1,5 +1,11 @@
 #CLASS {AtmoSalvage} OPEN
 
+#ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
+{
+	play salvagelaunch.wav
+}
+{5}
+
 #ACTION {The computer announces, "Warning, avian lifeform in processing chamber. Expelling..."}
 {
 	play General/Atmo/SalvageLifeform@math{1d2}.wav
