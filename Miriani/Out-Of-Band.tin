@@ -2,7 +2,7 @@
 
 #ACTION {^#$#mcp version:}
 {
-	#send #$#register_soundpack Tintin Soundpacks for Mac | 1.0
+	#send #$#register_soundpack Tintin Soundpacks for Mac | 2.0
 }
 {5}
 
