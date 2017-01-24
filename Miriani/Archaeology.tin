@@ -1,0 +1,55 @@
+#CLASS {Archaeology} OPEN
+
+/*
+#ACTION {^A level %* archaeological dig site scanner indicates that there is an artifact buried approximately}
+{
+	play General/Archaeology/ArtifactHere.wav
+}
+{5}
+*/
+
+#ACTION {^A level %* archaeological dig site scanner reports that there is an object in the immediate area.$}
+{
+	play General/Archaeology/ArtifactNear.wav
+}
+{5}
+
+#ACTION {^A level %* archaeological dig site scanner reports nothing nearby.}
+{
+	play General/Archaeology/NothingFound.wav
+}
+{5}
+
+#action {^You press a small button on the side of a level 
+#%1 archaeological dig site scanner and begin directing it toward 
+#several likely locations.}
+{ play general/archaeology/scanner@rnd{4}.wav
+}
+
+#action {^A level %1 archaeological dig site scanner indicates that you 
+#%2}
+{ play general/archaeology/artifactNear.wav
+}
+
+#action {A level %1 archaeological dig site scanner indicates that there 
+#is an artifact buried approximately %2 meters beneath the surface.}
+{ play general/archaeology/artifacthere.wav
+} 
+
+#action {^You thrust a small shovel into the ground and begin 
+#methodically removing large chunks of dirt.}
+{ play general/archaeology/shovel@rnd{4}.wav;
+#line gag
+}
+
+#action {%1cease digging.%2}
+{ play General/Archaeology/Cease.wav;
+#line gag
+}
+
+#action {^You begin gently brushing dirt aside with a small brush.}
+{ play General/Archaeology/Brush@rnd{8}.wav;
+#line gag
+}
+
+#CLASS {Archaeology} CLOSE

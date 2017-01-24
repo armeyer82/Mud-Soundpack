@@ -1,0 +1,10 @@
+#CLASS {CameraFeed} OPEN
+
+#ACTION {^(%*)}
+{
+	play General/Devices/CameraFeed.wav
+}
+{5}
+
+
+#CLASS {CameraFeed} CLOSE

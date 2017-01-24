@@ -1,5 +1,13 @@
+#class {Main} OPEN
+
+#MACRO {\er}
+{
+	#system play -qV0 speak.aiff vol $Volume[ComputerVoice] pad 0 3 reverb &
+}
+
 #ACTION {^The computer announces, "%*"}
 {
+	play Ship/Computer/Announce@rnd{4}.wav;
 	speech %1
 }
 {6}
@@ -22,6 +30,12 @@
 }
 {5}
 
+#ALIAS {play %*.{wav|mp3|aiff}}
+{
+	#system play -qV0 $soundpath/%1.%2 vol $Volume[GameSounds] &
+}
+{5}
+
 #ALIAS {soundpack-test}
 {
 	#system say -v samantha -r 255 "This is a test." -o test.aiff;
@@ -34,7 +48,7 @@
 {
 	#system rm speak.aiff &;
 	#system say -v samantha -r 255 "%0" -o speak.aiff;
-	#system play -qV0 speak.aiff gain -6 pad 0 3 reverb &
+	#system play -qV0 speak.aiff vol $Volume[ComputerVoice] pad 0 3 reverb &
 }
 {6}
 
@@ -59,7 +73,7 @@
 #CONFIG           {WORDWRAP}  {ON}
 #EVENT {SESSION CONNECTED}
 {
-	#class %0 read ./%0/script.tin
+	#read ./%0/autoload.tin
 }
 
 #FUNCTION {date}
@@ -67,9 +81,68 @@
 	#format result %t %m-%d-%Y
 }
 
+#FUNCTION {increment}
+{
+	#math result {1+%1};
+	#format result {%d} {$result}
+}
+
 #FUNCTION {rnd}
 {
-	#math result { 1 d %1}
+	#math result { 1 d %1};
+	#format result %d $result
+}
+
+#MACRO {\e<}
+{
+	#math tempvolume {$Volume[$VolumeSetting]-0.05};
+	#math Volume[$VolumeSetting] {$Volume[$VolumeSetting]-0.05};
+	#showme Volume: $Volume[$VolumeSetting]
+}
+
+#MACRO {\e>}
+{
+	#math Volume[$VolumeSetting] {$Volume[$VolumeSetting]+.05};
+	#showme Volume: $Volume[$VolumeSetting]
+}
+
+#MACRO {\eOP}
+{
+	#session -
+}
+
+#MACRO {\eOQ}
+{
+	#session +
+}
+
+#MACRO {\eOR}
+{
+	#snoop
+}
+
+#MACRO {\eOS}
+{
+	#variable VolumeSetting GameSounds;
+	#showme Adjusting Game Sounds. Current Volume is: $Volume[$VolumeSetting]
+}
+
+#MACRO {\e[15~}
+{
+	#variable VolumeSetting ComputerVoice;
+	#showme Adjusting computer's voice volume. Current volume is: $Volume[$VolumeSetting]
+}
+
+#MACRO {\e[19~}
+{
+	#showme Current volume: $volume
+}
+
+#MACRO {\e[20~}
+{
+	#math tempvolume {$volume-0.05};
+	#math volume {$volume-0.05};
+	#showme Volume: $volume
 }
 
 #PATHDIR          {d}  {u}  {32}
@@ -82,4 +155,8 @@
 #PATHDIR          {sw}  {ne}  {12}
 #PATHDIR          {u}  {d}  {16}
 #PATHDIR          {w}  {e}  {8}
+#VARIABLE         {VolumeSetting}  {ComputerVoice}
 #VARIABLE         {result}  {2}
+#VARIABLE         {tempvolume}  {0.35}
+
+#class {Main} CLOSE

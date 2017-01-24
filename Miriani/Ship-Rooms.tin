@@ -1,0 +1,22 @@
+#CLASS {Ship-Rooms} OPEN
+
+#ACTION {^["%1" %w %w]}
+{
+	#showme %2
+}
+{5}
+
+#FUNCTION {IsPoweredStarship}
+{
+	#if {("$environment[type]" == "starship") && ("$environment[powered]" == "powered")}
+	{
+		#variable result 1
+	};
+	#else
+	{
+		#variable result 0
+	}
+}
+
+
+#CLASS {Ship-Rooms} CLOSE

@@ -1,0 +1,47 @@
+#CLASS {User} OPEN
+
+#ALIAS {sf}
+{
+	shoot fuzzy
+}
+{5}
+
+
+#ALIAS {f}
+{
+	la
+}
+{5}
+
+#ALIAS {fo}
+{
+	focus
+}
+{5}
+
+#ALIAS {grp}
+{
+	group
+}
+{5}
+
+#ALIAS {rel}
+{
+	reload
+}
+{5}
+
+#ALIAS {ufo}
+{
+	unfocus
+}
+{5}
+
+#ALIAS {ung}
+{
+	ungroup
+}
+{5}
+
+
+#CLASS {User} CLOSE
