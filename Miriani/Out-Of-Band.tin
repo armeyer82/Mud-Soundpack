@@ -2,7 +2,7 @@
 
 #ACTION {^#$#mcp version:}
 {
-	#send #$#register_soundpack Tintin Soundpacks for Mac | 2.0.1
+	#send #$#register_soundpack Tintin Soundpacks for Mac | 2.0.2
 }
 {5}
 
@@ -62,6 +62,12 @@
 }
 {5}
 
+#ACTION {^Your soundpack has been updated to version}
+{
+	play General/Misc/UpdateAlert.wav
+}
+{5}
+
 #ALIAS {ping}
 {
 	#showme As of $LAG[Date] at $LAG[Time], there is $LAG[MS] milliseconds of lag.
@@ -74,6 +80,6 @@
 }
 
 #GAG              {^#$#}
-#VARIABLE         {LAG}  {{Date}{12-03-2017}{MS}{106}{Time}{00:13}}
+#VARIABLE         {LAG}  {{Date}{05-21-2018}{MS}{106}{Time}{21:42}}
 
 #CLASS {Out-Of-Band} CLOSE
