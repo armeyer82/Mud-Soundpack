@@ -13616,3 +13616,175 @@ You can go northwest, north, northeast, south, and down.
 
 21:15 #$#soundpack_lag 119
 
+21:16 #$#soundpack_pong
+
+21:16 #$#soundpack_lag 109
+
+21:17 #$#soundpack_pong
+
+21:17 #$#soundpack_lag 106
+
+21:18 #$#soundpack_pong
+
+21:18 #$#soundpack_lag 98
+
+21:18 WARNING: These soundpacks are not created, endorsed, monitored, or reviewed in any way by Toastsoft or the Miriani hosts. Please use caution when downloading unknown files from potentially shady individuals!
+
+21:18 [1] Not Real
+[2] MushPack11
+[3] Miriani Soundpack for VIP Mud
+[4] MiriMush
+[5] MUSHMiriani [classic]
+[6] Tintin Soundpacks for Mac
+[7] Mushy Miriani
+[8] Macriani
+[9] Tintin Miriani
+[10] Tt-miriani
+[11] Flag Inaccurate Soundpack
+[12] Submit Your Own
+Enter your selection:
+[Type a line of input or `@abort' to abort the command.]
+
+21:18 ----------
+tt-miriani
+----------
+Version: 0.1
+Last updated: 04/29/18
+Website: github.com/tcikoritys/tt-miriani
+Download: github.com/tcikoritys/tt-miriani
+Maintainer: John Bloomingburg
+Supported clients:
+  Tintin
+----------
+
+21:18 Command help: @SOUNDPACKS - Display a list of available soundpacks that utilize advanced in-game triggers.
+That matches multiple help files. Please be more specific: 
+[1] FAQ
+[2] Secondary Topic: Soundpack Hooks
+[3] Secondary Topic: Disable Out-Of-Band Soundpack Social Messages
+Enter your selection:
+[Type a line of input or `@abort' to abort the command.]
+
+21:19 #$#soundpack_pong
+
+21:19 #$#soundpack_lag 114
+
+21:19 --------------------------------------------------
+Soundpack Hooks
+--------------------------------------------------
+  Introduction
+Miriani provides a number of useful out-of-band hooks that soundpack creators can use to enhance their soundpacks. Typically these hooks will provide information to the soundpack that could not ordinarily be gleaned from triggers alone. This help file will explain how to create a soundpack that can communicate with the MOO and will document the available hooks.
+NOTE: You may need to view this section on the website, as it contains text that may be interpreted by your client as out-of-band commands and hidden from view. The URL is: http://toastsoft.net:1111/help2/Soundpack%20Hooks
+  Soundpack Creation
+First, your soundpack must be registered with the game in the soundpack registry. This allows the game to know who is using which soundpack and also allows other players to locate your soundpack. The following commands will be useful in the creation process:
+@register-soundpack: This will ask you some questions about the name, version, clients, website, and download URL for your soundpack. This is step one!
+@update-soundpack: This will update the version and, if necessary, download link to your soundpack. Once you execute this command, an update announcement will be sent to any connected users of your soundpack.
+@soundpacks: Provides a list of soundpacks for your perusal.
+
+21:19   Soundpack Negotiation
+When a player connects to Miriani, your soundpack will need to send a command in the following format:
+Request: #$#register_soundpack <Soundpack Name> | <Soundpack Version>
+Example: #$#register_soundpack Not Real | 10.9.8
+The MOO will respond with a message in the format:
+Response: #$#soundpack status <ok | outdated | unknown>
+Example: #$#soundpack status ok
+Ok means everything is good to go. Outdated means that your version of the soundpack doesn't match that of the MOO. The MOO will give you a warning and a download link. With both of these cases, a flag is set on your character and you will receive the special soundpack notifications. However, if it says unknown, this means your soundpack wasn't found in the registry and nothing has happened.
+Alternatively, if you wish to register your soundpack BEFORE login, you can have it send the registration command at the username prompt BEFORE the user types their username. For example:
+Username:
+>register_soundpack Not Real | 1.0
+>albori
+Password:
+>mypassword
+  Soundpack Hooks
+Message: #$#soundpack environment starship <space | landed> | <powered | unpowered> | <hostile | safe> | <light | dark> | <indoors | outdoors>
+Example: #$#soundpack environment starship space | powered | safe | light | indoors
+This indicates that the player is in a starship, in space, powered, in a safe environment with plenty of light. Indoors is included for completeness.
+Message: #$#soundpack environment planet <classification> | <hostile | safe> | <light | dark> | <indoors | outdoors>
+Example: #$#soundpack environment planet terrestrial | safe | light | outdoors
+Message: #$#soundpack environment room <hostile | safe> | <light | dark> | <indoors | outdoors>
+Example: #$#soundpack room safe | light | outdoors
+Message: #$#soundpack social | [social name] | [person's gender]
+Example: #$#soundpack social | grin | male
+Message: #$#soundpack emote | [person's gender] | [emote with quoted substrings removed]
+Example: #$#soundpack emote | male | Albori sighs wistfully and says while plunging a block of cheese into the trash.
+Message: #$#soundpack environment space | <hostile> | <light | dark>
+Example: #$#soundpack environment space | hostile | dark
+Indicates you're in space. Obviously it's always going to list as hostile and outdoors, but it shows for completeness.
+Message: #$#soundpack environment station | <hostile | safe> | <light | dark> | <indoors | outdoors>
+Example: #$#soundpack environment station safe | light | indoors
+Indicates you're on a space station, as I'm sure you guessed. For evident reasons, space stations will always display as indoors.
+Message: #$#soundpack environment vehicle <landed | atmosphere> | <planet classification | starship | asteroid>
+Example: #$#soundpack environment vehicle landed | starship
+If you're in a vehicle, indicate whether it's landed or in an atmosphere. If you're in the atmosphere, indicate the classification of the planet. If you're docked, indicate starship. If you're in a rover, (hopefully) indicate asteroid.
+Request: #$#soundpack_version_query <soundpack name>
+Response: #$#soundpack status <ok | outdated | unknown> | version <version>
+Example: #$#soundpack status ok | version 5.3
+This will return the last reported version from the user as well as whether or not it's ok, unknown, or outdated. If the user isn't using the soundpack given in <soundpack name> then "unknown" will be returned with no version.
+Request: #$#soundpack_ping
+Response: #$#soundpack_pong
+This command is typically used to test latency between client and server. Sending it will not alter idle time and can also help with poor connections, on top of the keep-alive system. See also: #$#soundpack_ping_reply
+Request: #$#soundpack_ping_reply <optional ms>
+Response: #$#soundpack_lag <time in seconds or milliseconds>
+Example: #$#soundpack_lag 0.1068115234375
+After receipt of a pong, this command can be used to reply, giving the game necessary data to calculate command latency. You can execute a ping sequence multiple times to obtain an average client-side. Including the ms argument will cause times to be displayed in milliseconds, rather than seconds.
+Request: #$#unregister_soundpack
+Unceremoniously unsets the soundpack flag on the player. Like a friend when you need to borrow money, there is no response.
+  Conclusion
+That should be everything you need to get started linking a soundpack to the game. If you have any questions, comments, bugs, or suggestions, please REPORT them or contribute to the message board thread mentioned below.
+The original suggestion thread, which may contain additional information or insight, can be found by board reference 53586. Users of the web board can find it here: http://toastsoft.net:1111/board/OOC/Suggestions~Ideas/thread/53586
+--------------------------------------------------
+
+21:19 I don't understand that.
+
+21:19 I don't understand that.
+
+21:19 I don't understand that.
+
+21:19 @UPDATE-SOUNDPACK - Updates information about your soundpack.
+
+21:20 #$#soundpack_pong
+
+21:20 #$#soundpack_lag 223
+
+21:20 What do you wish to change?
+[1] Version           [2.0]
+[2] Clients           [tintin++]
+[3] Website           [None]
+[4] Download Link     [https://github.com/armeyer82/mud-soundpacks.git]
+[5] Maintainer        [Tibo Beauchene]
+[6] Name              [Tintin Soundpacks for Mac]
+[7] Description       [Check @soundpacks]
+[8] Public maintainer [No]
+[9] Delete it! Forever! Permanently! Vamoose!
+[0] Done
+Enter your selection:
+[Type a line of input or `@abort' to abort the command.]
+
+21:20 What's the new version?
+[Type a line of input or `@abort' to abort the command.]
+
+21:20 What do you wish to change?
+[1] Version           [2.0.1]
+[2] Clients           [tintin++]
+[3] Website           [None]
+[4] Download Link     [https://github.com/armeyer82/mud-soundpacks.git]
+[5] Maintainer        [Tibo Beauchene]
+[6] Name              [Tintin Soundpacks for Mac]
+[7] Description       [Check @soundpacks]
+[8] Public maintainer [No]
+[9] Delete it! Forever! Permanently! Vamoose!
+[10] Notify connected users of update.
+[0] Done
+Enter your selection:
+[Type a line of input or `@abort' to abort the command.]
+
+21:20 Done!
+
+21:21 #$#soundpack_pong
+
+21:21 #$#soundpack_lag 108
+
+21:22 #$#soundpack_pong
+
+21:22 #$#soundpack_lag 105
+
