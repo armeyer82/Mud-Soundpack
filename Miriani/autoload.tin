@@ -16,6 +16,7 @@
 #read Numpad-walk.tin
 #read ./Miriani/Scanning.tin
 #Read ./Miriani/UserSettings.tin
+#read ./Miriani/configg.tin
 
 
 #read ./Miriani/User.tin

@@ -206,7 +206,6 @@
 #GAG              {^$}
 #GAG              {^A bright flash of blue light floods the room as the starship travels through the wormhole.}
 #GAG              {^The bright light vanishes as the starship emerges at the other side of the wormhole.}
-#GAG              {^The computer announces, "%*"}
 #GAG              {^The computer announces, "Hit on}
 #GAG              {^The computer announces, "Partial hit}
 #GAG              {^The computer announces, "The target has moved from the locked coordinates."}
