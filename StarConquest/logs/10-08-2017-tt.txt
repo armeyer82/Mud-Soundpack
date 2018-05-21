@@ -1,0 +1,574 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Aug 24 06:11:20 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at Old Frontier Processor; Docking Bay.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a black plastic
+tray of spider chow, a small white trash bin, Purr the humanoid service robot,
+and Prissy the big violet long-haired felo here.
+Lily Kaise, Phoenix Dissident is sitting on a rare black EAOSian contoured
+couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Have a party in your pilots' lounge once in a while. You'll definitely
+feel inspired to earn more points afterward!
+**
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Prissy the big violet long-haired felo wanders south.
+A long amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+chartreuse glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 210,390.82 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in The Belt of Orion.
+Lily Kaise, Phoenix Dissident says, "If he's leaving us off, I don't really care
+what happens to him."
+[Tactical Communication] Katina Faye transmits, "We'll be there in 7 minutes."
+[Tactical Communication] Katina Faye transmits, "How many are there?"
+[Tactical Communication] Erik Goodwin transmits, "Just a destroyer and fighter."
+[Tactical Communication] Katina Faye transmits, "Piece of cake."
+[Tactical Communication] Erik Goodwin transmits, "You'll probably scare them off
+when you arive."
+'Where?
+You ask, "Where?"
+Lily Kaise, Phoenix Dissident says, "285 I guess."
+'ah, ok
+You say, "Ah, ok."
+[Tactical Communication] Aron Johnson transmits, "Well that's not fun."
+[Tactical Communication] Katina Faye transmits, "I'll take that as a
+compliment."
+Lily Kaise, Phoenix Dissident says, "But others are goingout there but it's
+goodwin and I have no sympathy for him."
+caress lily on back
+You gently caress Lily Kaise, Phoenix Dissident's back.
+nod lily
+You nod to Lily Kaise, Phoenix Dissident.
+Lily gently rubs your back.
+Lily Kaise, Phoenix Dissident says, "Seriously though I've gotten pounded too
+while building but I dealt with things."
+nod
+You nod.
+'Yep
+You say, "Yep."
+Lily Kaise, Phoenix Dissident says, "These guys are such fraidy cats."
+chuckle
+You chuckle.
+Lily Kaise, Phoenix Dissident says, "All he had to do was note his coordinates,
+go land on the repair or any other station and eventually they would leave."
+'exactly
+You say, "Exactly."
+'And he's supposed to be a good combat pilot.
+You say, "And he's supposed to be a good combat pilot."
+chuckle
+You chuckle.
+Lily Kaise, Phoenix Dissident says, "Heh yeah well you certainly aren't if
+you're going to whine about a destroyer and a fighter tapping your hull."
+Lily Kaise, Phoenix Dissident says, "And why can't he solo it? The Weapon rooms
+aren't that far away."
+laugh
+You laugh.
+Lily Kaise, Phoenix Dissident laughs.
+'who knows.
+You say, "Who knows."
+'because he's probably not as good as he makes himself out to be.
+You say, "Because he's probably not as good as he makes himself out to be."
+Lily Kaise, Phoenix Dissident exclaims, "Heh exactly!"
+Lily Kaise, Phoenix Dissident says, "It's funny that others call him an idiot."
+'yep, they do.
+You say, "Yep, they do."
+Lily Kaise, Phoenix Dissident says, "Ok, if it was anything major out there, I
+know we'd go assist though. I'm just saying."
+nod lily
+You nod to Lily Kaise, Phoenix Dissident.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+chartreuse glowing interior drifts slowly across the tank.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 210,384.25 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in The Belt of Orion.
+A large thickly-shelled creature with a red shell and four small claws raises
+its claws at a small plastic statue of a shark and snaps them menacingly while
+dancing around it.
+A short red soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders
+in from the south.
+Cheri-Pye the large light violet felo jumps into your lap and settles in,
+purring.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+pet cheri
+You stroke the soft fur of Cheri-Pye the large light violet felo.
+Cheri-Pye the large light violet felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+sienna glowing interior drifts slowly past a string of light purple plastic
+kelp.
+who
+There appear to be about 14 pilots recently active.
+The communicator network and Accord QE comm detect:
+Shule Elemmire, Phoenix Dissident  (A) [m]
+Lily Kaise, Phoenix Dissident  (A)
+%Jonathan Gray  (A) [m]
+Erik Goodwin  (L)
+Aron Johnson  (L)
+Katina Faye  (L)
+%Sarah Bellamy  (L)
+%Nissi Valdaire  (L) [a]
+%Wendy Arroyo  (L)
+%Melinda Michaels  (L)
+%Emily Ford  (L)
+%Johann Schraft  (L)
+%Ali Candan  (L)
+%Evenia Callseah  (F)
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 9 pilots who were active but
+dropped out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 24 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A large thickly-shelled creature with a red shell and four small claws grips a
+white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+A long gold soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+Prissy the big violet long-haired felo wanders in from the south.
+Cheri-Pye the large light violet felo jumps down from your lap.
+Cheri-Pye the large light violet felo seems to be hungry.
+Cheri-Pye the large light violet felo approaches a glossy silver ceramic felo
+chow bowl, glances around, then begins shoveling low-grade dry Felo Chow into
+its mouth.
+Prissy the big violet long-haired felo wanders out.
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders
+out.
+A long gold soft-bodied creature with many claw-tipped tentacles swims around a
+string of light purple plastic kelp.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Prissy the big violet long-haired felo wanders in from the airlock.
+Lily says to you, "Ok guess I'll go back out and continue building the site."
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+Lily Kaise, Phoenix Dissident stands up from a rare black EAOSian contoured
+couch with a hand-made white and sapphire star quilt on it.
+Lily Kaise, Phoenix Dissident glides out.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+KitCat the humanoid service robot, a personal hoverpallet, and Cheri-Pye the
+large light violet felo here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+s
+[Old Frontier Processor; Docking Bay]
+The five-person A.S.S. tactical platform "William Dove", the scout "White
+Eagle", and the two-person flare "Deadly Strike" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt, a
+small natural golden brown trash bin, and an insulated white cooler here.
+Lily Kaise, Phoenix Dissident is standing here.
+You can go north.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+sit couch
+You sit down on a large leather couch.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident sighs.
+-lily What?
+You say to Lily, "What?"
+Lily Kaise, Phoenix Dissident says, "I had a nice metal rich and I didn't put
+down a processor by accident so tried to get enough metals and couldn't."
+'Aww
+You say, "Aww."
+Lily Kaise, Phoenix Dissident exclaims, "Then I was given a rocky darn!"
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+squeeze lily
+I don't see that here.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily says to you, "Oh nice though I still got more ore than I generally do for a
+rocky."
+grin lily
+You grin at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident grins at you.
+'awesome!
+You exclaim, "Awesome!"
+Lily Kaise, Phoenix Dissident says, "I sure was looking forward to the Metal
+Rich. I just got into a jamb there."
+nod lily
+You nod to Lily Kaise, Phoenix Dissident.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+Lily Kaise, Phoenix Dissident smiles at you.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+kiss lily on lips
+I don't see "lily" here.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident opens an insulated white cooler and the light
+inside clicks on.
+Lily Kaise, Phoenix Dissident helps herself to a slice of sausage and roasted
+pepper pizza.
+Lily Kaise, Phoenix Dissident removes a frosty mug full of root beer from an
+insulated white cooler.
+Lily Kaise, Phoenix Dissident takes a bite of a slice of sausage and roasted
+pepper pizza.
+Lily says to you, "There's a lot of rather good pizza in there."
+Lily Kaise, Phoenix Dissident takes a bite of a slice of sausage and roasted
+pepper pizza.
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+nod and smile 'I'll grab some in a bit.
+You nod and smile. "I'll grab some in a bit."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Lily Kaise, Phoenix Dissident says, "Ok."
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident takes a bite of a slice of sausage and roasted
+pepper pizza.
+Lily Kaise, Phoenix Dissident takes a bite of a slice of sausage and roasted
+pepper pizza.
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident finishes off a slice of sausage and roasted pepper
+pizza.
+Lily Kaise, Phoenix Dissident helps herself to a breadstick sprinkled with
+parmesan and romano cheeses.
+Lily Kaise, Phoenix Dissident takes a bite of a breadstick sprinkled with
+parmesan and romano cheeses.
+Lily Kaise, Phoenix Dissident takes a bite of a breadstick sprinkled with
+parmesan and romano cheeses.
+Lily Kaise, Phoenix Dissident takes a bite of a breadstick sprinkled with
+parmesan and romano cheeses.
+Lily Kaise, Phoenix Dissident finishes off a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident puts a mug in a small natural golden brown trash
+bin.
+Lily Kaise, Phoenix Dissident removes a generous wedge of chocolate cheesecake
+from an insulated white cooler.
+Lily Kaise, Phoenix Dissident takes a bite of a breadstick sprinkled with
+parmesan and romano cheeses.
+Lily Kaise, Phoenix Dissident finishes off a breadstick sprinkled with parmesan
+and romano cheeses.
+Lily Kaise, Phoenix Dissident removes a frosty mug full of root beer from an
+insulated white cooler.
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+\kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+Lily Kaise, Phoenix Dissident smiles at you.
+smile lily
+Lily Kaise, Phoenix Dissident takes a bite of a generous wedge of chocolate
+cheesecake.
+You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+Lily Kaise, Phoenix Dissident squeezes you affectionately.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on League
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Temporary Name Aleph".
+'It's nice to be back on the BAS.
+You say, "It's nice to be back on the BAS."
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident takes a bite of a generous wedge of chocolate
+cheesecake.
+Lily Kaise, Phoenix Dissident takes a bite of a generous wedge of chocolate
+cheesecake.
+Lily Kaise, Phoenix Dissident takes a bite of a generous wedge of chocolate
+cheesecake.
+Lily Kaise, Phoenix Dissident finishes off a generous wedge of chocolate
+cheesecake.
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident takes a sip of a frosty mug full of root beer.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on League
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Temporary Name Aleph".
+Lily Kaise, Phoenix Dissident says, "Yay no stolen metals so far heh."
+Lily Kaise, Phoenix Dissident tunes a neon purple metachannel FTL communicator.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+kiss  lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident sits down on a large leather couch.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise, Phoenix Dissident.
+-lily Hi beautiful.
+You say to Lily, "Hi beautiful."
+"Hey handsome!" Lily Kaise, Phoenix Dissident smiles at you.
+grin lily
+You grin at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident finishes off a day old frosty mug full of root
+beer.
+Lily Kaise, Phoenix Dissident puts a mug in a small natural golden brown trash
+bin.
+get orange and cream
+You remove a day old frosty mug filled with mixed orange and cream sodas from an
+insulated white cooler.
+drink mug
+You take a sip of a day old frosty mug filled with mixed orange and cream sodas.
+drink mug
+You take a sip of a day old frosty mug filled with mixed orange and cream sodas.
+drink mug
+You take a sip of a day old frosty mug filled with mixed orange and cream sodas.
+get sausage
+You help yourself to a slice of sausage and roasted pepper pizza.
+eat sausage
+You take a bite of a day old slice of sausage and roasted pepper pizza.
+eat sausage
+You take a bite of a day old slice of sausage and roasted pepper pizza.
+eat sausage
+You take a bite of a day old slice of sausage and roasted pepper pizza.
+eat sausage
+You take a bite of a day old slice of sausage and roasted pepper pizza.
+eat sausage
+You finish off a day old slice of sausage and roasted pepper pizza.
+drink mug
+You take a sip of a day old frosty mug filled with mixed orange and cream sodas.
+drink mug
+You finish off a day old frosty mug filled with mixed orange and cream sodas.
+drink mug
+You can't drink a mug.
+put mug in trash
+You put a mug in a small natural golden brown trash bin.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+Lily Kaise, Phoenix Dissident squeezes you affectionately.
+caress lily on back and waist
+You gently caress Lily Kaise, Phoenix Dissident's back and waist.
+Lily Kaise, Phoenix Dissident gently caresses your neck and shoulders.
+-lily I love you.
+You say to Lily, "I love you."
+Lily Kaise, Phoenix Dissident smiles at you. "I love you too."
+beam lily
+You beam at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident beams at you.
+kiss lily on neck
+You kiss Lily Kaise, Phoenix Dissident softly on the neck.
+Lily Kaise, Phoenix Dissident kisses you softly on the neck.
+smile
+You smile.
+rd
+I don't understand that.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+kiss lily
+You kiss Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident smiles.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+: gently plays with your hair.
+Shule gently plays with your hair.
+Lily Kaise, Phoenix Dissident grins at you.
+Lily Kaise, Phoenix Dissident kisses you on the nose.
+laugh and grin
+You laugh and grin.
+kiss lily on nose
+You kiss Lily Kaise, Phoenix Dissident on the nose.
+Lily Kaise, Phoenix Dissident chuckles.
+[Notification from Space Explorers Amidst The Stars] 160,000,000.00 credits have
+been deducted from the starship support fund.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "The results
+are in!"
+[Notification from Space Explorers Amidst The Stars] Lily Kaise, Phoenix
+Dissident has automatically contributed 9,163,998.65 AEU credits.
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+0.00 credits of your income have gone toward your organization.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We did not
+achieve any of our performance goals."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Our
+performance was down 60.2% from the last Conquest period."
+read comm
+You glance at your communicator's screen.
+3,481,401.41 AEU credits from your trust fund have been released to you. [00:00 
+9 October 2317 GST]
+Lily Kaise, Phoenix Dissident cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise, Phoenix Dissident.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+Lily Kaise, Phoenix Dissident smiles at you.
+smilelily
+I don't understand that.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.

@@ -1,0 +1,840 @@
+helios
+siekanas
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu May 12 23:37:26 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+1
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+A dusty, earthy smell permeates the hot and dry air. The ship seems to be
+constantly shaking, bumping along its path. From the front of the ship you hear
+a faint animal grunt, like the whinnying of horses. The flooring seems wooden
+and the walls are soft like fabric, almost warm to the touch. Outside the
+windows, the ship appears to be progressing down a cobbled road. Grass stretches
+away before fading to mist. Lights overhead indicate that the ship is on green
+status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a small blue insulated cooler, a compact red
+refrigerator, a blue plastic food storage container, a small red insulated
+cooler, a clear plastic food storage container, an insulated purple cooler, Purr
+the humanoid service robot, and a pair of washed light khaki canvas sneakers
+here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are lying on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Use the EXPERIENCE command to see how you compare to other pilots in your
+alliance.
+**
+stretch and yawn
+You stretch and yawn.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A readout shows Asteroid Cluster 0471-1801 about 1.19 light-grand cycles toward
+Galactic Southeast and Slightly Down.
+sit couch
+You sit up onto a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+hug lily
+You hug Lily.
+who
+There appear to be about 14 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A)
+*Lily Kaise  (A)
+%Sakura Arakida  (L)
+%Caleb Davenport  (L)
+%Tanny Hill  (L)
+%Joel Kringle  (L)
+%Zandria Marschaund  (L)
+%Cilah Silverthorn  (L)
+%Gregory Bentham  (F) [c]
+%Lilianne Nickles  (F) [c]
+%Arthur Carroll  (F) [c]
+%Damien Alexander  (F)
+%Blake Madison  (F)
+%Rogue Romano  (F)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 8 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 22 pilots.
+charge
+ __  --------------------------
+|  | Charge Readout:
+|  | --------------------------
+|**| D.280 of charge remaining at the current rate of discharge.
+|**| This is sufficient for approximately 291 wormhole jumps.
+|**| 
+|**| 
+|**| CHARGE LEVEL: 71%
+ --  --------------------------
+locate
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem extremely loud. The signal strength meter reads: 95%.
+Lily hugs you.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The road takes a turn, and the horses toss their heads as they follow it.
+A number flap display rapidly flips around to show a new heading of 240.0,
+-33.0.
+The endless noise of the carriage's wheels quiet slightly as it slows.
+"Going for this cluster to get debris," Lily says.
+'Ah, ok
+You say, "Ah, ok."
+Lily says, "I think I was approaching 96 percent on the nDB but lost that
+orientation."
+'Awww
+You say in a New Phoenician accent, "Awww."
+Lily says, "Yeah."
+The carriage shakes slightly as the horses pick up their pace.
+Lily says, "That's getting pretty close."
+'Did we ever get anything from Torus hypercast?
+You ask, "Did we ever get anything from Torus hypercast?"
+Lily says, "As even spinward is 99 percent."
+nod 'That is getting close.
+You nod. "That is getting close."
+Lily says, "I don't kow if I was too far up or East Northeast."
+Lily says, "Know."
+'ok
+You say, "Ok."
+Lily says, "Also I was right about the hypercast the time is only available
+between 2200 to 0100 I think."
+'oh, really? 
+You ask, "Oh, really?"
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The road takes a turn, and the horses toss their heads as they follow it.
+A number flap display rapidly flips around to show a new heading of 270.0,
+-33.0.
+The endless noise of the carriage's wheels quiet slightly as it slows.
+Lily says, "Yes because it's based upon the hours that orgs rent it."
+The carriage shakes slightly as the horses pick up their pace.
+ooc Sorry, still a bit distracted here.
+You say, OOCly, "Sorry, still a bit distracted here."
+Lily Kaise says, OOCly, "No problem."
+Lily says, "Trying to concentrate on this approach here sorry if I don't talk a
+lot."
+A short violet soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The road takes a turn, and the horses toss their heads as they follow it.
+A number flap display rapidly flips around to show a new heading of 292.0,
+-33.0.
+The carriage shakes slightly as the horses pick up their pace.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The road takes a turn, and the horses toss their heads as they follow it.
+A number flap display rapidly flips around to show a new heading of 270.0,
+-33.0.
+The endless noise of the carriage's wheels quiet slightly as it slows.
+The starship has entered a unique area of space.
+Stars appear to twinkle as on a clear night on a planet. But this is no
+atmospheric effect. The starship's mass sensors reveal a number of large
+floating objects here -- asteroids, all rotating at various speeds, some
+alternating a light and dark side and producing the twinkling effect.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+Lily Kaise activates the ultimate salvage sensor and begins scanning for chunks
+of debris.
+The salvage sensor reports detection of a very small asteroid (grade 40) at a
+range of 240000km at Sector Northwest and Down and a very small asteroid (grade
+50) at a range of 180000km at Sector Northwest and Down.
+Lily Kaise turns a dial on the space imager to achieve proper focus, then
+presses a large button.
+A space imaging photograph of a cluster of asteroids slides out of a slot below.
+Lily Kaise picks up a space imaging photograph of a cluster of asteroids.
+Lily Kaise removes a metal container from a lavender silk backpack embroidered
+with brightly hued butterflies for a moment.
+Lily Kaise puts a space imaging photograph of a cluster of asteroids in a metal
+container.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (9, 7, 7).
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise turns off the silent running feature.
+Lily Kaise activates the mighty salvage grapple V.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of titanium free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of iron free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of iron free with the salvage grapple!
+Shasta the big onyx soldier felo marches in from the south.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of radium free with the salvage grapple!
+A very small asteroid breaks apart into pieces!
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of gold.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of iron.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of gold.
+There is no more nearby debris.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (8, 12, 1).
+Lily Kaise presses a button, calling up a display of the contents of the ship's
+hold.
+Lily Kaise activates the mighty salvage grapple V.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of iron free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of radium free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of gold free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of iron free with the salvage grapple!
+A very small asteroid breaks apart into pieces!
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Lily Kaise scrambles to her feet.
+Lily Kaise glides south.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of titanium.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of lead.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+Shasta the big onyx soldier felo marches south.
+Lily Kaise glides in from the south.
+Lily Kaise makes a selection on the AutoVector control board.
+Lily Kaise glances at the computer's current coordinates display.
+The starship transitions into another sector.
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise presses a button to cancel the current autopilot program.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise activates the ultimate salvage sensor and begins scanning for chunks
+of debris.
+The salvage sensor reports detection of a very small asteroid (grade 50) at a
+range of 48000km at Sector Southwest and Up and a very small asteroid (grade 50)
+at a range of 180000km at Sector Northeast and Up.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (8, 1, 4).
+Lily Kaise glides south.
+The blast chamber begins warming up.
+A small readout shows that the blast chamber has increased the starship's charge
+to 70.86%.
+Lily Kaise glides in from the south.
+Lily Kaise activates the mighty salvage grapple V.
+A small readout shows that the blast chamber has increased the starship's charge
+to 71.14%.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+A small readout shows that the blast chamber has increased the starship's charge
+to 71.45%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 71.73%.
+Lily Kaise pulls a chunk of gold free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+A small readout shows that the blast chamber has increased the starship's charge
+to 72.04%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 72.36%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 72.67%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 72.95%.
+Lily Kaise pulls a chunk of gold free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+A small readout shows that the blast chamber has increased the starship's charge
+to 73.26%.
+Lily Kaise pulls a chunk of gold free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+A small readout shows that the blast chamber has increased the starship's charge
+to 73.57%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 73.85%.
+Lily Kaise pulls a chunk of gold free with the salvage grapple!
+A very small asteroid breaks apart into pieces!
+A small readout shows that the blast chamber has increased the starship's charge
+to 74.16%.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Lily Kaise glides south.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+A small readout shows that the blast chamber has increased the starship's charge
+to 74.44%.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of gold.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of iron.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of titanium.
+There is no more nearby debris.
+A small readout shows that the blast chamber has increased the starship's charge
+to 74.75%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 75.06%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 75.34%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 75.65%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 75.93%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 76.24%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 76.55%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 76.86%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 77.18%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 77.49%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 77.80%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 78.11%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 78.39%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 78.67%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 78.88%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 79.20%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 79.51%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 79.82%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 80.13%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 80.44%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 80.75%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 81.06%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 81.37%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 81.68%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 81.96%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 82.18%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 82.46%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 82.77%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 82.99%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 83.27%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 83.58%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 83.86%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 84.17%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 84.48%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 84.76%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 85.07%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 85.38%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 85.69%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 86.00%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 86.31%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 86.56%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 86.84%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 87.12%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 87.43%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 87.71%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 88.02%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 88.33%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 88.64%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 88.92%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 89.24%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 89.52%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 89.73%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 90.01%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 90.32%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 90.63%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 90.91%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 91.22%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 91.54%.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+A small readout shows that the blast chamber has increased the starship's charge
+to 91.81%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 92.13%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 92.44%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 92.75%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 93.06%.
+The blast chamber shuts down, having burned all of its fuel.
+Lily Kaise glides in from the south.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (14, 14, 12).
+Lily Kaise presses a button, calling up a display of the contents of the ship's
+hold.
+Lily Kaise activates the mighty salvage grapple V.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a rock containing mineral-eating microbes free with the salvage
+grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of titanium free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of gold free with the salvage grapple!
+Lily Kaise fires the grapple. The metal claws bounce off of the surface, finding
+no purchase.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of lead free with the salvage grapple!
+Unfortunately, the debris will not fit inside the storage hold, and it is
+destroyed in the attempt.
+A very small asteroid breaks apart into pieces!
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise glides south.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic frond of light green sea fern.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+grips a white plastic undersea castle firmly in its claws, then gives up when it
+can't break the toy.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+A long orange soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A short yellow soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+Lily Kaise glides in from the south.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of lead.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a ball
+of frozen hydrogen.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of iron.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of radium.
+There is no more nearby debris.
+Lily Kaise makes a selection on the AutoVector control board.
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise glances at the computer's current coordinates display.
+The starship transitions into another sector.
+Lily Kaise presses a button to cancel the current autopilot program.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise activates the ultimate salvage sensor and begins scanning for chunks
+of debris.
+The salvage sensor reports detection of a very small asteroid (grade 50) at a
+range of 60000km at Sector East and Down and a tiny asteroid (grade 50) at a
+range of 108000km at Sector Northwest and Up.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (19, 4, 9).
+Lily Kaise glides south.
+The blast chamber begins warming up.
+A small readout shows that the blast chamber has increased the starship's charge
+to 92.72%.
+Lily Kaise glides in from the south.
+Lily Kaise activates the mighty salvage grapple V.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+A small readout shows that the blast chamber has increased the starship's charge
+to 93.03%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 93.34%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 93.62%.
+Lily Kaise pulls a chunk of radium free with the salvage grapple!
+Unfortunately, the debris will not fit inside the storage hold, and it is
+destroyed in the attempt.
+A small readout shows that the blast chamber has increased the starship's charge
+to 93.94%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 94.25%.
+Lily Kaise reels the grapple back in.
+Lily Kaise glides south.
+A small readout shows that the blast chamber has increased the starship's charge
+to 94.53%.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+A small readout shows that the blast chamber has increased the starship's charge
+to 94.84%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 95.15%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 95.43%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 95.74%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 96.05%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 96.36%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 96.64%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 96.95%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 97.26%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 97.57%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 97.88%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 98.20%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 98.51%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 98.82%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 99.13%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 99.44%.
+A small readout shows that the blast chamber has increased the starship's charge
+to 99.75%.
+The blast chamber shuts down, having fully charged the starship.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+creeps across the bottom of the tank, snapping its many claws rapidly.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Lily Kaise glides in from the south.
+Lily Kaise activates the mighty salvage grapple V.
+Lily Kaise fires the grapple. The metal claws bounce off of the surface, finding
+no purchase.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of titanium free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of gold free with the salvage grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a very small asteroid.
+Lily Kaise pulls a chunk of radium free with the salvage grapple!
+A very small asteroid breaks apart into pieces!
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise flicks a small switch.
+A small light next to the word MANUAL switches on, while a similar light next to
+the word AUTOPILOT switches off.
+Lily Kaise deftly enters a command on the navigation board.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise deftly enters a command on the navigation board.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise deftly enters a command on the navigation board.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise deftly enters a command on the navigation board.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise flicks a small switch.
+A small light next to the word AUTOPILOT switches on, while a similar light next
+to the word MANUAL switches off.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (13, 14, 15).
+Lily Kaise activates the mighty salvage grapple V.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a tiny asteroid.
+A medium-sized semi-transparent cylindrical creature with long dangling tendrils
+and a chartreuse glowing interior drifts slowly over a white plastic undersea
+castle.
+A medium-sized semi-transparent bell-shaped creature with long dangling tendrils
+and a blue glowing interior pulsates gently.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a tiny asteroid.
+Lily Kaise pulls a rock containing mineral-eating microbes free with the salvage
+grapple!
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a tiny asteroid.
+Lily Kaise pulls a chunk of iron free with the salvage grapple!
+Unfortunately, the debris will not fit inside the storage hold, and it is
+destroyed in the attempt.
+Lily Kaise fires the grapple. The ship jerks faintly as the metal claws sink
+into a tiny asteroid.
+Lily Kaise pulls a chunk of lead free with the salvage grapple!
+Unfortunately, the debris will not fit inside the storage hold, and it is
+destroyed in the attempt.
+A tiny asteroid breaks apart into pieces!
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals no nearby debris.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Debris (nearest).
+Lily Kaise presses a button, calling up a display of the contents of the ship's
+hold.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (15, 19, 17).
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+amino acids.
+There is no more nearby debris.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Debris (nearest).
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise glances at the computer's current coordinates display.
+s moving.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise presses a button, calling up a display of the contents of the ship's
+hold.
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (20, 17, 7).
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+amino acids.
+There is no more nearby debris.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Debris (nearest).
+Lily Kaise presses a button, calling up a display of the contents of the ship's
+hold.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+A short yellow soft-bodied creature with many claw-tipped tentacles swims around
+a plastic flower with red petals.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (17, 14, 3).
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise deftly enters a set of coordinates, and the computer chirps in
+confirmation.
+A destination appears on the ship's navigation controls: (15, 15, 18).
+Lily Kaise glances at the computer's current coordinates display.
+Sassie the large fuchsia felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+Lily Kaise glances at the computer's current coordinates display.
+hug lily
+You hug Lily Kaise.
+Lily Kaise hugs you.
+Lily Kaise activates the expert salvage electromagnetic manipulator and begins
+scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+Lily growls.
+Lily says in a New Earth accent, "Ok."
+Lily Kaise presses a button and brings up the FTL flight control board.
+l
+l
+l
+#end
+#SESSION 'star' DIED.

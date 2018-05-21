@@ -48,6 +48,32 @@
 }
 {5}
 
+#ACTION {^#$#soundpack_lag %*}
+{
+	#variable LAG[MS] %1;
+	#variable LAG[Date] @date{};
+	#variable LAG[Time] @time{}
+}
+{5}
+
+#ACTION {^#$#soundpack_pong}
+{
+	#send #$#soundpack_ping_reply ms
+}
+{5}
+
+#ALIAS {ping}
+{
+	#showme As of $LAG[Date] at $LAG[Time], there is $LAG[MS] milliseconds of lag.
+}
+{5}
+
+#EVENT {MINUTE}
+{
+	#send #$#soundpack_ping
+}
+
 #GAG              {^#$#}
+#VARIABLE         {LAG}  {{Date}{12-03-2017}{MS}{106}{Time}{00:13}}
 
 #CLASS {Out-Of-Band} CLOSE

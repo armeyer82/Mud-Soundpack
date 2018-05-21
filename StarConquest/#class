@@ -1,0 +1,1041 @@
+#CLASS {StarConquest} OPEN
+
+#ACTION {Proper in-sector coordinates not reached.  AutoVector program aborted.}
+{
+	speech %0
+}
+{0}
+
+#ACTION {Firing aborted."$}
+{
+	play General/Misc/beep9.wav
+}
+{4}
+
+#ACTION {Firing on empty space completed.}
+{
+	play General/Misc/Beep9.wav -1 &
+}
+{4}
+
+#ACTION {Turrets are orienting toward coordinates}
+{
+	play Ship/Combat/pulselock1.wav
+}
+{4}
+
+#ACTION {^TTA: %1 contact: %2 "%3". Distance: 2}
+{
+	#variable {target} {%1};
+	#variable {targetship} {%2};
+	play General/Misc/Beep3.wav
+}
+{4}
+
+#ACTION {^The computer announces, "Hit on}
+{
+	play Ship/Combat/OtherHit4.wav
+}
+{4}
+
+#ACTION {^The computer announces, "Target destroyed."}
+{
+	#variable {target} {none};
+	#variable {targetship} {Nothing..};
+	#showme Number of weapon hits: $shotsfired;
+	#showme @time{};
+	play Ship/Combat/OtherDestroyed1.wav
+}
+{4}
+
+#ACTION {^You tune a}
+{
+	play General/Comm/Tune.wav
+}
+{4}
+
+#ACTION {lock on this starship}
+{
+	play Ship/Combat/LockedOnYou.wav
+}
+{4}
+
+#ACTION {words HIT CONFIRMED}
+{
+	play Ship/Combat/OtherHit4.wav
+}
+{4}
+
+#ACTION {%* detaches from an alcove on the wall.$}
+{
+	speech %1
+}
+{5}
+
+#ACTION {%1 closes %2 refrigerator.$}
+{
+	play General/Misc/fridgeclose.wav
+}
+{5}
+
+#ACTION {%1 damage level exceeds %2}
+{
+	speech %1, %2
+}
+{5}
+
+#ACTION {%1 opens $2 refrigerator and the light inside clicks on.$}
+{
+	play General/Misc/fridgeopen.wav
+}
+{5}
+
+#ACTION {Alliance Communication}
+{
+	play General/Comm/Alliance.mp3
+}
+{5}
+
+#ACTION {Commencing %w lock sequence}
+{
+	play Ship/Combat/pulselock1.wav
+}
+{5}
+
+#ACTION {General Communication}
+{
+	play General/Comm/General.mp3
+}
+{5}
+
+#ACTION {Mentor Channel}
+{
+	play General/Comm/Short.wav
+}
+{5}
+
+#ACTION {Newbie Help}
+{
+	play General/Comm/Newbie.wav
+}
+{5}
+
+#ACTION {Tactical Communication}
+{
+	play General/Comm/Tactical.mp3
+}
+{5}
+
+#ACTION {Target: Starship}
+{
+	play Ship/Combat/LockedOnOther.wav
+}
+{5}
+
+#ACTION {The ship's target tracking array reports that %1 "%2" is now in range at Sector %3}
+{
+	#variable {target} {%3};
+	#variable {targetship} {%2};
+	play General/Misc/Beep3.wav
+}
+{5}
+
+#ACTION {The ship's target tracking array reports that %1 "%2" is two units away at Sector %3}
+{
+	#variable {target} {two %3};
+	#variable {targetship} {%2};
+	play General/Misc/Beep3.wav
+}
+{5}
+
+#ACTION {The ship's target tracking array reports that the %1 "%2" is in range at Sector %3}
+{
+	#variable {target} {%3}
+}
+{5}
+
+#ACTION {You hear a loud bang above you somewhere as ship systems are repaired outside.$}
+{
+	play Ship/Misc/Repair11.wav
+}
+{5}
+
+#ACTION {You hear a sharp clank from the hull somewhere near you.}
+{
+	play Ship/Misc/Repair10.wav
+}
+{5}
+
+#ACTION {[Space Explorers Amidst The Stars]}
+{
+	play General/Comm/org.wav
+}
+{5}
+
+#ACTION {^%* activates the long-range scanner and sends an active sensor ping into}
+{
+	play Ship/Computer/lrscan3.wav
+}
+{5}
+
+#ACTION {^%* voice comes over the loudspeaker and says}
+{
+	play Ship/Comm/PA@rnd{9}.wav
+}
+{5}
+
+#ACTION {^A ball of minicannon}
+{
+	play Ship/Combat/YouHit2.wav
+}
+{5}
+
+#ACTION {^A chain attached to the starship}
+{
+	play General/Misc/Beep9.wav
+}
+{5}
+
+#ACTION {^A destination appears on the ship's navigation controls:}
+{
+	play General/Misc/Beep10.mp3
+}
+{5}
+
+#ACTION {^A flash of movement out of the corner of your eye draws your attention to the %1 as it settles down upon the nearby landing pad.}
+{
+	play Ship/Move/OtherLanding@rnd{3}.wav
+}
+{5}
+
+#ACTION {^A message board reader beeps}
+{
+	play General/Device/NewPost2.wav
+}
+{5}
+
+#ACTION {^A number of}
+{
+	play Ship/Combat/Laser12.wav
+}
+{5}
+
+#ACTION {^A voice comes over the speaker}
+{
+	play commchirp2.mp3
+}
+{5}
+
+#ACTION {^A voice emanating from a flight control scanner}
+{
+	play General/Comm/FlightScanner.wav
+}
+{5}
+
+#ACTION {^Average damage: %1}
+{
+	#variable {avg} {%1}
+}
+{5}
+
+#ACTION {^Average damage: ^1}
+{
+	#variable {avg} {^1}
+}
+{5}
+
+#ACTION {^Flight control gives the ship launch clearance.$}
+{
+	play commchirp2.mp3
+}
+{5}
+
+#ACTION {^Hull damage: %1}
+{
+	#variable {hull} {%1}
+}
+{5}
+
+#ACTION {^Incoming hypercaster transmission from}
+{
+	play Ship/Comm/Broadcast.wav
+}
+{5}
+
+#ACTION {^Kiska the humanoid service robot says in a synthesized voice, "%1"}
+{
+	#system say -v ava -r 265 "%1" &
+}
+{5}
+
+#ACTION {^Locked on to coordinates:}
+{
+	play General/Misc/Beep8.wav
+}
+{5}
+
+#ACTION {^Status lights blink on}
+{
+	play Ship/Misc/PowerOn3.wav
+}
+{5}
+
+#ACTION {^TTA: %1 contact: %2 "%3"}
+{
+	#variable {target} {%1};
+	#variable {targetship} {%2 %3};
+	play General/Misc/Beep3.wav
+}
+{5}
+
+#ACTION {^The airlock hatch chimes quietly.}
+{
+	play chime.mp3
+}
+{5}
+
+#ACTION {^The computer announces over your suit radio, "%1"}
+{
+	speech %1
+}
+{5}
+
+#ACTION {^The computer announces, "Hull damage failsafe %1"}
+{
+	#system play -qV0 ./StarConquest/Sounds/General/Misc/warning.wav repeat 1 &;
+	#system say -v tom -r 250 "Failsafe %1" &
+}
+{5}
+
+#ACTION {^The computer beeps in an imperative manner}
+{
+	play Ship/Computer/report4.wav;
+	#showme @time{}
+}
+{5}
+
+#ACTION {^The computer reports that}
+{
+	play Ship/Computer/Report1.wav
+}
+{5}
+
+#ACTION {^The faint sounds and status lights}
+{
+	play Ship/Misc/PowerOff2.wav
+}
+{5}
+
+#ACTION {^The hull creaks}
+{
+	play Ship/Combat/Laser12.wav
+}
+{5}
+
+#ACTION {^The ship jerks suddenly}
+{
+	play Ship/Combat/chained.mp3
+}
+{5}
+
+#ACTION {^The ship jerks suddenly as a loud clang is heard followed by an unsettling rattling noise against the hull.}
+{
+	play Ship/Combat/Chained.mp3
+}
+{5}
+
+#ACTION {^The ship shudders slightly as it nears the wormhole mouth.$}
+{
+	play Ship/Move/ftl.mp3
+}
+{5}
+
+#ACTION {^The ship's target tracking array reports that it has lost track of}
+{
+	play Ship/Combat/losttrack.mp3
+}
+{5}
+
+#ACTION {^The ship's target tracking array reports that it is now tracking}
+{
+	play Ship/Combat/tracking.mp3;
+	#variable shotsfired 0;
+	#showme @time{}
+}
+{5}
+
+#ACTION {^The sound of the engines slowly fades away}
+{
+	play Ship/Move/Decelerate.mp3
+}
+{5}
+
+#ACTION {^The starship shudders violently as it nears the wormhole mouth.$}
+{
+	play Ship/Move/ftl.mp3
+}
+{5}
+
+#ACTION {^The starship vibrates slightly as it nears the wormhole mouth.$}
+{
+	play Ship/Move/ftl.mp3
+}
+{5}
+
+#ACTION {^The viewport glows brightly for a split second before a blast of minicannon energy impacts the starship.$}
+{
+	play Ship/Combat/YouHit2.wav
+}
+{5}
+
+#ACTION {^There is a ship already occupying that location.}
+{
+	play General/Misc/Warning.wav
+}
+{5}
+
+#ACTION {^There is some debris}
+{
+	play General/Misc/Warning.wav
+}
+{5}
+
+#ACTION {^Via general sector communication,}
+{
+	play Ship/Comm/SectorPublic.mp3
+}
+{5}
+
+#ACTION {^Welcome to...}
+{
+	#log append ./StarConquest/logs/@date{}-tt.txt
+}
+{5}
+
+#ACTION {^You activate the long-range scanner}
+{
+	play Ship/Computer/lrscan4.wav
+}
+{5}
+
+#ACTION {^You close %1 refrigerator.$}
+{
+	play General/Misc/fridgeclose.wav
+}
+{5}
+
+#ACTION {^You detect a faint rumbling as the starship begins to move through space.}
+{
+	play Ship/Move/Accelerate.mp3
+}
+{5}
+
+#ACTION {^You feel a faint rumble and look up just in time to see the %1 lift off the landing pad and head into space.}
+{
+	play Ship/Move/OtherLaunch@rnd{3}.wav
+}
+{5}
+
+#ACTION {^You feel a faint rumbling and look up just in time to see the %1 lift off the landing pad and head into space.}
+{
+	play Ship/Move/OtherLaunch@rnd{3}.wav
+}
+{5}
+
+#ACTION {^You feel mild acceleration as the ship descends}
+{
+	play Ship/Move/YouLanding.mp3
+}
+{5}
+
+#ACTION {^You feel mild acceleration as the ship lifts off smoothly.$}
+{
+	play Ship/Move/YouLaunch3.mp3
+}
+{5}
+
+#ACTION {^You feel mild acceleration as the ship moves toward a space station.$}
+{
+	play Ship/Move/YouLanding.mp3
+}
+{5}
+
+#ACTION {^You feel mild acceleration as the ship moves toward a space structure.$}
+{
+	play Ship/Move/YouLanding.mp3 -qV0 gain -10 &
+}
+{5}
+
+#ACTION {^You hear a "ping" sound}
+{
+	play Ship/Computer/lrscan3.wav -h &
+}
+{5}
+
+#ACTION {^You hear a loud rumbling as the ship's engines move using emergency boost power.$}
+{
+	play Ship/Move/Boost.wav
+}
+{5}
+
+#ACTION {^You hear a single beep}
+{
+	play General/Misc/Beep1.wav
+}
+{5}
+
+#ACTION {^You hear the strange}
+{
+	play Ship/Combat/Laser12.wav -h &
+}
+{5}
+
+#ACTION {^You hear the sudden metallic complaints}
+{
+	play Ship/Combat/YouHit2.wav -5 &
+}
+{5}
+
+#ACTION {^You open a %1 refrigerator and the light inside clicks on.$}
+{
+	play General/Misc/fridgeopen.wav -5 &
+}
+{5}
+
+#ACTION {^You speak into the microphone.}
+{
+	play Ship/Comm/PA@rnd{9}.wav -5 &
+}
+{5}
+
+#ACTION {^[Type a line of input}
+{
+	play prompt.wav -qV0 &
+}
+{5}
+
+#ACTION {activates the long-range scanner and searches for passive detections and recent ping returns.$}
+{
+	play Ship/Computer/lrscan4.wav -5 &
+}
+{5}
+
+#ACTION {chainguns are fired.$}
+{
+	play Ship/Combat/Laser9.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {chainguns.$}
+{
+	play Ship/Combat/Laser9.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {communicator beeps quietly, indicating it has unread notices.$}
+{
+	play General/Comm/h12.wav -15 &
+}
+{5}
+
+#ACTION {communicator beeps quietly, indicating that it has unread notices.$}
+{
+	play General/Comm/h12.wav -15 &
+}
+{5}
+
+#ACTION {communicator {chimes softly|beeps insistently} as it receives a new notice.$}
+{
+	play General/Comm/h12.wav -15 &
+}
+{5}
+
+#ACTION {damage level exceeds %2}
+{
+	speech %0 %2
+}
+{5}
+
+#ACTION {fire board and press a large button.$}
+{
+	play Ship/Computer/Keyboard1.wav
+}
+{5}
+
+#ACTION {has been automatically moved into a garage.$}
+{
+	play Ship/Misc/Garage.wav
+}
+{5}
+
+#ACTION {just entered the ship.$}
+{
+	play Ship/Misc/SomeoneBoardsShip.mp3 -qV0 gain -5 &
+}
+{5}
+
+#ACTION {lasers are fired.$}
+{
+	play Ship/Combat/Laser1.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {notify flight control}
+{
+	play commchirp1.mp3 -qV0 gain -10 &
+}
+{5}
+
+#ACTION {plasma burst is fired.$}
+{
+	play Ship/Combat/Cannon1.wav
+}
+{5}
+
+#ACTION {plasma minicannons are fired.$}
+{
+	play Ship/Combat/Cannon1.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {plasma minicannons are used.$}
+{
+	play Ship/Combat/Cannon1.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {plasma minicannons.$}
+{
+	play Ship/Combat/Cannon1.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {red lights continue flashing.}
+{
+	play Ship/Combat/RedCont2.wav
+}
+{5}
+
+#ACTION {ship enters red alert.}
+{
+	play Ship/Combat/RedStart2.wav
+}
+{5}
+
+#ACTION {ship's radio}
+{
+	play commchirp1.mp3 -qV0 gain -10 &
+}
+{5}
+
+#ACTION {the ship enters yellow alert.}
+{
+	#system play -qV0 ./StarConquest/Sounds/General/Misc/Beep6.wav repeat 2 vol $Volume[GameSounds] &
+}
+{5}
+
+#ACTION {torpedo launchers are used.$}
+{
+	play Ship/Combat/Cannon6.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {torpedo speeds out of a torpedo launcher.$}
+{
+	play Ship/Combat/Cannon6.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ACTION {torpedoes are fired.$}
+{
+	play Ship/Combat/Cannon6.wav;
+	#math shotsfired {$shotsfired+1}
+}
+{5}
+
+#ALIAS {alugh}
+{
+	laugh
+}
+{5}
+
+#ALIAS {chartreuse}
+{
+	#showme Green and yellow, canceled by fuchsia.
+}
+{5}
+
+#ALIAS {dboost}
+{
+	use boost
+}
+{5}
+
+#ALIAS {edump}
+{
+	use dump
+}
+{5}
+
+#ALIAS {fuchsia.}
+{
+	#showme green and yellow
+}
+{5}
+
+#ALIAS {g}
+{
+	pu alpha
+}
+{5}
+
+#ALIAS {girn}
+{
+	grin
+}
+{5}
+
+#ALIAS {login}
+{
+	#session star moo.squidsoft.net 7777
+}
+{5}
+
+#ALIAS {ltctoly}
+{
+	#math {ly} {%1*7.5};
+	#showme $ly
+}
+{5}
+
+#ALIAS {m}
+{
+	min
+}
+{5}
+
+#ALIAS {mf}
+{
+	missile forward
+}
+{5}
+
+#ALIAS {mr}
+{
+	missile rear
+}
+{5}
+
+#ALIAS {norange}
+{
+	#gag in range of firing on or docking with;
+	#showme You will not be notified of ships coming in range.
+}
+{5}
+
+#ALIAS {ochre}
+{
+	#showme Violet and yellow.
+}
+{5}
+
+#ALIAS {pkill}
+{
+	#system pkill -f Control2.wav &
+}
+{5}
+
+#ALIAS {qpatch}
+{
+	use quickpatch
+}
+{5}
+
+#ALIAS {range}
+{
+	#ungag in range of firing on or docking with;
+	#showme You will now be notified of ships coming in range.
+}
+{5}
+
+#ALIAS {recharge}
+{
+	use recharge
+}
+{5}
+
+#ALIAS {restore}
+{
+	use restoration
+}
+{5}
+
+#ALIAS {saffron}
+{
+	#showme Orange and yellow, canceled by indigo.
+}
+{5}
+
+#ALIAS {savescript}
+{
+	#class StarConquest write ./StarConquest/script.tin
+}
+{5}
+
+#ALIAS {sc}
+{
+	#session star moo.squidsoft.net 7771
+}
+{5}
+
+#ALIAS {sienna}
+{
+	#showme Green and red
+}
+{5}
+
+#ALIAS {t}
+{
+	tor
+}
+{5}
+
+#ALIAS {tar}
+{
+	#system say -v samantha -r 275 "$target" &
+}
+{5}
+
+#ALIAS {tavg}
+{
+	#showme $avg
+}
+{5}
+
+#ALIAS {thull}
+{
+	#showme $hull
+}
+{5}
+
+#ALIAS {tsmile}
+{
+	: smiles tenderly at ~%1.
+}
+{5}
+
+#ALIAS {tstat}
+{
+	#showme $hull, $avg
+}
+{5}
+
+#ALIAS {tt}
+{
+	#showme $targetship
+}
+{5}
+
+#ALIAS {vermillion}
+{
+	#showme Orange and red, canceled by teal.
+}
+{5}
+
+#FUNCTION {ltctoly}
+{
+	#math result {%1 * 7.74}
+}
+
+#GAG              {"Final convergent wormhole located}
+#GAG              {"Rapid linking to next waypoint enabled.}
+#GAG              {%* aims {her | his} %* at %*.}
+#GAG              {%* aims {her|his} %* at %*}
+#GAG              {%* aims {her|his} %* at %*.}
+#GAG              {Commencing %w lock sequence}
+#GAG              {Continuing jump sequence}
+#GAG              {Firing aborted."$}
+#GAG              {Firing on empty space completed.}
+#GAG              {Firing."$}
+#GAG              {HIT CONFIRMED}
+#GAG              {Initializing quantum wormhole selection sequence}
+#GAG              {Initializing wormhole selection sequence}
+#GAG              {Target coordinates are}
+#GAG              {Target: starship}
+#GAG              {The starship shutters violently as it nears the wormhole mouth.}
+#GAG              {You hear a sharp clank from the hull somewhere near you.}
+#GAG              {^$}
+#GAG              {^A launch trajectory is located.$}
+#GAG              {^A number of }
+#GAG              {^Kiska the humanoid service robot says in a synthesized voice,}
+#GAG              {^Locked on to coordinates:}
+#GAG              {^Please confirm}
+#GAG              {^Some kind of chemical}
+#GAG              {^Target: Starship}
+#GAG              {^The airlock hatch chimes quietly.}
+#GAG              {^The bright light fades}
+#GAG              {^The computer announces over your suit radio,}
+#GAG              {^The computer announces, "Hit on}
+#GAG              {^The computer announces, "Hull damage failsafe}
+#GAG              {^The computer announces, "This ship has been hit}
+#GAG              {^The computer says, "Convergent wormhole located}
+#GAG              {^The hull creaks}
+#GAG              {^The mild vibration of acceleration}
+#GAG              {^The scoop shakes a bit}
+#GAG              {^The scoop shakes around a bit}
+#GAG              {^The ship jerks suddenly}
+#GAG              {^The sound of the engines}
+#GAG              {^The starship shudders violently as it nears the wormhole mouth.$}
+#GAG              {^The starship shutters violently as it nears the wormhole mouth.$}
+#GAG              {^The starship shutters violently as it nears the wormhole mouth.^}
+#GAG              {^The starship vibrates slightly as it nears the wormhole mouth.$}
+#GAG              {^The viewport glows brightly for a split second before a blast of minicannon energy impacts the starship.$}
+#GAG              {^The windows automatically dim}
+#GAG              {^The windows automatically dimm}
+#GAG              {^You activate the long-range scanner}
+#GAG              {^You aim your}
+#GAG              {^You detect a faint}
+#GAG              {^You feel mild acceleration as the ship descends toward a planet.$}
+#GAG              {^You feel mild acceleration as the ship lifts off smoothly.$}
+#GAG              {^You feel mild acceleration as the ship moves toward a space station.$}
+#GAG              {^You feel mild acceleration as the ship moves toward a space structure.$}
+#GAG              {^You feel weightless for a moment}
+#GAG              {^You hear a loud bang above you}
+#GAG              {^You hear a loud rumbling as the ship's engines move using emergency boost power.$}
+#GAG              {^You hear a lound bang above you}
+#GAG              {^You hear a sharp}
+#GAG              {^You hear the strange}
+#GAG              {^You move into the area.$}
+#GAG              {^[Type a line of input}
+#GAG              {blinking LED}
+#GAG              {chainguns are fired.$}
+#GAG              {chainguns.$}
+#GAG              {damage level exceeds}
+#GAG              {faint vibration}
+#GAG              {final convergent wormhole located}
+#GAG              {fire board and press a large button.$}
+#GAG              {has a lock on this starship}
+#GAG              {has fired at the}
+#GAG              {in range of firing on or docking with}
+#GAG              {lasers are fired}
+#GAG              {locked on %w starship}
+#GAG              {plasma burst is fired.$}
+#GAG              {plasma minicannons are fired.$}
+#GAG              {plasma minicannons are used.$}
+#GAG              {plasma minicannons.$}
+#GAG              {red lights continue flashing.$}
+#GAG              {the ship enters yellow alert.$}
+#GAG              {torpedo launchers are used.$}
+#GAG              {torpedo speeds out of a torpedo launcher.$}
+#GAG              {torpedoes are fired}
+#GAG              {turrets are orienting toward coordinates}
+#GAG              {turrets locked on target starship}
+#MACRO {\e1}
+{
+	#buffer get review 1;
+	#line log {review.txt} {$review};
+	#system say -v alex -r 525 -f review.txt;
+	#system rm review.txt
+}
+
+#MACRO {\e2}
+{
+	#buffer get review 2;
+	#line log {review.txt} {$review};
+	#system say -v alex -r 525 -f review.txt;
+	#system rm review.txt
+}
+
+#MACRO {\e3}
+{
+	#buffer get review 3;
+	#line log {review.txt} {$review};
+	#system say -v alex -r 525 -f review.txt;
+	#system rm review.txt
+}
+
+#MACRO {\e4}
+{
+	#buffer get review 4;
+	#line log {review.txt} {$review};
+	#system say -v alex -r 525 -f review.txt;
+	#system rm review.txt
+}
+
+#MACRO {\e5}
+{
+	#buffer get review 5;
+	#line log {review.txt} {$review};
+	#system say -v alex -r 525 -f review.txt;
+	#system rm review.txt
+}
+
+#MACRO {\em}
+{
+	m
+}
+
+#MACRO {\ep}
+{
+	power
+}
+
+#MACRO {\es}
+{
+	salvage
+}
+
+#MACRO {\ex}
+{
+	ext
+}
+
+#SUBSTITUTE       {%1's voice comes over the loudspeaker and says, "%2"}                                  {[PA] %1: "%2"}  {5}
+#SUBSTITUTE       {The computer reports that your current coordinates are: (%1)}                                          {%1}  {5}
+#SUBSTITUTE       {The ship's target tracking array reports that %1 "%2" is now in range at Sector %3}                                                                {%3 %2}  {5}
+#SUBSTITUTE       {The ship's target tracking array reports that %1 "%2" is two units away at Sector %3}                                                                  {Two %3 %2}  {5}
+#SUBSTITUTE       {The ship's target tracking array reports that it has lost track of %1 "%2"}                                                        {Lost track of %2}  {5}
+#SUBSTITUTE       {The ship's target tracking array reports that it is now tracking %1 "%2"}                                                      {%1 "%2" now being tracked.}   {5}
+#SUBSTITUTE       {^A voice emanating from a flight control scanner announces, "%1"}                                              {Flight Control: %1}  {5}
+#TAB              {assault}
+#TAB              {chartreuse}
+#TAB              {corvette}
+#TAB              {fehu}
+#TAB              {fighter}
+#TAB              {kalliste}
+#TAB              {kappa}
+#TAB              {lambda}
+#TAB              {ochre}
+#TAB              {omicron}
+#TAB              {rapid}
+#TAB              {rebekah}
+#TAB              {saffron}
+#TAB              {takana}
+#TAB              {torpedo}
+#TAB              {uruz}
+#TAB              {vermillion}
+#VARIABLE         {avg}  {0%}
+#VARIABLE         {cnd}  {4}
+#VARIABLE         {cnt}  {4}
+#VARIABLE         {curtime}  {1461479705}
+#VARIABLE         {hull}  {0%}
+#VARIABLE         {loop}  {4}
+#VARIABLE         {ly}  {7.50}
+#VARIABLE         {moo}  {'this is a test'}
+#VARIABLE         {review}  {                         --}
+#VARIABLE         {shotsfired}  {1}
+#VARIABLE         {target}  {none}
+#VARIABLE         {targetship}  {Nothing..}
+#VARIABLE         {test}  {02-58-54}
+#VARIABLE         {test2}  {0}
+#VARIABLE         {time}  {################################################################################}
+
+#CLASS {StarConquest} CLOSE

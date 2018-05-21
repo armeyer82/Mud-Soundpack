@@ -1,0 +1,372 @@
+[0m00:00:00[0m
+[Notification from Space Explorers Amidst The Stars] A load of tritium-rich
+hydrogen has been received at League Xenological Salvage Processing
+Debris-Burning Temporary Station from the two-person isotope "Valkyrie". The
+organization has earned 388,959.82 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise removes the components of her spacesuit and places them neatly into a
+light purple flightbag with a pastel kitten on the side.
+Lily Kaise blinks heavily and then dozes off.
+Shasta the big onyx soldier felo marches in from the north.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Shasta the big onyx soldier felo marches out.
+[0m01:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 100,648.68 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in Mir.
+[0m02:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Blueberry the hefty violet feathered felo wanders in from the north.
+Blueberry the hefty violet feathered felo wanders out.
+[0m03:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 564,649.27 credits.
+Lily Kaise blinks heavily and then dozes off.
+[0m04:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Shasta the big onyx soldier felo marches in from the north.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Mischief the large black felo hums melodically to itself as it wanders out.
+Shasta the big onyx soldier felo marches out.
+[0m05:00:00[0m
+[MTTS] alexv has joined the channel.
+[MTTS] alexv: Hello everyone, is this an appropriate place to ask about
+connection issues?
+[MTTS] usfolks: Basically what I know is that the domain is down and you have to
+use the IP address to connect.
+[MTTS] atherj: Newbie probably works better for this kind of thing, but
+apparently, the main domain is down.
+[MTTS] alexv: Ah, ok I was curious because had a few friends trying to connect
+but they were saying it's showing they're locked out because of multiple wrong
+password attempts but the link they got given to reset password isn't
+functioning. So I'm guessing they just have to wait till the sight is back?
+[MTTS] atherj: Or use the IP address to connect.
+[MTTS] alexv: They are.
+[MTTS] atherj: 104.181.170.164.
+[MTTS] atherj: Oh.
+[MTTS] usfolks: Should just be able to use 104.181.170.164.
+[MTTS] alexv: Again, they are being blocked through the ip for multiple wrong pw
+attempts but can't reset so I was curious if there's anything they can do or
+should they just wait until sight is back.
+[MTTS] usfolks: That being said, I have not been logged out since well before it
+happened. I know several people who have connected through the IP with no
+problem, but really can't tell you why your friends wouldn't be able to connect
+and would get that particular error. Might have them try contacting hosts
+through their the Official Roleplaying Eradication Website accounts. That's all
+I can think of.
+[MTTS] usfolks: Uh...tweet to them.
+[MTTS] usfolks: Forgot about that filter...ahem.
+[MTTS] atherj: Love that filter.
+[MTTS] usfolks: Anyway, @squidsoft and @StarConquest.
+[MTTS] alexv: Yeah I can connect fine through the IP, they just can't because
+they couldn't remember their password and so got locked out but no way to reset
+with the sight down. I appologize a better question would've been if there is
+anything they can do to reset the password since the sight is down. I'll suggest
+that to them, thank you.
+[MTTS] atherj: If they got locked out of their account because they don't
+remember their password, I think it's a timed lockout.
+[MTTS] usfolks: If they just use their same connection in their client and only
+change the domain to the IP, they'll be fine once the timeout resolves.
+[MTTS] atherj: I always thought it was like, five minutes or something.
+[MTTS] alexv: Aha, that's good to know then too, I thought it was too but it's
+been a long while since I got locked out.
+[MTTS] usfolks: No, it's longer than that. At least half an hour I think.
+[MTTS] atherj: Oh, well, it could be, it could be. I never really had that
+issue.
+[MTTS] B.A.: You can send them to http://104.181.170.164:3333?
+[MTTS] usfolks: That should work. I wasn't sure what the full address was for
+that.
+[MTTS] alexv: You, are a wonderful person.
+[MTTS] alexv: Thank you. That does work.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[MTTS] alexv: Oh sad, the initial part does work looks like the password
+forgotten link does not though. So they may just have to wait.
+[MTTS] usfolks: If they just use the settings they currently have saved in their
+client and only change the server from the domain to the IP, they will have
+their correct password.
+[MTTS] usfolks: Then it's only an issue of waiting out the timer.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+Mischief the large black felo rubs up against your leg with a quiet "Mrrp.".
+Mischief the large black felo hums melodically to itself as it wanders out.
+[0m06:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m07:00:01[0m
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the two-person light
+corvette "Catchin' Flies With Vinegar".
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Blueberry the hefty violet feathered felo wanders in from the north.
+Blueberry the hefty violet feathered felo wanders out.
+Xavier the big silver soldier felo marches in from the north.
+[0m08:00:00[0m
+Xavier the big silver soldier felo marches out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+Xavier the big silver soldier felo marches in from the north.
+A Tardick lizard named Asteria trundles slowly into the area.
+Xavier the big silver soldier felo marches out.
+Mischief the large black felo hums melodically to itself as it wanders out.
+A Tardick lizard named Asteria flicks its tail.
+A Tardick lizard named Asteria trundles slowly out.
+[0m09:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Xavier the big silver soldier felo marches in from the north.
+Xavier the big silver soldier felo marches out.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 629,245.75 credits.
+Mischief the large black felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+Mischief the large black felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+A Tardick lizard named Asteria trundles slowly into the area.
+Mischief the large black felo hums melodically to itself as it wanders out.
+A Tardick lizard named Asteria flicks its tongue out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 335,523.82 credits.
+[0m10:00:00[0m
+A Tardick lizard named Asteria flicks its tail.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+A Tardick lizard named Asteria trundles slowly out.
+Mischief the large black felo hums melodically to itself as it wanders out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 1,346,966.77 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 2,032,203.16 credits.
+[0m11:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Lily Kaise blinks heavily and then dozes off.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Pushing Redemption".
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+600,000.00 credits from a xenology submission.
+[0m12:00:00[0m
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Pushing Redemption".
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 814,305.13 credits.
+[0m13:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Blueberry the hefty violet feathered felo wanders in from the north.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+34,476,000.00 credits from a xenology submission.
+Blueberry the hefty violet feathered felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring softly.
+Blueberry the hefty violet feathered felo suddenly jumps onto a white four
+poster rattan bed with a heart-shaped headboard and filmy deep purple hangings
+with a set of lavender silk sheets, a hand-made purple and amethyst flower
+quilt, a soft periwinkle cashmere blanket, a large periwinkle bed pillow, and a
+large periwinkle bed pillow on it.
+Blueberry the hefty violet feathered felo wanders out.
+[0m14:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Blueberry the hefty violet feathered felo wanders in from the north.
+Blueberry the hefty violet feathered felo wanders out.
+[0m15:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Xavier the big silver soldier felo marches in from the north.
+Xavier the big silver soldier felo rubs up against a small oval turquoise rattan
+table with a glass top, purring softly.
+Xavier the big silver soldier felo marches out.
+[0m16:00:00[0m
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Fuller 'n A Tick". The
+organization has earned 1,501,323.88 credits.
+Mischief the large black felo hums melodically to itself as it wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Fuller 'n A Tick". The
+organization has earned 2,292,981.14 credits.
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly out.
+[0m17:00:00[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Fuller 'n A Tick". The
+organization has earned 1,852,771.89 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A Tardick lizard named Asteria trundles slowly into the area.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person isotope "Valkyrie". The organization has earned
+350,327.24 credits.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly out.
+[0m18:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person isotope "Valkyrie". The organization has earned
+425,151.94 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Them's Fightin' Words!" and the one-person bastille "Mamut".
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+2,611,111.11 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person A.S.S.
+fighter "Winston Plummer".
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person isotope "Valkyrie". The organization has earned
+228,733.35 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Them's Fightin' Words!" and the one-person bastille "Mamut".
+Xavier the big silver soldier felo marches in from the north.
+[0m19:00:00[0m
+Xavier the big silver soldier felo marches out.
+[Notification from Space Explorers Amidst The Stars] A load of tritium-rich
+hydrogen has been received at League Xenological Salvage Processing
+Debris-Burning Temporary Station from the two-person medium transport "Sifter".
+The organization has earned 6,480,370.22 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+8,703,703.70 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Them's Fightin' Words!" and the one-person bastille "Mamut".
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 1,230,305.17 credits.
+[Tactical Communication] Ali Candan transmits, "Nests?"
+[Tactical Communication] Joel Kringle transmits, "Sure."
+[Tactical Communication] Morris Corlew transmits, "Sure."
+[Tactical Communication] Hakeem Oiadip transmits, "Sure, if you can give me five
+minutes or I can sit out if you want high tiers."
+[Tactical Communication] Ali Candan transmits, "Alright, I need 10 to 15 minutes
+as well."
+[Tactical Communication] Joel Kringle transmits, "Sure."
+[0m20:00:00[0m
+Prissy the big violet long-haired felo wanders in from the north.
+Prissy the big violet long-haired felo wanders out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Sifter". The organization has
+earned 765,887.26 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Xavier the big silver soldier felo marches in from the north.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+Xavier the big silver soldier felo marches out.
+Mischief the large black felo hums melodically to itself as it wanders out.
+[Tactical Communication] Ali Candan transmits, "Right. So once again, nests."
+[Tactical Communication] Joel Kringle transmits, "Once again, yes."
+[Tactical Communication] Morris Corlew transmits, "We're waiting for you Ali,
+have been."
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+2,611,111.11 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person A.S.S.
+fighter "Winston Plummer" and the one-person fighter "Odokuro".
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Xenological Salvage Processing Debris-Burning Temporary
+Station from the two-person medium transport "Hoover". The organization has
+earned 681,717.86 credits.
+Prissy the big violet long-haired felo wanders in from the north.
+[0m21:00:00[0m
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on your leg, then rubs its head against you, purring softly.
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on your leg, then rubs its head against you, purring softly.
+Prissy the big violet long-haired felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 101,106.60 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in Mir.
+[Tactical Communication] Ali Candan transmits, "Beacons? Nests? Missions?"
+[0m22:00:01[0m
+[Tactical Communication] Bryan Stout transmits, "Sure to beacons or missions."
+[Tactical Communication] Joel Kringle transmits, "Sure. Just not missions."
+[Tactical Communication] Bryan Stout transmits, "But whatever."
+[Tactical Communication] Bryan Stout transmits, "If we get enough for a nest I'm
+in, just tell me what tier."
+[Tactical Communication] Ali Candan transmits, "1 for a nest. 2 for beacons."
+[Tactical Communication] Damien Alexander transmits, "I could maybe do a nest."
+[Tactical Communication] Ali Candan transmits, "Tier 5's then."
+[Tactical Communication] Bryan Stout transmits, "Tier 5 muty work?"
+[Tactical Communication] Damien Alexander transmits, "Gimme a few to skim back."
+[Tactical Communication] Ali Candan transmits, "Sure. You want to bring an other
+Mutie, Joel? Or you want the AEU."
+[Tactical Communication] Ali Candan transmits, "Or League whatever."
+[Tactical Communication] Joel Kringle transmits, "I got the AEU."
+[Tactical Communication] Joel Kringle transmits, "Can I borrow a greater energy
+minimod though?"
+[Tactical Communication] Ali Candan transmits, "Bring damage, Damien. And sure,
+you can."
+[Tactical Communication] Evenia Callseah transmits, "I got an Opochtli and bolt
+thrower out here at 777, and I'm in a transport, can anyone assist? I popped the
+interdictors, but..."
+[Tactical Communication] Erik Goodwin transmits, "I'm here too, but not in a
+ship that could help."
+[Tactical Communication] Ali Candan transmits, "Are they actively interdicting?"
+[Tactical Communication] Evenia Callseah transmits, "Negative, I took out the
+ones they put out, and got to the watchtower."
+[Tactical Communication] Ali Candan transmits, "Right. Shoot a few times and
+they'd depart."
+[Tactical Communication] Evenia Callseah transmits, "That's the plan."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[0m23:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Xavier the big silver soldier felo marches in from the north.
+Shasta the big onyx soldier felo marches in from the north.
+Xavier the big silver soldier felo marches out.
+Shasta the big onyx soldier felo marches out.

@@ -1,0 +1,343 @@
+#CLASS {Misc} OPEN
+
+#ACTION {%1 [ [ ]Enter "yes" or "no"]}
+{
+	play prompt.wav
+}
+{5}
+
+#ACTION {%1 crumples %2 up and throws it away.}
+{
+	play General/Misc/Paper@rnd{3}.wav
+}
+{5}
+
+#ACTION {%1 leaves your group.%2}
+{
+	play disband.wav
+}
+{5}
+
+#ACTION {%1 pulls a series of straps around %2 and securely buckles %3 #into%4}
+{
+	play General/Misc/Buckle@rnd{3}.wav
+}
+{5}
+
+#ACTION {%1 releases the buckle of %2 seatbelt, causing it to retract #back into %3}
+{
+	play General/Misc/Unbuckle@rnd{3}.wav
+}
+{5}
+
+#ACTION {%1 suddenly seems to disappear into the background.}
+{
+	play General/Misc/HostOut@rnd{3}.wav
+}
+{5}
+
+#ACTION {%1 suddenly steps from the background.}
+{
+	play General/Misc/HostIn@rnd{3}.wav
+}
+{5}
+
+#ACTION {%1"Docking complete."%2}
+{
+	play Ship/Misc/DockingBayDoorClose.wav
+}
+{5}
+
+#ACTION {%1A %2 door to the %3 slides closed with a hiss%4}
+{
+	play Ship/Misc/DoorCloseStateroom.wav
+}
+{5}
+
+#ACTION {%1A %2 door to the %3 slides open with a hiss%4}
+{
+	play Ship/Misc/DoorOpenStateroom.wav
+}
+{5}
+
+#ACTION {%1A small lock destroying explosive explodes with unexpected #force, sending a shockwave slamming into you%2}
+{
+	play Ship/Misc/HatchBomb.wav
+}
+{5}
+
+#ACTION {%1You carefully place %2 along the edge of %3 hatch. You press #a small button and step back as the charge begins its 30 second #countdown%4}
+{
+	play Ship/Misc/HatchBombPlace.wav
+}
+{5}
+
+#ACTION {%1You hear a deep rumbling as the docking bay door closes%2}
+{
+	play Ship/Misc/DockingBayDoorClose.wav
+}
+{5}
+
+#ACTION {%1You hear a deep rumbling as the docking bay door opens%2}
+{
+	play Ship/Misc/DockingBayDoorOpen.wav
+}
+{5}
+
+#ACTION {%1You hear a strange sound coming from the airlock%2}
+{
+	play Ship/Misc/HatchBombPlaceHere.wav
+}
+{5}
+
+#ACTION {%1You hear what sounds like an explosion coming from the #general area of the airlock%2}
+{
+	play Ship/Misc/HatchBombHere.wav
+}
+{5}
+
+#ACTION {%1You indicate to your group members that you no longer wish #for them to follow you.%2}
+{
+	play disband.wav
+}
+{5}
+
+#ACTION {* indicates that %1 no longer wishes you to follow %2.%3}
+{
+	play disband.wav
+}
+{5}
+
+#ACTION {>> Command Aborted <<}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {I don't understand that.}
+{
+	play General/Misc/Command@rnd{10}.wav
+}
+{5}
+
+#ACTION {Invalid coordinates. Range: (1, 1, 1) to (20, 15, 10).}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {Invalid selection.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The ship is already moving.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The ship is already on autopilot.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The ship is already on manual navigation.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The ship must be in MANUAL mode.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The ship must be on autopilot mode.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The starship is already moving.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The starship must be in MANUAL mode.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {The starship must be on autopilot mode.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {Those coordinates are occupied by this ship.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {Those coordinates are too far away to establish a lock.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {You arrive at your new coordinates.}
+{
+	play General/Device/JetEnd.wav;
+	#line gag
+}
+{5}
+
+#ACTION {You begin to merrily float off into the great unknown.}
+{
+	play General/Device/JetStart.wav;
+	#line gag
+}
+{5}
+
+#ACTION {You can't go that way.}
+{
+	play General/Misc/CantGo@rnd{5}.wav
+}
+{5}
+
+#ACTION {You crumple %1 up and throw it away.}
+{
+	play General/Misc/Paper@rnd{3}.wav
+}
+{5}
+
+#ACTION {You decide against it until you aren't floating around in #space.}
+{
+	play General/Misc/Command@rnd{10}.wav
+}
+{5}
+
+#ACTION {You earn %1 credits%2}
+{
+	play General/Misc/Credits@rnd{4}.wav
+}
+{5}
+
+#ACTION {You elect to discontinue searching.}
+{
+	play General/Misc/Cancel.wav
+}
+{5}
+
+#ACTION {You gesture towards %1, who promptly joins your group.}
+{
+	play Joins.wav
+}
+{5}
+
+#ACTION {You hear a loud buzzing sound, indicating somebody is at the #door.}
+{
+	play buzz.wav;
+	#line gag
+}
+{5}
+
+#ACTION {You pull a series of straps around yourself and securely buckle #yourself into%1}
+{
+	play General/Misc/Buckle@rnd{3}.wav;
+	#line gag
+}
+{5}
+
+#ACTION {You receive %1 credits%2}
+{
+	play General/Misc/Credits@rnd{4}.wav
+}
+{5}
+
+#ACTION {You release the buckle of your seatbelt, causing it to retract #back into %1}
+{
+	play General/Misc/Unbuckle@rnd{3}.wav;
+	#line gag
+}
+{5}
+
+#ACTION {You should probably stop taking cover behind %1 first.}
+{
+	play General/Misc/Command@rnd{10}.wav
+}
+{5}
+
+#ACTION {You should stand up first.}
+{
+	play General/Misc/Command@rnd{10}.wav
+}
+{5}
+
+#ACTION {You snatch %1 from the cold, cruel hands of space.}
+{
+	play General/Misc/SnatchArtifact@rnd{2}.wav
+}
+{5}
+
+#ACTION {You walk face first into a silver door.}
+{
+	play General/Misc/CantGo@rnd{5}.wav
+}
+{5}
+
+#ACTION {[ [ ]Enter "yes" or "no"]}
+{
+	play prompt.wav
+}
+{5}
+
+#ACTION {[ [ ]Enter %1yes' or %2no']}
+{
+	play prompt.wav
+}
+{5}
+
+#ACTION {[ [ ]Type a line of input or %1abort' to abort the command.]}
+{
+	play prompt.wav
+}
+{5}
+
+#ACTION {[ [ ]Type lines of input; use %1.' to end or %2@abort' to abort #the command.]}
+{
+	play prompt.wav
+}
+{5}
+
+#ACTION {^A few sparks rise}
+{
+	play Gneral/Misc/Fireplace.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^Sensing adequate kindling, a bright, warm fire}
+{
+	play General/Misc/Fireplace.wav;
+	#line gag
+}
+{5}
+
+#ACTION {crackles merrily as the fire continues to burn.$}
+{
+	play General/Misc/Fire.wav;
+	#line gag
+}
+{5}
+
+#GAG              {[ # ][ $ ][ # ]hjelp}
+
+#CLASS {Misc} CLOSE

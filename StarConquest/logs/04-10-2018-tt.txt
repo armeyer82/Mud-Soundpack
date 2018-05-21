@@ -1,0 +1,1651 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Sat Mar 24 20:26:55 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Defensive Dissidence"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A wide transparisteel viewport provides a large field of view out
+the front of the ship, but experienced pilots in space will have eyes only for
+the large starmap dominating the right side of the room. Standing before the
+viewport is the main control board, providing essential functions like the
+shipwide power lever and alert status. Secondary control boards can be pulled up
+and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. There is not really enough room for anyone to comfortably
+stand here; there is only room for the pilot's chair and the controls arranged
+around it. Everything is within fast and easy reach, with the weapon controls in
+particular close to hand. The status lights overhead are currently not receiving
+power. Looking through the windows, you see that the ship is in a garage.
+You see a dark green leather captain's chair, a decoy beacon launcher, a
+wormhole drive tracer, and an improved temporary wormhole drive here.
+You can go down and out.
+(You are sitting on a dark green leather captain's chair.)
+l
+[Starship "Defensive Dissidence"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A wide transparisteel viewport provides a large field of view out
+the front of the ship, but experienced pilots in space will have eyes only for
+the large starmap dominating the right side of the room. Standing before the
+viewport is the main control board, providing essential functions like the
+shipwide power lever and alert status. Secondary control boards can be pulled up
+and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. There is not really enough room for anyone to comfortably
+stand here; there is only room for the pilot's chair and the controls arranged
+around it. Everything is within fast and easy reach, with the weapon controls in
+particular close to hand. The status lights overhead are currently not receiving
+power. Looking through the windows, you see that the ship is in a garage.
+You see a dark green leather captain's chair, a decoy beacon launcher, a
+wormhole drive tracer, and an improved temporary wormhole drive here.
+You can go down and out.
+(You are sitting on a dark green leather captain's chair.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: As a pilot you want both license points and credits, but most activities
+focus on one or the other.
+**
+sit chair
+You're already sitting.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I think the
+scoop should fall any moment now."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Are you going
+to get that, or shall I do it?"
+tr org If you can do it, that'd be great.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "If you can do it,
+that'd be great."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Sure, I'll take
+care of it."
+tr org Thanks.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Thanks."
+You hear your metallic gold touch einrophone ringing.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "No prob."
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+use phone
+You remove a metallic gold touch einrophone from a black leather phone holster.
+Katina (0003-34224) is calling. What do you wish to do?
+[1] Answer
+[2] Ignore
+Enter your selection:
+You hear your metallic gold touch einrophone ringing.
+1
+You unlock a metallic gold touch einrophone with a swipe of your finger.
+'Hi!
+You exclaim, "Hi!"
+Over the line, you hear Katina Faye say, "Hi shule."
+'Long time no talk to!
+You exclaim, "Long time no talk to!"
+Over the line, you hear Katina Faye ask, "Can I drop by for a sec?"
+'How are you?
+You ask, "How are you?"
+'of course!
+You exclaim, "Of course!"
+Over the line, you hear Katina Faye ask, "Where you at?"
+'The torus, Dock alpha
+You say, "The torus, Dock alpha."
+Over the line, you hear Katina Faye ask, "Do you live there?"
+'Pretty much. In my ships.
+You say, "Pretty much. In my ships."
+Over the line, you hear Katina Faye say, "Here."
+out
+You scramble to your feet.
+[Starship "Defensive Dissidence"; Airlock]
+You can go out and enter into the ship.
+out
+u
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You see Annalyn the little calico CatBot here.
+Katina Faye is standing here.
+You can go up.
+[The Torus; Dock Alpha]
+The bullet "And Be Excited For Glorious Progress" and the two-person Accord
+gemini "Haunted Reveries" are landed here.
+You see an automatic teller machine here.
+You can go north and down.
+Katina Faye sashays in from below.
+Annalyn the little calico CatBot trots happily in after Katina Faye with a quiet
+hiss of hydraulics.
+Some lights on the two-person Accord gemini "Haunted Reveries" flash as Katina
+Faye boards it. They flash again as the airlock closes.
+Annalyn the little calico CatBot trots happily after Katina Faye with a quiet
+hiss of hydraulics.
+hold katina
+Hold who?
+hold katina
+Hold who?
+d
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+Over the line, you hear Katina Faye say, "Annalyn followo."
+Over the line, you hear Katina Faye say, "Annalyn follow."
+The two-person Accord gemini "Haunted Reveries" is slowly brought in aboard an
+automated flatbed, then lowered to the floor.
+u
+[The Torus; Dock Alpha]
+The bullet "And Be Excited For Glorious Progress" is landed here.
+You see an automatic teller machine and Annalyn the little calico CatBot here.
+Katina Faye is standing here.
+You can go north and down.
+Katina Faye speaks into her cinnamon brown touch einrophone:
+Katina Faye says, "Okay."
+Over the line, you hear Katina Faye say, "Okay."
+Katina Faye touches the screen of a cinnamon brown touch einrophone, then swipes
+her finger across it to lock it.
+The connection goes silent with a soft click.
+You place a metallic gold touch einrophone into a black leather phone holster.
+Katina Faye places a cinnamon brown touch einrophone into a black leather phone
+holster.
+smile
+You smile.
+Katina Faye grins at you.
+hold katina
+You hold Katina Faye's hand, taking her into your group.
+d
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+Katina Faye followed you.
+Annalyn the little calico CatBot trots happily in after Katina Faye with a quiet
+hiss of hydraulics.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+Katina Faye followed you.
+Annalyn the little calico CatBot trots happily in after Katina Faye with a quiet
+hiss of hydraulics.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+Katina Faye followed you.
+Annalyn the little calico CatBot trots happily in after Katina Faye with a quiet
+hiss of hydraulics.
+sit chair
+You sit down on an overstuffed dark green chair.
+smile katina
+You smile at Katina Faye.
+Katina Faye says to you, "Catch me up."
+Katina Faye says to you, "How are you and Lily? How have things with you as a
+whole..."
+'Hmmm, let's see. I'm still not around very much...
+You say, "Hmmm, let's see. I'm still not around very much..."
+Katina Faye asks, "When was the last time we chatted?"
+'Oh, it's been over a month I'm sure.
+You say, "Oh, it's been over a month I'm sure."
+'But I'm doing well. How are you though?
+You ask, "But I'm doing well. How are you though?"
+Katina Faye asks, "Also can I sti?"
+Katina Faye says, "Sit."
+'of course!
+You exclaim, "Of course!"
+Katina Faye strokes the soft fur of Hope the old sleeping small dark indigo
+felo.
+Hope the old sleeping small dark indigo felo rolls over on its side, snoring
+gently.
+smile katina
+Katina Faye sits down on an overstuffed dark green chair.
+You smile at Katina Faye.
+rep t 6
+I don't understand that.
+rep t 6
+I don't understand that.
+Katina Faye says, "I just caught up with Constantine."
+smile
+You smile.
+Katina Faye says, "I personally think he's doing better than last time."
+Katina Faye grins.
+grin
+You grin.
+'I'm glad.
+You say, "I'm glad."
+Katina Faye says, "Which is good Because I don't like it when my friends are
+sad."
+nod
+You nod.
+Katina Faye says, "I also miss Lily."
+Katina Faye says, "Tell her I said hi."
+Katina Faye asks, "Please?"
+'I don't think anyone likes it when t their friends are sad.
+You say, "I don't think anyone likes it when t their friends are sad."
+'I will.
+You say, "I will."
+'She should be around later though.
+You say, "She should be around later though."
+Katina Faye says, "I went home for a week, and before that I was out at 284 so,
+that probably sums up close to a month of being anti-social with the core."
+Katina Faye giggles.
+chuckle
+You chuckle.
+Katina Faye says, "And I miss Sean."
+'I've been antisocial. I've not been around at work much at all.
+You say, "I've been antisocial. I've not been around at work much at all."
+Katina Faye says, "He's gone off again, and I dunno where, or when he'll be
+back."
+'He's always running off it seems.
+You say, "He's always running off it seems."
+Katina Faye says, "Work, pilots, work, pilots, work, sometimes we have to catch
+our breath."
+'Definitely
+You say, "Definitely."
+Katina Faye says, "So that's why I went home."
+nod 'makes sense.
+You nod. "Makes sense."
+Katina Faye says, "Also it's nice to visit home when pilot life starts
+intimidating you."
+'for sure!
+You exclaim, "For sure!"
+Katina Faye says, "Familiar surroundings, equals comforts."
+'I can understand that.
+You say, "I can understand that."
+Katina Faye shrugs.
+Katina Faye says, "It's not even work."
+Katina Faye says, "It was just someone."
+'Ather?
+You ask, "Ather?"
+Katina Faye asks, "Will it ever not be?"
+Katina Faye says, "We're good trust me."
+'oh good
+[AEU | 4: Sector Status] AEU Scooping Solar Temporary Station at Olivia's Pearl
+Orbit is shutting down.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+64 megacredits from AEU Scooping Solar Temporary Station.
+You say, "Oh good."
+[AEU | 4: Sector Status] AEU Scooping Solar Temporary Station at Olivia's Pearl
+Orbit is now online!
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new AEU Scooping Solar Temporary Station in Olivia's Pearl
+Orbit.
+Katina Faye says, "I just think I'll always love him."
+Katina Faye points at an orange and white blessed prayer bracelet.
+nod katina
+You nod to Katina Faye.
+'I understand.
+You say, "I understand."
+Katina Faye says, "That symbolizes my heart. If you see it on another boy, it
+means that they have my heart."
+smile
+You smile.
+Katina Faye says, "Ather had it for a while."
+Katina Faye gets a distant look on her face as she ponders.
+-kat Well, whoever has it is lucky to have it.
+You say to Katina, "Well, whoever has it is lucky to have it."
+Katina Faye removes a sharkskin clutch purse from a small lavender silk purse
+embroidered with scarlet cherry blossoms for a moment.
+Katina Faye says, "I wish people would stop telling me that. I value it less."
+'Awww.
+You say, "Awww."
+Katina Faye says, "The more my heart breaks, the more I just start having a more
+resented synical view on my heart, and romance and that shit."
+Katina Faye says, "Gets old."
+nod
+You nod.
+Katina Faye removes a large oval honey brown lacquered box decorated with
+paintings of light blue landscapes of mountains and bridges from a small
+lavender silk purse embroidered with scarlet cherry blossoms for a moment.
+Katina Faye removes a copy of "Ramblings of Katina Faye" from a large oval honey
+brown lacquered box decorated with paintings of light blue landscapes of
+mountains and bridges.
+Katina Faye opens a copy of "Ramblings of Katina Faye".
+Katina Faye begins reading in a copy of "Ramblings of Katina Faye".
+Katina Faye gives you a copy of "Ramblings of Katina Faye".
+Katina Faye says, "You're allowed to read that page."
+read book
+Ramblings of Katina Faye                                         Page 33
+Dear Diary,
+I've stopped writing for a while because I felt like I lost my inner voice. I
+don't have the energy to write what has become of me ever sense the last time I
+wrote in this book. I just know that I'm struggling to move on from Ather, but
+I'm just struggling with not being angry at myself for wondering why I bothered
+to give my heart to him, and why I allowed myself to keep having faith in him
+for so long. He gave me back my bracelet that I gave him. It symbolized my
+heart. He told me that he does not believe in that one person in the whole
+entire galaxy for that other person. He told me to move on, and to hink of him
+as a friend who does not have my heart, but is there for me when I need
+something, and a friend who has my back. It left me numb, because I knew that I
+could not find any more reason to keep fighting and hoping for him. It left me
+shocked and numb because it hurt. I won't even try to explain just how much it
+did. Anyways, I've turned away from Ather in the concept of having anything to
+do with him romance wise. I know now for sure that he does not want me in that
+way. I am just so very, I do not know how to explain. I sigh as I write this and
+wonder if I should continue to write my ramblings on this page. In the time of
+moving on from Ather, I had 3 suiters. Caleb, Joel, and this pilot named Jimmy.
+One I was willing to date, but he romanced me and unfurled my wings of hope, and
+then vanished unexpectedly. It broke my heart some more. And I didn't think my
+heart could be broken off anymore than it already was. So I've gone hauling at
+284 which is a station that Sean has built in an asteroid field. I've been here
+for about 2 weeks I think. I've been goin back home in my Capsule every now and
+again. I am not sure how I am doing right now. I gues I just feel lost. But it's
+not the same lost feeling as when I got lost in the rift. I feel, sane, not
+emotionally wrecked, not all confuddled and scared. I feel more wraw and pained,
+and numb. I cannot explain it. But I know I'm okay over all. I refuse to not be
+not okay, I refuse to let my troubles drown me. I'm just...bewildered and numb
+inside. There's also my growing feelings for Pierre. He was the last person I
+expected to grow feelings for, and I'm not sure I like this. I guess this is
+what's troubling me most. He was not even one of my suiters, things just
+happened. Then we got very naughty with each other, and I'm a grown woman and it
+was, it was very nice. I'm just working on clenching my heart like a fist, and
+denying my budding feelings for him. Why? It would be like a dying star to be
+rejected again. My heart doesn't need it. I should toughen up like the other
+girls and not be so, vonerable. I believe that Pierre will reject me if I told
+him of my feelings for him, because, what I know of him is that he is like Joel
+and loves women. So I doubt he would settle with me. I mean, I doubt he would be
+interested in a serious relationship with me. What I know of him personally, is
+that he is a wonderful, benevolent, funny mister, and he makes me smile. I'm
+also very shy around him, though I try to keep a cool face about me in his
+presence. He has not rejected me so far, but I believe if he knew of my growing
+feelings for him, he will reject me and distance himself from me. Though
+eventually I might tell him so, for I like to be honest with my friends. It is
+strange. I have heard that Pierre was quite the ladys' man, but he never once
+flirted with me, or tried to woo me until I flirted with him first. I wonder if
+that means anything. But I also wonder now that I am now one of the women that
+he has wooed and romanced, if I mean less to him. That is even if I meant more
+to him when he did not even flirt with me. I don't know what is up with me. I
+hope I'll sort myself out soon. All I know is the stuff concerning Pierre, my
+resent towards Ather, my resent towards myself, and my bitterness towards
+romance and myself. At leastI know I'm okay with everything else. I'm going home
+Saturday, like back to Mercy Heights for a few days. Maybe then my head will be
+cleared. But I do miss Mister Pierre. I miss how he held me so, gently and ran
+his fingers through my hair so softly and tenderly. I miss him smiling at me. I
+miss smiling at him. Oh for stars sake, now I'm just rambling. There. I have
+written the best I could on what's become of me ever since I last wrote. It may
+be gappy and cramped-like, but it will stress me out if I have to explain in
+extreme detail how my heart broke and all that shitty sap. I'll be okay, because
+I have to be.
+Katina Faye says, "Mind you this is a lot of trust, I rarely show that book to
+anyone."
+nod 'Thank you for sharing that with me.
+You nod. "Thank you for sharing that with me."
+give book to katina
+Give it to a copy of "Ramblings of Katina Faye"?  I don't think so.
+give book to 2.katina
+I see no "2.katina" here.
+give book to second katina
+You give a copy of "Ramblings of Katina Faye" to Katina Faye.
+Katina Faye closes a copy of "Ramblings of Katina Faye".
+Katina Faye removes a large oval honey brown lacquered box decorated with
+paintings of light blue landscapes of mountains and bridges from a small
+lavender silk purse embroidered with scarlet cherry blossoms for a moment.
+Katina Faye puts a copy of "Ramblings of Katina Faye" in a large oval honey
+brown lacquered box decorated with paintings of light blue landscapes of
+mountains and bridges.
+Katina Faye gets a distant look on her face as she ponders.
+Katina Faye says, "Oh."
+Katina Faye removes a large oval honey brown lacquered box decorated with
+paintings of light blue landscapes of mountains and bridges from a small
+lavender silk purse embroidered with scarlet cherry blossoms for a moment.
+Katina Faye removes a copy of "Ramblings of Katina Faye" from a large oval honey
+brown lacquered box decorated with paintings of light blue landscapes of
+mountains and bridges.
+Katina Faye opens a copy of "Ramblings of Katina Faye".
+Katina Faye gives you a copy of "Ramblings of Katina Faye".
+-katina I think you will find someone someday. I really do hope so. I went
+through a couple of bad relationships before I met Lily and I still hold one of
+them dear to my heart.
+You say to a copy of "Ramblings of Katina Faye", "I think you will find someone
+someday. I really do hope so. I went through a couple of bad relationships
+before I met Lily and I still hold one of them dear to my heart."
+Katina Faye says, "That is sort of sums up stuff."
+read katina
+Ramblings of Katina Faye                                         Page 34
+Dear Diary,
+So my suspicion has been confirmed that Pierre would not be interested in me,
+having a relationship with me wise. I told him not to worry for me, that I am
+not the weak vonerable girl that once dated Ather. But I'm only denying myself.
+Of course I won't go crying to the rift about my hurt feelings, but I don't know
+if I'll ever be tough enough to just gloss over being rejected. It is not his
+fault. I don't blame him, I only blame myself, because they're my feelings. He
+was only being honest and I am so grateful for that. What is wrong with me? I am
+a good pilot, I am great and strong in all else, but when one brings up the
+subject of Katina's romance love story, it' is cold and haunting. Why do I grow
+feelings for unloyal men, or men that are enamored with me, then gro bored of
+me, or something of that sort? The more I experience heartbreak here in the
+core, the more my innocent and hopeful views on love and romance are lessened
+and defiled. Hell I do not even believe in love anymore. I believe love is a
+blue rose. But as I wrote to Pierre, experiencing pilot life has made me grow
+and toughen in some ways. The more my innocent view of romance gets marred,
+defiled, and betrayed, the colder my heart gets. I mean, would you see me
+sleeping with men and having casual sex with them in my earlier days as a pilot?
+No.
+Katina Faye says, "Read that page."
+nod
+You nod.
+give katina to second katina
+You give a copy of "Ramblings of Katina Faye" to Katina Faye.
+Katina Faye asks, "You read it?"
+'I did.
+You say, "I did."
+Katina Faye closes a copy of "Ramblings of Katina Faye".
+Katina Faye says, "So I'm okay, Ipm peachy, just not when it comes to my romance
+wise."
+Katina Faye says, "Urr side."
+Katina Faye removes a large oval honey brown lacquered box decorated with
+paintings of light blue landscapes of mountains and bridges from a small
+lavender silk purse embroidered with scarlet cherry blossoms for a moment.
+Katina Faye puts a copy of "Ramblings of Katina Faye" in a large oval honey
+brown lacquered box decorated with paintings of light blue landscapes of
+mountains and bridges.
+'YEah, I can understand that. Like I said, my first two relationships were
+crappy too.
+You say, "YEah, I can understand that. Like I said, my first two relationships
+were crappy too."
+Katina Faye says, "I bet you people that don't know me think I have a guy or I'm
+already taken, or if they know I'm single that it would be good to have a
+relationship with me. But I just think I'm just dammaged oods."
+Katina Faye says, "Goods."
+-katina Same thing could be said for me.
+You say to Katina, "Same thing could be said for me."
+Katina says to you, "Oh bah."
+Katina laughs softly.
+Katina says to you, "You and Lily is like Me and Ather."
+Katina Faye says, "Together and happy."
+Katina Faye asks, "How could you say the lesser?"
+'But the price to get there was almost unbareable.
+You say, "But the price to get there was almost unbareable."
+'And relaly, I'm not a good boyfriend for her. I still have no idea why she
+loves me as much as she does. I'm sure there are many other pilots who would
+treat her better than I do.
+You say, "And relaly, I'm not a good boyfriend for her. I still have no idea why
+she loves me as much as she does. I'm sure there are many other pilots who would
+treat her better than I do."
+Katina Faye says, "I'm sure Ather thinks that."
+Katina Faye says, "But he doesn't know how unconditional love is."
+'Many of us don't.
+You say, "Many of us don't."
+-kat I was almost positive that if Lily ever found out the tdetails of my past
+relationships she'd never have dated me.
+You say to Katina, "I was almost positive that if Lily ever found out the
+tdetails of my past relationships she'd never have dated me."
+'detaisl
+You say, "Detaisl."
+'details
+You say, "Details."
+'I'm not a saint!
+You exclaim, "I'm not a saint!"
+laugh
+You laugh.
+Katina Faye says, "He doesn't know that, even if he wasn't around much, that I'd
+be okay with that now. Sure I wasn't before. He doesn't know that even if he had
+to suddenly go, I could understand. Because when you love someone you love their
+flaws as well as their good, you love all of them. He'll never know how much I
+cherish him in my heart, or how much he hurt me."
+Katina says to you, "She loves you truly."
+Katina Faye says, "I love him truly. I love Ather truly. I just think loving him
+is, bittersweet."
+nod katina
+You nod to Katina Faye.
+Katina Faye says, "Ather is good person, you must know that."
+'I think we all  have good and bad in us.
+You say, "I think we all have good and bad in us."
+Katina Faye says, "You know the first time I heard Ather I was frightened of
+him."
+Katina Faye says, "It was over comms."
+Katina Faye giggles.
+-kat Sorry if you feel a little crowded sitting with me on this  chair.
+You say to Katina, "Sorry if you feel a little crowded sitting with me on this
+chair."
+chuckle katina
+You chuckle at Katina Faye.
+Katina says to you, "You calling me fat?"
+Katina sticks her tongue out at you.
+'No, I'm probably the fat one.
+You say, "No, I'm probably the fat one."
+Katina Faye says, "No I laugh at it now, I was just on a beacon and I heard him
+and Aisling over General, you just hear all these normal voice and then you hear
+a robot voice come in, and I was startled. And I was like who's that? And people
+on the ship said, "Just a robot. So I believed them until I saw him in person."
+Katina laughs softly.
+Katina bites her lip to tame a blush.
+[Tactical Communication] Hawthorn Dunn transmits, "Anyone wanna do a poacher
+camp at midnight?"
+-kat Hey, give me some credit here. I'm trying not to be affectionate with you
+while sitting on the same chair as you.
+You say to Katina, "Hey, give me some credit here. I'm trying not to be
+affectionate with you while sitting on the same chair as you."
+[Tactical Communication] Kert On'Marr transmits, "Me."
+laugh
+You laugh.
+nod katina
+You nod to Katina Faye.
+Katina says to you, "Say that again and I'll shove you off the chair wiht my
+toosh."
+Katina Faye grins at you.
+chuckle katina
+You chuckle at Katina Faye.
+Katina Faye gives you Hope the old sleeping small dark indigo felo.
+pet felo
+You stroke the soft fur of Hope the old sleeping small dark indigo felo.
+Hope the old sleeping small dark indigo felo meows in protest, rolls away from
+you, and curls up to sleep.
+chuckle
+You chuckle.
+Katina Faye says, "Dunno I just miss the times when all of us, all three of our
+alliances."
+Katina Faye says, "Were beaconing, and doing missions, and nests, and all that
+sort together."
+'Yeah, me too.
+You say, "Yeah, me too."
+Katina Faye asks, "That also made me want to take off work for a bit. The...help
+me say it?"
+Katina Faye says, "The..."
+Katina Faye gets a distant look on her face as she ponders.
+Katina Faye says, "When things are apart, and not together..."
+Katina Faye blushes.
+ponder
+You get a distant look on your face as you ponder.
+Katina Faye says, "Brings a negative feelings in one's tummy."
+nod katina
+You nod to Katina Faye.
+'But unfortunately, that's how things are right now.
+You say, "But unfortunately, that's how things are right now."
+Katina Faye says, "Just made me miss all of us together again, and now we're all
+apart and judging each other."
+sigh 'I know. I miss it too.
+You sigh. "I know. I miss it too."
+Katina Faye says, "If you dwell too much on it, its a bit of a negative
+environment."
+Katina Faye says, "I guess I dwelled too much on it."
+'YEah, partly why I haven't been around much at work.
+You say, "YEah, partly why I haven't been around much at work."
+Katina Faye says, "I miss the olddays, the days when I was a newer pilot and we
+were all alright."
+nod katina 
+You nod to Katina Faye.
+Katina nods softly in understanding.
+give felo to katina
+You give Hope the old sleeping small dark indigo felo to Katina Faye.
+Katina Faye says, "I just want you guys to just keep looking forward, to hope in
+the good no matter what."
+nod
+You nod.
+Katina Faye says, "Cause if you look down you'll feel the burden of your
+troubles and you might fall."
+'Lily's doing a better job of that than I am.
+You say, "Lily's doing a better job of that than I am."
+Katina smiles softly at you.
+Katina says to you, "Just count your blessings when things get too much."
+nod 'I try.
+You nod. "I try."
+Katina says to you, "Remember your friends, remember the ones that love you,
+remember the echoes of good happy memories and use that as a foothold to help
+keep you going."
+Katina grins ruefully.
+: nods and smiles faintly.
+Shule nods and smiles faintly.
+Katina Faye says, "I don't think life was ever meant to be easy."
+'Oh it's never was.
+You say, "Oh it's never was."
+Katina Faye says, "But it's the good in us, and the good in our lives that can
+give us a boost."
+Katina Faye glances down at her watch momentarily.
+nod
+You nod.
+Katina Faye says, "And I need to go, time is...a tease."
+Katina Faye stands up from an overstuffed dark green chair.
+'If we still have any good left in us.
+You say, "If we still have any good left in us."
+Katina Faye hugs you.
+hug katina
+You hug Katina Faye.
+Katina says to you, "You take care, and we'll talk again okay?"
+stand
+You stand up from an overstuffed dark green chair.
+wave katina
+You wave to Katina Faye.
+Katina Faye waves.
+Katina Faye sashays out.
+Annalyn the little calico CatBot trots happily after Katina Faye with a quiet
+hiss of hydraulics.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+ftl new
+The ship is already moving.
+ftl new
+The ship is already moving.
+ftl new
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+Via general sector communication, New Earth transmits, "Hello there, Deadly
+Strike! Welcome to home space!"
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                                               
+   Space Stations:
+[2] Space Station Alpha                                     
+   Space Markets:
+[3] Space Market                                            
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: New Earth.
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "Hello, Deadly Strike. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+The computer informs you that you have mail waiting, which may be picked up at
+New Earth; Spaceport Mail Room.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+[Starship "Deadly Strike"; Airlock]
+out
+You can go out and enter into the ship.
+You exit the ship.
+w
+[New Earth; Spaceport Landing Pad]
+The four-person mule "Lion's Den" and the two-person flare "Deadly Strike" are
+landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+w
+[New Earth; Spaceport East]
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport East]
+You see a trash can and a sanitation drone here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+se
+[New Earth; Spaceport Mail Room]
+You can go northwest and down.
+check
+The postal machine informs you that you have mail waiting.  After some movements
+coming from the back room, the conveyor belt coming from the wall swiftly brings
+forth a fine piece of paper with an official header reading "From the founder of
+Space Explorers Amidst The Stars". You quickly grab it off the belt.
+read paper
+--
+Dear Casen,
+As Founder of SEAS, I would like to extend an invitation to you to consider
+joining Space Explorers Amidst the Stars (SEAS), an AEU Organization.
+SEAS is a full facility organization with a well-equipped fleet of starships to
+rent as well as we have two cruisers which are supported and room for two
+additional cruisers at this time for qualified pilots.
+SEAS has access to the Organization area's Genetics Lab and the Range office for
+monitoring the activity of Temporary Space Stations. We actively support and
+build Temporary Space Stations to promote income-producing work for AEU and all
+pilots who utilize those Temporary Space Stations.
+SEAS encourages our members to participate in Exploration opportunities and
+plans to sponsor Expeditions over time.
+As a member of SEAS, there is no established requirement of you to contribute
+earned Points or Credits. unless you are promoted to Trustee or become Cruiser
+qualified with a Cruiser to support. Otherwise, all contributions are voluntary
+as our primary goal is to help you to develop to your fullest potential. At some
+point when you feel that you would like to contribute towards organizational
+goals, you would be welcomed to but never required to unless there is some
+unforeseen circumstance which has depleted our resources. So far though, SEAS
+has sufficient enough resources to well sustain it's activities and to support
+it's infrastructure.
+When you become Cruiser qualified and SEAS takes on the responsibility to seek
+Alliance support of your Cruiser, then we would appreciate credits contributed
+towards its support as it costs SEAS 80,000,000 Credits per Conquest Period to
+maintain continued Alliance Support and this is per each Cruiser supported.
+Although this is an expensive sum per Conquest, We believe that it is necessary
+that the Corps has enough Cruisers to aid in the defense of humanity. Therefore,
+SEAS will support member Cruisers for as long as we are reasonably able to.
+SEAS is selective in who we will choose to recruit as members. Although we enjoy
+socializing, we are focused and serious about our work. We want our members to
+represent strong ethical values as well. We have observed your progress and we
+believe that you represent these core values.
+If you have attained 30 days as a Pilot and are interested in becoming a member
+of SEAS, We would look forward to the opportunity to consider adding you as a
+member of SEAS.
+Please contact shule Elemmire, Constantine Stone or myself if you have questions
+or when you are ready to join and we will meet with you and if everyone is in
+agreement, we will invite you in.
+Kind regards
+Lily Kaise
+--
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+put paper in briefcase
+You put a fine piece of paper with an official header reading "From the founder
+of Space Explorers Amidst The Stars" in a leather briefcase.
+nw
+[New Earth; Spaceport East]
+You see a trash can and a sanitation drone here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+e
+[New Earth; Spaceport East]
+You can go northeast, east, southeast, south, southwest, and west.
+e
+e
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+e
+[New Earth; Spaceport Landing Pad]
+The four-person mule "Lion's Den" is landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+e
+You can't go that way.
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You see a large number of stored starships here.
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you have clearance to
+launch. Good luck and come back to us safely."
+ftl the torus
+The ship is already moving.
+ftl the torus
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, The Torus transmits, "Greetings, Deadly
+Strike! Welcome to The Torus!"
+trace
+Recent FTL Drive Traces:
+EAOS capsule "Peregrine Falcon" departed to League sector Earthgate (Alpha-1)
+approximately 4 minutes ago.
+AEU corvette "Deadly Strike" departed to AEU sector Providence Gate (Alpha-1)
+approximately 3 minutes ago.
+League transport "Opal Wing" departed to League sector Earthgate (Alpha-1)
+approximately 1 minute ago.
+move
+AutoStar detects 2 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] The Torus (Dock Alpha)                                  
+[2] The Torus (Dock Beta)                                   
+[3] The Torus (Dock Gamma)                                  
+[4] The Torus (Dock Delta)                                  
+   Space Markets:
+[5] Space Market                                            
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Deadly Strike. The EAOS welcomes you under the non-aggression pact."
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at The Torus; Dock Alpha.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+[Tactical Communication] Hawthorn Dunn transmits, "Uh.... interdictor in 286 can
+I get some help?"
+out
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter defensive
+[Starship "Defensive Dissidence"; Airlock]
+You can go out and enter into the ship.
+tra tac sure.
+[Tactical Communication] Shule Elemmire transmits, "Sure."
+[Tactical Communication] Hawthorn Dunn transmits, "Nevermind ships left."
+enter
+[Starship "Defensive Dissidence"; Control Room]
+You see a dark green leather captain's chair, a decoy beacon launcher, a
+wormhole drive tracer, and an improved temporary wormhole drive here.
+You can go down and out.
+[Tactical Communication] Hawthorn Dunn transmits, "I'll just pop it."
+tr tac ok
+[Tactical Communication] Shule Elemmire transmits, "Ok."
+[Tactical Communication] Evenia Callseah transmits, "Copy."
+[Tactical Communication] Kert On'Marr transmits, "It is that time."
+[Tactical Communication] Hawthorn Dunn transmits, "It is, that time."
+[Tactical Communication] Hawthorn Dunn transmits, "Can I get interest in a
+poacher camp."
+turn comm to 0
+I don't understand that.
+Try this instead:  turn comm
+[Tactical Communication] Steven Timothy transmits, "If you can wait about ten
+inutes."
+[Tactical Communication] Steven Timothy transmits, "Minutes."
+[Notification from Space Explorers Amidst The Stars] 160,000,000.00 credits have
+been deducted from the starship support fund.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "The results
+are in!"
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+71,380.82 credits of your income have gone toward your organization.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We did not
+achieve any of our performance goals."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Our
+performance was up 6.0% from the last Conquest period."
+read comm
+You glance at your communicator's screen.
+475,872.16 AEU credits from your trust fund have been released to you. [00:01 11
+April 2318 GST]
+stand
+sw
+You're already standing.
+You can't go that way.
+sw
+You can't go that way.
+sit sofa
+I can't find "sofa."
+sit chair
+You sit down on a dark green leather captain's chair.
+[Tactical Communication] Hawthorn Dunn transmits, "Can I get 4 for a shallow
+megapod?"
+[Tactical Communication] Katina Faye transmits, "Sure."
+[Tactical Communication] Kert On'Marr transmits, "I'll be bowing out, which
+might cause problems. Apologies."
+[Tactical Communication] Hawthorn Dunn transmits, "Can I get 3 more?"
+[Tactical Communication] Hawthorn Dunn transmits, "One for a nest tier one or
+two."
+[Tactical Communication] Cataleya Sandes transmits, "I'll go."
+[Tactical Communication] Hawthorn Dunn transmits, "Preferably repair suit
+please."
+[Tactical Communication] Cataleya Sandes transmits, "Oh well fuck I don't have
+one."
+[Tactical Communication] Hawthorn Dunn transmits, "Cat put armor on your league
+and weapons please."
+[Tactical Communication] Cataleya Sandes transmits, "On it, babe."
+[Tactical Communication] Hawthorn Dunn transmits, "Uh, Cat forget what I said
+just bring the suit like you have it."
+[Tactical Communication] Cataleya Sandes transmits, "Okay."
+[Tactical Communication] Cataleya Sandes transmits, "Chetumal?"
+[Tactical Communication] Hawthorn Dunn transmits, "Yup."
+[Tactical Communication] Cataleya Sandes transmits, "Okay."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Hello did anyone
+deploy the new Scoop per chance?"
+tr org Constantine deployed it.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Constantine
+deployed it."
+tr org And hi.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "And hi."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Woo go Constantine or
+both of you al! Thanks!"
+who
+There appear to be about 17 pilots recently active.
+The communicator network detects:
+Pierre-Louis Tremblay-du-Lys  (E)
+Melinda Michaels  (E)
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Katina Faye  (L)
+Brunhilda Schreiber  (L)
+Cataleya Sandes  (L)
+Petra Summers  (L)
+Damien Goss  (L)
+Kert On'Marr  (L)
+Steven Timothy  (F)
+Saralynn Timothy  (F)
+Hawthorn Dunn  (F)
+Kani Kahakai  (F)
+Evenia Callseah  (F)
+Your communicator also reports that there are 2 pilots who were active but
+dropped out of communications.
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 28 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Hi Love!"
+tr org Katina wanted me to tell you hi for her by the way.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Katina wanted me
+to tell you hi for her by the way."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Aww sorry I missed
+her."
+l
+[Starship "Defensive Dissidence"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A wide transparisteel viewport provides a large field of view out
+the front of the ship, but experienced pilots in space will have eyes only for
+the large starmap dominating the right side of the room. Standing before the
+viewport is the main control board, providing essential functions like the
+shipwide power lever and alert status. Secondary control boards can be pulled up
+and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. There is not really enough room for anyone to comfortably
+stand here; there is only room for the pilot's chair and the controls arranged
+around it. Everything is within fast and easy reach, with the weapon controls in
+particular close to hand. The status lights overhead are currently not receiving
+power. Looking through the windows, you see that the ship is in a garage.
+You see a dark green leather captain's chair, a decoy beacon launcher, a
+wormhole drive tracer, and an improved temporary wormhole drive here.
+You can go down and out.
+(You are sitting on a dark green leather captain's chair.)
+tr org I'm just hanging out in my pariot as I had to scare off a couple Merry
+Band ships in B-29. Casen was a few sectors west of B-29 and would have had a
+nice greeting had she come into the sector.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "I'm just hanging
+out in my pariot as I had to scare off a couple Merry Band ships in B-29. Casen
+was a few sectors west of B-29 and would have had a nice greeting had she come
+into the sector."
+tr org hanging out in my patriot.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Hanging out in my
+patriot."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oh ok. I'm just
+sitting here in Dove where I fell asleep earlier."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "You guys can keep the
+new female pilot company heh."
+tr org laugh
+[Space Explorers Amidst The Stars] Shule Elemmire laughs.
+tr org And have you kill me later. Right.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "And have you kill
+me later. Right."
+[Space Explorers Amidst The Stars] Lily Kaise laughs.
+out
+You scramble to your feet.
+[Starship "Defensive Dissidence"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a small mystic purple bioplastic crate, and
+a glossy sky blue ceramic felo chow bowl here.
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a small dusky pink trash bin, a black plastic tray of spider chow, a bag
+of felo treats, a wall-sized bubbling neon purple-lit aquarium containing yellow
+and orange aquatic life and coral rocks, a small white trash bin, Magellan the
+arachnoid security robot, Purr the humanoid service robot, and Shine the big
+white glowing felo here.
+You can go south and out.
+kiss lily
+I don't see "lily" here.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a black
+plastic tray of spider chow, a small purple trash bin, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a black plastic tray of spider chow, and a wall-sized bubbling
+coral pink-lit aquarium containing white and violet aquatic life and coral rocks
+here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a white four
+poster rattan bed with a heart-shaped headboard and filmy deep purple hangings
+with a soft periwinkle cashmere blanket, a set of lavender silk sheets, a large
+periwinkle bed pillow, a hand-made purple and amethyst flower quilt, and a large
+periwinkle bed pillow on it, a large oval dark purple and light purple cloth
+rug, and a small oval turquoise rattan table with a glass top here.
+You can go out.
+out
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a black plastic tray of spider chow, and a wall-sized bubbling
+coral pink-lit aquarium containing white and violet aquatic life and coral rocks
+here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a black
+plastic tray of spider chow, a small purple trash bin, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a small dusky pink trash bin, a black plastic tray of spider chow, a bag
+of felo treats, a wall-sized bubbling neon purple-lit aquarium containing yellow
+and orange aquatic life and coral rocks, a small white trash bin, Magellan the
+arachnoid security robot, Purr the humanoid service robot, and Shine the big
+white glowing felo here.
+Lily Kaise is standing here.
+You can go south and out.
+Lily Kaise tickles you!
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise laughs.
+sit sofa
+I can't find "sofa."
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+laugh
+You laugh.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+tr org No thanks. I'd rather not have you kill me later.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "No thanks. I'd
+rather not have you kill me later."
+chuckle
+You chuckle.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "But oh! Oh! Oh! How
+the killing tould be! I'm lousy at dualing but I'd try my damndest!"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "But oh! Oh! Oh! How
+the killing would be! I'm lousy at dualing but I'd try my damndest!"
+tr org laugh
+[Space Explorers Amidst The Stars] Shule Elemmire laughs.
+Lily Kaise keys her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise laughs.
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says, "Sec I guess I should pay the rest of the bit of Insurance I
+maintain on Exploration ships."
+'ok
+You say, "Ok."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides out.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Lily Kaise asks, "Ok so tomorrow morning or later this evening, let's clear Old
+Frontier?"
+'Woo! Let's.
+You say, "Woo! Let's."
+Shine the big white glowing felo wanders south.
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+'Somehow I don't see you cheating on me with Constantine even if you did.
+You say, "Somehow I don't see you cheating on me with Constantine even if you
+did."
+chuckle
+You chuckle.
+Lily Kaise says, "Shule uh no."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+-lily I'm not worried. I totally trust you.
+You say to Lily, "I'm not worried. I totally trust you."
+smile lily
+You smile at Lily Kaise.
+Lily Kaise says, "I never have had any attraction to Constantine. I just felt he
+was a motivated pilot and that is the type of individual I would prefer to
+recruit into SEAS."
+grin lily 'I know hun. I totally trust you.
+You grin at Lily Kaise. "I know hun. I totally trust you."
+Lily Kaise says, "So I have learned Casen is a female. I had no idea since i've
+never met her and I am of the same impartiality. I want both male and female
+members recruited into SEAS."
+smile
+You smile.
+'Me too!
+You exclaim, "Me too!"
+Lily Kaise says, "I'm sad that Tara has disappeared. In fact, I bought a
+sleeping mat for her and one for Katie."
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at a white plastic undersea castle and clings to it for a moment,
+then jets off.
+'YEah, so sad.
+You say, "YEah, so sad."
+who tara
+Tara Sertel does not seem to have an active communicator.
+Lily Kaise says, "Nod."
+Lily Kaise nods.
+cuddle lily
+You cuddle up to Lily Kaise.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily Kaise cuddles up to you.
+Lily Kaise says, "I just wish Tara would have spoken to one of us."
+'Yeah, me too.
+You say, "Yeah, me too."
+Lily Kaise says, "I truly liked and admired her and already missed her."
+nod lily
+You nod to Lily Kaise.
+'She was fun to be around.
+You say, "She was fun to be around."
+Lily Kaise exclaims, "She was!"
+who eliza
+I can't find someone with the name 'eliza'.
+A short gold soft-bodied creature with many claw-tipped tentacles swims around a
+small plastic statue of a shark.
+-lily I love you.
+You say to Lily, "I love you."
+tr short chuckle
+Please enter a valid channel to transmit on.
+A large semi-transparent perfectly round creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly past a string of light
+purple plastic kelp.
+A large semi-transparent spherical creature with narrow dangling tendrils and an
+orange glowing interior drifts slowly past a string of light purple plastic
+kelp.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+-lily I love you so much.
+You say to Lily, "I love you so much."
+Lily says to you, "I love you so muxh too! I so wish I could introduce you to my
+family. They do come to new Phoenix to shop and conduct business from time to
+time but alas... I don't htink I could sneak a meeting with them and us. to."
+'Awww, you think they'd like me? Or... am I too.. I don't know... Would I live
+up to their expectations?
+You ask, "Awww, you think they'd like me? Or... am I too.. I don't know... Would
+I live up to their expectations?"
+Lily says to you, "They would really love you ad of course you would be up to
+their expectations."
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+'I would love to meet them someday.
+You say, "I would love to meet them someday."
+A large semi-transparent spherical creature with narrow dangling tendrils and an
+orange glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+-lily You know, before you came along, I wasn't sure if I really deserved a
+woman like you. My two ex's left me for other man and women and one of them even
+wanted to marry me at one point.
+You say to Lily, "You know, before you came along, I wasn't sure if I really
+deserved a woman like you. My two ex's left me for other man and women and one
+of them even wanted to marry me at one point."
+Lily Kaise says, "They came to terms awhile ago, that first, I had no desire to
+become a doctor after four years of courses in pre-med, that I had no desire or
+interest but I conceded to taking business and finance-relted but I loved the
+stars moreso."
+Lily Kaise laughs.
+smile lily 'YEah, I can tell you love the stars. I'm glad they let you pursue
+your dreams.
+"YEah, I can tell you love the stars." You smile at Lily Kaise. "I'm glad they
+let you pursue your dreams."
+Lily Kaise says, "So they also realized that whomever I would ultimately want to
+be with in a significant relationship would likely share my interests."
+grin
+You grin.
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+'I relaly fought against my family to become a pilot. I had a dear friend and at
+the time, was my girlfriend and she saw how much I loved the stars and wanted to
+become a pilot.
+You say, "I relaly fought against my family to become a pilot. I had a dear
+friend and at the time, was my girlfriend and she saw how much I loved the stars
+and wanted to become a pilot."
+Lily Kaise whispers, "But they also are extremely unhappy with the Best
+administration. If I could help a hundred or so family members with billions in
+assets leave the AEU, we would all go."
+Lily Kaise whispers, "Sadly I could only get a certain number in this ship or in
+an expanded shp."
+'Though she loved me deeply, she knew being a pilot was not ffor her. She told
+me to go pursue my dream as a pilot, but to never forget hur.
+You say, "Though she loved me deeply, she knew being a pilot was not ffor her.
+She told me to go pursue my dream as a pilot, but to never forget hur."
+nod lily
+You nod to Lily Kaise.
+Lily Kaise says, "Aww well that's a special woman who would give up a love to
+allow you to persue your dream."
+Lily Kaise says, "So one time when we were talking about leaving an Alliance and
+Melinda made the snide remark that Mutuality wouldn't invite me in. That wasn't
+my expectation."
+'I'd love to help my family too, but they're very independent and don't want
+help from others.
+You say, "I'd love to help my family too, but they're very independent and don't
+want help from others."
+Lily Kaise says, "I'll go unregged if it all goes that way. I trulywill and just
+vanish."
+-lily Oh really?
+You say to Lily, "Oh really?"
+Lily Kaise nods.
+'wow.
+You say, "Wow."
+nod lily
+You nod to Lily Kaise.
+-lily I'll come with you.
+You say to Lily, "I'll come with you."
+A long amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Lily Kaise wraps her arms around you, pulling you close.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+'But before we run off and vanish, I'll need to write a letter to her and my
+family to at least say good-bye.
+You say, "But before we run off and vanish, I'll need to write a letter to her
+and my family to at least say good-bye."
+A large thickly-shelled creature with a red shell and four small claws creeps
+across the bottom of the tank, snapping its many claws rapidly.
+Lily Kaise says, "Yeah and if I can possibly do so but likely doubtful, any
+family I can hurry aboard too. The AEU doesn't understand how billions taken out
+of their economy will affect them. They need to stop and consider that there
+could be amass exodus of citizens who manage to get passage to elsewhere and so
+on."
+nod lily
+You nod to Lily Kaise.
+caress lily
+I don't understand that.
+Try this instead:  caress lily on
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+A long amber soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+-lily You know. Before you came along. I wasn't sure I'd find someone to live
+forever with. My two ex's left me for other men and women.
+You say to Lily, "You know. Before you came along. I wasn't sure I'd find
+someone to live forever with. My two ex's left me for other men and women."
+Lily Kaise nods to you.
+Lily Kaise says, "Sec."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise cuddles up to you.
+snuggle lily 'Onbe of them even wanted to marry me.
+You snuggle up to Lily Kaise's shoulder. "Onbe of them even wanted to marry me."
+Lily Kaise exclaims, "I wanted to feed Asteria before she went to sleep and I
+didn't get a chance!"
+Lily Kaise grins.
+grin lily
+You grin at Lily Kaise.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+A large thickly-shelled creature with a red shell and four small claws grips a
+plastic shipwreck flying a pirate flag firmly in its claws, then gives up when
+it can't break the toy.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily says to you, "Should we go lie down Love?"
+'Sure.
+You say, "Sure."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+kiss lily
+You kiss Lily Kaise.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a black
+plastic tray of spider chow, a small purple trash bin, and Sunshine the light
+yellow long-haired felo kitten here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a black plastic tray of spider chow, a wall-sized bubbling coral
+pink-lit aquarium containing white and violet aquatic life and coral rocks, and
+a hairy yellow eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a white four
+poster rattan bed with a heart-shaped headboard and filmy deep purple hangings
+with a soft periwinkle cashmere blanket, a set of lavender silk sheets, a large
+periwinkle bed pillow, a hand-made purple and amethyst flower quilt, and a large
+periwinkle bed pillow on it, a large oval dark purple and light purple cloth
+rug, and a small oval turquoise rattan table with a glass top here.
+You can go out.
+s
+You can't go that way.
+undress into suit
+You remove all of your clothing, placing it carefully in a small suitcase.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise glides in from the north.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise cuddles up to you.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise wraps her arms around you, pulling you close.
+-lily I love you so much!
+You say to Lily, "I love you so much!"
+Lily Kaise beams at you.
+Lily says to you, "I love you so much too!"
+beam lily
+You beam at Lily Kaise.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily gently rubs your back.
+kiss lily on chest
+You kiss Lily Kaise on the smooth skin above her breasts.
+Lily Kaise kisses you softly on the neck.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise leans close to you and kisses you softly on the chest.
+smile lily
+You smile at Lily Kaise.
+kiss lily on breasts
+You kiss Lily Kaise on one of her breasts.
+Lily says to you, "I suppose it's time to call it another day Love."
+nod lily
+Lily Kaise kisses you on the lips.
+You nod to Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily says to you, "I love you."
+-lily I love you too. Good night love. Rest well and sweet dreams.
+You say to Lily, "I love you too. Good night love. Rest well and sweet dreams."
+Lily says to you, "Rest well Love and sweet dreams."
+beam lily
+You beam at Lily Kaise.
+Lily says to you, "Nite Hun."
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily gently rubs your back and strokes your hair.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+Lily says to you, "Nite."
+-lily  Night.
+You say to Lily, "Night."
+Minor Change: Titles of ownership have been removed! Hopefully everybody still
+owns every ship they own. Please report any difficulties or inconsistencies.
+shipinfo
+Owned starships (35):
+   Masterson 'Mule' Marine Transport "Lidia's Pride" [669,600,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   AFW Gemini Assault Craft "Fearless" [1,268,700,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   CMY-96 Coalition Light Carrier "Kalina" [3,684,350,000.00 credits]
+       Industry Points: 7000  Combat Points: 1000     Alliance Support (Support
+limit: 25)
+   AS-4F AEU Clipper-class Escort Vessel "Firestorm" [1,935,150,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   U-1a United Freight d'Intsec Interplanetary Shuttle "Trademaker"
+[14,000,000.00 credits]
+       Industry Points: 660   Combat Points: 0    
+   U-1a United Freight d'Intsec Interplanetary Shuttle "Dealmaker"
+[14,000,000.00 credits]
+       Industry Points: 660   Combat Points: 0    
+   CFY-39-III Coalition Space Superiority Fighter Mk III "Revenge"
+[228,650,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   ASS-E7 Allied Starships Modular Tactical Platform "Israel Hope"
+[774,000,000.00 credits]
+       Industry Points: 1250  Combat Points: 1250 
+   U-1a United Freight d'Intsec Interplanetary Shuttle "Dealbreaker"
+[5,000,000.00 credits]
+       Industry Points: 100   Combat Points: 0    
+   ME-3Q/X-42 EAOS-Mutuality-Tandem Vostok-class Experimental Rift Capsule
+"Shooting Star" [943,100,000.00 credits]
+       Industry Points: 1500  Combat Points: 1000 
+   AH-12b AEU Soothsayer-class Cruiser Mark II "Supernova" [2,983,250,000.00
+credits]
+       Industry Points: 1500  Combat Points: 1500     Space Explorers Amidst The
+Stars Support
+   AS-0A AEU Light Escort Vessel "Vengeance" [486,450,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   AY-104 AEU Combat Scout "Striking Distance" [369,200,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   H-03 Hermes Communications Eight Passenger Star Liner "Starlight Express"
+[711,360,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   H-07 Hermes Communications Two Passenger Luxury Sightseer "Celestial
+Explorer" [1,919,700,000.00 credits]
+       Industry Points: 2000  Combat Points: 1000  Exploration Points: 1750 
+   CFY-00-VI Coalition General-Purpose Flitter Mk VI "Courageous"
+[230,350,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   AR-7C AEU Pulsar-class Assault Gunship "Critical Strike" [1,858,250,000.00
+credits]
+       Industry Points: 1250  Combat Points: 1250 
+   T1-14 Telex Defense Inc. Bastille-class Mobile Micro-Citadel "No Mercy"
+[236,150,000.00 credits]
+       Industry Points: 2000  Combat Points: 1000 
+   CMX-303-AS Coalition Hardened Asteroid Hauler "Asteroid King" [434,350,000.00
+credits]
+       Industry Points: 950   Combat Points: 1000 
+   ASS-E7 Allied Starships Modular Tactical Platform "Misty Justice"
+[963,850,000.00 credits]
+       Industry Points: 1250  Combat Points: 1250 
+   HX-1c Hyperion Corporate Security Short-Range Electronic Warfare Fighter
+"Devilcat" [173,550,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   HX-1c Hyperion Corporate Security Short-Range Electronic Warfare Fighter
+"Demoncat" [173,550,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   AC-2X Space Constructor "Under Construction" [1,522,100,000.00 credits]
+       Industry Points: 2500  Combat Points: 1000 
+   H-04 Hermes Communications Personal Runabout "Unicorn" [267,400,000.00
+credits]
+       Industry Points: 950   Combat Points: 1000 
+   AM-9X AEU Star-class Gunship "Praying Mantis" [1,731,000,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   ASS-C4 Allied Starships Budget-Constrained Modular Terroreroticism Vessel
+"Justen Moon" [4,523,050,000.00 credits]
+       Industry Points: 7000  Combat Points: 1000 
+   H-07 Hermes Communications Two Passenger Luxury Sightseer "Freedom"
+[84,000,000.00 credits]
+       Industry Points: 2000  Combat Points: 0     Exploration Points: 1750 
+   ASS-C4 Allied Starships Budget-Constrained Modular Terroreroticism Vessel
+"Landon Boucher" [501,450,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   HX-1b Hyperion Corporate Security Short-Range Assault Warfare Fighter
+"Tornado" [230,300,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   CFY-39-III Coalition Space Superiority Fighter Mk III "Bari Fighter"
+[800,000.00 credits]
+       Industry Points: 0     Combat Points: 850  
+   AW-2 AEU Flare-class Twin-Assault Vessel "Deadly Strike" [1,024,450,000.00
+credits]
+       Industry Points: 2000  Combat Points: 2500 
+   RDT-E2M5 Revo Developmental Technologies Bolt Thrower "Thunder And Lightning"
+[386,350,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   AFW Space Module Scout "Edified Cooperation" [248,200,000.00 credits]
+       Industry Points: 950   Combat Points: 1000  Exploration Points: 300  
+   AFW Space Module Transport "Ensemble" [509,000,000.00 credits]
+       Industry Points: 950   Combat Points: 1000 
+   AF-22a AEU Patriot-class Space Superiority Fighter "Defensive Dissidence"
+[486,050,000.00 credits]
+       Industry Points: 2500  Combat Points: 1000 
+    NOTE: Point requirements do not include enhancements, such as sensor
+dampening, ablative armor, or charged shot.
+Your strongest starship: Supernova
+Your largest cargo ship: Israel Hope
+Your longest-range exploration ship: Kalina
+Check ORGSHIPINFO for organization-owned starships.
+shipinfo
+l
+l
+#fend
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'fend'.[0m
+#end
+[0m#SESSION 'StarConquest' DIED.[0m

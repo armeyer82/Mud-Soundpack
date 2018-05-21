@@ -1,0 +1,2108 @@
+siekanas
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Sun Jul 10 23:23:34 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at EAOS Asteroid
+Processor; Docking Bay.
+You see a glossy sapphire blue ceramic felo chow bowl, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a large oval dark purple and light purple cloth
+rug, a small oval turquoise rattan table with a glass top, and a small yellow
+ball containing a realistic Bari horde noisemaker here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt, a
+large periwinkle bed pillow, and a large periwinkle bed pillow on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Want to join a private organization run by fellow pilots? Find the
+organization center in your capital spaceport!
+**
+who
+There appear to be about 14 pilots recently active.
+The communicator network and Accord QE comm detect:
+Shule Elemmire  (A) [m]
+Zandria Marschaund  (L)
+Sakura Arakida  (L)
+Melissa Cantrelle  (L)
+Damien Goss  (L)
+Ali Candan  (L)
+%Akemi of None  (L)
+%Tobias Hawthorne  (L)
+%Melinda Michaels  (L)
+Tony Cross  (F)
+Evenia Callseah  (F)
+%Cesar Ysidro  (F) [a]
+%Damien Alexander  (F)
+%Blake Madison  (F)
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 6 pilots who were active but
+dropped out of communications.
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 29 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+tra gen Hello all.
+[General Communication] Shule Elemmire transmits, "Hello all."
+[General Communication] Tony Cross transmits, "Hello too."
+[General Communication] Ali Candan transmits, "Hi bro."
+tra gen How are you both?
+[General Communication] Shule Elemmire transmits, "How are you both?"
+[General Communication] Ali Candan transmits, "Lovely. You?"
+[General Communication] Tony Cross transmits, "I am fine and you?"
+[General Communication] Evenia Callseah transmits, "Heya shule."
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+read comm
+You glance at your communicator's screen.
+There is one board post.
+read comm
+You glance at your communicator's screen.
+There are no notices.
+tra gen Hi Evenia and I'm doing well, thanks.
+[General Communication] Shule Elemmire transmits, "Hi Evenia and I'm doing well,
+thanks."
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tail.
+[Notification from Starseekers] A load of salvage has been received at League
+Unmanned Pickup Debris-Burning Temporary Station from the two-person medium
+transport "Cubic Zirconia". The organization has earned 1,074,839.21 credits.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly out.
+[Notification from Starseekers] A load of salvage has been received at League
+Unmanned Pickup Debris-Burning Temporary Station from the two-person medium
+transport "Cubic Zirconia". The organization has earned 1,634,852.25 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great, we've
+almost reached our first performance goal! Keep it up!"
+[Notification from Starseekers] A load of salvage has been received at League
+Unmanned Pickup Debris-Burning Temporary Station from the two-person medium
+transport "Cubic Zirconia". The organization has earned 1,236,571.75 credits.
+Lily Kaise cuddles up to you.
+Lily Kaise glances down at her neon purple wrist-mounted chronometer
+momentarily.
+Lily Kaise says in a New Earth accent, "Wow Iread comm."
+[General Communication] Demarco Scott transmits, "Hello pilots!"
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+A Tardick lizard named Asteria trundles slowly out.
+Shasta the big onyx soldier felo marches in from the north.
+[Newbie Help] Tony Cross transmits, "What are rental suits? Are they eaos, AEU?"
+[Newbie Help] Morris Corlew transmits, "They're neither. Great starter suit."
+[Newbie Help] Tony Cross transmits, "Which suit is it?"
+[Newbie Help] Morris Corlew transmits, "The're from Agnarr's long-term rental on
+Helios."
+[Newbie Help] Morris Corlew transmits, "They're kin of in a class of their own."
+[Newbie Help] Tony Cross transmits, "Thanks."
+[Newbie Help] Morris Corlew transmits, "No problem."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great, we've
+almost reached our first performance goal! Keep it up!"
+Shasta the big onyx soldier felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+Shasta the big onyx soldier felo marches out.
+Lily Kaise stretches.
+Lily Kaise kisses you.
+Lily Kaise sits up onto a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt,
+a large periwinkle bed pillow, and a large periwinkle bed pillow on it.
+"We are sleepy ones today!" Lily Kaise smiles.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt,
+a large periwinkle bed pillow, and a large periwinkle bed pillow on it.
+Lily Kaise glides out.
+[General Communication] Simon Privorda transmits, "Evening all."
+[General Communication] Ted Warburton transmits, "Hi all."
+[General Communication] Simon Privorda transmits, "Hi ted."
+[Notification from Starseekers] The organization has gained 2,755,616.19 credits
+for a submission from a battle analysis scanner on League Battle-Scanning
+Nuclear Temporary Station involving the one-person bastille "Blood In The
+Breeze".
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're almost
+to that first performance goal! Let's keep pushing!"
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the north.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+[General Communication] Demarco Scott transmits, "This is interesting, I have a
+very vocal black felo here."
+[General Communication] Ted Warburton transmits, "Nice."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+approaching that first performance goal! Our penultimate victory is just ahead!
+Let's go, people! Go go go! Wow, you'd think all this cheerleading would be
+annoying, but it's not!"
+[Notification from Starseekers] The organization has gained 4,133,424.28 credits
+for a submission from a battle analysis scanner on League Battle-Scanning
+Nuclear Temporary Station involving the one-person bastille "Blood In The
+Breeze".
+[General Communication] Sakura Arakida transmits, "That was painful. Fun but
+painful. Just did a solo very high."
+[General Communication] Demarco Scott transmits, "Nice."
+A Tardick lizard named Asteria trundles slowly into the area.
+[General Communication] Ali Candan transmits, "Anyone doing anything
+interesting?"
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+A Tardick lizard named Asteria trundles slowly out.
+[General Communication] Ali Candan transmits, "Someone should come to rob some
+graves with me."
+[General Communication] Elizabeth Johnson transmits, "Hi everyone."
+[General Communication] Ali Candan transmits, "Yo."
+[General Communication] Ted Warburton transmits, "Hey."
+[General Communication] Lily Kaise transmits, "Good day!"
+tra gen Is it time to wake up yet?
+[General Communication] Shule Elemmire transmits, "Is it time to wake up yet?"
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: If you see a strange person, see if you can TALK to them.
+**
+[General Communication] Cesar Ysidro transmits, "^o."
+[General Communication] Lily Kaise transmits, "Noooooooo!"
+[General Communication] Ali Candan transmits, "Yes yes. Let's go GMG
+altogether."
+[General Communication] Ted Warburton transmits, "I'~ go.ng to|s+eep in]a
+m%nute, so maybe not."
+[General Communication] Karasi Valhannon transmits, "?e=a{~ c?m[ng{-n*"
+[General Communication] Blake Madison transmits, "_o>oo."
+[General Communication] Ali Candan transmits, "Woo Cesar!"
+tra gen Ok, then back to sleep then.
+[General Communication] Shule Elemmire transmits, "Ok, then back to sleep then."
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at EAOS Asteroid
+Processor; Docking Bay.
+You see a glossy sapphire blue ceramic felo chow bowl, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a large oval dark purple and light purple cloth
+rug, a small oval turquoise rattan table with a glass top, and a small yellow
+ball containing a realistic Bari horde noisemaker here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt, a
+large periwinkle bed pillow, and a large periwinkle bed pillow on it.)
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at EAOS Asteroid
+Processor; Docking Bay.
+You see a glossy sapphire blue ceramic felo chow bowl, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a large oval dark purple and light purple cloth
+rug, a small oval turquoise rattan table with a glass top, and a small yellow
+ball containing a realistic Bari horde noisemaker here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt, a
+large periwinkle bed pillow, and a large periwinkle bed pillow on it.)
+out
+You scramble to your feet.
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a dusky pink rattan cabinet, a wall-sized bubbling coral pink-lit aquarium
+containing blue and yellow aquatic life and multicolored round rocks, a small
+bubbling neon blue-lit toroidal aquarium containing blue and red aquatic life
+and round rocks, a wall-sized bubbling neon purple-lit aquarium containing light
+green and fuchsia aquatic life and sea green and neon blue round rocks, a small
+orange ball containing a realistic Bari horde noisemaker, and a glossy pale pink
+ceramic felo chow bowl here.
+You can go north, east, south, west, up, and down.
+go shower
+[Starship "William Dove"; Shower]
+You can go out.
+l
+[Starship "William Dove"; Shower]
+This is a very tiny shower. There is no shower head as such, but instead a small
+sprayer attached to a hose coming out of the wall, which would work to some
+effect even in zero gravity. A thick plastic sheet allows the shower to be
+completely sealed off from the outside, with air pumped in overhead and several
+grates capturing water to be returned to the ship's recycling system. The status
+lights overhead are currently not receiving power. Looking through the windows,
+you see that the ship is at EAOS Asteroid Processor; Docking Bay.
+You can go out.
+l me
+Shule Elemmire
+He appears to be 26 years old. He is about six feet and two inches tall and has
+olive skin. His body is athletic with muscled hips and strong calves. He has
+average-sized shoulders and a wide chest with small dark nipples. His abdomen is
+flat and punctuated by a sunken navel. More intimately, he has bushy salt and
+pepper pubic hair and an athletic butt. His face is average-shaped and handsome,
+with a broad nose and strong chin. His lips are thin and tan and occasionally
+part to reveal a set of fairly white teeth. Beneath a set of arched eyebrows,
+his eyes are blue-grey and round. His shoulder-length, straight hair is blonde
+and neatly trimmed over the ears and parted on the side. He has large brownish
+fingernails.
+ He is wearing nothing. He is also wearing a keychain, a gold wrist-mounted
+chronometer, a metallic silver metachannel FTL communicator, and a solid silver
+ring engraved with dolphins. His head, face, both eyes, neck, both shoulders,
+chest, back, both biceps, both elbows, abdomen, both forearms, both wrists, both
+hands, waist, both hips, groin, both thighs, both knees, both calves, both
+ankles, and both feet are left uncovered.
+He is carrying nothing.
+start
+You push a small button, starting the shower. Hot water begins to pour over your
+skin. You feel cleaner already.
+Hot, steaming water continues to bathe every inch of your skin, cleansing you as
+it invigorates your senses.
+take vinyl
+You remove a small black vinyl case from a leather briefcase.
+take soap
+You remove a bar of white milk and honey soap from a small black vinyl case.
+put soap in vinyl
+You put a bar of white milk and honey soap in a small black vinyl case.
+take green soap from vinyl
+You remove a bar of clean-smelling light green soap from a small black vinyl
+case.
+use soap
+You carefully wash your body with a bar of clean-smelling light green soap.
+put soap in vinyl
+You put a bar of clean-smelling light green soap in a small black vinyl case.
+put vinyl in briefcase
+You put a small black vinyl case in a leather briefcase.
+take vinyl
+You remove a small black vinyl case from a leather briefcase.
+stop
+You push a small button, turning the shower off. You stand, dripping, completely
+relaxed. Steam floats lazily in the enclosed space.
+take oversized
+You remove an oversized white towel from a small black vinyl case.
+use oversized
+You can't use an oversized white towel.
+dry me with towel
+You dry yourself off with an oversized white towel.
+put towel in vinyl
+You put an oversized white towel in a small black vinyl case.
+put vinyl in briefcase
+You put a small black vinyl case in a leather briefcase.
+open suitcase
+You open a small suitcase.
+take suitcase
+You remove a small suitcase from a leather briefcase.
+take cargo
+You remove a pair of relaxed fit light khaki cargo pants from a small suitcase.
+wear cargo
+You pull a pair of relaxed fit light khaki cargo pants on over your legs.
+take black socks
+You remove a pair of black socks from a small suitcase.
+wear socks
+You slide a pair of black socks onto your feet.
+take sneakers
+You remove a pair of gray canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+take tee
+You remove a long-sleeved dark green tee appliqued with small silver stars from
+a small suitcase.
+wear tee
+You pull a long-sleeved dark green tee appliqued with small silver stars on over
+your head.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a dusky pink rattan cabinet, a wall-sized bubbling coral pink-lit aquarium
+containing blue and yellow aquatic life and multicolored round rocks, a small
+bubbling neon blue-lit toroidal aquarium containing blue and red aquatic life
+and round rocks, a wall-sized bubbling neon purple-lit aquarium containing light
+green and fuchsia aquatic life and sea green and neon blue round rocks, a small
+orange ball containing a realistic Bari horde noisemaker, and a glossy pale pink
+ceramic felo chow bowl here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table with a
+glass top, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a rattan floor lamp with a coral lotus shade, a small dusky pink
+trash bin, a blueberry rattan pantry cabinet, a white microwave oven, a small
+purple ball containing a dingling bell, a glossy slate blue ceramic felo chow
+bowl, a long white and coral pink flowered cushion, and Bert the hefty blue
+soldier felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a round white rattan coffee table with a glass top,
+Magellan the arachnoid security robot, Purr the humanoid service robot, a clear
+plastic food storage container, a compact red refrigerator, a red plastic food
+storage container, and an insulated green cooler here.
+You can go south and out.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table with a
+glass top, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a rattan floor lamp with a coral lotus shade, a small dusky pink
+trash bin, a blueberry rattan pantry cabinet, a white microwave oven, a small
+purple ball containing a dingling bell, a glossy slate blue ceramic felo chow
+bowl, a long white and coral pink flowered cushion, and Bert the hefty blue
+soldier felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a dusky pink rattan cabinet, a wall-sized bubbling coral pink-lit aquarium
+containing blue and yellow aquatic life and multicolored round rocks, a small
+bubbling neon blue-lit toroidal aquarium containing blue and red aquatic life
+and round rocks, a wall-sized bubbling neon purple-lit aquarium containing light
+green and fuchsia aquatic life and sea green and neon blue round rocks, a small
+orange ball containing a realistic Bari horde noisemaker, and a glossy pale pink
+ceramic felo chow bowl here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a glossy sapphire blue ceramic felo chow bowl, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a large oval dark purple and light purple cloth
+rug, a small oval turquoise rattan table with a glass top, and a small yellow
+ball containing a realistic Bari horde noisemaker here.
+You can go out.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a dusky pink rattan cabinet, a wall-sized bubbling coral pink-lit aquarium
+containing blue and yellow aquatic life and multicolored round rocks, a small
+bubbling neon blue-lit toroidal aquarium containing blue and red aquatic life
+and round rocks, a wall-sized bubbling neon purple-lit aquarium containing light
+green and fuchsia aquatic life and sea green and neon blue round rocks, a small
+orange ball containing a realistic Bari horde noisemaker, and a glossy pale pink
+ceramic felo chow bowl here.
+You can go north, east, south, west, up, and down.
+n
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table with a
+glass top, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a rattan floor lamp with a coral lotus shade, a small dusky pink
+trash bin, a blueberry rattan pantry cabinet, a white microwave oven, a small
+purple ball containing a dingling bell, a glossy slate blue ceramic felo chow
+bowl, a long white and coral pink flowered cushion, and Bert the hefty blue
+soldier felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a round white rattan coffee table with a glass top,
+Magellan the arachnoid security robot, Purr the humanoid service robot, a clear
+plastic food storage container, a compact red refrigerator, a red plastic food
+storage container, and an insulated green cooler here.
+You can go south and out.
+out
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+You exit the ship.
+[EAOS Asteroid Processor; Docking Bay]
+The vostok-class capsule "One Trick Pony", the vostok-class capsule "Ticket To
+Nowhere", and the five-person A.S.S. tactical platform "William Dove" are landed
+here.
+You see an automatic teller machine here.
+You can go northeast, south, and northwest.
+s
+[EAOS Asteroid Processor; Asteroid Mining]
+You see a floral print tapestry couch with a turquoise and coral pink flowered
+throw pillow with silver fringe on it, a turquoise rattan and glass shelf, and a
+floral print tapestry chaise lounge here.
+Lily Kaise is sitting on a floral print tapestry couch.
+You can go north.
+sit couch
+You sit down on a floral print tapestry couch with a turquoise and coral pink
+flowered throw pillow with silver fringe on it.
+smile lily
+Resuming mining site activity.
+You smile at Lily Kaise.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise smiles at you.
+Lily Kaise cuddles up to you.
+Lily Kaise asks in a New Earth accent, "Just finished my site! Where've you been
+lazybones?"
+Lily Kaise laughs.
+laugh
+You laugh.
+'I guess I really needed to sleep!
+You exclaim, "I guess I really needed to sleep!"
+grin
+You grin.
+Lily Kaise smiles. "Apparently so. I hope you feel rested."
+'I do. Thanks. How did you sleep?
+You ask, "I do. Thanks. How did you sleep?"
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in one Earth hour!"
+Lily Kaise says in a New Earth accent, "Be right back."
+Lily Kaise stands up from a floral print tapestry couch with a turquoise and
+coral pink flowered throw pillow with silver fringe on it.
+Lily Kaise glides north.
+Lily Kaise glides in from the north.
+Lily Kaise sits down on a floral print tapestry couch with a turquoise and coral
+pink flowered throw pillow with silver fringe on it.
+Lily Kaise puts down a clear plastic food storage container.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+l
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're almost
+to that first performance goal! Let's keep pushing!"
+[EAOS Asteroid Processor; Asteroid Mining]
+This room appears to be a control center from which one can control drone
+operations at remote mining sites. There appear to be several dents in the wall.
+You see a floral print tapestry couch with a turquoise and coral pink flowered
+throw pillow with silver fringe on it, a turquoise rattan and glass shelf, a
+floral print tapestry chaise lounge, and a clear plastic food storage container
+here.
+Lily Kaise is sitting on a floral print tapestry couch.
+You can go north.
+(You are sitting on a floral print tapestry couch with a turquoise and coral
+pink flowered throw pillow with silver fringe on it.)
+tasks
+Tasks for Basic Drones:
+   [1] Defense (currently on)
+   [2] Operate (currently on)
+   [3] Fight (currently on)
+   [4] Transport (currently on)
+Enter your selection:
+n
+Invalid selection.
+summary
+Site Operations Summary
+--
+Processed Metals:           17502
+Reclaimed from Buildings:   2917
+Reclaimed from Drones:      1080
+Stolen Metals:              62
+Metals From Poacher Wrecks: 388
+--
+Mined Unprocessed Ore:      3220
+Total Mined and Processed:  21499
+Ore Remaining On Site:      5142
+Processed Unstored Metals:  10
+Conversion:                 69%
+--
+Time Spent:                 2 hours, 30 minutes, and 46 seconds
+Compensation:               189,621,180.00 EAOS credits
+Compensation Per Hour:      75,462,773.38 EAOS credits
+Mining Points:              34
+--
+Lily Kaise opens a clear plastic food storage container and the light inside
+clicks on.
+Lily Kaise removes a cup of hot French vanilla coffee from a clear plastic food
+storage container.
+Lily Kaise gives you a cup of hot French vanilla coffee.
+smile lily 'Thanks.
+You smile at Lily Kaise. "Thanks."
+drink coffee
+You take a sip of a cup of hot French vanilla coffee.
+drink cup
+You take a sip of a cup of hot French vanilla coffee.
+drink cup
+You take a sip of a cup of hot French vanilla coffee.
+drink cup
+You take a sip of a cup of hot French vanilla coffee.
+drink cup
+You finish off a cup of hot French vanilla coffee.
+put cup in trash
+I see no "trash" here.
+[Mining Station Communication] Zandria Marschaund has resumed a mining site.
+c Hi Zandria.
+[Mining Station Communication] Shule Elemmire transmits, "Hi Zandria."
+[Mining Station Communication] Zandria Marschaund transmits, "Hi Shule."
+caress lily on back
+You gently caress Lily Kaise's back.
+points
+Point Totals:
+  Industry:           4478.0 
+  Space Combat:       4622.8 
+  Ground Combat:      1172.3 
+  Exploration:        2887.4 [cap warning]
+  Aggregate:          13160
+  Teslapoints:        902
+For a more detailed breakdown of your license points, visit any point center and
+get a summary!
+Lily Kaise takes a sip of a cup of hot Calypso coffee.
+Lily Kaise gently caresses your neck and shoulders.
+who
+There appear to be about 17 pilots recently active.
+The communicator network and Accord QE comm detect:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Soraya Rhyz  (L)
+Zandria Marschaund  (L)
+Joel Kringle  (L)
+Karasi Valhannon  (L)
+Bryan Stout  (L)
+Ali Candan  (L)
+%Morris Corlew  (L)
+%Nissi Valdaire  (L) [a]
+Blake Madison  (F)
+Cesar Ysidro  (F) [a]
+Rogue Romano  (F)
+Damien Alexander  (F)
+Keegan Wantz  (F)
+%Aisling the Fox  (M)
+%Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 4 pilots who were active but
+dropped out of communications.
+Additionally, there are 12 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 29 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+The mining site is coming under attack from poachers!
+'war time!
+You exclaim, "War time!"
+'go poachers go!
+You exclaim, "Go poachers go!"
+'er, drones
+You say, "Er, drones."
+laugh
+You laugh.
+Lily Kaise grins at you.
+A sneak drone designated Lambda 172 has been destroyed by a sharpshooter turret.
+A sneak drone designated Upsilon 850 has been destroyed by a sharpshooter
+turret.
+A hunter drone designated Gamma 447 has been destroyed by a basic task drone
+designated Alpha 856.
+Lily Kaise removes a room temperature chocolate chip muffin from a clear plastic
+food storage container.
+A hunter drone designated Omega 669 has been destroyed by a sharpshooter turret.
+Lily Kaise takes a bite of a room temperature chocolate chip muffin.
+A sneak drone designated Gamma 962 has been destroyed by a basic task drone
+designated Nu 565.
+A hunter drone designated Tau 315 has been destroyed by a sharpshooter turret.
+A turtle drone designated Beta 396 has been destroyed by a basic task drone
+designated Alpha 856.
+A hunter drone designated Lambda 956 has been destroyed by a sharpshooter
+turret.
+A sneak drone designated Mu 509 has been destroyed by a sharpshooter turret.
+A sneak drone designated Iota 593 has been destroyed by a basic task drone
+designated Alpha 856.
+A hunter drone designated Rho 106 has been destroyed by a sharpshooter turret.
+A hunter drone designated Sigma 626 has departed from the mining area carrying 5
+usable metals.
+A sneak drone designated Mu 376 has been destroyed by a sharpshooter turret.
+A hunter drone designated Sigma 102 has been destroyed by a basic task drone
+designated Xi 279.
+A hunter drone designated Nu 452 has been destroyed by a sharpshooter turret.
+A hunter drone designated Omega 578 has been destroyed by a basic task drone
+designated Xi 522.
+A hunter drone designated Tau 858 has departed from the mining area carrying 5
+usable metals.
+A turtle drone designated Psi 796 has been destroyed by a sharpshooter turret.
+A turtle drone designated Gamma 326 has been destroyed by a chaingun turret.
+This site no longer has any accessible ore! Please end operations as soon as all
+ore is processed.
+Minor Change: It is now possible to combine an elevation change and a direction
+into one command while spacewalking. That is, you can now enter "+5" as one
+command instead of +, enter, 5, enter.
+summary
+Site Operations Summary
+--
+Processed Metals:           23006
+Reclaimed from Buildings:   2917
+Reclaimed from Drones:      1080
+Stolen Metals:              72
+Metals From Poacher Wrecks: 472
+--
+Mined Unprocessed Ore:      3022
+Total Mined and Processed:  27003
+Ore Remaining On Site:      0
+Processed Unstored Metals:  0
+Conversion:                 87%
+--
+Time Spent:                 2 hours, 52 minutes, and 45 seconds
+Compensation:               238,166,460.00 EAOS credits
+Compensation Per Hour:      82,720,622.87 EAOS credits
+Mining Points:              43
+--
+'87 percent.
+You say, "87 percent."
+Lily Kaise says in a New Earth accent, "Woo."
+Lily Kaise squeezes you affectionately.
+Lily Kaise takes a bite of a room temperature chocolate chip muffin.
+Lily Kaise takes a sip of a cup of hot Calypso coffee.
+Lily Kaise takes a sip of a cup of hot Calypso coffee.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+This site no longer has any ore to process. You may end operations.
+end
+Are you sure you want to end operations at this site? This cannot be undone.
+[Enter `yes' or `no']
+y
+Site Operations Summary
+--
+Processed Metals:           26088
+Reclaimed from Buildings:   2917
+Reclaimed from Drones:      1080
+Stolen Metals:              72
+Metals From Poacher Wrecks: 472
+--
+Mined Unprocessed Ore:      0
+Total Mined and Processed:  30085
+Ore Remaining On Site:      0
+Processed Unstored Metals:  0
+Conversion:                 97%
+--
+Time Spent:                 3 hours, 4 minutes, and 30 seconds
+Compensation:               265,349,700.00 EAOS credits
+Compensation Per Hour:      86,292,585.37 EAOS credits
+Mining Points:              48
+--
+Once more, do you wish to complete operations at this site?
+[Enter `yes' or `no']
+y
+[Notification from Starseekers] Shule Elemmire has automatically contributed
+13,267,485.00 AEU credits.
+You end operations at your mining site, receiving the compensation detailed
+above.
+'And done.
+You say, "And done."
+Lily Kaise says in a New Earth accent, "Yay."
+Lily Kaise takes a bite of a room temperature chocolate chip muffin.
+Lily Kaise points at a clear plastic food storage container.
+Lily says to you in a New Earth accent, "Help yourself to whatever you want. All
+sweets unfortunately."
+Lily Kaise grins.
+Lily Kaise exclaims in a New Earth accent, "Rev up the sugar!"
+grin
+You grin.
+l clear
+a clear plastic food storage container
+A small label imprinted on the bottom of this clear food storage container
+informs you that this container will preserve any food or drink, and that it has
+a capacity of about twenty items.
+It is open.
+Inside it you see a cup of hot Calypso coffee, a cup of hot Calypso coffee, a
+cup of hot Calypso coffee, a cup of hot Calypso coffee, a cup of hot French
+vanilla coffee, a cup of hot French vanilla coffee, a cup of hot French vanilla
+coffee, a cup of hot French vanilla coffee, a cup of hot French vanilla coffee,
+a  Danish filled with vanilla custard and topped with sweet white icing and
+flaked almonds, a  Danish filled with vanilla custard and topped with sweet
+white icing and flaked almonds, a large wedge of coffee cake topped with apple
+streusel, a large wedge of coffee cake topped with apple streusel, a generous
+wedge of chocolate cheesecake, a generous wedge of chocolate cheesecake, a large
+slice of carrot cake topped with cream cheese icing and decorated with a
+marzipan carrot, a large slice of carrot cake topped with cream cheese icing and
+decorated with a marzipan carrot, a generous slice of German chocolate cake
+topped with coconut-pecan frosting, a generous slice of German chocolate cake
+topped with coconut-pecan frosting, a large wedge of coffee cake topped with
+apple streusel, a large wedge of coffee cake topped with apple streusel, a
+generous wedge of chocolate cheesecake, a generous wedge of chocolate
+cheesecake, a large cream-filled donut, a large cream-filled donut, a large
+chocolate donut, a large chocolate donut, a room temperature chocolate chip
+muffin, a cup of cafe mocha, a cup of cafe mocha, a cup of cafe mocha, and a cup
+of cafe mocha.
+take cream filled
+I see no "cream filled" here.
+take cream-filled
+You remove a large cream-filled donut from a clear plastic food storage
+container.
+eat cream-filled
+You take a bite of a large cream-filled donut.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+eat donut
+You take a bite of a large cream-filled donut.
+eat donut
+You take a bite of a large cream-filled donut.
+eat donut
+You take a bite of a large cream-filled donut.
+eat donut
+You finish off a large cream-filled donut.
+grin lily 'You're lucky that I don't get too hyper with sugar.
+You grin at Lily Kaise. "You're lucky that I don't get too hyper with sugar."
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in fifteen Earth
+minutes!"
+Lily Kaise laughs at you.
+grin
+You grin.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now departing at Space Station "Foxtrot"! All aboooooaaaaaaard!"
+Lily Kaise slumps in a floral print tapestry couch with a turquoise and coral
+pink flowered throw pillow with silver fringe on it and goes to sleep.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're getting
+close to that first performance goal! Let's go!"
+[General Communication] A robotic voice says, "Incoming QE message from Metal
+Heart."
+Lily Kaise suddenly awakens.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise cuddles up to you.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+who
+There appear to be about 22 pilots recently active.
+The communicator network and Accord QE comm detect:
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Soraya Rhyz  (L)
+Paige McCormick  (L)
+Zandria Marschaund  (L)
+Joel Kringle  (L)
+Sakura Arakida  (L)
+Tobias Hawthorne  (L)
+Karasi Valhannon  (L)
+Bryan Stout  (L)
+Ali Candan  (L)
+%Morris Corlew  (L)
+%Melinda Michaels  (L)
+Kirk Waltham  (F)
+Blake Madison  (F)
+Cesar Ysidro  (F) [a]
+Rogue Romano  (F)
+Damien Alexander  (F)
+Keegan Wantz  (F)
+%Aisling the Fox  (M)
+%Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+%Anfisa of Marzore  (M) [v]
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 5 pilots who were active but
+dropped out of communications.
+Additionally, there are 9 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+tra gen And welcome back by the way to those returning.
+[General Communication] Shule Elemmire transmits, "And welcome back by the way
+to those returning."
+[General Communication] Ali Candan transmits, "Indeed!"
+[General Communication] Ali Candan transmits, "We missed you."
+[General Communication] Kirk Waltham transmits, "Good trip?"
+[Newbie Help] Tobias Hawthorne transmits, "Someone reminde me real quick is the
+orgwho list IC or OOC?"
+[Newbie Help] A synthesized voice identified as Anfisa of Marzore transmits,
+"All who lists are IC."
+[Newbie Help] A synthesized voice identified as Anfisa of Marzore transmits,
+"You can turn off your comm and you dissappear from the list."
+[Newbie Help] Tobias Hawthorne transmits, "Thanks, I thought so but wanted to be
+sure, thanks bunches Anfisa!"
+caress lily on back
+You gently caress Lily Kaise's back.
+[General Communication] A robotic voice says, "Incoming QE message from Metal
+Heart to AFW Command: Q YR CREW SAFE HOME <END>"
+[General Communication] Kirk Waltham transmits, "When doing low priority
+deployments do people normally clean up all the enforcer drones after completing
+or is it generally not worth the effort?"
+tra gen I think you do get more gcp the more enforcer rones you take out, but I
+usually did that before I blew up the tower.
+[General Communication] Shule Elemmire transmits, "I think you do get more gcp
+the more enforcer rones you take out, but I usually did that before I blew up
+the tower."
+tra gen er, drones.
+[General Communication] Shule Elemmire transmits, "Er, drones."
+[General Communication] Kirk Waltham transmits, "Thanks."
+squeeze lily
+You squeeze Lily Kaise affectionately.
+who
+There appear to be about 22 pilots recently active.
+The communicator network and Accord QE comm detect:
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Jada Nelson  (L)
+Soraya Rhyz  (L)
+Paige McCormick  (L)
+Zandria Marschaund  (L)
+Joel Kringle  (L)
+Sakura Arakida  (L)
+Tobias Hawthorne  (L)
+Karasi Valhannon  (L)
+Bryan Stout  (L)
+Ali Candan  (L)
+%Morris Corlew  (L)
+%Melinda Michaels  (L)
+Kirk Waltham  (F)
+Blake Madison  (F)
+Cesar Ysidro  (F) [a]
+Rogue Romano  (F)
+Damien Alexander  (F)
+Keegan Wantz  (F)
+%Aisling the Fox  (M)
+%Anfisa of Marzore  (M) [v]
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 4 pilots who were active but
+dropped out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 32 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Lily Kaise squeezes you affectionately.
+Lily Kaise asks in a New Earth accent, "So what to do?"
+Lily Kaise grins.
+Lily Kaise takes a bite of a room temperature chocolate chip muffin.
+Lily Kaise finishes off a room temperature chocolate chip muffin.
+'mmmmm, be lazy.
+You say, "Mmmmm, be lazy."
+Lily Kaise laughs.
+grin
+You grin.
+credits
+You punch a few commands into your personal credit assistant and receive the
+following display:
+Your credit summary:
+  1,460,790,903.99 EAOS credits
+  655,691,313.81 AEU credits
+  329,666,686.90 League credits
+  130,317,028.62 Fringe credits
+  296,408,267.01 Mutuality credits
+  551 Teslabucks
+Total if all credits were converted: 2,884,765,357.85 AEU credits
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great, we've
+almost reached our first performance goal! Keep it up!"
+'Guess I should go check the office.
+You say, "Guess I should go check the office."
+Lily Kaise says in a New Earth accent, "Ok let's go do that."
+grin
+Lily Kaise picks up a clear plastic food storage container.
+You grin.
+Lily Kaise stands up from a floral print tapestry couch with a turquoise and
+coral pink flowered throw pillow with silver fringe on it.
+stand
+Lily Kaise glides north.
+You stand up from a floral print tapestry couch with a turquoise and coral pink
+flowered throw pillow with silver fringe on it.
+n
+[EAOS Asteroid Processor; Docking Bay]
+The vostok-class capsule "One Trick Pony", the vostok-class capsule "Ticket To
+Nowhere", and the five-person A.S.S. tactical platform "William Dove" are landed
+here.
+You see an automatic teller machine here.
+You can go northeast, south, and northwest.
+enter ove
+Board what?
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a round white rattan coffee table with a glass top,
+Magellan the arachnoid security robot, Purr the humanoid service robot, a
+compact red refrigerator, a red plastic food storage container, an insulated
+green cooler, and a clear plastic food storage container here.
+Lily Kaise is standing here.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "William Dove, you are given launch
+clearance under the AEU-EAOS non-aggression pact."
+Lily Kaise presses a button and brings up the FTL flight control board.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+Via general sector communication, New Earth transmits, "Hello there, William
+Dove! Welcome to home space!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: New Earth.
+Lily Kaise cuddles up to you.
+You notice Lily Kaise using the radio to ask for landing clearance.
+cuddle lily
+You cuddle up to Lily Kaise.
+A voice comes over the speaker and says, "Hello, William Dove. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise glides out.
+s
+The computer sounds a notification indicating that the ship has been fully
+charged.
+You scramble to your feet.
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells with Bert the sleeping hefty blue soldier felo on it, a blueberry
+rattan bench, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a white microwave oven, a small purple ball containing a
+dingling bell, a glossy slate blue ceramic felo chow bowl, a long white and
+coral pink flowered cushion, Sassie the large fuchsia felo, and Jewel the large
+violet glowing felo here.
+You can go north, east, south, west, up, and down.
+w
+[Starship "William Dove"; "Hope"]]
+You see a silky electric blue cushion decorated with embroidered pale blue
+flowers, a glossy dark violet ceramic felo chow bowl, a large bubbling azure
+blue-lit aquarium containing amber and violet aquatic life and round rocks,
+Desiree the little black and white spotted CatBot, and Kiska the humanoid
+service robot here.
+You can go east.
+take corpse
+I see no "corpse" here.
+e
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells with Bert the sleeping hefty blue soldier felo on it, a blueberry
+rattan bench, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a white microwave oven, a small purple ball containing a
+dingling bell, a glossy slate blue ceramic felo chow bowl, a long white and
+coral pink flowered cushion, Sassie the large fuchsia felo, and Jewel the large
+violet glowing felo here.
+You can go north, east, south, west, up, and down.
+n
+out
+[Starship "William Dove"; Control Room]
+out
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a round white rattan coffee table with a glass top,
+Magellan the arachnoid security robot, Purr the humanoid service robot, a
+compact red refrigerator, a red plastic food storage container, an insulated
+green cooler, and a clear plastic food storage container here.
+You can go south and out.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+You exit the ship.
+[New Earth; Spaceport Landing Pad]
+The two-person hardened asteroid hauler "Devastating Effect" and the five-person
+A.S.S. tactical platform "William Dove" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+[New Earth; Pilot Corps Liaison Office; Corridor]
+n
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+w
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+list
+List what?
+menu
+I don't understand that.
+l desk
+a brushed steel desk
+Constructed of steel with a fine brushed surface, this desk is modestly sized
+but stylish and sleek.
+On top of it you see a slim black photocopier etched with the AEU symbol, a
+bright red einrophone, a stack of official AEU Space Defense Captain stationery,
+a gold vase containing a bouquet of fire and ice roses and red roses, a
+miniature AEU Pulsar gunship, a miniature AEU Soothsayer cruiser, and a globe of
+New Earth on a natural wood base.
+take report
+I see no "report" here.
+take report
+I see no "report" here.
+who
+There appear to be about 21 pilots recently active.
+The communicator network and Accord QE comm detect:
+Demarco Scott  (A) [m]
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Jada Nelson  (L)
+Soraya Rhyz  (L)
+Zandria Marschaund  (L)
+Joel Kringle  (L)
+Tobias Hawthorne  (L)
+Karasi Valhannon  (L)
+Bryan Stout  (L)
+Ali Candan  (L)
+%Morris Corlew  (L)
+%Nissi Valdaire  (L) [a]
+%Melinda Michaels  (L)
+Blake Madison  (F)
+Cesar Ysidro  (F) [a]
+Rogue Romano  (F)
+Damien Alexander  (F)
+Keegan Wantz  (F)
+%Aisling the Fox  (M)
+%Anfisa of Marzore  (M) [v]
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 5 pilots who were active but
+dropped out of communications.
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 32 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+s
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+out
+[New Earth; Spaceport Landing Pad]
+The two-person hardened asteroid hauler "Devastating Effect" is landed here.
+You see an automatic teller machine, a small trash can, and a sanitation drone
+here.
+You can go north, south, west, and down.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a round white rattan coffee table with a glass top,
+Magellan the arachnoid security robot, Purr the humanoid service robot, a
+compact red refrigerator, a red plastic food storage container, an insulated
+green cooler, and a clear plastic food storage container here.
+You can go south and out.
+[General Communication] Lily Kaise transmits, "Anyone want some violet armored
+felo?"
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter starlight
+[Starship "Starlight Express"; Airlock]
+You see a glossy blue ceramic felo chow bowl, a felo nest, a big light red
+soldier felo, and a hefty red soldier felo here.
+You can go out and enter into the ship.
+enter starlight
+[Starship "Starlight Express"; Control Room]
+You see a felo nest, a glossy pearl gray ceramic felo chow bowl, Mekensie the
+humanoid service robot, a sleeping obese red soldier felo, a big red soldier
+felo, a large red soldier felo, a frisky large red felo, a red soldier felo, a
+big red soldier felo, and a large red soldier felo here.
+You can go south and out.
+l bowl
+a glossy pearl gray ceramic felo chow bowl
+The bowl appears to be about one-third full.
+A large red soldier felo rubs up against a big red soldier felo, and both
+animals purr softly.
+A red soldier felo seems to be hungry.
+A red soldier felo approaches a glossy pearl gray ceramic felo chow bowl,
+glances around, then begins shoveling low-grade dry Felo Chow into its mouth.
+'mekensie feed felo
+You say, "Mekensie feed felo."
+Mekensie the humanoid service robot says in a synthesized voice, "Order
+confirmed."
+[General Communication] Lily Kaise transmits, "Ah well poor critters but they
+will be better off at Hyperion."
+Mekensie the humanoid service robot pours some low-grade dry Felo Chow into a
+bowl.
+Mekensie the humanoid service robot clomps south.
+Mekensie the humanoid service robot clomps into the room.
+Mekensie the humanoid service robot clomps airlock.
+Mekensie the humanoid service robot clomps into the room.
+Mekensie the humanoid service robot clomps south.
+Mekensie the humanoid service robot clomps into the room.
+Mekensie the humanoid service robot says in a synthesized voice, "Assigned task
+complete."
+'mekensie caretake
+You say, "Mekensie caretake."
+Mekensie the humanoid service robot says in a synthesized voice, "Order
+confirmed."
+Mekensie the humanoid service robot says in a synthesized voice, "I shall watch
+over the living beings on this ship as if they were my own."
+out
+A large red soldier felo suddenly rushes into the room.
+A big light red soldier felo marches in from the airlock.
+A big red soldier felo rubs up against a large red soldier felo, and both
+animals purr softly.
+[Starship "Starlight Express"; Airlock]
+You see a glossy blue ceramic felo chow bowl, a felo nest, and a hefty red
+soldier felo here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You see a large number of stored starships here.
+You see a sanitation drone here.
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a round white rattan coffee table with a glass top,
+Magellan the arachnoid security robot, Purr the humanoid service robot, a
+compact red refrigerator, a red plastic food storage container, an insulated
+green cooler, a clear plastic food storage container, and Samantha the large
+violet felo here.
+You can go south and out.
+pet sam
+You stroke the soft fur of Samantha the large violet felo.
+Samantha the large violet felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter starlight
+[Starship "Starlight Express"; Airlock]
+You see a glossy blue ceramic felo chow bowl, a felo nest, a hefty red soldier
+felo, and a big red soldier felo here.
+You can go out and enter into the ship.
+enter starlight
+[Starship "Starlight Express"; Control Room]
+You see a felo nest, a glossy pearl gray ceramic felo chow bowl, a sleeping
+obese red soldier felo, a big red soldier felo, a large red soldier felo, a
+frisky large red felo, Mekensie the humanoid service robot, a large red soldier
+felo, and a big light red soldier felo here.
+You can go south and out.
+'mekensie contents
+You say, "Mekensie contents."
+Mekensie the humanoid service robot says in a synthesized voice, "Caretaking
+task has been canceled."
+Mekensie the humanoid service robot says in a synthesized voice, "I am currently
+holding a container of fish food, a hull brush, a tube of Rust-B-Gone, a tube of
+weapon grease, a family size bag labeled "Low-Grade Dry Felo Chow", and a family
+size bag labeled "Low-Grade Dry Felo Chow"."
+'mekensie feed felo
+You say, "Mekensie feed felo."
+Mekensie the humanoid service robot says in a synthesized voice, "Order
+confirmed."
+Mekensie the humanoid service robot says in a synthesized voice, "Assigned task
+complete."
+'mekensie caretake
+You say, "Mekensie caretake."
+Mekensie the humanoid service robot says in a synthesized voice, "Order
+confirmed."
+Mekensie the humanoid service robot says in a synthesized voice, "I shall watch
+over the living beings on this ship as if they were my own."
+out
+[Starship "Starlight Express"; Airlock]
+You see a glossy blue ceramic felo chow bowl, a felo nest, a hefty red soldier
+felo, and a big red soldier felo here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a glossy seashell pink ceramic felo chow
+bowl, and a personal hoverpallet here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a round white rattan coffee table with a glass top,
+Magellan the arachnoid security robot, Purr the humanoid service robot, a
+compact red refrigerator, a red plastic food storage container, an insulated
+green cooler, and a clear plastic food storage container here.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+[General Communication] Keegan Wantz transmits, "W,o are yo. \eople%"
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on your lap.
+Lily Kaise grins.
+Lily Kaise wraps her arms around you, pulling you close.
+A large semi-transparent cylindrical creature with long dangling tendrils and a
+green glowing interior drifts slowly across the tank.
+A long orange soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+[General Communication] Ather Jammoa transmits, "What the heck did you guys do,
+switch around crewmembers onto different ships?"
+[General Communication] Ali Candan transmits, "Seems so."
+A short amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a small plastic statue of a shark.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+raises its claws at a small plastic statue of a Jinu and snaps them menacingly
+while dancing around it.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+Lily Kaise says in a New Earth accent, "Heh they probably left the
+bullshitters."
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a small plastic statue of a Jinu.
+[General Communication] Cesar Ysidro transmits, "Butts."
+Lily Kaise speaks into her metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I see from the makeup
+of the returning crew certain aspects and can easily surmise hehe."
+[General Communication] A robotic voice says, "Incoming QE message from Metal
+Heart."
+`chuckle
+Say to whom?
+chuckle
+You chuckle.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise grins at you.
+kiss lily on  lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+[General Communication] Ali Candan transmits, "Wow, Joel is gone again? You guys
+confuse me."
+smile lily
+You smile at Lily Kaise.
+[General Communication] Ather Jammoa transmits, "Joel is leaving so that he may
+seek his fortune."
+points
+Point Totals:
+  Industry:           4479.7 
+  Space Combat:       4622.8 
+  Ground Combat:      1172.3 
+  Exploration:        2887.4 [cap warning]
+  Aggregate:          13162
+  Teslapoints:        902
+For a more detailed breakdown of your license points, visit any point center and
+get a summary!
+[General Communication] Blake Madison transmits, "Oh what the hell."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're getting
+close to that first performance goal! Let's go!"
+Lily Kaise laughs.
+[General Communication] Cesar Ysidro transmits, "Hello people."
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+[General Communication] Ali Candan transmits, "Yo Cesar."
+[General Communication] Cesar Ysidro transmits, "What did we miss."
+[General Communication] Blake Madison transmits, "Has anyone seen angel?"
+[General Communication] Ali Candan transmits, "The only thing I can remember is
+felo on Chetumal for a few hours. Other than that, entirely nothing."
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+[General Communication] Ather Jammoa transmits, "Oh, you missed about the usual.
+Someone was relaying messages back and forth, then they yelled at everyone about
+it for some reason or other, and then life just went gradually on as it tends
+to."
+[General Communication] Ali Candan chuckles.
+[General Communication] Ali Candan transmits, "And that."
+tra gen chuckle
+[General Communication] Shule Elemmire chuckles.
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Yeah some wer upset that they had
+to do a little extra."
+Lily Kaise says in a New Earth accent, "Yeah like gunning sure was a lot extra
+for two in particular earlier this morning."
+grin
+You grin.
+Lily Kaise grins at you.
+'Heh, I think I got like 81 percent of the confirmed hits at one point?
+You ask, "Heh, I think I got like 81 percent of the confirmed hits at one
+point?"
+[General Communication] Blake Madison transmits, "Remind me not to ask angel to
+take care of my felo."
+'It's weird because I thought Sakura really liked combat and she's decent at
+combat flying. Figured she'd be good at gunning too.
+You say, "It's weird because I thought Sakura really liked combat and she's
+decent at combat flying. Figured she'd be good at gunning too."
+[General Communication] Ather Jammoa transmits, "While I don't begrudge her the
+work she put into it, especially since I couldn't be around, I definitely think
+she blew a gasket."
+chuckle comm 'That's one way to put it, Ather.
+You chuckle at a metallic silver metachannel FTL communicator. "That's one way
+to put it, Ather."
+Lily Kaise says in a New Earth accent, "Yeah I heard very little and as I said,
+Akemi only appraised you so I had no idea what any of us were obligated or were
+being asked to do so Sakura was totally out of line."
+Lily Kaise says in a New Earth accent, "I didn't even have General unmuted for
+half that time."
+'I know.
+You say, "I know."
+Lily Kaise says in a New Earth accent, "Then I unmuted and there was Sakura
+bitching us out for no reason."
+Lily Kaise says in a New Earth accent, "Or seemed that way to me."
+Lily Kaise says in a New Earth accent, "Notice how neither of them even
+acknowledged me when we were on that mission. How childish."
+'She was just ticked because she was the only one relaying messages, but as
+Ather said, she could just leave the QE alone and let someone else do it. I did
+the part that Starseekers had to do as per Akemi's letter. 
+You say, "She was just ticked because she was the only one relaying messages,
+but as Ather said, she could just leave the QE alone and let someone else do it.
+I did the part that Starseekers had to do as per Akemi's letter."
+Lily Kaise says in a New Earth accent, "Exactly."
+Lily Kaise says in a New Earth accent, "That is all she had to do. She can't
+rightfully assume that pilots are doing or not doing things."
+nod
+You nod.
+[General Communication] Tanny Hill transmits, "Oh hey look. Comms."
+[General Communication] Ali Candan transmits, "Woo."
+Lily Kaise says in a New Earth accent, "Her implying us when we weren't even
+available. Had Akemi written to me and asked if I might provide some coverage, I
+would have."
+[General Communication] Tanny Hill transmits, "That's nice."
+Lily Kaise says in a New Earth accent, "Just because you see names on your comm,
+it doesn't mean that everyone is paying attention."
+'It sounded like  from her letter that she sspecifically put most of the
+responsbility on Cats anyways. Mainly Sakura and Zandria by name.
+You say, "It sounded like from her letter that she sspecifically put most of the
+responsbility on Cats anyways. Mainly Sakura and Zandria by name."
+nod lily
+You nod to Lily Kaise.
+[General Communication] Joel Kringle transmits, "Welcome back everyone."
+Lily Kaise says in a New Earth accent, "Well then Sakura could have asked others
+in a nice way to help out or written a letter if she didn't get their ttention."
+'Yeah
+You say, "Yeah."
+[General Communication] Ali Candan transmits, "Joel, sup bro!"
+Lily Kaise says in a New Earth accent, "Seriously I have no patience with that."
+nod 
+You nod.
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+caress lily on back
+You gently caress Lily Kaise's back.
+[General Communication] Joel Kringle transmits, "Not much bruh."
+Lily rubs your back and strokes your nice hair.
+[General Communication] Ali Candan transmits, "Did you have crew members switch
+ships out there?"
+stroke lily on hair
+You stroke Lily Kaise's hair.
+[General Communication] Joel Kringle transmits, "Something like that."
+[Notification from Starseekers] The organization has received 985,785.52 EAOS
+credits from a toll payment to League Rift Accelerating Battery-Powered Toll
+Station in Waypoint Alpha 135.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+[General Communication] Joel Kringle transmits, "Very nice."
+Lily Kaise tickles you!
+Lily Kaise kisses you on the lips.
+Sassie the large fuchsia felo jumps into your lap and settles in, purring.
+Lily Kaise slumps in Shule Elemmire's lap and goes to sleep.
+[General Communication] Tanny Hill transmits, "Alright, I need to do two things
+today. I need to do something productive, and then I need to go to the space
+rave."
+[General Communication] Keegan Wantz transmits, "Confirmed, our crew was too
+boring for Tanny."
+[General Communication] Sakura Arakida transmits, "Wooh you guys are back!"
+[General Communication] Joel Kringle transmits, "Welcome back Keegxpedition of
+awesomeness!"
+[General Communication] Sakura Arakida transmits, "So by the end of 2 days who
+wanted to smash my face for passing messages on? Oh and keegan. About my qe from
+yesterday, I don't know if anyone home fringe wise contacted the two you said
+they should."
+[General Communication] Joel Kringle transmits an irritating burst of static.
+[General Communication] Cesar Ysidro transmits, "Well I didn't see the spaceport
+overrun by felo."
+[General Communication] Ather Jammoa transmits, "No one particularly wanted to
+smash your face in, I don't think, just from the in-comms side, you were eing
+way too overdramatic about it. QE messages take ages to get out as it is."
+[General Communication] Demarco Scott transmits, "I got the felo in question."
+[General Communication] "True ather." Sakura Arakida snickers. "Though I was
+ready to bash my own head into a wall or two."
+[General Communication] Ather Jammoa transmits, "You should've! It would more
+than likely have offerred considerable amusement."
+[General Communication] Sakura Arakida transmits, "And what they wanted to meet
+up about is something I'm itching to know."
+[General Communication] Sakura Arakida laughs.
+[General Communication] Joel Kringle chuckles.
+[General Communication] Tanny Hill transmits, "I do not blame you. So, anyone
+wanna do productive stuff?"
+[General Communication] Cesar Ysidro transmits, "We traded gelatin recipes."
+[General Communication] Sakura Arakida transmits, "I didn't bash my head into a
+wall, though I did end up getting shit faced."
+[General Communication] Ather Jammoa transmits, "I am rather fond of gelatin."
+[General Communication] Tanny Hill transmits, "Getting shitfaced is always a
+good fallback."
+[General Communication] Blake Madison transmits, "Woo."
+[General Communication] Sakura Arakida transmits, "Agreed with you there tanny."
+[General Communication] Sakura Arakida transmits, "Though I'm kind of liking
+ultra violet sploder pops."
+[General Communication] Tanny Hill transmits, "I know right?? That shit is
+great."
+[General Communication] Sakura Arakida transmits, "I stop for sploder pops on my
+way out to GMG with zandria all the time. Though I should try another color."
+[General Communication] Cesar Ysidro transmits, "Ultraviolet is fine."
+Lily Kaise suddenly awakens.
+Lily Kaise cuddles up to you.
+[General Communication] A robotic voice says, "Incoming QE message from Metal
+Heart to AFW Command: KEEGAN DO NOT EAT IT  WAS JOKE  AB <END>"
+[General Communication] Cesar Ysidro transmits, "Blah blah."
+[General Communication] Sakura Arakida snickers. "That sounds like anfisa."
+[General Communication] Tanny Hill transmits, "Don't eat what now?"
+A large semi-transparent cylindrical creature with long dangling tendrils and a
+green glowing interior drifts slowly past a small plastic statue of a shark.
+[General Communication] Joel Kringle transmits, "Yay for approval."
+[General Communication] Joel Kringle transmits, "Message ready to go when
+someone approves."
+[General Communication] Tanny Hill transmits, "What to do...oh, planets."
+[General Communication] Keegan Wantz transmits, "Ahahahahahahahhahahahaha."
+A medium-sized semi-transparent cylindrical creature with long dangling tendrils
+and a chartreuse glowing interior drifts slowly across the tank.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise says in a New Earth accent, "Be right back. Going to see if more
+long-haired kittens have emerged."
+Lily Kaise stands up from your lap.
+grin
+You grin.
+Lily Kaise squeezes you affectionately.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a plastic shipwreck flying a pirate
+flag.
+[General Communication] Joel Kringle transmits, "Root beer float! Yum!!!"
+[General Communication] Keegan Wantz transmits, "Did someone yoink the vending
+machine from Yadira Rivera?"
+[General Communication] Ather Jammoa transmits, "If it was installed just for
+the purpose of the expedition, the spaceport could've reclaimed it for your
+alliance, I suppose."
+[General Communication] Keegan Wantz transmits, "Nah, it was Mel's sandwich
+one."
+[General Communication] Keegan Wantz transmits, "HA."
+[General Communication] Keegan Wantz transmits, "You didn't say Kringle Out."
+[General Communication] Joel Kringle chuckles.
+[General Communication] Ather Jammoa transmits, "She didn't take it with her
+when she jumped ship?"
+[General Communication] Keegan Wantz transmits, "Nah, Joel snatched it."
+[Notification from Starseekers] 1 megacredit has been spent on the
+organization's hyperwave relay rental contract.
+[General Communication] Keegan Wantz transmits, "Just going to leave them on her
+Sightseer."
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+[General Communication] Ather Jammoa transmits, "Punch him in his right eye."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you on the lips.
+[General Communication] Cesar Ysidro transmits, "Joel do not steal things."
+[General Communication] Cesar Ysidro transmits, "7 planets hooray."
+[General Communication] Joel Kringle transmits, "Very nice."
+cuddle lily
+You cuddle up to Lily Kaise.
+[General Communication] Tobias Hawthorne transmits, "Very, very nice."
+Lily Kaise cuddles up to you.
+[Notification from Starseekers] A load of salvage has been received at League
+Unmanned Pickup Debris-Burning Temporary Station from the two-person medium
+transport "Unbelievable!". The organization has earned 263,845.39 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+first tier performance goal! Let's keep pushing for the second!"
+[General Communication] Joel Kringle transmits, "Six is good too."
+smile lily
+You smile at Lily Kaise.
+[General Communication] Joel Kringle transmits, "Anyone up for a camp at the top
+of the hour?"
+[General Communication] Cesar Ysidro transmits, "Joel it is time for salvaging."
+[General Communication] Tobias Hawthorne transmits, "Sure, if I can get back
+from 134 in time."
+[General Communication] Cesar Ysidro transmits, "We must forever salvage."
+[General Communication] Joel Kringle whistles.
+[Notification from Starseekers] The organization has received 985,789.16 EAOS
+credits from a toll payment to League Rift Accelerating Battery-Powered Toll
+Station in Waypoint Alpha 135.
+[General Communication] Joel Kringle transmits, "I must become a lean mean
+salvaging machine... Wait? Can I be that in my dreams?"
+[General Communication] Cesar Ysidro transmits, "Always salvage."
+caress lily on back
+You gently caress Lily Kaise's back.
+Lily Kaise gently caresses your neck and shoulders.
+[General Communication] Cesar Ysidro assaults your ears with a burst of static
+and screeching feedback as he transmits at the top of his lungs, "THE FINAL
+PAIN!!!!"
+smile lily
+You smile at Lily Kaise.
+Lily Kaise asks in a New Earth accent, "How's your cap today is it still hurting
+hehe?"
+Lily Kaise laughs.
+'It's still there.
+You say, "It's still there."
+Lily Kaise says in a New Earth accent, "Well min will be there for a long long
+time... also, seems when I do something, even if I don't take the points, it
+will stall out for at least 4 hours."
+nod
+You nod.
+[General Communication] Cesar Ysidro transmits, "Don't forget to pay your belt
+people."
+[General Communication] Sakura Arakida transmits, "I'd love to get back out onto
+an expidition. It's nice and quiet and quite interesting out there."
+[General Communication] Cesar Ysidro transmits, "Exactly 500 belt points
+stashed."
+[General Communication] Cesar Ysidro transmits, "Neato."
+A short violet soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+[General Communication] Sakura Arakida transmits, "Damn. I managed 150 points
+once, never 500. I'm too greedy and tend to collect them at 10 or 20."
+[General Communication] Cesar Ysidro transmits, "Not much need for industry
+anymore."
+[General Communication] Sakura Arakida transmits, "Then send it my way. I'm 850
+from 3k."
+[General Communication] Cesar Ysidro transmits, "Nop."
+Sassie the large fuchsia felo jumps down from your lap.
+[General Communication] A robotic voice says, "Outgoing QE message from AFW
+Command to Metal Heart: YR BK SF LUCK <END>"
+[General Communication] Keegan Wantz transmits, "Do not eat it, she says."
+[General Communication] Keegan Wantz chuckles.
+Lily Kaise cuddles up to you.
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+Lily Kaise picks up a red plastic food storage container.
+Lily Kaise says in a New Earth accent, "Huh."
+caress lily on hair
+You gently caress Lily Kaise's hair.
+Lily Kaise puts down a red plastic food storage container.
+Lily Kaise closes a clear plastic food storage container.
+Lily Kaise opens a red plastic food storage container and the light inside
+clicks on.
+Lily Kaise removes a day old sliced grilled chicken breast on a piece of crispy
+flatbread topped with roasted red peppers and mozzarella cheese from a red
+plastic food storage container.
+Lily Kaise takes a bite of a day old sliced grilled chicken breast on a piece of
+crispy flatbread topped with roasted red peppers and mozzarella cheese.
+Lily Kaise takes a bite of a day old sliced grilled chicken breast on a piece of
+crispy flatbread topped with roasted red peppers and mozzarella cheese.
+take chili
+You remove a day old serving of chili fries topped with cheese and green onions
+from a red plastic food storage container.
+eat chili
+You take a bite of a day old serving of chili fries topped with cheese and green
+onions.
+Lily Kaise takes a bite of a day old sliced grilled chicken breast on a piece of
+crispy flatbread topped with roasted red peppers and mozzarella cheese.
+eat chili
+You take a bite of a day old serving of chili fries topped with cheese and green
+onions.
+Lily Kaise takes a bite of a day old sliced grilled chicken breast on a piece of
+crispy flatbread topped with roasted red peppers and mozzarella cheese.
+Lily Kaise finishes off a day old sliced grilled chicken breast on a piece of
+crispy flatbread topped with roasted red peppers and mozzarella cheese.
+eat chili
+You take a bite of a day old serving of chili fries topped with cheese and green
+onions.
+eat chili
+You take a bite of a day old serving of chili fries topped with cheese and green
+onions.
+eat chili
+You finish off a day old serving of chili fries topped with cheese and green
+onions.
+Lily Kaise removes a day old grilled tortilla stuffed with jalapeno peppers and
+cheese from a red plastic food storage container.
+Lily Kaise says in a New Earth accent, "This is what they call a quesedilla."
+Lily Kaise laughs.
+laugh
+You laugh.
+Lily Kaise takes a bite of a day old grilled tortilla stuffed with jalapeno
+peppers and cheese.
+Lily Kaise says in a New Earth accent, "It's good though."
+Lily Kaise says in a New Earth accent, "It's good though."
+grin
+You grin.
+Lily Kaise takes a bite of a day old grilled tortilla stuffed with jalapeno
+peppers and cheese.
+Lily Kaise takes a bite of a day old grilled tortilla stuffed with jalapeno
+peppers and cheese.
+Lily Kaise takes a bite of a day old grilled tortilla stuffed with jalapeno
+peppers and cheese.
+Lily Kaise finishes off a day old grilled tortilla stuffed with jalapeno peppers
+and cheese.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Lily Kaise exclaims in a New Earth accent, "Phew that was a... bit spicey!"
+Lily Kaise laughs.
+Lily Kaise opens a compact red refrigerator and the light inside clicks on.
+Lily Kaise removes a day old tall glass of sweetened iced tea from a compact red
+refrigerator.
+Lily Kaise takes a sip of a day old tall glass of sweetened iced tea.
+A large semi-transparent cylindrical creature with long dangling tendrils and a
+green glowing interior pulsates gently.
+Lily Kaise takes a sip of a day old tall glass of sweetened iced tea.
+Lily Kaise takes a sip of a day old tall glass of sweetened iced tea.
+Lily Kaise takes a sip of a day old tall glass of sweetened iced tea.
+Lily Kaise quickly drains a day old tall glass of sweetened iced tea.
+Lily Kaise puts a glass in a small white trash bin.
+Lily Kaise removes a day old generous wedge of chocolate cheesecake from a red
+plastic food storage container.
+Lily Kaise exclaims in a New Earth accent, "Yum!"
+Lily Kaise takes a bite of a day old generous wedge of chocolate cheesecake.
+take chocolate
+You remove a day old slice of chocolate cream pie from a compact red
+refrigerator.
+eat chocolate
+You take a bite of a day old slice of chocolate cream pie.
+eat chocolate
+You take a bite of a day old slice of chocolate cream pie.
+cuddlelily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise.
+[General Communication] A robotic voice says, "QE message transfer to Metal
+Heart complete."
+Lily Kaise cuddles up to you.
+Lily Kaise takes a bite of a day old generous wedge of chocolate cheesecake.
+Lily Kaise takes a bite of a day old generous wedge of chocolate cheesecake.
+cuddle lily
+You cuddle up to Lily Kaise.
+eat chocolate
+You take a bite of a day old slice of chocolate cream pie.
+eat chocolate
+You take a bite of a day old slice of chocolate cream pie.
+eat chocolate
+You finish off a day old slice of chocolate cream pie.
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says in a New Earth accent, "Nom nom chocolate."
+Lily Kaise grins.
+grin
+You grin.
+[General Communication] Cesar Ysidro transmits, "The camp still on for
+midnight?"
+[General Communication] Keegan Wantz transmits, "This ship feels so imbalanced
+with only Arpeggio attached."
+squeeze lily
+You squeeze Lily Kaise affectionately.
+caress lily on hair
+You gently caress Lily Kaise's hair.
+A medium-sized semi-transparent cylindrical creature with long dangling tendrils
+and a chartreuse glowing interior drifts slowly past a plastic frond of light
+green sea fern.
+[General Communication] Tanny Hill transmits, "Alright, rave time."
+[General Communication] Tanny Hill transmits, "Maybe I should get a new outfit
+to go with my body paint."
+Purr the humanoid service robot spasmodically shakes a container of fish food
+over a wall-sized bubbling neon purple-lit aquarium containing yellow and violet
+aquatic life and coral rocks.
+Purr the humanoid service robot clomps south.
+Purr the humanoid service robot clomps into the room.
+"Good job!" Lily Kaise pats Purr the humanoid service robot lightly.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+grin
+You grin.
+[Notification from Starseekers] A load of salvage has been received at League
+Salvage Processing Nuclear Temporary Station from the two-person light transport
+"Hawthorne's Raven". The organization has earned 254,052.47 credits.
+A short yellow soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+caress lily on hair
+You gently caress Lily Kaise's hair.
+caress lily on back
+You gently caress Lily Kaise's back.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Lily Kaise kisses you softly on the neck.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+raises its claws at a small plastic statue of a Jinu and snaps them menacingly
+while dancing around it.
+smile lily
+You smile at Lily Kaise.
+who
+There appear to be about 20 pilots recently active.
+The communicator network and Accord QE comm detect:
+Demarco Scott  (A) [m]
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Tanny Hill  (L)
+Soraya Rhyz  (L)
+Zandria Marschaund  (L)
+Sakura Arakida  (L)
+Tobias Hawthorne  (L)
+Ali Candan  (L)
+%Akemi of None  (L)
+%Morris Corlew  (L)
+%Nissi Valdaire  (L) [a]
+%Nicolette of None  (L)
+Cesar Ysidro  (F) [a]
+Damien Alexander  (F)
+Keegan Wantz  (F)
+%Aisling the Fox  (M)
+%Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+%Anfisa of Marzore  (M) [v]
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 8 pilots who were active but
+dropped out of communications.
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 33 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+squeeze lily
+You squeeze Lily Kaise affectionately.
+A medium-sized semi-transparent cylindrical creature with long dangling tendrils
+and a chartreuse glowing interior drifts slowly past a small plastic statue of a
+Jinu.
+Lily rusqueeze shule.
+Lily Kaise laughs.
+Lily Kaise squeezes you affectionately.
+Lily gently rubs your back.
+[General Communication] Cesar Ysidro transmits, "Exciting night it seems."
+chuckle
+You chuckle.
+Lily Kaise chuckles.
+Lily Kaise says in a New Earth accent, "I'd suggest cleansing Old Frontier but I
+need to be dozey in about half an hour for a little while."
+'Oh, ok.
+You say, "Oh, ok."
+'Well, maybe after that?
+You ask, "Well, maybe after that?"
+'When you are less dozey?
+You ask, "When you are less dozey?"
+Lily Kaise says in a New Earth accent, "Yeah we certainly can try for it."
+smile 'Awesome.
+You smile. "Awesome."
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise says in a New Earth accent, "Yeah if i'm dozey in there... the bari
+will have a party on us."
+laugh
+You laugh.
+'Yeah, they probably would.
+You say, "Yeah, they probably would."
+A medium-sized thickly-shelled creature with a red shell and four small claws
+rears up against the glass and snaps its claws at the outside world.
+Lily Kaise laughs.
+[Notification from Starseekers] A load of salvage has been received at League
+Salvage Processing Nuclear Temporary Station from the two-person medium
+transport "Unbelievable!". The organization has earned 590,737.21 credits.
+conquest
+The AEU did not reach any of its performance goals.
+Top Performers: Lily Kaise, Shule Elemmire, and Demarco Scott.
+The current Conquest period began 3 days, 29 minutes, and 30 seconds ago. The
+period will end in 23 hours, 28 minutes, and 58 seconds.
+Lily Kaise kisses you on the lips.
+kiss lily on  lips
+You kiss Lily Kaise on the lips.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+mid-back length, straight hair is pale honey blonde and swept up into a thick
+fall of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a white t-shirt with 'Vivre Libre!' printed across the front in
+glittery gold letters and a pair of tight light blue denim jeans with a small
+dark-red 'XX' embroidered on the back left pocket. She is also wearing an orange
+and white blessed prayer bracelet around her wrist, a slender bracelet of tiny
+tinkling silver bells around her wrist, a neon purple wrist-mounted chronometer,
+a solid silver ring engraved with dragonflies, a delicate ring of silver wire
+and small purple amethyst crystals, a metallic gold touch einrophone in a
+metallic purple reinforced plastic phone holster, and a soft fuchsia Tardick
+lizard snuggly labeled 'Asteria'. Her head, face, both eyes, neck, both elbows,
+both forearms, both wrists, both hands, and both feet are left uncovered.
+She is carrying nothing.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a small plastic statue of a shark.
+kiss lily on hand
+You kiss Lily Kaise delicately on the hand.
+Lily Kaise kisses you softly on the neck.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly past a string of light purple plastic kelp.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+A long gold soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and
+an amber glowing interior drifts slowly past a plastic frond of light green sea
+fern.
+Lily Kaise squeezes you affectionately.
+Bert the hefty blue soldier felo marches in from the south.
+pet bert
+You stroke the soft fur of Bert the hefty blue soldier felo.
+Bert the hefty blue soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+[General Communication] Aubri Ciscoh transmits, "Woohoo! Home!"
+[General Communication] Melissa Cantrelle transmits, "Hello!"
+tra gen Hi
+[General Communication] Shule Elemmire transmits, "Hi."
+[General Communication] Cesar Ysidro transmits, "Woo."
+Bert the hefty blue soldier felo marches south.
+Samantha the large violet felo hums melodically to itself as it wanders in from
+the south.
+Lily Kaise strokes the soft fur of Samantha the large violet felo.
+Samantha the large violet felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+: strokes the soft hair of ~lily.
+Shule strokes the soft hair of Lily.
+A short violet soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+Samantha the large violet felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+who
+There appear to be about 20 pilots recently active.
+The communicator network and Accord QE comm detect:
+Demarco Scott  (A) [m]
+Lily Kaise  (A)
+Ather Jammoa  (A) [am]
+Shule Elemmire  (A) [m]
+Melissa Cantrelle  (L)
+Johann Rowan  (L)
+Tanny Hill  (L)
+Soraya Rhyz  (L)
+Zandria Marschaund  (L)
+Tobias Hawthorne  (L)
+Ali Candan  (L)
+%Akemi of None  (L)
+%Morris Corlew  (L)
+Aubri Ciscoh  (F)
+Cesar Ysidro  (F) [a]
+Damien Alexander  (F)
+Keegan Wantz  (F)
+%Aisling the Fox  (M)
+%Anfisa of Marzore  (M) [v]
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 5 pilots who were active but
+dropped out of communications.
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 35 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Samantha the large violet felo hums melodically to itself as it wanders south.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+first tier performance goal! Let's keep pushing for the second!"
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+creeps across the bottom of the tank, snapping its many claws rapidly.
+pet sassi
+You stroke the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+who
+#end
+#SESSION 'star' DIED.

@@ -1,0 +1,635 @@
+00:00:00
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Jan  2 21:30:22 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a large periwinkle bed pillow, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it, a large oval
+dark purple and light purple cloth rug, a small hot tea dispenser, and a soft
+periwinkle cashmere blanket here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a large
+periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made purple and
+amethyst flower quilt on it.)
+afk
+You blink heavily and then doze off.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: You can punch, kick, tackle, and flip other people if you need to defend
+yourself and you don't have a stun weapon.
+**
+#SNOOPING SESSION 'StarConquest'
+[Tactical Communication] Melinda Michaels transmits, "Ather, does that bolt
+thrower dampen?"
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+[Tactical Communication] Ather Jammoa transmits, "The bolt cannot dampen."
+[Tactical Communication] Ather Jammoa transmits, "You cannot install a sensor
+dampener on any corporation vessel. Just like you can't install charged shot on
+them etc."
+[AEU | 4: Sector Status] AEU Passively Beaconed Battery-Powered Temporary
+Station at Home Beacon Alpha 286 is now on emergency power.
+[Tactical Communication] Ather Jammoa transmits, "Melinda, did Akemi tell you my
+suggestion for the basic defense platforms to set up at accord, Orion and
+Teslaworld?"
+[Tactical Communication] Melinda Michaels transmits, "No."
+[Tactical Communication] Ather Jammoa transmits, "My proposal is the most basic
+short-range laser, basic energy shunt, fusion battery and core. Should be just
+enough units of power, and the stations will stay operational for a good long
+while."
+[Tactical Communication] Melinda Michaels transmits, "That makes sense."
+[Tactical Communication] Ather Jammoa transmits, "For this initiative, I will be
+happy to offer the fusion batteries on behalf of invaders at no charge."
+[Tactical Communication] Melinda Michaels transmits, "All right."
+[Tactical Communication] Ather Jammoa transmits, "Let me know when you station
+builders are ready to put those stations together, and I'll arrange the purchase
+of the batteries."
+[Tactical Communication] Melinda Michaels transmits, "Will do."
+[Tactical Communication] Ather Jammoa transmits, "I figure, if we get one person
+onto those defense platforms, and we manage to lure the bolts close enough even
+for a few potshots, we'll have something better than nothing. If they can hit
+with long-range weapons, we should do so as well."
+[Tactical Communication] Melinda Michaels transmits, "I agree."
+[Tactical Communication] Morris Corlew transmits, "Question, Ather?"
+[Tactical Communication] Ather Jammoa transmits, "Yep."
+[Tactical Communication] Morris Corlew transmits, "Accord has pretty heavy
+sector defenses, doesn't it?"
+[Tactical Communication] Erik Goodwin transmits, "It's only beta 3."
+[Tactical Communication] Ather Jammoa transmits, "I've honestl ynever seen them
+fire any space-based weaponry. I mean, I suppose the peacekeepers will respond
+in force, though."
+[Tactical Communication] Morris Corlew transmits, "Sure looks like an Alpha 1
+sector when you enter. Between the station and the constant launch of
+peacekeepers...that's why I was wondering."
+[Tactical Communication] Erik Goodwin transmits, "It really does."
+[Tactical Communication] Morris Corlew transmits, "I mean, I know the
+designation isn't Alpha-1, but it sure looks like it would be."
+[Tactical Communication] Erik Goodwin transmits, "You'd also think they'd have
+access to space baced weaponry."
+[Tactical Communication] Ather Jammoa transmits, "It is a fortress, tis true. I
+mean, I suppose we can cut the accord out of the defense platforms, and just
+build them at Orion and Teslaworld."
+[Tactical Communication] Morris Corlew transmits, "With as long as we've had
+those flight control scanners up, what, a couple weeks now? Nothing has touched
+Accord, but they've loved the other three. Rats don't even go in there."
+[Tactical Communication] Erik Goodwin transmits, "I'm also surprised the accord
+doesn't have it's own flight control relays."
+[Tactical Communication] Ather Jammoa transmits, "Yeah, but it's still good to
+maintain a flight control tower at Accord, since IFS and Outsiders use to love
+invading it before."
+01:00:00
+[Tactical Communication] Morris Corlew transmits, "Not advocating against it,
+just curious...when was the last time they messed with Accord?"
+[Tactical Communication] Ather Jammoa transmits, "Pirates, not for a good long
+while. IFS and Outsiders, probably been a year or so, maybe a bit more."
+[Tactical Communication] Morris Corlew transmits, "In the scheme of things,
+that's not very long."
+[Tactical Communication] Bryan Stout transmits, "They could just be waiting for
+us to let our guard down."
+[Tactical Communication] Ather Jammoa transmits, "Especially since IFS generally
+tend to launch surprise attacks literally out of nowhere."
+[Tactical Communication] Morris Corlew transmits, "How did we find out about it
+before? Flight control?"
+[Tactical Communication] Ather Jammoa transmits, "Well, before the accord would
+either generally request assistance. Kaito and I use to also patrol it regularly
+with disposable vessels. That was when there'd be like, one major IFS attack a
+day, at least."
+[Tactical Communication] Morris Corlew transmits, "Gotcha."
+[Tactical Communication] Erik Goodwin transmits, "Pirate in orion."
+[Tactical Communication] Erik Goodwin transmits, "Scout."
+[Tactical Communication] Ather Jammoa transmits, "Then they launched a massive
+multi-pronged assault against us hitting several alliance sectors, plus the
+Accord, bringing forward assault stations to several locations. That started to
+push them back a bit. Then they launched another massive multi-pronged attack
+agains tthe Mutuality which we also beat back with major losses. That seemed to
+make them hesitate even more. Since then, they've launched a few small invasions
+against us, but nothing as big as those ones."
+[Tactical Communication] Erik Goodwin transmits, "Actually it's a destroyer."
+[Tactical Communication] Bryan Stout transmits, "Man, wow."
+[Tactical Communication] Erik Goodwin transmits, "Headed for the watchtower."
+[Tactical Communication] Erik Goodwin transmits, "Maybe I can get shots in."
+[Tactical Communication] Morris Corlew transmits, "Headed for the watchtower?"
+[Tactical Communication] Erik Goodwin transmits, "The long range laser is there,
+no?"
+[Tactical Communication] Erik Goodwin transmits, "So I'm going there."
+[Tactical Communication] Morris Corlew transmits, "Yes."
+[Tactical Communication] Jason Rat transmits, "On the way in a fighter."
+[Tactical Communication] Melinda Michaels transmits, "Just the one ship?"
+[Tactical Communication] Erik Goodwin transmits, "Yes."
+[Tactical Communication] Erik Goodwin transmits, "And it ran."
+[Tactical Communication] Morris Corlew transmits, "Oh. It left."
+[Tactical Communication] Erik Goodwin transmits, "I got 3 shots in."
+[Tactical Communication] Morris Corlew transmits, "Rat scared it off."
+[Tactical Communication] Jason Rat transmits, "It saw me."
+[Tactical Communication] Melinda Michaels transmits, "Two for morningstar
+beacons?"
+[Tactical Communication] Lillian Hudson transmits, "Sure."
+[Tactical Communication] Jason Rat transmits, "Me."
+[Tactical Communication] Erik Goodwin transmits, "Me."
+[Tactical Communication] Evangeline Adaire transmits, "Sure."
+[Tactical Communication] Morris Corlew chuckles.
+[Tactical Communication] Evangeline Adaire transmits, "Or I can wait."
+[Tactical Communication] Melinda Michaels transmits, "Full with Lillian and
+Rat."
+[Tactical Communication] Erik Goodwin transmits, "Cruiser beacons instead?"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Temporary
+Station from the two-person light transport "The Ship's Name". The organization
+has earned 484,565.71 credits.
+[Tactical Communication] Jason Rat transmits, "No."
+[Tactical Communication] Erik Goodwin transmits, "I thought I'd ask."
+[Tactical Communication] Lillian Hudson transmits, "Rat and I are in the
+lounge."
+[Tactical Communication] Ather Jammoa transmits, "This is one of those times
+when I'd honestly encourage most of you to practice flying decoy beacon drops in
+a fighter. So, let the waspers go on theirs, you go on your own so you can
+practice."
+[Tactical Communication] Erik Goodwin transmits, "I'll do that then."
+[Tactical Communication] Lillian Hudson transmits, "Fighter very highs are the
+thing."
+[Tactical Communication] Evangeline Adaire transmits, "True, I'll get started on
+taht."
+[Tactical Communication] Melinda Michaels transmits, "Agreed, that's why I want
+to do Morningstar. They are quite helpful in these pirate fights."
+[Tactical Communication] Evangeline Adaire transmits, "That, too."
+[Tactical Communication] Ather Jammoa transmits, "Uh, I don't recommend that you
+do a very high decoy beacon drop until you are actually confident enough on the
+highs first. By confident I mean that you only get hit like once or twice at the
+most."
+[Tactical Communication] Erik Goodwin transmits, "Yeah, I wasn't planning to."
+[Tactical Communication] Lillian Hudson transmits, "Aww, taking the fun out of
+it."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "One
+performance goal down! One to go!"
+[Tactical Communication] Melinda Michaels transmits, "I did a very high with
+little issues. So I did another and nearly got my ass kicked. Therefore, I agree
+with Ather here. Very High beacons can be rough."
+[Tactical Communication] Ather Jammoa transmits, "Yo uget them bolts!"
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/Name Changes.
+A metallic silver metachannel FTL communicator chimes softly as it receives a
+new notice.
+[Tactical Communication] Gonzales Bourne transmits, "Chetumal Orbit is on
+alert."
+[Tactical Communication] Sarah Lyn transmits, "It was a test."
+[Tactical Communication] Ather Jammoa transmits, "Checking it now."
+[Tactical Communication] Morris Corlew transmits, "OK. Who is not in a
+beacon....a test?"
+[Tactical Communication] Ather Jammoa transmits, "What?"
+[Tactical Communication] Melinda Michaels transmits, "We'll be there as soon as
+we can."
+[Tactical Communication] Ali Candan transmits, "What test?"
+[Tactical Communication] Sarah Lyn transmits, "It was only a test, ignore it, I
+hit the wrong button."
+[Tactical Communication] Gonzales Bourne transmits, "It's standing down now."
+[Tactical Communication] Morris Corlew transmits, "Copy that."
+[Tactical Communication] Melinda Michaels transmits, "Copy."
+[Tactical Communication] Sarah Lyn transmits, "Sorry, stop."
+[Tactical Communication] Ather Jammoa transmits, "Please elaborate so we can
+tell you to never do that again."
+[Tactical Communication] Erik Goodwin transmits, "What'd you do."
+[Tactical Communication] Morris Corlew transmits, "I think she must have mashed
+the SOS button...I'm thinking."
+[Tactical Communication] Sarah Lyn transmits, "I hit the wrong button, what else
+can I say."
+[Tactical Communication] Ather Jammoa transmits, "I mean, they launched cruisers
+and gunships for that alert. Good fuck."
+[Tactical Communication] Ather Jammoa transmits, "Oh well, all's well."
+[Tactical Communication] Ali Candan transmits, "Well, glory to the fleet."
+[Tactical Communication] Sarah Lyn transmits, "Yo yo yo, shiting jesus, sorry, I
+hit the wrong button, o, fuck, dammit son of a bitch."
+[AEU | 4: Sector Status] AEU Passively Beaconed Battery-Powered Temporary
+Station at Home Beacon Alpha 286 is shutting down.
+Lily Kaise yawns.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+large periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made
+purple and amethyst flower quilt on it.
+Lily Kaise glides out.
+02:00:00
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+[Tactical Communication] Lillian Hudson transmits, "Three for defense on the
+morningstar for an op?"
+[Tactical Communication] Evenia Callseah transmits, "I'll engineer it."
+[Tactical Communication] Lillian Hudson transmits, "Two."
+[Tactical Communication] Aisling an Sionnach transmits, "Salvage operation?"
+[Tactical Communication] Lillian Hudson transmits, "Yes."
+[Tactical Communication] Bryan Stout transmits, "Yes."
+[Tactical Communication] Aisling an Sionnach transmits, "How long does this
+take?"
+[Tactical Communication] Lillian Hudson transmits, "It shouldn't take longer
+than an hour."
+[Tactical Communication] Luja Garland transmits, "Is there l."
+[Tactical Communication] Aisling an Sionnach transmits, "I will do it."
+[Tactical Communication] Lillian Hudson transmits, "One."
+[Tactical Communication] Luja Garland transmits, "Buttons, my bad."
+[Tactical Communication] Lillian Hudson transmits, "One more for defense?"
+[Tactical Communication] Lillian Hudson transmits, "Old Earth by the way."
+[Tactical Communication] Morris Corlew transmits, "I said I would Lillian..."
+[Tactical Communication] Aisling an Sionnach transmits, "I figured. Just
+landed."
+[Tactical Communication] Lillian Hudson transmits, "Full."
+Buddy the hefty blue soldier felo marches in from the north.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+Buddy the hefty blue soldier felo rubs up against your ankle, purring softly.
+03:00:01
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+Buddy the hefty blue soldier felo marches out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+A hairy yellow eight-legged ArachnoPal named Higgins crouches down for a moment.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Tactical Communication] Ather Jammoa transmits, "Interesting. No vessels
+responded to that transport's plight."
+[Tactical Communication] Morris Corlew transmits, "That's been happening
+lately."
+[Tactical Communication] Bryan Stout transmits, "They haven't been of late."
+[Tactical Communication] Melinda Michaels transmits, "Pardon?"
+[Tactical Communication] Ather Jammoa transmits, "Oh, I was monitoring flight
+control at second battle, and jumped into the drift funnel so that I could help
+out when enemy vessels jumped in, but no enemy ships engaged after whoever was
+in that league fighter shot at the transport."
+[Tactical Communication] Joel Kringle transmits, "They recognized my ship name
+and decided against it."
+[Tactical Communication] Aisling an Sionnach transmits, "Ather, did you wish to
+talk to me?"
+[Tactical Communication] Ather Jammoa transmits, "Oh yes. Come to New Earth."
+[Tactical Communication] Aisling an Sionnach transmits, "After op."
+[Tactical Communication] Ather Jammoa transmits, "Be there momentarily."
+[Tactical Communication] Ather Jammoa transmits, "Ok."
+04:00:00
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "One
+performance goal down! One to go!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Temporary
+Station from the two-person light transport "The Ship's Name". The organization
+has earned 216,596.61 credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Temporary
+Station from the two-person medium transport "Never Cometed To You For Long".
+The organization has earned 89,357.99 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 695,160.92 credits.
+[Notification from Space Explorers Amidst The Stars] A salvage op led by Lillian
+Hudson has been completed at a Space Explorers Amidst The Stars-sponsored
+salvage processor.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 2,232,718.87 credits.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 2,219,363.44 credits.
+A hairy yellow eight-legged ArachnoPal named Higgins spins webbing, gathering it
+into a ball with his back feet, then eats it.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Save An Asteroid, Ride A Cowboy". The
+organization has earned 1,530,453.28 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 1,222,766.43 credits.
+#SESSION 'StarConquest' ACTIVATED.
+who
+There appear to be 13 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Angel Martin  (A)
+Nadine Strife  (L)
+Joel Kringle  (L)
+Sarah Bellamy  (L) [c]
+Bryan Stout  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Luja Garland  (L)
+Morris Corlew  (L)
+Evenia Callseah  (F)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Aisling an Sionnach  (M)
+Additionally, there are 12 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+05:00:00
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 783,010.22 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Save An Asteroid, Ride A Cowboy". The
+organization has earned 955,026.07 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 884,359.97 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Save An Asteroid, Ride A Cowboy". The
+organization has earned 803,542.91 credits.
+A hairy yellow eight-legged ArachnoPal named Higgins spins webbing, gathering it
+into a ball with his back feet, then eats it.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 1,131,732.28 credits.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for a solar panel array module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Save An Asteroid, Ride A Cowboy". The
+organization has earned 1,829,474.81 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 1,288,020.87 credits.
+[AEU | 4: Sector Status] AEU Solar Weather Station at The Belt of Orion is now
+online!
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new AEU Solar Weather Station in The Belt of Orion.
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Passively Beaconed Battery-Powered Toll Station in
+Outpost V-473.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Save An Asteroid, Ride A Cowboy". The
+organization has earned 1,304,971.33 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Gotta Catch'em All". The organization has
+earned 791,745.31 credits.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins crouches down for a moment.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a blast chamber module.
+Blueberry the hefty violet feathered felo wanders in from the north.
+06:00:00
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Save An Asteroid, Ride A Cowboy". The
+organization has earned 981,445.88 credits.
+A hairy yellow eight-legged ArachnoPal named Higgins taps his claws on the
+floor.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Save An Asteroid, Ride A Cowboy". The
+organization has earned 490,749.64 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+Lily Kaise glides in from the north.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+#SESSION 'StarConquest' ACTIVATED.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+large periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made
+purple and amethyst flower quilt on it.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Does your character have goals? Try the GOALS command to let the hosts
+know! Something just might come of it.
+**
+Lily Kaise wraps her arms around you, pulling you close.
+#SESSION 'StarConquest' ACTIVATED.
+cuddle lily
+You cuddle up to Lily Kaise.
+#SESSION 'StarConquest' ACTIVATED.
+who
+There appear to be 12 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Sean Sloan  (L)
+Nadine Strife  (L)
+Joel Kringle  (L)
+Sarah Bellamy  (L) [c]
+Bryan Stout  (L)
+Nicolette Lawrence  (L)
+Morris Corlew  (L)
+Evenia Callseah  (F)
+Aisling an Sionnach  (M)
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 23 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Blueberry the hefty violet feathered felo rubs up against your ankle, purring
+softly.
+#SESSION 'StarConquest' ACTIVATED.
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a large periwinkle bed pillow, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it, a large oval
+dark purple and light purple cloth rug, a small hot tea dispenser, a soft
+periwinkle cashmere blanket, and Blueberry the hefty violet feathered felo here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a large
+periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made purple and
+amethyst flower quilt on it.)
+afk
+You blink heavily and then doze off.
+Lily Kaise cuddles up to you.
+#SESSION 'StarConquest' ACTIVATED.
+caress lily on back
+You gently caress Lily Kaise's back.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+Lily rubs your back and strokes your hair.
+read comm
+You glance at your communicator's screen.
+Notice from the Space Defense Captain: Attention pilots: after further
+discussion with other pilots, it seems that sensor dampeners are especially
+effective in the battle against Mr. Kelsey's latest attack fleet compositions
+that include bolt throwers. As of the time of this comm notice, we have had
+three strikes by his fleet of bolt throwers and other assorted vessels. In
+future attacks, if any active pilot has a vessel that can get a sensor dampener
+installed on it, waste no time in getting it. You can usually install them on
+vessels such as the combat scout, the flare, the escort, the clipper, the
+gunship, the pulsar, the heavy fighter which has no FTL drive and the cruiser.
+I'm sure that there are other ships that I haven't yet thought about. The
+electronic warfare fighters at Hyperion come with sensor dampeners installed,
+but have no FTL's like the heavy fighter, so it's not very easy to transport one
+into a hot zone. If you have any questions, now is not the time for hesitation.
+Send me letters, call the SDC office, ask on alliance or tactical comms. [23:48
+28 January 2317 GST]
+There are two board posts.
+Lily Kaise whispers, "Nite Love. I love you. Sleep well and sweet dreams."
+Lily Kaise blinks heavily and then dozes off.
+smile lily
+You smile at Lily Kaise.
+#SESSION 'StarConquest' ACTIVATED.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Blueberry the hefty violet feathered felo rubs up against your ankle, purring
+softly.
+Blueberry the hefty violet feathered felo wanders out.
+Blueberry the hefty violet feathered felo wanders in from the north.
+#SESSION 'StarConquest' ACTIVATED.
+who
+There appear to be 9 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Shule Elemmire  (A) [m]
+Joel Kringle  (L)
+Sarah Bellamy  (L) [c]
+Bryan Stout  (L)
+Nicolette Lawrence  (L)
+Morris Corlew  (L)
+Evenia Callseah  (F)
+Aisling an Sionnach  (M)
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 20 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+afk
+You blink heavily and then doze off.
+Blueberry the hefty violet feathered felo wanders out.
+07:00:00
+[Tactical Communication] Evenia Callseah transmits, "I've got a light fighter
+and light assault corvette out here, a sector west of second battle where I've
+just put up a new station. Could someone come clear these guys out?"
+[Tactical Communication] Joel Kringle transmits, "On it."
+[Tactical Communication] Evenia Callseah transmits, "Appreciated."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+first tier performance goal! Let's keep pushing for the second!"
+[Tactical Communication] Evenia Callseah transmits, "Thanks Joel."
+Prissy the big violet long-haired felo wanders in from the north.
+[Tactical Communication] Aisling an Sionnach transmits, "Get to pad, Joel."
+[Tactical Communication] Joel Kringle transmits, "Coming back."
+Prissy the big violet long-haired felo wanders out.
+08:00:00
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' DIED.

@@ -1,0 +1,59 @@
+#CLASS {Movement} OPEN
+
+#MACRO {\e,}
+{
+	s
+}
+
+#MACRO {\e.}
+{
+	se
+}
+
+#MACRO {\e;}
+{
+	u
+}
+
+#MACRO {\ei}
+{
+	n
+}
+
+#MACRO {\ej}
+{
+	w
+}
+
+#MACRO {\ek}
+{
+	out
+}
+
+#MACRO {\el}
+{
+	e
+}
+
+#MACRO {\em}
+{
+	sw
+}
+
+#MACRO {\eo}
+{
+	ne
+}
+
+#MACRO {\ep}
+{
+	d
+}
+
+#MACRO {\eu}
+{
+	nw
+}
+
+
+#CLASS {Movement} CLOSE

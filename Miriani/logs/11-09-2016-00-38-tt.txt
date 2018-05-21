@@ -1,0 +1,369 @@
+     @@@@@@@@  @@@    @@@  @@@@@@@@  @@@@@@@    
+     @@@@@@@@  @@@    @@@  @@@@@@@@  @@@@@@@@    
+     @@!       @@@    @@@  @@!       @@!  @@@   
+     !@!       @!@    @!@  !@!       !@!  @!@      Running: MudOS v22.1
+     @!!!:!    @!!    !!@  @!!!:!    @!@!!@!         Admin: Skywise
+     !!!!!:    :@!    !@:  !!!!!:    !!@!@!        Arches: Phoebe, Zack,
+     !!:        !!:  :!!   !!:       !!: :!!          Nameless & Bax 
+     :!:        !:!  !:!   :!:       :!:  !:!      
+     .::.::::     :..:     .::.::::  ::.   :::   
+     :.::.::.      ..      :.::.::.  .:.    :.:  
+                                  @@@@@@@     @@@@    @@@@@@@     @@@    @@@
+                                  @@@@@@@@   @@@@@@   @@@@@@@@    @@@   @@@
+                                  @@!  @@@  @@!  @@@  @@!  @@@    @@!  !@@
+                                  !@!  @!@  @@@  @@@  !@!  @!@    !@!  @!!
+                                  !@!  @!@  @!@  @!@  @!@!!@!     @!@@!@!
+                                  !!!  @!!  @!!@!@@!  !!@!@!      !!@!!!
+                                  !!!  !!@  !!@  !@!  !!: :!!     !!: :!!
+                                  !:!  !:!  :!:  :!:  :!:  !:!    :!:  !:!
+                                  ..:::..:  .:.  .:.  ::.   :::   .::   :::
+                                  ...:.:..  ..:  :..  .:.    :.:  .:.    :::
+                          
+Rest thy weary feet, and be our 'guest'.
+What is your name: shule
+Password: 
+You feel your thoughts moving a little slower.
+The armour molds itself into your form!
+You brush off some marble chips.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please, if you don't mind, check out the ooc board. There is
+a message on it that you might want to know about.
+Join the "Everdark LPmud" Facebook group for status.
+A new suggestion/idea board has been added to the info
+center below the pub. This board is to encourage players
+to share ideas and discussion on ways we could improve the
+realm. Please try to keep the suggestions on a serious note.
+We are looking for ideas on how to improve dynamics to the
+realm or new ways to improve our player base. We love our
+game just as much as you do and want to see it flourish once
+again. Enjoy your adventures and may there be many more.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Clifford tells you: 
+     You have messages in your mailbox.
+Alpertus tells you:
+     You owe BACK TAXES!!  Please pay immediately!
+     Your access to ntell will be restored upon receipt of payment.
+It is too dark.
+<274/202> equip
+You wield Maelstrom.
+The armour fits snug around your body.
+You wear meld armour.
+You wear symbol of Aziir-Balar.
+You wear electrum ring.
+The shield flows around your arm.
+You wear quicksilver shield.
+You wear the gauntlets of Durg.
+You oddly feel more powerful.
+You wear cross of gold.
+You wear thick fur coat.
+You wear ivory bangles.
+You feel your thoughts moving a little quicker.
+You wear electrum boots.
+Done.
+The door closes.
+who
+EverDark (everdark.solforge.net 3000)
+---
+Baron Shule Elemmire
+---
+No wizards and 1 player on.
+<274/203> #star
+The door closes.
+#SESSION 'everdark' ACTIVATED.
+#buffer end
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+#event
+#################################### EVENTS ####################################
+  [DATE                ] [ ] Triggers on the given date.
+  [DAY                 ] [ ] Triggers each day or given day.
+  [HOUR                ] [ ] Triggers each hour or given hour.
+  [END OF PATH         ] [ ] Triggers when walking the last room.
+  [IAC                 ] [ ] Triggers on telopt negotiation.
+  [MAP ENTER MAP       ] [ ] Triggers when entering the map.
+  [MAP ENTER ROOM      ] [ ] Triggers when entering a map room.
+  [MAP EXIT MAP        ] [ ] Triggers when exiting the map.
+  [MAP EXIT ROOM       ] [ ] Triggers when exiting a map room.
+  [MINUTE              ] [ ] Triggers each minute or given minute.
+  [MONTH               ] [ ] Triggers each month or given month.
+  [PROGRAM START       ] [ ] Triggers when main session starts.
+  [PROGRAM TERMINATION ] [ ] Triggers when main session exists.
+  [RECEIVED INPUT      ] [ ] Triggers when new input is received.
+  [RECEIVED LINE       ] [ ] Triggers when a new line is received.
+  [RECEIVED OUTPUT     ] [ ] Triggers when new output is received.
+  [SCREEN RESIZE       ] [ ] Triggers when the screen is resized.
+  [SECOND              ] [ ] Trigers each second or given second.
+  [SEND OUTPUT         ] [ ] Triggers when sending output.
+  [SESSION ACTIVATED   ] [ ] Triggers when a session is activated.
+  [SESSION CONNECTED   ] [X] Triggers when a new session connects.
+  [SESSION DEACTIVATED ] [ ] Triggers when a session is deactivated.
+  [SESSION DISCONNECTED] [ ] Triggers when a session disconnects.
+  [TIME                ] [ ] Triggers on the given time.
+  [WEEK                ] [ ] Triggers each week or given week.
+  [YEAR                ] [ ] Triggers each year or given year.
+################################################################################
+The door closes.
+The door closes.
+#help event
+Command: #event {event type}
+
+         Events allow you to create triggers for predetermined client events.
+         Use #event without an argument to see a list of possible events with
+         a brief description. Use #event %* to see the current list of available
+         events you can use.
+
+         END OF PATH
+         IAC <VAR> <VAR>
+         IAC SB GMCP <MODULE> %0 data     %1 raw data
+         IAC SB MSSP          %0 variable %1 value
+         IAC SB MSDP          %0 variable %1 value
+         IAC SB MSDP <VAR>    %1 value
+         IAC SB NEW-ENVIRON   %0 variable %1 value
+         IAC SB ZMP <VAR>     %0 value
+         IAC SB <VAR>         %0 raw text %1 raw data
+         MAP ENTER ROOM       %0 new vnum %1 old vnum
+         MAP ENTER ROOM <VAR> %0 new vnum %1 old vnum
+         MAP EXIT ROOM        %0 old vnum %1 new vnum
+         MAP EXIT ROOM <VAR>  %0 old vnum %1 new vnum
+         PROGRAM START        %0 client name %1 client version
+         PROGRAM TERMINATION
+         RECEIVED INPUT       %0 raw text
+         RECEIVED LINE        %0 raw text %1 plain text
+         RECEIVED OUTPUT      %0 raw text
+         SCREEN RESIZE        %0 cols %1 rows
+         SEND OUTPUT          %0 raw text
+         SESSION ACTIVATED    %0 name
+         SESSION CONNECTED    %0 name %1 host %2 ip %3 port
+         SESSION DEACTIVATED  %0 name
+         SESSION DISCONNECTED %0 name %1 host %2 ip %3 port
+
+Example: #event {SESSION CONNECTED} {#read mychar.tin}
+
+Comment: You can remove an event with the #unevent command.
+#event {Session Activated
+#Unmatched braces error!
+#EVENT: NO MATCH(ES) FOUND FOR {Session Activated}.
+ #event {Session Activatd} {#buffer end}
+#EVENT {SESSION ACTIVATD} IS NOT AN EXISTING EVENT.
+The door closes.
+The door closes.
+ #event {Session Activated} {#buffer end}
+#EVENT {SESSION ACTIVATED} IS NOT AN EXISTING EVENT.
+The door closes.
+#event SESSION ACTIVATED #bufer end
+#EVENT {SESSION} IS NOT AN EXISTING EVENT.
+The door closes.
+#event {SESSION ACTIVATED} {#buffer end}
+#EVENT {SESSION ACTIVATED} HAS BEEN SET TO {#buffer end}.
+#write sc.tin
+#WRITE: 275 COMMANDS WRITTEN TO {sc.tin}.
+#sc
+#ERROR: #SCAN {} - FILE NOT FOUND.
+The door closes.
+#star
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+#SESSION 'everdark' ACTIVATED.
+#star
+The door closes.
+The door closes.
+#SESSION 'everdark' ACTIVATED.
+l
+The room is dark. There is a glowing ball to the south.
+<274/210> #star
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+#SESSION 'everdark' ACTIVATED.
+The door closes.
+What?
+What?
+<274/210> tar
+#star
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+#SESSION 'everdark' ACTIVATED.
+The door closes.
+tell last
+21:44 Becky tells you: she said she did and gave me an icloud key chain
+   confirmation
+21:44 Becky tells you: I don't know I thought that wa something  else
+21:47 Becky tells you [1m]:  can I  copy the pics like that?
+21:47 Becky tells you [1m]: and  how can she  fix this for me now?
+21:56 Becky tells you [10m]:  so do you think we can get in to see them with
+   that icloud thing?
+21:59 Becky tells you [13m]: back in a few minutes
+22:36 Becky tells you [10m]: see you later, gotta get to bed, up at 5
+17:37 Lumara tells you [1m]: hi
+18:28 Kajva tells you [37m]: evening...
+19:58 Kajva tells you [1h]: hi there
+17:22 Silk tells you [1h]: greetings
+16:41 Kajva tells you: evening, how r u doing?
+16:43 Kajva tells you [2m]: i finished forge quest btw
+17:19 Kajva tells you [38m]: u just gonna hang out net dead all nite?
+19:04 Kajva tells you [2h]: nite
+<274/210> who
+EverDark (everdark.solforge.net 3000)
+---
+Baron Shule Elemmire
+---
+No wizards and 1 player on.
+<274/210> #star
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+#SESSION 'everdark' ACTIVATED.
+tell last
+21:44 Becky tells you: she said she did and gave me an icloud key chain
+   confirmation
+21:44 Becky tells you: I don't know I thought that wa something  else
+21:47 Becky tells you [1m]:  can I  copy the pics like that?
+21:47 Becky tells you [1m]: and  how can she  fix this for me now?
+21:56 Becky tells you [10m]:  so do you think we can get in to see them with
+   that icloud thing?
+21:59 Becky tells you [13m]: back in a few minutes
+22:36 Becky tells you [10m]: see you later, gotta get to bed, up at 5
+17:37 Lumara tells you [1m]: hi
+18:28 Kajva tells you [37m]: evening...
+19:58 Kajva tells you [1h]: hi there
+17:22 Silk tells you [1h]: greetings
+16:41 Kajva tells you: evening, how r u doing?
+16:43 Kajva tells you [2m]: i finished forge quest btw
+17:19 Kajva tells you [38m]: u just gonna hang out net dead all nite?
+19:04 Kajva tells you [2h]: nite
+<274/210> twho
+1 players: Shule
+<274/210> clifford
+Clifford comes running up to you, panting from exertion, and hands you
+a stack of mail.
+[1/107  h d r f m . p n g x ?] 107
+Message 107:
+From: Shule
+ Re: contact
+To:  becky
+Cc: shule
+Date: Sep 27, 2016
+Hey, To get the TeamTalk client just go to bearware.dk and download the
+screenreader friendly one. There's a specific version for it.
+Shule
+[107/107  h d r f m . p n g x ?] x
+The stack of mail vanishes.
+<274/210> x
+What?
+<274/210> #-
+#session
+#THESE SESSIONS HAVE BEEN DEFINED:
+  3 star            moo.squidsoft.net:7777           (logging)
+  6 everdark             everdark.org:3000  (active) (logging)
+The door closes.
+#help session
+Command: #session {name} {host} {port}
+
+         Starts a telnet session with the given name, host and port.  The name
+         can be anything you want, except the name of an already existant
+         session or a tintin command.
+
+         Without an argument #session shows the currently defined sessions.
+
+         If you have more than one session, you can use the following commands:
+         #session {-|+|number}:  Switches between sessions.
+         #{name}:  Switches to a session with the given name.
+         #{name} {command}:  Executes a command with the given session without
+                             changing the active session.
+
+         The startup session is named 'gts' and can be used for relog scripts.
+
+Example: #act {^#SESSION '%0' DIED.^} {#gts #delay 10 #ses %0 mymud.com 4321}
+The door closes.
+#session
+#THESE SESSIONS HAVE BEEN DEFINED:
+  3 star            moo.squidsoft.net:7777           (logging)
+  6 everdark             everdark.org:3000  (active) (logging)
+#session 3
+#THAT SESSION IS NOT DEFINED.
+#session +
+The door closes.
+The door closes.
+The door closes.
+The door closes.
+#SESSION 'everdark' ACTIVATED.
+#SESSION 'everdark' DIED.

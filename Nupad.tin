@@ -1,0 +1,55 @@
+#CLASS {Numpad} OPEN
+
+#MACRO {\eOQ}
+{
+	#class Numpad-walk kill;
+	#read Numpad-Fly.tin;
+	#showme Flight mode.
+}
+
+#MACRO {\eOR}
+{
+	#class Numpad-fly kill;
+	#read Numpad-walk.tin;
+	#showme Walk mode.
+}
+
+#MACRO {\eOp\eOp}
+{
+	#if {"$Mode"=="walk"}
+	{
+		#class Numpad-walk kill;
+		#read Numpad-fly.tin;
+		#showme Flight mode.
+	};
+	#else
+	{
+		#class Numpad-fly kill;
+		#read Numpad-walk.tin;
+		#showme Walk mode
+	}
+}
+
+#MACRO {\e[25~}
+{
+	#class Numpad-walk kill;
+	#read Numpad-Fly.tin;
+	#showme Flight mode
+}
+
+#MACRO {\en\eh}
+{
+	#class Numpad-walk kill;
+	#read Numpad-fly.tin;
+	#showme Flight mode
+}
+
+#MACRO {\en\en}
+{
+	#class Numpad-fly kill;
+	#read Numpad-walk.tin;
+	#showme Walk mode
+}
+
+
+#CLASS {Numpad} CLOSE

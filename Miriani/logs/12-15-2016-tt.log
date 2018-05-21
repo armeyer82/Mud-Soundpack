@@ -1,0 +1,2 @@
+#LOG: LOGGING OUTPUT TO './logs/12-15-2016-tt.log' FILESIZE: 0
+#log append {./logs/@date{}-tt.txt}

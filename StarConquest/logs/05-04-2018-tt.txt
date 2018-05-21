@@ -1,0 +1,2029 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Apr 30 11:47:24 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+Recent Announcements:
+-----
+There now might be a HELP CITIZENSHIP.
+   Announced 6 days, 2 hours, 9 minutes, and 33 seconds ago
+-----
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Bio-Contaminant Quarantine; Decontamination Airlock]
+Unlike the rest of the quarantine habitat, this chamber is bare dark metal and
+clearly designed to be strong. Heavy metal plating covers the walls, floor and
+ceiling. The exit door is no exception; a massive device that looks like the
+entryway to some kind of ancient fallout shelter. There are no controls on this
+side of it.
+You see a technician in a biohazard suit here.
+You can go south.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: The Merry Band is a rogue group of humans of questionable morals and
+unclear motivations.
+**
+talk technician
+You walk up to a technician in a biohazard suit, who nods briefly, retrieves a
+completely sealed box labeled 'Elemmire, Shule' from a stack of very similar
+boxes, sets it down, and begins listing out its contents.
+(85 seconds roundtime.)
+The technician pulls out a solid silver ring engraved with dolphins from a
+completely sealed box labeled 'Elemmire, Shule' and states slowly, "One solid
+silver ring engraved with dolphins" as he places it on the floor.
+The technician pulls out a golden Feng Wo coin purse from a completely sealed
+box labeled 'Elemmire, Shule' and states slowly, "One golden Feng Wo coin purse"
+as he places it on the floor.
+The technician pulls out a leather briefcase from a completely sealed box
+labeled 'Elemmire, Shule' and states slowly, "One leather briefcase" as he
+places it on the floor.
+The technician pulls out a pair of gray canvas sneakers from a completely sealed
+box labeled 'Elemmire, Shule' and states slowly, "One pair of gray canvas
+sneakers" as he places it on the floor.
+The technician pulls out a pair of white cotton briefs from a completely sealed
+box labeled 'Elemmire, Shule' and states slowly, "One pair of white cotton
+briefs" as he places it on the floor.
+The technician pulls out a keychain from a completely sealed box labeled
+'Elemmire, Shule' and states slowly, "One keychain" as he places it on the
+floor.
+The technician pulls out a backpack from a completely sealed box labeled
+'Elemmire, Shule' and states slowly, "One backpack" as he places it on the
+floor.
+The technician pulls out a gold wrist-mounted chronometer from a completely
+sealed box labeled 'Elemmire, Shule' and states slowly, "One gold wrist-mounted
+chronometer" as he places it on the floor.
+The technician pulls out a camera bag from a completely sealed box labeled
+'Elemmire, Shule' and states slowly, "One camera bag, empty" as he places it on
+the floor.
+The technician pulls out a light gray shipsuit with silvery gray trim around the
+collar and cuffs from a completely sealed box labeled 'Elemmire, Shule' and
+states slowly, "One light gray shipsuit with silvery gray trim around the collar
+and cuffs" as he places it on the floor.
+The technician pulls out a black engineering tool case from a completely sealed
+box labeled 'Elemmire, Shule' and states slowly, "One black engineering tool
+case" as he places it on the floor.
+The technician pulls out a black flightbag with a red shooting star on the side
+from a completely sealed box labeled 'Elemmire, Shule' and states slowly, "One
+black flightbag with a red shooting star on the side" as he places it on the
+floor.
+The technician pulls out a flight control scanner from a completely sealed box
+labeled 'Elemmire, Shule' and states slowly, "One flight control scanner" as he
+places it on the floor.
+The technician pulls out a scorched metal thigh holster from a completely sealed
+box labeled 'Elemmire, Shule' and states slowly, "One scorched metal thigh
+holster" as he places it on the floor.
+The technician pulls out a metallic gold touch einrophone from a completely
+sealed box labeled 'Elemmire, Shule' and states slowly, "One metallic gold touch
+einrophone" as he places it on the floor.
+The technician pulls out a metallic silver metachannel FTL communicator from a
+completely sealed box labeled 'Elemmire, Shule' and states slowly, "One metallic
+silver metachannel FTL communicator" as he places it on the floor.
+The technician pulls out a large expandable telescoping xenology container from
+a completely sealed box labeled 'Elemmire, Shule' and states slowly, "One large
+expandable telescoping xenology container, empty" as he places it on the floor.
+The technician boxes all of the items back up and gives a completely sealed box
+labeled 'Elemmire, Shule' to you.
+The airlock door opens long enough to admit you.
+[EAOS Quarantine Facility; Bio-Contaminant Decontamination]
+You can go north.
+n
+Wait 9 seconds.
+i
+Wait 7 seconds.
+l
+[EAOS Quarantine Facility; Bio-Contaminant Decontamination]
+This chamber is bare dark metal and clearly designed to be tough. Heavy metal
+plating covers the walls, floor and ceiling. The airlock door is no exception; a
+massive device that looks like the entryway to some kind of ancient fallout
+shelter. A window in one wall reveals a control room with two security guards
+inside.
+You can go north.
+l
+[EAOS Quarantine Facility; Bio-Contaminant Decontamination]
+This chamber is bare dark metal and clearly designed to be tough. Heavy metal
+plating covers the walls, floor and ceiling. The airlock door is no exception; a
+massive device that looks like the entryway to some kind of ancient fallout
+shelter. A window in one wall reveals a control room with two security guards
+inside.
+You can go north.
+n
+[EAOS Quarantine Facility; Bio-Contaminant Quarantine Entry]
+You can go east, southeast, and south.
+peer e
+You peer east...
+[EAOS Quarantine Facility; Quarantine Corridor]
+From here, the corridor splits into many different paths, each leading to
+different quarantine areas. Security checkpoints stop people from accessing most
+of them.
+You can go east, west, and northwest.
+peer n
+You peer north but see nothing of interest.
+l
+[EAOS Quarantine Facility; Bio-Contaminant Quarantine Entry]
+This section of the facility is labeled as Bio-Contaminant #1. The security
+checkpoint is currently lit by a green light, and the guards watch you
+carefully. A door to the southeast is marked 'Visitors'.
+You can go east, southeast, and south.
+peer se
+You peer southeast...
+[EAOS Quarantine Facility; Bio-Contaminant Visitor's Lobby]
+At first this appears to simply be an extremely large room, but careful
+observation reveals that it is bisected by some kind of almost invisible barrier
+at a black line on the floor and ceiling. Sound appears to pass through it, but
+objects are stopped. Touching the barrier gives no sensation, only the fact that
+your hand does not go beyond it reveals it exists at all. Several chairs are
+arranged on both halves of the room, with a door on the opposite side of the
+barrier leading west to the main gathering area of quarantine, while a door on
+this side leads northwest back to the station proper.
+You can go northwest.
+se
+[EAOS Quarantine Facility; Bio-Contaminant Visitor's Lobby]
+You can go northwest.
+out
+You can't go that way.
+l
+[EAOS Quarantine Facility; Bio-Contaminant Visitor's Lobby]
+At first this appears to simply be an extremely large room, but careful
+observation reveals that it is bisected by some kind of almost invisible barrier
+at a black line on the floor and ceiling. Sound appears to pass through it, but
+objects are stopped. Touching the barrier gives no sensation, only the fact that
+your hand does not go beyond it reveals it exists at all. Several chairs are
+arranged on both halves of the room, with a door on the opposite side of the
+barrier leading west to the main gathering area of quarantine, while a door on
+this side leads northwest back to the station proper.
+You can go northwest.
+l
+[EAOS Quarantine Facility; Bio-Contaminant Visitor's Lobby]
+At first this appears to simply be an extremely large room, but careful
+observation reveals that it is bisected by some kind of almost invisible barrier
+at a black line on the floor and ceiling. Sound appears to pass through it, but
+objects are stopped. Touching the barrier gives no sensation, only the fact that
+your hand does not go beyond it reveals it exists at all. Several chairs are
+arranged on both halves of the room, with a door on the opposite side of the
+barrier leading west to the main gathering area of quarantine, while a door on
+this side leads northwest back to the station proper.
+You can go northwest.
+nw
+[EAOS Quarantine Facility; Bio-Contaminant Quarantine Entry]
+e
+You can go east, southeast, and south.
+[EAOS Quarantine Facility; Quarantine Corridor]
+You can go east, west, and northwest.
+e
+[EAOS Quarantine Facility; Main Block]
+You can go west and down.
+d
+[EAOS Quarantine Facility; Docking Bay]
+The one-person runabout "Let's Run" and the stealth galleon "Zéro Des Cartes"
+are landed here.
+You see a tridimensional holocamera and a personal hoverpallet here.
+Damien Alexander is standing here.
+You can go up.
+wave
+You wave.
+i
+ You are wearing a white paper gown. Your head, face, both eyes, neck, both
+biceps, both elbows, both forearms, both wrists, both hands, both knees, both
+calves, both ankles, and both feet are left uncovered.
+You are carrying a sealed tube of pizza-flavored nutrition paste in your right
+hand, and a completely sealed box labeled 'Elemmire, Shule' in your left hand.
+Damien Alexander waves to you.
+Damien Alexander says, "That was mercifully quick."
+tr org Babe, can you come get me?
+You don't have a communicator.
+get communicator from box
+You open a completely sealed box labeled 'Elemmire, Shule' for a moment.
+You remove a metallic silver metachannel FTL communicator from a completely
+sealed box labeled 'Elemmire, Shule'.
+wear comm
+You put on a metallic silver metachannel FTL communicator.
+tr org Babe? Can you come get me?
+[Space Explorers Amidst The Stars] Blockade Smasher Shule Elemmire transmits,
+"Babe? Can you come get me?"
+Damien Alexander removes an indigo slider einrophone from a completely sealed
+box labeled 'Alexander, Damien'.
+Damien Alexander places an indigo slider einrophone into a black leather phone
+holster.
+[General Communication] Nissi Valdaire transmits, "Hello."
+Damien Alexander removes a wrist-mounted chronometer from a completely sealed
+box labeled 'Alexander, Damien'.
+Damien Alexander puts on a wrist-mounted chronometer.
+Damien Alexander glances down at his wrist-mounted chronometer momentarily.
+get chronometer from box
+[General Communication] Blake Madison transmits, "Keegan, are you a spider?"
+You open a completely sealed box labeled 'Elemmire, Shule' for a moment.
+You remove a gold wrist-mounted chronometer from a completely sealed box labeled
+'Elemmire, Shule'.
+wear chron
+You put on a gold wrist-mounted chronometer.
+[General Communication] Keegan Wantz transmits, "No, Kai Junior is."
+get briefcase from box
+You open a completely sealed box labeled 'Elemmire, Shule' for a moment.
+You remove a leather briefcase from a completely sealed box labeled 'Elemmire,
+Shule'.
+[General Communication] Blake Madison transmits, "Oh ok."
+wear briefcase
+You are already wearing that.
+You notice a point of light outside slowly start to grow larger.  A starship
+must be about to dock.
+[General Communication] Blake Madison transmits, "Just making sure."
+wear briefcase
+You are already wearing that.
+i
+ You are wearing a white paper gown. You are also wearing a gold wrist-mounted
+chronometer. You are concealing a metallic silver metachannel FTL communicator
+and a leather briefcase. Your head, face, both eyes, neck, both biceps, both
+elbows, both forearms, both wrists, both hands, both knees, both calves, both
+ankles, and both feet are left uncovered.
+You are carrying a sealed tube of pizza-flavored nutrition paste in your right
+hand, and a leather briefcase in your left hand.
+remove briefcase
+You need a free hand to remove a leather briefcase.
+The two-person Accord gemini "Cosmic Crossings" touches down smoothly on the
+surface of the docking bay.
+Johann Schraft exits from the two-person Accord gemini "Cosmic Crossings".
+Johann Schraft takes Damien Alexander into his group.
+Johann Schraft says to Damien, "Ready?"
+Damien Alexander says, "Yeah."
+Johann Schraft says to Damien, "Torus for you too?"
+Damien Alexander says, "Yeah, please."
+Johann Schraft says to you, "If Lily isn't on her way I will be back in a
+moment. Grab your battlesuit if you haven't off of the galleon."
+'ok
+You say, "Ok."
+'thanks
+Some lights on the two-person Accord gemini "Cosmic Crossings" flash as Johann
+Schraft's group board it. They flash again as the airlock closes.
+You say, "Thanks."
+unload 
+An EAOS Conjurer has been transferred to the spaceport.
+The two-person Accord gemini "Cosmic Crossings" rises smoothly off the ground
+and accelerates rapidly toward space.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+read comm
+You glance at your communicator's screen.
+1,088,093.16 AEU credits from your trust fund have been released to you. [00:00
+23 April 2318 GST]
+Nominations for the next civilian liaison term will continue for another 24
+hours! If you would like to nominate yourself for a position, please do so
+within the next day by visiting your alliance's conference room. The following
+position(s) currently have no nominees: Industrial Whip, Voice of the Corps, and
+Space Defense Captain [00:03 26 April 2318 GST]
+There are forty-six board posts.
+l
+[EAOS Quarantine Facility; Docking Bay]
+While fairly small for a docking bay and clearly not a major hub, this place can
+still easily hold multiple starships. Several dozen lights on one wall slowly
+blink green in sequence, and the staircase leading up has a security checkpoint
+with three guards.
+The one-person runabout "Let's Run" and the stealth galleon "Zéro Des Cartes"
+are landed here.
+You see a tridimensional holocamera here.
+You can go up.
+You notice a point of light outside slowly start to grow larger.  A starship
+must be about to dock.
+The two-person Accord gemini "Cosmic Crossings" touches down smoothly on the
+surface of the docking bay.
+Johann Schraft exits from the two-person Accord gemini "Cosmic Crossings".
+Johann Schraft asks, "Got everything?"
+Johann Schraft takes you into his group.
+nod johann
+You nod to Johann Schraft.
+-johann Thanks
+You say to Johann, "Thanks."
+Johann Schraft asks, "Torus or somewhere else?"
+You follow Johann Schraft aboard the two-person Accord gemini "Cosmic
+Crossings".
+[Starship "Cosmic Crossings"; Airlock]
+Johann Schraft is standing here.
+You can go out and enter into the ship.
+Your battlesuit is automatically transferred to battlesuit storage aboard this
+ship.
+You follow Johann Schraft into the ship.
+[Starship "Cosmic Crossings"; Control Room]
+You see a black destination finder and a black leather captain's chair here.
+Johann Schraft is standing here.
+You can go up and out.
+'torus
+You say, "Torus."
+Johann Schraft uses the ship's radio to ask flight control for launch clearance.
+Johann Schraft nods.
+A voice comes over the speaker and says, "Cosmic Crossings, you are given launch
+clearance under the League-EAOS non-aggression pact."
+Johann Schraft makes a selection on the AutoVector control board.
+The starship transitions into another sector.
+Johann Schraft presses a button to cancel the current autopilot program.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Johann Schraft presses a button and brings up the starship's navigation
+controls.
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be a League ship,
+Cosmic Crossings. The EAOS welcomes you under the non-aggression pact."
+'Thanks
+You say, "Thanks."
+wave
+You wave.
+out
+[Starship "Cosmic Crossings"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+d
+[The Torus; Dock Alpha]
+The two-person Accord gemini "Lore Thief", the four-person Accord space module
+transport "Reaching For Heaven", the two-person Accord gemini "Tlapaloa", and
+the two-person Accord gemini "Cosmic Crossings" are landed here.
+You see an automatic teller machine here.
+You can go north and down.
+Your battlesuit is automatically transferred to the spaceport.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter dove
+Board what?
+u
+[The Torus; Dock Alpha]
+The two-person Accord gemini "Lore Thief", the four-person Accord space module
+transport "Reaching For Heaven", the two-person Accord gemini "Tlapaloa", and
+the two-person Accord gemini "Cosmic Crossings" are landed here.
+You see an automatic teller machine here.
+You can go north and down.
+You notice a point of light outside slowly start to grow larger.  A starship
+must be about to dock.
+The two-person Accord gemini "Cosmic Crossings" rises smoothly off the ground
+and accelerates rapidly toward space.
+d
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter dove
+Board what?
+dove
+I don't understand that.
+enter justen
+Board what?
+enter justin
+Board what?
+get keychain from boc
+I see no "boc" here.
+get keychain from boxc
+I see no "boxc" here.
+get keychain from box
+You open a completely sealed box labeled 'Elemmire, Shule' for a moment.
+You remove a keychain from a completely sealed box labeled 'Elemmire, Shule'.
+You suddenly notice that you are carrying two objects in one hand and drop one
+of them, a completely sealed box labeled 'Elemmire, Shule', in sudden confusion.
+wear keychain
+You can't wear anymore items like that.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers,
+Magellan the arachnoid security robot, and a personal hoverpallet here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, and Purr the humanoid service robot here.
+You can go south and out.
+i
+ You are wearing a white paper gown. You are also wearing a gold wrist-mounted
+chronometer and a keychain. You are concealing a metallic silver metachannel FTL
+communicator and a leather briefcase. Your head, face, both eyes, neck, both
+biceps, both elbows, both forearms, both wrists, both hands, both knees, both
+calves, both ankles, and both feet are left uncovered.
+You are carrying a sealed tube of pizza-flavored nutrition paste in your right
+hand.
+gulp tube
+You can't eat a sealed tube of pizza-flavored nutrition paste.
+scarf tube
+I don't understand that.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You can go south and out.
+put tube in trash
+You put a sealed tube of pizza-flavored nutrition paste in a small dusky pink
+trash bin.
+remove gown
+You pull off a white paper gown, being careful not to rip it.
+put gown in trash
+You put a white paper gown in a small dusky pink trash bin.
+get box
+You remove a white foam box from a leather briefcase.
+i
+ You are wearing nothing. You are also wearing a gold wrist-mounted chronometer
+and a keychain. You are concealing a metallic silver metachannel FTL
+communicator and a leather briefcase. Your head, face, both eyes, neck, both
+shoulders, chest, back, both biceps, both elbows, abdomen, both forearms, both
+wrists, both hands, waist, both hips, groin, both thighs, both knees, both
+calves, both ankles, and both feet are left uncovered.
+You are carrying a white foam box in your right hand.
+put foam in briefcase
+You put a white foam box in a leather briefcase.
+get briefs from box
+You remove a mosaic star box from a leather briefcase for a moment.
+I see no "briefs" in a mosaic star box.
+i
+ You are wearing nothing. You are also wearing a gold wrist-mounted chronometer
+and a keychain. You are concealing a metallic silver metachannel FTL
+communicator and a leather briefcase. Your head, face, both eyes, neck, both
+shoulders, chest, back, both biceps, both elbows, abdomen, both forearms, both
+wrists, both hands, waist, both hips, groin, both thighs, both knees, both
+calves, both ankles, and both feet are left uncovered.
+You are carrying nothing.
+i
+ You are wearing nothing. You are also wearing a gold wrist-mounted chronometer
+and a keychain. You are concealing a metallic silver metachannel FTL
+communicator and a leather briefcase. Your head, face, both eyes, neck, both
+shoulders, chest, back, both biceps, both elbows, abdomen, both forearms, both
+wrists, both hands, waist, both hips, groin, both thighs, both knees, both
+calves, both ankles, and both feet are left uncovered.
+You are carrying nothing.
+l briefcase
+a leather briefcase
+You see nothing special.
+It is open.
+Inside it you see a fuzzy stuffed bunny, a gold time meter, a pair of red
+chopsticks, a fuzzy stuffed squid, a starship performance customizer, a light
+red linen bag, a can of black paint, a hand-made blue and red dragon quilt, a
+bulky high-energy plasma explosive, a bulky high-energy plasma explosive, a
+bulky high-energy plasma explosive, a large round woven basket, a shiny brass
+sextant, a deck of Horrible People cards, a shiny brass telescope, a small red
+ticket bordered in gold, a lumpy glittery gray bag of snowballs, a colorful
+candy necklace, a tiny gold six-legged spacesuit body, a tiny gold spacesuit
+helmet, a gold jeweled leash, a black leather leash, a copy of "Shule's
+Handbook", a disembodied finger in a jar of cloudy liquid, a red demon mask, an
+alliance information assistant, a hand-held red star print holovid, an unetched
+steel plaque, a sheet of white paper, a container of fish food, a container of
+fish food, a leather portfolio, an experimental League storage container, a
+storage netting, an efficient round egg storage container, an efficient round
+egg storage container, a sheet of purple paper, a can of ocean breeze-scented
+air freshener, a raspberry ring pop, a fine piece of paper with an official
+header reading "From the founder of Starseekers", a globe of New Earth on a
+natural wood base, a can of rain-scented air freshener, a small package, a point
+summary printout, a fine piece of paper with an official header reading "From
+the founder of Space Explorers Amidst The Stars", a classic rubber chicken, a
+star print guitar pick, a white plastic water pistol with a sparkly 'XX'
+embossed on the side, a bottle of home-made wheat beer, a small white snowball,
+a tube of glittery green body glitter, a thick cream piece of paper with an
+official header reading "From the Voice of the League", a sheet of white paper,
+a sheet of peacock print stationery, a can of meadow-scented air freshener, a
+length of air hose, a length of power feed cable, a package, a blacklight poster
+of five stars in very close proximity, a cup, a red nylon mesh shopping bag, a
+long white faerie dress made of layers of sheer gauzy silk, a fine piece of
+paper with an official header reading "From the founder of Space Explorers
+Amidst The Stars", a fine piece of paper with an official header reading "From
+the founder of Space Explorers Amidst The Stars", a sheet of white stationery
+with a header reading "From the desk of Robot Ace Pilot Ather Jammoa", a sheet
+of white paper, a piece of heavy white stationery with a silver AEU logo at the
+top, a can of maple syrup air freshener, a fine piece of paper with an official
+header reading "From the founder of Space Explorers Amidst The Stars", a bulky
+asteroid supply cannon, a battle mark eraser, a blue plastic food storage
+container, a green felo nametag maker, a fine piece of paper with an official
+header reading "From the founder of Allied Libertarians", a deactivated wormhole
+drive core, a tiny stone howling wolf statue with amethyst accents, some coral
+rocks, an efficient round egg storage container, an oval white rattan serving
+tray, a first contact kit, a fine piece of paper with an official header reading
+"From the founder of Space Explorers Amidst The Stars", an official-looking
+letter bearing the emblem of the Alliance of Extrasolar Unions, a thick cream
+piece of paper with an official header reading "From the AEU Industrial Whip", a
+copy of "Battlesuit Tips", a glossy full color poster of the two-person flare
+"Deadly Strike", a black digital felo game, a thick cream piece of paper with an
+official header reading "From the Voice of the Corps", a sheet of white paper, a
+mug, a bag of felo treats, a small omnilock, a small omnilock, a small omnilock,
+a small omnilock, a small omnilock, a small omnilock, a small omnilock, a mosaic
+star box, a black laminate filing cabinet, a metal container, a bright orange
+'FENG WO' canvas shopping bag, a sheet of white paper, a red plastic food
+storage container, an unlabeled red plastic box, a sheet of white paper, a sheet
+of white paper, a sheet of white paper, a sheet of purple paper, a fine piece of
+paper with an official header reading "From the founder of Space Explorers
+Amidst The Stars", a letter, a bright orange package, a yellow linen bag, a
+sheet of yellow paper, a thick cream piece of paper with an official header
+reading "From the Voice of the League", a letter, a sheet of white paper, a
+sheet of green paper, a letter, a letter, a letter, a small cognac leather
+backpack, a wrist-mounted chronometer, a fine piece of paper with an official
+header reading "From the founder of Space Explorers Amidst The Stars", a sheet
+of white paper, a sheet of white paper, a black package, a bright orange
+package, a small package, a pair of soft and furry onyx felo ears, a sheet of
+white paper, a disk of metal with an ornate design, a tiny statue of a crimson
+and gold dragon spreading its wings over Feng Wo Station, a tiny statue of a
+black and gold dragon spreading its wings over Feng Wo Station, a small red
+ticket bordered in gold, a pair of soft light brown slippers, a slender red
+sonic toothbrush, an insulated white cooler, an insulated red cooler, a pair of
+skimpy white cherry-flavored briefs, a piece of heavy white stationery with a
+silver AEU logo at the top, a package, a glass, a closed can of orange cream
+soda, a closed can of strawberry lemonade, a closed can of strawberry lemonade,
+a silver plastic paper dispenser, a pair of skimpy red strawberry-flavored
+briefs, a red velvety stocking festively labeled "Shule", an ornamental
+rendering of Icy the Snowfish's Holiday Ice Castle o' Wonders, a festive red
+velvet holiday hat with a fluffy white fringe and topped with a fuzzy white
+ball, a sheet of white paper, a sheet of lilac scented stationery, a sheet of
+lilac scented stationery, a package, a length of air hose, two tiny mice
+sleeping in a pink violet blossom, a sheet of white paper, a fine piece of paper
+with an official header reading "From the founder of Space Explorers Amidst The
+Stars", a mail bin with "Shule Elemmire" printed on the side, a thick light
+green letter, an insulated purple sleeping bag, a brightly-colored inspirational
+card, a copy of "An AEU Pilot's Guide To Ships And Upgrades", a fine piece of
+paper with an official header reading "From the founder of Space Explorers
+Amidst The Stars", a red hair care kit, a secondary pilot command access unit,
+an insulated red sleeping bag, a sheet of purple paper, Shule Elemmire's
+workbench, Shule Elemmire's workbench, a thick potomac blue letter, a sheet of
+white paper, a small blue insulated cooler, a clear plastic food storage
+container, a roll of sticky tape, a manual zero-point energy receptacle charger,
+a hyperspanner, a small suitcase, a small black vinyl case, and a white foam
+box.
+l 
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You can go south and out.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You can go south and out.
+A metallic silver metachannel FTL communicator beeps insistently as it receives a new notice.
+l briefcase
+a leather briefcase
+You see nothing special.
+It is open.
+Inside it you see a fuzzy stuffed bunny, a gold time meter, a pair of red chopsticks, a fuzzy stuffed squid, a starship performance customizer, a light red linen bag, a can of black paint, a hand-made
+blue and red dragon quilt, a bulky high-energy plasma explosive, a bulky high-energy plasma explosive, a bulky high-energy plasma explosive, a large round woven basket, a shiny brass sextant, a deck of
+Horrible People cards, a shiny brass telescope, a small red ticket bordered in gold, a lumpy glittery gray bag of snowballs, a colorful candy necklace, a tiny gold six-legged spacesuit body, a tiny gold
+spacesuit helmet, a gold jeweled leash, a black leather leash, a copy of "Shule's Handbook", a disembodied finger in a jar of cloudy liquid, a red demon mask, an alliance information assistant, a
+hand-held red star print holovid, an unetched steel plaque, a sheet of white paper, a container of fish food, a container of fish food, a leather portfolio, an experimental League storage container, a
+storage netting, an efficient round egg storage container, an efficient round egg storage container, a sheet of purple paper, a can of ocean breeze-scented air freshener, a raspberry ring pop, a fine
+piece of paper with an official header reading "From the founder of Starseekers", a globe of New Earth on a natural wood base, a can of rain-scented air freshener, a small package, a point summary
+printout, a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a classic rubber chicken, a star print guitar pick, a white plastic water pistol
+with a sparkly 'XX' embossed on the side, a bottle of home-made wheat beer, a small white snowball, a tube of glittery green body glitter, a thick cream piece of paper with an official header reading
+"From the Voice of the League", a sheet of white paper, a sheet of peacock print stationery, a can of meadow-scented air freshener, a length of air hose, a length of power feed cable, a package, a
+blacklight poster of five stars in very close proximity, a cup, a red nylon mesh shopping bag, a long white faerie dress made of layers of sheer gauzy silk, a fine piece of paper with an official header
+reading "From the founder of Space Explorers Amidst The Stars", a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a sheet of white stationery
+with a header reading "From the desk of Robot Ace Pilot Ather Jammoa", a sheet of white paper, a piece of heavy white stationery with a silver AEU logo at the top, a can of maple syrup air freshener, a
+fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a bulky asteroid supply cannon, a battle mark eraser, a blue plastic food storage container, a
+green felo nametag maker, a fine piece of paper with an official header reading "From the founder of Allied Libertarians", a deactivated wormhole drive core, a tiny stone howling wolf statue with amethyst
+accents, some coral rocks, an efficient round egg storage container, an oval white rattan serving tray, a first contact kit, a fine piece of paper with an official header reading "From the founder of
+Space Explorers Amidst The Stars", an official-looking letter bearing the emblem of the Alliance of Extrasolar Unions, a thick cream piece of paper with an official header reading "From the AEU Industrial
+Whip", a copy of "Battlesuit Tips", a glossy full color poster of the two-person flare "Deadly Strike", a black digital felo game, a thick cream piece of paper with an official header reading "From the
+Voice of the Corps", a sheet of white paper, a mug, a bag of felo treats, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a
+mosaic star box, a black laminate filing cabinet, a metal container, a bright orange 'FENG WO' canvas shopping bag, a sheet of white paper, a red plastic food storage container, an unlabeled red plastic
+box, a sheet of white paper, a sheet of white paper, a sheet of white paper, a sheet of purple paper, a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The
+Stars", a letter, a bright orange package, a yellow linen bag, a sheet of yellow paper, a thick cream piece of paper with an official header reading "From the Voice of the League", a letter, a sheet of
+white paper, a sheet of green paper, a letter, a letter, a letter, a small cognac leather backpack, a wrist-mounted chronometer, a fine piece of paper with an official header reading "From the founder of
+Space Explorers Amidst The Stars", a sheet of white paper, a sheet of white paper, a black package, a bright orange package, a small package, a pair of soft and furry onyx felo ears, a sheet of white
+paper, a disk of metal with an ornate design, a tiny statue of a crimson and gold dragon spreading its wings over Feng Wo Station, a tiny statue of a black and gold dragon spreading its wings over Feng Wo
+Station, a small red ticket bordered in gold, a pair of soft light brown slippers, a slender red sonic toothbrush, an insulated white cooler, an insulated red cooler, a pair of skimpy white
+cherry-flavored briefs, a piece of heavy white stationery with a silver AEU logo at the top, a package, a glass, a closed can of orange cream soda, a closed can of strawberry lemonade, a closed can of
+strawberry lemonade, a silver plastic paper dispenser, a pair of skimpy red strawberry-flavored briefs, a red velvety stocking festively labeled "Shule", an ornamental rendering of Icy the Snowfish's
+Holiday Ice Castle o' Wonders, a festive red velvet holiday hat with a fluffy white fringe and topped with a fuzzy white ball, a sheet of white paper, a sheet of lilac scented stationery, a sheet of lilac
+scented stationery, a package, a length of air hose, two tiny mice sleeping in a pink violet blossom, a sheet of white paper, a fine piece of paper with an official header reading "From the founder of
+Space Explorers Amidst The Stars", a mail bin with "Shule Elemmire" printed on the side, a thick light green letter, an insulated purple sleeping bag, a brightly-colored inspirational card, a copy of "An
+AEU Pilot's Guide To Ships And Upgrades", a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a red hair care kit, a secondary pilot command
+access unit, an insulated red sleeping bag, a sheet of purple paper, Shule Elemmire's workbench, Shule Elemmire's workbench, a thick potomac blue letter, a sheet of white paper, a small blue insulated
+cooler, a clear plastic food storage container, a roll of sticky tape, a manual zero-point energy receptacle charger, a hyperspanner, a small suitcase, a small black vinyl case, and a white foam box.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You can go south and out.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You can go south and out.
+i
+ You are wearing nothing. You are also wearing a gold wrist-mounted chronometer and a keychain. You are concealing a metallic silver metachannel FTL communicator and a leather briefcase. Your head, face,
+both eyes, neck, both shoulders, chest, back, both biceps, both elbows, abdomen, both forearms, both wrists, both hands, waist, both hips, groin, both thighs, both knees, both calves, both ankles, and
+both feet are left uncovered.
+You are carrying nothing.
+l table
+a round white rattan coffee table with a glass top
+Washed with white stain for a softly gleaming finish, this round rattan coffee table has an unbreakable glass top supported by open arches of medium-weight rattan.
+On top of it you see a globe of New Earth on a bronze base, a photo of Aria VII; Colony Ship Landing Site, a miniature AEU Pulsar gunship, an elegant purple glass vase containing a dozen red roses, a bag
+of felo treats, a bag of felo treats, a small fragrant cone of incense, an elegant crystal vase containing a dozen red roses, a large oval basket decorated with a festive purple bow, a tiny statue of a
+crimson and gold dragon spreading its wings over Feng Wo Station, a high tech silver star print holovid, a small hot tea dispenser, a fresh fruit juice dispenser, a tiny statue of a fiery orange and gold
+dragon spreading its wings over Feng Wo Station, a bag of felo treats, a bag of felo treats, a photo of Blueberry the hefty violet feathered felo kitten, and a thin pole with a dancing red feather on the
+end.
+i
+ You are wearing nothing. You are also wearing a gold wrist-mounted chronometer and a keychain. You are concealing a metallic silver metachannel FTL communicator and a leather briefcase. Your head, face,
+both eyes, neck, both shoulders, chest, back, both biceps, both elbows, abdomen, both forearms, both wrists, both hands, waist, both hips, groin, both thighs, both knees, both calves, both ankles, and
+both feet are left uncovered.
+You are carrying nothing.
+l briefcase
+a leather briefcase
+You see nothing special.
+It is open.
+Inside it you see a fuzzy stuffed bunny, a gold time meter, a pair of red chopsticks, a fuzzy stuffed squid, a starship performance customizer, a light red linen bag, a can of black paint, a hand-made
+blue and red dragon quilt, a bulky high-energy plasma explosive, a bulky high-energy plasma explosive, a bulky high-energy plasma explosive, a large round woven basket, a shiny brass sextant, a deck of
+Horrible People cards, a shiny brass telescope, a small red ticket bordered in gold, a lumpy glittery gray bag of snowballs, a colorful candy necklace, a tiny gold six-legged spacesuit body, a tiny gold
+spacesuit helmet, a gold jeweled leash, a black leather leash, a copy of "Shule's Handbook", a disembodied finger in a jar of cloudy liquid, a red demon mask, an alliance information assistant, a
+hand-held red star print holovid, an unetched steel plaque, a sheet of white paper, a container of fish food, a container of fish food, a leather portfolio, an experimental League storage container, a
+storage netting, an efficient round egg storage container, an efficient round egg storage container, a sheet of purple paper, a can of ocean breeze-scented air freshener, a raspberry ring pop, a fine
+piece of paper with an official header reading "From the founder of Starseekers", a globe of New Earth on a natural wood base, a can of rain-scented air freshener, a small package, a point summary
+printout, a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a classic rubber chicken, a star print guitar pick, a white plastic water pistol
+with a sparkly 'XX' embossed on the side, a bottle of home-made wheat beer, a small white snowball, a tube of glittery green body glitter, a thick cream piece of paper with an official header reading
+"From the Voice of the League", a sheet of white paper, a sheet of peacock print stationery, a can of meadow-scented air freshener, a length of air hose, a length of power feed cable, a package, a
+blacklight poster of five stars in very close proximity, a cup, a red nylon mesh shopping bag, a long white faerie dress made of layers of sheer gauzy silk, a fine piece of paper with an official header
+reading "From the founder of Space Explorers Amidst The Stars", a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a sheet of white stationery
+with a header reading "From the desk of Robot Ace Pilot Ather Jammoa", a sheet of white paper, a piece of heavy white stationery with a silver AEU logo at the top, a can of maple syrup air freshener, a
+fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a bulky asteroid supply cannon, a battle mark eraser, a blue plastic food storage container, a
+green felo nametag maker, a fine piece of paper with an official header reading "From the founder of Allied Libertarians", a deactivated wormhole drive core, a tiny stone howling wolf statue with amethyst
+accents, some coral rocks, an efficient round egg storage container, an oval white rattan serving tray, a first contact kit, a fine piece of paper with an official header reading "From the founder of
+Space Explorers Amidst The Stars", an official-looking letter bearing the emblem of the Alliance of Extrasolar Unions, a thick cream piece of paper with an official header reading "From the AEU Industrial
+Whip", a copy of "Battlesuit Tips", a glossy full color poster of the two-person flare "Deadly Strike", a black digital felo game, a thick cream piece of paper with an official header reading "From the
+Voice of the Corps", a sheet of white paper, a mug, a bag of felo treats, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a small omnilock, a
+mosaic star box, a black laminate filing cabinet, a metal container, a bright orange 'FENG WO' canvas shopping bag, a sheet of white paper, a red plastic food storage container, an unlabeled red plastic
+box, a sheet of white paper, a sheet of white paper, a sheet of white paper, a sheet of purple paper, a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The
+Stars", a letter, a bright orange package, a yellow linen bag, a sheet of yellow paper, a thick cream piece of paper with an official header reading "From the Voice of the League", a letter, a sheet of
+white paper, a sheet of green paper, a letter, a letter, a letter, a small cognac leather backpack, a wrist-mounted chronometer, a fine piece of paper with an official header reading "From the founder of
+Space Explorers Amidst The Stars", a sheet of white paper, a sheet of white paper, a black package, a bright orange package, a small package, a pair of soft and furry onyx felo ears, a sheet of white
+paper, a disk of metal with an ornate design, a tiny statue of a crimson and gold dragon spreading its wings over Feng Wo Station, a tiny statue of a black and gold dragon spreading its wings over Feng Wo
+Station, a small red ticket bordered in gold, a pair of soft light brown slippers, a slender red sonic toothbrush, an insulated white cooler, an insulated red cooler, a pair of skimpy white
+cherry-flavored briefs, a piece of heavy white stationery with a silver AEU logo at the top, a package, a glass, a closed can of orange cream soda, a closed can of strawberry lemonade, a closed can of
+strawberry lemonade, a silver plastic paper dispenser, a pair of skimpy red strawberry-flavored briefs, a red velvety stocking festively labeled "Shule", an ornamental rendering of Icy the Snowfish's
+Holiday Ice Castle o' Wonders, a festive red velvet holiday hat with a fluffy white fringe and topped with a fuzzy white ball, a sheet of white paper, a sheet of lilac scented stationery, a sheet of lilac
+scented stationery, a package, a length of air hose, two tiny mice sleeping in a pink violet blossom, a sheet of white paper, a fine piece of paper with an official header reading "From the founder of
+Space Explorers Amidst The Stars", a mail bin with "Shule Elemmire" printed on the side, a thick light green letter, an insulated purple sleeping bag, a brightly-colored inspirational card, a copy of "An
+AEU Pilot's Guide To Ships And Upgrades", a fine piece of paper with an official header reading "From the founder of Space Explorers Amidst The Stars", a red hair care kit, a secondary pilot command
+access unit, an insulated red sleeping bag, a sheet of purple paper, Shule Elemmire's workbench, Shule Elemmire's workbench, a thick potomac blue letter, a sheet of white paper, a small blue insulated
+cooler, a clear plastic food storage container, a roll of sticky tape, a manual zero-point energy receptacle charger, a hyperspanner, a small suitcase, a small black vinyl case, and a white foam box.
+get suit
+You remove a small suitcase from a leather briefcase.
+open suit
+You open a small suitcase.
+get briefs from suit
+You remove a pair of white cotton briefs from a small suitcase.
+wear bgriefs
+Wear what?
+wear briefs
+You slide a pair of white cotton briefs on.
+get shipsuit
+You remove a dark blue shipsuit with cobalt blue trim around the collar and cuffs from a small suitcase.
+wear shipsuit
+You step into a dark blue shipsuit with cobalt blue trim around the collar and cuffs and pull it over your arms.
+close suit
+You close a small suitcase.
+put suit i briefcase
+I don't understand that.
+Try this instead:  put suit i briefcase in
+put suit in briefcase
+You put a small suitcase in a leather briefcase.
+out
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, Magellan the arachnoid security robot, and a personal hoverpallet here.
+You can go out and enter into the ship.
+get box
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You see a completely sealed box labeled 'Elemmire, Shule' here.
+You can go up.
+You pick up a completely sealed box labeled 'Elemmire, Shule'.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, Magellan the arachnoid security robot, and a personal hoverpallet here.
+You can go out and enter into the ship.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, and Purr the humanoid service robot here.
+You can go south and out.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is closed.
+open box
+You open a completely sealed box labeled 'Elemmire, Shule'.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a solid silver ring engraved with dolphins, a golden Feng Wo coin purse, a pair of gray canvas sneakers, a pair of white cotton briefs, a backpack, a camera bag, a light gray shipsuit
+with silvery gray trim around the collar and cuffs, a black engineering tool case, a black flightbag with a red shooting star on the side, a flight control scanner, a scorched metal thigh holster, a
+metallic gold touch einrophone, and a large expandable telescoping xenology container.
+get ring
+You remove a raspberry ring pop from a leather briefcase.
+put ring in briefcase
+You put a raspberry ring pop in a leather briefcase.
+get ring from box
+You remove a solid silver ring engraved with dolphins from a completely sealed box labeled 'Elemmire, Shule'.
+wear ring
+You put on a solid silver ring engraved with dolphins.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a golden Feng Wo coin purse, a pair of gray canvas sneakers, a pair of white cotton briefs, a backpack, a camera bag, a light gray shipsuit with silvery gray trim around the collar and
+cuffs, a black engineering tool case, a black flightbag with a red shooting star on the side, a flight control scanner, a scorched metal thigh holster, a metallic gold touch einrophone, and a large
+expandable telescoping xenology container.
+get purse from box
+You remove a golden Feng Wo coin purse from a completely sealed box labeled 'Elemmire, Shule'.
+wear purse
+You are already wearing that.
+get socks
+I see no "socks" here.
+get sneakers
+You remove a pair of gray canvas sneakers from a completely sealed box labeled 'Elemmire, Shule'.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+wear purse
+You are already wearing that.
+i
+ You are wearing a dark blue shipsuit with cobalt blue trim around the collar and cuffs and a pair of gray canvas sneakers. Underneath this, you are wearing a pair of white cotton briefs. You are also
+wearing a gold wrist-mounted chronometer, a keychain, and a solid silver ring engraved with dolphins. You are concealing a metallic silver metachannel FTL communicator, a leather briefcase, and a golden
+Feng Wo coin purse. Your head, face, both eyes, both wrists, and both hands are left uncovered.
+You are carrying a completely sealed box labeled 'Elemmire, Shule' in your right hand.
+remove purse
+You remove a golden Feng Wo coin purse.
+wear purse
+You put on a golden Feng Wo coin purse.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a pair of white cotton briefs, a backpack, a camera bag, a light gray shipsuit with silvery gray trim around the collar and cuffs, a black engineering tool case, a black flightbag with a
+red shooting star on the side, a flight control scanner, a scorched metal thigh holster, a metallic gold touch einrophone, and a large expandable telescoping xenology container.
+get backpack from box
+You remove a backpack from a completely sealed box labeled 'Elemmire, Shule'.
+wear backpack
+You are already wearing that.
+remove backpack
+You need a free hand to remove a backpack.
+i
+ You are wearing a dark blue shipsuit with cobalt blue trim around the collar and cuffs and a pair of gray canvas sneakers. Underneath this, you are wearing a pair of white cotton briefs. You are also
+wearing a gold wrist-mounted chronometer, a keychain, a solid silver ring engraved with dolphins, and a backpack. You are concealing a metallic silver metachannel FTL communicator, a leather briefcase,
+and a golden Feng Wo coin purse. Your head, face, both eyes, both wrists, and both hands are left uncovered.
+You are carrying a completely sealed box labeled 'Elemmire, Shule' in your right hand, and a backpack in your left hand.
+remove backpack
+You need a free hand to remove a backpack.
+wear backpack
+You are already wearing that.
+drop box
+You put down a completely sealed box labeled 'Elemmire, Shule'.
+remove backpack
+You remove a backpack.
+wear backpack
+You put on a backpack.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a pair of white cotton briefs, a camera bag, a light gray shipsuit with silvery gray trim around the collar and cuffs, a black engineering tool case, a black flightbag with a red
+shooting star on the side, a flight control scanner, a scorched metal thigh holster, a metallic gold touch einrophone, and a large expandable telescoping xenology container.
+oget camera from box
+I don't understand that.
+get camera from box
+You remove a camera bag from a completely sealed box labeled 'Elemmire, Shule'.
+wear camera
+You are already wearing that.
+remove camera
+You remove a camera bag.
+wear camera
+You put on a camera bag.
+get shooting from box
+You remove a black flightbag with a red shooting star on the side from a completely sealed box labeled 'Elemmire, Shule'.
+wear shooting
+You are already wearing that.
+remove shooting
+You remove a black flightbag with a red shooting star on the side.
+wear shooting
+You put on a black flightbag with a red shooting star on the side.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a pair of white cotton briefs, a light gray shipsuit with silvery gray trim around the collar and cuffs, a black engineering tool case, a flight control scanner, a scorched metal thigh
+holster, a metallic gold touch einrophone, and a large expandable telescoping xenology container.
+get einrophone from box
+You remove a metallic gold touch einrophone from a completely sealed box labeled 'Elemmire, Shule'.
+wear phone
+You place a metallic gold touch einrophone into a black leather phone holster.
+get scanner from box
+You remove a flight control scanner from a completely sealed box labeled 'Elemmire, Shule'.
+wear scanner
+You put on a flight control scanner.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a pair of white cotton briefs, a light gray shipsuit with silvery gray trim around the collar and cuffs, a black engineering tool case, a scorched metal thigh holster, and a large
+expandable telescoping xenology container.
+[Space Explorers Amidst The Stars] Lily Kaise, Phoenix Dissident transmits, "Hey Shule are you still at Quarantine?"
+tr org Nope.
+[Space Explorers Amidst The Stars] Blockade Smasher Shule Elemmire transmits, "Nope."
+[Space Explorers Amidst The Stars] Lily Kaise, Phoenix Dissident transmits, "Ok."
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, Purr the humanoid service robot, and a completely sealed box labeled 'Elemmire, Shule' here.
+You can go south and out.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a pair of white cotton briefs, a light gray shipsuit with silvery gray trim around the collar and cuffs, a black engineering tool case, a scorched metal thigh holster, and a large
+expandable telescoping xenology container.
+get toolcase
+I see no "toolcase" here.
+get toolcase from box
+I see no "toolcase" in a completely sealed box.
+get tool from box
+You remove a black engineering tool case from a completely sealed box labeled 'Elemmire, Shule'.
+wear tool
+You are already wearing that.
+remove tool
+You remove a black engineering tool case.
+wear tool
+You put on a black engineering tool case.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a pair of white cotton briefs, a light gray shipsuit with silvery gray trim around the collar and cuffs, a scorched metal thigh holster, and a large expandable telescoping xenology
+container.
+get holster
+You remove a scorched metal thigh holster from a completely sealed box labeled 'Elemmire, Shule'.
+wear  holster
+You are already wearing that.
+remove holster
+You remove a scorched metal thigh holster.
+wear holster
+You put on a scorched metal thigh holster.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+Inside it you see a pair of white cotton briefs, a light gray shipsuit with silvery gray trim around the collar and cuffs, and a large expandable telescoping xenology container.
+get container from box
+You remove a large expandable telescoping xenology container from a completely sealed box labeled 'Elemmire, Shule'.
+wear container
+You are already wearing that.
+remove container
+You remove a large expandable telescoping xenology container.
+wear container
+You put on a large expandable telescoping xenology container.
+get suit
+You remove a small suitcase from a leather briefcase.
+open suit
+You open a small suitcase.
+get box
+You pick up a completely sealed box labeled 'Elemmire, Shule'.
+empty box in suit
+Do you want to empty a completely sealed box labeled 'Elemmire, Shule' into a small suitcase?
+[Enter `yes' or `no']
+y
+You carefully empty the contents of a completely sealed box labeled 'Elemmire, Shule' into a small suitcase.
+close suit
+You close a small suitcase.
+put suit in briefcase
+You put a small suitcase in a leather briefcase.
+l box
+a completely sealed box labeled 'Elemmire, Shule'
+You see nothing special.
+It is open.
+It is empty.
+trash box
+You can't trash a completely sealed box labeled 'Elemmire, Shule'.
+put box in trash
+You put a completely sealed box labeled 'Elemmire, Shule' in a small dusky pink trash bin.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, Magellan the arachnoid security robot, and a personal hoverpallet here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee dispenser, an overstuffed dark green chair, and a small hot beverage dispenser here.
+You can go east, southeast, and out.
+title
+[1] Status: Pilot
+[2] Honorary Rank: None
+[3] Shule Elemmire, citoyen d'honneur du Nouveau Quebec
+[4] Shule Elemmire, Phoenix Dissident
+[5] FCI Scout
+[6] Blockade Smasher
+[7] Combat Pilot
+[8] Top Gun
+[9] Expert Engineer
+[10] Space Defense Captain
+[11] None
+Enter your selection:
+@abort
+Invalid selection.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (22/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+==============================
+Recent Interalliance Headlines
+==============================
+* 'So That's How It's Going To Be'; Mutuality Council Offers No Official Statement After AEU Action, Most Unofficial Comments Not Fit To Be Printed [27 April 2318] (ISN)
+* Confederation Threatens to Expel Union Diplomats in Response to Latest Decision; 'Janus Is A Traitor, This Travesty Is Unacceptable' [27 April 2318] (ISN)
+* Prepared Statement from Thomas Haldeman States that EAOS 'Most Strongly Condemns' AEU Decision to Welcome Back Kendra Janus and Rogue Navy [27 April 2318] (ISN)
+* League Releases Statement Offering Harshest Possible Condemnation of Union Action Regarding Rogue AEU Navy, Kendra Janus [27 April 2318] (ISN)
+====================
+Recent AEU Headlines
+====================
+* To Ensure Protection of Union Citizenry, National Patriots Grant Additional Special Powers to ExtraSolar Border Patrols and Security Forces. [23 April 2318] (NEN)
+* President Best Hints that Military Expansion Plans Ready to Come to Fruition; 'We'll Double Our Forces Within The Week, You'll See' [25 April 2318] (NEN)
+* 'Time to Come Home': Best Administration Issues Full Amnesty for 'Dedicated' Rogue Navy, While Kendra Janus Must 'Face Investigation to Determine if There Was Any Wrongdoing' [27 April 2318] (ISN)
+* President Best Releases Statement: 'Soldiers of Loyal Navy That Spent Years In Deep Space Are Most Patriotic Citizens Who Respected Legitimate Authority Rather Than Unelected Stooges' [ 3 May 2318]
+(NEN)
+========================
+Recent Tabloid Headlines
+========================
+* Strain Your Vegetables and Cover Your Outlets! Ship of FCI Babies Returning Home Carrying Alien-Engineered Infant Regression Disease [ 3 May 2318] (TBX)
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (22/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+2
+================
+Recent Headlines
+================
+(Interalliance)     League Releases Statement Offering Harshest Possible Condemnation of Union Action Regarding Rogue AEU Navy, Kendra Janus [27 April 2318] (ISN)
+(AEU)               President Best Releases Statement: 'Soldiers of Loyal Navy That Spent Years In Deep Space Are Most Patriotic Citizens Who Respected Legitimate Authority Rather Than Unelected Stooges'
+[ 3 May 2318] (NEN)
+(EAOS)              RATS Swarm Gamma-12-05-17-SC Major Course Change Detected Indicating New Target is Mineral-Rich Kiron Nebula; Now Heading Away From Inhabited Space [18 April 2318] (ESR)
+(Fringe)            Civilian Fleet Lauded For Plan To Bring In Additional Resources For Reconstruction Effort [ 8 April 2318] (UPN)
+(League)            Two Centuries After Obsolescence, Final Westford Clump Burns Up as it Re-Enters Martian Atmosphere [18 April 2318] (LCR)
+(Mutuality)         Space Bus Company Begins Installing Ship's Heads in Living Quarters Block Following What Company Representative Insists on Referring Cryptically to as "The Incident of February the
+17th" [17 February 2318] (DFP)
+(Economy)           Area Man Attempts to Purchase One Hundred and Eighty Personal Corporate Runabouts, Later Downgrades Order to Two Personal Corporate Runabouts [15 February 2318] (NAO)
+(Sports)            Upset Victory in the HypAc EuroGP as Rookie Racer from "Antai" Mutuality Protectorate Station Brings Home First Place [13 August 2317] (IAS)
+(Entertainment)     What is Oubliettes and Outsiders, and Why Are Your Kids Obsessed With It? Publisher Strategic Tuition Regulations Denies Claims of Outsider Indoctrination [14 January 2318] (TPR)
+(Tabloid)           Strain Your Vegetables and Cover Your Outlets! Ship of FCI Babies Returning Home Carrying Alien-Engineered Infant Regression Disease [ 3 May 2318] (TBX)
+Return to the category menu? [Enter `yes' or `no']
+use phone
+You return your metallic gold touch einrophone to the main screen.
+9
+The navigation systems are nonfunctional until their power is restored.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee dispenser, an overstuffed dark green chair, and a small hot beverage dispenser here.
+You can go east, southeast, and out.
+use phone
+9
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (22/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+No unread headlines found!
+Return to the category menu? [Enter `yes' or `no']
+y
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+3
+=======================
+Interalliance Headlines
+=======================
+* League Releases Statement Offering Harshest Possible Condemnation of Union Action Regarding Rogue AEU Navy, Kendra Janus [27 April 2318] (ISN)
+* Prepared Statement from Thomas Haldeman States that EAOS 'Most Strongly Condemns' AEU Decision to Welcome Back Kendra Janus and Rogue Navy [27 April 2318] (ISN)
+* Confederation Threatens to Expel Union Diplomats in Response to Latest Decision; 'Janus Is A Traitor, This Travesty Is Unacceptable' [27 April 2318] (ISN)
+* 'So That's How It's Going To Be'; Mutuality Council Offers No Official Statement After AEU Action, Most Unofficial Comments Not Fit To Be Printed [27 April 2318] (ISN)
+* Steel Phoenix Issues Statement: "We Are Not Fooled - How Will Finding More Aliens Help Us Against Supposed Great Alien Threat? We Will Secure Our Members Against the True Threat to Our Freedom" [10
+April 2318] (ISN)
+* Accord Issues Statement: "We Support the First Contact Initiative and Hope to Find New Allies in the Fight Against the Outsiders" [10 April 2318] (ISN)
+* EAOS Reveals They Have Extracted Homeworld Locations of Various Species from Magistrate Databanks - "First Contact Initiative" Announced, with Preparations for First Joint Expedition Already Underway [
+9 April 2318] (ISN)
+* Local Temporary Space Station Soon to Shut Down - Will Be Replaced By Identical Temporary Space Station [20 March 2318] (DNA)
+* Civilian Pilots Mourn the Loss of Maggie, a Felo Who Lived a Really Long Time [19 March 2318] (DNA)
+* Pilot Elections Conclude After Busy Term - Fringe Voice: Newcomer Dunn Surprises with Upset Win After Promising Reform. League Voice: Vocal Merry Band Ceasefire Proponent Arroyo Carries Second Term. AEU
+Voice: Status Quo. [18 March 2318] (ISN)
+* Accord Officer Accuses AEU of Misappropriating Accord Intelligence for Steel Phoenix Project: "Their Testudinidae Battleship Assault Mission Profile is Dangerous, [They] Should Let the Professionals
+Handle It" [16 March 2318] (ISN)
+Would you like to see the full archive of Interalliance headlines? [Enter `yes' or `no']
+n
+Return to the category menu? [Enter `yes' or `no']
+y
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+8
+===================
+Mutuality Headlines
+===================
+* Space Bus Company Begins Installing Ship's Heads in Living Quarters Block Following What Company Representative Insists on Referring Cryptically to as "The Incident of February the 17th" [17 February
+2318] (DFP)
+* Spaceman Roger Announces Next Soup of the Cycle Will Consist of Imported Luxury Rat Meat [ 5 February 2318] (DFP)
+* "Security Didn't Lift a Finger to Help," Ninth Fleet Freeman Recounts Attack by Unreg-Bashing AEU Citizens [ 6 September 2317] (DFP)
+* Genius Inventor Turned Away From Brian O'Learin's Pub After Attempting to Pay in Megacredits [ 4 September 2317] (DFP)
+* Years of Silence From Pirate Group 'Veyjer's Host' After Seizing Control of Sunset Station At An End; New Leader 'The Big A.C.' Calls on Nearby Stations to Join With Them Under Banner of 'The Cunning
+Hammers' [24 August 2317] (DFP)
+* Area Man Slips on Inconveniently-Placed Pie [16 August 2317] (DFP)
+* Mister K's Merry Band Formally Invited to Join Tandem Pact as Probationary Member [14 August 2317] (DFP)
+* Enraged Councilwoman Flips Nearby Desk After Reading DFP's Own Sports Column, Bystander Reports [13 August 2317] (DFP)
+* Council "Frustrated" After Fruitless Flash Negotiation Request With AEU [13 August 2317] (DFP)
+* Tacitus Celebrants Cure Hangover with Canned Beer [PAID ADVERTISEMENT] [10 August 2317] (DFP)
+* Tacitus Celebrants Collectively Awake to Extreme Hangover [10 August 2317] (DFP)
+Would you like to see the full archive of Mutuality headlines? [Enter `yes' or `no']
+n
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee dispenser, an overstuffed dark green chair, and a small hot beverage dispenser here.
+You can go east, southeast, and out.
+sit chair
+You sit down on an overstuffed dark green chair.
+who
+There appear to be 19 pilots recently active.
+The communicator network detects:
+Damien Alexander  (E)
+Melinda Michaels  (E)
+Blockade Smasher Shule Elemmire  (A) [m]
+Lily Kaise, Phoenix Dissident  (A)
+Wendy Arroyo  (L)
+Sean Sloan  (L)
+Isadora Halithorn  (L) [c]
+Tanny Hill  (L)
+Katina Faye  (L)
+Nissi Valdaire  (L) [a]
+Brunhilda Schreiber  (L)
+Johann Schraft  (L)
+Morris Corlew  (L)
+Hank Marvelstine  (F)
+Kani Kahakai  (F)
+Elaine Moreau  (F)
+Blake Madison  (F)
+Blockade Smasher Hawthorn Dunn  (F)
+Keegan Wantz  (F)
+Additionally, there are 10 pilots who appear to have their communicators on but have not recently been active.
+Final total: 29 pilots.
+There are currently 4 awake pilots in quarantine that may be visited in the EAOS Quarantine Facility.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+locate keychain
+The following could be located:
+Starship                                Location
+                                --
+Unreality Programming 812               New Earth
+Revenge                                 The Torus (Dock Alpha)
+Shooting Star                           The Torus (Dock Alpha)
+Draconis                                New Earth
+Seeker's Wrath                          New Earth
+Treasure Seeker                         New Earth
+William Dove                            The Torus (Dock Alpha)
+Supernova                               The Torus (Dock Alpha)
+Triple Action Faction!                  New Earth
+Star Of Destiny                         The Torus (Dock Alpha)
+Meteor Shower                           New Earth
+Israel Hope                             The Torus (Dock Alpha)
+Seventh Star                            The Torus (Dock Alpha)
+Profitable Cause                        The Torus (Dock Alpha)
+Flash                                   New Earth
+Triple Trouble                          New Earth
+Fearless                                The Torus (Dock Alpha)
+Lidia's Pride                           New Earth
+Fait Accompli                           The Torus (Dock Alpha)
+Flying Cat                              The Torus (Dock Alpha)
+Firestorm                               The Torus (Dock Alpha)
+Kitten Overdrive!                       The Torus (Dock Alpha)
+Capricious                              The Torus (Dock Alpha)
+Stars Wanderer                          The Torus (Dock Beta)
+The Best Way To Travel                  The Torus (Dock Alpha)
+Daisy May                               The Torus (Dock Alpha)
+Star Kittens                            The Torus (Dock Alpha)
+Money Maker                             The Torus (Dock Alpha)
+RockIt!                                 The Torus (Dock Alpha)
+Star Creations                          New Earth
+Vengeance                               The Torus (Dock Alpha)
+Courageous                              The Torus (Dock Alpha)
+Striking Distance                       The Torus (Dock Alpha)
+Chemeketa                               New Earth
+Troubleshooter's Rescue                 New Earth
+Double Trouble                          New Earth
+Seeker's Wrath                          New Earth
+Critical Strike                         The Torus (Dock Alpha)
+No Mercy                                The Torus (Dock Alpha)
+Asteroid King                           New Earth
+Roid Seeker                             New Earth
+Rockahaulic                             New Earth
+Starseeker's Beacon                     New Earth
+Kalina                                  The Torus (Dock Alpha)
+The Annexation Of Barnham's Redoubt     AFW Command (Dock Three)
+Star Constructor                        New Earth
+Under Construction                      New Earth
+Starseekers Spare Parts                 New Earth
+Unicorn                                 The Torus (Dock Alpha)
+Justen Moon                             The Torus (Dock Alpha)
+Happy                                   The Torus (Dock Alpha)
+Building Capital                        The Torus (Dock Alpha)
+Concertoed Effort                       Old Earth
+Raging Seas                             The Torus (Dock Alpha)
+Ocean Of Diamonds                       The Torus (Dock Alpha)
+The Wolves Have Claws                   Old Earth
+Praying Mantis                          The Torus (Dock Alpha)
+Libertarians Station Transport Alpha    Old Earth
+Someday We Will Foresee Obstacles       Old Earth
+Construction Zone                       Chetumal
+Effervescent Zephyr                     Chetumal
+Bari Fighter                            New Earth
+Chasing Turtles                         New Earth
+Starfish                                The Torus (Dock Alpha)
+Annie                                   The Torus (Dock Alpha)
+Deadly Strike                           The Torus (Dock Alpha)
+Bonzai Trout                            New Earth
+Haven Of Plenty                         The Torus (Dock Alpha)
+Albatross                               New Earth
+Albatross                               New Earth
+RUNE Module Hauler                      AFW Command (Dock One)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Herding Cats                            New Earth
+Future Crimes                           Old Earth
+Thunder And Lightning                   New Earth
+Edified Cooperation                     The Torus (Dock Alpha)
+Ensemble                                The Torus (Dock Alpha)
+Defensive Dissidence                    The Torus (Dock Alpha)
+Blowfish                                The Torus (Dock Alpha)
+Starlight Express                       The Torus (Dock Alpha)
+Blackwing Yalobusha                     Old Earth
+Note: Not all spaceports possess the starship locator function.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you are given undock clearance under the AEU-EAOS non-aggression pact."
+ftl old earth
+The ship is already moving.
+ftl old earth
+Earthgate Station dominates space here, acting as a watchpost for the approach to Old Earth.
+move
+The starship is already moving.
+Old Earth turns below you, blue and green and brown and white. The planet elicits a feeling of "home" in almost all who view it, even if they have never actually set foot on it.
+The computer announces, "Autolander beacon detected. The ship will automatically proceed to Old Earth in thirty seconds unless aborted or another navigation order is entered."
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] Old Earth                                               
+   Space Stations:
+[2] Earth Orbital                                           
+   Space Markets:
+[3] Space Market                                            
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Old Earth.
+Via general sector communication, Old Earth transmits, "Hello there, Deadly Strike. Welcome to Old Earth Orbit."
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "AEU vessel, we're clearing you to land, but don't take the extra security detail too personally."
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away, leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully charged.
+peer out
+You peer out...
+[Old Earth; Manhattan Spaceport]
+Welcome to Manhattan Spaceport! The entire place seems brand new, the glass sparkling, the plasteel gleaming. Starships arrive and depart while others sit on individual pads, rings of lights blinking
+around them as they are recharged. Occasionally, the ground vibrates and the low rumble of heavy hydraulics is heard as a starship is brought up from the underground garage or lowered for extended parking
+below. Around the huge landing pad, wide, arched doorways framed in brushed steel lead to various station services: Repair & Rearm to the northeast, Supply to the southeast, Station Security to the
+southwest, and the Mail Room to the northwest. In addition, a classy lighted sign over one doorway reads, 'Pilot Lounge.' You can GO into it. There is also a doorway marked 'Liaison Office' that you can
+also GO into. Over the corridor to the south, another sign reads 'Spaceport Exit and Express Train.'
+The two-person flare "Deadly Strike" is landed here.
+You see an asteroid-shaped steel trash bin and a sanitation drone here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest, and down.
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[Manhattan Spaceport; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter black
+[Starship "Blackwing Yalobusha"; Airlock]
+You see a row of flightlockers, a large secure xenology storage container, and an early warning space defense device here.
+You can go out and enter into the ship.
+enter
+[Starship "Blackwing Yalobusha"; Control Room]
+You see a dark purple leather captain's chair, a soft dark purple leather couch with a lilac throw pillow and a dusky blue throw pillow on it, an oval charcoal gray area rug, a mahogany coffee table, an
+interdictor launcher, a dark gray holo projector, Vin the arachnoid security robot, a black storage locker, and a white plastic box labeled 'Original Space Imager Images' here.
+Nissi Valdaire is sitting on Wendy Arroyo's lap. Wendy Arroyo is sitting on a soft dark purple leather couch.
+You can go south, up, and out.
+s
+d
+[Starship "Blackwing Yalobusha"; Main Deck; Fore]
+You can go north, south, and down.
+[Starship "Blackwing Yalobusha"; Gunnery Deck; Fore]
+You can go east, south, west, up, and down.
+d
+[Starship "Blackwing Yalobusha"; Crew Quarters; Fore]
+s
+You can go north, east, south, west, and up.
+[Starship "Blackwing Yalobusha"; Crew Quarters; Mid]
+e
+You can go north, east, south, and west.
+[Starship "Blackwing Yalobusha"; Living Quarters Four]
+You see a long plasteel counter, a pair of narrow bunks with a large purple bed pillow on it, and Kiska the humanoid service robot here.
+You can go out.
+'kiska follow
+You say, "Kiska follow."
+Kiska the humanoid service robot begins following you.
+out
+[Starship "Blackwing Yalobusha"; Crew Quarters; Mid]
+You can go north, east, south, and west.
+Kiska the humanoid service robot clomps in after you.
+n
+[Starship "Blackwing Yalobusha"; Crew Quarters; Fore]
+u
+You can go north, east, south, west, and up.
+Kiska the humanoid service robot clomps in after you.
+[Starship "Blackwing Yalobusha"; Gunnery Deck; Fore]
+You can go east, south, west, up, and down.
+Kiska the humanoid service robot clomps in after you.
+u
+[Starship "Blackwing Yalobusha"; Main Deck; Fore]
+You can go north, south, and down.
+Kiska the humanoid service robot clomps in after you.
+u
+You can't go that way.
+n
+[Starship "Blackwing Yalobusha"; Control Room]
+You see a dark purple leather captain's chair, a soft dark purple leather couch with a lilac throw pillow and a dusky blue throw pillow on it, an oval charcoal gray area rug, a mahogany coffee table, an
+interdictor launcher, a dark gray holo projector, Vin the arachnoid security robot, a black storage locker, and a white plastic box labeled 'Original Space Imager Images' here.
+Nissi Valdaire is sitting on Wendy Arroyo's lap. Wendy Arroyo is sitting on a soft dark purple leather couch.
+You can go south, up, and out.
+Kiska the humanoid service robot clomps in after you.
+wave nissi
+You wave to Nissi Valdaire.
+Wendy Arroyo waves.
+-nissi I was just getting my robot.
+You say to Nissi, "I was just getting my robot."
+Nissi Valdaire waves!
+smile
+You smile.
+Nissi Valdaire says, "Robots are neat."
+'See you all laterr.
+You say, "See you all laterr."
+'later
+You say, "Later."
+smile
+You smile.
+Nissi Valdaire says, "Laters."
+out
+[Starship "Blackwing Yalobusha"; Airlock]
+You see a row of flightlockers, a large secure xenology storage container, and an early warning space defense device here.
+You can go out and enter into the ship.
+Kiska the humanoid service robot clomps in after you.
+out
+You exit the ship.
+[Manhattan Spaceport; Garage]
+You see a large number of stored starships here.
+You can go up.
+Kiska the humanoid service robot clomps in after you.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+Kiska the humanoid service robot clomps in after you.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee dispenser, an overstuffed dark green chair, and a small hot beverage dispenser here.
+You can go east, southeast, and out.
+Kiska the humanoid service robot clomps in after you.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you have been given clearance to launch.
+ftl the torus
+The ship is already moving.
+ftl the torus
+move
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another navigation order is entered."
+AutoStar detects 2 possible destinations.  Assembling destination list.  Please wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] The Torus (Dock Alpha)                                  
+[2] The Torus (Dock Beta)                                   
+[3] The Torus (Dock Gamma)                                  
+[4] The Torus (Dock Delta)                                  
+   Space Markets:
+[5] Space Market                                            
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+Via general sector communication, The Torus transmits, "Greetings, Deadly Strike! Welcome to The Torus!"
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship, Deadly Strike. The EAOS welcomes you under the non-aggression pact."
+power
+You may not power down the ship while it is in flight.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away, leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully charged.
+[General Communication] Johann Schraft transmits, "Sir Humberton is still alive!"
+[General Communication] Melinda Michaels transmits, "Woo."
+[General Communication] Johann Schraft transmits, "But Avery, my big feathered is old now."
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+[General Communication] Morris Corlew transmits, "Yay on the first, aww on the second."
+[General Communication] Johann Schraft transmits, "He is going to find Maggie soon."
+[General Communication] Melinda Michaels transmits, "Aww."
+[General Communication] Kani Kahakai transmits, "My little Iris is old already."
+[General Communication] Morris Corlew transmits, "Awww."
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee dispenser, an overstuffed dark green chair, a small hot beverage dispenser, and Kiska the humanoid service robot here.
+You can go east, southeast, and out.
+e
+[Starship "Deadly Strike"; Weapons Room]
+You see an improved temporary wormhole drive and an overstuffed dark green chair here.
+You can go west.
+Kiska the humanoid service robot clomps in after you.
+gen comm
+You turn general communication off.
+w
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee dispenser, an overstuffed dark green chair, and a small hot beverage dispenser here.
+You can go east, southeast, and out.
+Kiska the humanoid service robot clomps in after you.
+sit sofa
+I can't find "sofa."
+sit chair
+You sit down on an overstuffed dark green chair.
+afk
+You blink heavily and then doze off.
+who
+There appear to be 18 pilots recently active.
+The communicator network detects:
+Damien Alexander  (E)
+Melinda Michaels  (E)
+Lily Kaise, Phoenix Dissident  (A)
+Wendy Arroyo  (L)
+Sean Sloan  (L)
+Tanny Hill  (L)
+Katina Faye  (L)
+Nissi Valdaire  (L) [a]
+Brunhilda Schreiber  (L)
+Johann Schraft  (L)
+Morris Corlew  (L)
+Hank Marvelstine  (F)
+Kani Kahakai  (F)
+Elaine Moreau  (F)
+Blake Madison  (F)
+Blockade Smasher Hawthorn Dunn  (F)
+Keegan Wantz  (F)
+Cheri Lindbergh  (M)
+Additionally, there are 9 pilots who appear to have their communicators on but have not recently been active.
+Final total: 27 pilots.
+There are currently 3 awake pilots in quarantine that may be visited in the EAOS Quarantine Facility.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+Kiska the humanoid service robot clomps in after you.
+out
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+Kiska the humanoid service robot clomps in after you.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, Magellan the arachnoid security robot, a glossy silver ceramic felo chow bowl, and Sunshine the light yellow long-haired felo
+here.
+You can go out and enter into the ship.
+Kiska the humanoid service robot clomps in after you.
+enter dove
+s
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, Purr the humanoid service robot, a glossy ruby red ceramic felo chow bowl, a small Bari-shaped tidbit, a black plastic tray of spider chow, Shine the big white glowing felo,
+and a wall-sized bubbling neon purple-lit aquarium containing yellow and gold aquatic life and coral rocks here.
+You can go south and out.
+Kiska the humanoid service robot clomps in after you.
+w
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise seashells, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a round white rattan dining table with
+a glass top, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink trash
+bin, a glossy sky blue ceramic felo chow bowl, a hairy yellow eight-legged ArachnoPal named Higgins, a black plastic tray of spider chow, and a personal hoverpallet here.
+Lily Kaise, Phoenix Dissident is standing here.
+You can go north, east, south, west, up, and down.
+Kiska the humanoid service robot clomps in after you.
+Lily Kaise, Phoenix Dissident removes a small bubbling neon blue-lit toroidal aquarium containing red and crimson aquatic life and round rocks from a personal hoverpallet.
+[Starship "William Dove"; "Hope"]]
+You see a silky electric blue cushion decorated with embroidered pale blue flowers, a glossy pale purple ceramic felo chow bowl, and a black plastic tray of spider chow here.
+You can go east.
+Kiska the humanoid service robot clomps in after you.
+'kiska follow
+You say, "Kiska follow."
+Kiska the humanoid service robot stops following you.
+e
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise seashells, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a round white rattan dining table with
+a glass top, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink trash
+bin, a glossy sky blue ceramic felo chow bowl, a hairy yellow eight-legged ArachnoPal named Higgins, a black plastic tray of spider chow, and a personal hoverpallet here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, Purr the humanoid service robot, a glossy ruby red ceramic felo chow bowl, a small Bari-shaped tidbit, a black plastic tray of spider chow, Shine the big white glowing felo,
+and a wall-sized bubbling neon purple-lit aquarium containing yellow and gold aquatic life and coral rocks here.
+You can go south and out.
+boot
+Onboard sensors detect the presence of the following people somewhere aboard the ship: Blockade Smasher Shule Elemmire and Lily Kaise, Phoenix Dissident.
+Eject? [Enter `yes' or `no']
+n
+Not ejected.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise seashells, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a round white rattan dining table with
+a glass top, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink trash
+bin, a glossy sky blue ceramic felo chow bowl, a hairy yellow eight-legged ArachnoPal named Higgins, a black plastic tray of spider chow, and a personal hoverpallet here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, Purr the humanoid service robot, a glossy ruby red ceramic felo chow bowl, a small Bari-shaped tidbit, a black plastic tray of spider chow, Shine the big white glowing felo,
+and a wall-sized bubbling neon purple-lit aquarium containing yellow and gold aquatic life and coral rocks here.
+You can go south and out.
+l lily
+I see no "lily" here.
+s
+w
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise seashells, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a round white rattan dining table with
+a glass top, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink trash
+bin, a glossy sky blue ceramic felo chow bowl, a hairy yellow eight-legged ArachnoPal named Higgins, a black plastic tray of spider chow, and a personal hoverpallet here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; "Hope"]]
+You see a silky electric blue cushion decorated with embroidered pale blue flowers, a glossy pale purple ceramic felo chow bowl, a black plastic tray of spider chow, Kiska the humanoid service robot, and
+a large bubbling azure blue-lit aquarium containing violet and ocher aquatic life and round rocks here.
+Lily Kaise, Phoenix Dissident is standing here.
+You can go east.
+Lily Kaise, Phoenix Dissident walks east.
+l lily
+I see no "lily" here.
+e
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise seashells, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a round white rattan dining table with
+a glass top, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink trash
+bin, a glossy sky blue ceramic felo chow bowl, a hairy yellow eight-legged ArachnoPal named Higgins, a black plastic tray of spider chow, and a personal hoverpallet here.
+Lily Kaise, Phoenix Dissident is standing here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak table from Old Earth, a textured plasteel floor lamp with a cream shade (casting a white-colored glow), a violet leather
+sectional sofa, a glossy slate blue ceramic felo chow bowl, a black plastic tray of spider chow, and a wall-sized bubbling coral pink-lit aquarium containing violet and white aquatic life and coral rocks
+here.
+You can go north, east, south, west, up, and down.
+l lily
+I see no "lily" here.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet and a glossy pale purple ceramic felo chow bowl here.
+You can go out.
+l lily
+I see no "lily" here.
+out
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak table from Old Earth, a textured plasteel floor lamp with a cream shade (casting a white-colored glow), a violet leather
+sectional sofa, a glossy slate blue ceramic felo chow bowl, a black plastic tray of spider chow, and a wall-sized bubbling coral pink-lit aquarium containing violet and white aquatic life and coral rocks
+here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise seashells, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a round white rattan dining table with
+a glass top, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink trash
+bin, a glossy sky blue ceramic felo chow bowl, a hairy yellow eight-legged ArachnoPal named Higgins, a black plastic tray of spider chow, and a personal hoverpallet here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, Purr the humanoid service robot, a glossy ruby red ceramic felo chow bowl, a small Bari-shaped tidbit, a black plastic tray of spider chow, Shine the big white glowing felo,
+and a wall-sized bubbling neon purple-lit aquarium containing yellow and gold aquatic life and coral rocks here.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+l lily
+I see no "lily" here.
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior pulsates gently.
+Sunshine the light yellow long-haired felo wanders in from the airlock.
+Lily Kaise, Phoenix Dissident walks in from the south.
+Lily Kaise, Phoenix Dissident removes a small red ball containing a realistic Bari horde noisemaker from a lavender silk backpack embroidered with brightly hued butterflies.
+kis slily
+I don't see "slily" here.
+kiss lily
+You kiss Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident puts down a small red ball containing a realistic Bari horde noisemaker.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident kisses you.
+Lily Kaise, Phoenix Dissident smiles.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident says, "Just putting things back together."
+nod
+You nod.
+title
+[1] Status: Pilot
+[2] Honorary Rank: None
+[3] Shule Elemmire, citoyen d'honneur du Nouveau Quebec
+[4] Shule Elemmire, Phoenix Dissident
+[5] FCI Scout
+[6] Blockade Smasher
+[7] Combat Pilot
+[8] Top Gun
+[9] Expert Engineer
+[10] Space Defense Captain
+[11] None
+Enter your selection:
+4
+Done.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+smile
+You smile.
+Shine the big white glowing felo wanders south.
+Lily Kaise, Phoenix Dissident walks out.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings itself at the side of the tank, its tentacles tapping at the glass, then it withdraws.
+peer air
+That doesn't seem to be a valid direction.
+peer airlock
+That doesn't seem to be a valid direction.
+afk
+You blink heavily and then doze off.
+Lily Kaise, Phoenix Dissident just entered the ship.
+Lily Kaise, Phoenix Dissident sits down on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident blinks heavily and then dozes off.
+kiss lily
+You kiss Lily Kaise, Phoenix Dissident.
+afk
+You don't feel very sleepy at the moment.
+A long chartreuse soft-bodied creature with many claw-tipped tentacles swims around a plastic frond of light green sea fern.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it has unread notices.
+read comm
+You glance at your communicator's screen.
+Notice from the Ground Squad Leader: Greetings! Great Ground Combat work Casen and Katie! [17:31  4 May 2318 GST]
+afk
+You don't feel very sleepy at the moment.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+Sunshine the light yellow long-haired felo wanders out.
+Sunshine the light yellow long-haired felo wanders in from the airlock.
+Lily Kaise, Phoenix Dissident navigates her metallic gold touch einrophone to a market application and peers at the screen.
+Your metallic gold touch einrophone trills quietly, indicating a new story has been posted under "AEU."
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (22/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+Lily Kaise, Phoenix Dissident navigates her metallic gold touch einrophone to a news application.
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+====================
+Recent AEU Headlines
+====================
+* CPP Weapons/Space Combat Operations Bids Become Two Horse Race as IntSec Fails to Match Current Offers [ 4 May 2318] (VET)
+Return to the category menu? [Enter `yes' or `no']
+Lily Kaise, Phoenix Dissident returns her metallic gold touch einrophone to the main screen.
+n
+You return your metallic gold touch einrophone to the main screen.
+Sunshine the light yellow long-haired felo seems to be hungry.
+Sunshine the light yellow long-haired felo enthusiastically gobbles up a small Bari-shaped tidbit.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+Lily Kaise, Phoenix Dissident stands up from a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+Lily Kaise, Phoenix Dissident walks south.
+A metallic silver metachannel FTL communicator chirps quietly as it receives a new notice.
+read comm
+You glance at your communicator's screen.
+You have one mail message.
+afk
+You blink heavily and then doze off.
+Sunshine the light yellow long-haired felo wanders south.
+Lily Kaise, Phoenix Dissident walks in from the south.
+Lily Kaise, Phoenix Dissident says, "Going for mail."
+Lily Kaise, Phoenix Dissident walks out.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise, Phoenix Dissident has automatically contributed 25,000,000.00 AEU credits.
+Your metallic gold touch einrophone trills quietly, indicating a new story has been posted under "AEU."
+A metallic silver metachannel FTL communicator dings politely as it receives a new notice.
+Your metallic gold touch einrophone trills quietly, indicating a new story has been posted under "AEU."
+A metallic silver metachannel FTL communicator dings politely as it receives a new notice.
+A firmly rooted animal with dozens of smooth green tendrils slowly waves its many tendrils.
+Your metallic gold touch einrophone trills quietly, indicating a new story has been posted under "AEU."
+A metallic silver metachannel FTL communicator dings politely as it receives a new notice.
+Your metallic gold touch einrophone trills quietly, indicating a new story has been posted under "AEU."
+A metallic silver metachannel FTL communicator dings politely as it receives a new notice.
+A large semi-transparent perfectly round creature with medium-length dangling tendrils and a violet glowing interior drifts slowly over a white plastic undersea castle.
+Shine the big white glowing felo wanders in from the south.
+Shine the big white glowing felo wanders out.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Weird, I got a bunch of credits in the mail."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I wonder from what."
+A short red soft-bodied creature with many claw-tipped tentacles swims around a string of light purple plastic kelp.
+Shine the big white glowing felo wanders in from the airlock.
+A large semi-transparent perfectly round creature with medium-length dangling tendrils and a violet glowing interior drifts slowly across the tank.
+A long chartreuse soft-bodied creature with many claw-tipped tentacles abruptly flings itself at the side of the tank, its tentacles tapping at the glass, then it withdraws.
+A large semi-transparent perfectly round creature with long dangling tendrils and a violet glowing interior drifts slowly across the tank.
+Shine the big white glowing felo wanders out.
+A large thickly-shelled creature with a red shell and four small claws grips a plastic shipwreck flying a pirate flag firmly in its claws, then gives up when it can't break the toy.
+Shine the big white glowing felo wanders in from the airlock.
+[Space Explorers Amidst The Stars] Lily Kaise, Phoenix Dissident transmits, "The payment was from the SPECTROSCOPY performed on the points of interest found along the way. There will probably be a
+separate bit that you will receive from the images as well. Also be sure to go to the Central Stellar Cartography branch office on New Earth and submit your planet findings as well."
+Shine the big white glowing felo wanders south.
+A long orange soft-bodied creature with many claw-tipped tentacles propels itself through the tank, stirring up tiny particles.
+A large thickly-shelled creature with a red shell and four small claws raises its claws at a small plastic statue of a shark and snaps them menacingly while dancing around it.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly flings itself at the side of the tank, its tentacles tapping at the glass, then it withdraws.
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+A long amethyst soft-bodied creature with many claw-tipped tentacles propels itself through the tank, stirring up tiny particles.
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior pulsates gently.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Ah, okay. Thanks Lily."
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior drifts slowly past a plastic flower with red petals.
+A long chartreuse soft-bodied creature with many claw-tipped tentacles propels itself through the tank, stirring up tiny particles.
+A large semi-transparent perfectly round creature with medium-length dangling tendrils and a violet glowing interior drifts slowly across the tank.
+A long orange soft-bodied creature with many claw-tipped tentacles abruptly flings itself at the side of the tank, its tentacles tapping at the glass, then it withdraws.
+A large semi-transparent perfectly round creature with medium-length dangling tendrils and a violet glowing interior drifts slowly past a small plastic statue of a Jinu.
+A long amethyst soft-bodied creature with many claw-tipped tentacles propels itself through the tank, stirring up tiny particles.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new post in General/Name Changes.
+A metallic silver metachannel FTL communicator chimes softly as it receives a new notice.
+A firmly rooted animal with dozens of smooth green tendrils slowly waves its many tendrils.
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior drifts slowly past a small plastic statue of a shark.
+A metallic silver metachannel FTL communicator chirps quietly as it receives a new notice.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+small dusky pink trash bin, Purr the humanoid service robot, a glossy ruby red ceramic felo chow bowl, a black plastic tray of spider chow, a wall-sized bubbling neon purple-lit aquarium containing yellow
+and gold aquatic life and coral rocks, and a small red ball containing a realistic Bari horde noisemaker here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.)
+A large semi-transparent perfectly round creature with long dangling tendrils and a violet glowing interior drifts slowly past a plastic frond of light green sea fern.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: The Merry Band is a rogue group of humans of questionable morals and unclear motivations.
+**
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior drifts slowly past a plastic flower with red petals.
+A large semi-transparent perfectly round creature with medium-length dangling tendrils and a violet glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+A small thickly-shelled creature with a yellow shell and four small claws snaps its claws menacingly at a string of light purple plastic kelp.
+l lily
+I see no "lily" here.
+afk
+You blink heavily and then doze off.
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior drifts slowly past a plastic flower with red petals.
+A large thickly-shelled creature with a red shell and four small claws snaps its claws menacingly at a plastic frond of light green sea fern.
+who ather
+Ather Jammoa does not seem to have an active communicator.
+afk
+You blink heavily and then doze off.
+A large semi-transparent spherical creature with medium-length dangling tendrils and an orange glowing interior drifts slowly across the tank.
+A medium-sized shelled creature with a yellow shell and four small claws raises its claws at a small plastic statue of a shark and snaps them menacingly while dancing around it.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+You hear your metallic gold touch einrophone ringing.
+Your metallic gold touch einrophone chimes softly as it begins recording a voicemail.
+Your metallic gold touch einrophone stops ringing.
+Your metallic gold touch einrophone chimes softly as it finishes recording a voicemail.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings itself at the side of the tank, its tentacles tapping at the glass, then it withdraws.
+#end
+[0m#SESSION 'StarConquest' DIED.[0m

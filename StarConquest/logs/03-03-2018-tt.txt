@@ -1,0 +1,3414 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Feb 22 17:48:16 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, and a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.)
+i
+**
+ Welcome back to Star Conquest!
+**
+ There are new Conquest results! Type CONQUEST to see them.
+**
+ Two new posts to the changelog since you were last connected. Type CHANGELOG
+NEW to read them.
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: The Outsiders are aliens who rule a huge hegemony that conquered humanity
+before the Resistance threw them back.
+**
+ You are wearing nothing. You are also wearing a keychain, a solid silver ring
+engraved with dolphins, and a gold wrist-mounted chronometer. You are concealing
+a metallic silver metachannel FTL communicator, a black flightbag with a red
+shooting star on the side, a leather briefcase, a large expandable telescoping
+xenology container, a scorched metal thigh holster, a golden Feng Wo coin purse,
+a camera bag, a flight control scanner, a black engineering tool case, a
+metallic gold touch einrophone, and a backpack. Your head, face, both eyes,
+neck, both shoulders, chest, back, both biceps, both elbows, abdomen, both
+forearms, both wrists, both hands, waist, both hips, groin, both thighs, both
+knees, both calves, both ankles, and both feet are left uncovered.
+You are carrying nothing.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+get suit
+You remove a small suitcase from a leather briefcase.
+open suit
+You open a small suitcase.
+get briefs from suit
+wear briefs
+You don't have a pair of skimpy white cherry-flavored briefs.
+You remove a pair of white cotton briefs from a small suitcase.
+gewear briefs
+I don't understand that.
+i
+ You are wearing nothing. You are also wearing a keychain, a solid silver ring
+engraved with dolphins, and a gold wrist-mounted chronometer. You are concealing
+a metallic silver metachannel FTL communicator, a black flightbag with a red
+shooting star on the side, a leather briefcase, a large expandable telescoping
+xenology container, a scorched metal thigh holster, a golden Feng Wo coin purse,
+a camera bag, a flight control scanner, a black engineering tool case, a
+metallic gold touch einrophone, and a backpack. Your head, face, both eyes,
+neck, both shoulders, chest, back, both biceps, both elbows, abdomen, both
+forearms, both wrists, both hands, waist, both hips, groin, both thighs, both
+knees, both calves, both ankles, and both feet are left uncovered.
+You are carrying a small suitcase in your right hand, and a pair of white cotton
+briefs in your left hand.
+wear briefs
+You slide a pair of white cotton briefs on.
+get shipsuit
+You remove a silver and green shipsuit with the AEU logo centered on the chest
+from a small suitcase.
+put shipsuit in suit
+You put a silver and green shipsuit with the AEU logo centered on the chest in a
+small suitcase.
+get shipsuit
+You remove a light gray shipsuit with silvery gray trim around the collar and
+cuffs from a small suitcase.
+wear shipsuit
+You step into a light gray shipsuit with silvery gray trim around the collar and
+cuffs and pull it over your arms.
+get sneakers
+You remove a pair of gray canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+close sneakers
+You can't close a pair of gray canvas sneakers.
+close suit
+You close a small suitcase.
+put suit in briefcase
+You put a small suitcase in a leather briefcase.
+out
+[Starship "William Dove"; Observation Deck]
+n
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa with Shine the sleeping
+big white glowing felo on it, a glossy lilac ceramic felo chow bowl, a
+wall-sized bubbling coral pink-lit aquarium containing white and violet aquatic
+life and coral rocks, a rainbow-colored portable hot tub with silver star
+accents, and a black plastic tray of spider chow here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table with a
+glass top, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan
+pantry cabinet, a small dusky pink trash bin, a glossy azure blue ceramic felo
+chow bowl, a black plastic tray of spider chow, a long white and coral pink
+flowered cushion, a Tardick lizard named Asteria, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+n
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and red
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders and a gold ornament etched with the year 2317, a black plastic
+tray of spider chow, a small dusky pink trash bin, Magellan the arachnoid
+security robot, and Purr the humanoid service robot here.
+You can go south and out.
+You can't go that way.
+where
+Your communicator reports that...
+No one is relaxing anywhere in public. Maybe you should!
+who
+There appear to be 27 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Jacob Shields  (A)
+Ather Jammoa  (A) [am]
+Lily Kaise  (A)
+Damien Goss  (L)
+Ramona Kamowitz  (L) [cr]
+Erik Goodwin  (L)
+Wendy Arroyo  (L)
+Tobias Hawthorne  (L)
+Jada Nelson  (L)
+Tanny Hill  (L)
+Katina Faye  (L)
+Melinda Michaels  (L)
+Johann Schraft  (L)
+Caleb Davenport  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Nissi Valdaire  (L) [a]
+Kani Kahakai  (F)
+Marcellus Freeman  (F)
+William Ambrose  (F) [c]
+Sophie Landon  (F)
+Mandy Sinclair  (F)
+Elaine Moreau  (F)
+Iw Bonud Hank Marvelstine  (F)
+Michael Kennedy  (F)
+Evenia Callseah  (F)
+Additionally, there are 12 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 39 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+tr org Hi love.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Hi love."
+i
+ You are wearing a light gray shipsuit with silvery gray trim around the collar
+and cuffs and a pair of gray canvas sneakers. Underneath this, you are wearing a
+pair of white cotton briefs. You are also wearing a keychain, a solid silver
+ring engraved with dolphins, a metallic gold touch einrophone in a black leather
+phone holster, a backpack, and a gold wrist-mounted chronometer. You are
+concealing a metallic silver metachannel FTL communicator, a black flightbag
+with a red shooting star on the side, a leather briefcase, a large expandable
+telescoping xenology container, a scorched metal thigh holster, a golden Feng Wo
+coin purse, a camera bag, a flight control scanner, and a black engineering tool
+case. Your head, face, both eyes, both wrists, and both hands are left
+uncovered.
+You are carrying nothing.
+read comm
+You glance at your communicator's screen.
+There are five board posts.
+There is one headline.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (21/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+====================
+Recent AEU Headlines
+====================
+* Metal Fixtures Used in Interiors of New Fleet of Steel Phoenix Starships
+Traced to New Earth Supplier Where President Eric Best's Son-in-Law Sits on
+Board of Directors [ 2 March 2318] (PFP)
+Return to the category menu? [Enter `yes' or `no']
+boot
+You return your metallic gold touch einrophone to the main screen.
+boot
+Onboard sensors detect the presence of the following people somewhere aboard the
+ship: Shule Elemmire.
+Eject? [Enter `yes' or `no']
+@abort
+>> Command Aborted <<
+who
+There appear to be 27 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Jacob Shields  (A)
+Ather Jammoa  (A) [am]
+Lily Kaise  (A)
+Damien Goss  (L)
+Ramona Kamowitz  (L) [cr]
+Erik Goodwin  (L)
+Wendy Arroyo  (L)
+Tobias Hawthorne  (L)
+Jada Nelson  (L)
+Tanny Hill  (L)
+Katina Faye  (L)
+Melinda Michaels  (L)
+Johann Schraft  (L)
+Caleb Davenport  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Nissi Valdaire  (L) [a]
+Kani Kahakai  (F)
+Marcellus Freeman  (F)
+William Ambrose  (F) [c]
+Sophie Landon  (F)
+Mandy Sinclair  (F)
+Elaine Moreau  (F)
+Iw Bonud Hank Marvelstine  (F)
+Michael Kennedy  (F)
+Evenia Callseah  (F)
+Additionally, there are 12 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 39 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+tr org What are you up to?
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "What are you up
+to?"
+who
+There appear to be 27 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Jacob Shields  (A)
+Ather Jammoa  (A) [am]
+Lily Kaise  (A)
+Damien Goss  (L)
+Ramona Kamowitz  (L) [cr]
+Erik Goodwin  (L)
+Wendy Arroyo  (L)
+Tobias Hawthorne  (L)
+Jada Nelson  (L)
+Tanny Hill  (L)
+Katina Faye  (L)
+Melinda Michaels  (L)
+Johann Schraft  (L)
+Caleb Davenport  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Nissi Valdaire  (L) [a]
+Kani Kahakai  (F)
+Marcellus Freeman  (F)
+William Ambrose  (F) [c]
+Sophie Landon  (F)
+Mandy Sinclair  (F)
+Elaine Moreau  (F)
+Iw Bonud Hank Marvelstine  (F)
+Michael Kennedy  (F)
+Evenia Callseah  (F)
+Additionally, there are 12 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 39 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+locate keychain
+The following could be located:
+Starship                                Location
+                                --
+Unreality Programming 812               New Earth
+Revenge                                 The Torus (Dock Alpha)
+Shooting Star                           The Torus (Dock Alpha)
+Draconis                                New Earth
+Seeker's Wrath                          New Earth
+Treasure Seeker                         New Earth
+William Dove                            The Torus (Dock Alpha)
+Supernova                               New Earth
+Triple Action Faction!                  New Earth
+Star Of Destiny                         The Torus (Dock Alpha)
+Meteor Shower                           New Earth
+Israel Hope                             The Torus (Dock Alpha)
+Seventh Star                            The Torus (Dock Alpha)
+Profitable Cause                        The Torus (Dock Alpha)
+Flash                                   New Earth
+Triple Trouble                          New Earth
+Fearless                                The Torus (Dock Alpha)
+Lidia's Pride                           New Earth
+Fait Accompli                           The Torus (Dock Alpha)
+Flying Cat                              The Torus (Dock Alpha)
+Firestorm                               New Earth
+Kitten Overdrive!                       The Torus (Dock Alpha)
+Capricious                              The Torus (Dock Alpha)
+Stars Wanderer                          The Torus (Dock Alpha)
+The Best Way To Travel                  The Torus (Dock Alpha)
+Daisy May                               The Torus (Dock Alpha)
+Starlight Express                       The Torus (Dock Alpha)
+Star Kittens                            The Torus (Dock Alpha)
+Money Maker                             The Torus (Dock Alpha)
+RockIt!                                 The Torus (Dock Alpha)
+Star Creations                          New Earth
+Vengeance                               The Torus (Dock Alpha)
+Courageous                              The Torus (Dock Alpha)
+Striking Distance                       The Torus (Dock Alpha)
+Chemeketa                               New Earth
+Troubleshooter's Rescue                 New Earth
+Double Trouble                          New Earth
+Seeker's Wrath                          New Earth
+Critical Strike                         New Earth
+No Mercy                                The Torus (Dock Alpha)
+Asteroid King                           New Earth
+Roid Seeker                             New Earth
+Rockahaulic                             New Earth
+Starseeker's Beacon                     New Earth
+Kalina                                  The Torus (Dock Alpha)
+The Annexation Of Barnham's Redoubt     AFW Command (Dock Three)
+Star Constructor                        New Earth
+Under Construction                      New Earth
+Starseekers Spare Parts                 New Earth
+Unicorn                                 The Torus (Dock Alpha)
+Segue                                   Chetumal
+Justen Moon                             The Torus (Dock Alpha)
+Happy                                   The Torus (Dock Alpha)
+Building Capital                        The Torus (Dock Alpha)
+Concertoed Effort                       Old Earth
+Raging Seas                             The Torus (Dock Alpha)
+Ocean Of Diamonds                       New Earth
+The Wolves Have Claws                   Old Earth
+Praying Mantis                          The Torus (Dock Alpha)
+Libertarians Station Transport Alpha    Old Earth
+Someday We Will Foresee Obstacles       Old Earth
+Construction Zone                       Chetumal
+Effervescent Zephyr                     Chetumal
+Bari Fighter                            New Earth
+Chasing Turtles                         New Earth
+Starfish                                New Earth
+Annie                                   The Torus (Dock Alpha)
+Deadly Strike                           The Torus (Dock Alpha)
+Bonzai Trout                            New Earth
+Haven Of Plenty                         The Torus (Dock Alpha)
+Albatross                               New Earth
+Albatross                               New Earth
+RUNE Module Hauler                      AFW Command (Dock One)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Herding Cats                            New Earth
+Future Crimes                           Old Earth
+Thunder And Lightning                   New Earth
+Edified Cooperation                     The Torus (Dock Alpha)
+Ensemble                                The Torus (Dock Alpha)
+Defensive Dissidence                    The Torus (Dock Alpha)
+Note: Not all spaceports possess the starship locator function.
+A Tardick lizard named Asteria trundles slowly into the area.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (21/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+1
+You remove a metallic gold touch einrophone from a black leather phone holster.
+Enter a contact, 00 for directory assistance, or enter nothing in order to see a
+list.
+lily
+You tap a number into a metallic gold touch einrophone.
+You hear a soft ringing sound on the line.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I was over here on New
+Earth approving all of Ather's big credit transfers and then we were discussing
+station stuff and things."
+A medium-sized shelled creature with a yellow shell and four small claws grips a
+plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+You hear a soft ringing sound on the line.
+You hear a soft ringing sound on the line.
+You hear a soft ringing sound on the line.
+You hear a soft ringing sound on the line.
+A hairy yellow eight-legged ArachnoPal named Higgins works his fangs.
+You hear a soft ringing sound on the line.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I'm not picking up the
+call Love."
+You hear a soft ringing sound on the line.
+[Space Explorers Amidst The Stars] Lily Kaise laughs.
+use phone
+You touch the screen of a metallic gold touch einrophone, then swipe your finger
+across it to lock it.
+You place a metallic gold touch einrophone into a black leather phone holster.
+tr org Ah ok.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Ah ok."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Anyway, ather wants to
+run beacons and things so will put up the new BAS tomorrow."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "But there is a bit of
+time left on the current one."
+tr org Ok.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Ok."
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a small mystic purple bioplastic crate
+here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You can go up.
+enter starlight
+[Starship "Starlight Express"; Airlock]
+You see a glossy blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+enter starlight
+[Starship "Starlight Express"; Control Room]
+You see a glossy pearl gray ceramic felo chow bowl, Mekensie the humanoid
+service robot, and a yellow soldier felo kitten here.
+You can go south and out.
+storage
+Storage hold contents:
+Name:                                     Units:
+                                     --
+Low-grade dry felo chow                   3560
+                                        
+Weight capacity:                          6800
+Total weight:                           - 3560
+                                          --
+Remaining weight capacity:              = 3240
+out
+[Starship "Starlight Express"; Airlock]
+You see a glossy blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+enter
+[Starship "Starlight Express"; Control Room]
+You see a glossy pearl gray ceramic felo chow bowl, Mekensie the humanoid
+service robot, and a yellow soldier felo kitten here.
+You can go south and out.
+tr org Sorry.... I just wanted to say hi and see what you were up to.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Sorry.... I just
+wanted to say hi and see what you were up to."
+tr org Sorry to bother you.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Sorry to bother
+you."
+out
+[Starship "Starlight Express"; Airlock]
+You see a glossy blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You can go up.
+enter dead
+enter
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Hi Love, just sitting
+here in my ship currently as I say was just taking care of administrative
+stuff."
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+locate keychain
+The following could be located:
+Starship                                Location
+                                --
+Unreality Programming 812               New Earth
+Revenge                                 The Torus (Dock Alpha)
+Shooting Star                           The Torus (Dock Alpha)
+Draconis                                New Earth
+Seeker's Wrath                          New Earth
+Treasure Seeker                         New Earth
+William Dove                            The Torus (Dock Alpha)
+Supernova                               New Earth
+Triple Action Faction!                  New Earth
+Star Of Destiny                         The Torus (Dock Alpha)
+Meteor Shower                           New Earth
+Israel Hope                             The Torus (Dock Alpha)
+Seventh Star                            The Torus (Dock Alpha)
+Profitable Cause                        The Torus (Dock Alpha)
+Flash                                   New Earth
+Triple Trouble                          New Earth
+Fearless                                The Torus (Dock Alpha)
+Lidia's Pride                           New Earth
+Fait Accompli                           The Torus (Dock Alpha)
+Flying Cat                              The Torus (Dock Alpha)
+Firestorm                               New Earth
+Kitten Overdrive!                       The Torus (Dock Alpha)
+Capricious                              The Torus (Dock Alpha)
+Stars Wanderer                          The Torus (Dock Alpha)
+The Best Way To Travel                  The Torus (Dock Alpha)
+Daisy May                               The Torus (Dock Alpha)
+Starlight Express                       The Torus (Dock Alpha)
+Star Kittens                            The Torus (Dock Alpha)
+Money Maker                             The Torus (Dock Alpha)
+RockIt!                                 The Torus (Dock Alpha)
+Star Creations                          New Earth
+Vengeance                               The Torus (Dock Alpha)
+Courageous                              The Torus (Dock Alpha)
+Striking Distance                       The Torus (Dock Alpha)
+Chemeketa                               New Earth
+Troubleshooter's Rescue                 New Earth
+Double Trouble                          New Earth
+Seeker's Wrath                          New Earth
+Critical Strike                         New Earth
+No Mercy                                The Torus (Dock Alpha)
+Asteroid King                           New Earth
+Roid Seeker                             New Earth
+Rockahaulic                             New Earth
+Starseeker's Beacon                     New Earth
+Kalina                                  The Torus (Dock Alpha)
+The Annexation Of Barnham's Redoubt     AFW Command (Dock Three)
+Star Constructor                        New Earth
+Under Construction                      New Earth
+Starseekers Spare Parts                 New Earth
+Unicorn                                 The Torus (Dock Alpha)
+Segue                                   Chetumal
+Justen Moon                             The Torus (Dock Alpha)
+Happy                                   The Torus (Dock Alpha)
+Building Capital                        The Torus (Dock Alpha)
+Concertoed Effort                       Old Earth
+Raging Seas                             The Torus (Dock Alpha)
+Ocean Of Diamonds                       New Earth
+The Wolves Have Claws                   Old Earth
+Praying Mantis                          The Torus (Dock Alpha)
+Libertarians Station Transport Alpha    Old Earth
+Someday We Will Foresee Obstacles       Old Earth
+Construction Zone                       Chetumal
+Effervescent Zephyr                     Chetumal
+Bari Fighter                            New Earth
+Chasing Turtles                         New Earth
+Starfish                                New Earth
+Annie                                   The Torus (Dock Alpha)
+Deadly Strike                           The Torus (Dock Alpha)
+Bonzai Trout                            New Earth
+Haven Of Plenty                         The Torus (Dock Alpha)
+Albatross                               New Earth
+Albatross                               New Earth
+RUNE Module Hauler                      AFW Command (Dock One)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Herding Cats                            New Earth
+Future Crimes                           Old Earth
+Thunder And Lightning                   New Earth
+Edified Cooperation                     The Torus (Dock Alpha)
+Ensemble                                The Torus (Dock Alpha)
+Defensive Dissidence                    The Torus (Dock Alpha)
+Note: Not all spaceports possess the starship locator function.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+ftl glittering
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+This asteroid belt is unusually close to its star, and the slowly rotating
+asteroids glitter brightly in the sunlight.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to Space Station Delta in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, Space Station Delta transmits, "Hello there,
+Deadly Strike! Welcome to home space!"
+move
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "If they ask you to
+help maintain the accelerators or the beacons to that station, say yes to them,
+and do whatever they want within reason. Since we will be using that area too."
+AutoStar detects 2 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] Space Station Delta                                     
+   Belt Stations:
+[2] Asteroid Belt Management Station                        
+--
+Enter your destination:
+2
+A destination appears on the ship's navigation controls: Asteroid Belt
+Management Station.
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Yeah that's only fair."
+You begin the docking sequence.
+out
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[Asteroid Belt Management Station]
+The four-person mule "Liberator", the scout "Pathseeker", the vostok-class
+capsule "Bolt", and the two-person flare "Deadly Strike" are parked here.
+You see an automatic teller machine here.
+You can go nowhere.
+menu
+--
+Asteroid Belt Station Management
+--
+ - RUNNING AUTOMATICALLY -
+Pending Belt Management Points: 291.9
+Salary Owed: 92,816,625.00
+--
+[1] Collect Points
+[2] Pay Salary
+[3] Toggle Automatic
+[4] View Log
+[5] Clear Log
+[6] Manage Shift Orders
+[7] View Parts
+[8] Hire New Employee
+[9] View Employees
+[10] Fire Employee
+Enter your selection:
+8
+The following potential new hires are currently applying to work at your belt
+station:
+[1] Shelbie Babcock (Prod: 57 Care: 54 Sal: 55,500.00)
+[2] Jody Rodrigues (Prod: 62 Care: 52 Sal: 57,000.00)
+[3] Frank Justice (Prod: 51 Care: 65 Sal: 58,000.00)
+[4] Hire Nobody.
+Enter your selection:
+2
+Are you sure you want to hire Jody Rodrigues?
+[Enter `yes' or `no']
+y
+Done. Jody Rodrigues will arrive in six hours and be ready to start work.
+menu
+--
+Asteroid Belt Station Management
+--
+ - RUNNING AUTOMATICALLY -
+Pending Belt Management Points: 291.9
+Salary Owed: 92,816,625.00
+--
+[1] Collect Points
+[2] Pay Salary
+[3] Toggle Automatic
+[4] View Log
+[5] Clear Log
+[6] Manage Shift Orders
+[7] View Parts
+[8] Hire New Employee
+[9] View Employees
+[10] Fire Employee
+Enter your selection:
+8
+The following potential new hires are currently applying to work at your belt
+station:
+[1] Shelbie Babcock (Prod: 57 Care: 54 Sal: 55,500.00)
+[2] Frank Justice (Prod: 51 Care: 65 Sal: 58,000.00)
+[3] Hire Nobody.
+Enter your selection:
+2
+Are you sure you want to hire Frank Justice?
+[Enter `yes' or `no']
+y
+Done. Frank Justice will arrive in six hours and be ready to start work.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You begin the launch sequence.
+ftl the torus
+The ship is already moving.
+ftl the torus
+The ship is already moving.
+ftl the torus
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, The Torus transmits, "Greetings, Deadly
+Strike! Welcome to The Torus!"
+m market
+I don't understand that.
+Try this instead:  min
+move
+AutoStar detects 4 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] The Torus (Dock Alpha)                                  
+[2] The Torus (Dock Beta)                                   
+[3] The Torus (Dock Gamma)                                  
+[4] The Torus (Dock Delta)                                  
+   Space Markets:
+[5] Space Market                                            
+   Debris:
+[6] Debris (nearest)                                        
+--
+Enter your destination:
+5
+A destination appears on the ship's navigation controls: Space Market.
+trace
+Recent FTL Drive Traces:
+EAOS transport "Registered Merchant 724" departed to League sector Colonial Gate
+(Beta-1) approximately 9 minutes ago.
+League transport "Registered Merchant 330" departed to League sector Earthgate
+(Alpha-1) approximately 6 minutes ago.
+AEU corvette "Deadly Strike" departed to AEU sector Providence Gate (Alpha-1)
+approximately 2 minutes ago.
+EAOS transport "Registered Merchant 724" departed to League sector Colonial Gate
+(Beta-1) approximately 1 minute ago.
+You begin the docking sequence.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Ok the current BAS has
+about 30 hours left on it and Invaders isn't on that one but we'll use your
+module on the replacement."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Shule Love you Hun."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Alright."
+tr org I love you too with all my heart.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "I love you too
+with all my heart."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I'll put up the
+Asteroid processor tonight if I can get a second wind here or no later than
+tomorrow."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+`locate keychain
+Say to whom?
+locate keychain
+The following could be located:
+Starship                                Location
+                                --
+Unreality Programming 812               New Earth
+Revenge                                 The Torus (Dock Alpha)
+Shooting Star                           The Torus (Dock Alpha)
+Draconis                                New Earth
+Seeker's Wrath                          New Earth
+Treasure Seeker                         New Earth
+William Dove                            The Torus (Dock Alpha)
+Supernova                               New Earth
+Triple Action Faction!                  New Earth
+Star Of Destiny                         The Torus (Dock Alpha)
+Meteor Shower                           New Earth
+Israel Hope                             The Torus (Dock Alpha)
+Seventh Star                            The Torus (Dock Alpha)
+Profitable Cause                        The Torus (Dock Alpha)
+Flash                                   New Earth
+Triple Trouble                          New Earth
+Fearless                                The Torus (Dock Alpha)
+Lidia's Pride                           New Earth
+Fait Accompli                           The Torus (Dock Alpha)
+Flying Cat                              The Torus (Dock Alpha)
+Firestorm                               New Earth
+Kitten Overdrive!                       The Torus (Dock Alpha)
+Capricious                              The Torus (Dock Alpha)
+Stars Wanderer                          The Torus (Dock Alpha)
+The Best Way To Travel                  The Torus (Dock Alpha)
+Daisy May                               The Torus (Dock Alpha)
+Starlight Express                       The Torus (Dock Alpha)
+Star Kittens                            The Torus (Dock Alpha)
+Money Maker                             The Torus (Dock Alpha)
+RockIt!                                 The Torus (Dock Alpha)
+Star Creations                          New Earth
+Vengeance                               The Torus (Dock Alpha)
+Courageous                              The Torus (Dock Alpha)
+Striking Distance                       The Torus (Dock Alpha)
+Chemeketa                               New Earth
+Troubleshooter's Rescue                 New Earth
+Double Trouble                          New Earth
+Seeker's Wrath                          New Earth
+Critical Strike                         New Earth
+No Mercy                                The Torus (Dock Alpha)
+Asteroid King                           New Earth
+Roid Seeker                             New Earth
+Rockahaulic                             New Earth
+Starseeker's Beacon                     New Earth
+Kalina                                  The Torus (Dock Alpha)
+The Annexation Of Barnham's Redoubt     AFW Command (Dock Three)
+Star Constructor                        New Earth
+Under Construction                      New Earth
+Starseekers Spare Parts                 New Earth
+Unicorn                                 The Torus (Dock Alpha)
+Segue                                   Chetumal
+Justen Moon                             The Torus (Dock Alpha)
+Happy                                   The Torus (Dock Alpha)
+Building Capital                        The Torus (Dock Alpha)
+Concertoed Effort                       Old Earth
+Raging Seas                             The Torus (Dock Alpha)
+Ocean Of Diamonds                       New Earth
+The Wolves Have Claws                   Old Earth
+Praying Mantis                          The Torus (Dock Alpha)
+Libertarians Station Transport Alpha    Old Earth
+Construction Zone                       Chetumal
+Effervescent Zephyr                     Chetumal
+Bari Fighter                            New Earth
+Chasing Turtles                         New Earth
+Starfish                                New Earth
+Annie                                   The Torus (Dock Alpha)
+Bonzai Trout                            New Earth
+Haven Of Plenty                         The Torus (Dock Alpha)
+Albatross                               New Earth
+Albatross                               New Earth
+RUNE Module Hauler                      AFW Command (Dock One)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Celestial Explorer                      The Torus (Dock Alpha)
+Herding Cats                            New Earth
+Future Crimes                           Old Earth
+Thunder And Lightning                   New Earth
+Edified Cooperation                     The Torus (Dock Alpha)
+Ensemble                                The Torus (Dock Alpha)
+Defensive Dissidence                    The Torus (Dock Alpha)
+Note: Not all spaceports possess the starship locator function.
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Nice Galkit poster for
+my Organization's office! Or hmm maybe I'll put it in our conference room."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Tactical Communication] Michael Kennedy transmits, "2 for missions in let's say
+5 minutes?"
+[Tactical Communication] Hank Marvelstine transmits, "Ok pick me for shooting
+things."
+[Tactical Communication] Michael Kennedy transmits, "1 more?"
+[Tactical Communication] Michael Kennedy transmits, "But yeah, one for these
+missions?"
+[Tactical Communication] Ather Jammoa transmits, "Do you have an engineer?"
+[Tactical Communication] Michael Kennedy transmits, "I can make it available
+just for this moment!"
+[Tactical Communication] Ather Jammoa transmits, "Then you have your one."
+[Tactical Communication] Ather Jammoa transmits, "I am flying to chetumal."
+[Tactical Communication] Michael Kennedy transmits, "Stay clear of tannhauser
+gate, thanks!"
+[Tactical Communication] Michael Kennedy transmits, "Forgot to say, tanhauser
+gate clear."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A metallic silver metachannel FTL communicator dings quietly as it receives a
+new notice.
+read comm
+You glance at your communicator's screen.
+There are pending large credit transfers that require processing. You can view
+them at your civilian liaison terminal.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: As a pilot you want both license points and credits, but most activities
+focus on one or the other.
+**
+ There are pending large credit transfers that require processing. You can view
+them at your civilian liaison terminal.
+**
+quit
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Feb 22 17:48:16 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanasz
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Invalid ID or password.
+Did you forget your ID or password? Go here and choose the appropriate option:
+http://moo.squidsoft.net:3333
+Account ID:
+siekanasz
+Password: 
+EOF-0601
+Invalid ID or password.
+Did you forget your ID or password? Go here and choose the appropriate option:
+http://moo.squidsoft.net:3333
+Account ID:
+#zap
+[0m#ZZZZZZZAAAAAAAAPPPP!!!!!!!!! LET'S GET OUTTA HERE!!!!!!!![0m
+[0m#SESSION 'StarConquest' DIED.[0m
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Feb 22 17:48:16 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at Space Market.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+**
+launch
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: Have a problem or a question? Use the SUPPORT command to communicate with
+the staff!
+**
+You begin the launch sequence.
+m the torus
+I don't understand that.
+Try this instead:  min
+move
+AutoStar detects 4 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] The Torus (Dock Alpha)                                  
+[2] The Torus (Dock Beta)                                   
+[3] The Torus (Dock Gamma)                                  
+[4] The Torus (Dock Delta)                                  
+   Space Markets:
+[5] Space Market                                            
+   Debris:
+[6] Debris (nearest)                                        
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+The computer reports that the two-person medium transport "Registered Merchant
+237" has launched from The Torus (Dock Alpha).
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Deadly Strike. The EAOS welcomes you under the non-aggression pact."
+power
+The computer informs you that you have mail waiting, which may be picked up at
+New Earth; Spaceport Mail Room.
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+d
+[The Torus; Dock Alpha]
+The one-person bastille "Creativity Is Overrated" and the two-person flare
+"Deadly Strike" are landed here.
+You see an automatic teller machine here.
+You can go north and down.
+[The Torus; Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a small mystic purple bioplastic crate
+here.
+You can go out and enter into the ship.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and red
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders and a gold ornament etched with the year 2317, a black plastic
+tray of spider chow, a small dusky pink trash bin, Magellan the arachnoid
+security robot, and Purr the humanoid service robot here.
+You can go south and out.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, and a black
+plastic tray of spider chow here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Observation Deck]
+s
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, a black plastic tray of spider chow, Shine the big white
+glowing felo, Sunshine the light yellow long-haired felo kitten, a hairy yellow
+eight-legged ArachnoPal named Higgins, and a Tardick lizard named Asteria here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it, and a pair of
+white leather clogs with a row of glittery fireflies across the toes here.
+You can go out.
+out
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, a black plastic tray of spider chow, Shine the big white
+glowing felo, Sunshine the light yellow long-haired felo kitten, a hairy yellow
+eight-legged ArachnoPal named Higgins, and a Tardick lizard named Asteria here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, and a black
+plastic tray of spider chow here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and red
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders and a gold ornament etched with the year 2317, a black plastic
+tray of spider chow, a small dusky pink trash bin, Magellan the arachnoid
+security robot, and Purr the humanoid service robot here.
+You can go south and out.
+n
+You can't go that way.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+who
+There appear to be about 17 pilots recently active.
+The communicator network and Accord QE comm detect:
+Shule Elemmire  (A) [m]
+Jacob Shields  (A)
+Ather Jammoa  (A) [am]
+Lily Kaise  (A)
+%Erik Goodwin  (L)
+%Ramona Kamowitz  (L) [cr]
+%Katina Faye  (L)
+%Wendy Arroyo  (L)
+%Damien Goss  (L)
+%Melinda Michaels  (L)
+%Morris Corlew  (L)
+%Nissi Valdaire  (L) [a]
+Lorenah Mayfield  (F) [c]
+Michael Kennedy  (F)
+%Kani Kahakai  (F)
+%Ted Warburton  (F)
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 11 pilots who were active but
+dropped out of communications.
+Additionally, there are 16 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 33 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a small mystic purple bioplastic crate
+here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+launch
+The navigation systems are nonfunctional until their power is restored.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+ftl new
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+Via general sector communication, New Earth transmits, "Hello there, Deadly
+Strike! Welcome to home space!"
+The computer reports that the three-person clipper "Obliteration" has landed on
+the planet New Earth.
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                                               
+   Space Stations:
+[2] Space Station Alpha                                     
+   Space Markets:
+[3] Space Market                                            
+--
+Enter your destination:
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "Hello, Deadly Strike. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+The computer informs you that you have mail waiting, which may be picked up at
+New Earth; Spaceport Mail Room.
+#var Volume[ComputerVoice] 0.33
+[0m#OK. VARIABLE {Volume[ComputerVoice]} HAS BEEN SET TO {0.33}.[0m
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+[Starship "Deadly Strike"; Airlock]
+out
+You can go out and enter into the ship.
+You exit the ship.
+out
+[New Earth; Spaceport Landing Pad]
+The three-person clipper "Obliteration" and the two-person flare "Deadly Strike"
+are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+You can't go that way.
+out
+You can't go that way.
+out
+You can't go that way.
+se
+You can't go that way.
+e
+You can't go that way.
+se
+You can't go that way.
+w
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+w
+[New Earth; Spaceport East]
+w
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport East]
+se
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+[New Earth; Spaceport Mail Room]
+You can go northwest and down.
+check
+The postal machine informs you that you have mail waiting.  After some movements
+coming from the back room, the conveyor belt coming from the wall swiftly brings
+forth a sheet of purple paper. You quickly grab it off the belt.
+read paper
+--
+Hey Love,
+I'm rather ... baffled! when you spoke to me over the Org channel, i was in the
+midst of taking care of the rare business that I do over on New Earth. I went to
+check my office. Then, I kept getting these notifications on my Comm about large
+monitary transfers. I'm surprised you didn't see those as well. Ather has been
+dealing with others lately to obtain Golden tael and various other items. If a
+transaction is 100 million or more now, it has to be approved by one of us who
+have a liaison position. Then Ather was discussing with Jacob where to asteroid
+haul and 285 and we had a discussion, concerning the next AEU BAS and things. So
+I'm so sorry that I missed you and since we were speaking on the Org channel I
+didn't think you wanted to talk by phone too? Anyway, Ather hadn't added me back
+to Invader's Warehouse and it seems he didn't have access to SEAS so I reset his
+access. All this to say that I took care of a number of items , went to look in
+on the Range office as I have to build both the Salvage and BAS today and now
+I'll be going out to 285 and establishing an AEU Asteroid Processor as well.
+When I mentioned to Ather that we would have to access the accelerators
+established by the other organizations which could create issues, Ather said he
+would be willing to share with them so as it happens, we were just connecting on
+aspects which are for the benefit of AEU pilots as we had the opportunity to do
+so. Then I came back to Dove and you were not there ??? I tried to locate your
+Flare and I'm Baffled as to why you are somewhere that I am unable to locate it
+as I went to all AEU Sectors as I wanted to see you Love.
+I sure pray that you are all right?
+I'll be back in Dove until i have to go out and put stations together when I
+wake up.
+I love you,
+Lily
+--
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+tr org Hi love. Sorry, I didn't mean to hide from you. I was just in my Flare. I
+forgot to bring it back to The Torus
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Hi love. Sorry, I
+didn't mean to hide from you. I was just in my Flare. I forgot to bring it back
+to The Torus."
+nw
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+trash paper
+You crumple up a sheet of purple paper and throw it in a nearby garbage can.
+e
+e
+[New Earth; Spaceport East]
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport Bridge]
+You see a trash can, a long white plasteel bench, and a sanitation drone here.
+You can go east and west.
+e
+[New Earth; Spaceport Landing Pad]
+The three-person clipper "Obliteration" is landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+e
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+Board what?
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+sit chair
+You sit down on an overstuffed dark green chair.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oh my but where was
+it? I searched all over?"
+tr org I went to go look at the space market. I was at the one near the The
+Torus.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "I went to go look
+at the space market. I was at the one near the The Torus."
+[Space Explorers Amidst The Stars] Lily Kaise chuckles.
+tr org So sorry love.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "So sorry love."
+tr org ?I wanted to see you too!
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "?I wanted to see
+you too!"
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "You know I almost went
+there and I thought you might have added it to your pone so... last place!
+imaginable and I was so close!"
+tr org Awww, you were so close!
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Awww, you were so
+close!"
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Ok just resetting
+robots which I try to do around the first of each month so couple days late but
+good enough!"
+tr org Ah ok. I'm over at New Earth, but I can come back to The Torus if you'd
+like.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Ah ok. I'm over at
+New Earth, but I can come back to The Torus if you'd like."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oh I can go over
+there. In a few hours, the Salvage station will go offline but I think I'll just
+put that and the new BAS up at same time. I did put up the Asteroid processor.
+I'm sure we'll see fireworks from League but they don't own 285."
+tr org No they don't own it, but they sure act like they do sometimes.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "No they don't own
+it, but they sure act like they do sometimes."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Heh no kidding!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I think I will put a
+salvage station in 777 and know what, Kim almost suggest I do that but we'll
+sponsor one first and if starseekers wants in or maybe if it can work on a large
+battery, I'll use one of the batteries we share and that way Starseekers gets
+some action without investing in a more advanced processor."
+tr org Ok, sounds like a plan.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Ok, sounds like a
+plan."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oh I can go over
+there. In a few hours, the Salvage station will go offline but I think I'll just
+put that and the new BAS up at same time. I did put up the Asteroid processor.
+I'm sure we'll see fireworks from League but they don't own 285o."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oops."
+tr org chuckle
+[Space Explorers Amidst The Stars] Shule Elemmire chuckles.
+[Space Explorers Amidst The Stars] Lily Kaise chuckles.
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Feb 22 17:48:16 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+Lily Kaise is Sitting on your lap with her arms around you.
+You can go east, southeast, and out.
+(You are sitting on an overstuffed dark green chair.)
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: Is someone you just met asking for your Skype or Twitter information? Just
+say "No thanks!" Roleplaying can't occur outside of the game!
+**
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+Lily Kaise is Sitting on your lap with her arms around you.
+You can go east, southeast, and out.
+(You are sitting on an overstuffed dark green chair.)
+kiss lily
+You kiss Lily Kaise.
+beam lily
+You beam at Lily Kaise.
+Lily Kaise kisses you.
+-lily Hi my love.
+You say to Lily Kaise, "Hi my love."
+Lily Kaise says to you, "Hey Love."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+smile lily
+You smile at Lily Kaise.
+who
+There appear to be about 18 pilots recently active.
+The communicator network and Accord QE comm detect:
+Shule Elemmire  (A) [m]
+Jacob Shields  (A)
+Alistair Krumb  (A) [c]
+Ather Jammoa  (A) [am]
+Lily Kaise  (A)
+Ali Candan  (L)
+%Wendy Arroyo  (L)
+%Ramona Kamowitz  (L) [cr]
+%Katina Faye  (L)
+%Damien Goss  (L)
+%Melinda Michaels  (L)
+%Morris Corlew  (L)
+%Nissi Valdaire  (L) [a]
+Lorenah Mayfield  (F) [c]
+Michael Kennedy  (F)
+Hank Marvelstine  (F)
+%Kani Kahakai  (F)
+%Ted Warburton  (F)
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 9 pilots who were active but
+dropped out of communications.
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 33 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Lily Kaise beams at you.
+Lily Kaise says, "Did you find anything interesting on the market? I bought a
+GalKit Poster. It probably wasn't ever that expensive but I collect anything
+GalKit I can find."
+Lily Kaise grins.
+Lily Kaise says, "I hung it in our org conference room."
+Lily Kaise navigates her metallic gold touch einrophone to a market application
+and peers at the screen.
+'I didn't find anything I wanted, but that's cool what you found!
+You exclaim, "I didn't find anything I wanted, but that's cool what you found!"
+grin lily
+You grin at Lily Kaise.
+Lily Kaise says, "Sure wish someone would put lenses up there."
+'me too.
+You say, "Me too."
+Lily Kaise exclaims, "Ather paid 150 mil for one so be prepared!"
+Lily Kaise says, "I'd pay that though to get the 5 I need."
+'me too.'That's fine. I can definitely afford it.
+You say, "Me too.'That's fine. I can definitely afford it."
+Lily Kaise nods.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Hey everyone. I ran of
+room in the announcement to state that there is a 7 million credits toll when
+you go to alpha 285. However you'll earn that in hauling an asteroid."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "That'll be fun to
+pay if you don't have that much to start with. Ah well."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Guess I better start
+busting my ass again."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Well don't bust your
+ass!"
+Lily Kaise keys her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise laughs.
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "I don't have a
+choice."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "I signed on for this
+pilot thing with the agreement that I'd bust my ass to get cash."
+Lily Kaise says, "I'm going to send him a stipend which I general y do for our
+new pilots when they are no longer a cadet."
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+Lily Kaise stops Sitting on your lap with her arms around you.
+Lily Kaise laughs.
+Lily Kaise says, "Be right back."
+Lily Kaise glides out.
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Sorry, kind of in
+one of those moods where you're just like "fuck you, universe". It's gonna be
+one hell of a fun day, I think."
+tr 1 We all have those days.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "We all have those
+days."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Indeed."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Which is exactly why
+it's not worth me complaining about it to you fine folks. True you might have
+those days sometimes, but that in no way requires you to be sympathetic about
+it. Right. Shutting up now."
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in OOC/General/SC.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Lily Kaise just entered the ship.
+Lily Kaise sits down on your lap.
+Lily Kaise grins.
+grin lily
+You grin at Lily Kaise.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Thanks for the
+package, lily!"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "You are most welcome
+Jacob."
+`beam lily
+Say to whom?
+beam lily
+You beam at Lily Kaise.
+-lily Watch him start to have a crush on you because of that package.
+You say to Lily, "Watch him start to have a crush on you because of that
+package."
+laugh
+You laugh.
+Lily Kaise exclaims, "He can just do that!"
+Lily Kaise laughs at you.
+Lily Kaise exclaims, "But yours is more important!"
+laugh
+You laugh.
+Lily Kaise says, "I just sent him the usual that I try to send most new pilots."
+Lily Kaise says, "Some credits, basic books and a charge booster, tem drive and
+repair kit."
+smile lily
+You smile at Lily Kaise.
+-lily Don't worry. I trust  you my love.
+You say to Lily, "Don't worry. I trust you my love."
+Lily says to you, "I don't have time to be with anyone else but even if I did,
+our time is more valuable. I love you and nobody else."
+-lily Same here. I love you and only you.
+You say to Lily, "Same here. I love you and only you."
+Lily Kaise beams at you.
+beam lily
+You beam at Lily Kaise.
+Lily Kaise exclaims, "Heh I just pictured you were in one of Evenia's secret
+hideaways!"
+Lily Kaise chuckles.
+laugh
+You laugh.
+'Yeah right!
+You exclaim, "Yeah right!"
+Lily Kaise smirks.
+'She'll never touch me like that!
+You exclaim, "She'll never touch me like that!"
+Lily Kaise says, "Naa I understand. Had to tease you."
+laugh 'I know.
+You laugh. "I know."
+-lily If I did do that and you found out, I'm sure I'd lose you so fast I
+wouldn't know what hit me and I never want to lose you.
+You say to Lily, "If I did do that and you found out, I'm sure I'd lose you so
+fast I wouldn't know what hit me and I never want to lose you."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Anyone want to help
+clear the old frontier processor?"
+Lily Kaise says, "Well I'd try to give you a second chance... but if you did it
+again, then I'd know you really didn't want to be with me anymore."
+'I don't have time to help with that right now. Sorry
+You say, "I don't have time to help with that right now. Sorry."
+Lily Kaise exclaims, "Well a first chance, not a second!"
+nod lily
+You nod to Lily Kaise.
+Lily Kaise laughs.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I could if we get
+enough willing victims."
+tr 1 I would love to, but I don't have time to help with that right now.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "I would love to,
+but I don't have time to help with that right now."
+'And espeically Evenia. She's into like extreme pain and stuff.
+You say, "And espeically Evenia. She's into like extreme pain and stuff."
+[Tactical Communication] Ather Jammoa transmits, "Looking for people who are
+willing to help clear the old frontier processor! EAOS battlesuits are
+definitely preferred. RATS are alright too, Fringe will be made to work."
+'especially
+You say, "Especially."
+[Tactical Communication] Joel Kringle transmits, "I think I'm available."
+Lily Kaise says, "Wow yeah that is jsut odd."
+[Tactical Communication] Hank Marvelstine transmits, "I can bring fringe."
+[Tactical Communication] Lorenah Mayfield transmits, "I don't have any of those,
+but if you want me, I'll be there."
+Lily Kaise wraps her arms around you, pulling you close.
+[Tactical Communication] Hank Marvelstine transmits, "Be glad to help out."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+chuckle 'Yeah, can you imagine me wanting to whip someone? Ugh!
+"Yeah, can you imagine me wanting to whip someone?" You chuckle. "Ugh!"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I can bring the monk as
+I can repair in that or oh wait you'd prob want the aEU so I can burn."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Yeah, I was going to
+put you in the AEU suit, honestly."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I was rather surprised
+not to see at least minor restorative cloud in the bruiser. I put one together
+but it's just a... um Bruiser!"
+'Me who won't even pat your butt anmore whipping someone, yeah right.
+You say, "Me who won't even pat your butt anmore whipping someone, yeah right."
+Lily Kaise keys her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise laughs.
+Lily Kaise says, "Ok Love, off to go help out."
+Lily Kaise kisses you.
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "I have not done this
+in ages, but I suppose I could bring my eaos tier 3."
+Lily Kaise stands up from your lap.
+Lily Kaise glides out.
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "That'll work."
+tr org Good luck and have fun.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Good luck and have
+fun."
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+read comm
+You glance at your communicator's screen.
+Notice from the Ground Squad Leader: Greetings! Invaders, SEAS and Starseekers
+have established an AEU only Asteroid Processing station in Asteroid Alpha 285.
+To go to this area, jump to Belt of Orion, then press the TRAVEL button from the
+Starship's Control Room and 285. Hunt for an asteroid and be careful to HAUL to
+the AEU Asteroid station. When you want to leave the area, in order to receive
+payout, after hauling the last asteroid, exit your Asteroid Hauler and go up
+into the Control Room of the Asteroid Processing station and press the TRANSFER
+button. Next, return to your Asteroid Hauler and launch. Finally from your
+Starship's Control Room, press the TRAVEL button and 286 for Home Alpha 286.
+This will autotravel your Asteroid Hauler to one Sector West of Belt of Orion
+and if you do nothing after entering this sector, your starship will
+autonavigate back to Belt of Orion where you may then fly to another location of
+your chosing. Be safe! And fight hard on the ground! [13:16  3 March 2318 GST]
+You have one mail message.
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+out
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+[Starship "Deadly Strike"; Airlock]
+out
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+You can't go that way.
+u
+[New Earth; Spaceport Landing Pad]
+The two-person medium transport "Registered Merchant 043" is landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+w
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+[New Earth; Spaceport East]
+w
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+se
+[New Earth; Spaceport Mail Room]
+You can go northwest and down.
+check
+The postal machine informs you that you have no mail waiting.
+nw
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+e
+[New Earth; Spaceport East]
+e
+You can go northeast, east, southeast, south, southwest, and west.
+e
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+e
+[New Earth; Spaceport Landing Pad]
+The two-person medium transport "Registered Merchant 043" is landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+enter
+You can go out and enter into the ship.
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+sit sofa
+I can't find "sofa."
+sit chair
+You sit down on an overstuffed dark green chair.
+out
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter fear
+Board what?
+enter dead
+enter
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+launch
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you have clearance to
+launch. Good luck and come back to us safely."
+ftl the torus
+The computer reports that the two-person medium transport "Registered Merchant
+043" has jumped out of the sector.
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, The Torus transmits, "Greetings, Deadly
+Strike! Welcome to The Torus!"
+move
+AutoStar detects 4 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] The Torus (Dock Alpha)                                  
+[2] The Torus (Dock Beta)                                   
+[3] The Torus (Dock Gamma)                                  
+[4] The Torus (Dock Delta)                                  
+   Space Markets:
+[5] Space Market                                            
+   Debris:
+[6] Debris (nearest)                                        
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+#var Volume[ComputerVoice] 0.33
+[0m#OK. VARIABLE {Volume[ComputerVoice]} HAS BEEN SET TO {0.33}.[0m
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Deadly Strike. The EAOS welcomes you under the non-aggression pact."
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Dock Alpha]
+The one-person bastille "Creativity Is Overrated" and the two-person flare
+"Deadly Strike" are landed here.
+You see an automatic teller machine here.
+You can go north and down.
+d
+[The Torus; Garage]
+You can go up.
+enter fearl
+[Starship "Fearless"; Airlock]
+You can go out and enter into the ship.
+Your battlesuit is automatically transferred to battlesuit storage aboard this
+ship.
+enter
+[Starship "Fearless"; Control Room]
+You see a black leather captain's chair, a discount beacon launcher, a wormhole
+drive tracer, and a greater minimodule of gravitic boost here.
+You can go up and out.
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+[AEU | 4: Sector Status] A space station chief technician transmits, "Old
+Frontier Processor's vents are now relatively clear. Won't last longer than a
+few days, but we're going off lockdown for now."
+tr 1 cheer
+[AEU | 1: Alliance Communication] Shule Elemmire cheers.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I went for your Flare
+and you left!"
+[Space Explorers Amidst The Stars] Lily Kaise laughs.
+tr org laugh 
+[Space Explorers Amidst The Stars] Shule Elemmire laughs.
+tr org I'm in Fearless.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "I'm in Fearless."
+out
+[Starship "Fearless"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You can go up.
+Your battlesuit is automatically transferred to the spaceport.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+enter
+Board what?
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+sit chair
+You sit down on an overstuffed dark green chair.
+A voice comes over the speaker and says, "Deadly Strike, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+ftl frontier cluster
+Once a valuable source for raw materials on the edge of Known Space, this area
+is now fully mapped and lined with beacons.
+Dark asteroids tumble lazily through the emptiness of space.
+Via general sector communication, Old Frontier Processor transmits, "Hello
+there, Deadly Strike! Welcome to home space!"
+move
+AutoStar detects 13 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] Old Frontier Processor                                  
+   Debris:
+[2] Debris (nearest)                                        
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Old Frontier Processor.
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "Hello, Deadly Strike. We read your AEU
+transponder. You are cleared to land."
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+peer out
+You peer out...
+[Old Frontier Processor; Docking Bay]
+The hydraulics for the airlocks lining the long side of this spacious docking
+bay run quietly and efficiently, transporting each newly docked ship to an
+individual berth outlined with square white lights above and below. The nearly
+seamless walls and floor are constructed of light gray metal with signs and
+hatchways accented in dark green. Though few people are about, it seems a very
+well built and maintained station.
+The two-person flare "Deadly Strike" is landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+read comm
+You glance at your communicator's screen.
+Notice from the Ground Squad Leader: Greetings! Old Frontier Station in Frontier
+Cluster is once again cleansed of Bari for a few more days. Enjoy a drink in the
+Star Lounge, a few Starship Upgrades and the best Asteroid Mining available to
+AEU Pilots.. Thanks to Ather Jammoa and others who performed this unsightly
+work! [17:11  3 March 2318 GST]
+peer out
+You peer out...
+[Old Frontier Processor; Docking Bay]
+The hydraulics for the airlocks lining the long side of this spacious docking
+bay run quietly and efficiently, transporting each newly docked ship to an
+individual berth outlined with square white lights above and below. The nearly
+seamless walls and floor are constructed of light gray metal with signs and
+hatchways accented in dark green. Though few people are about, it seems a very
+well built and maintained station.
+The two-person flare "Deadly Strike" and the two-person Accord gemini "Starfish"
+are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+out
+You scramble to your feet.
+out
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+You exit the ship.
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike" and the two-person Accord gemini "Starfish"
+are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+s
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt,
+and a small natural golden brown trash bin here.
+You can go north.
+sit couch
+You sit down on a large leather couch.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise kisses you.
+Lily Kaise smiles.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise sits down on a large leather couch.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+kisslily
+I don't understand that.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+-lily Hi love.
+You say to Lily, "Hi love."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+n
+You scramble to your feet.
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike" and the two-person Accord gemini "Starfish"
+are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+u
+[Old Frontier Processor; Space Invaders Lounge]
+You can go down.
+list
+    ~|~  Space Invaders Star Lounge  ~|~
+     [1] Cup Of Hot Black Coffee                                     20.00
+     [2] Cup Of Hot Cafe Au Lait                                     20.00
+     [3] Cup Of Hot Black Tea                                        20.00
+     [4] Cup Of Hot Earl Grey                                        20.00
+     [5] Steaming Cup Of Breakfast Tea With A Dash Of Cream          20.00
+     [6] Steaming Cup Of Foamy Hot Chocolate                         20.00
+     [7] Frosty Glass Of Grape Soda                                  20.00
+     [8] Frosty Glass Of Rootbeer                                    20.00
+     [9] Glass Of Fizzy Cola                                         20.00
+    [10] Bottle Of Water                                             20.00
+    [11] Shot Of Amaretto                                            20.00
+    [12] Shot Of Brandy                                              20.00
+    [13] Vodka Martini                                               20.00
+    [14] Whiskey Sour                                                20.00
+    [15] Shot Of Sparkling Goldschlager                              20.00
+    [16] Shot Of Sweet Vermouth                                      20.00
+    [17] Glass Of Red Wine                                           20.00
+    [18] Shot Of Whiskey                                             20.00
+    [19] Shot Of Rum                                                 20.00
+    [20] Shot Of Tequila                                             20.00
+    [21] Shot Of Gin                                                 20.00
+    [22] Frosty Mug Of Cava Light Ale                                20.00
+    [23] Cold Mug Of Cava Dark Ale                                   20.00
+    [24] Goblet Of Layered Endymion Sunrise                          20.00
+    [25] Mug Of Water                                                20.00
+    [26] Frosty Mug Of AEU Ale                                       20.00
+    [27] Mug Of Fringe Special Dark Lager                            20.00
+    [28] Pina Colada                                                 20.00
+    [29] Bottle Of Smooth Hyperion Lager                             20.00
+    [30] Bottle Of Crisp Hyperion Ale                                20.00
+    [31] Tall Gin And Tonic                                          20.00
+    [32] Phial Of Meditative Liquid                                  20.00
+    [33] Pink Cadillac                                               20.00
+    [34] Tall Louisville Cooler                                      20.00
+    [35] Cup Of Bubbly Champagne Punch                               20.00
+    [36] Frosted Mug Of Feng Wo Bubbly Rice Beer                     20.00
+    [37] Cool Mug Of Feng Wo Dark                                    20.00
+buy 28
+You order a pina colada.
+\d
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike" and the two-person Accord gemini "Starfish"
+are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+s
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt,
+and a small natural golden brown trash bin here.
+You can go north.
+sit sofa
+I can't find "sofa."
+sit couch
+You sit down on a large leather couch.
+Lily Kaise removes her virtual reality suit.
+drink pina
+You take a sip of a pina colada.
+cuddle lily
+Lily Kaise grins at you.
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Ather Jammoa strides in from the north.
+Ather Jammoa says, "Bah."
+Lily Kaise waves to Ather Jammoa.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+drink pina
+You take a sip of a pina colada.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+drink pina
+You take a sip of a pina colada.
+drink pina
+You take a sip of a pina colada.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+drink pina
+You finish off a pina colada.
+Ather Jammoa removes his virtual reality suit.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+put glass in trash
+You put a glass in a small natural golden brown trash bin.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+[AEU | 4: Sector Status] AEU Salvage Processing Nuclear Temporary Station at
+Exploration Waypoint 07410 is now on emergency power.
+Ather Jammoa removes his virtual reality suit.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+Lily Kaise says, "Grr bugs me when I forget to turn processing back on."
+Lily Kaise says, "Could have had that other side built."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise grins.
+'aww
+Lily Kaise says, "Oh ok wasn't sure whose it was."
+You say, "Aww."
+grin lily
+You grin at Lily Kaise.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Ather Jammoa removes his virtual reality suit.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+cuddle lily
+You cuddle up to Lily Kaise.
+l
+[Old Frontier Processor; Asteroid Mining]
+This room appears to be a control center from which one can control drone
+operations at remote mining sites. There appear to be several dents in the wall.
+You see a large leather couch, a coffee table of highly polished lunar basalt,
+and a small natural golden brown trash bin here.
+Lily Kaise is standing here.
+You can go north.
+(You are sitting on a large leather couch.)
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise says, "Yay just one more building."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise sits down on a large leather couch.
+cudle lily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Ather Jammoa removes his virtual reality suit.
+wave ather
+You wave to Ather Jammoa.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+Ather Jammoa removes his virtual reality suit.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+Lily Kaise says, "Oh yay so far none solen but only 13 percent so."
+Lily Kaise navigates her metallic gold touch einrophone to a market application
+and peers at the screen.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/Trading.
+Ather Jammoa removes his virtual reality suit.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+Ather Jammoa removes his virtual reality suit.
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+Lily Kaise exclaims, "I will get my cannon built someday!"
+Lily Kaise says, "And you your Arachnoid."
+Ather Jammoa removes his virtual reality suit.
+Lily Kaise exclaims, "Die poachers die!"
+Lily Kaise says, "Jerks."
+Lily Kaise says, "They stole 36 in one hit but that's all so far."
+Lily Kaise says, "Oh 51 but have 201 in wrecks."
+Ather Jammoa retrieves a virtual reality suit and puts it on.
+Ather Jammoa removes his virtual reality suit.
+grin lily
+You grin at Lily Kaise.
+wave ather
+You wave to Ather Jammoa.
+[AEU | 4: Sector Status] AEU Salvage Processing Nuclear Temporary Station at
+Exploration Waypoint 07410 is shutting down.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I'll replace it with
+the BAS a bit later."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+squeeze lily
+You squeeze Lily Kaise affectionately.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+l
+[Old Frontier Processor; Asteroid Mining]
+This room appears to be a control center from which one can control drone
+operations at remote mining sites. There appear to be several dents in the wall.
+You see a large leather couch, a coffee table of highly polished lunar basalt,
+and a small natural golden brown trash bin here.
+Lily Kaise is sitting on a large leather couch. Ather Jammoa is standing here.
+You can go north.
+(You are sitting on a large leather couch.)
+cudle lily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily Kaise.
+[Tactical Communication] Michael Kennedy transmits, "Beacons? Nests?"
+[Tactical Communication] Marcellus Freeman transmits, "Sure in a few."
+Ather Jammoa strides north.
+Ather Jammoa strides in from the north.
+Ather Jammoa says into his metallic blue metachannel FTL communicator, "All the
+nests."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Hey everybody."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Hey."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Ooh, frontier is
+open."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "We have an asteroid
+processor in 285 now if you like to haul Constantine."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Ah, nice."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I don't do a
+lot of hauling but maybe I'll check it out sometime."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Oh, I've got
+some lenses Lily."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Are you
+interested in buying them? I think I have 7 or so."
+tr org Oh you do? I need lenses.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Oh you do? I need
+lenses."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I will put the salvage
+processor back up with a new BAS in the morning."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Ah, okay."
+Ather Jammoa says to you, "If you want to do lenses, then why don't all four of
+us just do superior high-tier nests."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "What do they go
+for?"
+-ather We should, but I am only going to be around for another 25 minutes.
+You say to Ather Jammoa, "We should, but I am only going to be around for
+another 25 minutes."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I'm not a fan of high
+tier nests and lenses are rare anyway. You generally do better with killing
+Ifs."
+Ather Jammoa says, "I thought you two would have been done long before me."
+Lily Kaise laughs.
+Lily Kaise says, "I had like 50k on this silly site and I'm lazy."
+'I didn't do a site. I'm just here keeping Lily company.
+You say, "I didn't do a site. I'm just here keeping Lily company."
+Ather says to Lily, "Well yes, but you started n."
+Ather Jammoa exclaims, "An hour before me!"
+Ather Jammoa says, "Oh well, if there are no nests, I shall wander off."
+Lily Kaise says, "Yeah which I don't get because if you're just sitting
+around..."
+Ather Jammoa strides north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 76,781,517.89 AEU credits.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise squeezes you affectionately.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise kisses you.
+Lily Kaise says, "Oops."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise squeezes you affectionately.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+[Tactical Communication] Michael Kennedy transmits, "Ok trying this again,
+beacons?"
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+[Tactical Communication] Hank Marvelstine transmits, "Maybe."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+kiss lily
+I don't see "lily" here.
+Lily Kaise removes her virtual reality suit.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise sits down on a large leather couch.
+[Tactical Communication] Hank Marvelstine transmits, "No beacons either?"
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you.
+caress lily on back
+You gently caress Lily Kaise's back.
+Lily gently rubs your back.
+Lily Kaise smiles at you.
+Lily Kaise says, "My second one is underway1."
+Lily Kaise says, "It's a radioactive."
+grin lily
+You grin at Lily Kaise.
+-lily Nice!
+You say to Lily, "Nice!"
+Lily Kaise says, "Yep."
+Lily Kaise says, "I earned nearly 400 mil on the first. Gave about 76 mil to the
+org but still got a nice payout."
+cheer lily
+You cheer for Lily Kaise!
+Lily Kaise grins at you.
+Lily says to you, "You are missing out Love!"
+grin 'But I get to spend time with you.
+You grin. "But I get to spend time with you."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Howdy all."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Tood morning jacob."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Um good morning that
+is."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "What's happening
+over there?"
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+-lily I love you.
+You say to Lily, "I love you."
+Lily says to you, "I love you too!"
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+stop
+I don't understand that.
+[Tactical Communication] Michael Kennedy transmits, "One for beacons?"
+[Tactical Communication] Kert On'Marr transmits, "Me."
+[Tactical Communication] Michael Kennedy transmits, "Chet then."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "So if I don't have a
+rift drive on my hauler, I assume I couldn't use the beacon at 285. Am I right?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "There are special rift
+inserters to assist with starships which aren't equipped with a rift drive."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I thought the one to
+285 has one but not to 287."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Oh. I'm in the belt
+of orion now. So just use autopilot to find that beacon?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "No just press the
+TRAVEL button or the FTL button so you would press TRAVEL 285 together."
+smile kat
+I don't see that here.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at AEU Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Birdsong". The organization has earned
+228,750.30 credits.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Way to go!"
+tr 1 cheer
+[AEU | 1: Alliance Communication] Shule Elemmire cheers.
+tr 1 haul those asteroids!
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Haul those
+asteroids!"
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Thanks! Might do
+another one next. Anyone wanna join me? Doing it solo takes a lot of time."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "If it were earlier in
+in my wake cycle I would but I'm in a pretty lazy mode currently."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Ah, I nderstand.
+I'll haul about two or three more and then call it a day I think."
+tr a 1 Yeah, I'll be heading to bed here in the not so distant future.
+Please enter a valid channel to transmit on.
+tr 1 Yeah, same here. I'll be heading to bed in the not so distant future.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Yeah, same here.
+I'll be heading to bed in the not so distant future."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Well at least haul
+enough to cover your toll and then some."
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Also ares warships
+are odd."
+Lily says to you, "We should haul some one morning."
+-lily You know I won't get jealous if you go haul with others when I'm not
+around.
+You say to Lily, "You know I won't get jealous if you go haul with others when
+I'm not around."
+Lily Kaise says, "I know."
+nod lily 'But yeah, we should.
+You nod to Lily Kaise. "But yeah, we should."
+Lily Kaise exclaims, "But you're my favorite hauling buddy!"
+Lily Kaise giggles at you.
+grin lily
+You grin at Lily Kaise.
+-lily You're my favorite buddy do do everything with!
+You say to Lily, "You're my favorite buddy do do everything with!"
+Lily Kaise says, "Or if you were to go out with jacob or one of our other new
+pilots, it would be fine."
+Lily Kaise says, "But yeah, we should haul some one morning."
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+-lily But I'll always prefer to do activities with you.
+You say to Lily, "But I'll always prefer to do activities with you."
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+Lily Kaise says, "Same here but it's good to help others."
+Lily Kaise smiles at you.
+smile lily 'Of course.
+You smile at Lily Kaise. "Of course."
+Lily Kaise smiles at you.
+Lily Kaise exclaims, "On the final phase of this site yay!"
+cheer lily
+You cheer for Lily Kaise!
+Lily Kaise grins at you.
+-lily You know, I still remember looking for you on beacons before we were
+dating.
+You say to Lily, "You know, I still remember looking for you on beacons before
+we were dating."
+Lily Kaise laughs.
+Lily Kaise says, "Wow."
+'well, on beacons and missions.
+You say, "Well, on beacons and missions."
+Lily Kaise says, "You stalker you."
+Lily Kaise laughs at you.
+laugh lily
+You laugh at Lily Kaise.
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+'Yeah, but I tried to to not let you notice.
+You say, "Yeah, but I tried to to not let you notice."
+Lily Kaise tickles you!
+Lily Kaise laughs.
+laugh
+You laugh.
+Lily Kaise grins at you.
+grin lily
+You grin at Lily Kaise.
+'I would just smile at you, hopeing you didn't figure it out.
+You say, "I would just smile at you, hopeing you didn't figure it out."
+Lily Kaise laughs.
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "So I believe my way
+back to kew earth would be 286. Am I right?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "That's right."
+tr 1 yep
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Yep."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Sweet. Just wanted
+to make sure I had the right beacon."
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Also those asteroid
+supply cannons have one hell of a recoil. Ouch. I think my chest is almost
+bruised."
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at AEU Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Birdsong". The organization has earned
+179,444.72 credits.
+Lily Kaise says, "Hopefully this is the last fight."
+Lily Kaise laughs.
+grin lily
+You grin at Lily Kaise.
+[Tactical Communication] Gonzales Bourne transmits, "1 one cruiser beacons?"
+[Tactical Communication] Gonzales Bourne transmits, "One for."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Hmm. I'm in the
+sector with beacon 286. Would I need to fly east to get back to the belt orion?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Or just wait as you
+will autonav to the sector."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "That's a fail. I've
+already stopped the ship. Do I ened to move to the beacon then?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Yep just go to 20 10 10
+or such and then switch to manual and pop into the sector."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 95,907,131.36 AEU credits.
+Lily Kaise stands up from a large leather couch.
+cheer lily
+You cheer for Lily Kaise!
+Lily Kaise grins at you.
+stand
+You stand up from a large leather couch.
+grin lily
+You grin at Lily Kaise.
+Lily says to you, "Meet you back at the torus?"
+'ok
+You say, "Ok."
+smile
+You smile.
+Lily Kaise smiles at you.
+Lily Kaise glides north.
+n
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike" and the two-person Accord gemini "Starfish"
+are landed here.
+You see an automatic teller machine here.
+Lily Kaise is standing here.
+You can go north, northeast, south, northwest, and up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+enter
+You can go out and enter into the ship.
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+launch
+The navigation systems are nonfunctional until their power is restored.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+launch
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you have clearance to
+launch. Good luck and come back to us safely."
+ftl the torus
+The ship is already moving.
+ftl the torus
+The ship is already moving.
+ftl the torus
+The ship is already moving.
+The computer reports that the two-person Accord gemini "Starfish" has launched
+from Old Frontier Processor.
+ftl the torus
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+move
+AutoStar detects 4 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] The Torus (Dock Alpha)                                  
+[2] The Torus (Dock Beta)                                   
+[3] The Torus (Dock Gamma)                                  
+[4] The Torus (Dock Delta)                                  
+   Space Markets:
+[5] Space Market                                            
+   Debris:
+[6] Debris (nearest)                                        
+--
+Enter your destination:
+Via general sector communication, The Torus transmits, "Greetings, Deadly
+Strike! Welcome to The Torus!"
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+The computer reports that the two-person Accord gemini "Starfish" has jumped
+into the sector.
+Via general sector communication, The Torus transmits, "Greetings, Starfish!
+Welcome to The Torus!"
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Deadly Strike. The EAOS welcomes you under the non-aggression pact."
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+out
+[Starship "Deadly Strike"; Airlock]
+out
+You can go out and enter into the ship.
+You exit the ship.
+[The Torus; Dock Alpha]
+The one-person bastille "Creativity Is Overrated", the two-person light
+transport "Registered Merchant 211", the two-person flare "Deadly Strike", and
+the two-person Accord gemini "Starfish" are landed here.
+You see an automatic teller machine here.
+Lily Kaise is standing here.
+You can go north and down.
+Lily Kaise glides down.
+d
+[The Torus; Garage]
+You see a large number of stored starships here.
+Lily Kaise is standing here.
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+enter
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a small mystic purple bioplastic crate
+here.
+You can go out and enter into the ship.
+Lily Kaise just boarded the ship.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and red
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders and a gold ornament etched with the year 2317, a black plastic
+tray of spider chow, a small dusky pink trash bin, Magellan the arachnoid
+security robot, and Purr the humanoid service robot here.
+You can go south and out.
+enter
+Board what?
+enter
+Board what?
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, and a black
+plastic tray of spider chow here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Observation Deck]
+s
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, a black plastic tray of spider chow, a Tardick lizard named
+Asteria, and a hairy yellow eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Living Quarters One]
+s
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it, a pair of white
+leather clogs with a row of glittery fireflies across the toes, and Shine the
+big white glowing felo here.
+You can go out.
+You can't go that way.
+sit bed
+You sit down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+out
+You scramble to your feet.
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, a black plastic tray of spider chow, a Tardick lizard named
+Asteria, and a hairy yellow eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+Lily Kaise glides in from the north.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise dangles a hot personal vegetable pizza in front of a Tardick lizard
+named Asteria. The lizard's tongue flicks out once, then its head lunges
+forward, snapping up the food in a sudden blur and immediately swallowing it
+whole.
+grin lily
+You grin at Lily Kaise.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it, a pair of white
+leather clogs with a row of glittery fireflies across the toes, and Shine the
+big white glowing felo here.
+You can go out.
+undress into suit
+You remove all of your clothing, placing it carefully in a small suitcase.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise glides in from the north.
+beam lily
+You beam at Lily Kaise.
+Lily Kaise strokes the soft fur of Shine the big white glowing felo.
+Shine the big white glowing felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet shine
+You stroke the soft fur of Shine the big white glowing felo.
+Shine the big white glowing felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+-lily I love you.
+You say to Lily, "I love you."
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily says to you, "I love you too!"
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Shine the big white glowing felo wanders out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins crouches down for a moment.
+A hairy yellow eight-legged ArachnoPal named Higgins works his fangs.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+-lily Night my love. Rest well and sweet dreams. 
+You say to Lily, "Night my love. Rest well and sweet dreams."
+Lily says to you, "Nite Love rest well ans sweet dreams."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+-lily Night.
+You say to Lily, "Night."
+Lily Kaise kisses you on the lips.
+smile lily
+You smile at Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise smiles at you.
+Lily says to you, "Nite love."
+-lily Night love.
+You say to Lily, "Night love."
+Lily Kaise says, "Sweet dreams and I hope you'll rest well."
+-lily Sweet dreams to you as well. And I hope you rest well too.
+You say to Lily, "Sweet dreams to you as well. And I hope you rest well too."
+Lily Kaise smiles at you.
+Lily says to you, "Nite."
+-lily Night.
+You say to Lily, "Night."
+smile lily
+You smile at Lily Kaise.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 4: Sector Status] AEU Battle-Scanning Nuclear Temporary Station at
+Exploration Waypoint 19437 is now on emergency power.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[AEU | 4: Sector Status] AEU Battle-Scanning Nuclear Temporary Station at
+Exploration Waypoint 19437 is shutting down.
+A hairy yellow eight-legged ArachnoPal named Higgins wiggles his hairy palps
+endearingly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Sunshine the light yellow long-haired felo kitten wanders in from the north.
+Sunshine the light yellow long-haired felo kitten wanders out.
+Sunshine the light yellow long-haired felo kitten wanders in from the north.
+Sunshine the light yellow long-haired felo kitten wanders out.
+Sunshine the light yellow long-haired felo kitten wanders in from the north.
+Sunshine the light yellow long-haired felo kitten wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Sunshine the light yellow long-haired felo kitten wanders in from the north.
+Sunshine the light yellow long-haired felo kitten wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at AEU Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Birdsong". The organization has earned
+111,688.46 credits.
+Lily Kaise kisses you.
+Lily Kaise squeezes you affectionately.
+Lily Kaise says, "Off to build salvage processor and BAS."
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise glides out.
+Lily Kaise glides in from the north.
+Lily Kaise picks up a pair of white leather clogs with a row of glittery
+fireflies across the toes.
+Lily Kaise glides out.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has withdrawn a
+fission breeder reactor module (contributed by SEAS) from an advanced module
+storage unit and placed it aboard Herding Cats.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has withdrawn an
+ultimate salvage processor module (contributed by STAR and SEAS) from an
+advanced module storage unit and placed it aboard Herding Cats.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has withdrawn a
+fission breeder reactor module (contributed by STAR and SEAS) from an advanced
+module storage unit and placed it aboard Herding Cats.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins crouches down for a moment.
+[AEU | 4: Sector Status] AEU Salvage Processing Nuclear Temporary Station at
+Exploration Waypoint 52179 is now online!
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new AEU Salvage Processing Nuclear Temporary Station in
+Exploration Waypoint 52179.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 4: Sector Status] AEU Battle-Scanning Nuclear Temporary Station at
+Exploration Waypoint 64632 is now online!
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new AEU Battle-Scanning Nuclear Temporary Station in
+Exploration Waypoint 64632.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+Shine the big white glowing felo wanders in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Shine the big white glowing felo wanders out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A hairy yellow eight-legged ArachnoPal named Higgins wiggles his hairy palps
+endearingly.
+[Tactical Communication] Ground Squad Leader Alko Delovega transmits, "Nest?"
+[Tactical Communication] Kert On'Marr transmits, "Me."
+[Tactical Communication] Ground Squad Leader Alko Delovega transmits, "2 more?
+Or maybe megapod."
+[Tactical Communication] Hank Marvelstine transmits, "If ya can find a fourth
+i'll go."
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Tactical Communication] Ground Squad Leader Alko Delovega transmits, "Yeah,
+we're missing one for that nest to happen."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Hi Jacob, how are you
+doing?"
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "And hi to you too,
+Lily!"
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Hi there."
+[Tactical Communication] Ground Squad Leader Alko Delovega transmits, "One for a
+nest?"
+[Tactical Communication] Kim Saunders transmits, "What tier, and what suit do
+you need?"
+[Tactical Communication] Ground Squad Leader Alko Delovega transmits, "Three
+what you havE?"
+[Tactical Communication] Kim Saunders transmits, "I think the only 3 I currently
+have is EAOS."
+[Tactical Communication] Ground Squad Leader Alko Delovega transmits, "Oh um, he
+is here, sorry kim, he finally responded."
+[Tactical Communication] Kim Saunders transmits, "No problem, then I just keep
+on mining."
+[Tactical Communication] Ground Squad Leader Alko Delovega transmits,
+"Appreciated."
+[Tactical Communication] Hank Marvelstine transmits, "Grnd plan."
+[Tactical Communication] Hank Marvelstine transmits, "I enver said that."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Woo, nice mining
+Jacob, how did it go?"
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Not too well. Ned to
+spend more time on it next time and defendthe place better. Any tips?"
+[AEU | 1: Alliance Communication] Jacob coughs
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Need, defend. Stupid
+buttons."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Well, I personally
+skip the slug turrets and go for the chainguns. And place them 2 units
+northeast, northwest, southeast and southwest from the coordinator."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "That's a god way to
+do it."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "For an early site
+like yours that really should be enough, how many drones did you have?"
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "I think."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Three."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Wait, what, you had
+only 3 drones throughout the entire site?"
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Yeah basically. It
+was stupid for sure."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Three out of five.
+Even worse."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Jacob in the library
+box I sent you, there's a book called Its Mining Day it would be a good read and
+yes 3 drones are not enough."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "I plan to read it."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Well, you are
+learning, then I would not call it stupid. But yeah, you need more. For a basic
+site, when I still did those, I made sure I had at least 16 in the end."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Wow."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Yeah it's not stupid at
+all. You're just inexperienced and you will certainly get the knack for it I'm
+sure."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Fair enough."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "When I started we
+still had uh, what's her name's book. But I have read Melinda's book and it is
+definitely good enough."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "I'll give that one a
+look for sure."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Where did you mine?"
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "At the station in
+glittering belt. Spacesation delta I think."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Well, while it is
+open, we usually mine at frontier cluster. It pays a bit better."
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "Ah, I gotcha. I'll
+have to do that next time."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Of course at the end
+of this conquest, which is tomorrow night, the station goes on lockdown again.
+You can still finish a site if you are working on it, if you are there, but you
+won't be able to land after that. Not until the vents are cleared again from
+bari."
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at AEU Salvage Processing Nuclear Temporary Station from the two-person
+medium transport "Money Maker". The organization has earned 1,659,189.90
+credits.
+[AEU | 1: Alliance Communication] Jacob Shields transmits, "That makes sense."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at AEU Salvage Processing Nuclear Temporary Station from the two-person
+medium transport "Money Maker". The organization has earned 545,711.83 credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at AEU Salvage Processing Nuclear Temporary Station from the two-person
+medium transport "Money Maker". The organization has earned 901,151.78 credits.
+[Tactical Communication] Michael Kennedy transmits, "Nests anyone?"
+[Tactical Communication] Breton Ormarr transmits, "Me."
+[Tactical Communication] Michael Kennedy transmits, "One more person?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at AEU Salvage Processing Nuclear Temporary Station from the two-person
+medium transport "Money Maker". The organization has earned 337,277.07 credits.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 4,000,000.00 AEU credits.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 4,000,000.00 AEU credits.
+Sunshine the light yellow long-haired felo kitten wanders in from the north.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 1,136,293.69 AEU credits.
+Sunshine the light yellow long-haired felo kitten wanders out.
+Minor Change: The requirement for modular ships to disassemble prior to landing
+is now only enforced for EAOS, AEU, League, Fringe, Mutuality, Accord, and Steel
+Phoenix ports.
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Good evening."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Tactical Communication] Michael Kennedy transmits, "Just to be safe, noone
+killing rats in a-19, right?"
+[Tactical Communication] Breton Ormarr transmits, "I am."
+[Tactical Communication] Kert On'Marr transmits, "Aha."
+[Tactical Communication] Michael Kennedy transmits, "Oh alright, just making
+sure outsiders not down there again, you good."
+[Tactical Communication] Breton Ormarr transmits, "Yeah sorry, I keep forgetting
+to announce do apoligise all."
+[Tactical Communication] Michael Kennedy transmits, "2 for accord combat
+missions?"

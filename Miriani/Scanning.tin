@@ -1,0 +1,69 @@
+#CLASS {Scanning} OPEN
+
+#ACTION {^Average Component Damage: %*}
+{
+	#variable Scan[ACD] %1
+}
+{5}
+
+#ACTION {^Classification: %*}
+{
+	#variable Scan[Classification] %1
+}
+{5}
+
+#ACTION {^Coordinates: (%d, %d, %d)}
+{
+	#variable Scan[Coordinates] %1 %2 %3;
+	#var TC %1 %2 %3
+}
+{5}
+
+#ACTION {^Distance: %1}
+{
+	#variable Distance %1
+}
+{5}
+
+#ACTION {^Hull Damage: %1}
+{
+	#variable EnemyHull %1
+}
+{5}
+
+#ALIAS {.ad}
+{
+	#showme $Scan[ACD]
+}
+{5}
+
+#ALIAS {.c}
+{
+	#showme $Scan[Coordinates]
+}
+{5}
+
+#ALIAS {.cl}
+{
+	#showme $Scan[Classification]
+}
+{5}
+
+#ALIAS {.d}
+{
+	#showme $Distance
+}
+{5}
+
+#ALIAS {.h}
+{
+	#showme $EnemyHull
+}
+{5}
+
+#VARIABLE         {Distance}  {11}
+#VARIABLE         {Praelor Bzzr 209}  {1}
+#VARIABLE         {Scan}  {{ACD}{0%}{Classification}{B}{Coordinates}{5 6 13}}
+#VARIABLE         {Scanning}  {{ACD}{0%}}
+
+#CLASS {Scanning} CLOSE

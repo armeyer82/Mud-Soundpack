@@ -1,0 +1,786 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Tue Oct 25 06:22:14 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and Shasta the big onyx soldier felo here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+equip
+I don't understand that.
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: Check your local space market for crafting supplies and informative books!
+**
+equip
+I don't understand that.
+cddle lily
+I don't understand that.
+cuddle lily
+I don't see that here.
+cuddle lily
+I don't see that here.
+eta
+The ship is not moving.
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+smile lily
+Lily Kaise cuddles up to you.
+You smile at Lily Kaise.
+cuddle lily
+You cuddle up to Lily Kaise.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a plastic flower with red petals.
+[General Communication] Ted Warburton transmits, "What's going on? We're
+finishing a nest."
+Lily Kaise says in a New Earth accent, "I have two red ones in star kittens. I
+sure hope they will breed with the violet to make a fuchsia."
+nod 'Yeah
+You nod. "Yeah."
+[General Communication] Lillian Hudson transmits, "Oh okay. Everybody else is
+here or onboard. I was worried you'd dozed off or something. You're usually
+asleep or headed there by now."
+[General Communication] Ted Warburton transmits, "No, just getting a couple of
+nests done, and I'm heading over soon."
+[General Communication] Melinda Michaels transmits, "Boo, all these Fringe
+activities and I didn't get invited."
+[General Communication] Ted Warburton laughs.
+[General Communication] Melinda Michaels transmits, "Oh, laughing now are we?"
+[General Communication] Melinda Michaels transmits, "Hmmm."
+[General Communication] Morris Corlew transmits, "We're seriously upset about
+it...how could you do such a thing?"
+[General Communication] Melinda Michaels transmits, "We too are going to nest."
+[General Communication] Lillian Hudson transmits, "How fast can the league do
+speed nests? Let's find out!"
+[General Communication] Ted Warburton transmits, "There's nobody there now."
+[General Communication] Lillian Hudson transmits, "Oh sorry, we're nesting."
+[General Communication] Ted Warburton transmits, "Yeah, all of you seemed to
+go."
+[General Communication] Soraya Rhyz transmits, "Just like felo."
+[General Communication] Ted Warburton laughs.
+[General Communication] Joel Kringle chuckles at Soraya Rhyz.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on ips
+"Ips," hmm?  Well, better luck next time.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+smile lily
+You smile at Lily Kaise.
+[General Communication] Evenia Callseah transmits, "Pierre, what did you want
+with evil? I was nesting."
+[General Communication] Evenia Callseah transmits, "Uh, on a nest."
+[General Communication] Lillian Hudson transmits, "People are felo too!"
+[General Communication] Morris Corlew laughs.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+[General Communication] Soraya Rhyz transmits, "Slimy people."
+A large semi-transparent bell-shaped creature with very long dangling tendrils
+and a red glowing interior pulsates gently.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+[General Communication] Lillian Hudson transmits, "Ten minutes until takeoff!"
+[General Communication] Pierre-Louis Tremblay-du-Lys du Nouveau Quebec
+transmits, "Puffing up into a nest."
+[General Communication] Ted Warburton transmits, "I thought it would be wise to
+wait on board."
+[General Communication] Nicolas Slatzik transmits, "Takeoff for what?"
+[General Communication] Ted Warburton laughs.
+[General Communication] Evenia Callseah laughs at Pierre-Louis Tremblay-du-Lys
+du Nouveau Quebec.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+[General Communication] Lillian Hudson transmits, "Until a group of us leave for
+a few days, Fringelet."
+[General Communication] Nicolas Slatzik transmits, "Ah, okay. Maybe you'll
+disappear forever."
+[General Communication] Lillian Hudson transmits, "Uh... I hope not."
+[General Communication] Evenia Callseah transmits, "I...Hope not."
+[General Communication] Morris Corlew transmits, "You'd better hope not."
+[General Communication] Ted Warburton transmits, "So do I."
+[General Communication] Lillian Hudson transmits, "Especially becausee Ted will
+be with us."
+[General Communication] Morris Corlew transmits, "We'll have your GSL."
+Lily Kaise laughs.
+chuckle
+You chuckle.
+Lily Kaise chuckles.
+[General Communication] Nicolas Slatzik transmits, "Well I mean if you DO
+disappear forever, you can't harm me..."
+[General Communication] Evenia Callseah transmits, "Um..."
+[General Communication] Lillian Hudson transmits, "Why would we harm you?"
+[General Communication] Nicolette Lawrence transmits, "You've got our GSL too
+and I'm not worried about it."
+[General Communication] Evenia Callseah transmits, "Yeah, what Lillian said."
+[General Communication] Joel Kringle transmits, "Yeah, but, our GSL is lame
+anyway."
+[General Communication] Lillian Hudson transmits, "It's true."
+[General Communication] Nicolas Slatzik transmits, "Oh well you were saying I'd
+better hope you don't disappear. I thought that was a threat."
+A medium-sized thickly-shelled creature with a red shell and four small claws
+raises its claws at a small plastic statue of a Jinu and snaps them menacingly
+while dancing around it.
+[General Communication] Morris Corlew transmits, "Awwwww."
+[General Communication] Ted Warburton transmits, "Yeah, none of us harm each
+other on purpose."
+[General Communication] Lillian Hudson transmits, "I mean, except for that one
+time..."
+squeeze lily\
+squeeze lily\
+[General Communication] Ted Warburton transmits, "No, nobody's threatening."
+squeeze lily
+I don't see that here.
+[General Communication] Morris Corlew transmits, "Getting reps and then I'll be
+aboard."
+[General Communication] Lillian Hudson transmits, "Nope!"
+squeeze lily
+You squeeze Lily Kaise affectionately.
+[Newbie Help] Nicolas Slatzik transmits, "Uh... what's a GSL?"
+[Newbie Help] Morris Corlew transmits, "Stands for Ground Squad Leader."
+[Newbie Help] Ted Warburton transmits, "Ground Squad Leader, helps out with
+ground activities."
+[Newbie Help] Morris Corlew transmits, "Check Help Liaison."
+[Newbie Help] Lillian Hudson transmits, "Ground Squad leader. The person in
+charge of helping you with battlesuits and ground combat. As an aside, I almost
+typed ground squid leader."
+[Newbie Help] Evenia Callseah laughs.
+[Newbie Help] Joel Kringle transmits, "Ground Squad leader. Civilian liaison
+position. Helps people in their alliance with ground related activities."
+[Newbie Help] Ted Warburton laughs.
+[Newbie Help] Morris Corlew transmits, "Well, that's...appropriate..."
+[Newbie Help] Morris Corlew laughs.
+[Newbie Help] Nicolas Slatzik laughs (?)
+caress lily on back
+You gently caress Lily Kaise's back.
+[Newbie Help] Morris Corlew transmits, "Squid...get it?"
+[General Communication] Nicolas Slatzik transmits, "Wow you leaguers have a
+liquor store within your pilot-allowed zone."
+[General Communication] Morris Corlew transmits, "Yessir."
+[General Communication] Nicolas Slatzik transmits, "I know where I'll be for the
+next week."
+[General Communication] Ted Warburton transmits, "And very good it is too."
+[General Communication] Morris Corlew laughs.
+[General Communication] Nicolas Slatzik transmits, "I should bug our liason to
+get us a liquor store."
+[General Communication] Nicolas Slatzik transmits, "I don't feel like traversing
+the galaxy for good alcohol."
+[General Communication] Morris Corlew transmits, "Why? Just go to Manhattan.
+You've got stuff we don't."
+kiss lily
+You kiss Lily Kaise.
+A large semi-transparent cylindrical creature with very long dangling tendrils
+and a green glowing interior drifts slowly past a plastic frond of light green
+sea fern.
+[General Communication] Ted Warburton transmits, "The one on earth is just
+fine."
+[General Communication] Morris Corlew transmits, "So buy it from Morris Corlew.
+He makes this home brew stuff."
+Lily Kaise kisses you on the lips.
+[General Communication] Ted Warburton transmits, "Yeah, we have Tacos."
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+[General Communication] Nicolas Slatzik transmits, "Uh.. we also seem to have an
+adult shop."
+[General Communication] Morris Corlew transmits, "Uh...good for you?"
+Lily Kaise laughs.
+Shasta the big onyx soldier felo marches out.
+laugh
+You laugh.
+[General Communication] Lillian Hudson transmits, "Three minutes until we
+disappear forever! I mean not forever probably."
+[General Communication] Nicolas Slatzik transmits, "I wonder if it is strategic
+that the adult shop and liquor shop are on different planets."
+[General Communication] Morris Corlew transmits, "Also, that guy delivers."
+[General Communication] Lillian Hudson transmits, "Unless the rift drive does
+something weird."
+Lily Kaise says in a New Earth accent, "Oh too bad... how sad."
+Lily Kaise laughs.
+laugh
+You laugh.
+[General Communication] Lillian Hudson transmits, "Anybody else coming?"
+[General Communication] Nicolas Slatzik transmits, "I mean I would come but my
+corpse would probably get in the way."
+Lily Kaise says in a New Earth accent, "Huh what."
+[General Communication] Melinda Michaels transmits, "Speak now or we run away."
+[General Communication] Morris Corlew transmits, "Your...corpse?"
+'Ummm, what?
+You ask, "Ummm, what?"
+[General Communication] Lillian Hudson transmits, "We have room."
+Lily Kaise asks in a New Earth accent, "Yeah?"
+[General Communication] Lillian Hudson transmits, "And it is part training
+trip."
+[General Communication] Nicolas Slatzik transmits, "Naah I'll just get drunk in
+Manhattan."
+[General Communication] Lillian Hudson transmits, "As you wish."
+[General Communication] Soraya Rhyz transmits, "At least corpses don't use life
+support."
+[General Communication] Nicolas Slatzik transmits, "Have a safe trip though."
+[General Communication] Morris Corlew chuckles.
+[General Communication] Melinda Michaels transmits, "If you want a ride, tell us
+quick."
+A Tardick lizard named Asteria trundles slowly into the area.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+[General Communication] Nicolas Slatzik transmits, "Where are you guys departing
+from?"
+[General Communication] Morris Corlew transmits, "Old Earth."
+[General Communication] Lillian Hudson transmits, "Old earth."
+[General Communication] Morris Corlew transmits, "Time's up."
+[General Communication] Lillian Hudson transmits, "I'm just about to board if
+you want to come."
+Lily Kaise helps herself to a slice of three-meat pizza.
+[General Communication] Nicolas Slatzik transmits, "It's fine, I just was gonna
+bring you guys some rum."
+Lily Kaise dangles a slice of three-meat pizza in front of a Tardick lizard
+named Asteria. The lizard's tongue flicks out once, then its head lunges
+forward, snapping up the food in a sudden blur and immediately swallowing it
+whole.
+[General Communication] Melinda Michaels transmits, "Rum."
+[General Communication] Morris Corlew transmits, "We've got booze."
+[General Communication] Ted Warburton transmits, "I have lots of alcohol."
+[General Communication] Lillian Hudson transmits, "Ted, where are you?"
+[General Communication] Ted Warburton transmits, "On board."
+Lily Kaise laughs.
+[General Communication] Nicolas Slatzik transmits, "Oh okay. Well rum, it fits
+the yarr harr intergalactic explorer pirate theme."
+[General Communication] Lillian Hudson transmits, "Cool."
+Purr the humanoid service robot clomps south.
+[General Communication] Morris Corlew transmits, "You're on the Galleon, ted?"
+Purr the humanoid service robot clomps into the room.
+[General Communication] Ted Warburton transmits, "Oh, are you taking that?"
+[General Communication] Morris Corlew transmits, "Yes."
+[General Communication] Ted Warburton transmits, "Make it landing pad."
+squeeze lily
+You squeeze Lily Kaise affectionately.
+[General Communication] Sean Sloan transmits, "Have a good trip."
+Lily Kaise squeezes you affectionately.
+[General Communication] Nicolas Slatzik transmits, "Aye, may the booze compel
+you to do good for humanity."
+[General Communication] Morris Corlew transmits, "Uh huh."
+Shasta the big onyx soldier felo marches in from the airlock.
+A Tardick lizard named Asteria flicks its tongue out.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/General.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+Shasta the big onyx soldier felo marches south.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/General.
+Lily Kaise laughs.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (15/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+7
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] AEU
+  [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+* [2] Trading
+  [3] Battle Reports
+  [4] Exploration
+* [5] Philosophy
+* [6] Name Changes
+* [7] Common Knowledge
+--
+  [8] Return
+  [9] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] these spare parts ships            (Melinda Michaels)
+  [2] Asteroid Beacon Alpha 285 is temp  (Lily Kaise)
+  [3] GMG partner                        (Blake Madison)
+  [4] Re: GMG partner                    (Lillian Hudson)
+  [5] Re: GMG partner                    (Blake Madison)
+  [6] Tardick Lizards: Formal Wear?      (Akemi Bando)
+  [7] Re: Tardick Lizards: Formal Wear?  (Akemi Bando)
+  [8] Re: Tardick Lizards: Formal Wear?  (Pierre-Louis Tremblay-du-Lys du Nouvea
+  [9] Re: Tardick Lizards: Formal Wear?  (Aisling the Fox)
+  [10] Re: Tardick Lizards: Formal Wear  (Blake Madison)
+  [11] Re: Tardick Lizards: Formal Wear  (Sakura Arakida)
+  [12] Re: Tardick Lizards: Formal Wear  (Akemi Bando)
+  [13] Unfit Felo Owners                 (Aisling the Fox)
+  [14] Re: Unfit Felo Owners             (Melinda Michaels)
+  [15] Re: Unfit Felo Owners             (Blake Madison)
+  [16] Re: Unfit Felo Owners             (Sakura Arakida)
+  [17] Re: Unfit Felo Owners             (Lily Kaise)
+  [18] Re: Unfit Felo Owners             (Akemi Bando)
+  [19] bubble station assistance needed  (Melinda Michaels)
+  [20] Re: bubble station assistance ne  (Evenia Callseah)
+  [21] Re: bubble station assistance ne  (Morris Corlew)
+  [22] Scooping Locations                (Morris Corlew)
+  [23] anybody interested in stations s  (Melinda Michaels)
+  [24] Asteroid Processor at 285         (Shule Elemmire)
+  [25] Re: Oiche Shamhna                 (Aisling the Fox)
+  [26] Artifact Beacon Alpha 777 - Fina  (Lily Kaise)
+  [27] Re: Artifact Beacon Alpha 777 -   (Evenia Callseah)
+  [28] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [29] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [30] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [31] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [32] Re: Artifact Beacon Alpha 777 -   (Damien Goss)
+  [33] Re: Artifact Beacon Alpha 777 -   (Sakura Arakida)
+  [34] Re: Artifact Beacon Alpha 777 -   (Morris Corlew)
+  [35] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [36] Re: Artifact Beacon Alpha 777 -   (Morris Corlew)
+  [37] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [38] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [39] Re: Artifact Beacon Alpha 777 -   (Kim Saunders)
+  [40] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [41] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [42] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [43] Re: Artifact Beacon Alpha 777 -   (Morris Corlew)
+  [44] station meeting notes             (Melinda Michaels)
+  [45] Salvage Processing station now a  (Lily Kaise)
+  [46] Re: Salvage Processing station n  (Kim Saunders)
+  [47] Re: Salvage Processing station n  (Kim Saunders)
+  [48] Important Concerning Artifact al  (Lily Kaise)
+  [49] Re: Oiche Shamhna                 (Aisling the Fox)
+  [50] Re: Oiche Shamhna                 (Morris Corlew)
+  [51] Re: Oiche Shamhna                 (Melinda Michaels)
+  [52] Re: Oiche Shamhna                 (Nicolette Lawrence)
+  [53] Re: Oiche Shamhna                 (Lily Kaise)
+* [54] Re: Oiche Shamhna                 (Kim Saunders)
+* [55] Re: Oiche Shamhna                 (Evenia Callseah)
+* [56] Have you seen these felo?         (Corey Matthews)
+* [57] Re: Have you seen these felo?     (SPCF Member Elizabeth Beckman)
+* [58] Re: Have you seen these felo?     (Corey Matthews)
+* [59] Re: Oiche Shamhna                 (Ted Warburton)
+* [60] Re: Have you seen these felo?     (Akemi Bando)
+* [61] Re: Oiche Shamhna                 (Luja Garland)
+* [62] trip heading                      (Lillian Hudson)
+* [63] Re: trip heading                  (Lily Kaise)
+--
+  [64] Return
+  [65] Post
+  [66] Quit
+--
+Enter your selection:
+62
+--
+FTL Interalliance Communications Network
+--
+Subject: trip heading
+Author: Lillian Hudson
+Posted: 00:07  4 November 2316 GST
+--
+The heading I picked is 66 6 from Old Earth for our short trip. We're expecting
+to be gone about five days. Happy hypercasting!
+--
+[1] Next
+[2] Previous
+[3] Return
+[4] Reply
+[5] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+Subject: Re: trip heading
+Author: Lily Kaise
+Posted: 00:09  4 November 2316 GST
+--
+Oh thanks! we'll give chase! ha ha! ... Have fun! and just kidding ... well
+maybe is joke but maybe not!
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/General.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+2
+--
+FTL Interalliance Communications Network
+--
+  [1] these spare parts ships            (Melinda Michaels)
+  [2] Asteroid Beacon Alpha 285 is temp  (Lily Kaise)
+  [3] GMG partner                        (Blake Madison)
+  [4] Re: GMG partner                    (Lillian Hudson)
+  [5] Re: GMG partner                    (Blake Madison)
+  [6] Tardick Lizards: Formal Wear?      (Akemi Bando)
+  [7] Re: Tardick Lizards: Formal Wear?  (Akemi Bando)
+  [8] Re: Tardick Lizards: Formal Wear?  (Pierre-Louis Tremblay-du-Lys du Nouvea
+  [9] Re: Tardick Lizards: Formal Wear?  (Aisling the Fox)
+  [10] Re: Tardick Lizards: Formal Wear  (Blake Madison)
+  [11] Re: Tardick Lizards: Formal Wear  (Sakura Arakida)
+  [12] Re: Tardick Lizards: Formal Wear  (Akemi Bando)
+  [13] Unfit Felo Owners                 (Aisling the Fox)
+  [14] Re: Unfit Felo Owners             (Melinda Michaels)
+  [15] Re: Unfit Felo Owners             (Blake Madison)
+  [16] Re: Unfit Felo Owners             (Sakura Arakida)
+  [17] Re: Unfit Felo Owners             (Lily Kaise)
+  [18] Re: Unfit Felo Owners             (Akemi Bando)
+  [19] bubble station assistance needed  (Melinda Michaels)
+  [20] Re: bubble station assistance ne  (Evenia Callseah)
+  [21] Re: bubble station assistance ne  (Morris Corlew)
+  [22] Scooping Locations                (Morris Corlew)
+  [23] anybody interested in stations s  (Melinda Michaels)
+  [24] Asteroid Processor at 285         (Shule Elemmire)
+  [25] Re: Oiche Shamhna                 (Aisling the Fox)
+  [26] Artifact Beacon Alpha 777 - Fina  (Lily Kaise)
+  [27] Re: Artifact Beacon Alpha 777 -   (Evenia Callseah)
+  [28] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [29] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [30] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [31] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [32] Re: Artifact Beacon Alpha 777 -   (Damien Goss)
+  [33] Re: Artifact Beacon Alpha 777 -   (Sakura Arakida)
+  [34] Re: Artifact Beacon Alpha 777 -   (Morris Corlew)
+  [35] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [36] Re: Artifact Beacon Alpha 777 -   (Morris Corlew)
+  [37] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [38] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [39] Re: Artifact Beacon Alpha 777 -   (Kim Saunders)
+  [40] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [41] Re: Artifact Beacon Alpha 777 -   (Lily Kaise)
+  [42] Re: Artifact Beacon Alpha 777 -   (Melinda Michaels)
+  [43] Re: Artifact Beacon Alpha 777 -   (Morris Corlew)
+  [44] station meeting notes             (Melinda Michaels)
+  [45] Salvage Processing station now a  (Lily Kaise)
+  [46] Re: Salvage Processing station n  (Kim Saunders)
+  [47] Re: Salvage Processing station n  (Kim Saunders)
+  [48] Important Concerning Artifact al  (Lily Kaise)
+  [49] Re: Oiche Shamhna                 (Aisling the Fox)
+  [50] Re: Oiche Shamhna                 (Morris Corlew)
+  [51] Re: Oiche Shamhna                 (Melinda Michaels)
+  [52] Re: Oiche Shamhna                 (Nicolette Lawrence)
+  [53] Re: Oiche Shamhna                 (Lily Kaise)
+  [54] Re: Oiche Shamhna                 (Kim Saunders)
+  [55] Re: Oiche Shamhna                 (Evenia Callseah)
+  [56] Have you seen these felo?         (Corey Matthews)
+  [57] Re: Have you seen these felo?     (SPCF Member Elizabeth Beckman)
+  [58] Re: Have you seen these felo?     (Corey Matthews)
+  [59] Re: Oiche Shamhna                 (Ted Warburton)
+  [60] Re: Have you seen these felo?     (Akemi Bando)
+  [61] Re: Oiche Shamhna                 (Luja Garland)
+  [62] trip heading                      (Lillian Hudson)
+  [63] Re: trip heading                  (Lily Kaise)
+* [64] Re: trip heading                  (Melinda Michaels)
+--
+  [65] Return
+  [66] Post
+  [67] Quit
+--
+Enter your selection:
+64
+--
+FTL Interalliance Communications Network
+--
+Subject: Re: trip heading
+Author: Melinda Michaels
+Posted: 00:10  4 November 2316 GST
+--
+Hurry, see if you can catch supperior Galleon.
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+4
+Logged out of FTL Message Board Net.
+Lily Kaise says in a New Earth accent, "I bet we could actually."
+Lily Kaise says in a New Earth accent, "But I'll leave them alone."
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+grin
+You grin.
+Lily Kaise says in a New Earth accent, "Was just kidding them."
+grin lily
+You grin at Lily Kaise.
+Lily Kaise says in a New Earth accent, "Our speed is actually faster."
+Lily Kaise says in a New Earth accent, "But."
+Lily Kaise says in a New Earth accent, "That jib..."
+Lily Kaise laughs.
+Shasta the big onyx soldier felo marches in from the south.
+'Yeah, I was going to say. If they use the jib right, they could be hard to
+catch.
+You say, "Yeah, I was going to say. If they use the jib right, they could be
+hard to catch."
+Lily Kaise says in a New Earth accent, "I think it is only like 24k and this
+ship is over 26k."
+Lily Kaise says in a New Earth accent, "Maybe it's 25k."
+Lily Kaise says in a New Earth accent, "Theirs I mean."
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Lily Kaise says in a New Earth accent, "Actually though it would have been fun
+to try though just to see but it's too late now."
+Lily Kaise grins.
+grin
+You grin.
+Lily Kaise says in a New Earth accent, "I have got to get motivated."
+Lily Kaise laughs.
+laugh
+You laugh.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+pet asteria
+You stroke a Tardick lizard named Asteria's warm scaly skin.
+Lily says to a Tardick lizard named Asteria in a New Earth accent, "Yeah right."
+A Tardick lizard named Asteria trundles slowly south.
+wrap lily
+Shasta the big onyx soldier felo marches out.
+A medium-sized semi-transparent ovoid creature with short dangling tendrils and
+a yellow glowing interior drifts slowly past a plastic flower with red petals.
+Lily Kaise says in a New Earth accent, "Speaking of fuchshia, the violet and the
+red jellybulb did the sexy thing. Maybe they will produce a fuchsia one."
+Shasta the big onyx soldier felo marches in from the airlock.
+[General Communication] Keegan Wantz transmits, "Superior Galleon shall be
+capsule-caught."
+[General Communication] Lillian Hudson transmits, "Nooooo!"
+A Tardick lizard named Asteria trundles slowly into the area.
+[General Communication] Melinda Michaels transmits, "Sure, a capsule can do it
+but not a platform."
+Shasta the big onyx soldier felo jumps into your lap and settles in, purring.
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise says in a New Earth accent, "Well I do wonder as I don't think she
+realizes our speed."
+grin lily
+You grin at Lily Kaise.
+Lily Kaise says in a New Earth accent, "Again was too late to try but would have
+been fun."
+nod lily
+You nod to Lily Kaise.
+[General Communication] Nicolette Lawrence transmits, "I bet this guy's gonna
+model that gown."
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you.
+Lily Kaise wraps her arms around you, pulling you close.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+-lily I love you
+You say to Lily, "I love you."
+Lily Kaise smiles at you. "I love you too."
+smile lily
+You smile at Lily Kaise.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+A Tardick lizard named Asteria trundles slowly south.
+Lily Kaise squeezes you affectionately.
+Lily says to an alliance information assistant in a New Earth accent, "See you
+are about as motivated as me!"
+Lily Kaise laughs.
+Lily says to you in a New Earth accent, "You too!"
+laugh
+Lily Kaise examines an elegant crystal decanter for a moment.
+Lily Kaise helps herself to a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise helps herself to a breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise takes a bite of a breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise takes a bite of a breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise takes a bite of a breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+[General Communication] Lillian Hudson transmits, "Test test."
+[General Communication] Lillian Hudson transmits, "Aww, still perfectly clear."
+[General Communication] Melinda Michaels transmits, "Clear."
+[General Communication] Morris Corlew transmits, "This makes me sad. It's quiet
+but comms are clear? No way."
+[General Communication] Ted Warburton transmits, "What's up with everyone?"
+[General Communication] Nicolette Lawrence transmits, "These aren't just kitchen
+knives, they're superior kitchen knives."
+[General Communication] Lillian Hudson transmits, "But are they sharp kitchen
+knives?"
+Lily Kaise says in a New Earth accent, "Huh they will probably rust right after
+you washed them."
+[General Communication] Nicolette Lawrence transmits, "It wasn't me..."
+[General Communication] Lillian Hudson transmits, "It wasn't?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+You laugh.
+Lily Kaise asks in a New Earth accent, "Ok maybe later today we can do that
+hauling trip?"
+Lily Kaise laughs.
+laugh
+You laugh.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior pulsates gently.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+[General Communication] Morris Corlew transmits, "Testing."
+[General Communication] Aisling the Fox transmits, "Test failed."
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+[General Communication] Morris Corlew transmits, "Yep."
+[General Communication] Nicolette Lawrence transmits, "I can picture Lillian
+smoking a pipe like that."
+Lily Kaise says in a New Earth accent, "Hmm."
+[General Communication] Nicolette Lawrence transmits, "It's not a pretty
+picture."
+Lily Kaise says in a New Earth accent, "Know what, we ought to just take off
+from New Earth and explore a bit."
+'We totlaly should.
+'er, totally
+Lily Kaise says in a New Earth accent, "Know what, we ought to just take off
+from New Earth and explore a bit."
+#SESSION 'star' DIED.

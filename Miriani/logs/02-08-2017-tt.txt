@@ -1,0 +1,2093 @@
+00:00:00
+Blueberry the hefty violet feathered felo wanders in from the north.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+large periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a soft periwinkle cashmere blanket on it.
+Lily Kaise glides out.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+3,343,500.00 credits from a xenology submission.
+Blueberry the hefty violet feathered felo rubs up against your ankle, purring
+softly.
+Blueberry the hefty violet feathered felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+#SESSION 'StarConquest' ACTIVATED.
+#UNSNOOPING SESSION 'StarConquest'
+#SNOOPING SESSION 'StarConquest'
+#SESSION 'StarConquest' ACTIVATED.
+[Everdark] You manage to get your bearings.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+01:00:00
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+Shasta the big onyx soldier felo marches in from the north.
+#SESSION 'StarConquest' ACTIVATED.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a large
+periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a soft periwinkle cashmere blanket on it.
+get suit
+You remove a small suitcase from a leather briefcase.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: New pilots: Don't forget to talk to your liaison officer! He can give you
+a lot of early points and credits!
+**
+get briefs from suitcase
+You remove a pair of white cotton briefs from a small suitcase.
+wear briefs
+You slide a pair of white cotton briefs on.
+get shipsuit from suitcase
+You remove a red shipsuit with white trim around the collar and cuffs from a
+small suitcase.
+wear shipsuit
+You step into a red shipsuit with white trim around the collar and cuffs and
+pull it over your arms.
+clsoe suitcase
+I don't understand that.
+close suit
+You close a small suitcase.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa with Blueberry the
+sleeping hefty violet feathered felo on it, a glossy silver ceramic felo chow
+bowl, a small white trash bin, a wall-sized bubbling coral pink-lit aquarium
+containing blue and red aquatic life and coral rocks, a small bubbling neon
+blue-lit toroidal aquarium containing blue and red aquatic life and round rocks,
+a black plastic tray of spider chow, and Mischief the large black felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy dark violet ceramic felo chow bowl, a black
+plastic tray of spider chow, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, and
+Purr the humanoid service robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+sit sofa
+I can't find "sofa."
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+kiss lily
+You kiss Lily Kaise.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+mid-back length, straight hair is pale honey blonde and swept up into a thick
+fall of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a light blue shipsuit with cobalt blue trim around the collar
+and cuffs and a pair of tan suede clogs. She is also wearing an orange and white
+blessed prayer bracelet around her wrist, a slender bracelet of tiny tinkling
+silver bells around her wrist, a neon purple wrist-mounted chronometer, a solid
+silver ring engraved with dragonflies, a delicate ring of silver wire and small
+purple amethyst crystals, a light purple flightbag with a pastel kitten on the
+side, a metallic gold touch einrophone in a metallic purple reinforced plastic
+phone holster, a soft fuchsia Tardick lizard snuggly labeled 'Asteria', and an
+elegant white gold ring inset with a perfect solitaire diamond. Her head, face,
+both eyes, both wrists, and both hands are left uncovered.
+She is carrying nothing.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[Everdark] T
+[Everdark] he flames flare out, almost consuming you.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+Jewel the old large violet glowing felo wanders in from the airlock.
+A short amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a small plastic statue of a Jinu.
+Jewel the old large violet glowing felo jumps into your lap and settles in,
+purring.
+#SESSION 'StarConquest' ACTIVATED.
+ne
+You can't go that way.
+se
+You can't go that way.
+ne
+You can't go that way.
+ll
+I don't understand that.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+#SESSION 'StarConquest' ACTIVATED.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior drifts slowly across the tank.
+Mischief the large black felo hums melodically to itself as it wanders south.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+who
+There appear to be 19 pilots recently active.
+The communicator network detects:
+Lily Kaise  (A)
+Evangeline Adaire  (A)
+Shule Elemmire  (A) [m]
+Kim Saunders  (A) [m]
+Soraya Rhyz  (L)
+Klaus Stein  (L)
+Joel Kringle  (L)
+Damien Goss  (L)
+Sol Sterling  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Bryan Stout  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Alko Delovega  (F)
+Blake Madison  (F)
+Ted Warburton  (F)
+Aisling an Sionnach  (M)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Additionally, there are 7 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 26 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A long gold soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+who
+There appear to be 20 pilots recently active.
+The communicator network detects:
+Lily Kaise  (A)
+Evangeline Adaire  (A)
+Shule Elemmire  (A) [m]
+Kim Saunders  (A) [m]
+Johann Rowan  (L)
+Soraya Rhyz  (L)
+Klaus Stein  (L)
+Joel Kringle  (L)
+Damien Goss  (L)
+Sol Sterling  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Bryan Stout  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Alko Delovega  (F)
+Blake Madison  (F)
+Ted Warburton  (F)
+Aisling an Sionnach  (M)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Additionally, there are 7 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 27 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[Tactical Communication] Alko Delovega transmits, "I need 4 for beacons, or 3
+for nests."
+[Tactical Communication] Sol Sterling transmits, "I'll go for beacons."
+[Tactical Communication] Bryan Stout transmits, "Sure why not."
+[Tactical Communication] Alko Delovega transmits, "2 more then."
+[Tactical Communication] Alko Delovega transmits, "Just 2 more, come on."
+#SESSION 'StarConquest' ACTIVATED.
+[Tactical Communication] Bryan Stout transmits, "Think everyone is on that
+megapod. Give it a bit."
+[Tactical Communication] Alko Delovega transmits, "Oh, megapod is happening?"
+#SESSION 'StarConquest' ACTIVATED.
+[Tactical Communication] Morris Corlew transmits, "Interdictors out at 002
+again."
+coord
+The sensor systems are nonfunctional until their power is restored.
+#SESSION 'StarConquest' ACTIVATED.
+#UNSNOOPING SESSION 'StarConquest'
+#SNOOPING SESSION 'StarConquest'
+02:00:00
+[Tactical Communication] Alko Delovega transmits, "Just a reminder that we have
+2 spots for beacons."
+Jewel the old large violet glowing felo jumps down from your lap.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a string of light purple plastic kelp.
+#SESSION 'StarConquest' ACTIVATED.
+Jewel the old large violet glowing felo jumps into your lap and settles in,
+purring.
+#SESSION 'StarConquest' ACTIVATED.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+a violet glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+#SESSION 'StarConquest' ACTIVATED.
+i
+ You are wearing a red shipsuit with white trim around the collar and cuffs.
+Underneath this, you are wearing a pair of white cotton briefs. You are also
+wearing a keychain, a backpack, a metallic gold touch einrophone in a black
+leather phone holster, a solid silver ring engraved with dolphins, and a gold
+wrist-mounted chronometer. You are concealing a black flightbag with a red
+shooting star on the side, a metallic silver metachannel FTL communicator, a
+leather briefcase, a flight control scanner, a large expandable telescoping
+xenology container, a scorched metal thigh holster, a golden Feng Wo coin purse,
+a thick synthleather bandolier with large pockets, a camera bag, and a black
+engineering tool case. Your head, face, both eyes, both wrists, both hands, and
+both feet are left uncovered.
+You are carrying a small suitcase in your right hand, and Jewel the old large
+violet glowing felo in your left hand.
+put suit in breifcase
+I see no "breifcase" here.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+i
+ You are wearing a red shipsuit with white trim around the collar and cuffs.
+Underneath this, you are wearing a pair of white cotton briefs. You are also
+wearing a keychain, a backpack, a metallic gold touch einrophone in a black
+leather phone holster, a solid silver ring engraved with dolphins, and a gold
+wrist-mounted chronometer. You are concealing a black flightbag with a red
+shooting star on the side, a metallic silver metachannel FTL communicator, a
+leather briefcase, a flight control scanner, a large expandable telescoping
+xenology container, a scorched metal thigh holster, a golden Feng Wo coin purse,
+a thick synthleather bandolier with large pockets, a camera bag, and a black
+engineering tool case. Your head, face, both eyes, both wrists, both hands, and
+both feet are left uncovered.
+You are carrying Jewel the old large violet glowing felo in your left hand.
+pet jewel
+You stroke the soft fur of Jewel the old large violet glowing felo.
+Jewel the old large violet glowing felo purrs and rubs its head against your
+hand, looking up at you adoringly.
+who
+There appear to be about 19 pilots recently active.
+The communicator network detects:
+Evangeline Adaire  (A)
+Shule Elemmire  (A) [m]
+Kim Saunders  (A) [m]
+Tobias Hawthorne  (L)
+Johann Rowan  (L)
+Soraya Rhyz  (L)
+Klaus Stein  (L)
+Sol Sterling  (L)
+Nicolette Lawrence  (L)
+Bryan Stout  (L)
+Morris Corlew  (L)
+Alko Delovega  (F)
+Blake Madison  (F)
+Aisling an Sionnach  (M)
+Your communicator also reports that there are 5 pilots who were active but
+dropped out of communications.
+Additionally, there are 9 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 28 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+afk
+You blink heavily and then doze off.
+[Tactical Communication] Alko Delovega transmits, "I really don't want to take 3
+person ship, it takes long time for beacons to finish>."
+[Tactical Communication] Alko Delovega transmits, "Just for you guys to know."
+[Tactical Communication] Bryan Stout transmits, "Well I think people are still
+on that megapod."
+A long violet soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,522.24 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+a violet glowing interior drifts slowly past a small plastic statue of a Jinu.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and an amethyst glowing interior pulsates gently.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+12,300,000.00 credits from a xenology submission.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+8,910,000.00 credits from a xenology submission.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Tactical Communication] Bryan Stout transmits, "Everyone is back now Alko if
+you want to try again."
+Buddy the hefty blue soldier felo marches in from the south.
+[Tactical Communication] Sol Sterling transmits, "I'm still prepared to join."
+[Tactical Communication] Bryan Stout transmits, "Me too I suppose."
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+amber glowing interior drifts slowly across the tank.
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly past a plastic shipwreck flying a pirate
+flag.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 769,771.97 credits.
+[Tactical Communication] Bryan Stout transmits, "Beacons?"
+[Tactical Communication] Akemi Bando transmits, "Single word proposition without
+details."
+[Tactical Communication] Bryan Stout transmits, "I need a crew for missions.
+First 4 to 5 to earth are in, unless I can get a volunteer cruiser and 7 more
+people. How is that for proposition?"
+[Tactical Communication] Bryan Stout transmits, "Beacons, rather."
+[Tactical Communication] Akemi Bando transmits, "Can we use a morningstar?"
+[Tactical Communication] Joel Kringle transmits, "Hells yeah."
+[Tactical Communication] Bryan Stout transmits, "I do not care."
+#SESSION 'StarConquest' ACTIVATED.
+[Tactical Communication] Joel Kringle transmits, "I'm in then."
+#UNSNOOPING SESSION 'StarConquest'
+[Tactical Communication] Bryan Stout transmits, "2 more!"
+[Tactical Communication] Alko Delovega transmits, "Oh, they are done, you said?"
+[Tactical Communication] Bryan Stout transmits, "Yes."
+[Tactical Communication] Bryan Stout transmits, "If you're in for beacons meet
+at earth."
+Buddy the hefty blue soldier felo jumps into your lap and settles in, purring.
+[Tactical Communication] Akemi Bando transmits, "I'm in, I'm just at my office
+finishing up something."
+[Tactical Communication] Bryan Stout transmits, "We're full, akemi. Assuming
+alko is coming."
+[Tactical Communication] Alko Delovega transmits, "Landing."
+Buddy the hefty blue soldier felo curls up and closes its eyes.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 868,476.80 credits.
+A medium-sized semi-transparent bell-shaped creature with short dangling
+tendrils and a chartreuse glowing interior pulsates gently.
+03:00:00
+Jewel the old large violet glowing felo jumps down from your lap.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 661,538.02 credits.
+Jewel the old large violet glowing felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring softly.
+#SESSION 'StarConquest' ACTIVATED.
+#SNOOPING SESSION 'StarConquest'
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, Purr
+the humanoid service robot, and Jewel the old large violet glowing felo here.
+Lily Kaise is dozing on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+afk
+You blink heavily and then doze off.
+#UNSNOOPING SESSION 'StarConquest'
+#SNOOPING SESSION 'StarConquest'
+#SESSION 'StarConquest' ACTIVATED.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 828,588.98 credits.
+A long yellow soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Jewel the old large violet glowing felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring softly.
+Jewel the old large violet glowing felo wanders south.
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 504,974.99 credits.
+A large thickly-shelled creature with a yellow shell and four small claws raises
+its claws at a small plastic statue of a shark and snaps them menacingly while
+dancing around it.
+[Tactical Communication] Alko Delovega transmits, "Nests, too?"
+[Tactical Communication] Bryan Stout transmits, "Relax a little."
+A long violet soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+#SESSION 'StarConquest' ACTIVATED.
+Lily Kaise blinks heavily and then dozes off.
+#SESSION 'StarConquest' ACTIVATED.
+Jewel the old large violet glowing felo wanders in from the south.
+Lily Kaise strokes the soft fur of Jewel the old large violet glowing felo.
+Jewel the old large violet glowing felo purrs and rubs its head against Lily's
+hand, looking up at her adoringly.
+#SESSION 'StarConquest' ACTIVATED.
+Lily Kaise hugs Jewel the old large violet glowing felo.
+pet jewel
+You stroke the soft fur of Jewel the old large violet glowing felo.
+Jewel the old large violet glowing felo purrs and rubs its head against your
+hand, looking up at you adoringly.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+Lily Kaise blinks heavily and then dozes off.
+04:00:00
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A long yellow soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+Jewel the old large violet glowing felo seems to be hungry.
+Jewel the old large violet glowing felo approaches a glossy purple ceramic felo
+chow bowl, glances around, then begins shoveling low-grade dry Felo Chow into
+its mouth.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+fuchsia glowing interior pulsates gently.
+Jewel the old large violet glowing felo rubs up against a dark purple leather
+captain's chair, purring softly.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and an amethyst glowing interior drifts slowly across the tank.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+amber glowing interior pulsates gently.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+#SESSION 'StarConquest' ACTIVATED.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+a violet glowing interior drifts slowly past a string of light purple plastic
+kelp.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+amber glowing interior drifts slowly across the tank.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+Jewel the old large violet glowing felo jumps into Lily Kaise's lap and settles
+in, purring.
+A long orange soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Mischief the large black felo jumps into your lap and settles in, purring.
+05:00:01
+A medium-sized thickly-shelled creature with a red shell and four small claws
+grips a white plastic undersea castle firmly in its claws, then gives up when it
+can't break the toy.
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+yellow glowing interior drifts slowly across the tank.
+Mischief the large black felo gazes at Buddy the hefty blue soldier felo for a
+moment, then asks, "Mrrp?"
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+Mischief the large black felo jumps down from your lap.
+Buddy the hefty blue soldier felo jumps down from your lap.
+Jewel the old large violet glowing felo jumps down from Lily Kaise's lap.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+amber glowing interior drifts slowly across the tank.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/General.
+A metallic silver metachannel FTL communicator chimes softly as it receives a
+new notice.
+Jewel the old large violet glowing felo wanders out.
+Jewel the old large violet glowing felo wanders in from the airlock.
+Buddy the hefty blue soldier felo jumps into Lily Kaise's lap and settles in,
+purring.
+Mischief the large black felo jumps into Lily Kaise's lap and settles in,
+purring.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,625.21 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+Jewel the old large violet glowing felo wanders south.
+A long orange soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+#SESSION 'StarConquest' ACTIVATED.
+Buddy the hefty blue soldier felo rubs up against Mischief the large black felo,
+and both animals purr softly.
+#SESSION 'StarConquest' ACTIVATED.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily
+You kiss Lily Kaise.
+#SESSION 'StarConquest' ACTIVATED.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person isotope "Yankin' Ya Rocks". The organization has earned 727,436.04
+credits.
+#SESSION 'StarConquest' ACTIVATED.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (17/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+7
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+* [2] AEU
+  [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] Trading
+* [3] Battle Reports
+* [4] Exploration
+* [5] Philosophy
+* [6] Name Changes
+* [7] Common Knowledge
+--
+  [8] Return
+  [9] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] Salvage processor Station in Aste  (Lily Kaise)
+  [2] Reminder that the initial point t  (Lily Kaise)
+  [3] Broadcaster Zeta 270 South of Cam  (Morris Corlew)
+  [4] Salvage processor in 285           (Morris Corlew)
+  [5] There is indeed a Rift Accelerato  (Lily Kaise)
+  [6] Re: There is indeed a Rift Accele  (Morris Corlew)
+  [7] Re: There is indeed a Rift Accele  (Lily Kaise)
+  [8] Re: There is indeed a Rift Accele  (Morris Corlew)
+  [9] Hi Akemi                           (Morris Corlew)
+  [10] Akemi                             (Melinda Michaels)
+  [11] Re: There is indeed a Rift Accel  (Lily Kaise)
+  [12] Re: Hi Akemi                      (Akemi Bando)
+  [13] Re: Akemi                         (Aisling the Fox)
+  [14] Re: Akemi                         (Akemi Bando)
+  [15] Re: Akemi                         (Akemi Bando)
+  [16] Re: Akemi                         (Melinda Michaels)
+  [17] Re: Akemi                         (Lillian Hudson)
+  [18] Re: There is indeed a Rift Accel  (Morris Corlew)
+  [19] Re: There is indeed a Rift Accel  (Shule Elemmire)
+  [20] Re: There is indeed a Rift Accel  (Morris Corlew)
+  [21] Re: Akemi                         (Keegan Wantz)
+  [22] Re: Akemi                         (Morris Corlew)
+  [23] Re: Akemi                         (Keegan Wantz)
+  [24] Re: Akemi                         (Morris Corlew)
+  [25] BAS and Salvage/Xeno              (Melinda Michaels)
+  [26] Re: BAS and Salvage/Xeno          (Lily Kaise)
+  [27] Asteroid processor in Asteroid A  (Lily Kaise)
+  [28] A|ces~ to]Artifact Alpha!777 - R  (Lily Kaise)
+  [29] Access to Artifact Alpha 777 - R  (Lily Kaise)
+  [30] the new salvage/xeno station at   (Evenia Callseah)
+  [31] Your out of comms asteroid? have  (Evenia Callseah)
+  [32] Salvage Processor Now Online in   (Lily Kaise)
+  [33] Guaging interest in a command co  (Morris Corlew)
+  [34] Re: Guaging interest in a comman  (Melinda Michaels)
+  [35] Joint Org Defense Initiative sta  (Space Defense Captain Akemi Bando)
+  [36] Re: Joint Org Defense Initiative  (Melinda Michaels)
+  [37] Re: Joint Org Defense Initiative  (Akemi Bando)
+  [38] Re: Joint Org Defense Initiative  (Keegan Wantz)
+  [39] Re: Joint Org Defense Initiative  (Kim Saunders)
+  [40] Re: Joint Org Defense Initiative  (Lily Kaise)
+  [41] Re: Joint Org Defense Initiative  (Ted Warburton)
+  [42] Re: Joint Org Defense Initiative  (Ted Warburton)
+  [43] Artifact Alpha 777 - Please Read  (Lily Kaise)
+  [44] Sunday! Sunday! Sunday!           (Johann Rowan)
+  [45] Re: Sunday! Sunday! Sunday!       (Johann Rowan)
+  [46] Re: Sunday! Sunday! Sunday!       (Evenia Callseah)
+  [47] Re: Sunday! Sunday! Sunday!       (Johann Rowan)
+  [48] Re: Sunday! Sunday! Sunday!       (Alko Delovega)
+  [49] Re: Sunday! Sunday! Sunday!       (Johann Rowan)
+  [50] Re: Sunday! Sunday! Sunday!       (Johann Rowan)
+  [51] Re: Sunday! Sunday! Sunday!       (Johann Rowan)
+  [52] Cats Station Parts                (Melinda Michaels)
+  [53] Re: Sunday! Sunday! Sunday!       (Johann Rowan)
+  [54] Re: Sunday! Sunday! Sunday!       (Lily Kaise)
+  [55] OOPS Home Alpha 776 is 2 West of  (Lily Kaise)
+  [56] Re: Sunday! Sunday! Sunday!       (Johann Rowan)
+  [57] Re: Sunday! Sunday! Sunday!       (Lily Kaise)
+* [58] Update on Artifact Alpha 777      (Lily Kaise)
+* [59] Re: Update on Artifact Alpha 777  (Kim Saunders)
+* [60] Re: Update on Artifact Alpha 777  (Lily Kaise)
+* [61] Re: Update on Artifact Alpha 777  (Melinda Michaels)
+* [62] Re: Update on Artifact Alpha 777  (Joel Kringle)
+* [63] Re: Update on Artifact Alpha 777  (Morris Corlew)
+* [64] FAT MARDI OF THE GRAS 2317!       (Pierre-Louis Tremblay-du-Lys du Nouvea
+--
+  [65] Return
+  [66] Post
+  [67] Quit
+--
+Enter your selection:
+[Miriani] Kitty Mars presses a series of buttons on a sensor control board.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars flicks a switch to enable condensed autopilot and debris
+display modes.
+[Miriani] Kitty Mars presses a button to cancel the current autopilot program.
+#SESSION 'StarConquest' ACTIVATED.
+64
+--
+[Miriani] Kitty Mars begins tapping commands into a navigational control
+console.
+FTL Interalliance Communications Network
+--
+Subject: FAT MARDI OF THE GRAS 2317!
+Author: Pierre-Louis Tremblay-du-Lys du Nouveau Quebec
+Posted: 04:24  8 February 2317 GST
+--
+Yes! Be very excited for next exciting edition of the Fat Mardi Gras will be
+held at glorious bestest station of Nouveau Quebec! Beads! Boobies! Floats!
+Snowballs! Boobies! Cacti! Caribou! Flashing! Boobies! Honey! Bees! Queen Bee
+Boobies! Cacti Boobies! Sand! More floats! Snow! It is truly event for whole
+extended family! Bring uncle! Bring ashes of great-great-grandmother! Fun for
+both living and unliving! At least never got single complaint from dead person
+so far, a statistic you can trust! Ask living pilots friends for what happened
+in previous editions! Exciting tales for the ages, and only a third of them are
+about naked people doing lewd things with masonry for golden doubloon necklaces
+of beads!
+Mighty rift accelerator highway will likely be built to expedite journey of
+horde of tourists, or you could take the bus, which might not arrive at 2359 if
+flow is terrible. Is all good, though. Come numerous, even if have to spacewalk
+all way there!
+It will start at end of 25th of the Saturday of the February, so 2359, a popular
+time of festivities!*
+*Might be subject to whims of fate and rift flow and battery charge of a
+particular sloop. Opening ceremony contingent on timely return of Most Beloved
+Son.
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+[Miriani] Kitty Mars presses a button to cancel the current autopilot program.
+[Miriani] Kitty Mars presses a button on a navigation console and examines the
+display.
+[Miriani] A destination appears on the ship's navigation controls: an unknown
+starship.
+#SESSION 'StarConquest' ACTIVATED.
+l
+Invalid selection.
+[Miriani] Kitty Mars examines the starship's current course.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+a violet glowing interior drifts slowly across the tank.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person isotope "Yankin' Ya Rocks". The organization has earned 1,529,414.82
+credits.
+06:00:00
+#SESSION 'StarConquest' ACTIVATED.
+[Everdark] ls start to form on your
+#SESSION 'StarConquest' ACTIVATED.
+#UNSNOOPING SESSION 'StarConquest'
+#SNOOPING SESSION 'StarConquest'
+A long gold soft-bodied creature with many claw-tipped tentacles swims around a
+plastic frond of light green sea fern.
+Prissy the big violet long-haired felo wanders in from the south.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person isotope "Yankin' Ya Rocks". The organization has earned 892,773.04
+credits.
+Mischief the large black felo jumps down from Lily Kaise's lap.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+Buddy the hefty blue soldier felo jumps down from Lily Kaise's lap.
+Buddy the hefty blue soldier felo seems to be hungry.
+Buddy the hefty blue soldier felo approaches a glossy purple ceramic felo chow
+bowl, glances around, then begins shoveling low-grade dry Felo Chow into its
+mouth.
+Prissy the big violet long-haired felo jumps into Lily Kaise's lap and settles
+in, purring.
+Mischief the large black felo hums melodically to itself as it wanders south.
+#SESSION 'StarConquest' ACTIVATED.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+amber glowing interior pulsates gently.
+Buddy the hefty blue soldier felo marches south.
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior pulsates gently.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Jan  2 21:30:22 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, Purr
+the humanoid service robot, and Blueberry the hefty violet feathered felo here.
+Lily Kaise is dozing on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+#SESSION 'StarConquest' ACTIVATED.
+#SNOOPING SESSION 'StarConquest'
+hold lily
+You hold Lily Kaise's hand, taking her into your group.
+stand
+You stand up from a rare black EAOSian contoured couch.
+pull lily
+You pull Lily Kaise to her feet.
+Prissy the big violet long-haired felo slides to the floor.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy dark violet ceramic felo chow bowl, a black
+plastic tray of spider chow, Mischief the large black felo, and Buddy the hefty
+blue soldier felo here.
+You can go north, east, south, west, up, and down.
+It sure takes a lot of time to drag unconscious people around!
+(8 seconds roundtime.)
+Lily Kaise followed you.
+s
+Wait 5 seconds.
+s
+Wait 4 seconds.
+s
+Wait 3 seconds.
+s
+Wait 2 seconds.
+s
+Wait 2 seconds.
+s
+Wait 1 seconds.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy silver ceramic
+felo chow bowl, a small white trash bin, a wall-sized bubbling coral pink-lit
+aquarium containing blue and red aquatic life and coral rocks, a small bubbling
+neon blue-lit toroidal aquarium containing blue and red aquatic life and round
+rocks, a black plastic tray of spider chow, Shasta the big onyx soldier felo,
+and Jewel the old large violet glowing felo here.
+You can go north, east, south, west, up, and down.
+It sure takes a lot of time to drag unconscious people around!
+(8 seconds roundtime.)
+Lily Kaise followed you.
+s
+Wait 6 seconds.
+s
+Wait 4 seconds.
+s
+Wait 3 seconds.
+s
+Wait 2 seconds.
+s
+Wait 1 seconds.
+s
+Wait 1 seconds.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a large periwinkle bed pillow, a large periwinkle
+bed pillow, a hand-made purple and amethyst flower quilt, and a soft periwinkle
+cashmere blanket on it, a large oval dark purple and light purple cloth rug, and
+a bulky cylinder with a vaguely spout-like protrusion on the top here.
+You can go out.
+It sure takes a lot of time to drag unconscious people around!
+(8 seconds roundtime.)
+Lily Kaise followed you.
+put lily on bed
+Wait 1 seconds.
+put lily on bed
+You place Lily Kaise on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+large periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a soft periwinkle cashmere blanket on it.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a large
+periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a soft periwinkle cashmere blanket on it.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars grins at you.
+#SESSION 'StarConquest' ACTIVATED.
+connect-everdark
+#TRYING TO CONNECT 'Everdark' TO 'everdark.org' PORT '3000'.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Everdark] You get too close to the flames and ice crystals start to form on
+your
+[Everdark] armour.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+07:00:00
+#SESSION 'StarConquest' ACTIVATED.
+[Everdark] Silk tells you: reboot tomorrow
+[Everdark] The intense cold within the 
+[Everdark] egg becomes unbearable.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a large periwinkle bed pillow, a large periwinkle
+bed pillow, a hand-made purple and amethyst flower quilt, and a soft periwinkle
+cashmere blanket on it, a large oval dark purple and light purple cloth rug, and
+a bulky cylinder with a vaguely spout-like protrusion on the top here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a large
+periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a soft periwinkle cashmere blanket on it.)
+[Miriani] Kitty Mars leans in toward you and gently kisses your lips.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tongue out.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+A Tardick lizard named Asteria flicks its tail.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+08:00:00
+A Tardick lizard named Asteria trundles slowly out.
+#SESSION 'StarConquest' ACTIVATED.
+Blueberry the hefty violet feathered felo wanders in from the north.
+Blueberry the hefty violet feathered felo wanders out.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars presses a series of buttons on a sensor control board.
+laugh
+You laugh.
+#SESSION 'StarConquest' ACTIVATED.
+A Tardick lizard named Asteria trundles slowly into the area.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars presses a series of buttons on a sensor control board.
+afk
+You blink heavily and then doze off.
+A Tardick lizard named Asteria flicks its tongue out.
+Blueberry the hefty violet feathered felo wanders in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+Blueberry the hefty violet feathered felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring softly.
+A Tardick lizard named Asteria trundles slowly out.
+Blueberry the hefty violet feathered felo rubs up against your ankle, purring
+softly.
+Blueberry the hefty violet feathered felo wanders out.
+09:00:00
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+large periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a soft periwinkle cashmere blanket on it.
+Lily Kaise glides out.
+Lily Kaise glides in from the north.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+large periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a soft periwinkle cashmere blanket on it.
+Lily Kaise blinks heavily and then dozes off.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+Lily Kaise blinks heavily and then dozes off.
+10:00:00
+Jewel the old large violet glowing felo wanders in from the north.
+Jewel the old large violet glowing felo wanders out.
+Shasta the big onyx soldier felo marches in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Shasta the big onyx soldier felo marches out.
+[Tactical Communication] Evenia Callseah transmits, "I'm hearing a couple
+pirates somewhere, on the scanner."
+11:00:00
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Temporary
+Station from the two-person medium transport "Tarttumaraajojen Koti". The
+organization has earned 944,336.70 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Prissy the big violet long-haired felo wanders in from the north.
+12:00:00
+Prissy the big violet long-haired felo wanders out.
+Xavier the big silver soldier felo marches in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Xavier the big silver soldier felo marches out.
+13:00:00
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Xavier the big silver soldier felo marches in from the north.
+Xavier the big silver soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+14:00:00
+Xavier the big silver soldier felo marches out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+15:00:00
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,643.07 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,882,907.45 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,204,463.16 credits.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+975,838.64 credits.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,015,371.26 credits.
+16:00:00
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,400,269.54 credits and 1 megacredit.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,144,201.28 credits.
+Xavier the big silver soldier felo marches in from the north.
+Lily Kaise blinks heavily and then dozes off.
+#SESSION 'StarConquest' ACTIVATED.
+kiss lily
+You kiss Lily Kaise.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Does your character have goals? Try the GOALS command to let the hosts
+know! Something just might come of it.
+**
+#SESSION 'StarConquest' ACTIVATED.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+#SESSION 'StarConquest' ACTIVATED.
+wrap lilyt
+I don't see that here.
+read comm
+You glance at your communicator's screen.
+There is one board post.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+afk
+You blink heavily and then doze off.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,613,262.28 credits and 1 megacredit.
+Xavier the big silver soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+662,709.71 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+945,469.53 credits.
+Xavier the big silver soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,212,808.03 credits.
+Xavier the big silver soldier felo marches out.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+700,351.89 credits.
+#SESSION 'StarConquest' ACTIVATED.
+17:00:00
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+701,164.83 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,165,361.52 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+887,645.89 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+18:00:00
+Prissy the big violet long-haired felo wanders in from the north.
+Prissy the big violet long-haired felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+#SESSION 'StarConquest' ACTIVATED.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 850,295.03 credits and 1 megacredit.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,711.37 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+19:00:00
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 246,114.76 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,333,717.89 credits.
+[Everdark] es from the west.
+Lily Kaise blinks heavily and then dozes off.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,266,650.09 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,301,066.31 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+667,827.38 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Everdark] Idle too long!  Forcing net-death.
+#SESSION 'Everdark' DIED.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 628,958.55 credits.
+20:00:00
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,192,801.70 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,240,429.00 credits.
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 523,971.68 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,720,631.73 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 433,774.65 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,547,513.95 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,666,809.30 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 1,096,956.70 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+2,310,228.47 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 1,074,506.97 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,220,764.37 credits.
+21:00:00
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Koclar". The organization has earned
+1,733,147.40 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 573,783.99 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Hawthorne's Crow". The organization has
+earned 634,046.05 credits.
+[Tactical Communication] Bryan Stout transmits, "Beacons."
+[Tactical Communication] Bryan Stout transmits, "Any interest?"
+Xavier the big silver soldier felo marches in from the north.
+[Tactical Communication] Evangeline Adaire transmits, "I could do a beacon."
+[Tactical Communication] Evangeline Adaire transmits, "Since I'm already at old
+earth anyway."
+Xavier the big silver soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,813.30 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+Xavier the big silver soldier felo marches out.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,813.30 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+22:00:00
+Lily Kaise blinks heavily and then dozes off.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+large periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a soft periwinkle cashmere blanket on it.
+Lily Kaise glides out.
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "League."
+A metallic silver metachannel FTL communicator dings politely as it receives a
+new notice.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the north.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 796,402.56 credits.
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Jan  2 21:30:22 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting connection to new port ***
+*** Redirecting old connection to this port ***
+#SESSION 'StarConquest' DIED.
+#SESSION 'StarConquest' ACTIVATED.
+#SNOOPING SESSION 'StarConquest'
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a large periwinkle bed pillow, a large periwinkle
+bed pillow, a hand-made purple and amethyst flower quilt, and a soft periwinkle
+cashmere blanket on it, a large oval dark purple and light purple cloth rug, a
+bulky cylinder with a vaguely spout-like protrusion on the top, and Mischief the
+large black felo here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a large
+periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a soft periwinkle cashmere blanket on it.)
+read comm
+You glance at your communicator's screen.
+Notice from the Voice of the Corps: <Hello everyone, here is belated the state
+of the corps report for February 3rd. 10 Days into the term, the AEU had
+completed 3 out of 69 total decoy beacon drops (4.35%). The AEU is responsible
+for 0 out of 6 total destroyed rats nests (0.0%) en the AEU is responsible for 0
+out of 4 total salvage ops (0.0%). Secondly, I have been invited to join Melinda
+on her trip to Gunarsh and maybe further, so I will be gone for a few weeks. I
+am not certain who else in the AEU is on that trip. I hope in the meantime
+everyone will be well and fly safe. take care, Kim. [19:14  8 February 2317 GST]
+There is one headline.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Use the EXPERIENCE command to see how you compare to other pilots in your
+alliance.
+**
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (17/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+=======================
+Recent League Headlines
+=======================
+* SEC Fires Shots at Unreg Allies, "Flagrant Obstruction to Justice," Cites One
+Senior Official [ 8 February 2317] (NAO)
+Return to the category menu? [Enter `yes' or `no']
+[Everdark] A rocky globe of brown earth orbits Alphiril like a blur.
+l
+You return your metallic gold touch einrophone to the main screen.
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a large periwinkle bed pillow, a large periwinkle
+bed pillow, a hand-made purple and amethyst flower quilt, and a soft periwinkle
+cashmere blanket on it, a large oval dark purple and light purple cloth rug, a
+bulky cylinder with a vaguely spout-like protrusion on the top, and Mischief the
+large black felo here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a large
+periwinkle bed pillow, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a soft periwinkle cashmere blanket on it.)
+i
+ You are wearing a red shipsuit with white trim around the collar and cuffs.
+Underneath this, you are wearing a pair of white cotton briefs. You are also
+wearing a keychain, a backpack, a metallic gold touch einrophone in a black
+leather phone holster, a solid silver ring engraved with dolphins, and a gold
+wrist-mounted chronometer. You are concealing a black flightbag with a red
+shooting star on the side, a metallic silver metachannel FTL communicator, a
+leather briefcase, a flight control scanner, a large expandable telescoping
+xenology container, a scorched metal thigh holster, a golden Feng Wo coin purse,
+a thick synthleather bandolier with large pockets, a camera bag, and a black
+engineering tool case. Your head, face, both eyes, both wrists, both hands, and
+both feet are left uncovered.
+You are carrying nothing.
+out
+You scramble to your feet.
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa with Shasta the sleeping
+big onyx soldier felo on it, a glossy silver ceramic felo chow bowl, a small
+white trash bin, a wall-sized bubbling coral pink-lit aquarium containing blue
+and red aquatic life and coral rocks, a small bubbling neon blue-lit toroidal
+aquarium containing blue and red aquatic life and round rocks, a black plastic
+tray of spider chow, Jewel the old large violet glowing felo, and Xavier the big
+silver soldier felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy dark violet ceramic felo chow bowl, a black
+plastic tray of spider chow, a hairy yellow eight-legged ArachnoPal named
+Higgins, and Blueberry the hefty violet feathered felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, and
+Purr the humanoid service robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+sit sofa
+I can't find "sofa."
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, and
+Purr the humanoid service robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+smile lily
+You smile at Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[Everdark] thwest.
+#SESSION 'StarConquest' ACTIVATED.
+#UNSNOOPING SESSION 'StarConquest'
+#SNOOPING SESSION 'StarConquest'
+#SESSION 'StarConquest' ACTIVATED.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+twho
+I don't understand that.
+-lily Did you see the post about the NQ party?
+You say to Lily Kaise, "Did you see the post about the NQ party?"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 979,351.70 credits.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+a violet glowing interior pulsates gently.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic frond of light green sea fern.
+#SESSION 'StarConquest' ACTIVATED.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, and
+Purr the humanoid service robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 1,108,654.38 credits.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+who
+There appear to be 19 pilots recently active.
+The communicator network detects:
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Ather Jammoa  (A) [am]
+Evangeline Adaire  (A)
+Kim Saunders  (A) [m]
+Erik Goodwin  (L)
+Joel Kringle  (L)
+Bryan Stout  (L)
+Johann Rowan  (L)
+Jason Rat  (L)
+Melinda Michaels  (L)
+Damien Goss  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Damien Alexander  (F)
+Ted Warburton  (F)
+Blake Madison  (F)
+Evenia Callseah  (F)
+Aisling an Sionnach  (M)
+Additionally, there are 7 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 26 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior pulsates gently.
+23:00:00
+A medium-sized thickly-shelled creature with a red shell and four small claws
+grips a white plastic undersea castle firmly in its claws, then gives up when it
+can't break the toy.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 2,136,627.84 credits.
+[Tactical Communication] Bryan Stout transmits, "3 for beacons. Earth lounge."
+#SESSION 'StarConquest' ACTIVATED.
+#read ./StarConquest/Settings.tin
+#OK:   1 CLASS LOADED.
+#OK:   2 VARIABLES LOADED.
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly over a white plastic undersea castle.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 1,814,487.46 credits.
+[Tactical Communication] Chase Marshall transmits, "Bryan beacons anyone!?"
+[Tactical Communication] Ted Warburton transmits, "Can do."
+[Tactical Communication] Bryan Stout transmits, "Earth."
+[Tactical Communication] Bryan Stout transmits, "Can I get one more?"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 2,185,764.36 credits.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+#SESSION 'StarConquest' ACTIVATED.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 1,284,981.71 credits.
+#SESSION 'StarConquest' ACTIVATED.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A large thickly-shelled creature with a yellow shell and four small claws raises
+its claws at a small plastic statue of a shark and snaps them menacingly while
+dancing around it.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lost In Paradise". The organization has
+earned 1,398,903.39 credits.
+Buddy the hefty blue soldier felo marches in from the south.
+00:00:01
+[AEU | 4: Sector Status] AEU Rift Accelerating Battery-Powered Temporary Station
+at Asteroid Beacon Alpha 285 is now online!
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new AEU Rift Accelerating Battery-Powered Temporary Station in
+Asteroid Beacon Alpha 285.
+#SESSION 'StarConquest' ACTIVATED.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, Purr
+the humanoid service robot, and Buddy the hefty blue soldier felo here.
+Lily Kaise is dozing on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+[Everdark] Kato says: Only way to get proper dragon scales is to pry 'em off
+yerself.
+[AEU | 4: Sector Status] AEU Passively Beaconed Fusion Message Beacon at
+Asteroid Beacon Alpha 285 is now online!
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new AEU Passively Beaconed Fusion Message Beacon in Asteroid
+Beacon Alpha 285.
+[Everdark] Katra says: I just read ALL the newspapers in the library, so I know
+a
+[Everdark]    little of the history
+[Everdark] Katra grins.
+[Everdark] Silk shrugs helplessly.
+[Everdark] Kato says: I've always wanted to forge something like dragonscale
+armour.
+afk
+You don't feel very sleepy at the moment.
+[Everdark] Silk says: valaknar?
+afk
+You don't feel very sleepy at the moment.
+[Everdark] Silk says: no idea
+[Everdark] Kato wipes the grime from his face.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars says, "let's see what it wants"
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Everdark] Katra says: any other colors?
+#SESSION 'StarConquest' ACTIVATED.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a string of light purple plastic kelp.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+#SESSION 'StarConquest' ACTIVATED.
+A long gold soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+grin kitty
+I don't see that here.
+grin kitty
+I don't see that here.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Temporary
+Station from the two-person medium transport "The Cat's Meow". The organization
+has earned 889,775.20 credits.
+A firmly rooted animal with dozens of smooth yellow tendrils slowly waves its
+many tendrils.
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+yellow glowing interior drifts slowly across the tank.
+Buddy the hefty blue soldier felo marches south.
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A large thickly-shelled creature with a yellow shell and four small claws beats
+its claws together.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+#SESSION 'StarConquest' ACTIVATED.
+afk
+You blink heavily and then doze off.
+who
+There appear to be 22 pilots recently active.
+The communicator network detects:
+Evangeline Adaire  (A)
+Tanny Hill  (L)
+Soraya Rhyz  (L)
+Chase Marshall  (L)
+Joel Kringle  (L)
+Bryan Stout  (L)
+Johann Rowan  (L)
+Sol Sterling  (L)
+Jason Rat  (L)
+Akemi Bando  (L)
+Melinda Michaels  (L)
+Damien Goss  (L)
+Nicolette Lawrence  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Alko Delovega  (F)
+Damien Alexander  (F)
+Blake Madison  (F)
+Evenia Callseah  (F)
+Liam O'Toole  (M)
+Aisling an Sionnach  (M)
+Anfisa of Marzore  (M) [v]
+Additionally, there are 6 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 28 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+amber glowing interior drifts slowly past a small plastic statue of a shark.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Everdark] Katra will be right back.
+[Everdark] Katra closes her eyes and begins chanting an ancient spell.
+[Everdark] Katra leaves in a puff of smoke.
+[Everdark] Octavia follows after her master, Katra.
+[Miriani] Kitty Mars plugs a small handheld radio receiver into a console.
+sc
+#TRYING TO CONNECT 'star' TO 'moo.squidsoft.net' PORT '7771'.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars exclaims, "sorry had to get that recording!"
+#SESSION 'StarConquest' ACTIVATED.
+01:00:00
+Purr the humanoid service robot spasmodically shakes a container of fish food
+over a wall-sized bubbling neon purple-lit aquarium containing yellow and red
+aquatic life and coral rocks.
+Purr the humanoid service robot clomps south.
+Purr the humanoid service robot clomps into the room.
+[Tactical Communication] Ali Candan transmits, "What's going on?"
+[Tactical Communication] Melinda Michaels transmits, "We are docking at the
+repair station."
+[Tactical Communication] Erik Goodwin transmits, "Is everything okay?"
+[Tactical Communication] Ali Candan transmits, "What's going on there."
+[Tactical Communication] Melinda Michaels transmits, "Pirates in Orion."
+[Tactical Communication] Akemi Bando transmits, "Allied Pirate ambush."
+[Tactical Communication] Bryan Stout transmits, "Classes?"
+[Tactical Communication] Akemi Bando transmits, "Eidolon, bolt thrower, vanguard
+assault craft."
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+yellow glowing interior drifts slowly across the tank.
+#SESSION 'StarConquest' ACTIVATED.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch, a round white rattan
+coffee table with a glass top, a glossy purple ceramic felo chow bowl, a small
+purple trash bin, a wall-sized bubbling neon purple-lit aquarium containing
+yellow and red aquatic life and coral rocks, a robotic chef named Nellie, and
+Purr the humanoid service robot here.
+Lily Kaise is dozing on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+afk
+You blink heavily and then doze off.
+[Miriani] Kitty Mars says, "too much as we can't get it"
+[Tactical Communication] Akemi Bando transmits, "That bolt thrower finished
+knocking out my weapons."
+[Tactical Communication] Akemi Bando transmits, "Going to grab some repairs."
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic frond of light green sea fern.
+[Tactical Communication] Bryan Stout transmits, "Getting interdictors."
+[Tactical Communication] Bryan Stout transmits, "Clear."
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,868.38 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+[Tactical Communication] Alko Delovega transmits, "Can we get 2 for beacons?"
+[Tactical Communication] Sol Sterling transmits, "Sure."
+A long yellow soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+[Tactical Communication] Alko Delovega transmits, "One more."
+[Tactical Communication] Alko Delovega transmits, "No one wants to take that
+spot!"
+A medium-sized semi-transparent bell-shaped creature with short dangling
+tendrils and a chartreuse glowing interior drifts slowly past a plastic frond of
+light green sea fern.
+[Tactical Communication] Alko Delovega transmits, "Last call, before we go, one
+spot."
+[Tactical Communication] Nicolette Lawrence transmits, "I could go on something
+I suppose."
+[Tactical Communication] Bryan Stout transmits, "Woo new earth."
+[Tactical Communication] Alko Delovega transmits, "Woo."
+[Tactical Communication] Nicolette Lawrence transmits, "Coming, it'll be a
+minute or three."
+[Tactical Communication] Alko Delovega transmits, "Sure."
+Minor Change: The basic science vessel can now get captain's quarters and
+several other comforts that were previously limited to the Imperator.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "League."
+A metallic silver metachannel FTL communicator dings politely as it receives a
+new notice.
+#SESSION 'StarConquest' ACTIVATED.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (17/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+=======================
+Recent League Headlines
+=======================
+* NDI Clears Lesser Starship Enhancements for the LME-ZO2 'Science Vessel,'
+Previously Limited to the 'B' Variant [ 9 February 2317] (LCR)
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+'figures
+You say, "Figures."
+who
+There appear to be 23 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Evangeline Adaire  (A)
+Johann Rowan  (L)
+Soraya Rhyz  (L)
+Chase Marshall  (L)
+Tanny Hill  (L)
+Joel Kringle  (L)
+Bryan Stout  (L)
+Sol Sterling  (L)
+Jason Rat  (L)
+Akemi Bando  (L)
+Melinda Michaels  (L)
+Damien Goss  (L)
+Nicolette Lawrence  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Alko Delovega  (F)
+Damien Alexander  (F)
+Evenia Callseah  (F)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Liam O'Toole  (M)
+Aisling an Sionnach  (M)
+Anfisa of Marzore  (M) [v]
+Additionally, there are 5 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 28 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+sit sofa
+You're already sitting.
+afk
+You blink heavily and then doze off.
+changelog
+Recent Minor Changes:
+-----
+Pirates are no longer considred a threat by the Mutuality for the purposes of
+sector statuses.
+   Posted 2 days, 3 hours, 48 minutes, and 17 seconds ago
+-----
+The basic science vessel can now get captain's quarters and several other
+comforts that were previously limited to the Imperator.
+   Posted 3 minutes and 8 seconds ago
+-----
+A long yellow soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+who
+There appear to be 24 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Evangeline Adaire  (A)
+Erik Goodwin  (L)
+Johann Rowan  (L)
+Soraya Rhyz  (L)
+Chase Marshall  (L)
+Tanny Hill  (L)
+Joel Kringle  (L)
+Bryan Stout  (L)
+Sol Sterling  (L)
+Jason Rat  (L)
+Akemi Bando  (L)
+Melinda Michaels  (L)
+Damien Goss  (L)
+Nicolette Lawrence  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Alko Delovega  (F)
+Damien Alexander  (F)
+Evenia Callseah  (F)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Liam O'Toole  (M)
+Aisling an Sionnach  (M)
+Anfisa of Marzore  (M) [v]
+Additionally, there are 5 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 29 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[Tactical Communication] Erik Goodwin transmits, "Are the pirates still in
+orion?"
+[Tactical Communication] Bryan Stout transmits, "No."
+where
+Your communicator reports that...
+No one is relaxing anywhere in public. Maybe you should!
+afk
+You don't feel very sleepy at the moment.
+02:00:00
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' DIED.

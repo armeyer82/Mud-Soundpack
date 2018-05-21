@@ -1,0 +1,2088 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Aug 25 17:51:20 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+Buddy the hefty blue soldier felo marches in from the south.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 1.57 light-trade cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+Buddy the hefty blue soldier felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+use ball on buddy
+You roll a small yellow ball containing a realistic Bari horde noisemaker across
+the floor toward Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo pounces on the ball.
+You put a small yellow ball containing a realistic Bari horde noisemaker away.
+take treat
+Do you wish to pick that up? Selecting no will retrieve its contents.
+[Enter `yes' or `no']
+n
+You help yourself to a small Bari-shaped tidbit.
+drop tid
+You put down a small Bari-shaped tidbit.
+pet buddy
+You stroke the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs softly.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4512 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (210.0, -4.0)
+Riftflow:           6022 light-mincycles per seccycle from Galactic Southeast
+and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   6.543
+Distance Traveled:  35.81 light-trade cycles
+Apparent Region:    Known Space
+--
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 1.25 light-trade cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+'Maybe we should try to avoid that rift storm.
+You say, "Maybe we should try to avoid that rift storm."
+Kim Saunders gets a distant look on her face as she ponders.
+Kim Saunders says in a New Bristol accent, "Might be an idea."
+Buddy the hefty blue soldier felo seems to be hungry.
+Buddy the hefty blue soldier felo enthusiastically gobbles up a small
+Bari-shaped tidbit.
+rift heading 193 -4
+You quickly turn a small wheel on the rift drive control board.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+The starship suddenly lurches in a new direction. Something must be wrong with
+the inertial dampeners.
+A number flap display rapidly flips around to show a new heading of 193.0, -4.0.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4379 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (193.0, -4.0)
+Riftflow:           6012 light-mincycles per seccycle from Galactic Southeast
+and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   6.59M
+Distance Traveled:  35.86 light-trade cycles
+Apparent Region:    Known Space
+--
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 1.17 light-trade cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+Kim Saunders gets a distant look on her face as she ponders. "Not sure we will
+evade it on this heading."
+The background thrum of the ship's engines turns up an octave as it moves under
+emergency boost.
+Xavier the big silver soldier felo marches out.
+'ok, maybe we'll head more soutwest.
+You say, "Ok, maybe we'll head more soutwest."
+'er, southwest
+You say, "Er, southwest."
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+rift heading 225 =4
+Headings are in the format: orientation, elevation
+Invalid heading.
+rift heading 225 -4
+You quickly turn a small wheel on the rift drive control board.
+You hear a loud booming sound against the hull.
+The starship suddenly lurches in a new direction. Something must be wrong with
+the inertial dampeners.
+A number flap display rapidly flips around to show a new heading of 225.0, -4.0.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3669 light-mincycles per seccycle
+Direction:          Galactic Southwest and Very Slightly Down (225.0, -4.0)
+Riftflow:           5995 light-mincycles per seccycle from Galactic Southeast
+and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   6.5G9
+Distance Traveled:  35.93 light-trade cycles
+Apparent Region:    Known Space
+--
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3760 light-mincycles per seccycle
+Direction:          Galactic Southwest and Very Slightly Down (225.0, -4.0)
+Riftflow:           5996 light-mincycles per seccycle from Galactic Southeast
+and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   6.5H8
+Distance Traveled:  35.94 light-trade cycles
+Apparent Region:    Known Space
+--
+rift lo
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 1.08 light-trade cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+Kim Saunders says in a New Bristol accent, "I would personally do something
+about the elevation rather than going southwest."
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+Kim Saunders says in a New Bristol accent, "This ight work too, not sure."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 25.1 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 24.99 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 24.48 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 23.34 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 21.43 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 19.76 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+Buddy the hefty blue soldier felo marches out.
+Buddy the hefty blue soldier felo marches in from the airlock.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 17.41 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+Samantha the large violet felo jumps down from your lap.
+Xavier the big silver soldier felo marches in from the airlock.
+You hear someone knocking calmly upon the hull.
+Samantha the large violet felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+Xavier the big silver soldier felo marches south.
+Samantha the large violet felo gazes at Buddy the hefty blue soldier felo for a
+moment, then asks, "Mrrp?"
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 12.77 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+Samantha the large violet felo hums melodically to itself as it wanders out.
+You hear several peculiar, barely audible clangs outside of the ship's walls,
+followed by some scraping sounds.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 10.36 light-grand cycles away toward Galactic
+Westsouthwest and Very Slightly Down.
+A short violet soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A high warbling alarm suddenly goes off.  Speaking over it, the computer
+announces, "Fatal hit received.  Occupants must stand by for emergency
+ejection." Your vision goes black for a moment as everything fades into formless
+mist.
+Mist swirls through the air, coalescing into intricate silken webs that coat
+every surface.
+Samantha the large violet felo hums melodically to itself as it wanders in from
+the airlock.
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Buddy the hefty blue soldier felo marches out.
+A short yellow soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+Kim Saunders says in a New Bristol accent, "I am afraid we are not going to
+evade this."
+'Yeah, I don't think so either
+You say, "Yeah, I don't think so either."
+rift heading 210 -4
+You quickly turn a small wheel on the rift drive control board.
+With a sound like scraping stone, the ship changes direction.
+A number flap display rapidly flips around to show a new heading of 210.0, -4.0.
+The ship shudders and slows as the webs begin to catch on the hull.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The webbing appears to be growing slick with some kind of strange liquid.
+Webbing all around suddenly breaks, and the ship swings wildly through space.
+The webbing appears to be growing slick with some kind of strange liquid.
+The computer announces, "Warning: Entering riftstorm."
+Kim Saunders turns a small dial on the rift drive control board, trimming the
+riftsail to 50%.
+The ship shudders and slows as the webs begin to catch on the hull.
+Kim Saunders gets a distant look on her face as she ponders.
+Kim Saunders says in a New Bristol accent, "I did not think trimming to 50
+percent made that much of a difference."
+Kim Saunders turns a small dial on the rift drive control board, trimming the
+riftsail to 70%.
+The webbing appears to be growing slick with some kind of strange liquid.
+Samantha the large violet felo suddenly jumps onto a dark purple leather
+captain's chair.
+Kim Saunders turns a small dial on the rift drive control board, trimming the
+riftsail to 60%.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+Kim Saunders says in a New Bristol accent, "Well, this will have to do, until
+Lily wakes up and gives us a better advice."
+nod
+You nod.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+Samantha the large violet felo jumps into Lily Kaise's lap and settles in,
+purring.
+Buddy the hefty blue soldier felo marches in from the airlock.
+The webbing appears to be growing slick with some kind of strange liquid.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly across the tank.
+Buddy the hefty blue soldier felo stares curiously up at you.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+The ship shudders and slows as the webs begin to catch on the hull.
+Kim Saunders says in a New Bristol accent, "Oh, it is shifting."
+Buddy the hefty blue soldier felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+The webbing appears to be growing slick with some kind of strange liquid.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+The webbing appears to be growing slick with some kind of strange liquid.
+Buddy the hefty blue soldier felo stares curiously up at you.
+The ship shudders and slows as the webs begin to catch on the hull.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+Kim Saunders scrambles to her feet.
+Kim Saunders strolls south.
+Kim Saunders strolls in from the south.
+Kim Saunders strolls south.
+Kim Saunders strolls in from the south.
+Kim Saunders sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Kim Saunders takes a sip of an open can of fizzy brown cola.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+The webbing appears to be growing slick with some kind of strange liquid.
+Buddy the hefty blue soldier felo rubs up against Lily Kaise's ankle, purring
+softly.
+The webbing appears to be growing slick with some kind of strange liquid.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+Samantha the large violet felo jumps down from Lily Kaise's lap.
+The ship shudders and slows as the webs begin to catch on the hull.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+Buddy the hefty blue soldier felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+Samantha the large violet felo hums melodically to itself as it wanders south.
+The ship falls through a flimsy section of webbing, and you are suddenly
+freefalling with no sign of stopping.
+The webbing appears to be growing slick with some kind of strange liquid.
+A new section of webbing appears ahead of you, and the ship falls into it, your
+headlong descent slowing somewhat.
+The ship shudders and slows as the webs begin to catch on the hull.
+The intricate webbing gradually loses cohesion, eventually falling apart into
+quickly evaporating smoke.
+You mentally sigh in relief as you return to the starship.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The ship's reactionless drive whirrs loudly as it changes direction rapidly.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+grips a plastic shipwreck flying a pirate flag firmly in its claws, then gives
+up when it can't break the toy.
+Kim Saunders says in a New Bristol accent, "Ug."
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You hear a loud booming sound against the hull.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You hear a loud booming sound against the hull.
+Buddy the hefty blue soldier felo marches out.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The background thrum of the ship's engines turns up an octave as it moves under
+emergency boost.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You hear a loud booming sound against the hull.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+Shasta the big onyx soldier felo marches in from the south.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly past a small plastic statue
+of a shark.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+raises its claws at a small plastic statue of a shark and snaps them menacingly
+while dancing around it.
+Kim Saunders retrieves about a dozen thin noodles from a serving of hot
+chicken-flavored ramen in a small bowl and noisily sucks them into her mouth.
+Kim Saunders takes a sip of an open can of fizzy brown cola.
+Shasta the big onyx soldier felo jumps onto a dark purple leather captain's
+chair and immediately settles in.
+Shasta the big onyx soldier felo lies down and curls up into a tight ball,
+closes its eyes, and appears to sleep.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly past a plastic frond of
+light green sea fern.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You hear a loud booming sound against the hull.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The ship's reactionless drive lets out a sudden whine as the starship
+accelerates quickly.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+The ship's reactionless drive whirrs loudly as it changes direction rapidly.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The ship's reactionless drive lets out a sudden whine as the starship
+accelerates quickly.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The ship's reactionless drive lets out a sudden whine as the starship
+accelerates quickly.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The background thrum of the ship's engines turns up an octave as it moves under
+emergency boost.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      60%
+Ship's Speed:       4283 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (210.0, -4.0)
+Riftflow:           10185 light-mincycles per seccycle from Galactic West and Up
+Forecast:           CONDITIONS HIGHLY UNPREDICTABLE
+Time in Riftflow:   6.JBD
+Distance Traveled:  38.9 light-trade cycles
+Apparent Region:    Known Space
+--
+You hear a loud booming sound against the hull.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You hear a loud booming sound against the hull.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The ship's reactionless drive whirrs loudly as it changes direction rapidly.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+raises its claws at a small plastic statue of a Jinu and snaps them menacingly
+while dancing around it.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+chartreuse glowing interior drifts slowly past a plastic frond of light green
+sea fern.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+The background thrum of the ship's engines turns up an octave as it moves under
+emergency boost.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly over a white plastic undersea castle.
+You hear a loud booming sound against the hull.
+The deck jumps underneath your feet as a torpedo explodes against the hull.
+The ship's reactionless drive lets out a sudden whine as the starship
+accelerates quickly.
+You hear a sudden high-pitched whine all over the ship as the engineer effects
+swift repair of all components.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair with Shasta the sleeping big
+onyx soldier felo on it, a large oval white and black cloth rug, a rare black
+EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a
+glossy purple ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and green aquatic life and coral rocks, a small
+yellow ball containing a realistic Bari horde noisemaker, a small white trash
+bin, a blue plastic food storage container, Desiree the little black and white
+spotted CatBot, Kiska the humanoid service robot, a clear plastic food storage
+container, a small red insulated cooler, a compact red refrigerator, an engraved
+silver metal box decorated with enameled amethyst butterflies, a round white
+rattan coffee table with a glass top, a red plastic food storage container, and
+Magellan the arachnoid security robot here.
+Lily Kaise is dozing on a rare black EAOSian contoured couch. Kim Saunders is
+sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+A high warbling alarm suddenly goes off.  Speaking over it, the computer
+announces, "Fatal hit received.  Occupants must stand by for emergency
+ejection." Your vision goes black for a moment as everything fades into formless
+mist.
+The mist swirls as drops of water begin to fall from above. A moment later, the
+ceiling opens and a deluge of water pours into the room, filling it to the brim.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Kim Saunders activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lily Kaise glances around at her surroundings.
+Kim Saunders takes a bite of a serving of hot chicken-flavored ramen in a small
+bowl, quickly slurping up the longer noodles.
+Lily Kaise asks in a New Earth accent, "Oh are we in a storm?"
+"We are." Kim Saunders nods. "I trimmed down to 60 percent to try and minimize
+drift."
+Lily Kaise asks in a New Earth accent, "What type of storm?"
+Kim Saunders says in a New Bristol accent, "We tried evading it but not a
+chance."
+Lily Kaise nods.
+Kim Saunders says in a New Bristol accent, "Astable."
+Lily Kaise says in a New Earth accent, "Eek."
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+rears up against the glass and snaps its claws at the outside world.
+Kim Saunders says in a New Bristol accent, "I don't think that is the most
+dangerous variety, just annoying."
+Lily Kaise says in a New Earth accent, "Seems the chaotic ones, you can just
+charge ahead but not sure about this type."
+Lily Kaise nods.
+Kim Saunders says in a New Bristol accent, "And we are going somewhat against
+the flow, so yeah, slowing down seemed a sensible precaution."
+Lily Kaise nods.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+A short violet soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Mandy the old hefty indigo feathered felo wanders in from the south.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Mandy the old hefty indigo feathered felo rubs up against a rare black EAOSian
+contoured couch with a hand-made white and sapphire star quilt on it, purring
+softly.
+A long orange soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+A firmly rooted animal with dozens of smooth yellow tendrils slowly waves its
+many tendrils.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Mandy the old hefty indigo feathered felo wanders out.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Mandy the old hefty indigo feathered felo wanders in from the airlock.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Kim Saunders takes several bites of a serving of hot chicken-flavored ramen in a
+small bowl, each time happily slurping up the long noodles.
+Kim Saunders takes a sip of an open can of fizzy brown cola.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Buddy the hefty blue soldier felo marches in from the airlock.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a plastic flower with red petals.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Buddy the hefty blue soldier felo marches south.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+who
+There appear to be about 18 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+*Kim Saunders  (A) [m]
+*Lily Kaise  (A)
+%Melinda Michaels  (L)
+%Soraya Rhyz  (L)
+%Joel Kringle  (L)
+%Rose Lennex  (L)
+%Sean Sloan  (L)
+%Voice of the League Nicolette Lawrence  (L)
+%Lillian Hudson  (L)
+%Tobias Hawthorne  (L)
+%Ali Candan  (L)
+%Morris Corlew  (L)
+%Damien Goss  (L)
+%Gonzales Bourne  (F)
+%Ted Warburton  (F)
+%Keegan Wantz  (F)
+%Aisling the Fox  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 28 pilots.
+l
+[Starship "William Dove"; Control Room]
+Crystal clear water fills the fishbowl, and layer of gravel on the floor creates
+a natural looking substrate. A bubbling plastic treasure chest in the center is
+guarded by a plastic diver wearing a diving bell, and a kelp-like neon green
+plastic plant waves around, anchored into the gravel. A large goldfish and
+several tetras inhabit the fishbowl, along with a snail. Lights overhead
+indicate that the ship is on green status. Looking through the windows, you see
+that the ship is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair with Shasta the sleeping big
+onyx soldier felo on it, a large oval white and black cloth rug, a rare black
+EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a
+glossy purple ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and green aquatic life and coral rocks, a small
+yellow ball containing a realistic Bari horde noisemaker, a small white trash
+bin, a blue plastic food storage container, Desiree the little black and white
+spotted CatBot, Kiska the humanoid service robot, a clear plastic food storage
+container, a small red insulated cooler, a compact red refrigerator, an engraved
+silver metal box decorated with enameled amethyst butterflies, a round white
+rattan coffee table with a glass top, a red plastic food storage container,
+Magellan the arachnoid security robot, and Mandy the old hefty indigo feathered
+felo here.
+Lily Kaise and Kim Saunders are sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+lrscan
+You activate the long-range scanner and search for passive detections and recent
+ping returns.
+--
+Passive Long-Range Scan
+--
+No sensor signatures detected. A PING using the active long range scanner may
+reveal more, but is also likely to reveal your own ship's position.
+Mandy the old hefty indigo feathered felo stares curiously up at you.
+Shasta the big onyx soldier felo jumps down from a dark purple leather captain's
+chair.
+pet mandy
+You stroke the soft feathers of Mandy the old hefty indigo feathered felo.
+Mandy the old hefty indigo feathered felo purrs softly.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+smile lily
+You smile at Lily Kaise.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      60%
+Ship's Speed:       4664 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (210.0, -4.0)
+Riftflow:           9952 light-mincycles per seccycle from Galactic Down and
+Slightly East
+Forecast:           CONDITIONS HIGHLY UNPREDICTABLE
+Time in Riftflow:   7.13H
+Distance Traveled:  40.48 light-trade cycles
+Apparent Region:    Known Space
+--
+Mandy the old hefty indigo feathered felo wanders south.
+Shasta the big onyx soldier felo marches out.
+A short violet soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+Whatever is carrying the fishbowl begins moving more quickly, causing the water
+to swirl tremendously.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+The water calms slightly as the thing carrying the fishbowl slows its pace.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Shasta the big onyx soldier felo marches in from the airlock.
+The water suddenly roils as it drains rapidly from the bowl. When it empties,
+you find yourself back in the starship.
+The swirling mist parts to reveal a gaping mouth! Before you can react, the ship
+has plunged into it and into a fleshy pink tunnel.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+A large semi-transparent spherical creature with long dangling tendrils and an
+amber glowing interior pulsates gently.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Lily Kaise slumps in a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it and goes to sleep.
+A long gold soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Kim Saunders activates the long-range scanner and searches for passive
+detections and recent ping returns.
+who
+There appear to be about 15 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+*Kim Saunders  (A) [m]
+%Soraya Rhyz  (L)
+%Melinda Michaels  (L)
+%Joel Kringle  (L)
+%Rose Lennex  (L)
+%Sean Sloan  (L)
+%Nicolette of None  (L)
+%Akemi Bando  (L)
+%Tobias Hawthorne  (L)
+%Ali Candan  (L)
+%Morris Corlew  (L)
+%Damien Goss  (L)
+%Gonzales Bourne  (F)
+%Aisling the Fox  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 9 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 24 pilots.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+A short yellow soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+[Newbie Help] Joel Kringle transmits, "I meant to ask this earlier. Is it just
+me or when you look at a workbench it doesn't tell you whose it is? Along with
+that how can you specify someone else's? The only way I've figured out to do
+that one is to look and use the corresponding second third and so on workbench."
+[Newbie Help] Ali Candan transmits, "Yup."
+[Newbie Help] Akemi Bando transmits, "You can always identify your own workbench
+though."
+[Newbie Help] Ali Candan transmits, "I just usually type LOOK and get the order
+of them dropped."
+[Newbie Help] Akemi Bando transmits, "For instance USE MY WORKBENCH."
+[Newbie Help] Kim Saunders transmits, "You could type look my workbench."
+[Newbie Help] Joel Kringle transmits, "Yeah, that one comes in handy Akemi."
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Lily Kaise suddenly awakens.
+Kim Saunders smiles at Lily Kaise.
+Kim Saunders retrieves several flavorful clumps of noodles near the bottom of
+the bowl and slurps them up.
+Lily Kaise smiles.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+[Newbie Help] Joel Kringle transmits, "Thank you for the responses."
+Shasta the big onyx soldier felo stares curiously up at Kim Saunders.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise says in a New Earth accent, "Hey if we keep up this pace, we just
+might make it back by tomorrow morning. We only needed to travel less than I
+think it was 54 LTC from when the signal strength was 50."
+Lily Kaise smiles at you.
+locate
+You listen for a moment to the NDB pings from The Torus. They seem somewhat
+faint. The signal strength meter reads: 34%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 80%.
+grin 'That'd be cool
+You grin. "That'd be cool."
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Kim Saunders says in a New Bristol accent, "Yeah our speed today has been
+unusually incredible."
+Mandy the old hefty indigo feathered felo wanders in from the south.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Lily Kaise says in a New Earth accent, "I guess. I'm never in any hurry to get
+back into comms."
+nod lily 'True.
+You nod to Lily Kaise. "True."
+Kim Saunders says in a New Bristol accent, "I am generally not in any sort of a
+hurry either for a deep space trip."
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Mandy the old hefty indigo feathered felo wanders out.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Shasta the big onyx soldier felo marches out.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Shasta the big onyx soldier felo marches in from the airlock.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+chartreuse glowing interior drifts slowly over a white plastic undersea castle.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Kim Saunders tips the bowl into her mouth and drinks the richly flavored broth,
+finishing it off.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+Kim Saunders takes a sip of an open can of fizzy brown cola.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Shasta the big onyx soldier felo stares curiously up at Kim Saunders.
+Kim Saunders strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs softly.
+Kim Saunders finishes off an open can of fizzy brown cola.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Kim Saunders puts an empty can in a small white trash bin.
+Mandy the old hefty indigo feathered felo wanders in from the airlock.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Shasta the big onyx soldier felo marches out.
+The tunnel widens, the ship tumbling as it speeds through.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The tunnel narrows once more.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior pulsates gently.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a string of light purple plastic kelp.
+The ship shudders and creaks as powerful muscles squeeze it, then it is suddenly
+ejected into swirling mist.
+The curtains open, and countless faceless humanoids stare at you from their
+seats.
+Mandy the old hefty indigo feathered felo wanders out.
+Shasta the big onyx soldier felo marches in from the airlock.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+You look down at your watch, but you find that you cannot comprehend the concept
+of time.
+Kim Saunders says in a New Bristol accent, "Oh, joy. Just what we needed."
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+You inhale deeply and a warm, heavy liquid floods your lungs.
+You look down at your watch, but you find that you cannot comprehend the concept
+of time.
+Mandy the old hefty indigo feathered felo wanders in from the airlock.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+The heat from the stage light is oppressive.
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+The stage lights flicker briefly.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+The heat from the stage light is oppressive.
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+You hear a wet tearing sound.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+You look down at your watch, but you find that you cannot comprehend the concept
+of time.
+Mandy the old hefty indigo feathered felo wanders south.
+Shasta the big onyx soldier felo marches south.
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+You hear a wet tearing sound.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+The heat from the stage light is oppressive.
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+You hear a wet tearing sound.
+Kim Saunders yawns.
+Kim Saunders says in a New Bristol accent, "Darn, I'd love to stay up a bit
+longer to help out."
+Lily Kaise says in a New Earth accent, "We'll be fine."
+Kim Saunders says in a New Bristol accent, "I know."
+Kim Saunders stands up from a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it.
+Kim Saunders says in a New Bristol accent, "Safe watch, and see you in the
+morning."
+Lily Kaise says in a New Earth accent, "Ok have a good sleep cycle."
+Kim Saunders says in a New Bristol accent, "Thanks."
+Kim Saunders waves.
+Kim Saunders strolls south.
+The stage lights flicker briefly.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+You double over in pain, it feels as if it is going to break free at any moment!
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+You hear a wet tearing sound.
+glance
+You glance around at your surroundings.
+smile lily
+You smile at Lily Kaise.
+cuddle lily
+You cuddle up to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      60%
+Ship's Speed:       4678 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (210.0, -4.0)
+Riftflow:           9787 light-mincycles per seccycle from Galactic Southeast
+and Very Slightly Down
+Forecast:           CONDITIONS HIGHLY UNPREDICTABLE
+Time in Riftflow:   7.A36
+Distance Traveled:  42.55 light-trade cycles
+Apparent Region:    Known Space
+--
+locate
+You listen for a moment to the NDB pings from The Torus. They seem a little
+weak. The signal strength meter reads: 36%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 81%.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise turns a small dial on the rift drive control board, trimming the
+riftsail to 100%.
+The heat from the stage light is oppressive.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The stage lights flicker briefly.
+You shift your weight, but your feet seem to be stuck in some sort of muck.
+A number flap display rapidly flips around to show a new heading of 193.0, -4.0.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+You open your mouth to speak a line, but only a wet gurgle comes out.
+[Newbie Help] Aisling the Fox transmits, "What do you do if your ship is loaded
+with storage but it's at a negative for some reason? Is there a way to unload
+trade goods or ammunition while landed?"
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+cuddle lily
+You cuddle up to Lily Kaise.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+The heat from the stage light is oppressive.
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+You hear a wet tearing sound.
+Lily Kaise activates the long-range scanner and searches for passive detections
+and recent ping returns.
+The room ceases to spin.
+The stage lights flicker briefly.
+The computer announces, "Leaving riftstorm."
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise says in a New Earth accent, "Woo."
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+Lily Kaise cuddles up to you.
+Mandy the old hefty indigo feathered felo wanders in from the south.
+Lily Kaise strokes the soft feathers of Mandy the old hefty indigo feathered
+felo.
+Mandy the old hefty indigo feathered felo purrs and rubs its head against Lily's
+hand.
+Lily Kaise rolls a small yellow ball containing a realistic Bari horde
+noisemaker across the floor toward Mandy the old hefty indigo feathered felo.
+pet mandy
+You stroke the soft feathers of Mandy the old hefty indigo feathered felo.
+Mandy the old hefty indigo feathered felo purrs softly.
+Mandy the old hefty indigo feathered felo bounds after the ball.
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+Lily Kaise rolls a small yellow ball containing a realistic Bari horde
+noisemaker across the floor toward Mandy the old hefty indigo feathered felo.
+Lily Kaise helps herself to a small Bari-shaped tidbit.
+Mandy the old hefty indigo feathered felo pounces on the ball.
+Lily Kaise puts down a small Bari-shaped tidbit.
+Lily Kaise puts a small yellow ball containing a realistic Bari horde noisemaker
+away.
+Lily Kaise strokes the soft feathers of Mandy the old hungry hefty indigo
+feathered felo.
+Mandy the old hungry hefty indigo feathered felo purrs and rubs its head against
+Lily's hand.
+Rotten fruit and spinning bottles fly at you from the darkness. The room spins
+dizzyingly.
+The faceless people in the crowd redirect their ire to each other for a few
+moments.
+Lily Kaise shows a small Bari-shaped tidbit to Mandy the old hungry hefty indigo
+feathered felo.
+A large semi-transparent spherical creature with long dangling tendrils and an
+amber glowing interior drifts slowly across the tank.
+Mandy the old hungry hefty indigo feathered felo seems to be hungry.
+Mandy the old hungry hefty indigo feathered felo enthusiastically gobbles up a
+small Bari-shaped tidbit.
+[Newbie Help] Aisling the Fox transmits, "Asking again. Anyone know a way to
+unload trade cargo on the planet you got it from, or remove an ammo box? I
+loaded my ship up forgetting that the new plant growing eats the storage. So
+it's in the negative and I can't launch to jettison anyone."
+[Newbie Help] Morris Corlew transmits, "You can expel the ammo box."
+[Newbie Help] Joel Kringle transmits, "Without launching?"
+[Newbie Help] Akemi Bando transmits, "Use a hoverpallet to load up your
+overage."
+[Newbie Help] Morris Corlew transmits, "Oh Yeah. Use a hoverpall....what Akemi
+said."
+[Newbie Help] Aisling the Fox transmits, "Aha."
+[Newbie Help] Akemi Bando transmits, "Then move the cargo to another ship or
+sell the pallet."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+You cough out a small globule of thick, viscuous sludge.
+Lily Kaise says in a New Earth accent, "Eww."
+'Yuck.
+You say, "Yuck."
+Lily Kaise opens a compact red refrigerator and the light inside clicks on.
+Lily Kaise helps herself to a breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise quickly drains a cup of amaretto-flavored coffee.
+Lily Kaise puts a cup in a small white trash bin.
+Lily Kaise examines an elegant crystal decanter for a moment.
+Lily Kaise helps herself to a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+A short violet soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+take bread
+You help yourself to a breadstick sprinkled with parmesan and romano cheeses.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+eat bread
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+eat bread
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise finishes off a day old breadstick sprinkled with parmesan and romano
+cheeses.
+eat bread
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise opens a small red insulated cooler and the light inside clicks on.
+eat bread
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+eat bread
+You finish off a day old breadstick sprinkled with parmesan and romano cheeses.
+Lily Kaise closes a small red insulated cooler.
+Lily Kaise opens a blue plastic food storage container and the light inside
+clicks on.
+Lily Kaise removes a day old spicy teriyaki chicken roll from a blue plastic
+food storage container.
+Lily Kaise takes a bite of a day old spicy teriyaki chicken roll.
+take teriyaki
+You remove a day old spicy teriyaki chicken roll from a blue plastic food
+storage container.
+Lily Kaise takes a bite of a day old spicy teriyaki chicken roll.
+eat teriyaki
+You take a bite of a day old spicy teriyaki chicken roll.
+Lily Kaise takes a bite of a day old spicy teriyaki chicken roll.
+Lily Kaise takes a bite of a day old spicy teriyaki chicken roll.
+eat teriyaki
+You take a bite of a day old spicy teriyaki chicken roll.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise finishes off a day old spicy teriyaki chicken roll.
+eat teriyaki
+You take a bite of a day old spicy teriyaki chicken roll.
+Lily Kaise removes a day old delicious crab cake sandwich on a golden toasted
+sourdough roll from a blue plastic food storage container.
+eat teriyaki
+You take a bite of a day old spicy teriyaki chicken roll.
+eat teriyaki
+You finish off a day old spicy teriyaki chicken roll.
+Lily Kaise takes a bite of a day old delicious crab cake sandwich on a golden
+toasted sourdough roll.
+Lily Kaise takes a bite of a day old delicious crab cake sandwich on a golden
+toasted sourdough roll.
+Lily Kaise takes a bite of a day old delicious crab cake sandwich on a golden
+toasted sourdough roll.
+Lily Kaise finishes off a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise puts a goblet in a small white trash bin.
+Lily Kaise examines an elegant crystal decanter for a moment.
+Lily Kaise helps herself to a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise takes a bite of a day old delicious crab cake sandwich on a golden
+toasted sourdough roll.
+Lily says to you in a New Earth accent, "There are a couple of cheeseburgers in
+there."
+Lily Kaise finishes off a day old delicious crab cake sandwich on a golden
+toasted sourdough roll.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+take cheeseburger
+You remove a day old delicious bacon cheeseburger from a blue plastic food
+storage container.
+Lily Kaise glides in from the south.
+Lily Kaise puts down an insulated purple cooler.
+Lily Kaise removes a day old basket of homemade corn chips and spicy salsa from
+an insulated purple cooler.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+eat cheeseburger
+You take a bite of a day old delicious bacon cheeseburger.
+Lily Kaise finishes off a day old basket of homemade corn chips and spicy salsa.
+eat cheeseburger
+You take a bite of a day old delicious bacon cheeseburger.
+eat cheeseburger
+You take a bite of a day old delicious bacon cheeseburger.
+eat cheeseburger
+You take a bite of a day old delicious bacon cheeseburger.
+eat cheeseburger
+You finish off a day old delicious bacon cheeseburger.
+Lily Kaise removes a day old serving of chili fries topped with cheese and green
+onions from a blue plastic food storage container.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise takes a bite of a day old serving of chili fries topped with cheese
+and green onions.
+Lily Kaise takes a bite of a day old serving of chili fries topped with cheese
+and green onions.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise takes a bite of a day old serving of chili fries topped with cheese
+and green onions.
+Lily Kaise takes a bite of a day old serving of chili fries topped with cheese
+and green onions.
+Lily Kaise finishes off a day old serving of chili fries topped with cheese and
+green onions.
+Lily Kaise removes a day old basket of breaded fried mozarella sticks with
+dipping sauce from an insulated purple cooler.
+Lily Kaise grins.
+Lily Kaise exclaims in a New Earth accent, "It's a feast!"
+Magellan the arachnoid security robot skitters south.
+Lily Kaise takes a bite of a day old basket of breaded fried mozarella sticks
+with dipping sauce.
+Lily Kaise takes a bite of a day old basket of breaded fried mozarella sticks
+with dipping sauce.
+Lily Kaise takes a bite of a day old basket of breaded fried mozarella sticks
+with dipping sauce.
+Lily Kaise takes a bite of a day old basket of breaded fried mozarella sticks
+with dipping sauce.
+Lily Kaise finishes off a day old basket of breaded fried mozarella sticks with
+dipping sauce.
+Magellan the arachnoid security robot skitters into the room.
+Magellan the arachnoid security robot spasmodically shakes a container of fish
+food over a wall-sized bubbling neon purple-lit aquarium containing yellow and
+green aquatic life and coral rocks.
+Magellan the arachnoid security robot skitters south.
+Lily Kaise says in a New Earth accent, "There's some chicken tenders somewhere."
+Lily Kaise grins.
+A member of the audience's lack of face suddenly twists into itself, forming
+countless mouths, gasping for relief.
+Magellan the arachnoid security robot skitters into the room.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+Lily Kaise opens a small red insulated cooler and the light inside clicks on.
+Lily Kaise closes a small red insulated cooler.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4448 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (193.0, -4.0)
+Riftflow:           5968 light-mincycles per seccycle from Galactic
+Southsoutheast and Down
+Lily Kaise closes a blue plastic food storage container.
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   7.D4O
+Distance Traveled:  43.3 light-trade cycles
+Apparent Region:    Known Space
+--
+Lily Kaise points at a red plastic food storage container.
+Lily Kaise says in a New Earth accent, "The chicken tenders are in there."
+Lily Kaise grins.
+Mandy the old hefty indigo feathered felo wanders out.
+'Ah, ok. I'll eat them in a bit.
+You say, "Ah, ok. I'll eat them in a bit."
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Shasta the big onyx soldier felo marches in from the south.
+The curtains close, to no applause.
+The walls whip away at high speed, carried into the far distance as the floor
+carries on without them. A darkened hoverfreeway rises from below.
+A long orange soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Mandy the old hefty indigo feathered felo wanders in from the airlock.
+Shasta the big onyx soldier felo jumps into your lap and settles in, purring.
+A large semi-transparent spherical creature with long dangling tendrils and an
+amber glowing interior pulsates gently.
+caress lily on back
+You gently caress Lily Kaise's back.
+Mandy the old hefty indigo feathered felo rubs up against Lily Kaise's ankle,
+purring softly.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+Mandy the old hefty indigo feathered felo wanders out.
+The hovertruck spends several minutes overtaking a hovercar. Nobody appears to
+be in its driver's seat.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior pulsates gently.
+Mandy the old hefty indigo feathered felo wanders in from the airlock.
+pet mandy
+You stroke the soft feathers of Mandy the old hefty indigo feathered felo.
+Mandy the old hefty indigo feathered felo purrs softly.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior pulsates gently.
+Lily Kaise strokes the soft feathers of Mandy the old hefty indigo feathered
+felo.
+Mandy the old hefty indigo feathered felo purrs and rubs its head against Lily's
+hand.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+Shasta the big onyx soldier felo jumps down from your lap.
+The hovertruck spends several minutes overtaking a hovercar. Nobody appears to
+be in its driver's seat.
+Mandy the old hefty indigo feathered felo wanders south.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Mandy the old hefty indigo feathered felo wanders in from the south.
+Shasta the big onyx soldier felo rubs up against Mandy the old hefty indigo
+feathered felo, and both animals purr softly.
+The hovertruck spends several minutes overtaking a hovercar. Nobody appears to
+be in its driver's seat.
+cuddle lily
+You cuddle up to Lily Kaise.
+A large semi-transparent spherical creature with long dangling tendrils and an
+amber glowing interior pulsates gently.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An astable riftstorm appears to be 1.85 light-trade cycles away toward Galactic
+East and Very Slightly Up.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4337 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (193.0, -4.0)
+Riftflow:           5979 light-mincycles per seccycle from Galactic
+Southsoutheast and Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic South and Down.
+Time in Riftflow:   7.ION
+Distance Traveled:  44.66 light-trade cycles
+Apparent Region:    Known Space
+--
+charge
+ __  
+|  | Charge Readout:
+|  | 
+|  | 6.HKJ of charge remaining at the current rate of discharge.
+|  | This is sufficient for approximately 149 wormhole jumps.
+|**| 
+|**| 
+|**| CHARGE LEVEL: 36%
+   --
+Mandy the old hefty indigo feathered felo rubs up against Shasta the big onyx
+soldier felo, and both animals purr softly.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Mandy the old hefty indigo feathered felo jumps into your lap and settles in,
+purring.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+pet mandy
+You stroke the soft feathers of Mandy the old hefty indigo feathered felo.
+Mandy the old hefty indigo feathered felo purrs and rubs its head against your
+hand.
+A long orange soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+The hovertruck turns rapidly and careens off the highway, gliding through the
+air before evaporating into the darkness.
+You hear a loud call in front of you, and the flock shifts as one, finding a new
+updraft.
+Mandy the old hefty indigo feathered felo curls up and closes its eyes.
+Samantha the large violet felo hums melodically to itself as it wanders in from
+the south.
+Shasta the big onyx soldier felo seems to be hungry.
+Shasta the big onyx soldier felo approaches a glossy purple ceramic felo chow
+bowl, glances around, then begins shoveling low-grade dry Felo Chow into its
+mouth.
+locate
+You listen for a moment to the NDB pings from The Torus. They seem a little
+weak. The signal strength meter reads: 39%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 82%.
+Samantha the large violet felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+Shasta the big onyx soldier felo marches south.
+locate
+You listen for a moment to the NDB pings from The Torus. They seem a little
+weak. The signal strength meter reads: 39%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 82%.
+locate
+You listen for a moment to the NDB pings from The Torus. They seem a little
+weak. The signal strength meter reads: 39%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 82%.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly past a plastic frond of
+light green sea fern.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise wraps her arms around you, pulling you close.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic frond of light green sea fern.
+Lily Kaise smiles at you.
+The flock seems to be gradually losing altitude with no updraft beneath it.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+Samantha the large violet felo hums melodically to itself as it wanders south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4209 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (193.0, -4.0)
+Riftflow:           5977 light-mincycles per seccycle from Galactic South and
+Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Down.
+Time in Riftflow:   7.MFE
+Distance Traveled:  45.53 light-trade cycles
+Apparent Region:    Known Space
+--
+'Well, bet we slow down here in a bit.
+You say, "Well, bet we slow down here in a bit."
+Lily Kaise says in a New Earth accent, "Yep."
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says in a New Earth accent, "But we only have about 8 or 9 LTC to
+go."
+'True
+You say, "True."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+smile lily 'I love you.
+You smile at Lily Kaise. "I love you."
+Lily Kaise says in a New Earth accent, "The questio is yes the NDB isn't
+particularly directional but if we're still too far north or south, it's hard to
+say."
+A bird grows tired and falls behind the V formation. You take its place.
+A large semi-transparent cylindrical creature with very long dangling tendrils
+and a green glowing interior pulsates gently.
+Lily Kaise says in a New Earth accent, "Question that is."
+nod
+You nod.
+-lily I love you.
+You say to Lily, "I love you."
+Lily Kaise smiles at you. "I love you too."
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+Shasta the big onyx soldier felo marches in from the south.
+The flock's leader retires to another part of the V formation, and another bird
+replaces it.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+A long gold soft-bodied creature with many claw-tipped tentacles swims around a
+small plastic statue of a shark.
+Shasta the big onyx soldier felo jumps into Lily Kaise's lap and settles in,
+purring.
+grin lily
+You grin at Lily Kaise.
+Jewel the large violet glowing felo wanders in from the south.
+A bird grows tired and falls behind the V formation. You take its place.
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The flock banks smoothly, moving as one.
+A number flap display rapidly flips around to show a new heading of 211.0, -4.0.
+The flock seems to be gradually losing altitude with no updraft beneath it.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3239 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (211.0, -4.0)
+Riftflow:           5977 light-mincycles per seccycle from Galactic South and
+Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Westsouthwest and Down.
+Time in Riftflow:   8.069
+Distance Traveled:  46.14 light-trade cycles
+Apparent Region:    Known Space
+--
+The flock finds a large updraft and rapidly gains altitude.
+Jewel the large violet glowing felo wanders south.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The flock banks smoothly, moving as one.
+A number flap display rapidly flips around to show a new heading of 192.0, -4.0.
+The flock seems to be gradually losing altitude with no updraft beneath it.
+The flock finds a large updraft and rapidly gains altitude.
+The flock banks suddenly, and you turn to follow, but no other bird is in sight.
+The scene abruptly fades.
+The mist swirls as drops of water begin to fall from above. A moment later, the
+ceiling opens and a deluge of water pours into the room, filling it to the brim.
+Lily Kaise says in a New Earth accent, "Weird the prediction changed to west and
+down."
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4011 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (192.0, -4.0)
+Riftflow:           5979 light-mincycles per seccycle from Galactic
+Southsouthwest and Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic West and Down.
+Time in Riftflow:   8.0OG
+Distance Traveled:  46.3 light-trade cycles
+Apparent Region:    Known Space
+--
+'YEah and we'll be heading against the flow.
+You say, "YEah and we'll be heading against the flow."
+[Newbie Help] Morris Corlew transmits, "Going to do it this way instead of
+through ooc asides. Just look at the room, Zandria. It lists the ships that are
+smelling."
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly past a small plastic statue
+of a Jinu.
+wrpa lily
+I don't understand that.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise hugs Shasta the big onyx soldier felo.
+A short violet soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+Lily says to Shasta the big onyx soldier felo in a New Earth accent, "Hey little
+pal."
+[Newbie Help] Morris Corlew transmits, "Is there a specific color coding behind
+the ooc asides? I know someone who's is green and now a...magenta one."
+grin
+You grin.
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily Kaise.
+caress lily on hair and back
+You gently caress Lily Kaise's hair and back.
+Lily Kaise gently caresses your neck and shoulders.
+The bubbles rising from the large plastic treasure chest become less frequent.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Lily Kaise says in a New Earth accent, "Oh look we passed this one on the way
+in."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A readout shows Remains of the EAOS 152nd about 5.24 light-grand cycles toward
+Galactic Northeast and Slightly Down.
+'right
+You say, "Right."
+Jewel the large violet glowing felo wanders in from the south.
+A small snail glides effortlessly across the inner surface of the glass.
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Lily Kaise says in a New Earth accent, "Wo if this is right, we're just under 3
+LTC from the Asteroid Cluster. We could actually try jumping to there."
+Lily Kaise says in a New Earth accent, "Oh um."
+'why not?
+You ask, "Why not?"
+Shasta the big onyx soldier felo jumps down from Lily Kaise's lap.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A readout shows Remains of the EAOS 152nd about 7.07 light-grand cycles toward
+Galactic Eastnortheast and Slightly Down.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Lily Kaise says in a New Earth accent, "Ugh 'hmm I hope I don't remember that
+wrong but somehow I seem to recall remains of the EAOS 292 iw what we
+encountered and I don't remember seeing this so oops."
+locate
+You listen for a moment to the NDB pings from The Torus. They seem just slightly
+weak. The signal strength meter reads: 41%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 82%.
+Jewel the large violet glowing felo rubs up against Shasta the big onyx soldier
+felo, and both animals purr softly.
+Lily Kaise says in a New Earth accent, "Whoops wow try 252."
+''Well, the Torus NDB is at 82 percent. It'd be kind of strange if we were close
+enough to jump from here.
+You say, "'Well, the Torus NDB is at 82 percent. It'd be kind of strange if we
+were close enough to jump from here."
+Lily Kaise says in a New Earth accent, "Yeah."
+locate
+You listen for a moment to the NDB pings from The Torus. They seem just slightly
+weak. The signal strength meter reads: 41%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 82%.
+Lily Kaise says in a New Earth accent, "Remember it's to the Out of Comms
+Asteroid Cluster but I am fairly certain that it was at 91 so we have more to
+travel."
+nod
+You nod.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+grips a plastic wrecked EAOS Defender firmly in its claws, then gives up when it
+can't break the toy.
+Jewel the large violet glowing felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+Shasta the big onyx soldier felo jumps into Lily Kaise's lap and settles in,
+purring.
+The bubbles rising from the large plastic treasure chest become less frequent.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Lily Kaise says in a New Earth accent, "Oh it's being fickle."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A readout shows Remains of the EAOS 152nd about 14.71 light-grand cycles toward
+Galactic Eastnortheast and Slightly Down.
+Lily Kaise says in a New Earth accent, "It's supposed to go westnorthwest."
+Lily Kaise laughs.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3353 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (192.0, -4.0)
+Riftflow:           5991 light-mincycles per seccycle from Galactic
+Westsouthwest and Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Westnorthwest and Very Slightly Down.
+Time in Riftflow:   8.53L
+Distance Traveled:  47.19 light-trade cycles
+Apparent Region:    Known Space
+--
+'yeah
+You say, "Yeah."
+chuckle
+You chuckle.
+Lily Kaise says in a New Earth accent, "That won't be too bad but it's going to
+push us more east southeast."
+'Yeah
+You say, "Yeah."
+A large semi-transparent cylindrical creature with very long dangling tendrils
+and a green glowing interior drifts slowly over a white plastic undersea castle.
+The bubbles rising from the large plastic treasure chest become less frequent.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The tetras drift apart momentarily, then suddenly converge and flit in another
+direction.
+A number flap display rapidly flips around to show a new heading of 210.0, -4.0.
+Jewel the large violet glowing felo wanders out.
+The bubbles rising from the large plastic treasure chest become less frequent.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Lily Kaise says in a New Earth accent, "Ok at least the regular NDB went up to
+42."
+locate
+You listen for a moment to the NDB pings from The Torus. They seem just slightly
+weak. The signal strength meter reads: 42%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 82%.
+nod
+You nod.
+Lily Kaise says in a New Earth accent, "I'll probably try to stay awake as long
+as I can this morning."
+Jewel the large violet glowing felo wanders in from the airlock.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+Jewel the large violet glowing felo rubs up against a dark purple leather
+captain's chair, purring softly.
+The water suddenly roils as it drains rapidly from the bowl. When it empties,
+you find yourself back in the starship.
+A high pitched whistling sound screams overhead as a mortar shell flies through
+the air. It explodes nearby with tremendous force, and when the dust and smoke
+clears, the starship is gone, replaced with a deep earthen trench and the sounds
+of battle.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+Lily Kaise smiles.
+smile
+You smile.
+Jewel the large violet glowing felo wanders out.
+A short yellow soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a cerulean blue synthcotton shipsuit and a pair of sparkly white
+leather clogs. She is also wearing an orange and white blessed prayer bracelet
+around her wrist, a slender bracelet of tiny tinkling silver bells around her
+wrist, a neon purple wrist-mounted chronometer, a solid silver ring engraved
+with dragonflies, a delicate ring of silver wire and small purple amethyst
+crystals, a metallic gold touch einrophone in a metallic purple reinforced
+plastic phone holster, and a soft fuchsia Tardick lizard snuggly labeled
+'Asteria'. Her head, face, both eyes, both wrists, and both hands are left
+uncovered.
+She is carrying Shasta the big onyx soldier felo in her right hand.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Jewel the large violet glowing felo wanders in from the airlock.
+[Newbie Help] Sean Sloan transmits, "So how do you put a colar on a pet?"
+[Newbie Help] Morris Corlew transmits, "Clothe pet in item."
+[Newbie Help] Morris Corlew transmits, "Or with?"
+[Newbie Help] Morris Corlew transmits, "I always forget that, unfortunately."
+[Newbie Help] Morris Corlew transmits, "The name of the pet though..."
+Jewel the large violet glowing felo jumps into your lap and settles in, purring.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet jewel
+You stroke the soft fur of Jewel the large violet glowing felo.
+Jewel the large violet glowing felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+[Newbie Help] Sean Sloan transmits, "Thanks."
+[Newbie Help] Morris Corlew transmits, "Yep."
+Mandy the old hefty indigo feathered felo jumps down from your lap.
+Lily Kaise strokes the soft feathers of Mandy the old hefty indigo feathered
+felo.
+Mandy the old hefty indigo feathered felo purrs and rubs its head against Lily's
+hand.
+pet mandy
+You stroke the soft feathers of Mandy the old hefty indigo feathered felo.
+Mandy the old hefty indigo feathered felo purrs and rubs its head against your
+hand.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The shouts of the enemy soldiers draw ever closer.
+Enemy gunfire erupts at the far end of the trench, and a group of soldiers rush
+over to defend the area.
+A number flap display rapidly flips around to show a new heading of 192.0, -4.0.
+A large explosion bursts just outside the trench, raining down dirt and
+shrapnel.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       1799 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (192.0, -4.0)
+Riftflow:           6065 light-mincycles per seccycle from Galactic
+Westnorthwest and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Northwest and Very Slightly Up.
+Time in Riftflow:   8.8BD
+Distance Traveled:  47.81 light-trade cycles
+Apparent Region:    Known Space
+--
+Jewel the large violet glowing felo jumps down from your lap.
+Jewel the large violet glowing felo seems to be hungry.
+Jewel the large violet glowing felo approaches a glossy purple ceramic felo chow
+bowl, glances around, then begins shoveling low-grade dry Felo Chow into its
+mouth.
+Lily Kaise strokes the soft fur of Jewel the large violet glowing felo.
+Jewel the large violet glowing felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+The mortar crew launch a volley of shells into enemy territory, scoring direct
+hits.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       2679 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (192.0, -4.0)
+Riftflow:           6065 light-mincycles per seccycle from Galactic
+Westnorthwest and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Northwest and Very Slightly Up.
+Time in Riftflow:   8.8DH
+Distance Traveled:  47.82 light-trade cycles
+Apparent Region:    Known Space
+--
+Jewel the large violet glowing felo jumps onto a rare black EAOSian contoured
+couch with a hand-made white and sapphire star quilt on it and immediately
+settles in.
+Jewel the large violet glowing felo lies down and curls up into a tight ball,
+closes its eyes, and appears to sleep.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+Several soldiers run by, rifles at the ready and bayonets fixed.
+A number flap display rapidly flips around to show a new heading of 212.0, -4.0.
+Lily Kaise kisses you softly on the neck.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+An allied biplane flies overhead, strafing the battlefield with a hail of
+machine-gun fire.
+The mortar crew launch a volley of shells into enemy territory, scoring direct
+hits.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Mandy the old hefty indigo feathered felo wanders south.
+[Newbie Help] Caleb Davenport transmits, "How do you laugh directly at someone
+over comms."
+[Newbie Help] Morris Corlew transmits, "Laugh name."
+[Newbie Help] Morris Corlew transmits, "No punctuation."
+[Newbie Help] Caleb Davenport transmits, "Aa cool."
+Shasta the big onyx soldier felo jumps down from Lily Kaise's lap.
+An injured soldier hobbles by using his rifle as a makeshift crutch. His left
+leg is soaked in blood.
+Shasta the big onyx soldier felo jumps into your lap and settles in, purring.
+Lily Kaise exclaims in a New Earth accent, "He's making the rounds!"
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt and Jewel the sleeping large violet glowing felo
+on it.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt and Jewel the sleeping large violet glowing felo
+on it.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+```pet shata
+Say to whom?
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a string of light purple plastic kelp.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+The mortar crew launch a volley of shells into enemy territory, scoring direct
+hits.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+A large semi-transparent cylindrical creature with very long dangling tendrils
+and a green glowing interior drifts slowly past a string of light purple plastic
+kelp.
+smile lily
+You smile at Lily Kaise.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3792 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (212.0, -4.0)
+Riftflow:           6129 light-mincycles per seccycle from Galactic
+Westnorthwest
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Northwest and Slightly Up.
+Time in Riftflow:   8.BHG
+Distance Traveled:  48.4 light-trade cycles
+Apparent Region:    Known Space
+--
+Lily Kaise smiles at you.
+An allied soldier jumps down into the trench and quickly disappears into the
+fog.
+caress lily on hair, back and waist.
+You gently caress Lily Kaise's hair, back and waist..
+who
+There appear to be about 9 pilots recently active.
+The starship's computer and QE comm detect:
+*Lily Kaise  (A)
+*Shule Elemmire  (A) [m]
+%Caleb Davenport  (L)
+%Melinda Michaels  (L)
+%Nicolette of None  (L)
+%Nissi Valdaire  (L) [a]
+%Corey Matthews  (L)
+%Morris Corlew  (L)
+%Gonzales Bourne  (F)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 20 pilots.
+Explosions begin to ring out all around. An officer begins to shout to take
+cover just as a bomb bursts nearby. A burning wave of fire and blinding light
+instantly consumes everything, and then you find yourself back in the starship.
+Listen. You need to be careful.
+who
+There appear to be about 8 pilots recently active.
+The starship's computer and QE comm detect:
+*Lily Kaise  (A)
+*Shule Elemmire  (A) [m]
+%Caleb Davenport  (L)
+%Melinda Michaels  (L)
+%Nissi Valdaire  (L) [a]
+%Corey Matthews  (L)
+%Morris Corlew  (L)
+%Gonzales Bourne  (F)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 19 pilots.
+It's the journey, not the destination, that matters.
+locate
+You listen for a moment to the NDB pings from The Torus. They seem just slightly
+weak. The signal strength meter reads: 45%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem quite loud. The signal strength meter reads: 83%.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+wrap lily
+#end
+#SESSION 'star' DIED.

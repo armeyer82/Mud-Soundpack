@@ -1,0 +1,2596 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Aug 25 17:51:20 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and green aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a blue plastic food storage container, Desiree the little
+black and white spotted CatBot, Kiska the humanoid service robot, a clear
+plastic food storage container, a small red insulated cooler, a compact red
+refrigerator, an engraved silver metal box decorated with enameled amethyst
+butterflies, a round white rattan coffee table with a glass top, Magellan the
+arachnoid security robot, a red plastic food storage container, Sassie the large
+fuchsia felo, Buddy the hefty blue soldier felo, and Xavier the big silver
+soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch. Kim Saunders is
+dozing on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+lrscan
+You activate the long-range scanner and search for passive detections and recent
+ping returns.
+--
+Passive Long-Range Scan
+--
+No sensor signatures detected. A PING using the active long range scanner may
+reveal more, but is also likely to reveal your own ship's position.
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: Like someone's dress? You can type LOOK [clothing] ON [person] to see more
+detail.
+**
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and green aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a blue plastic food storage container, Desiree the little
+black and white spotted CatBot, Kiska the humanoid service robot, a clear
+plastic food storage container, a small red insulated cooler, a compact red
+refrigerator, an engraved silver metal box decorated with enameled amethyst
+butterflies, a round white rattan coffee table with a glass top, Magellan the
+arachnoid security robot, a red plastic food storage container, Sassie the large
+fuchsia felo, Buddy the hefty blue soldier felo, and Xavier the big silver
+soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch. Kim Saunders is
+dozing on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+Kim Saunders glances around at her surroundings.
+Lily Kaise smiles at you.
+'Sorry, didn't mean to doze off there for a bit.
+You say, "Sorry, didn't mean to doze off there for a bit."
+smile lily
+smile lily
+You smile at Lily Kaise.
+You smile at Lily Kaise.
+Kim Saunders says in a New Bristol accent, "I think I managed to doze off as
+well."
+[Newbie Help] Morris Corlew transmits, "Did you type out? You were in the taxi."
+Lily says to you in a New Earth accent, "Since Kim is worried about getting
+home, we'll forgoe exploring for the Aquarium and hopefully in a year or two
+i'll find enough time to come back and try again for my shell."
+-lily Awww, ok. Well, we'll try again later then.
+You say to Lily, "Awww, ok. Well, we'll try again later then."
+Kim Saunders gets a distant look on her face as she ponders. "Well, we have
+until somewhere late in the night, but I honestly think we are pretty off
+track."
+Lily Kaise says in a New Earth accent, "Well maybe as I won't have as much time
+during the daytime to work with my own crew."
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Lily Kaise says in a New Earth accent, "So if it happens, it happens."
+Lily Kaise smiles.
+Lily Kaise shrugs.
+Lily Kaise says in a New Earth accent, "Well w we've gone passed where I wanted
+to explore and I'm not back tracking at this point."
+Kim Saunders says in a New Bristol accent, "We should go up slightly for a few
+hours."
+Kim Saunders says in a New Bristol accent, "From what I read in the book I think
+we are a bit low."
+Lily Kaise says in a New Earth accent, "We go up to go toit but we're headed
+back to comms now."
+Lily Kaise says in a New Earth accent, "To reverse our trip we go back West
+southwest and very slightly down."
+Lily Kaise says in a New Earth accent, "We're passed the area where they started
+seeing the SLFS."
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Buddy the hefty blue soldier felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+"Our trip going out was 31 4, yeah?" Kim Saunders gets a distant look on her
+face as she ponders.
+The crowd emits a low, keening drone at you.
+Lily Kaise says in a New Earth accent, "The NDB is up to 53 now which means
+we're getting close to returning to Comms."
+Lily Kaise says in a New Earth accent, "Yep."
+Kim Saunders says in a New Bristol accent, "I am sorry we didn't find it."
+Kim Saunders says in a New Bristol accent, "31 plus 180 is 211 I think."
+Lily Kaise says in a New Earth accent, "It is and 193 -4 is also West
+southwest."
+Lily Kaise says in a New Earth accent, "It's pretty relative now as this is not
+an exact science. Since I can't chart to determine a better position, I am just
+using this heading and may adjust to tune for speed when needed."
+Kim Saunders says in a New Bristol accent, "I know it's not an exact science."
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and green aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a blue plastic food storage container, Desiree the little
+black and white spotted CatBot, Kiska the humanoid service robot, a clear
+plastic food storage container, a small red insulated cooler, a compact red
+refrigerator, an engraved silver metal box decorated with enameled amethyst
+butterflies, a round white rattan coffee table with a glass top, Magellan the
+arachnoid security robot, a red plastic food storage container, Buddy the hefty
+blue soldier felo, Xavier the big silver soldier felo, and Sassie the large
+fuchsia felo here.
+Lily Kaise and Kim Saunders are sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+Lily Kaise says in a New Earth accent, "We don't know exactly where we are with
+respect to our original direction. Nor did we maintain that exact line of travel
+either so this is as good of a heading as anything."
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Buddy the hefty blue soldier felo marches south.
+Lily Kaise says in a New Earth accent, "180 plus or minus your original heading
+is a good rule of thumb and it would be great if you can maintain that exact
+line of travel throughout but if you wander the course a bit, it's not going to
+give you a dead on heading either."
+Lily Kaise says in a New Earth accent, "Others have used 34 4 and the original
+crew used a more northeasterly heading and a little more up and others have used
+32 8 and so on."
+It feels as if something is trying to force its way out of your skull.
+Kim Saunders says in a New Bristol accent, "Yeah, a charter would have been
+handy, at least for the return. I don't' think charts for the aquarium currently
+exist."
+Lily Kaise says in a New Earth accent, "Actually, if one can chart Coreward
+notation, I'm fairly certain that the Coreward chart from Gunarsh would cover it
+but not be covered on the typical Spinward chart which only covers 40 LTC from
+Earth."
+Lily Kaise says in a New Earth accent, "Anfisa's huge Spinward chart which
+covers 300 LTC would also accomodate this area."
+It feels as if something is trying to force its way out of your skull.
+Xavier the big silver soldier felo marches out.
+Lily Kaise says in a New Earth accent, "The 80 LTC Spinward Chart would get one
+pretty close as well but Nissi and Anfisa I think are the only ones who have
+those."
+Lily Kaise says in a New Earth accent, "It might actually cover it as well."
+Kim Saunders nods.
+The curtains close, to no applause.
+A massive cloud billows through the ship, and when it passes, the ship has been
+replaced with a small island of grassy land, inexplicably soaring through the
+clouds. Far below, peaceful towns and farmlands checker the surface of the
+world.
+Kim Saunders says in a New Bristol accent, "Like I said, I am sorry we didn't
+find it. Maybe we should not have stayed this long at that artifacting place."
+Lily Kaise says in a New Earth accent, "Last I knew though Melinda couldn't read
+Coreward though so that's also ratehr uncommon as a notation skill."
+Xavier the big silver soldier felo marches in from the airlock.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a string of light purple plastic kelp.
+Kim Saunders examines a fresh fruit juice dispenser for a moment.
+Kim Saunders helps herself to a cup of golden apple juice.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Kim Saunders scrambles to her feet.
+Kim Saunders strolls south.
+Kim Saunders strolls in from the south.
+Kim Saunders sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Kim Saunders says to Lily, "But it can't be as bad that you won't get a shell
+for 2 years? There must be a solution before then?"
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+Kim Saunders retrieves about a dozen thin noodles from a serving of hot
+chicken-flavored ramen in a small bowl and noisily sucks them into her mouth.
+Xavier the big silver soldier felo marches out.
+Lily Kaise says in a New Earth accent, "No idea as it depends on when someone
+else is leading a crew to come out this way and if I am invited."
+Kim Saunders says in a New Bristol accent, "Well, I am sure we can organize a
+trip. I still have not seen the aquarium so at some point even I might organize
+a trip."
+Lily Kaise says in a New Earth accent, "Well I likely can't be available as much
+of the day as I currently am though as I will be scaling back my work to less
+hours per day."
+Sassie the large fuchsia felo jumps into Lily Kaise's lap and settles in,
+purring.
+Lily Kaise says in a New Earth accent, "We'll see how it goes."
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Kim Saunders says in a New Bristol accent, "We will. And we were just unlucky
+with the storms I think, or we would have been there already."
+Lily Kaise says in a New Earth accent, "Need to stretch my legs here. Be back in
+a few."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Shasta the big onyx soldier felo slides to the floor.
+Sassie the large fuchsia felo slides to the floor.
+Lily Kaise says in a New Earth accent, "Yep that is what I think."
+Lily Kaise glides south.
+Kim Saunders gets a distant look on her face as she ponders.
+Kim Saunders takes a bite of a serving of hot chicken-flavored ramen in a small
+bowl, quickly slurping up the longer noodles.
+Sassie the large fuchsia felo stares up at Kim Saunders for a moment, then says,
+"Mrr" and wanders away.
+Xavier the big silver soldier felo marches in from the airlock.
+Shasta the big onyx soldier felo rubs up against a rare black EAOSian contoured
+couch with a hand-made white and sapphire star quilt on it, purring softly.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+A tailwind catches the floating island, pushing it forward at increasing speeds.
+Shasta the big onyx soldier felo marches south.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts close to a large semi-transparent
+bell-shaped creature with medium-length dangling tendrils and a cerulean glowing
+interior, and the creatures appear to merge for a few moments.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Xavier the big silver soldier felo marches out.
+A long orange soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic frond of light green sea fern.
+A flock of large, white birds with long, multicolored tail feathers circle
+around the outcrop, then disappear off into a cloud, their calls echoing in the
+distance.
+Sassie the large fuchsia felo jumps into your lap and settles in, purring.
+Buddy the hefty blue soldier felo marches in from the south.
+Lily Kaise strokes the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs softly.
+Buddy the hefty blue soldier felo stares curiously up at Kim Saunders.
+The island passes through a thick, fluffy cloud, coating everything in a
+refreshingly cool mist, before it emerges on the other side.
+Buddy the hefty blue soldier felo marches south.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+raises its claws at a small plastic statue of a shark and snaps them menacingly
+while dancing around it.
+The island seems to follow the snaking trail of a scenic river below.
+The island ascends into a dense cloud, obscuring all vision. Just when you think
+it is about to emerge, the cloud dissipates and you are back in the starship.
+The mist turns to black smoke that soon drifts away, and you find that the ship
+is on a conveyor belt, moving rapidly through a factory.
+Lily Kaise says in a New Earth accent, "Oh good I think we'll avoid that storm."
+Lily Kaise says in a New Earth accent, "It's pretty far away."
+Kim Saunders nods.
+Kim Saunders takes several bites of a serving of hot chicken-flavored ramen in a
+small bowl, each time happily slurping up the long noodles.
+Kim Saunders says in a New Bristol accent, "Indeed does not seem like the kind
+of storm we'd want to travel through."
+Xavier the big silver soldier felo marches in from the airlock.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a string of light purple plastic kelp.
+Kim Saunders takes a sip of a cup of golden apple juice.
+A Tardick lizard named Asteria trundles slowly into the area.
+A short yellow soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Xavier the big silver soldier felo marches out.
+Sassie the large fuchsia felo jumps down from your lap.
+Sassie the large fuchsia felo seems to be hungry.
+Sassie the large fuchsia felo approaches a glossy purple ceramic felo chow bowl,
+glances around, then begins shoveling low-grade dry Felo Chow into its mouth.
+Kim Saunders nods. "I think we will indeed slip past that storm."
+A Tardick lizard named Asteria flicks its tail.
+Mandy the old hefty indigo feathered felo wanders in from the south.
+Xavier the big silver soldier felo marches in from the airlock.
+A long gold soft-bodied creature with many claw-tipped tentacles swims around a
+small plastic statue of a shark.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and green aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a blue plastic food storage container, Desiree the little
+black and white spotted CatBot, Kiska the humanoid service robot, a clear
+plastic food storage container, a small red insulated cooler, a compact red
+refrigerator, an engraved silver metal box decorated with enameled amethyst
+butterflies, a round white rattan coffee table with a glass top, Magellan the
+arachnoid security robot, a red plastic food storage container, a Tardick lizard
+named Asteria, Sassie the large fuchsia felo, Mandy the old hefty indigo
+feathered felo, and Xavier the big silver soldier felo here.
+Kim Saunders and Lily Kaise are sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+Mandy the old hefty indigo feathered felo rears up and plants both pairs of
+forelegs on Kim Saunders's leg, then rubs its head against her, purring softly.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+grips a plastic shipwreck flying a pirate flag firmly in its claws, then gives
+up when it can't break the toy.
+A gigantic hand suddenly picks up the ship, turns it from one side to the other,
+then places it back on the conveyor belt.
+A Tardick lizard named Asteria trundles slowly south.
+Mandy the old hefty indigo feathered felo wanders south.
+Xavier the big silver soldier felo marches out.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise opens a compact red refrigerator and the light inside clicks on.
+Lily Kaise removes a day old frosty mug full of root beer from a compact red
+refrigerator.
+Lily Kaise closes a compact red refrigerator.
+Xavier the big silver soldier felo marches in from the airlock.
+Lily Kaise takes a sip of a day old frosty mug full of root beer.
+Lily Kaise takes a sip of a day old frosty mug full of root beer.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+Lily Kaise takes a sip of a day old frosty mug full of root beer.
+Lily Kaise takes a bite of a day old basket of homemade corn chips and spicy
+salsa.
+Lily Kaise takes a sip of a day old frosty mug full of root beer.
+Lily Kaise finishes off a day old frosty mug full of root beer.
+Lily Kaise puts a mug in a small white trash bin.
+Lily Kaise finishes off a day old basket of homemade corn chips and spicy salsa.
+Kim Saunders retrieves several flavorful clumps of noodles near the bottom of
+the bowl and slurps them up.
+A boiler shudders loudly as you pass it, steam venting around the bolts which
+hold it together.
+Kim Saunders says in a New Bristol accent, "Oh, look, we are back in known
+space."
+Lily Kaise nods.
+Xavier the big silver soldier felo marches south.
+Kim Saunders takes a sip of a cup of golden apple juice.
+Sassie the large fuchsia felo suddenly jumps onto a dark purple leather
+captain's chair.
+A long orange soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A short yellow soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A boiler shudders loudly as you pass it, steam venting around the bolts which
+hold it together.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+A gigantic hand suddenly picks up the ship, turns it from one side to the other,
+then places it back on the conveyor belt.
+Your vision is obscured by a sudden burst of black smoke, which gradually fades
+to mist.
+The mist swirls and obscures your vision. It quickly evaporates, leaving you in
+an alien landscape. Tall grassed plains stretch on as far as the eye can see, as
+the planet's sun is slowly setting on the horizon.
+Sassie the large fuchsia felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly across the tank.
+Sassie the large fuchsia felo rubs up against your leg with a quiet "Mrrp.".
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise bounces a small yellow ball containing a realistic Bari horde
+noisemaker toward Sassie the large fuchsia felo.
+Sassie the large fuchsia felo pounces on the ball.
+Lily Kaise bounces a small yellow ball containing a realistic Bari horde
+noisemaker toward Sassie the large fuchsia felo.
+Sassie the large fuchsia felo bats wildly at the ball.
+Lily Kaise puts a small yellow ball containing a realistic Bari horde noisemaker
+away.
+Lily Kaise helps herself to a small Bari-shaped tidbit.
+Lily Kaise puts down a small Bari-shaped tidbit.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior pulsates gently.
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+Kim Saunders says in a New Bristol accent, "Seems like that rift storms keeps
+its distance."
+Kim Saunders tips the bowl into her mouth and drinks the richly flavored broth,
+finishing it off.
+Kim Saunders takes a sip of a cup of golden apple juice.
+[Newbie Help] Aisling the Fox transmits, "What's the command to check your
+docking bay size? For the life of me I can't remember."
+[Newbie Help] Morris Corlew transmits, "Dock I think."
+[Newbie Help] Kim Saunders transmits, "Docking or dockingbay."
+[Newbie Help] Morris Corlew transmits, "Ah yeah that's right. I always get that
+mixed up."
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+raises its claws at a small plastic statue of a Jinu and snaps them menacingly
+while dancing around it.
+smile lily
+You smile at Lily Kaise.
+smile kim
+You smile at Kim Saunders.
+who
+There appear to be about 19 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+*Lily Kaise  (A)
+*Kim Saunders  (A) [m]
+%Soraya Rhyz  (L)
+%Sean Sloan  (L)
+%Rose Lennex  (L)
+%Johann Rowan  (L)
+%Nissi Valdaire  (L) [a]
+%Lillian Hudson  (L)
+%Melinda Michaels  (L)
+%Nicolette of None  (L)
+%Akemi Bando  (L)
+%Ali Candan  (L)
+%Karasi Valhannon  (L)
+%Morris Corlew  (L)
+%James Kennedy  (F)
+%Gonzales Bourne  (F)
+%Aisling the Fox  (M)
+%Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 29 pilots.
+Kim Saunders takes a sip of a cup of golden apple juice.
+Kim Saunders finishes off a cup of golden apple juice.
+Kim Saunders puts a cup in a small white trash bin.
+Kim Saunders yawns.
+Kim Saunders says in a New Bristol accent, "Well, I think my bed calls."
+nod kim 'Alright, sleep well
+You nod to Kim Saunders. "Alright, sleep well."
+Kim Saunders says in a New Bristol accent, "I should be awake pretty early
+though."
+Lily Kaise nods to Kim Saunders. "Have a good sleep cycle."
+Kim Saunders smiles. "Have a safe watch, and hope you will find something nice
+to take a picture of."
+Kim Saunders stands up from a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it.
+Kim Saunders waves.
+Lily Kaise waves.
+wave kim
+You wave to Kim Saunders.
+Kim Saunders strolls south.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Lily says to you in a New Earth accent, "Sorry but I had to cave-in to her as
+we'd never hear the last of it for the remainder of the trip."
+nod 'I understand
+You nod. "I understand."
+Lily Kaise says in a New Earth accent, "I really wanted to give her the benefit
+of the doubt in that I knew she is very rigid but thought she knew enough about
+the uncertainty of exploration and that one needs to be flexible and not expect
+everyone to conform to your tight personal schedule."
+Lily Kaise says in a New Earth accent, "Or her."
+'Yeah, I thought she did too.
+You say, "Yeah, I thought she did too."
+Lily Kaise says in a New Earth accent, "Then she was so rude to me earlier. I
+almost totally ignored her but I just didn't want to put up with the whining for
+the remainder of the trip as well as I am sure she would run to Melinda and
+others and talk behind my back."
+nod
+You nod.
+Lily Kaise says in a New Earth accent, "But yeah I may not have this much time
+during the day to be on watch unless we wing it together but it's putting a bit
+on you."
+Lily Kaise wraps her arms around you, pulling you close.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise says in a New Earth accent, "I wasn't being sarcastic when I said
+that at all."
+'I'll do what I can, but yeah. I can't promise I'd always be around when you're
+not.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly past a string of light
+purple plastic kelp.
+You say, "I'll do what I can, but yeah. I can't promise I'd always be around
+when you're not."
+Lily Kaise says in a New Earth accent, "Yeah so we would have to coordinate on
+things."
+A gentle breeze gentle rustles through the grass, causing ripple-like waves.
+Lily Kaise says in a New Earth accent, "And there would have to be enough of a
+commitment or it's a no go."
+nod
+You nod.
+Lily Kaise says in a New Earth accent, "I'm not pressuring you. I'm just saying
+we woul d have to work out a plan. I can generally have enough to get us where
+we're going on a short trip but coming back I may not be awake much."
+'I know.
+You say, "I know."
+smile
+You smile.
+Lily Kaise smiles at you.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+caress lily on bakc
+You gently caress Lily Kaise's bakc.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+raises its claws at a small plastic statue of a Jinu and snaps them menacingly
+while dancing around it.
+A herd of large, six-legged creatures with thick, slate blue skin wander by
+peacefully.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+The low-droning of an alien insect fills the air.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise gently caresses your neck and shoulders.
+Lily Kaise kisses you on the lips.
+smile lily
+You smile at Lily Kaise.
+A Tardick lizard named Asteria trundles slowly into the area.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+pet asteria
+You stroke a Tardick lizard named Asteria's warm scaly skin.
+Lily Kaise opens a compact red refrigerator and the light inside clicks on.
+caress lily on hair, back and waist
+You gently caress Lily Kaise's hair, back and waist.
+Lily Kaise helps herself to a slice of pinwheel pizza.
+Lily Kaise dangles a day old slice of pinwheel pizza in front of a Tardick
+lizard named Asteria. The lizard's tongue flicks out once, then its head lunges
+forward, snapping up the food in a sudden blur and immediately swallowing it
+whole.
+Lily Kaise closes a compact red refrigerator.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+A Tardick lizard named Asteria flicks its tongue out.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a light yellow shipsuit with yellow trim around the collar and
+cuffs and a pair of sparkly white leather clogs. She is also wearing an orange
+and white blessed prayer bracelet around her wrist, a slender bracelet of tiny
+tinkling silver bells around her wrist, a neon purple wrist-mounted chronometer,
+a solid silver ring engraved with dragonflies, a delicate ring of silver wire
+and small purple amethyst crystals, a metallic gold touch einrophone in a
+metallic purple reinforced plastic phone holster, and a soft fuchsia Tardick
+lizard snuggly labeled 'Asteria'. Her head, face, both eyes, both wrists, and
+both hands are left uncovered.
+She is carrying nothing.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+A heavy wind suddenly rushes over the plains as a large cloud of dust rolls in.
+As quickly as it comes, it is gone, and you find yourself back in the starship.
+You mentally sigh in relief as you return to the starship.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly past a small plastic statue
+of a shark.
+caress lily on chest
+You gently caress Lily Kaise's chest.
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+: slips his hand under your shipsuit and caresses your back.
+Shule slips his hand under your shipsuit and caresses your back.
+Lily Kaise kisses you softly on the neck.
+: moves his hand to the front of your shipsuit and caresses your chest under it.
+Shule moves his hand to the front of your shipsuit and caresses your chest under
+it.
+Xavier the big silver soldier felo marches in from the south.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+grips a plastic wrecked EAOS Defender firmly in its claws, then gives up when it
+can't break the toy.
+A Tardick lizard named Asteria trundles slowly south.
+[Newbie Help] Morris Corlew transmits, "Isn't there a command to wave to
+everyone?"
+[Newbie Help] Jason Rat transmits, "Emoting is all I know."
+[Newbie Help] Morris Corlew transmits, "Ok, thanks. I thought there was a wave
+room or something."
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Lily Kaise smiles at you.
+Lily Kaise examines an elegant crystal decanter for a moment.
+Lily Kaise helps herself to a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise opens a compact red refrigerator and the light inside clicks on.
+Lily Kaise removes a day old hot scrambled egg sandwich with three slices of
+crispy applewood-smoked bacon and melted sharp cheddar on toasted focaccia bread
+from a small red insulated cooler.
+Lily Kaise says in a New Earth accent, "Oops."
+Lily Kaise puts a day old hot scrambled egg sandwich with three slices of crispy
+applewood-smoked bacon and melted sharp cheddar on toasted focaccia bread in a
+small red insulated cooler.
+Lily Kaise closes a small red insulated cooler.
+Lily Kaise helps herself to a breadstick sprinkled with parmesan and romano
+cheeses.
+take bread
+You help yourself to a breadstick sprinkled with parmesan and romano cheeses.
+Lily Kaise closes a compact red refrigerator.
+eat  bread
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise says in a New Earth accent, "Oops I almost closed it on you."
+Lily Kaise hugs you.
+grin lily
+You grin at Lily Kaise.
+hug lily
+You hug Lily Kaise.
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+eat bread
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise wraps her arms around you, pulling you close.
+eat bread
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+eat bread
+You take a bite of a day old breadstick sprinkled with parmesan and romano
+cheeses.
+eat bread
+You finish off a day old breadstick sprinkled with parmesan and romano cheeses.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise finishes off a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise puts a goblet in a small white trash bin.
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise takes a bite of a day old breadstick sprinkled with parmesan and
+romano cheeses.
+Lily Kaise examines an elegant crystal decanter for a moment.
+Lily Kaise helps herself to a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise says in a New Earth accent, "Eek."
+Lily Kaise says in a New Earth accent, "There's another storm."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 1.4 light-trade cycles away toward Galactic
+Southsoutheast and Slightly Up.
+A hazy riftstorm appears to be 1.29 light-trade cycles away toward Galactic
+Southwest and Slightly Down.
+nod
+You nod.
+Xavier the big silver soldier felo jumps onto a rare black EAOSian contoured
+couch with a hand-made white and sapphire star quilt on it and immediately
+settles in.
+Xavier the big silver soldier felo lies down and curls up into a tight ball,
+closes its eyes, and appears to sleep.
+pet xavier
+You stroke the soft fur of Xavier the sleeping big silver soldier felo.
+Xavier the sleeping big silver soldier felo rolls over on its side, snoring
+gently.
+Lily Kaise says in a New Earth accent, "The one which seems to do a disappearing
+act."
+Lily Kaise laughs.
+laugh
+You laugh.
+Lily Kaise strokes the soft fur of Xavier the sleeping big silver soldier felo.
+Xavier the sleeping big silver soldier felo yawns and settles back down into
+sleep.
+cuddle lily
+You cuddle up to Lily Kaise.
+remove boots
+You tug a pair of light brown leather boots decorated with silver stars off of
+your feet.
+drop boots
+You put down a pair of light brown leather boots decorated with silver stars.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+pet sassi
+You stroke the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly past a plastic frond of
+light green sea fern.
+Lily Kaise kisses you on the lips.
+Something tickles the back of your neck.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+A short amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a string of light purple plastic kelp.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+caress lily on hair and back
+You gently caress Lily Kaise's hair and back.
+Lily gently rubs your back and strokes your hair.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+caress lily on chest and tumy.
+You gently caress Lily Kaise's chest and tumy..
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+Lily Kaise finishes off a day old breadstick sprinkled with parmesan and romano
+cheeses.
+Lily Kaise removes a day old serving of grilled chicken breast with marinara and
+parmesan sauces over pasta from a red plastic food storage container.
+Lily Kaise takes a bite of a day old serving of grilled chicken breast with
+marinara and parmesan sauces over pasta.
+Lily Kaise takes a bite of a day old serving of grilled chicken breast with
+marinara and parmesan sauces over pasta.
+Lily Kaise takes a bite of a day old serving of grilled chicken breast with
+marinara and parmesan sauces over pasta.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise takes a bite of a day old serving of grilled chicken breast with
+marinara and parmesan sauces over pasta.
+Lily Kaise finishes off a day old serving of grilled chicken breast with
+marinara and parmesan sauces over pasta.
+Lily Kaise removes a day old green garden salad drizzled with black peppercorn
+ranch dressing from a red plastic food storage container.
+take grilled chicken
+You remove a day old serving of grilled chicken breast with marinara and
+parmesan sauces over pasta from a red plastic food storage container.
+eat chicken
+You take a bite of a day old serving of grilled chicken breast with marinara and
+parmesan sauces over pasta.
+Lily Kaise takes a bite of a day old green garden salad drizzled with black
+peppercorn ranch dressing.
+eat chicken
+You take a bite of a day old serving of grilled chicken breast with marinara and
+parmesan sauces over pasta.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+eat chicken
+You take a bite of a day old serving of grilled chicken breast with marinara and
+parmesan sauces over pasta.
+eat chicken
+You take a bite of a day old serving of grilled chicken breast with marinara and
+parmesan sauces over pasta.
+Lily Kaise takes a bite of a day old green garden salad drizzled with black
+peppercorn ranch dressing.
+eat chicken
+You finish off a day old serving of grilled chicken breast with marinara and
+parmesan sauces over pasta.
+Lily Kaise takes a bite of a day old green garden salad drizzled with black
+peppercorn ranch dressing.
+Lily Kaise takes a bite of a day old green garden salad drizzled with black
+peppercorn ranch dressing.
+Lily Kaise finishes off a day old green garden salad drizzled with black
+peppercorn ranch dressing.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+Lily Kaise removes a day old slice of white chocolate cheesecake drizzled with
+raspberry sauce from a red plastic food storage container.
+Lily Kaise takes a bite of a day old slice of white chocolate cheesecake
+drizzled with raspberry sauce.
+Lily Kaise takes a bite of a day old slice of white chocolate cheesecake
+drizzled with raspberry sauce.
+Lily Kaise takes a bite of a day old slice of white chocolate cheesecake
+drizzled with raspberry sauce.
+Something tickles the back of your neck.
+Lily Kaise takes a bite of a day old slice of white chocolate cheesecake
+drizzled with raspberry sauce.
+Lily Kaise finishes off a day old slice of white chocolate cheesecake drizzled
+with raspberry sauce.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+A short amethyst soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+: kisses you on the lips and neck
+Shule kisses you on the lips and neck.
+lrscan
+You activate the long-range scanner and search for passive detections and recent
+ping returns.
+--
+Passive Long-Range Scan
+--
+No sensor signatures detected. A PING using the active long range scanner may
+reveal more, but is also likely to reveal your own ship's position.
+fit loc
+I don't understand that.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 1.53 light-trade cycles away toward
+Galactic Southsoutheast and Slightly Up.
+A hazy riftstorm appears to be 24.26 light-grand cycles away toward Galactic
+Southsouthwest and Slightly Down.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+creeps across the bottom of the tank, snapping its many claws rapidly.
+You hear something fall in the next room.
+The room grows a bit warmer.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+You hear something fall in the next room.
+For a brief moment, everything seems to be normal.
+A fiery cloud of pyroclastic ash roars through the starship, burning the walls
+away. When it passes, the ship is a drifting platform hovering through a barren
+hellscape covered in ash. A volcano spews ash and fire into the blackened sky as
+glowing lava flows down its sides. The scorched remains of trees, animals, and
+humans caught in the blast litter the ground.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+chartreuse glowing interior pulsates gently.
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A Tardick lizard named Asteria trundles slowly into the area.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+beats its claws together.
+``caress lily on backl
+Say to whom?
+l
+[Starship "William Dove"; Control Room]
+A barren hellscape covered in ash stretches on for miles in all directions. Off
+on the horizon, a massive volcano is spewing ash and fire into the blackened sky
+from its crater, and glowing lava flows cover the mountain. The scorched remains
+of trees, animals, and humans litter the ground. Lights overhead indicate that
+the ship is on green status. Looking through the windows, you see that the ship
+is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt and Xavier the sleeping big silver soldier felo on it, a
+glossy purple ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and green aquatic life and coral rocks, a small
+yellow ball containing a realistic Bari horde noisemaker, a small white trash
+bin, a blue plastic food storage container, Desiree the little black and white
+spotted CatBot, Kiska the humanoid service robot, a clear plastic food storage
+container, a small red insulated cooler, a compact red refrigerator, an engraved
+silver metal box decorated with enameled amethyst butterflies, a round white
+rattan coffee table with a glass top, Magellan the arachnoid security robot, a
+red plastic food storage container, a small Bari-shaped tidbit, a pair of light
+brown leather boots decorated with silver stars, and a Tardick lizard named
+Asteria here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt and Xavier the sleeping big silver soldier felo on it.)
+caress lily on back
+You gently caress Lily Kaise's back.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+A Tardick lizard named Asteria flicks its tongue out.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+: slips his hand down the front of your shipsuit and caresses your chest and
+breasts.
+Shule slips his hand down the front of your shipsuit and caresses your chest and
+breasts.
+Magellan the arachnoid security robot spasmodically shakes a container of fish
+food over a wall-sized bubbling neon purple-lit aquarium containing yellow and
+green aquatic life and coral rocks.
+Magellan the arachnoid security robot skitters south.
+Magellan the arachnoid security robot skitters into the room.
+A large semi-transparent spherical creature with long dangling tendrils and an
+amber glowing interior drifts slowly past a plastic frond of light green sea
+fern.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly south.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+chartreuse glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise says in a New Earth accent, "That hazy guy is getting closer. Let's
+hope we still manage to pass it."
+nod
+You nod.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A short amethyst soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+Lily Kaise wraps her arms around you, pulling you close.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+caress lily on hair, back and waist.
+You gently caress Lily Kaise's hair, back and waist..
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at a white plastic undersea castle and clings to it for a moment, then
+jets off.
+: pulls you into his lap.
+Shule pulls you into his lap.
+You hear tormented cries and wailing off in the distance, but cannot determine
+where they are coming from.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt and Xavier the sleeping big silver soldier felo on
+it.
+Lily Kaise sits down on your lap.
+Lily says to you in a New Earth accent, "We need to keep an eye on this storm
+and I cant' get too distracted until it's passed."
+nod lily
+You nod to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+A Tardick lizard named Asteria trundles slowly into the area.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+Lily Kaise pets you on the head.
+Lily Kaise grins.
+grin
+You grin.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise exclaims in a New Earth accent, "We're getting closer to that thing
+but let's just hope we don't get too close!"
+nod
+You nod.
+The skeletal remains of dozens of humans tremble and rattle below.. The ghastly
+creatures reform and stand, reaching toward the edges of the platform with
+gashing teeth and glowing red eyes.
+Lily Kaise says in a New Earth accent, "Uh huh."
+A Tardick lizard named Asteria flicks its tail.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 2.06 light-trade cycles away toward
+Galactic Southeast and Slightly Up.
+A hazy riftstorm appears to be 14.25 light-grand cycles away toward Galactic
+South and Down.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3892 light-mincycles per seccycle
+Direction:          Galactic Westsouthwest and Very Slightly Down (193.0, -4.0)
+Riftflow:           5017 light-mincycles per seccycle from Galactic
+Northnortheast and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic North and Very Slightly Down.
+Time in Riftflow:   2.231
+Distance Traveled:  12.01 light-trade cycles
+Apparent Region:    Known Space
+--
+Xavier the big silver soldier felo jumps down from a rare black EAOSian
+contoured couch with a hand-made white and sapphire star quilt on it.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily says to Xavier the big silver soldier felo in a New Earth accent, "Hey
+buddy tht was a long nap."
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+The skeletal remains of dozens of humans tremble and rattle below.. The ghastly
+creatures reform and stand, reaching toward the edges of the platform with
+gashing teeth and glowing red eyes.
+Lily Kaise says in a New Earth accent, "Yeah dudes just stay up there."
+Lily Kaise laughs.
+Lily Kaise says in a New Earth accent, "Oh ya it's south so hopefully, we'll
+pass by it."
+'Yeah, hopefully.
+You say, "Yeah, hopefully."
+Lily Kaise carefully turns a few small knobs on the broadcaster control board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 193.0, -4.0.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The platform suddenly turns as it narrowly misses being smashed by a falling
+rock.
+A number flap display rapidly flips around to show a new heading of 211.0, -4.0.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The eruptions from the volcano become more sporadic, and the platform slows.
+The platform suddenly turns as it narrowly misses being smashed by a falling
+rock.
+A number flap display rapidly flips around to show a new heading of 193.0, -4.0.
+Lily Kaise says in a New Earth accent, "I'd rather go more towards West than
+south and Kim jsut didn't get that."
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+A Tardick lizard named Asteria flicks its tail.
+'She seemed to want to go the exact opposite of our heading out.
+You say, "She seemed to want to go the exact opposite of our heading out."
+Lily Kaise says in a New Earth accent, "Yeah that's how she thinks. It's got to
+be one or the other and no shades of gray."
+Lily Kaise laughs.
+'But like you said, it's not going to  make a whole lot of a difference.
+You say, "But like you said, it's not going to make a whole lot of a
+difference."
+laugh
+You laugh.
+Lily Kaise says in a New Earth accent, "No it isn't but in this case it likely
+kept us out of the way of at least two riftstorms."
+nod
+You nod.
+A short amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a small plastic statue of a shark.
+A Tardick lizard named Asteria trundles slowly south.
+Lily Kaise says in a New Earth accent, "As I said, it is a good rule of thumb if
+you don't have the various headings in your head."
+nod
+You nod.
+Xavier the big silver soldier felo seems to be hungry.
+Xavier the big silver soldier felo enthusiastically gobbles up a small
+Bari-shaped tidbit.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+pet lily
+You pet Lily Kaise on the head.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cape Myers
+Paradise Vineyards Pinot Grigio.
+Lily Kaise says in a New Earth accent, "You know two what really annoys me is if
+it were Nissi or someone else heading up this crew, Kim wouldn't dare act that
+way."
+nod
+You nod.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+Lily Kaise says in a New Earth accent, "One thing is it's just wrong not to
+respect the captain. Constructive comments and suggestions are not a problem but
+her saying outright that I took her interests with a grain of salt is just
+manipulative and wrong."
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+Lily Kaise strokes a hairy yellow eight-legged ArachnoPal named Higgins's
+bristly hair.
+nod lily 'That was rather harsh.
+You nod to Lily Kaise. "That was rather harsh."
+Lily Kaise says in a New Earth accent, "Even with Akemi. I felt that I should
+respect albeit she has less experience than many and so when we were discussing
+her decision. I made it a point to tell her that I respected her decision
+although I had a different viewpoint and that whatever she decided to do was
+acceptable to me as it was her ship."
+The ground trembles as the volcano erupts violently. The entire mountain is
+blown apart in the distance. You see the pyroclastic blast rushing toward you
+before you even hear the sound of the eruption, and the moment it reaches you,
+it disappears into a swirling mist and the starship is once more whole.
+nod 'Exactly
+You nod. "Exactly."
+You mentally sigh in relief as you return to the starship.
+Lily Kaise says in a New Earth accent, "Well heh."
+Lily Kaise says in a New Earth accent, "Consider the source."
+Lily Kaise laughs.
+chuckle
+You chuckle.
+Lily Kaise says in a New Earth accent, "You know me too, I wouldn't generally
+give in but I knew the rudeness would get worse."
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.51 light-grand cycles away toward Galactic
+South and Down.
+Lily Kaise says in a New Earth accent, "I find people who clammor to get their
+way extremely annoying though. I don't forget things like that."
+nod 'It's one of the challenges of picking people for a trip.
+You nod. "It's one of the challenges of picking people for a trip."
+Lily Kaise nods.
+Lily Kaise says in a New Earth accent, "I really am disappointed in the aEU and
+I had hoped Kim would embrace Exploration but she totally doean't understand
+certain aspects."
+nod 'And she claims she loves exploration.
+You nod. "And she claims she loves exploration."
+Lily Kaise says in a New Earth accent, "I would be so delighted to fill up a
+ship of primarily aEU and a few others from the other alliances for an
+expedition."
+'Me too. I still want to lea an expedition someday.
+You say, "Me too. I still want to lea an expedition someday."
+A hairy yellow eight-legged ArachnoPal named Higgins works his fangs.
+Lily Kaise says in a New Earth accent, "Well do it but you know you have to be
+willing to commit a good bit of time."
+nod 'Hence why I haven't done it yet.
+You nod. "Hence why I haven't done it yet."
+Lily Kaise says in a New Earth accent, "Yeah it's a big undertaking."
+nod
+You nod.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly past a plastic wrecked
+EAOS Defender.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.45 light-grand cycles away toward Galactic
+South and Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.45 light-grand cycles away toward Galactic
+South and Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.45 light-grand cycles away toward Galactic
+South and Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.45 light-grand cycles away toward Galactic
+South and Down.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.45 light-grand cycles away toward Galactic
+South and Down.
+Xavier the big silver soldier felo marches south.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.46 light-grand cycles away toward Galactic
+South and Down.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+chartreuse glowing interior pulsates gently.
+Lily Kaise stands up from your lap.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on your lap.
+Lily Kaise says in a New Earth accent, "Drive is still all right."
+Xavier the big silver soldier felo marches in from the south.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+grin
+You grin.
+Lily Kaise says in a New Earth accent, "Oh look distance is increasing."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A hazy riftstorm appears to be 13.68 light-grand cycles away toward Galactic
+South and Down.
+'yep, looks like we'll miss it.
+You say, "Yep, looks like we'll miss it."
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Xavier the big silver soldier felo jumps into Lily Kaise's lap and settles in,
+purring.
+grin
+You grin.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise wraps her arms around you, pulling you close.
+wrpa lily
+I don't understand that.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise exclaims in a New Earth accent, "Bye bye storm!"
+grin
+You grin.
+Lily Kaise smiles.
+Lily Kaise says in a New Earth accent, "Ugh flow isn't going to remain this
+good."
+'That figures.
+You say, "That figures."
+Lily Kaise nods.
+Lily Kaise says in a New Earth accent, "It always shifts the other way."
+nod
+You nod.
+A dark shape flits past the viewport.
+Lily Kaise says in a New Earth accent, "This time though when we go to sleep, we
+can just leave the trim up. I probably should have earlier but was hopeful we
+could do a bit more exploring."
+'Yeah
+You say, "Yeah."
+Lily Kaise asks in a New Earth accent, "Notice she also tried to complain about
+doing watch? Did she ever consider that she's lucky to have gotten out of comms
+without having to provide the tech?"
+Lily Kaise says in a New Earth accent, "I'll never ever complain about the times
+I relieved Melinda on several trips for hours. I felt it was the least I could
+do."
+'Yeah, no kidding. She doesn't have the points for some of the equipment on this
+ship.
+You say, "Yeah, no kidding. She doesn't have the points for some of the
+equipment on this ship."
+Lily Kaise says in a New Earth accent, "Nope and doubt she ever will if she
+depends on others for her exploration."
+nod
+You nod.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Lily Kaise says in a New Earth accent, "I'll shut up about this soon, I'm just a
+bit pissed off."
+Lily Kaise laughs.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic frond of light green sea fern.
+'I understand. 
+You say, "I understand."
+kiss lily
+You kiss Lily Kaise.
+You hear someone kicking furiously against the hull.
+Lily Kaise kisses you.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+caress lily on bakc
+You gently caress Lily Kaise's bakc.
+Lily Kaise gently massages your shoulders.
+: smiles tenderly at you.
+Shule smiles tenderly at you.
+You hear several peculiar, barely audible clangs outside of the ship's walls,
+followed by some scraping sounds.
+A large semi-transparent spherical creature with long dangling tendrils and an
+amber glowing interior pulsates gently.
+A Tardick lizard named Asteria trundles slowly into the area.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly over a white plastic undersea castle.
+Lily Kaise says in a New Earth accent, "I estimate we'll probably get back
+sometime on Saturday."
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic frond of light green sea fern.
+'ok
+You say, "Ok."
+Xavier the big silver soldier felo jumps down from Lily Kaise's lap.
+A high warbling alarm suddenly goes off.  Speaking over it, the computer
+announces, "Fatal hit received.  Occupants must stand by for emergency
+ejection." Your vision goes black for a moment as everything fades into formless
+mist.
+You mentally sigh in relief as you return to the starship.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly over a white plastic
+undersea castle.
+Xavier the big silver soldier felo marches south.
+Lily Kaise wraps her arms around you, pulling you close.
+A Tardick lizard named Asteria flicks its tongue out.
+The room grows a bit warmer.
+Lily Kaise says in a New Earth accent, "Noooo."
+Lily Kaise stands up from your lap.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on your lap.
+Lily Kaise cuddles up to you.
+A Tardick lizard named Asteria trundles slowly south.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior pulsates gently.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Lily Kaise kisses you softly on the neck.
+: slips his hand down the back of your shipsuit and caresses your back.
+Shule slips his hand down the back of your shipsuit and caresses your back.
+Lily pulls your shipsuit front open briefly and smooches your tummy!
+Lily Kaise grins at you.
+grin lily
+You grin at Lily Kaise.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly across the tank.
+Lily Kaise kisses you on the lips.
+Lily Kaise says in a New Earth accent, "I wish this ship had a docking bay. I'd
+have sent Kim back in a pod so that way she could get home hehe."
+chuckle lily
+You chuckle at Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at a white plastic undersea castle and clings to it for a moment,
+then jets off.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly past a small plastic statue
+of a Jinu.
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+Goosebumps suddenly rise on your skin.
+The room grows a bit warmer.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Buddy the hefty blue soldier felo marches in from the south.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+Lily Kaise strokes the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs and rubs its head against Lily's hand.
+Lily Kaise says in a New Earth accent, "Yay."
+Lily Kaise hugs Buddy the hefty blue soldier felo.
+Lily Kaise rolls a small yellow ball containing a realistic Bari horde
+noisemaker across the floor toward Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo leaps after the ball.
+Lily Kaise helps herself to a small Bari-shaped tidbit.
+Lily Kaise tosses a small yellow ball containing a realistic Bari horde
+noisemaker at Buddy the hefty blue soldier felo.
+Lily Kaise puts down a small Bari-shaped tidbit.
+Buddy the hefty blue soldier felo leaps after the ball.
+pet buddy
+You stroke the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs softly.
+Lily Kaise tosses a small yellow ball containing a realistic Bari horde
+noisemaker at Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo leaps after the ball.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise puts a small yellow ball containing a realistic Bari horde noisemaker
+away.
+Lily Kaise kisses you on the lips.
+caress lily on hair
+You gently caress Lily Kaise's hair.
+Buddy the hungry hefty blue soldier felo seems to be hungry.
+Buddy the hungry hefty blue soldier felo enthusiastically gobbles up a small
+Bari-shaped tidbit.
+Lily Kaise strokes the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs and rubs its head against Lily's hand.
+Lily Kaise hugs Buddy the hefty blue soldier felo.
+grin
+You grin.
+pet buddy
+You stroke the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs softly.
+A firmly rooted animal with dozens of smooth yellow tendrils slowly waves its
+many tendrils.
+Lily says to you in a New Earth accent, "You'll just have to work with him."
+Lily Kaise grins.
+Buddy the hefty blue soldier felo suddenly jumps onto a rare black EAOSian
+contoured couch with a hand-made white and sapphire star quilt on it.
+nod grin
+I don't see that here.
+nod and grin
+You nod and grin.
+You hear what sounds like voices in another part of the ship, but you don't
+recognize them and you can't hear what they're saying.
+pet buddy
+You stroke the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs softly.
+Lily Kaise strokes the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs and rubs its head against Lily's hand.
+: opens your shipsuit and kisses your chest.
+Shule opens your shipsuit and kisses your chest.
+Lily Kaise grins at you.
+Lily Kaise stands up from your lap.
+Lily Kaise glides south.
+peer s
+You peer south...
+[Starship "William Dove"; Base Block]
+Lights overhead indicate that the ship is on green status. Looking through the
+windows, you see that the ship is inside the riftflow.
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a glossy slate blue ceramic felo chow bowl, a compact
+white refrigerator, an insulated purple cooler, a white microwave oven, a black
+plastic tray of spider chow, and Shasta the big onyx soldier felo here.
+You can go north, east, south, west, up, and down.
+Buddy the hefty blue soldier felo marches out.
+peer s
+You peer south...
+[Starship "William Dove"; Base Block]
+Lights overhead indicate that the ship is on green status. Looking through the
+windows, you see that the ship is inside the riftflow.
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a glossy slate blue ceramic felo chow bowl, a compact
+white refrigerator, an insulated purple cooler, a white microwave oven, a black
+plastic tray of spider chow, Shasta the big onyx soldier felo, and a Tardick
+lizard named Asteria here.
+You can go north, east, south, west, up, and down.
+s
+You scramble to your feet.
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a glossy slate blue ceramic felo chow bowl, a compact
+white refrigerator, an insulated purple cooler, a white microwave oven, a black
+plastic tray of spider chow, Shasta the big onyx soldier felo, and a Tardick
+lizard named Asteria here.
+You can go north, east, south, west, up, and down.
+peer s
+You peer south...
+[Starship "William Dove"; Living Quarters Block]
+This room leads to the living quarters, and contains some additional amenities,
+notably a tiny alcove containing a shower. A small keypad controls access to the
+living quarters. Lights overhead indicate that the ship is on green status.
+Looking through the windows, you see that the ship is inside the riftflow.
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa with Jewel the sleeping large violet glowing felo on it, an
+antique oak table from Old Earth, a textured plasteel floor lamp with a cream
+shade (casting a white-colored glow), a dusky pink rattan cabinet, a wall-sized
+bubbling coral pink-lit aquarium containing blue and yellow aquatic life and
+multicolored round rocks, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, a wall-sized bubbling neon
+purple-lit aquarium containing orange and light blue aquatic life and sea green
+and neon blue round rocks, a small orange ball containing a realistic Bari horde
+noisemaker, a glossy pale pink ceramic felo chow bowl, a small purple trash bin,
+a black plastic tray of spider chow, Bert the old hefty blue soldier felo, a
+hairy yellow eight-legged ArachnoPal named Higgins, a small Bari-shaped tidbit,
+and a small Bari-shaped tidbit here.
+Lily Kaise is standing here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and green aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a blue plastic food storage container, Desiree the little
+black and white spotted CatBot, Kiska the humanoid service robot, a clear
+plastic food storage container, a small red insulated cooler, a compact red
+refrigerator, an engraved silver metal box decorated with enameled amethyst
+butterflies, a round white rattan coffee table with a glass top, a red plastic
+food storage container, a pair of light brown leather boots decorated with
+silver stars, and Magellan the arachnoid security robot here.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Goosebumps suddenly rise on your skin.
+Lily Kaise glides in from the south.
+Lily Kaise puts down Bert the old hefty blue soldier felo.
+Lily Kaise puts down a small Bari-shaped tidbit.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise helps herself to a small Bari-shaped tidbit.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise puts down a small Bari-shaped tidbit.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+The room grows a bit warmer.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Bert the old hefty blue soldier felo seems to be hungry.
+Bert the old hefty blue soldier felo enthusiastically gobbles up a small
+Bari-shaped tidbit.
+Shasta the big onyx soldier felo marches in from the south.
+Lily Kaise strokes the soft fur of Bert the old hefty blue soldier felo.
+Bert the old hefty blue soldier felo purrs and rubs its head against Lily's
+hand, looking up at her adoringly.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet bert
+You stroke the soft fur of Bert the old hefty blue soldier felo.
+Bert the old hefty blue soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+: tackles you playfully onto the couch.
+Shule tackles you playfully onto the couch.
+Lily Kaise grins.
+lie couch
+You lie down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+: pulls you on top of him.
+Shule pulls you on top of him.
+Lily Kaise grins at you.
+Lily Kaise lies down on you.
+caress lily on lips
+You gently caress Lily Kaise's lips.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+smile lily
+You smile at Lily Kaise.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+raises its claws at a small plastic statue of a shark and snaps them menacingly
+while dancing around it.
+Lily Kaise smiles at you.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Bert the old hefty blue soldier felo seems to be hungry.
+Bert the old hefty blue soldier felo enthusiastically gobbles up a small
+Bari-shaped tidbit.
+Lily Kaise chuckles at Bert the old hefty blue soldier felo.
+grin
+You grin.
+: gives you a long, passionate kiss.
+Shule gives you a long, passionate kiss.
+Lily says to Bert the old hefty blue soldier felo in a New Earth accent, "It's
+ok you can have all of the treats you want."
+grin lily
+You grin at Lily Kaise.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+: gives you a long, passionate kiss.
+Shule gives you a long, passionate kiss.
+Lily eyes mist over and she looks at Bert and says because I know I'll only have
+you for a few more days.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+caress lily on back
+You gently caress Lily Kaise's back.
+Lily rubs your back.
+remove shipsuit from lily
+You reach for Lily Kaise and tug insistently at a light yellow shipsuit with
+yellow trim around the collar and cuffs, indicating that you want to remove it
+from her.
+You pull Lily Kaise's light yellow shipsuit with yellow trim around the collar
+and cuffs off.
+grin
+You grin.
+put shipsuit on couch
+You put a light yellow shipsuit with yellow trim around the collar and cuffs on
+a rare black EAOSian contoured couch with a hand-made white and sapphire star
+quilt on it.
+For a brief moment, everything seems to be normal.
+You mentally sigh in relief as you return to the starship.
+Lily Kaise removes a light yellow shipsuit with yellow trim around the collar
+and cuffs from a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Shasta the big onyx soldier felo rubs up against Bert the old hefty blue soldier
+felo, and both animals purr softly.
+: caresses your back and waist.
+Shule caresses your back and waist.
+Lily Kaise puts down a light yellow shipsuit with yellow trim around the collar
+and cuffs.
+Lily Kaise tugs a pair of sparkly white leather clogs off of her feet.
+Lily Kaise puts down a pair of sparkly white leather clogs.
+: caresses your back and waist.
+Shule caresses your back and waist.
+: kisses you and caresses your back and waist.
+Shule kisses you and caresses your back and waist.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+abdomen is attractive and punctuated by a cute navel. Her face is oval and
+pretty, with a delicate nose and understated chin. Her lips are lovely and blush
+pink and occasionally part to reveal a set of pretty teeth. Beneath a set of
+arched eyebrows, her eyes are blue-green and almond-shaped. Her waist-length,
+straight hair is pale honey blonde and swept up into a thick fall of loose curls
+down her back. She has oval pink fingernails.
+A small enameled crimson dragon pierces her belly button, a small enameled
+cerulean blue dragonfly pierces her left earlobe, and a small enameled cerulean
+blue dragonfly pierces her right earlobe.
+ She is wearing a hot pink satin bullet bra and a pair of hot pink satin hipster
+panties. She is also wearing an orange and white blessed prayer bracelet around
+her wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a
+neon purple wrist-mounted chronometer, a solid silver ring engraved with
+dragonflies, a delicate ring of silver wire and small purple amethyst crystals,
+a metallic gold touch einrophone in a metallic purple reinforced plastic phone
+holster, and a soft fuchsia Tardick lizard snuggly labeled 'Asteria'. Her head,
+face, both eyes, neck, both shoulders, back, both biceps, both elbows, abdomen,
+both forearms, both wrists, both hands, waist, both hips, both thighs, both
+knees, both calves, both ankles, and both feet are left uncovered.
+She is carrying nothing.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+: slipping a hand between the two of you, @ brushes his fingers along your sex.
+Slipping a hand between the two of you, Shule brushes his fingers along your
+sex.
+Bert the old hefty blue soldier felo marches south.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Lily Kaise smiles.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+: caresses you more vigorously between your legs.
+Shule caresses you more vigorously between your legs.
+Lily Kaise reaches for you and tugs insistently at a white shipsuit with gold
+trim around the collar and cuffs, as if she wants to remove it from you.
+Let her? [Enter `yes' or `no']
+y
+Lily Kaise pulls your white shipsuit with gold trim around the collar and cuffs
+off.
+Lily Kaise puts down a white shipsuit with gold trim around the collar and
+cuffs.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+kiss lily on chest
+You kiss Lily Kaise on the smooth skin above her breasts.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+Shasta the big onyx soldier felo marches south.
+remove bullet from lily
+You reach for Lily Kaise and tug insistently at a hot pink satin bullet bra,
+indicating that you want to remove it from her.
+You unclasp Lily Kaise's hot pink satin bullet bra and slide it off.
+grin lily
+You grin at Lily Kaise.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+put bra on couch
+You put a hot pink satin bullet bra on a rare black EAOSian contoured couch with
+a hand-made white and sapphire star quilt on it.
+kiss lily on breast
+You kiss Lily Kaise on one of her breasts.
+who
+There appear to be about 18 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+*Lily Kaise  (A)
+%Caleb Davenport  (L)
+%Rose Lennex  (L)
+%Sean Sloan  (L)
+%Akemi Bando  (L)
+%Nicolette of None  (L)
+%Soraya Rhyz  (L)
+%Karasi Valhannon  (L)
+%Lillian Hudson  (L)
+%Johann Rowan  (L)
+%Nissi Valdaire  (L) [a]
+%Melinda Michaels  (L)
+%Ali Candan  (L)
+%Morris Corlew  (L)
+%Gonzales Bourne  (F)
+%Keegan Wantz  (F)
+%Liam O'Toole  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 9 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 27 pilots.
+Sassie the large fuchsia felo rubs up against your leg with a quiet "Mrrp.".
+pet sassi
+You stroke the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+Lily Kaise kisses you on the lips.
+: kisses you on the lips passionately as he caresses your back.
+Shule kisses you on the lips passionately as he caresses your back.
+Lily Kaise reaches for you and tugs insistently at a pair of white cotton
+briefs, as if she wants to remove it from you.
+Let her? [Enter `yes' or `no']
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly past a plastic wrecked
+EAOS Defender.
+y
+Lily Kaise pulls off your pair of white cotton briefs.
+Lily Kaise puts down a pair of white cotton briefs.
+remove panties from lily
+You reach for Lily Kaise and tug insistently at a pair of hot pink satin hipster
+panties, indicating that you want to remove it from her.
+You slide off Lily Kaise's pair of hot pink satin hipster panties.
+drop panties
+You put down a pair of hot pink satin hipster panties.
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+Buddy the hefty blue soldier felo marches in from the airlock.
+Lily Kaise strokes the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs and rubs its head against Lily's hand.
+Lily reaches for you and begins to stroke and fondle you.
+[Newbie Help] Morris Corlew transmits, "Was the raffle bot a donation item, or
+is it something that can be found in-game?"
+: caresses you between your legs.
+Shule caresses you between your legs.
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+[Newbie Help] Lillian Hudson transmits, "It was a host-created thing. But if you
+say you're scheduling an event, you may be able to get one as part of the
+event."
+[Newbie Help] Morris Corlew transmits, "I'm working on support ticket, have
+already submitted one to start all this, but I want to handle as much in-game
+and icly as possible."
+: lifting you up slightly, @ begins to gently suck on one of your nipples.
+Lifting you up slightly, Shule begins to gently suck on one of your nipples.
+Shasta the big onyx soldier felo marches in from the south.
+Lily Kaise leans close to you and kisses you softly on the chest.
+[Newbie Help] Lillian Hudson transmits, "Of course."
+: begins to rub harder and faster on your clit as his sucking on your nipple
+increases.
+Shule begins to rub harder and faster on your clit as his sucking on your nipple
+increases.
+Lily sighs softly.
+Lily tently pulls you taught while gently stroking and touching you.
+Lily gently pulls you taught while gently stroking and touching you.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise says in a New Earth accent, "Yikes look."
+Lily Kaise says in a New Earth accent, "And there's a pre-stellar."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A readout shows Pre-Stellar Object 5701-5176 about 15.89 light-grand cycles
+toward Galactic North and Very Slightly Up.
+A hazy riftstorm appears to be 1.46 light-trade cycles away toward Galactic
+Eastsoutheast and Down.
+A hazy riftstorm appears to be 1.9 light-trade cycles away toward Galactic West
+and Very Slightly Up.
+nod 'And a couple fo rift storms.
+You nod. "And a couple fo rift storms."
+Lily Kaise nods.
+Lily Kaise asks in a New Earth accent, "Should we go for the pre-stellar?"
+'Sure.
+You say, "Sure."
+smile
+You smile.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+You hear a loud booming sound against the hull.
+The starship suddenly lurches in a new direction. Something must be wrong with
+the inertial dampeners.
+A number flap display rapidly flips around to show a new heading of 90.0, 10.0.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+Lily Kaise says in a New Earth accent, "Yikes dunno the flow is terrible this
+way."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A readout shows Pre-Stellar Object 5701-5176 about 15.9 light-grand cycles
+toward Galactic North and Very Slightly Up.
+A hazy riftstorm appears to be 1.48 light-trade cycles away toward Galactic
+Eastsoutheast and Down.
+A hazy riftstorm appears to be 1.89 light-trade cycles away toward Galactic West
+and Very Slightly Up.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       1895 light-mincycles per seccycle
+Direction:          Galactic North and Very Slightly Up (90.0, 10.0)
+Riftflow:           5178 light-mincycles per seccycle from Galactic Northwest
+and Very Slightly Up
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   2.HJE
+Distance Traveled:  15.18 light-trade cycles
+Apparent Region:    Known Space
+--
+Thuds echo throughout the ship as micrometeorites slam into the hull.
+Lily Kaise says in a New Earth accent, "I think we'll forego this one. Sorry."
+'ouch, yeah.
+You say, "Ouch, yeah."
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The starship suddenly lurches in a new direction. Something must be wrong with
+the inertial dampeners.
+A number flap display rapidly flips around to show a new heading of 193.0, -4.0.
+kiss lily on breast
+You kiss Lily Kaise on one of her breasts.
+Buddy the hefty blue soldier felo marches out.
+The ship's reactionless drive whirrs loudly as it changes direction rapidly.
+Lily Kaise softly licks your nipple.
+: continues to rub and play with your clit as he slips a finger inside you and
+sucks on the other nipple.
+Shule continues to rub and play with your clit as he slips a finger inside you
+and sucks on the other nipple.
+The ship's reactionless drive lets out a sudden whine as the starship
+accelerates quickly.
+Lily Kaise kisses you on one nipple.
+Lily continues gently massaging and stroking you.
+: grows hard at your touch and moans softly. He thrusts his finges in and out of
+you.
+Shule grows hard at your touch and moans softly. He thrusts his finges in and
+out of you.
+Lily smiles as she notices you become firm and erect while continuing to stroke
+and fondle, gently touching your sensitive spot.
+: smiles and grows completely hard as he rubs your clit even faster and you feel
+his fingers press against your g-spot.
+Shule smiles and grows completely hard as he rubs your clit even faster and you
+feel his fingers press against your g-spot.
+Lily Kaise smiles at you.
+Lily sighs softly and moans a little.
+smile lily
+You smile at Lily Kaise.
+Lily gently pulls you taught, touching and stroking you and whispers mmm Shule
+are you ready to come in Love?
+: removing his fingers from you, @ places himself at your opening and thrusts
+his hips, penetrating you deep.
+Removing his fingers from you, Shule places himself at your opening and thrusts
+his hips, penetrating you deep.
+Lily presses up against you.
+Lily gently moves her hips in rhythm with yours.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+: smiles and moves his hips faster, pushing himself as deep as he can with each
+thrust.
+Shule smiles and moves his hips faster, pushing himself as deep as he can with
+each thrust.
+Lily moans and sighs softly as she reaches here ecstacy.
+Shasta the big onyx soldier felo suddenly jumps onto a rare black EAOSian
+contoured couch with a hand-made white and sapphire star quilt on it.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+: squeezing you tight and thrusting deep, @ begins to pulse inside you with a
+soft groan.
+Squeezing you tight and thrusting deep, Shule begins to pulse inside you with a
+soft groan.
+You hear several peculiar, barely audible clangs outside of the ship's walls,
+followed by some scraping sounds.
+Buddy the hefty blue soldier felo marches in from the airlock.
+Lily sighs ... savoring you and enjoying your closeness.
+::'s body relaxes and he kisses you passionately on the lips as he holds you
+tight.
+Shule's body relaxes and he kisses you passionately on the lips as he holds you
+tight.
+Lily Kaise smiles at you.
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+-lily I love you.
+You say to Lily, "I love you."
+Lily Kaise whispers, "Thank you Love."
+Lily Kaise smiles. "I love you too."
+whisper lily Thank you.
+You whisper to Lily Kaise.
+Shasta the big onyx soldier felo marches out.
+'Well, as much as I'd love to lay here with you naked in my arms, I don't want
+Kim walking in on us. So, maybe we should get dressed?
+You ask, "Well, as much as I'd love to lay here with you naked in my arms, I
+don't want Kim walking in on us. So, maybe we should get dressed?"
+Lily Kaise says in a New Earth accent, "Yeah unfortunately."
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise wraps her arms around you, pulling you close.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise stands up from you.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+Lily Kaise says in a New Earth accent, "Dress."
+Lily Kaise slides a pair of hot pink satin hipster panties on.
+Lily Kaise tugs a pair of sparkly white leather clogs onto her feet.
+Lily Kaise steps into a light yellow shipsuit with yellow trim around the collar
+and cuffs and pulls it over her arms.
+dress
+You slide a pair of white cotton briefs on.
+You step into a white shipsuit with gold trim around the collar and cuffs and
+pull it over your arms.
+You tug a pair of light brown leather boots decorated with silver stars onto
+your feet.
+You've put on everything that you can here.
+sit couch
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+who
+There appear to be about 18 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+*Lily Kaise  (A)
+%Caleb Davenport  (L)
+%Rose Lennex  (L)
+%Sean Sloan  (L)
+%Akemi Bando  (L)
+%Nicolette of None  (L)
+%Soraya Rhyz  (L)
+%Karasi Valhannon  (L)
+%Lillian Hudson  (L)
+%Johann Rowan  (L)
+%Nissi Valdaire  (L) [a]
+%Melinda Michaels  (L)
+%Ali Candan  (L)
+%Morris Corlew  (L)
+%Damien Goss  (L)
+%Keegan Wantz  (F)
+%Liam O'Toole  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 9 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 27 pilots.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise strokes a hairy yellow eight-legged ArachnoPal named Higgins's
+bristly hair.
+Buddy the hefty blue soldier felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A large semi-transparent cylindrical creature with very long dangling tendrils
+and a green glowing interior drifts slowly across the tank.
+A dark shape flits past the viewport.
+You feel an odd shuddering, and a high-pitched hum suddenly begins to emanate
+from the reactionless drive.
+Shasta the big onyx soldier felo marches in from the airlock.
+A hairy yellow eight-legged ArachnoPal named Higgins wiggles his hairy palps
+endearingly.
+xcaress lily on back
+I don't understand that.
+caress lily on back
+You gently caress Lily Kaise's back.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+Buddy the hefty blue soldier felo marches south.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+A high warbling alarm suddenly goes off.  Speaking over it, the computer
+announces, "Fatal hit received.  Occupants must stand by for emergency
+ejection." Your vision goes black for a moment as everything fades into formless
+mist.
+Shasta the big onyx soldier felo marches south.
+You hear a loud call in front of you, and the flock shifts as one, finding a new
+updraft.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+The flock banks smoothly, moving as one.
+A number flap display rapidly flips around to show a new heading of 205.0, -4.0.
+The flock seems to be gradually losing altitude with no updraft beneath it.
+The flock finds a large updraft and rapidly gains altitude.
+[Newbie Help] Corey Matthews transmits, "Is there a way to turn off only your
+alliance channel on the comms?"
+[Newbie Help] Nicolette of None transmits, "Not really. Closest you can come to
+it is to tune it to one of the channels other than 0 or 1."
+[Newbie Help] Akemi Bando transmits, "Earth Prime Radio is the best."
+[Newbie Help] Morris Corlew transmits, "Which one is that, 9?"
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+[Newbie Help] Akemi Bando transmits, "Yes, 9."
+[Newbie Help] Morris Corlew transmits, "Yeah it is."
+[Newbie Help] Morris Corlew transmits, "Also, I think it's 6, 7, and 8 that
+aren't used, so those would basically work too."
+[Newbie Help] Corey Matthews transmits, "Alright thank you."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+A long gold soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+Minor Change: Notice an unpleasant smell lingering in your local garage? Star
+Conquest continues to innovate by involving all your senses! Coming soon:
+proprioception!
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly across the tank.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+A short yellow soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+The flock's leader retires to another part of the V formation, and another bird
+replaces it.
+Mandy the old hefty indigo feathered felo wanders in from the south.
+pet mandy
+You stroke the soft feathers of Mandy the old hefty indigo feathered felo.
+Mandy the old hefty indigo feathered felo purrs softly.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+'Hi kiska
+You say, "Hi kiska."
+l desiree
+Desiree the little black and white spotted CatBot
+A classic four-legged, long-tailed feline shape rendered in soft plastic, this
+adorable little robotic pet moves with the aid of hydraulic actuators and
+compact transistors. Its molded catlike form is made of durable black and white
+spotted-color plastic, and it has a pair of gray eyes that glow softly. Printed
+on its belly are the words, "CatBot 8000: A RobCo product!"
+'hi desiree
+You say, "Hi desiree."
+Desiree the little black and white spotted CatBot meows at Shule.
+Mandy the old hefty indigo feathered felo wanders out.
+: meows back at ~desiree.
+Shule meows back at Desiree the little black and white spotted CatBot.
+Lily Kaise laughs.
+grin
+You grin.
+l
+[Starship "William Dove"; Control Room]
+Objects and walls inside the ship seem faintly translucent, and when in your
+periphery seem to disappear completely, replaced with perfect blue sky and puffy
+white clouds. The ship flies as part of a flock, birds stretching off into the
+distance. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is inside the riftflow.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a glossy purple ceramic felo chow bowl, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and green aquatic life and
+coral rocks, a small yellow ball containing a realistic Bari horde noisemaker, a
+small white trash bin, a blue plastic food storage container, Desiree the little
+black and white spotted CatBot, Kiska the humanoid service robot, a clear
+plastic food storage container, a small red insulated cooler, a compact red
+refrigerator, an engraved silver metal box decorated with enameled amethyst
+butterflies, a round white rattan coffee table with a glass top, a red plastic
+food storage container, and Magellan the arachnoid security robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+squeze lily
+I don't understand that.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+'desiree, do a trick for Lily.
+You say, "Desiree, do a trick for Lily."
+Desiree the little black and white spotted CatBot rolls over smoothly, then
+mews.
+Lily Kaise whistles at Desiree the little black and white spotted CatBot.
+smile desiree
+You look at Desiree the little black and white spotted CatBot and smile.
+Shasta the big onyx soldier felo marches in from the south.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+The sound of wind and flapping wings fills your ears.
+-lily I swear I'm not silly at all.
+You say to Lily, "I swear I'm not silly at all."
+nod me
+You absently bob your head up and down like a space parakeet.
+Lily Kaise says in a New Earth accent, "Nop."
+Lily Kaise grins at you.
+Lily Kaise tickles you!
+grin lily
+You grin at Lily Kaise.
+Mandy the old hefty indigo feathered felo wanders in from the airlock.
+Shasta the big onyx soldier felo rubs up against Mandy the old hefty indigo
+feathered felo, and both animals purr softly.
+The flock seems to be gradually losing altitude with no updraft beneath it.
+Mandy the old hefty indigo feathered felo suddenly jumps onto a rare black
+EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a string of light purple plastic kelp.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Buddy the hefty blue soldier felo marches in from the south.
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Mandy the old hefty indigo feathered felo wanders south.
+A bird grows tired and falls behind the V formation. You take its place.
+Lily Kaise wraps her arms around you, pulling you close.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Shasta the big onyx soldier felo rubs up against Buddy the hefty blue soldier
+felo, and both animals purr softly.
+Lily Kaise strokes the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs and rubs its head against Lily's hand.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+The flock banks suddenly, and you turn to follow, but no other bird is in sight.
+The scene abruptly fades.
+Listen. You need to be careful.
+Buddy the hefty blue soldier felo marches south.
+A firmly rooted animal with dozens of smooth yellow tendrils slowly waves its
+many tendrils.
+Shasta the big onyx soldier felo marches south.
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+It's not always about where you're going.
+A number flap display rapidly flips around to show a new heading of 210.0, -4.0.
+You have to want to go somewhere, don't you?
+It's the journey, not the destination, that matters.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise yawns.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+-lily Awww, tired Lily. I can stay up until Kim wakes up if you want to head to
+bed.
+You say to Lily, "Awww, tired Lily. I can stay up until Kim wakes up if you want
+to head to bed."
+Kim Saunders strolls in from the south.
+Kim Saunders waves.
+'Right on queue.
+You say, "Right on queue."
+Lily Kaise waves.
+wave kim
+You wave to Kim Saunders.
+-kim Morning.
+You say to Kim, "Morning."
+Kim Saunders says in a New Bristol accent, "Good morning."
+Lily Kaise says in a New Earth accent, "Yup."
+Lily Kaise says in a New Earth accent, "Good day."
+smile
+You smile.
+Kim Saunders sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Kim Saunders says in a New Bristol accent, "Oh, another storm on sensors."
+Lily Kaise says in a New Earth accent, "There is a storm not too far away. I
+adjusted th heading some to hopefully favor Southeast so maybe we'll get beyond
+it."
+Lily Kaise says in a New Earth accent, "Oops sorry Southwest."
+'I was going to say.
+You say, "I was going to say."
+Kim Saunders nods.
+l kim
+Lily Kaise laughs.
+Kim Saunders
+She appears to be 19 years old. She is about five feet and six inches tall and
+has tan skin. Her body is of average build with attractively curved hips and
+attractive calves. She has rounded shoulders and slightly larger than average
+breasts. Her face is round and somewhat pretty, with an average nose and dimpled
+chin. Her lips are full and light-colored and occasionally part to reveal a set
+of slightly yellowed teeth. Beneath a set of lightly-colored eyebrows, her eyes
+are green and wide. Her mid-back length, slightly curly hair is dark blonde and
+parted on the side and smoothed back behind her ears. She has neatly trimmed
+clear fingernails. She has a large black satin bow in her hair. She has a tiny
+birthmark on her neck.
+ She is wearing a red velvet jacket with modest lapels trimmed with gold braid,
+an expensive silver watch with diamond accents, a pair of silky light blue
+pants, and a pair of black leather boots decorated with neon green stars. She is
+also wearing a light purple cotton drawstring purse, a metallic green touch
+einrophone in a black leather phone holster, a delicate ring of silver wire and
+small pink quartz crystals, a delicate blue crystal necklace, a wrist-mounted
+chronometer, and a standard starship flightbag. Her head, face, both eyes, neck,
+left wrist, and both hands are left uncovered.
+She is carrying nothing.
+Kim Saunders giggles.
+grin
+You grin.
+There is nothing that will change the crushing reality that you are a failure.
+Lily Kaise says in a New Earth accent, "Wow."
+Lily Kaise laughs.
+Kim Saunders says in a New Bristol accent, "What? Wo."
+'Ummm, wow! thanks for the encouragement.
+You say, "Ummm, wow! Thanks for the encouragement."
+Lily Kaise exclaims in a New Earth accent, "I love the positive outlook!"
+Kim Saunders says in a New Bristol accent, "I have never been told that, nor
+felt like being a failure."
+Lily Kaise says in a New Earth accent, "And that is utter BS."
+Lily Kaise laughs.
+nod
+You nod.
+Kim Saunders asks in a New Bristol accent, "I know I make mistakes, we are not
+perfect in any way, but a failure?"
+Sassie the large fuchsia felo hums melodically to itself as it wanders south.
+'Ah, just the rift messing with you. Have to be true to yourself and only listen
+to the right thoughts.
+You say, "Ah, just the rift messing with you. Have to be true to yourself and
+only listen to the right thoughts."
+A large semi-transparent cylindrical creature with very long dangling tendrils
+and a green glowing interior drifts slowly across the tank.
+You're not imagining it. This is real.
+Kim Saunders gets a distant look on her face as she ponders.
+Lily Kaise yawns.
+Kim Saunders says in a New Bristol accent, "It's also not funny, trying to make
+us doubt ourselves. Trying to scare us."
+-lily Ready to head to bed?
+You say to Lily, "Ready to head to bed?"
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+Kim Saunders asks in a New Bristol accent, "Any instructions for me, other than
+keep going at this course?"
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+Lily Kaise says in a New Earth accent, "Well good luck with the rift and things.
+I'm calling it a day here."
+Kim Saunders says in a New Bristol accent, "Thanks."
+wave kim 'Take care. I'm heading to bed too
+Kim Saunders says in a New Bristol accent, "I will try not to let it freak me
+out too much."
+You wave to Kim Saunders. "Take care. I'm heading to bed too."
+Lily Kaise says in a New Earth accent, "Well yeah if something starts
+approaching from more Southward, then adjsut to 193 -4 otherwise it will be
+fine."
+Lily Kaise waves.
+Kim Saunders waves. "Ok."
+Lily Kaise glides south.
+A short yellow soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion and Buddy the
+sleeping hefty blue soldier felo on it, a rattan floor lamp with a coral lotus
+shade, a small dusky pink trash bin, a blueberry rattan pantry cabinet, a glossy
+slate blue ceramic felo chow bowl, a compact white refrigerator, an insulated
+purple cooler, a white microwave oven, a black plastic tray of spider chow, a
+Tardick lizard named Asteria, Bert the old hefty blue soldier felo, Mandy the
+old hefty indigo feathered felo, Shasta the big onyx soldier felo, and Sassie
+the large fuchsia felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a textured plasteel floor
+lamp with a cream shade (casting a white-colored glow), a dusky pink rattan
+cabinet, a wall-sized bubbling coral pink-lit aquarium containing blue and
+yellow aquatic life and multicolored round rocks, a small bubbling neon blue-lit
+toroidal aquarium containing red and blue aquatic life and round rocks, a
+wall-sized bubbling neon purple-lit aquarium containing orange and light blue
+aquatic life and sea green and neon blue round rocks, a small orange ball
+containing a realistic Bari horde noisemaker, a glossy pale pink ceramic felo
+chow bowl, a small purple trash bin, and a black plastic tray of spider chow
+here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a glossy sapphire blue ceramic felo chow bowl, a small yellow ball
+containing a realistic Bari horde noisemaker, a small seashell pink trash can, a
+white four poster rattan bed with a heart-shaped headboard and filmy deep purple
+hangings with a set of lavender silk sheets, a soft periwinkle cashmere blanket,
+a large periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made
+purple and amethyst flower quilt on it, a large oval dark purple and light
+purple cloth rug, a small oval turquoise rattan table with a glass top, a pair
+of washed light khaki canvas sneakers, Jewel the large violet glowing felo, and
+a pair of sparkly white leather clogs here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go out.
+remove boots
+You tug a pair of light brown leather boots decorated with silver stars off of
+your feet.
+drop boots
+You put down a pair of light brown leather boots decorated with silver stars.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is inside the riftflow.
+You see a glossy sapphire blue ceramic felo chow bowl, a small yellow ball
+containing a realistic Bari horde noisemaker, a small seashell pink trash can, a
+white four poster rattan bed with a heart-shaped headboard and filmy deep purple
+hangings with a set of lavender silk sheets, a soft periwinkle cashmere blanket,
+a large periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made
+purple and amethyst flower quilt on it, a large oval dark purple and light
+purple cloth rug, a small oval turquoise rattan table with a glass top, a pair
+of washed light khaki canvas sneakers, Jewel the large violet glowing felo, a
+pair of sparkly white leather clogs, and a pair of light brown leather boots
+decorated with silver stars here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it.)
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a light yellow shipsuit with yellow trim around the collar and
+cuffs. She is also wearing an orange and white blessed prayer bracelet around
+her wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a
+neon purple wrist-mounted chronometer, a solid silver ring engraved with
+dragonflies, a delicate ring of silver wire and small purple amethyst crystals,
+a metallic gold touch einrophone in a metallic purple reinforced plastic phone
+holster, and a soft fuchsia Tardick lizard snuggly labeled 'Asteria'. Her head,
+face, both eyes, both wrists, both hands, and both feet are left uncovered.
+She is carrying nothing.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+-lily Night babe.
+You say to Lily, "Night babe."
+Lily Kaise says in a New Earth accent, "Good grief I don't think that woman is
+suited for travel in the rift."
+chuckle 
+You chuckle.
+Lily Kaise says in a New Earth accent, "She's too sensitive to everything she
+encounters."
+'I thought she usually doesn't react that much to things in the rift.
+You say, "I thought she usually doesn't react that much to things in the rift."
+'But yeah, seems this time she is.
+You say, "But yeah, seems this time she is."
+Lily Kaise says in a New Earth accent, "Naa she's done it before."
+yawn
+You yawn.
+Lily Kaise yawns.
+Lily Kaise cuddles up to you.
+'Anyways, night babe.
+You say, "Anyways, night babe."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+-lily Sleep well.
+You say to Lily, "Sleep well."
+Lily says to you in a New Earth accent, "Nite Love."
+Lily says to you in a New Earth accent, "Sleep well too."
+Lily Kaise smiles.
+smile lily 'I love you.
+You smile at Lily Kaise. "I love you."
+Lily Kaise smiles at you. "I love you too."
+grin
+You grin.
+Lily Kaise smiles.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+whisper lily Night
+You whisper to Lily Kaise.
+Lily Kaise whispers, "Nite."
+Lily Kaise blinks heavily and then dozes off.
+In the end, you can't really trust anyone but yourself, can you?
+afk
+You blink heavily and then doze off.
+Jewel the large violet glowing felo wanders out.
+You're really alone here. So very alone.
+Remember what I said.
+The swirling mist parts to reveal a gaping mouth! Before you can react, the ship
+has plunged into it and into a fleshy pink tunnel.
+The ship plops out into a large open pink fleshy space, landing in a pool of
+fluids. After a moment, the organ contracts and pushes it into another tunnel.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+The ship plops out into a large open pink fleshy space, landing in a pool of
+fluids. After a moment, the organ contracts and pushes it into another tunnel.
+A loud gurgling sound echoes throughout the ship.
+The ship shudders and creaks as powerful muscles squeeze it, then it is suddenly
+ejected into swirling mist.
+The curtains open, and countless faceless humanoids stare at you from their
+seats.
+You look down at your watch, but you find that you cannot comprehend the concept
+of time.
+A high-pitched whine fills your senses.
+You look down at your watch, but you find that you cannot comprehend the concept
+of time.
+You scratch at your arm, and a perfectly rectangular sheet of skin peels off.
+Sweat pours down your face in rivulets as the stage lights shine on you.
+You double over in pain, it feels as if it is going to break free at any moment!
+The curtains close, to no applause.
+The formless mists suddenly resolve into a dust-laden wind. After a moment the
+dust settles, and one of the horses in front of you lets out a quiet whicker as
+the carriage's wheels creak ceaselessly below.
+The carriage shakes slightly as the horses pick up their pace.
+A small stand of trees passes by on the right of the carriage.
+Samantha the large violet felo hums melodically to itself as it wanders in from
+the north.
+Samantha the large violet felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+A single bison studies your passing carriage from the side of the road.
+Samantha the large violet felo hums melodically to itself as it wanders out.

@@ -1,5 +1,20 @@
 #CLASS {Numpad-walk} OPEN
 
+#MACRO {\e,}
+{
+	s
+}
+
+#MACRO {\e.}
+{
+	se
+}
+
+#MACRO {\e;}
+{
+	up
+}
+
 #MACRO {\eOl}
 {
 	u
@@ -10,7 +25,12 @@
 	d
 }
 
-#MACRO {\eOp}
+#MACRO {\eOp\eOl}
+{
+	stand
+}
+
+#MACRO {\eOp\eOu}
 {
 	l
 }
@@ -60,5 +80,61 @@
 	ne
 }
 
+#MACRO {\eh}
+{
+	fo
+}
+
+#MACRO {\ei}
+{
+	n
+}
+
+#MACRO {\ej}
+{
+	w
+}
+
+#MACRO {\ek}
+{
+	out
+}
+
+#MACRO {\el}
+{
+	e
+}
+
+#MACRO {\em}
+{
+	sw
+}
+
+#MACRO {\en\e;}
+{
+	stand
+}
+
+#MACRO {\en\ek}
+{
+	l
+}
+
+#MACRO {\eo}
+{
+	ne
+}
+
+#MACRO {\ep}
+{
+	d
+}
+
+#MACRO {\eu}
+{
+	nw
+}
+
+#VARIABLE         {Mode}  {walk}
 
 #CLASS {Numpad-walk} CLOSE

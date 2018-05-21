@@ -1,0 +1,1434 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Sun Dec 17 15:33:14 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+Recent Announcements:
+-----
+Merry Annual Festive Holiday-Related Gift-Transferring Celebratory Event!
+This year, like last year, we hosts are busy in all sorts of ways! However,
+we're going to try to make things go a little smoother this time so we can make
+sure everyone gets a gift!
+First of all, please make your holiday wish at Icy's station at any time within
+the next few days. We will aim for having a proper Icy visitation and
+celebration a little closer to the holiday!
+Please try to make your holiday wishes modest ones. We would appreciate wishes
+for things which are relatively easy to make, like variations on things that
+already exist in some form. Examples: clothing, jewelry, felo games, action
+figures, temporary tattoos, actual tattoos, custom hair styles, small "plastic
+surgery" type tweaks, custom communicators, dispensers with a sensibly modest
+selection, or perhaps you'd just like a nice cactus. Please have all the details
+for your holiday wish prepared. If you think your first wish might be too much,
+please include a more modest second choice. Use the WISH command repeatedly to
+add additional lines of text!
+Thank you!
+   Announced 5 days, 15 hours, 42 minutes, and 26 seconds ago
+-----
+Annual Festive Holiday-Related Gift-Transferring Celebratory Event Eve Party on
+Sunday, 24 December at 11:00 PM game time!
+Come to Icy's Ice Castle for the Annual Festive Holiday-Related Gift-Transferrin
+g Celebratory Event Eve Party! Get gifts! Drink questionable holiday drinks!
+Avoid being vaporized!
+   Announced 11 hours, 35 minutes, and 58 seconds ago
+-----
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a black plastic tray of spider chow, a
+small purple ball containing a dingling bell, a wall-sized bubbling neon
+purple-lit aquarium containing red and gold aquatic life and coral rocks, a
+robotic chef named Nellie, a sheet of white paper, Purr the humanoid service
+robot, and Mischief the old large black felo here.
+Lily Kaise is standing here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ * Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Have a problem or a question? Use the SUPPORT command to communicate with
+the staff!
+**
+kiss lily
+You kiss Lily Kaise.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Chopsticks". The organization has earned
+1,343,387.10 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+first tier performance goal! Let's keep pushing for the second!"
+-lily I love you hun.
+You say to Lily, "I love you hun."
+read comm
+You glance at your communicator's screen.
+There is one board post.
+"I love you too!" Lily Kaise beams at you.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (20/32)
+[3] Register on Directory
+[4] View Missed Calls (1)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+7
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+* [2] AEU
+* [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+* [2] Trading
+* [3] Battle Reports
+  [4] Exploration
+* [5] Philosophy
+* [6] Name Changes
+* [7] Common Knowledge
+--
+  [8] Return
+  [9] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] Looking with someone with a key t  (Morris Corlew)
+  [2] Re: Looking with someone with a k  (Johann Schraft)
+  [3] Post made on AEU board             (Constantine Stone)
+  [4] the end of the AEU strike          (Ather Jammoa)
+  [5] Temporary station org contributio  (Melinda Michaels)
+  [6] My Apology - i am Truly Sorry      (Lily Kaise, Phoenix Dissident)
+  [7] Re: My Apology - i am Truly Sorry  (Johann Schraft)
+  [8] Re: My Apology - i am Truly Sorry  (Evenia Callseah)
+  [9] Re: My Apology - i am Truly Sorry  (Erik Goodwin)
+  [10] Re: My Apology - i am Truly Sorr  (Emily Ford)
+  [11] Re: Temporary station org contri  (Kim Saunders)
+  [12] SEAS Thanks You                   (Lily Kaise, Phoenix Dissident)
+  [13] Re: SEAS Thanks You               (Erik Goodwin)
+  [14] SEEKING LEANERS FOR A FRIEND      (Morris Corlew)
+  [15] members of Rune                   (Melinda Michaels)
+  [16] for those who were on my last tr  (Melinda Michaels)
+  [17] Re: members of Rune               (Hakeem Oiadip)
+  [18] Attention Users of 777 & Battle   (Morris Corlew)
+  [19] 287 should be fixed               (Melinda Michaels)
+  [20] Starseekers station parts         (Melinda Michaels)
+  [21] Re: Starseekers station parts     (Lily Kaise, Phoenix Dissident)
+  [22] someone has lost a pet.           (Evenia Callseah)
+  [23] Re: Starseekers station parts     (Angel Martin)
+  [24] Oiche Shamhna                     (Aisling the Fox)
+  [25] possible assistance needed        (Evenia Callseah)
+  [26] Re: possible assistance needed    (Ted Warburton)
+  [27] Attention users of 777.           (Evenia Callseah)
+  [28] Looki~g for a ship                (Mike Marshall)
+  [29] stations and stuff. Those not go  (Melinda Michaels)
+  [30] important information for the us  (Erik Goodwin)
+  [31] Re: important information for th  (Erik Goodwin)
+  [32] update about communications with  (Erik Goodwin)
+  [33] beacon 285 league salvage proces  (Kert On'Marr)
+  [34] Re: beacon 285 league salvage pr  (Erik Goodwin)
+  [35] Building the 270 chain            (Morris Corlew)
+  [36] League general strategy meeting.  (Space Defense Captain Erik Goodwin)
+  [37] NQ                                (Katina Faye)
+  [38] Re: NQ                            (Lily Kaise)
+  [39] Re: NQ                            (Ted Warburton)
+  [40] Re: NQ                            (Katina Faye)
+  [41] Re: NQ                            (Katina Faye)
+* [42] Re: League general strategy meet  (Melinda Michaels)
+* [43] Re: League general strategy meet  (Erik Goodwin)
+* [44] thank you?                        (Alko Delovega)
+* [45] Re: thank you?                    (Melinda Michaels)
+* [46] Re: thank you?                    (Evenia an Eachtrannach)
+* [47] New Station Modules & Trip To To  (Morris Corlew)
+* [48] Thermal power extender station m  (Melinda Michaels)
+* [49] Tanny's Wish List                 (Tanny Hill)
+* [50] New Year party on Nouveau Quebec  (Nissi Valdaire)
+--
+  [51] Return
+  [52] Post
+  [53] Quit
+--
+Enter your selection:
+50
+--
+FTL Interalliance Communications Network
+--
+Subject: New Year party on Nouveau Quebec!
+Author: Nissi Valdaire
+Posted: 04:29 21 December 2317 GST
+--
+Be there or be somewhere else!
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+Lily Kaise says, "There's a New Year's eve party on NQ. I hope they will be nice
+enough to give us passage to there and back."
+4
+Logged out of FTL Message Board Net.
+Mischief the old large black felo hums melodically to itself as it wanders
+south.
+'Yeah, I see that. I hope so too.
+You say, "Yeah, I see that. I hope so too."
+'Is it going to be the typical NQ party where clothing and such is optional? Heh
+You say, "Is it going to be the typical NQ party where clothing and such is
+optional? Heh."
+A large semi-transparent ovoid creature with long dangling tendrils and a blue
+glowing interior drifts slowly past a plastic shipwreck flying a pirate flag.
+A long violet soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+cuddle lily
+You cuddle up to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise says, "I have no idea there was nothing specific in the post to
+General."
+A large semi-transparent ovoid creature with long dangling tendrils and a green
+glowing interior pulsates gently.
+nod lily
+You nod to Lily Kaise.
+caress lily
+I don't understand that.
+Try this instead:  caress lily on
+cuddle llily
+I don't see that here.
+cuddle lily
+You cuddle up to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise cuddles up to you.
+beam lily
+You beam at Lily Kaise.
+A long chartreuse soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+[Tactical Communication] Morris Corlew transmits, "Any interest in an op?"
+[Tactical Communication] Elaine Moreau transmits, "I'm interested."
+[Tactical Communication] Melinda Michaels transmits, "Sure."
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+[Tactical Communication] Morris Corlew transmits, "Ok, how bout one at 2000?
+Give folks an hour to finish whatever they're up to? Any additional interest?"
+[Tactical Communication] Ali Candan transmits, "I'm in for both."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+[Tactical Communication] Morris Corlew transmits, "Still not enough,
+unfortunately."
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+[Tactical Communication] Ather Jammoa transmits, "Anyone want to help scout the
+megapod? We're even taking people who went on a previous scouting run and want
+to help out. However, we will give preferential treatment to those who haven't
+scouted. I'm sure you all understand!"
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly across the tank.
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Lily, shule, either
+of you interested in a megapod?"
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Or both, really."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+first tier performance goal! Let's keep pushing for the second!"
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+A long gold soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A firmly rooted animal with dozens of smooth green tendrils slowly waves its
+many tendrils.
+A long yellow soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A large semi-transparent ovoid creature with long dangling tendrils and a blue
+glowing interior drifts slowly across the tank.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+A large thickly-shelled creature with a yellow shell and four small claws creeps
+across the bottom of the tank, snapping its many claws rapidly.
+A large thickly-shelled creature with a red shell and four small claws creeps
+across the bottom of the tank, snapping its many claws rapidly.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+Shine the big white glowing felo wanders in from the south.
+A large semi-transparent ovoid creature with long dangling tendrils and a blue
+glowing interior drifts slowly across the tank.
+Shine the big white glowing felo jumps onto a dark purple leather captain's
+chair and immediately settles in.
+Shine the big white glowing felo lies down and curls up into a tight ball,
+closes its eyes, and appears to sleep.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A long violet soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A large semi-transparent cylindrical creature with medium-length dangling
+tendrils and a fuchsia glowing interior drifts slowly past a plastic frond of
+light green sea fern.
+A short gold soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+A large thickly-shelled creature with a red shell and four small claws snaps its
+claws menacingly at a plastic frond of light green sea fern.
+A large semi-transparent perfectly round creature with long dangling tendrils
+and a cerulean glowing interior drifts slowly across the tank.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+first tier performance goal! Let's keep pushing for the second!"
+Mischief the old large black felo hums melodically to itself as it wanders in
+from the south.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Mischief the old large black felo hums melodically to itself as it wanders out.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Mischief the old large black felo hums melodically to itself as it wanders in
+from the airlock.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at a white plastic undersea castle and clings to it for a moment, then
+jets off.
+Mischief the old large black felo bats at a small purple ball containing a
+dingling bell.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+Mischief the old large black felo hums melodically to itself as it wanders
+south.
+A long chartreuse soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A long gold soft-bodied creature with many claw-tipped tentacles swims around a
+small plastic statue of a Jinu.
+Shine the big white glowing felo jumps down from a dark purple leather captain's
+chair.
+Shine the big white glowing felo wanders south.
+A short gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+A large thickly-shelled creature with a yellow shell and four small claws creeps
+across the bottom of the tank, snapping its many claws rapidly.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+A long violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A long amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a plastic frond of light green sea fern.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+A large semi-transparent ovoid creature with long dangling tendrils and a green
+glowing interior drifts slowly past a small plastic statue of a shark.
+Mischief the old large black felo hums melodically to itself as it wanders in
+from the south.
+A large thickly-shelled creature with a red shell and four small claws grips a
+plastic shipwreck flying a pirate flag firmly in its claws, then gives up when
+it can't break the toy.
+Mischief the old large black felo jumps into your lap and settles in, purring.
+pet mischief
+You stroke the soft fur of Mischief the old large black felo.
+Mischief the old large black felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+**
+ Welcome back to Star Conquest!
+**
+ * Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: For the most enjoyable roleplaying experience, sign out of Instant Message
+clients and Skype while you play. By definition, roleplaying can't happen
+outside of the game!
+**
+smile mischief
+You look at Mischief the old large black felo and smile.
+Mischief the old large black felo curls up and closes its eyes.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 194,522.44 EAOS credits from a toll payment to Fringe Rift Accelerating
+Battery-Powered Toll Station in Battle of Mir.
+A long amber soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+A long gold soft-bodied creature with many claw-tipped tentacles swims around a
+small plastic statue of a Jinu.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior pulsates gently.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at Fringe Salvage Processing Nuclear Transmitter from the two-person
+medium transport "Hoover". The organization has earned 960,596.21 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 194,541.20 EAOS credits from a toll payment to Fringe Rift Accelerating
+Battery-Powered Toll Station in Battle of Mir.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+Purr the humanoid service robot extracts some low-grade dry Felo Chow from cargo
+and pours it into a bowl.
+[Notification from Space Explorers Amidst The Stars] 160,000,000.00 credits have
+been deducted from the starship support fund.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "The results
+are in!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We achieved
+our first tier performance goal! Good job! Let's go for all of them next time!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Our
+performance was up 33.1% from the last Conquest period."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Heh I did very little!"
+grin lily
+You grin at Lily Kaise.
+Lily Kaise laughs.
+laugh
+You laugh.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says, "Let's see I did turn in belt management today and hmm."
+Lily Kaise says, "I think we responded to an encounter with Merry Band and well
+I guess as my cap resolves with exploreation that's an increase in points."
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in AEU/Debate.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+An oversized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly across the tank.
+Lily Kaise says, "Be right back."
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise says, "Jsut going to go check on felo."
+Lily Kaise glides out.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior drifts slowly past a plastic shipwreck flying a
+pirate flag.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise wraps her arms around you, pulling you close.
+fwrap lily
+I don't understand that.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily
+You kiss Lily Kaise.
+[Tactical Communication] Alko Delovega transmits, "Megapod?"
+[Tactical Communication] Michael Kennedy transmits, "Sure."
+[Tactical Communication] Alko Delovega transmits, "We need 3 more people."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "One Debris At A Time". The organization has earned
+1,057,541.57 credits.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic shipwreck flying a pirate flag firmly in its claws, then gives up when
+it can't break the toy.
+Mischief the old large black felo jumps down from your lap.
+Mischief the old large black felo seems to be hungry.
+Mischief the old large black felo approaches a glossy silver ceramic felo chow
+bowl, glances around, then begins shoveling low-grade dry Felo Chow into its
+mouth.
+Mischief the old large black felo suddenly jumps onto a dark purple leather
+captain's chair.
+Mischief the old large black felo hums melodically to itself as it wanders
+south.
+A long amber soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+Lily Kaise kisses you.
+Lily Kaise says, "I have mail it's probably insurance."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides out.
+Cheri-Pye the old large light violet felo hums melodically to itself as it
+wanders in from the south.
+Lily Kaise just entered the ship.
+kiss k
+You kiss Lily Kaise.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+kiss lily
+You kiss Lily Kaise.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise kisses you.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise says, "Robably insurance so paid them."
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at a white plastic undersea castle and clings to it for a moment, then
+jets off.
+Lily Kaise cuddles up to you.
+'Ah, ok
+You say, "Ah, ok."
+grin lily
+You grin at Lily Kaise.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+-lily I love you.
+You say to Lily, "I love you."
+Lily says to you, "I love you too!"
+Mischief the old large black felo hums melodically to itself as it wanders in
+from the south.
+smile lily
+You smile at Lily Kaise.
+[Tactical Communication] Erik Goodwin transmits, "Beacons?"
+Cheri-Pye the old large light violet felo seems to be hungry.
+Cheri-Pye the old large light violet felo approaches a glossy silver ceramic
+felo chow bowl, glances around, then begins shoveling low-grade dry Felo Chow
+into its mouth.
+[Tactical Communication] Erik Goodwin transmits, "Or better yet, seeing as it's
+a new conquest period, anyone for one of those new megapod raids?"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "One Debris At A Time". The organization has earned
+1,445,228.04 credits.
+[Tactical Communication] Michael Kennedy transmits, "In for either."
+Cheri-Pye the old large light violet felo bats at a small purple ball containing
+a dingling bell.
+Lily Kaise tosses a small purple ball containing a dingling bell at Cheri-Pye
+the old large light violet felo.
+Cheri-Pye the old large light violet felo bats wildly at the ball.
+Lily Kaise helps herself to a small Bari-shaped tidbit.
+Lily Kaise rolls a small purple ball containing a dingling bell across the floor
+toward Cheri-Pye the old large light violet felo.
+Lily Kaise puts down a small Bari-shaped tidbit.
+Lily Kaise helps herself to a small Bari-shaped tidbit.
+Lily Kaise puts down a small Bari-shaped tidbit.
+Cheri-Pye the old large light violet felo bats wildly at the ball.
+Lily Kaise helps herself to a small Bari-shaped tidbit.
+Lily Kaise puts down a small Bari-shaped tidbit.
+Lily Kaise tosses a small purple ball containing a dingling bell at Cheri-Pye
+the old large light violet felo.
+Cheri-Pye the old large light violet felo bounds after the ball.
+Lily Kaise tosses a small purple ball containing a dingling bell at Cheri-Pye
+the old large light violet felo.
+Cheri-Pye the old large light violet felo bounds after the ball.
+Lily Kaise bounces a small purple ball containing a dingling bell toward
+Cheri-Pye the old large light violet felo.
+Cheri-Pye the old large light violet felo bounds after the ball.
+Lily Kaise strokes the soft fur of Cheri-Pye the old large light violet felo.
+Cheri-Pye the old large light violet felo purrs and rubs its head against Lily's
+hand, looking up at her adoringly.
+Lily Kaise puts a small purple ball containing a dingling bell away.
+Lily Kaise exclaims, "Wow you sure are playful!"
+Lily Kaise strokes the soft fur of Cheri-Pye the old large light violet felo.
+Cheri-Pye the old large light violet felo purrs and rubs its head against Lily's
+hand, looking up at her adoringly.
+Lily Kaise wraps her arms around Cheri-Pye the old large light violet felo.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Mischief the old large black felo hums melodically to itself as it wanders
+south.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,176,562.50 credits from a xenology submission.
+Cheri-Pye the old large light violet felo hums melodically to itself as it
+wanders south.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A large thickly-shelled creature with a red shell and four small claws grips a
+plastic shipwreck flying a pirate flag firmly in its claws, then gives up when
+it can't break the toy.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A short gold soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+peer s
+You peer south...
+[Starship "William Dove"; Base Block]
+The status lights overhead are currently not receiving power. Looking through
+the windows, you see that the ship is in a garage.
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, Mischief the
+old large black felo, Shine the big white glowing felo, and Cheri-Pye the old
+large light violet felo here.
+You can go north, east, south, west, up, and down.
+kiss lily
+You kiss Lily Kaise.
+smile lily
+You smile at Lily Kaise.
+cuddle lily
+You cuddle up to Lily Kaise.
+Shine the big white glowing felo wanders in from the south.
+pet shine
+You stroke the soft fur of Shine the big white glowing felo.
+Shine the big white glowing felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Shine the big white glowing felo seems to be hungry.
+Shine the big white glowing felo enthusiastically gobbles up a small Bari-shaped
+tidbit.
+Lily Kaise laughs at Shine the big white glowing felo.
+grin
+You grin.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you.
+A large thickly-shelled creature with a yellow shell and four small claws beats
+its claws together.
+-lily I love you hun.
+You say to Lily, "I love you hun."
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Shine the big white glowing felo wanders out.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Shine the big white glowing felo wanders in from the airlock.
+: gives you a long passionate kiss.
+Shule gives you a long passionate kiss.
+Shine the big white glowing felo wanders south.
+A short red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at a white plastic undersea castle and clings to it for a moment,
+then jets off.
+A long chartreuse soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A long yellow soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+A metallic silver metachannel FTL communicator dings quietly as it receives a
+new notice.
+read comm
+You glance at your communicator's screen.
+There are pending large credit transfers that require processing. You can view
+them at your civilian liaison terminal.
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Someone please deny
+that transfer!"
+peer out
+Not much to see out there.
+'be right back
+You say, "Be right back."
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+io
+I don't understand that.
+i
+ You are wearing a soft red heather cotton polo, a pair of blue corduroy jeans,
+and a pair of gray canvas sneakers. Underneath this, you are wearing a pair of
+white cotton briefs and a pair of white socks. You are also wearing a keychain,
+a solid silver ring engraved with dolphins, a metallic gold touch einrophone in
+a black leather phone holster, a backpack, and a gold wrist-mounted chronometer.
+You are concealing a metallic silver metachannel FTL communicator, a black
+flightbag with a red shooting star on the side, a leather briefcase, a large
+expandable telescoping xenology container, a scorched metal thigh holster, a
+golden Feng Wo coin purse, a camera bag, a flight control scanner, and a black
+engineering tool case. Your head, face, both eyes, neck, both elbows, both
+forearms, both wrists, and both hands are left uncovered.
+You are carrying nothing.
+Lily Kaise says, "What the hell."
+Lily Kaise says, "No."
+Lily Kaise says, "No shule no."
+'I am going to deny it.
+You say, "I am going to deny it."
+Lily Kaise says, "Ok."
+Lily Kaise says, "Fly us there."
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "William Dove, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+ftl new
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Planning on it this is
+just unbelievable."
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+The computer reports that the two-person blockade runner "Chetumal Merchant
+Corps S-85" has landed on the planet New Earth.
+Via general sector communication, New Earth transmits, "Hello there, William
+Dove! Welcome to home space!"
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "It was just a test."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Well fuck that."
+A long red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+stand
+You're already standing.
+Lily Kaise says, "It won't clear form my comm either."
+read comm
+You glance at your communicator's screen.
+There are pending large credit transfers that require processing. You can view
+them at your civilian liaison terminal.
+The ship's computer automatically requests landing clearance.
+nod
+A voice comes over the speaker and says, "Hello, William Dove. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+You nod.
+'I know
+You say, "I know."
+power
+The computer informs you that you have mail waiting, which may be picked up at
+New Earth; Spaceport Mail Room.
+Lily Kaise glides out.
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a glossy sky blue ceramic felo chow bowl
+here.
+You can go out and enter into the ship.
+You exit the ship.
+[New Earth; Spaceport Landing Pad]
+The two-person Accord gemini "Coureur Des Bois", the two-person blockade runner
+"Chetumal Merchant Corps S-85", and the five-person A.S.S. tactical platform
+"William Dove" are landed here.
+You see an automatic teller machine and a small trash can here.
+Lily Kaise is standing here.
+You can go north, south, west, and down.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+n
+w
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+You hear the sound of numbers being entered into a keypad, followed by the door
+to the Ground Squad Leader's office opening.
+use terminal;
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] Check Pending Credit Transfers
+[3] View Starmap
+[4] View Rundown
+[5] Send Message to Fleet
+[6] Toggle Reporting
+[7] Fleet Composition Overview
+[8] View Alliance Blacklist
+[9] Send Communicator Notice
+Enter your selection:
+2
+You make a selection on your terminal.
+Pending large credit transfer(s) from the AEU: 1
+Ather Jammoa has arranged a transfer of 200,000,000.00 AEU credits to Morris
+Corlew.
+Do you approve this transfer?
+[Enter `yes' or `no']
+Your ship 'William Dove' has been automatically moved into a garage.
+n
+That transaction was no longer in the queue. Another official may also be
+processing this queue.
+The pending credit transfer queue has been cleared.
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "What the to more ass of
+all people haha."
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+The door to the east suddenly closes.
+Lily Kaise glides in from the east.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+s
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+out
+[New Earth; Spaceport Landing Pad]
+The two-person Accord gemini "Coureur Des Bois" and the two-person blockade
+runner "Chetumal Merchant Corps S-85" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dead
+Board what?
+enter dove
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Thanks."
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a glossy sky blue ceramic felo chow bowl
+here.
+You can go out and enter into the ship.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a black plastic tray of spider chow, a
+small purple ball containing a dingling bell, a wall-sized bubbling neon
+purple-lit aquarium containing red and gold aquatic life and coral rocks, a
+robotic chef named Nellie, a sheet of white paper, Purr the humanoid service
+robot, a small Bari-shaped tidbit, and a small Bari-shaped tidbit here.
+You can go south and out.
+sit sofa
+I can't find "sofa."
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+read comm
+You glance at your communicator's screen.
+There are no notices.
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "No problem!"
+sit couch
+You're already sitting.
+Lily Kaise just entered the ship.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says to you, "Did you also deny it?"
+nod
+You nod.
+'I did.
+You say, "I did."
+Lily Kaise says, "Oh interesting that we all had to to clear it."
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+'But you already denied it before I got a chance.
+You say, "But you already denied it before I got a chance."
+Lily Kaise says, "Oh oops."
+'heh
+You say, "Heh."
+'It's ok.
+You say, "It's ok."
+Lily Kaise says, "Oh I thought we all had to."
+'nope, just one of us.
+You say, "Nope, just one of us."
+sit couch
+You're already sitting.
+Lily Kaise says, "Oh well at least it was done."
+nod
+You nod.
+Lily Kaise says, "It was to Morris haha."
+Lily Kaise laughs.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "William Dove, you have clearance to
+launch. Good luck and come back to us safely."
+'Yeah, I saw that.
+You say, "Yeah, I saw that."
+Lily Kaise says, "Heh you're generally much quicker to respond than me."
+Lily Kaise presses a button and brings up the FTL flight control board.
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, The Torus transmits, "Greetings, William Dove!
+Welcome to The Torus!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+William Dove. The EAOS welcomes you under the non-aggression pact."
+-lily Let's go lie down when we land?
+You say to Lily, "Let's go lie down when we land?"
+The computer informs you that you have mail waiting, which may be picked up at
+New Earth; Spaceport Mail Room.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise says, "Ok Love."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+smile lily
+You smile at Lily Kaise.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, and Shine the
+big white glowing felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing violet
+and white aquatic life and coral rocks, a hairy yellow eight-legged ArachnoPal
+named Higgins, and Cheri-Pye the old large light violet felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, and a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it here.
+You can go out.
+s
+You can't go that way.
+Lily Kaise glides in from the north.
+undress into suit
+You remove all of your clothing, placing it carefully in a small suitcase.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise carefully removes a Tardick lizard named Asteria from her shoulder.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise puts down a Tardick lizard named Asteria.
+A Tardick lizard named Asteria settles down, curling its limbs inward. Its eyes
+close slowly and it appears to sleep.
+'Awww
+You say, "Awww."
+Lily Kaise says, "Aww."
+'Tired lizzy!
+You exclaim, "Tired lizzy!"
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says, "Yeah."
+-lily I love you so much hun!
+You say to Lily, "I love you so much hun!"
+--lily Night my love. Rest well and sweet dreams. I love you.
+Say to whom?
+-lily I love you. Rest well and sweet dreams.
+You say to Lily, "I love you. Rest well and sweet dreams."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily says to you, "Nite Love I love you too! Rest well and sweet dreams."
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise kisses you.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins taps his claws on the
+floor.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+-lily You are and always will be the only woman for me.
+You say to Lily, "You are and always will be the only woman for me."
+Lily Kaise smiles at you. "You will always be the only man for me."
+smile lily
+You smile at Lily Kaise.
+-lily Night.
+You say to Lily, "Night."
+A hairy yellow eight-legged ArachnoPal named Higgins taps his claws on the
+floor.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+Shine the big white glowing felo wanders in from the north.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 194,569.06 EAOS credits from a toll payment to Fringe Rift Accelerating
+Battery-Powered Toll Station in Battle of Mir.
+Shine the big white glowing felo wanders out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+Mischief the old large black felo hums melodically to itself as it wanders in
+from the north.
+Mischief the old large black felo rubs up against your leg with a quiet "Mrrp.".
+Mischief the old large black felo hums melodically to itself as it wanders out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+Shine the big white glowing felo wanders in from the north.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Shine the big white glowing felo wanders out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A Tardick lizard named Asteria shifts and then wakes, opening its yellow eyes
+slowly.
+A Tardick lizard named Asteria trundles slowly out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Edmund Fitzgerald". The organization has earned
+1,967,517.96 credits.
+Shine the big white glowing felo wanders in from the north.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Edmund Fitzgerald". The organization has earned
+2,295,486.17 credits.
+Shine the big white glowing felo wanders out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria's spine ridges flicker blue for a brief moment.
+Shine the big white glowing felo wanders in from the north.
+A Tardick lizard named Asteria trundles slowly out.
+Shine the big white glowing felo wanders out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A hairy yellow eight-legged ArachnoPal named Higgins jerks his limbs, springing
+into the air briefly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party on Sunday, 24 December at 11:00 PM game time!
+A Tardick lizard named Asteria trundles slowly into the area.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A Tardick lizard named Asteria flicks its tail.
+A Tardick lizard named Asteria trundles slowly out.
+Lily Kaise blinks heavily and then dozes off.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in eleven hours!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A hairy yellow eight-legged ArachnoPal named Higgins jerks his limbs, springing
+into the air briefly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in ten hours!
+wish
+I don't understand that.
+wish
+I don't understand that.
+**
+ Welcome back to Star Conquest!
+**
+ * Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in nine hours and fifty-eight minutes!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: The INFO command contains miscellaneous information about your character,
+such as their birthday, their net worth, and how many certain activities they've
+done this Conquest period.
+**
+@announcements
+I don't understand that.
+@announcement
+I don't understand that.
+@announcement
+I don't understand that.
+announcements
+Recent Announcements:
+-----
+Merry Annual Festive Holiday-Related Gift-Transferring Celebratory Event!
+This year, like last year, we hosts are busy in all sorts of ways! However,
+we're going to try to make things go a little smoother this time so we can make
+sure everyone gets a gift!
+First of all, please make your holiday wish at Icy's station at any time within
+the next few days. We will aim for having a proper Icy visitation and
+celebration a little closer to the holiday!
+Please try to make your holiday wishes modest ones. We would appreciate wishes
+for things which are relatively easy to make, like variations on things that
+already exist in some form. Examples: clothing, jewelry, felo games, action
+figures, temporary tattoos, actual tattoos, custom hair styles, small "plastic
+surgery" type tweaks, custom communicators, dispensers with a sensibly modest
+selection, or perhaps you'd just like a nice cactus. Please have all the details
+for your holiday wish prepared. If you think your first wish might be too much,
+please include a more modest second choice. Use the WISH command repeatedly to
+add additional lines of text!
+Thank you!
+   Announced 6 days, 10 hours, 33 minutes, and 9 seconds ago
+-----
+Annual Festive Holiday-Related Gift-Transferring Celebratory Event Eve Party on
+Sunday, 24 December at 11:00 PM game time!
+Come to Icy's Ice Castle for the Annual Festive Holiday-Related Gift-Transferrin
+g Celebratory Event Eve Party! Get gifts! Drink questionable holiday drinks!
+Avoid being vaporized!
+   Announced 1 day, 6 hours, 26 minutes, and 41 seconds ago
+-----
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Cheri-Pye the old large light violet felo hums melodically to itself as it
+wanders in from the north.
+Cheri-Pye the old large light violet felo rubs up against Lily Kaise's leg with
+a quiet "Mrrp."
+Cheri-Pye the old large light violet felo hums melodically to itself as it
+wanders out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in nine hours!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins works his fangs.
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "Old soothsayer?"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in eight hours!
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A hairy yellow eight-legged ArachnoPal named Higgins crouches down for a moment.
+A hairy yellow eight-legged ArachnoPal named Higgins quickly skitters out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Fuller 'n A Tick". The organization has earned
+1,711,248.61 credits.
+Cheri-Pye the old large light violet felo hums melodically to itself as it
+wanders in from the north.
+[Tactical Communication] Morris Corlew transmits, "Got a pirate opochtli and
+bolt thrower in A-59. Takin out interdictors but be careful."
+[Tactical Communication] Morris Corlew transmits, "Comin back in a better suited
+ship, but know they're there."
+Cheri-Pye the old large light violet felo hums melodically to itself as it
+wanders out.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in seven hours!
+[Tactical Communication] Morris Corlew transmits, "A-59 clear."
+[Tactical Communication] Erik Goodwin transmits, "Thanks, Morris."
+[Tactical Communication] Morris Corlew transmits, "Yep."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Fuller 'n A Tick". The organization has earned
+3,122,811.51 credits.
+A hairy yellow eight-legged ArachnoPal named Higgins wiggles his hairy palps
+endearingly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in six hours!
+A hairy yellow eight-legged ArachnoPal named Higgins spins webbing, gathering it
+into a ball with his back feet, then eats it.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+575,000.00 credits from a xenology submission.
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "Hey Eli."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Oh no, not you too
+Vernos. Did you gain Constantine's ability to sense when I've opened my eyes?"
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "Yes."
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "It is spreading."
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "Can I get your
+evaluation of something?"
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "When you wake up
+more."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "I have a lot to catch up
+on, but if I can I will."
+Lily Kaise cuddles up to you.
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "Sounds like what I
+went though when I started venturing back into the spaceport again."
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise kisses you.
+Lily Kaise glides out.
+Mischief the old large black felo hums melodically to itself as it wanders in
+from the north.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Mischief the old large black felo hums melodically to itself as it wanders out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "A Medium Sized Unlabeled Box". The organization has
+earned 2,233,279.72 credits.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 24,948,505.54 AEU credits.
+The computer informs you that you have mail waiting, which may be picked up at
+New Earth; Spaceport Mail Room.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in five hours!
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "A Medium Sized Unlabeled Box". The organization has
+earned 1,781,309.70 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in four hours!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in three hours!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in two hours!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Tactical Communication] Morris Corlew transmits, "Need one for a high tier
+nest. Anyone interested?"
+[Tactical Communication] Damien Alexander transmits, "I could be."
+[Tactical Communication] Ted Warburton transmits, "Give me a minute, Fringe 5 or
+Muty 4."
+[Tactical Communication] Morris Corlew transmits, "Old Earth Alexander."
+[Tactical Communication] Morris Corlew transmits, "What do you have Alexander?"
+[Tactical Communication] Damien Alexander transmits, "Can I bring my RATS 5?"
+[Tactical Communication] Morris Corlew transmits, "Hmm. That's what I was gonna
+bring. Sec."
+[Tactical Communication] Morris Corlew transmits, "Bring it Alexander. I'll
+bring uh...somethin else. Lemme see."
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins spins webbing, gathering it
+into a ball with his back feet, then eats it.
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in one hour!
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in thirty minutes!
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in fifteen minutes!
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in ten minutes!
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in five minutes!
+* Event Reminder: Annual Festive Holiday-Related Gift-Transferring Celebratory
+Event Eve Party in RIGHT NOW!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins jerks his limbs, springing
+into the air briefly.
+A hairy yellow eight-legged ArachnoPal named Higgins wiggles his hairy palps
+endearingly.
+Mischief the old large black felo hums melodically to itself as it wanders in
+from the north.
+A hairy yellow eight-legged ArachnoPal named Higgins quickly skitters out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+Mischief the old large black felo hums melodically to itself as it wanders out.
+A hairy yellow eight-legged ArachnoPal named Higgins spins webbing, gathering it
+into a ball with his back feet, then eats it.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in AEU/Debate.
+A metallic silver metachannel FTL communicator chimes softly as it receives a
+new notice.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 255,346.97 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/Name Changes.
+A metallic silver metachannel FTL communicator chimes softly as it receives a
+new notice.
+quit
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m

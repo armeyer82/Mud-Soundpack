@@ -1,0 +1,1743 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m#UNSNOOPING SESSION 'StarConquest'[0m
+[MTTS] something: Especially with a screen reader though it's a slight
+pain.
+[MTTS] usfolks: For some of us it's an accessibility thing. Not a
+convenience thing.
+[MTTS] something: I use wordsearch just to stand any chance.
+[MTTS] usfolks: And those of us who play visually but are visually
+impaired.
+[MTTS] moose: Also one thing that I've been wondering. Is SCANning
+random? I mean, it doesn't seem to matter how close a ship is to you and
+it also doesn't seem to go by class, or am I missing something?
+[MTTS] alc_71: Sometimes, when I have a dozen ships, the screen reader
+gives me issues when I am trying to find the correct ship to scan.
+[MTTS] usfolks: Exactly. I have to read through the whole list to find
+what I'm looking for. If you have 10 or 20 ships in a sector, you can
+just forget it. Not happening.
+[MTTS] something: And there's not much else that can be done. Even at 800
+wpm, it takes a very long time to get through a list of 17 ships trying
+to find a spesific one.
+[MTTS] usfolks: I also have to scroll my screen up because I'm using
+large text.
+[MTTS] usfolks: Exactly.
+[MTTS] B.A.: Maybe an add-on that reports the tracked target's status
+periodically? Not as good as scanning it, but you'd get like "The
+computer announces, "RATS Miner Epsilon-40825 has 0% hull damage."
+[MTTS] moose: Hey I'd take that.
+[MTTS] alc_71: That is a thought too.
+[MTTS] usfolks: Better than nothing. I'd buy an upgrade like that. Or
+something craftable. Either way. But something is way better than the way
+it is now.
+[MTTS] something: I'd be fine with that.
+[MTTS] moose: Not that I'm complaining, but yeah, basically all of the
+above. It likely gets super hectic just enough for the fully sighted,
+with all of that being said.
+[MTTS] something: With two or 3 ships probably not but I'm sure it is
+with like 20.
+[MTTS] B.A.: It does take a little practice to get decent at quickly
+matching.
+[MTTS] alc_71: For example, if I am trying to scan a squire, it's not so
+tedious because there are only a few at most. It's when I have to listen
+to ten various fighters that it slows me down.
+[MTTS] usfolks: No, not bad with 2 or 3. But if you have 20 and you can't
+glance over it like someone who's fully sighted can and have to go past
+each one...it does make a difference.
+[MTTS] B.A.: Maybe a distance limiter on the scanner?
+[MTTS] usfolks: No, because you'd still want to be able to scan a ship
+across the sector.
+[MTTS] something: In case this helps anyone, when I first track a target,
+I copy it's designation. Then when I scan I paste that into the word
+search field which gives me the number much faster.
+[MTTS] B.A.: An adjustable distance limiter.
+[MTTS] something: A separate command for scanning things that are only 1
+unit away.
+[MTTS] usfolks: That would take me even longer and I'd probably get hit
+doing it, and then again scanning the ship.
+[MTTS] alc_71: That might work. You could set it before beacons,
+invasions and the like.
+[MTTS] usfolks: That's a possibility. But if they're swarmed around you,
+you might still have 5 or 10 around you.
+[MTTS] something: Yes but it's better than nothing.
+[MTTS] usfolks: That's what I said.
+[MTTS] something: Adjustable range is a disadvantage for when, for
+example, you have more than one friendly ship cause enamies will be all
+over the place.
+[MTTS] voyager1000: When I was starting to suffer from worse eyesight,
+back in 2010 or there abouts, I gave up squinting at the screen and
+started using a reader just because it made text gaming that much easier.
+The two problems are disordered lists, so being able to have the ships in
+distance order may not be as useful as say, listing them in chain order
+first. But then we're getting into making it way too easy perhaps. I also
+tend to tab to my output and read up the list to avoid having to listen
+to each line of text in full while checking tracking info.
+[MTTS] usfolks: For me, scantracked or something would be the easiest.
+[MTTS] usfolks: I should be using a screenreader, and don't want to go
+into why I don't, but suffice it to say I have a reason. And I'm sure I'm
+not alone. Something that would help the most people would be the best.
+[MTTS] alc_71: What I do now is begin the scan attempt when I begin a
+manual movement. Then I hope I have time to find the ship before the next
+lock comes.
+[MTTS] voyager1000: I think most would agree that it's also a challenge
+to figure out which IFS ship you want, although I imagine that comes down
+to memory for the sighted too, so I'm not so bothered by that.
+[MTTS] ricolachen: I haven't had any problems with it so far. I scan too
+often, and I don't get the number in first try. I usually bring up the
+scan menu between moves, read the list after midmove then scan again. I'm
+totally blind, so can't comment on people with sight.
+[MTTS] usfolks: That's what I do alc_71.
+[MTTS] moose: That's what I do.
+[MTTS] something: Yes I do that as well ricolachen. Sometimes it'll take
+two or three tries cause stuff happens while I'm trying to find it.
+[MTTS] moose: It's a matter of getting into a rhythm. It's when there's
+509473 fighters in the sector that I have a wtf panic moment.
+[MTTS] moose: The problem I have is the scan order seems to change each
+time I type scan. Does this happen for anyone else?
+[MTTS] something: That's the point of this conversation pretty much.
+[MTTS] ricolachen: It does. I was talking about it a few minutes ago.
+[MTTS] moose: I'm still trying to figure out how exactly scan is
+organized, or if it is randomly generated.
+[MTTS] voyager1000: I think it does list in distance order, no?
+[MTTS] canpher: I think it changes as they move.
+[MTTS] Butchulla: If I ever see that many fighters in a sector I'd have
+more than a WTF moment.
+[MTTS] aaron123: The last ship to move is at the end of the menu.
+[MTTS] canpher: So the ship that has moved most recently is at the top.
+[MTTS] usfolks: If only it could be set in the same order as the SHIPS
+command order...
+[MTTS] canpher: The end. I figured it was one or the other.
+[MTTS] canpher: I think SHIPS does list in distance.
+[MTTS] alc_71: If you did that, you would only have to scan 1. Again,
+scripting ease.
+[MTTS] something: I wouldn't be surprised if someone who really wanted to
+could script the system we have now though.
+[MTTS] something: Making it too easy would get more people to do it yes,
+it doesn't mean it can't be done already though.
+[MTTS] ricolachen: It comes down to less people scripting versus everyone
+doing it without any programming knowledge.
+[MTTS] alc_71: It would take someone smarter than I with this sort of
+thing. Which, that wouldn't take much to be.
+[MTTS] something: Admittedly I pretty much know nothing about anything
+programming related.
+[MTTS] something: What ricolachen said.
+[MTTS] moose: Yep pretty much all of this. I have no problem with how
+things are now, it's just an observation from my pov.
+[MTTS] voyager1000: I know how to create sound triggers and hotkeys, but
+I don't use hotkeys here.
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 15,747,750.00 credits from a xenology submission.
+[0m01:00:01[0m
+[MTTS] ricolachen: No more accidentally aborting the yes no prompt by
+typing ETA. Love you hosts.
+[MTTS] something: Yes again thank you.
+[MTTS] B.A.: Could the autolander on courier ships be set so it always
+prefers to pick ports the ship has permission to dock at?
+[MTTS] something: It's much slower than just picking the destination.
+[MTTS] something: Arn't you payed based on speed?
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks
+like we've got some things going, but we haven't met any performance
+goals yet!"
+[MTTS] B.A.: Yes, but it's also useful for returning back to the ship's
+home port. If there's multiple places to land, like at New Earth where it
+can pick between the station and the planet, your ship might pick the
+"bad" location.
+[MTTS] something: Oh I see.
+[MTTS] usfolks: I think that's only a problem for the EAOS couriers, but
+could be wrong on that.
+[MTTS] B.A.: It's still better to tell the ship what to do, but it's nice
+to have the fall-back available if something goes weird with your
+connection.
+[MTTS] something: Oh.
+[MTTS] something: Will you have to chose the destination for the autonav
+forwarding thing?
+[MTTS] something: Choose, even.
+[MTTS] something: Or will it just pick one.
+[MTTS] usfolks: That would be interesting for having it on a station with
+two accelerators. But not sure why you'd use it there.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 106,438.51 EAOS credits from a toll payment to League Rift
+Accelerating Solar Toll Station in The Belt of Orion.
+[MTTS] something: I've seen chain stations where someone added an extra
+destination.
+[MTTS] voyager1000: If you have a beacon chain, you'd presumably need to
+tell it which other beacons are in the chain in order to configure
+correct travel in both directions.
+[MTTS] something: Like the beacon chain to nq a few months back, at the
+end there were two destinations.
+[MTTS] usfolks: Ah. Hmm. At the end? I missed that apparently.
+[MTTS] something: Well in the middle.
+[MTTS] something: There was one that took you straight back to gateway.
+[MTTS] usfolks: Yes, but those still only have one accelerator.
+[MTTS] something: But that's beside the point.
+[MTTS] voyager1000: So in a chain of three, you'd need to tell the beacon
+in the middle which other two beacons you are transfering from and to.
+[MTTS] usfolks: Oh. Back to gateway. That I did not know.
+[MTTS] ricolachen: It can't go back where the ship came from, so in this
+case it's just forward. Depends on where's the ship coming from.
+[MTTS] alc_71: I believe it was stated that the forwarding will not take
+you back to the beacon that you have traveled from.
+[MTTS] voyager1000: A ship arriving at beacon 2 from beacon 1 is sent on
+to beacon 3. And a ship from beacon 3 arriving at 2 is forwarded to
+beacon 1.
+[MTTS] something: Cool.
+[MTTS] usfolks: Yeah, I thought I heard that too.
+[MTTS] alc_71: What they are saying would only apply if there are two
+destinations to pick from. For example Orion has 285 and 287.
+[MTTS] autumnrain: I believe I've missed something. What exactly is
+autonav and forwarding? I remember my character jumped into a sector a
+couple days ago and her ship started moving on its own accord but I
+couldn't see to where.
+[MTTS] ricolachen: Changelog.
+[MTTS] usfolks: Yeah, which was pretty much why I made the comment of why
+we would use autoforward at the beginning of a chain. That would just
+promote extreme pure laziness.
+[MTTS] alc_71: You wouldn't want to use autoforward at the beginning of
+the chain. Especially if it's a toll station. The autoland would be the
+choice.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Holding The Weight". The
+organization has earned 1,504,173.44 credits.
+[MTTS] voyager1000: You'd still need to give details of beacons 1 and 3
+to beacon 2 so as not to forward ships to other random locations that are
+in range.
+[MTTS] something: That was kind of where I was going with my NQ comment.
+[MTTS] ricolachen: It's not random. It forwards to aligned stations.
+[MTTS] something: It won't always be the case that that other destination
+will just be the same place.
+[MTTS] voyager1000: Ah there you go, I forgot about that entire alignment
+part.
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 26,510,250.00 credits from a xenology submission.
+Xavier the big silver soldier felo marches in from the north.
+Xavier the big silver soldier felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring
+softly.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Holding The Weight". The
+organization has earned 2,619,148.03 credits.
+Xavier the big silver soldier felo rubs up against a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings
+with a soft periwinkle cashmere blanket, a large periwinkle bed pillow, a
+set of lavender silk sheets, a large periwinkle bed pillow, and a
+hand-made purple and amethyst flower quilt on it, purring softly.
+[0m02:00:00[0m
+Xavier the big silver soldier felo marches out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come
+on, we can reach our performance goals if we try!"
+[0m03:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks
+like we've got some things going, but we haven't met any performance
+goals yet!"
+Prissy the big violet long-haired felo wanders in from the north.
+Shasta the big onyx soldier felo marches in from the north.
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+[Tactical Communication] Bryan Stout transmits, "Interest in missions?"
+[Tactical Communication] Akemi Bando transmits, "I'd be up for gunning
+for you, Bryan."
+[Tactical Communication] Keegan Wantz transmits, "I can engineer!"
+[Tactical Communication] Keegan Wantz transmits, "And 'raya can pew."
+[Tactical Communication] Bryan Stout transmits, "I need one more for the
+hammerhead or one less for a stalwart."
+[Tactical Communication] Pilot Alko Delovega transmits, "One more then."
+[Tactical Communication] Bryan Stout transmits, "Earth."
+[Tactical Communication] Pilot Alko Delovega transmits, "But I am afraid
+of only one thing."
+[Tactical Communication] Bryan Stout transmits, "What?"
+[Tactical Communication] Pilot Alko Delovega transmits, "It might take
+too long at some point, then you'll have to forgive me."
+[Tactical Communication] Bryan Stout transmits, "Full."
+[Tactical Communication] Pilot Alko Delovega transmits, "You got one?"
+Prissy the big violet long-haired felo bats at a small red ball
+containing a realistic Bari horde noisemaker.
+[Tactical Communication] Bryan Stout transmits, "Avoid Tannhauser Gate!"
+Shasta the big onyx soldier felo jumps onto a white four poster rattan
+bed with a heart-shaped headboard and filmy deep purple hangings with a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a set of
+lavender silk sheets, a large periwinkle bed pillow, and a hand-made
+purple and amethyst flower quilt on it and immediately settles in.
+Shasta the big onyx soldier felo lies down and curls up into a tight
+ball, closes its eyes, and appears to sleep.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 242,053.49 EAOS credits from a toll payment to League Rift
+Accelerating Battery-Powered Toll Station in Mir.
+Prissy the big violet long-haired felo wanders out.
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tail.
+A Tardick lizard named Asteria trundles slowly out.
+[0m04:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see
+some activity underway, but no performance goals reached yet! Let's keep
+going!"
+[Tactical Communication] Jason Rat transmits, "Would anyone want to do a
+cruiser or two?"
+[Tactical Communication] Bryan Stout transmits, "You would ask that now."
+[Tactical Communication] Jason Rat transmits, "What did you do?"
+[Tactical Communication] Bryan Stout transmits, "We're in the middle of
+stalwart missions."
+[Tactical Communication] Jason Rat transmits, "Would two pilots like to
+go on morningstars?"
+Prissy the big violet long-haired felo wanders in from the north.
+Prissy the big violet long-haired felo bats at a small red ball
+containing a realistic Bari horde noisemaker.
+Shasta the big onyx soldier felo jumps down from a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings
+with a soft periwinkle cashmere blanket, a large periwinkle bed pillow, a
+set of lavender silk sheets, a large periwinkle bed pillow, and a
+hand-made purple and amethyst flower quilt on it.
+Shasta the big onyx soldier felo seems to be hungry.
+Shasta the big onyx soldier felo approaches a glossy pink ceramic felo
+chow bowl, glances around, then begins shoveling low-grade dry Felo Chow
+into its mouth.
+[0m05:00:00[0m
+[Tactical Communication] Bryan Stout transmits, "Tannhauser Gate clear!"
+Shasta the big onyx soldier felo marches out.
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on your leg, then rubs its head against you, purring softly.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see
+some activity underway, but no performance goals reached yet! Let's keep
+going!"
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring
+softly.
+Prissy the big violet long-haired felo wanders out.
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+[0m06:00:00[0m
+Shasta the big onyx soldier felo marches in from the north.
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+Shasta the big onyx soldier felo marches out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see
+some activity underway, but no performance goals reached yet! Let's keep
+going!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 9,102,000.00 credits from a xenology submission.
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 4,351,851.85 credits for a submission from a battle analysis
+scanner on AEU Battle-Scanning Nuclear Temporary Station involving the
+one-person bastille "Tempered Dragonfly".
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 702,576.03 credits.
+[0m07:00:01[0m
+Shasta the big onyx soldier felo marches in from the north.
+Blueberry the hefty violet feathered felo wanders in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see
+some activity underway, but no performance goals reached yet! Let's keep
+going!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 4,351,851.85 credits for a submission from a battle analysis
+scanner on AEU Battle-Scanning Nuclear Temporary Station involving the
+one-person bastille "Tempered Dragonfly".
+Shasta the big onyx soldier felo marches out.
+Blueberry the hefty violet feathered felo wanders out.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+who
+There appear to be about 17 pilots recently active.
+The communicator network detects:
+Eli Grey  (A)
+Bryan Stout  (L)
+Sarah Bellamy  (L)
+Melinda Michaels  (L)
+Jacob Smitt  (L)
+Jason Rat  (L)
+Nicolette Lawrence  (L)
+Morris Corlew  (L)
+Nissi Valdaire  (L) [a]
+Tabi Canis  (F) [a]
+Rogue Romano  (F)
+Keegan Wantz  (F)
+Industrial Whip Evenia Callseah  (F)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Aisling the Fox  (M)
+Akemi Bando  (M)
+Your communicator also reports that there is 1 pilot who was active but
+dropped out of communications.
+Additionally, there are 12 pilots who appear to have their communicators
+on but have not recently been active.
+Final total: 29 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[0m[Miriani] Calyssa Calaway says, "we are almost a tenth of the way there"[0m
+[0m[Miriani] Calyssa Calaway laughs.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+who
+There appear to be about 16 pilots recently active.
+The communicator network detects:
+Eli Grey  (A)
+Bryan Stout  (L)
+Sarah Bellamy  (L)
+Melinda Michaels  (L)
+Jacob Smitt  (L)
+Nicolette Lawrence  (L)
+Morris Corlew  (L)
+Nissi Valdaire  (L) [a]
+Tabi Canis  (F) [a]
+Rogue Romano  (F)
+Keegan Wantz  (F)
+Industrial Whip Evenia Callseah  (F)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Aisling the Fox  (M)
+Akemi Bando  (M)
+Your communicator also reports that there is 1 pilot who was active but
+dropped out of communications.
+Additionally, there are 13 pilots who appear to have their communicators
+on but have not recently been active.
+Final total: 29 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[0m[Miriani] Leeann Blade puts a blue wall-mounted warning plain poster in a
+red leather tote with a wide padded strap.[0m
+read comm
+You glance at your communicator's screen.
+Notice from the Voice of the Corps: Hello everyone. First, I would like
+to welcome Jacob Taylor to the pilot corps. I hope you will all join me
+in giving him a great welcome. Then I also have the state of the corps
+report for Friday April 28th. 10 days into the term, the AEU has
+completed 3 out of a total of 46 decoy beacon drops (6.52 %). The AEU is
+responsible for 0 out of 5 destroyed rats nests (0.0%). And finally the
+AEU is responsible for 0 out of 0 total salvage ops. To clarify this for
+our newer pilots, when you join a crew of an other alliance this does
+help us still with conquest, but it does not count towards the totals I
+just listed above. This concludes my report, and I wish you all a nice
+day! Kim Saunders. [07:33 28 April 2317 GST]
+A new episode of AEU Today has been released to pilots. [01:24 29 April
+2317 GST]
+Notice from the Voice of the Corps: Hello all, I would like to take a
+moment to welcome Rayferd Barns to the pilot corps. I hope you will all
+join me in making him, and all our new cadets for that matter, feel right
+at home. Some information for our new cadets I probably should have given
+sooner: Ather Jamoa is our space defense captain and he is a great
+teacher for anything to do with space combat. We do not have a very
+active ground squad leader, but there are several of us who are quite
+knowledgeable with ground combat, so do not hesitate to ask questions
+about that. Some of us pilots have been at it for several years, so
+whatever you have questions about, feel free to ask any of us. Have a
+nice day! [07:48 30 April 2317 GST]
+There are two board posts.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep
+new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=S
+tar+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Have a party in your pilots' lounge once in a while. You'll
+definitely feel inspired to earn more points afterward!
+**
+stand
+You stand up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a set of lavender silk sheets, a
+large periwinkle bed pillow, and a hand-made purple and amethyst flower
+quilt on it.
+kisslily
+I don't understand that.
+kiss lily
+You kiss Lily Kaise.
+l lily
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 4,351,851.85 credits for a submission from a battle analysis
+scanner on AEU Battle-Scanning Nuclear Temporary Station involving the
+one-person bastille "Tempered Dragonfly".
+Lily Kaise
+She appears to be 28 years old. She is about five feet and two inches
+tall and has fair skin. Her body is thin with attractively curved hips
+and shapely calves. She has slender shoulders and slightly larger than
+average breasts. Her face is oval and pretty, with a delicate nose and
+understated chin. Her lips are lovely and blush pink and occasionally
+part to reveal a set of pretty teeth. Beneath a set of arched eyebrows,
+her eyes are blue-green and almond-shaped. Her waist-length, straight
+hair is pale honey blonde and swept up into a thick fall of loose curls
+down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a
+small enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing an aqua cotton chemise trimmed with a row of tiny
+matching ribbon rosettes. She is also wearing an orange and white blessed
+prayer bracelet around her wrist, a slender bracelet of tiny tinkling
+silver bells around her wrist, a neon purple wrist-mounted chronometer, a
+solid silver ring engraved with dragonflies, a delicate ring of silver
+wire and small purple amethyst crystals, a light purple flightbag with a
+pastel kitten on the side, a metallic gold touch einrophone in a metallic
+purple reinforced plastic phone holster, an elegant white gold ring inset
+with a perfect solitaire diamond, and a soft fuchsia Tardick lizard
+snuggly labeled 'Asteria'. Her head, face, both eyes, neck, both biceps,
+both elbows, both forearms, both wrists, both hands, both ankles, and
+both feet are left uncovered.
+She is carrying nothing.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m#SNOOPING SESSION 'StarConquest'[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 788,702.53 credits.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+dam
+I don't understand that.
+dam
+I don't understand that.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+n
+You can't go that way.
+out
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique
+oak table from Old Earth, a textured plasteel floor lamp with a cream
+shade (casting a white-colored glow), a violet leather sectional sofa
+with Mischief the sleeping large black felo on it, a glossy slate blue
+ceramic felo chow bowl, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, a Tardick lizard
+named Asteria, Blueberry the hefty violet feathered felo, and a hairy
+yellow eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table
+with a glass top, a blueberry rattan bench, a rattan floor lamp with a
+coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink
+trash bin, an elegant purple glass vase containing a dozen red roses, a
+glossy silver ceramic felo chow bowl, a black plastic tray of spider
+chow, a long white and coral pink flowered cushion, a small hot coffee
+dispenser, a small hot tea dispenser, and a long white and coral pink
+flowered cushion here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan
+floor lamp with a light purple lotus shade (casting a white-colored
+glow), a wormhole drive tracer, a dark purple leather captain's chair, a
+large oval white and black cloth rug, a rare black EAOSian contoured
+couch, a round white rattan coffee table with a glass top, a glossy
+sapphire blue ceramic felo chow bowl, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral
+rocks, a small purple trash bin, a robotic chef named Nellie, Purr the
+humanoid service robot, and Prissy the big violet long-haired felo here.
+You can go south and out.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of
+flightlockers, an early warning space defense device, and a glossy sky
+blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+w
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+[New Earth; Spaceport East]
+w
+You see a sanitation drone here.
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west,
+northwest, and down.
+se
+[New Earth; Spaceport Mail Room]
+You see Fabious the arachnoid security robot here.
+You can go northwest and down.
+list
+    ~|~  Mail Room  ~|~
+     [1] Letter                5,000.00    
+     [2] One-Item Package      6,000.00    
+     [3] Three-Item Package    8,000.00    
+     [4] Five-Item Package     9,000.00    
+     [5] Ten-Item Package      10,000.00   
+     [6] Credit Chip           7,500.00    
+     [7] Letter Portfolio      50,000.00   
+buy 1
+You order a letter.
+nw
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west,
+northwest, and down.
+e
+[New Earth; Spaceport East]
+e
+You see a sanitation drone here.
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport Bridge]
+e
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+e
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of
+flightlockers, an early warning space defense device, and a glossy sky
+blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan
+floor lamp with a light purple lotus shade (casting a white-colored
+glow), a wormhole drive tracer, a dark purple leather captain's chair, a
+large oval white and black cloth rug, a rare black EAOSian contoured
+couch, a round white rattan coffee table with a glass top, a glossy
+sapphire blue ceramic felo chow bowl, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral
+rocks, a small purple trash bin, a robotic chef named Nellie, Purr the
+humanoid service robot, and Prissy the big violet long-haired felo here.
+You can go south and out.
+[0m[Miriani] Calyssa Calaway presses a button to cancel the current
+autopilot program.[0m
+[0m[Miriani] Calyssa Calaway presses a series of buttons on a sensor control
+board.[0m
+[0m[Miriani] Leeann Blade presses a series of buttons on a sensor control
+board.[0m
+[0m08:00:00[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+write letter
+You begin writing on a letter.
+Please enter your message:
+[Type lines of input; use `.' to end or `@abort' to abort the command.]
+[0m[Miriani] A short-haired gray and white cat begins licking herself.[0m
+[0m[Miriani] Lily Torraske toddles southeast.[0m
+[0m[Miriani] An orange and white cat slinks southwest.[0m
+Liz,
+I was looking through my stuff the other day and found the g-string you
+sent me. You know that I'm with someone right? Therefore, it was very
+very naughty of you to send it to me, but don't worry, I'm not mad. I do
+think you deserve to be punished for it. *wink*I, however, can't do it as
+you probably wouldn't let me and Lily would kill me if she found out. So,
+just keep this letter to yourself please.
+*
+*
+Shule
+*
+.
+--
+Liz,
+I was looking through my stuff the other day and found the g-string you
+sent me. You know that I'm with someone right? Therefore, it was very
+very naughty of you to send it to me, but don't worry, I'm not mad. I do
+think you deserve to be punished for it. *wink*I, however, can't do it as
+you probably wouldn't let me and Lily would kill me if she found out. So,
+just keep this letter to yourself please.
+Shule
+--
+Is this okay? [Enter `yes' or `no']
+y
+You write down your message on a letter.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of
+flightlockers, an early warning space defense device, and a glossy sky
+blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine, a small trash can, and a sanitation
+drone here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+w
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+[New Earth; Spaceport East]
+You can go northeast, east, southeast, south, southwest, and west.
+w
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west,
+northwest, and down.
+se
+[New Earth; Spaceport Mail Room]
+You see Fabious the arachnoid security robot here.
+You can go northwest and down.
+send letter
+Please enter the name of who you want to send your letter to:
+elizabeth
+That could be more than one person.
+Please enter the name of who you want to send your letter to:
+elizabeth beck
+Your letter is being sent to: Elizabeth Beckman.
+Is this okay? [Enter `yes' or `no']
+[0m[Miriani] Leeann Blade begins tapping commands into a navigational
+control console.[0m
+y
+You seal the envelope, and slide the envelope into the postal machine.
+nw
+[New Earth; Spaceport East]
+You see a trash can and a sanitation drone here.
+You can go north, northeast, east, southeast, south, southwest, west,
+northwest, and down.
+e
+[New Earth; Spaceport East]
+e
+You see a sanitation drone here.
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport Bridge]
+You see a trash can, a long white plasteel bench, and a sanitation drone
+here.
+You can go east and west.
+e
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+e
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of
+flightlockers, an early warning space defense device, and a glossy sky
+blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan
+floor lamp with a light purple lotus shade (casting a white-colored
+glow), a wormhole drive tracer, a dark purple leather captain's chair, a
+large oval white and black cloth rug, a rare black EAOSian contoured
+couch, a round white rattan coffee table with a glass top, a glossy
+sapphire blue ceramic felo chow bowl, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral
+rocks, a small purple trash bin, a robotic chef named Nellie, Purr the
+humanoid service robot, and Prissy the big violet long-haired felo here.
+You can go south and out.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table
+with a glass top, a blueberry rattan bench, a rattan floor lamp with a
+coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink
+trash bin, an elegant purple glass vase containing a dozen red roses, a
+glossy silver ceramic felo chow bowl, a black plastic tray of spider
+chow, a long white and coral pink flowered cushion, a small hot coffee
+dispenser, a small hot tea dispenser, and a long white and coral pink
+flowered cushion here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique
+oak table from Old Earth, a textured plasteel floor lamp with a cream
+shade (casting a white-colored glow), a violet leather sectional sofa
+with Mischief the sleeping large black felo on it, a glossy slate blue
+ceramic felo chow bowl, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, a Tardick lizard
+named Asteria, Blueberry the hefty violet feathered felo, a hairy yellow
+eight-legged ArachnoPal named Higgins, and Shasta the big onyx soldier
+felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a
+realistic Bari horde noisemaker, a glossy pink ceramic felo chow bowl, a
+white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it, a
+large oval dark purple and light purple cloth rug, a small oval turquoise
+rattan table with a glass top, a bag of felo treats, a tight black
+t-shirt with a bright purple dragon embroidered on the front, a pair of
+skinny faded blue low rise jeans, and a pair of mystic purple suede clogs
+here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+s
+You can't go that way.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a set of lavender silk sheets, a
+large periwinkle bed pillow, and a hand-made purple and amethyst flower
+quilt on it.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+afk
+You blink heavily and then doze off.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks
+like we've got some things going, but we haven't met any performance
+goals yet!"
+get lilyfrom briefcase
+I see no "lilyfrom briefcase" here.
+get lily from briefcase
+I see no "lily" in a leather briefcase.
+get ob frombriefcase
+I see no "ob frombriefcase" here.
+get box frombriefcase
+I see no "box frombriefcase" here.
+get box from briefcase
+You remove a cardboard box labeled 'Books' from a leather briefcase.
+put books in briefcase
+You put a cardboard box labeled 'Books' in a leather briefcase.
+get box from briefcase
+You remove a mosaic star box from a leather briefcase.
+openbox
+I don't understand that.
+openbox
+I don't understand that.
+open box
+A mosaic star box is already open.
+l box
+a mosaic star box
+This square box measures about twenty centimeters in all dimensions. It
+is made of silver metal covered with a mosaic depicting a large stylized
+white star on the top with a pale blue center and a deep midnight blue
+background spotted with smaller red, blue, orange, and yellow stars. The
+white star's tendrils stream outward in smooth arcs down the sides of the
+box, curving around additional smaller stars. The mosaic's tiny pieces of
+broken plastic and the thin lines of silver-colored cement holding them
+in place are covered with a thin high-gloss glaze that is smooth to the
+touch.
+It is open.
+Inside it you see a photo of Lily Kaise, a photo of Lily Kaise, citoyen
+d'honneur du Nouveau Quebec, a photo of Lily Kaise, a space imaging
+photograph of a large gas giant orbiting close to a star, a space imaging
+photograph of a field of twisted starship wreckage, a space imaging
+photograph of a star surrounded by a disc of glowing dust, a space
+imaging photograph of a nebula glowing with points of light, a space
+imaging photograph of The Flare, a photo of Shasta the sleeping big onyx
+soldier felo, a photo of Chetumal Spaceport; Landing Pad, a photo of
+Starship "Stars Wanderer"; Head, a white lace photo album entitled "Xia
+He", a space imaging photograph of a large gas giant orbiting close to a
+star, a blue leather photo album with a cluster of stars embossed on the
+front, a photo of a bioaugmentation plant in a small pot labeled
+"Starseekers & Troubleshooters", a photo of Akemi Bando, Sassie the
+sleeping large fuchsia felo, and Xavier the sleeping big silver soldier
+felo, a photo of Samantha the old large violet felo, Sassie the old
+sleeping large fuchsia felo, Shasta the big onyx soldier felo, and a
+wall-sized bubbling neon purple-lit aquarium containing yellow and violet
+aquatic life and coral rocks, a photo of Sassie the sleeping large
+fuchsia felo and Xavier the sleeping big silver soldier felo, and a photo
+of Lily Kaise.
+get lily from box
+I see no "lily" in a mosaic star box.
+get photo from box
+You remove a photo of Lily Kaise from a mosaic star box.
+l lily
+Lily Kaise
+She appears to be 28 years old. She is about five feet and two inches
+tall and has fair skin. Her body is thin with attractively curved hips
+and shapely calves. She has slender shoulders and slightly larger than
+average breasts. Her face is oval and pretty, with a delicate nose and
+understated chin. Her lips are lovely and blush pink and occasionally
+part to reveal a set of pretty teeth. Beneath a set of arched eyebrows,
+her eyes are blue-green and almond-shaped. Her waist-length, straight
+hair is pale honey blonde and swept up into a thick fall of loose curls
+down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a
+small enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing an aqua cotton chemise trimmed with a row of tiny
+matching ribbon rosettes. She is also wearing an orange and white blessed
+prayer bracelet around her wrist, a slender bracelet of tiny tinkling
+silver bells around her wrist, a neon purple wrist-mounted chronometer, a
+solid silver ring engraved with dragonflies, a delicate ring of silver
+wire and small purple amethyst crystals, a light purple flightbag with a
+pastel kitten on the side, a metallic gold touch einrophone in a metallic
+purple reinforced plastic phone holster, an elegant white gold ring inset
+with a perfect solitaire diamond, and a soft fuchsia Tardick lizard
+snuggly labeled 'Asteria'. Her head, face, both eyes, neck, both biceps,
+both elbows, both forearms, both wrists, both hands, both ankles, and
+both feet are left uncovered.
+She is carrying nothing.
+l photo
+a photo of Lily Kaise
+Lily Kaise is in the photo. She is sitting on a padded black stool at the
+bar.
+She appears to be at The Torus; Torus Restaurant.
+She appears to be 26 years old. She is about five feet and two inches
+tall and has fair skin. Her body is thin with attractively curved hips
+and shapely calves. She has slender shoulders and slightly larger than
+average breasts. Her face is oval and pretty, with a delicate nose and
+understated chin. Her lips are lovely and applied with sheer peachy pink
+lipstick, and occasionally part to reveal a set of pretty teeth.
+Translucent deep peachy pink blush is applied to her cheeks. Beneath a
+set of arched eyebrows, her eyes are blue-green and almond-shaped, and
+enhanced with dark cat's eye eyeliner and shimmering orchid eyeshadow.
+She has subtle black mascara. Her mid-back length, straight hair is pale
+honey blonde and swept up into a thick fall of loose curls down her back.
+She has oval painted frosted peachy pink fingernails. She has a small
+pale purple lotus in her hair.
+A small enameled mystic purple dragonfly pierces her left earlobe and a
+small enameled mystic purple dragonfly pierces her right earlobe.
+ She is wearing a soft creamy white silk organza stole loosely wrapped
+around her shoulders, a beaded orchid dress with a bateau neckline and a
+scalloped hem, an exquisite wrist cuff of oval tanzanites nested in small
+round diamonds, and a pair of orchid silk open-toed evening pumps
+decorated with crystal bows. She is also wearing an orange and white
+blessed prayer bracelet around her wrist, a metallic gold touch
+einrophone in a metallic purple reinforced plastic phone holster, a neon
+purple wrist-mounted chronometer, a slender bracelet of tiny tinkling
+silver bells around her wrist, a solid silver ring engraved with
+dragonflies, an elegant pearl and tanzanite floral necklace with diamond
+leaves, a small gold silk evening clutch with a gold clasp, and a compact
+metallic purple camera with a gold fleur-de-lys embossed on the front
+with a glittery pink camera strap. Her head, face, both eyes, neck, both
+biceps, both elbows, both forearms, right wrist, both hands, both knees,
+both calves, and both ankles are left uncovered.
+[0m[Miriani] Leeann Blade says, "cally who u talking to"[0m
+put photo in box
+You put a photo of Lily Kaise in a mosaic star box.
+[0m[Miriani] Calyssa Calaway says, "aaron"[0m
+[0m[Miriani] Leeann Blade nods.[0m
+[0m[Miriani] Calyssa Calaway says, "he called me a doggy napper"[0m
+get photo from box
+You remove a photo of Lily Kaise, citoyen d'honneur du Nouveau Quebec
+from a mosaic star box.
+[0m[Miriani] Leeann Blade says, "aww"[0m
+l photo
+a photo of Lily Kaise, citoyen d'honneur du Nouveau Quebec
+Lily Kaise, citoyen d'honneur du Nouveau Quebec is in the photo. She is
+sitting on a bench encircling a tall statue in the middle of the plaza.
+She appears to be at Nouveau Quebec; Independence Plaza.
+She appears to be 26 years old. She is about five feet and two inches
+tall and has fair skin decorated with sparkly purple body glitter. Her
+body is thin with attractively curved hips and shapely calves. She has
+slender shoulders and slightly larger than average breasts. Her face is
+oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and applied with sheer peachy pink lipstick, and occasionally part
+to reveal a set of pretty teeth. Translucent deep peachy pink blush is
+applied to her cheeks. Beneath a set of arched eyebrows, her eyes are
+blue-green and almond-shaped, and enhanced with dark cat's eye eyeliner
+and shimmering orchid eyeshadow. She has subtle black mascara. Her
+mid-back length, straight hair is pale honey blonde and swept up into a
+thick fall of loose curls down her back. She has oval painted frosted
+peachy pink fingernails. She has a small pale purple lotus in her hair.
+A small enameled mystic purple dragonfly pierces her left earlobe and a
+small enameled mystic purple dragonfly pierces her right earlobe.
+ She is wearing a short sleeveless fuchsia silk dress with a plunging
+neckline and a matching beaded sash at the waist and a pair of strappy
+fuchsia silk sandals. She is also wearing an orange and white blessed
+prayer bracelet around her wrist, a metallic gold touch einrophone in a
+metallic purple reinforced plastic phone holster, a neon purple
+wrist-mounted chronometer, a slender bracelet of tiny tinkling silver
+bells around her wrist, a solid silver ring engraved with dragonflies, a
+delicate ring of silver wire and small purple amethyst crystals, a soft
+fuchsia Tardick lizard snuggly labeled 'Asteria', a Tardick lizard named
+Asteria perched on her shoulder, a gleaming necklace of small saffron
+beads around her neck, and a swank necklace of small pink beads around
+her neck. Her head, face, both eyes, neck, both biceps, both elbows, both
+forearms, both wrists, both hands, both thighs, both knees, both calves,
+and both ankles are left uncovered.
+[0m[Miriani] Leeann Blade says, "but it wasn't your fault"[0m
+[0m[Miriani] Leeann Blade says, "it was the guy"[0m
+[0m[Miriani] Calyssa Calaway laughs.[0m
+put box in briefcase
+You put a mosaic star box in a leather briefcase.
+[0m[Miriani] Calyssa Calaway says, "well she is still mine anyways"[0m
+[0m[Miriani] Calyssa Calaway says, "i never transfered"[0m
+[0m[Miriani] Calyssa Calaway says, "lol"[0m
+get 2.box from briefcase
+I see no "2.box" in a leather briefcase.
+get second box from briefcase
+You remove a mosaic star box from a leather briefcase.
+put photo in box
+You put a photo of Lily Kaise, citoyen d'honneur du Nouveau Quebec in a
+mosaic star box.
+l box
+a mosaic star box
+This square box measures about twenty centimeters in all dimensions. It
+is made of silver metal covered with a mosaic depicting a large stylized
+white star on the top with a pale blue center and a deep midnight blue
+background spotted with smaller red, blue, orange, and yellow stars. The
+white star's tendrils stream outward in smooth arcs down the sides of the
+box, curving around additional smaller stars. The mosaic's tiny pieces of
+broken plastic and the thin lines of silver-colored cement holding them
+in place are covered with a thin high-gloss glaze that is smooth to the
+touch.
+It is open.
+Inside it you see a photo of Lily Kaise, a space imaging photograph of a
+large gas giant orbiting close to a star, a space imaging photograph of a
+field of twisted starship wreckage, a space imaging photograph of a star
+surrounded by a disc of glowing dust, a space imaging photograph of a
+nebula glowing with points of light, a space imaging photograph of The
+Flare, a photo of Shasta the sleeping big onyx soldier felo, a photo of
+Chetumal Spaceport; Landing Pad, a photo of Starship "Stars Wanderer";
+Head, a white lace photo album entitled "Xia He", a space imaging
+photograph of a large gas giant orbiting close to a star, a blue leather
+photo album with a cluster of stars embossed on the front, a photo of a
+bioaugmentation plant in a small pot labeled "Starseekers &
+Troubleshooters", a photo of Akemi Bando, Sassie the sleeping large
+fuchsia felo, and Xavier the sleeping big silver soldier felo, a photo of
+Samantha the old large violet felo, Sassie the old sleeping large fuchsia
+felo, Shasta the big onyx soldier felo, and a wall-sized bubbling neon
+purple-lit aquarium containing yellow and violet aquatic life and coral
+rocks, a photo of Sassie the sleeping large fuchsia felo and Xavier the
+sleeping big silver soldier felo, a photo of Lily Kaise, a photo of Lily
+Kaise, and a photo of Lily Kaise, citoyen d'honneur du Nouveau Quebec.
+[0m[Miriani] Leeann Blade says, "sorry i told him"[0m
+[0m[Miriani] Leeann Blade says, "i saw her and was like"[0m
+get photo of Lily from box
+I see no "photo of Lily" in a mosaic star box.
+get photo from box
+You remove a photo of Lily Kaise from a mosaic star box.
+l photo
+a photo of Lily Kaise
+Lily Kaise is in the photo. She is standing.
+She appears to be at Starship "William Dove"; Living Quarters Block.
+She appears to be 26 years old. She is about five feet and two inches
+tall and has fair skin decorated with glittery green body glitter. Her
+body is thin with attractively curved hips and shapely calves. She has
+slender shoulders and slightly larger than average breasts. Her abdomen
+is attractive and punctuated by a cute navel. Her face is oval and
+pretty, with a delicate nose and understated chin. Her lips are lovely
+and applied with wet neon green lipstick, and occasionally part to reveal
+a set of pretty teeth. Glittery bubblegum pink blush is applied to her
+cheeks. Beneath a set of arched eyebrows, her eyes are blue-green and
+almond-shaped, and enhanced with emerald green cat's eye eyeliner and
+sparkly neon green eyeshadow. She has glittery dark green mascara. Her
+mid-back length, straight hair is neon green with metallic gold
+highlights and swept up into a thick fall of loose curls down her back.
+She has oval painted metallic neon green fingernails. She has a
+shimmering green and gold shamrock in her hair.
+A small enameled crimson dragon pierces her belly button, a small
+enameled mystic purple dragonfly pierces her left earlobe, and a small
+enameled mystic purple dragonfly pierces her right earlobe.
+ She is wearing a short emerald green cotton tee with an elaborate Celtic
+heart printed on the front, an emerald silk sash, a white gold link chain
+with a green jade shamrock suspended from it around her waist, a very
+short green skirt with gold shamrocks printed around the hem, a white
+gold link ankle bracelet with a green jade shamrock suspended from it
+around her ankle, and a pair of light green platform shoes. She is also
+wearing an orange and white blessed prayer bracelet around her wrist, a
+metallic gold touch einrophone in a metallic purple reinforced plastic
+phone holster, a neon purple wrist-mounted chronometer, a slender
+bracelet of tiny tinkling silver bells around her wrist, a solid silver
+ring engraved with dragonflies, a soft fuchsia Tardick lizard snuggly
+labeled 'Asteria', a delicate ring of silver wire and small purple
+amethyst crystals, a Tardick lizard named Asteria perched on her
+shoulder, a flashy necklace of small emerald green beads around her neck,
+and a white gold link bracelet decorated with small blue and green jade
+shamrocks. Her head, face, both eyes, neck, both elbows, abdomen, both
+forearms, both wrists, both hands, both thighs, both knees, both calves,
+and left ankle are left uncovered.
+put photo in box
+You put a photo of Lily Kaise in a mosaic star box.
+view box
+Contents:
+  [1] Photography                     (19 items)
+Enter your selection:
+1
+--
+ a space imaging photograph of a large gas giant orbiting close to a star
+                                                                         
+                                                                         
+              [star]
+ a space imaging photograph of a field of twisted starship wreckage      
+                                                                         
+                                                                         
+              [wreckage]
+ a space imaging photograph of a star surrounded by a disc of glowing
+dust                                                                     
+                                                                         
+                  [dust]
+ a space imaging photograph of a nebula glowing with points of light     
+                                                                         
+                                                                         
+              [light]
+ a space imaging photograph of The Flare                                 
+                                                                         
+                                                                         
+              [flare]
+ a photo of Shasta the sleeping big onyx soldier felo                    
+                                                                         
+                                                                         
+              [photo]
+ a photo of Chetumal Spaceport; Landing Pad                              
+                                                                         
+                                                                         
+              [other photo]
+ a photo of Starship "Stars Wanderer"; Head                              
+                                                                         
+                                                                         
+              [third photo]
+ a white lace photo album entitled "Xia He"                              
+                                                                         
+                                                                         
+              [he]
+ a space imaging photograph of a large gas giant orbiting close to a star
+                                                                         
+                                                                         
+              [other star]
+ a blue leather photo album with a cluster of stars embossed on the front
+                                                                         
+                                                                         
+              [front]
+ a photo of a bioaugmentation plant in a small pot labeled "Starseekers &
+Troubleshooters"                                                         
+                                                                         
+              [fourth photo]
+ a photo of Akemi Bando, Sassie the sleeping large fuchsia felo, and
+Xavier the sleeping big silver soldier felo                              
+                                                                         
+                   [fifth photo]
+ a photo of Samantha the old large violet felo, Sassie the old sleeping
+large fuchsia felo, Shasta the big onyx soldier felo, and a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic
+life and coral rocks  [sixth photo]
+ a photo of Sassie the sleeping large fuchsia felo and Xavier the
+sleeping big silver soldier felo                                         
+                                                                         
+                      [seventh photo]
+ a photo of Lily Kaise                                                   
+                                                                         
+                                                                         
+              [eighth photo]
+ a photo of Lily Kaise                                                   
+                                                                         
+                                                                         
+              [ninth photo]
+ a photo of Lily Kaise, citoyen d'honneur du Nouveau Quebec              
+                                                                         
+                                                                         
+              [tenth photo]
+ a photo of Lily Kaise                                                   
+                                                                         
+                                                                         
+              [eleventh photo]
+--
+get eighth photo from box
+You remove a photo of Starship "Stars Wanderer"; Head from a mosaic star
+box.
+put photo in box
+You put a photo of Starship "Stars Wanderer"; Head in a mosaic star box.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] A short-haired gray and white cat purrs.[0m
+[0m[Miriani] Amanda Torraske toddles in.[0m
+[0m[Miriani] An orange and white cat slinks northwest.[0m
+view box
+Contents:
+  [1] Photography                     (19 items)
+Enter your selection:
+1
+--
+ a space imaging photograph of a large gas giant orbiting close to a star
+                                                                         
+                                                                         
+              [star]
+ a space imaging photograph of a field of twisted starship wreckage      
+                                                                         
+                                                                         
+              [wreckage]
+ a space imaging photograph of a star surrounded by a disc of glowing
+dust                                                                     
+                                                                         
+                  [dust]
+ a space imaging photograph of a nebula glowing with points of light     
+                                                                         
+                                                                         
+              [light]
+ a space imaging photograph of The Flare                                 
+                                                                         
+                                                                         
+              [flare]
+ a photo of Shasta the sleeping big onyx soldier felo                    
+                                                                         
+                                                                         
+              [photo]
+ a photo of Chetumal Spaceport; Landing Pad                              
+                                                                         
+                                                                         
+              [other photo]
+ a white lace photo album entitled "Xia He"                              
+                                                                         
+                                                                         
+              [he]
+ a space imaging photograph of a large gas giant orbiting close to a star
+                                                                         
+                                                                         
+              [other star]
+ a blue leather photo album with a cluster of stars embossed on the front
+                                                                         
+                                                                         
+              [front]
+ a photo of a bioaugmentation plant in a small pot labeled "Starseekers &
+Troubleshooters"                                                         
+                                                                         
+              [third photo]
+ a photo of Akemi Bando, Sassie the sleeping large fuchsia felo, and
+Xavier the sleeping big silver soldier felo                              
+                                                                         
+                   [fourth photo]
+ a photo of Samantha the old large violet felo, Sassie the old sleeping
+large fuchsia felo, Shasta the big onyx soldier felo, and a wall-sized
+bubbling neon purple-lit aquarium containing yellow and violet aquatic
+life and coral rocks  [fifth photo]
+ a photo of Sassie the sleeping large fuchsia felo and Xavier the
+sleeping big silver soldier felo                                         
+                                                                         
+                      [sixth photo]
+ a photo of Lily Kaise                                                   
+                                                                         
+                                                                         
+              [seventh photo]
+ a photo of Lily Kaise                                                   
+                                                                         
+                                                                         
+              [eighth photo]
+ a photo of Lily Kaise, citoyen d'honneur du Nouveau Quebec              
+                                                                         
+                                                                         
+              [ninth photo]
+ a photo of Lily Kaise                                                   
+                                                                         
+                                                                         
+              [tenth photo]
+ a photo of Starship "Stars Wanderer"; Head                              
+                                                                         
+                                                                         
+              [eleventh photo]
+--
+get seventh photo from box
+You remove a photo of Chetumal Spaceport; Landing Pad from a mosaic star
+box.
+put photo in box
+You put a photo of Chetumal Spaceport; Landing Pad in a mosaic star box.
+get photo of Lily from box
+I see no "photo of Lily" in a mosaic star box.
+get Lily from box
+I see no "Lily" in a mosaic star box.
+get eighth photo from box
+You remove a space imaging photograph of a large gas giant orbiting close
+to a star from a mosaic star box.
+put photo in box
+You put a space imaging photograph of a large gas giant orbiting close to
+a star in a mosaic star box.
+get eighth from box
+I see no "eighth" in a mosaic star box.
+get eighth photo from box
+You remove a blue leather photo album with a cluster of stars embossed on
+the front from a mosaic star box.
+put photo in box
+You put a blue leather photo album with a cluster of stars embossed on
+the front in a mosaic star box.
+get eighth photo from box
+You remove a photo of a bioaugmentation plant in a small pot labeled
+"Starseekers & Troubleshooters" from a mosaic star box.
+put phto in box
+I see no "phto".
+put photo in box
+You put a photo of a bioaugmentation plant in a small pot labeled
+"Starseekers & Troubleshooters" in a mosaic star box.
+get eighthphoto from box
+I see no "eighthphoto" in a mosaic star box.
+get eighth photo from box
+You remove a photo of Akemi Bando, Sassie the sleeping large fuchsia
+felo, and Xavier the sleeping big silver soldier felo from a mosaic star
+box.
+put photo in box
+You put a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo in a mosaic star box.
+get eighth photo from box
+You remove a photo of Samantha the old large violet felo, Sassie the old
+sleeping large fuchsia felo, Shasta the big onyx soldier felo, and a
+wall-sized bubbling neon purple-lit aquarium containing yellow and violet
+aquatic life and coral rocks from a mosaic star box.
+put photo in box
+You put a photo of Samantha the old large violet felo, Sassie the old
+sleeping large fuchsia felo, Shasta the big onyx soldier felo, and a
+wall-sized bubbling neon purple-lit aquarium containing yellow and violet
+aquatic life and coral rocks in a mosaic star box.
+get eighth photo from box
+You remove a photo of Sassie the sleeping large fuchsia felo and Xavier
+the sleeping big silver soldier felo from a mosaic star box.
+put photo in box
+You put a photo of Sassie the sleeping large fuchsia felo and Xavier the
+sleeping big silver soldier felo in a mosaic star box.
+get eighth photo from box
+You remove a photo of Lily Kaise from a mosaic star box.
+l photo
+a photo of Lily Kaise
+Lily Kaise is in the photo. She is lying on a rare black EAOSian
+contoured couch.
+She appears to be at Starship "William Dove"; Control Room.
+She appears to be 27 years old. She is about five feet and two inches
+tall and has fair skin. Her body is thin with attractively curved hips
+and shapely calves. She has slender shoulders and slightly larger than
+average, naturally shaped breasts with prominent rosy nipples. Her
+abdomen is attractive and punctuated by a cute navel. More intimately,
+she has soft pale honey blonde pubic hair and a girlish butt. Her face is
+oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty
+teeth. Beneath a set of arched eyebrows, her eyes are blue-green and
+almond-shaped. Her waist-length, straight hair is pale honey blonde and
+swept up into a thick fall of loose curls down her back. She has oval
+pink fingernails.
+A small enameled crimson dragon pierces her belly button, a small
+enameled cerulean blue dragonfly pierces her left earlobe, and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing nothing. She is also wearing an orange and white blessed
+prayer bracelet around her wrist, a slender bracelet of tiny tinkling
+silver bells around her wrist, a neon purple wrist-mounted chronometer, a
+solid silver ring engraved with dragonflies, and a delicate ring of
+silver wire and small purple amethyst crystals. Her head, face, both
+eyes, neck, both shoulders, chest, back, both biceps, both elbows,
+abdomen, both forearms, both wrists, both hands, waist, both hips, groin,
+both thighs, both knees, both calves, both ankles, and both feet are left
+uncovered.
+put photo in box
+You put a photo of Lily Kaise in a mosaic star box.
+close box
+You close a mosaic star box.
+put box in briefcase
+You put a mosaic star box in a leather briefcase.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 736,318.27 credits.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the
+area.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 106,784.90 EAOS credits from a toll payment to League Rift
+Accelerating Solar Toll Station in The Belt of Orion.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes
+stare into the middle distance.
+[0m09:00:00[0m
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Nexus". The organization has earned
+784,219.68 credits and 1 megacredit.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come
+on, we can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Nexus". The organization has earned
+257,904.80 credits and 1 megacredit.
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 4,351,851.85 credits for a submission from a battle analysis
+scanner on AEU Battle-Scanning Nuclear Temporary Station involving the
+one-person hyperion security armoured warfare fighter "Final Strike".
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Not A Target Drone!". The
+organization has earned 242,031.27 credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 824,281.69 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Nexus". The organization has earned
+416,534.63 credits.
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 8,703,703.70 credits for a submission from a battle analysis
+scanner on AEU Battle-Scanning Nuclear Temporary Station involving the
+one-person hyperion security armoured warfare fighter "Final Strike".
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Nexus". The organization has earned
+398,150.38 credits and 2 megacredits.
+[0m10:00:00[0m
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see
+some activity underway, but no performance goals reached yet! Let's keep
+going!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 708,179.98 credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person light transport "Montgomery". The organization has
+earned 693,461.27 credits.
+A Tardick lizard named Asteria trundles slowly into the area.
+[0m11:00:00[0m
+A Tardick lizard named Asteria flicks its tail.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 716,755.44 credits.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+getting close to that first performance goal! Let's go!"
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Medium Slicer". The organization
+has earned 2,217,909.70 credits.
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+[0m12:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great,
+we've almost reached our first performance goal! Keep it up!"
+Lily Kaise stands up from a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a set of
+lavender silk sheets, a large periwinkle bed pillow, and a hand-made
+purple and amethyst flower quilt on it.
+Lily Kaise pulls a pair of mystic purple suede clogs onto her feet.
+Lily Kaise pulls a pair of skinny faded blue low rise jeans on over her
+legs and wiggles furiously, tugging them into place.
+Lily Kaise pulls a tight black t-shirt with a bright purple dragon
+embroidered on the front on over her head.
+Lily Kaise glides out.
+Prissy the big violet long-haired felo wanders in from the north.
+Lily Kaise glides in from the north.
+Lily Kaise puts down a pair of mystic purple suede clogs.
+Lily Kaise lies down on a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a set of
+lavender silk sheets, a large periwinkle bed pillow, and a hand-made
+purple and amethyst flower quilt on it.
+Lily Kaise blinks heavily and then dozes off.
+Shasta the big onyx soldier felo marches in from the north.
+Prissy the big violet long-haired felo rubs up against Shasta the big
+onyx soldier felo, and both animals purr softly.
+Shasta the big onyx soldier felo seems to be hungry.
+Shasta the big onyx soldier felo approaches a glossy pink ceramic felo
+chow bowl, glances around, then begins shoveling low-grade dry Felo Chow
+into its mouth.
+[0m13:00:00[0m
+Prissy the big violet long-haired felo suddenly jumps onto a white four
+poster rattan bed with a heart-shaped headboard and filmy deep purple
+hangings with a soft periwinkle cashmere blanket, a large periwinkle bed
+pillow, a set of lavender silk sheets, a large periwinkle bed pillow, and
+a hand-made purple and amethyst flower quilt on it.
+Shasta the big onyx soldier felo marches out.
+Blueberry the hefty violet feathered felo wanders in from the north.
+Blueberry the hefty violet feathered felo seems to be hungry.
+Blueberry the hefty violet feathered felo approaches a glossy pink
+ceramic felo chow bowl, glances around, then begins shoveling low-grade
+dry Felo Chow into its mouth.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 758,413.20 credits.
+Blueberry the hefty violet feathered felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+getting close to that first performance goal! Let's go!"
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+Blueberry the hefty violet feathered felo wanders in from the north.
+Mischief the large black felo rubs up against your leg with a quiet
+"Mrrp.".
+Prissy the big violet long-haired felo rubs up against a white four
+poster rattan bed with a heart-shaped headboard and filmy deep purple
+hangings with a soft periwinkle cashmere blanket, a large periwinkle bed
+pillow, a set of lavender silk sheets, a large periwinkle bed pillow, and
+a hand-made purple and amethyst flower quilt on it, purring softly.
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+Prissy the big violet long-haired felo wanders out.
+Blueberry the hefty violet feathered felo wanders out.
+[0m14:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great,
+we've almost reached our first performance goal! Keep it up!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Prosperity". The organization has
+earned 773,922.13 credits.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while
+on long journeys, and it isn't large enough to do much else. A long
+counter is bolted to the wall opposite the entryway, and two narrow bunks
+have been bolted to the two remaining walls. A small keypad is next to
+the door, controlling a simple lock. The status lights overhead are
+currently not receiving power. Looking through the windows, you see that
+the ship is in a garage.
+You see a dusky pink rattan cabinet, a small red ball containing a
+realistic Bari horde noisemaker, a glossy pink ceramic felo chow bowl, a
+white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it, a
+large oval dark purple and light purple cloth rug, a small oval turquoise
+rattan table with a glass top, a bag of felo treats, and a pair of mystic
+purple suede clogs here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a set of lavender silk sheets, a
+large periwinkle bed pillow, and a hand-made purple and amethyst flower
+quilt on it.)
+read comm
+You glance at your communicator's screen.
+There are no notices.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep
+new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=S
+tar+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Use the EXPERIENCE command to see how you compare to other pilots
+in your alliance.
+**
+afk
+You blink heavily and then doze off.
+Shasta the big onyx soldier felo marches in from the north.
+Shasta the big onyx soldier felo marches out.
+Shasta the big onyx soldier felo marches in from the north.
+Shasta the big onyx soldier felo marches out.
+[Notification from Space Explorers Amidst The Stars] The organization has
+gained 870,370.37 credits for a submission from a battle analysis scanner
+on AEU Battle-Scanning Nuclear Temporary Station involving the one-person
+fighter "Star Kaat".
+[0m15:00:00[0m
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 106,894.34 EAOS credits from a toll payment to League Rift
+Accelerating Solar Toll Station in The Belt of Orion.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+getting close to that first performance goal! Let's go!"
+Shasta the big onyx soldier felo marches in from the north.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at League Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Stepping Stones To Greatness". The
+organization has earned 580,002.37 credits.
+Shasta the big onyx soldier felo marches out.
+Prissy the big violet long-haired felo wanders in from the north.
+[0m16:00:00[0m
+Prissy the big violet long-haired felo suddenly jumps onto a small oval
+turquoise rattan table with a glass top.
+Prissy the big violet long-haired felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+getting close to that first performance goal! Let's go!"
+Prissy the big violet long-haired felo wanders in from the north.
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring
+softly.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Bucephalus". The organization has
+earned 1,206,959.05 credits.
+Prissy the big violet long-haired felo wanders out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the
+area.
+A hairy yellow eight-legged ArachnoPal named Higgins wiggles his hairy
+palps endearingly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "Bucephalus". The organization has
+earned 781,550.55 credits.
+[0m17:00:00[0m
+Prissy the big violet long-haired felo wanders in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great,
+we've almost reached our first performance goal! Keep it up!"
+Prissy the big violet long-haired felo rubs up against a small oval
+turquoise rattan table with a glass top, purring softly.
+[AEU | 4: Sector Status] AEU Rift Accelerating Battery-Powered Temporary
+Station at Asteroid Beacon Alpha 285 is now on emergency power.
+Prissy the big violet long-haired felo suddenly jumps onto a small oval
+turquoise rattan table with a glass top.
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on Lily Kaise's leg, then rubs its head against her, purring
+softly.
+[0m18:00:01[0m
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on your leg, then rubs its head against you, purring softly.
+Prissy the big violet long-haired felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great,
+we've almost reached our first performance goal! Keep it up!"
+[AEU | 4: Sector Status] AEU Rift Accelerating Battery-Powered Temporary
+Station at Asteroid Beacon Alpha 285 is shutting down.
+Prissy the big violet long-haired felo wanders in from the north.
+Prissy the big violet long-haired felo wanders out.
+[0m19:00:00[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while
+on long journeys, and it isn't large enough to do much else. A long
+counter is bolted to the wall opposite the entryway, and two narrow bunks
+have been bolted to the two remaining walls. A small keypad is next to
+the door, controlling a simple lock. The status lights overhead are
+currently not receiving power. Looking through the windows, you see that
+the ship is in a garage.
+You see a dusky pink rattan cabinet, a small red ball containing a
+realistic Bari horde noisemaker, a glossy pink ceramic felo chow bowl, a
+white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it, a
+large oval dark purple and light purple cloth rug, a small oval turquoise
+rattan table with a glass top, a bag of felo treats, and a pair of mystic
+purple suede clogs here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a set of lavender silk sheets, a
+large periwinkle bed pillow, and a hand-made purple and amethyst flower
+quilt on it.)
+read comm
+You glance at your communicator's screen.
+There are no notices.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep
+new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=S
+tar+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Like someone's dress? You can type LOOK [clothing] ON [person] to
+see more detail.
+**
+afk
+You blink heavily and then doze off.
+Shasta the big onyx soldier felo marches in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+almost to that first performance goal! Let's keep pushing!"
+Shasta the big onyx soldier felo marches out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the
+area.
+A hairy yellow eight-legged ArachnoPal named Higgins taps his claws on
+the floor.
+[0m20:00:00[0m
+A hairy yellow eight-legged ArachnoPal named Higgins jerks his limbs,
+springing into the air briefly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+almost to that first performance goal! Let's keep pushing!"
+[0m21:00:00[0m
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 106,926.97 EAOS credits from a toll payment to League Rift
+Accelerating Solar Toll Station in The Belt of Orion.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+almost to that first performance goal! Let's keep pushing!"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the
+area.
+A hairy yellow eight-legged ArachnoPal named Higgins spins webbing,
+gathering it into a ball with his back feet, then eats it.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+who
+There appear to be 14 pilots recently active.
+The communicator network detects:
+Eli Grey  (A)
+Vernos Bailey  (A) [c]
+Johann Schraft  (L)
+Jacob Smitt  (L)
+Sean Sloan  (L)
+Jada Nelson  (L)
+Emily Ford  (L)
+Bryan Stout  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Morris Corlew  (L)
+Hakeem Oiadip  (F)
+Damien Alexander  (F)
+Evenia Callseah  (F)
+Additionally, there are 16 pilots who appear to have their communicators
+on but have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+read comm
+You glance at your communicator's screen.
+There are no notices.
+afk
+You blink heavily and then doze off.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep
+new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=S
+tar+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Trading is the best way to make credits, if you can find the right
+route.
+**
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[0m22:00:00[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "It's Common But We Don't Talk About
+It". The organization has earned 2,739,730.76 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We're
+approaching that first performance goal! Our penultimate victory is just
+ahead! Let's go, people! Go go go! Wow, you'd think all this cheerleading
+would be annoying, but... but... oh God, I've wasted my life."
+[Notification from Space Explorers Amidst The Stars] A load of salvage
+has been received at League Salvage Processing Nuclear Temporary Station
+from the two-person medium transport "It's Common But We Don't Talk About
+It". The organization has earned 1,518,703.48 credits.
+Mischief the large black felo hums melodically to itself as it wanders in
+from the north.
+Mischief the large black felo bats at a small red ball containing a
+realistic Bari horde noisemaker.
+Mischief the large black felo hums melodically to itself as it wanders
+out.
+[0m23:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Great,
+we've almost reached our first performance goal! Keep it up!"

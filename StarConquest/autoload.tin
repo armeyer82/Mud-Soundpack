@@ -1,1 +1,5 @@
 #read ./StarConquest/script.tin
+#read ./StarConquest/Settings.tin
+
+#read ./StarConquest/UserSettings.tin
+

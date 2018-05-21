@@ -1,0 +1,4560 @@
+00:00:00
+01:00:00
+02:00:00
+03:00:00
+04:00:00
+05:00:00
+06:00:00
+07:00:00
+08:00:00
+09:00:00
+10:00:00
+11:00:01
+12:00:00
+13:00:00
+14:00:00
+15:00:00
+16:00:00
+17:00:00
+18:00:01
+19:00:00
+20:00:00
+#SESSION 'gts' ACTIVATED.
+21:00:00
+22:00:00
+tt++ sc.tin
+#NO SESSION ACTIVE. USE: #session {name} {host} {port} TO START ONE.
+login
+#TRYING TO CONNECT 'star' TO 'moo.squidsoft.net' PORT '7777'.
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Dec  5 19:35:17 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+#end
+#SESSION 'star' DIED.
+#SESSION 'gts' ACTIVATED.
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Dec  5 19:35:17 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Queen Brynn II"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is in space.
+You see a long plasteel counter, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a hand-made purple and amethyst
+flower quilt, a large periwinkle bed pillow, and a set of lavender silk sheets
+on it, a large oval dark purple and light purple cloth rug, a small oval
+turquoise rattan table with a glass top, a small seashell pink trash can, a
+glossy dark violet ceramic felo chow bowl, Desiree the little black and white
+spotted CatBot, a pair of periwinkle marabou slippers, and Blueberry the hefty
+violet feathered felo here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a hand-made purple and amethyst flower quilt, a large
+periwinkle bed pillow, and a set of lavender silk sheets on it.)
+The starship transitions into another sector.
+equip
+I don't understand that.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Enjoy occasional unprovoked interactions with NPCs? Opt into 'Outside
+Interference' events!
+**
+who
+There appear to be about 11 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+%Kim Saunders  (A) [m]
+*Johann Rowan  (L)
+%Klaus Stein  (L)
+%Jason Rat  (L)
+%Corey Matthews  (L)
+%Damien Goss  (L)
+%Melinda Michaels  (L)
+%Emmett Lee  (F)
+%Gonzales Bourne  (F)
+%Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 6 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 17 pilots.
+out
+You scramble to your feet.
+[Starship "Queen Brynn II"; Crew Quarters; Fore]
+You see an overstuffed sofa upholstered in brilliantly colored patchwork fabric,
+a large lacy fern in a naturally colored stone planter, a very large and
+extraordinarily soft black shamak fur, a large bubbling sea green-lit aquarium
+containing orange and yellow aquatic life and round rocks, a glossy silver
+ceramic felo chow bowl, a black plastic tray of spider chow, and Prissy the big
+violet long-haired felo here.
+You can go east, south, west, and up.
+go shower
+[Starship "Queen Brynn II"; Shower]
+You can go out.
+undress into suitcase
+You remove all of your clothing, placing it carefully in a small suitcase.
+take suitcase
+You remove a small suitcase from a leather briefcase.
+take briefs
+You remove a pair of skimpy white cherry-flavored briefs from a leather
+briefcase.
+put briefs in briefcase
+You put a pair of skimpy white cherry-flavored briefs in a leather briefcase.
+take briefs from suitcase
+You remove a pair of white cotton briefs from a small suitcase.
+wear briefs
+You slide a pair of white cotton briefs on.
+take shipsuit
+You remove a white shipsuit with gold trim around the collar and cuffs from a
+small suitcase.
+wear shipsuit
+You step into a white shipsuit with gold trim around the collar and cuffs and
+pull it over your arms.
+take sneakers
+You remove a pair of gray canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+smell me
+You sniff at yourself. You smell the fresh fragrance of a sun-warmed grassy
+meadow.
+out
+[Starship "Queen Brynn II"; Crew Quarters; Fore]
+You see an overstuffed sofa upholstered in brilliantly colored patchwork fabric,
+a large lacy fern in a naturally colored stone planter, a very large and
+extraordinarily soft black shamak fur, a large bubbling sea green-lit aquarium
+containing orange and yellow aquatic life and round rocks, a glossy silver
+ceramic felo chow bowl, a black plastic tray of spider chow, and Prissy the big
+violet long-haired felo here.
+You can go east, south, west, and up.
+The starship transitions into another sector.
+pa Hi Johann. I'm off to artifact.
+You speak into the microphone.
+s
+[Starship "Queen Brynn II"; Crew Quarters; Mid]
+You see a square counter with a white marble laminate top edged with grooved
+chrome, a dark blue wool rug with a silver moon design and thick gold fringe, a
+black plastic tray of spider chow, a stainless steel microwave oven, a small
+bubbling neon blue-lit toroidal aquarium containing red and blue aquatic life
+and round rocks, a robotic chef named Nellie, a glossy pink ceramic felo chow
+bowl, and Mischief the large black felo here.
+You can go north, east, south, and west.
+s
+[Starship "Queen Brynn II"; Crew Quarters; Aft]
+You see a very large and extraordinarily soft black shamak fur, a black
+upholstered sectional sofa, a wall-sized bubbling coral pink-lit aquarium
+containing violet and green aquatic life and coral rocks, a glossy scarlet
+ceramic felo chow bowl, and a hairy black eight-legged ArachnoPal named Fangela
+here.
+You can go north, east, south, west, and up.
+[PA] Johann Rowan: "Alright. Good luck!"
+s
+[Starship "Queen Brynn II"; Docking Bay]
+The vostok-class capsule "Rowan Runabout", the one-person bastille "Minicannon
+In D", and the luxury sightseer "Celestial Explorer" are parked here.
+You see a compact purple water-saver washing machine, a compact purple clothes
+dryer, a glossy pale pink ceramic felo chow bowl, Kiska the humanoid service
+robot, and Ari the medium-sized black long-haired felo here.
+You can go north.
+The starship transitions into another sector.
+The starship transitions into another sector.
+pa Thanks. You too.
+You speak into the microphone.
+enter celestial
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go out and enter into the ship.
+enter celestial
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You power up the ship's engines, and the docking bay door begins to open slowly.
+The computer reports that the galleon "Queen Brynn II" has left the sector.
+lrscan
+--
+Passive Long-Range Scan
+--
+Targets detected passively or via active ping returns:
+   A miniscule energy signature presently detected 21.48 light-minutes toward
+Galactic North and Very Slightly Down
+   A miniscule energy signature presently detected 20.21 light-minutes toward
+Galactic Northnorthwest and Very Slightly Down
+   A miniscule energy signature presently detected 240000km toward Galactic Up
+   A miniscule energy signature presently detected 18.95 light-minutes toward
+Galactic North and Very Slightly Down
+   A miniscule energy signature presently detected 18.95 light-minutes toward
+Galactic North and Very Slightly Down
+   A miniscule energy signature presently detected 18.95 light-minutes toward
+Galactic North and Very Slightly Down
+ftl 270
+The computer announces, "Setting course to Artifact Beacon Alpha 270."
+Something deep inside the starship roars to life as the lights dim sharply.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+The starship has left a unique area of space.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+The computer announces, "Autotravel destination reached."
+vector e
+You make a selection on the AutoVector control board.
+stop
+You press a button to cancel the current autopilot program.
+vector 
+The starship is already moving.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+vector d
+You make a selection on the AutoVector control board.
+mileage reset
+You reset the starship's mileage meter.
+ships
+There are no other ships in the sector.
+rd
+Artifact Beacon Alpha 270 (Unclaimed) [Hall of Pain] (Security: Delta-10)
+Coordinate rundown:
+Starships: Celestial Explorer (>) at (8, 3, 11)
+Temporary Space Structures: (9, 9, 20), (9, 10, 20), (9, 11, 19)
+Debris: (16, 14, 8), (9, 9, 5), (1, 4, 9), (2, 18, 11), (9, 14, 15), (11, 17,
+14), (9, 3, 19), (17, 5, 13), (18, 10, 4), (8, 15, 11), (3, 3, 14), (13, 12, 6),
+(9, 5, 8), (15, 4, 17), (6, 5, 7), (5, 3, 10), (20, 14, 7), (4, 5, 6), (19, 15,
+5), (17, 19, 4), (1, 1, 19), (12, 12, 20), (12, 5, 2), (2, 19, 5), (18, 2, 17),
+(8, 4, 18), (7, 10, 20)
+Debris Chunks: (4, 14, 15), (3, 19, 6), (17, 17, 6), (3, 4, 15), (17, 6, 4),
+(18, 2, 15), (7, 19, 6)
+lrscan
+--
+Passive Long-Range Scan
+--
+Targets detected passively or via active ping returns:
+   A miniscule energy signature presently detected 18.97 light-minutes toward
+Galactic South and Very Slightly Up
+   A miniscule energy signature presently detected 5.82 light-minutes toward
+Galactic West
+   A miniscule energy signature presently detected 2.78 light-minutes toward
+Galactic North
+   A miniscule energy signature presently detected 0km toward Galactic East
+   A miniscule energy signature presently detected 0km toward Galactic East
+   A miniscule energy signature presently detected 0km toward Galactic East
+hyper 135 0
+You carefully turn a few small knobs on the broadcaster control board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 135.0, 0.0.
+hyper identify
+You press a prominent identification button on the hypercaster control board.
+hyper power 10
+The ship's hypercaster is still recharging. It will be ready for a power level
+adjustment in a few seconds.
+hyper power 10
+The ship's hypercaster is still recharging. It will be ready for a power level
+adjustment in a few seconds.
+hyper power 10
+The ship's hypercaster is still recharging. It will be ready for a power level
+adjustment in a few seconds.
+hyper power 10
+The ship's hypercaster is still recharging. It will be ready for a power level
+adjustment in a few seconds.
+Incoming hypercaster transmission from Unknown Contact 158298162 at West: "Hey
+Shule! Good day to you."
+hyper power 10
+The ship's hypercaster is still recharging. It will be ready for a power level
+adjustment in a few seconds.
+Incoming hypercaster transmission from Unknown Contact 901927029 at North: "Hey
+Shule, it's Ted."
+hyper Hey Ted and Lily.
+You say into the hypercaster microphone, "Hey Ted and Lily."
+hyper identify
+The ship's hypercaster is still recharging. It will be ready for another
+identification ping in a few seconds.
+hyper identify
+The ship's hypercaster is still recharging. It will be ready for another
+identification ping in a few seconds.
+hyper identify
+The ship's hypercaster is still recharging. It will be ready for another
+identification ping in a few seconds.
+hyper identify
+The ship's hypercaster is still recharging. It will be ready for another
+identification ping in a few seconds.
+Incoming hypercaster identification ping from Unknown Contact 158298162 at West:
+Now identified as Happy.
+Incoming hypercaster identification ping from Unknown Contact 901927029 at
+North: Now identified as TwinBake.
+Incoming hypercaster transmission from Happy at West: "Out to fetch an
+artifact."
+hyper How are the artifacts coming?
+You say into the hypercaster microphone, "How are the artifacts coming?"
+rd
+Uncharted Sector (Unclaimed) [Hall of Pain] (Security: Delta-10)
+Coordinate rundown:
+Starships: Celestial Explorer (>) at (8, 3, 16)
+Debris: (16, 6, 2), (4, 4, 13), (11, 9, 17), (6, 5, 9), (16, 9, 5), (20, 10,
+15), (19, 6, 3), (9, 11, 11), (17, 20, 7), (3, 19, 6), (14, 10, 14), (4, 18, 1),
+(11, 3, 15), (20, 19, 8), (13, 3, 2), (12, 7, 15), (18, 12, 3), (2, 2, 17), (11,
+8, 19), (18, 16, 10), (18, 7, 8), (10, 8, 8), (19, 19, 8), (8, 19, 19), (5, 11,
+1), (8, 17, 16)
+Debris Chunks: (3, 11, 10), (3, 4, 4), (7, 2, 10), (7, 9, 15), (15, 15, 15), (8,
+13, 9), (11, 19, 15)
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"I have 30 in 378 sectors so far."
+hyper Very cool!
+You say into the hypercaster microphone, "Very cool!"
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"How long are all you guys hanging round here, or have you not planned that far
+yet?"
+hyper We're going to move out here.
+You say into the hypercaster microphone, "We're going to move out here."
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"That sounds like a very good plan to me."
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: Artifact (nearest).
+hyper Heh, yeah. Rather difficult to get food though out here.
+You say into the hypercaster microphone, "Heh, yeah. Rather difficult to get
+food though out here."
+use shooting
+You are not currently wearing a spacesuit. Do you wish to suit up now?
+[Enter `yes' or `no']
+y
+You remove spacesuit components from a black flightbag with a red shooting star
+on the side and quickly don them.
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (11, 12, 7)
+Celestial Explorer: (11, 12, 7)
+Artifacts:
+   (11, 13, 6)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (11, 12, 7)
+Celestial Explorer: (11, 12, 7)
+Artifacts:
+   (11, 13, 6)
+-w
+[Deep Space]
+You see a torn patch of unfamiliar woven fiber here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(13 seconds roundtime.)
+view ocn
+Wait 7 seconds.
+view ocn
+Wait 6 seconds.
+view ocn
+Wait 4 seconds.
+view ocn
+Wait 3 seconds.
+view ocn
+Wait 3 seconds.
+view ocn
+Wait 2 seconds.
+view ocn
+Wait 1 seconds.
+view ocn
+View what?
+view con
+--
+ a bit of oddly-designed optical wiring                                         
+  [Count: 2]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 1]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 1]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a cluster of organic-looking spheres                                           
+  [Count: 5]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 10]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ a perfectly shaped ceramic cube                                                
+  [Count: 5]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 2]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 10]
+ a dense cube-shaped metallic mass                                              
+  [Count: 8]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 3]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 6]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ a box with a single horn-like protrusion                                       
+  [Count: 5]
+                                                                                
+  [Total: 103]
+--
+put fiber in con
+You pick up a torn patch of unfamiliar woven fiber.
+You put a torn patch of unfamiliar woven fiber into a large expandable
+telescoping xenology container.
++x
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(16 seconds roundtime.)
+enter
+Wait 14 seconds.
+enter
+Wait 10 seconds.
+enter
+Wait 9 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+enter
+You may not leave the airlock until its environment matches that of the ship.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (6, 17, 20)
+Celestial Explorer: (6, 17, 20)
+Artifacts:
+   (5, 17, 20)
+a
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(17 seconds roundtime.)
+put sphere in con
+Wait 13 seconds.
+put sphere in con
+You pick up a sphere of cohesive slow-flowing liquid.
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
+d
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(18 seconds roundtime.)
+enter
+Wait 16 seconds.
+enter
+Wait 15 seconds.
+enter
+Wait 14 seconds.
+enter
+Wait 13 seconds.
+enter
+Wait 12 seconds.
+enter
+Wait 12 seconds.
+enter
+Wait 11 seconds.
+enter
+Wait 10 seconds.
+enter
+Wait 9 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Incoming hypercaster calibration ping from Happy at West and Very Slightly Up:
+Local hypercaster is currently tuned to Galactic East (0.0, 0.0) and the current
+power level settings are 5 percent. Signal strength between this vessel and
+calibrating vessel is very strong.
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"Are these half a point each, or more like the Bubble?"
+Incoming hypercaster transmission from Happy at West and Very Slightly Up:
+"These are considered Alin so they are worth 3 points."
+hyper power 10
+You rapidly spin a prominent knob on the hypercaster control board, and the
+needle on a backlit analogue needle display slowly falls from 15% to 10%.
+Incoming hypercaster transmission from Happy at West and Very Slightly Up:
+"Alien that is."
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"Even now Bubble ones are only 1.5 points?"
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 19, 19)
+Celestial Explorer: (4, 19, 19)
+Artifacts:
+   (3, 19, 19)
+a
+[Deep Space]
+You see a torn patch of unfamiliar woven fiber here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+put fiber in con
+Wait 10 seconds.
+put fiber in con
+You pick up a torn patch of unfamiliar woven fiber.
+You put a torn patch of unfamiliar woven fiber into a large expandable
+telescoping xenology container.
+d
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(17 seconds roundtime.)
+enter
+Wait 15 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"I'm safe for now then."
+hyper And hyper Safe from what?
+You say into the hypercaster microphone, "And hyper Safe from what?"
+Incoming hypercaster transmission from Unknown Contact 444891697 at South and
+Slightly Up: "Haha."
+Incoming hypercaster transmission from Happy at West and Very Slightly Up: "So
+it should go to 1 point each before it goes down to half a point per artifact in
+the Bubble."
+hyper power 5
+You rapidly spin a prominent knob on the hypercaster control board, and the
+needle on a backlit analogue needle display slowly falls from 10% to 5%.
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"I maxed out there pretty much while it was 3, but these will get my my
+hypercaster calibration thing."
+Incoming hypercaster transmission from Happy at West and Very Slightly Up: "Yeah
+It should you will need 1750 for the Calibration rigging."
+Incoming hypercaster transmission from TwinBake at North and Very Slightly Up:
+"My book says 1100."
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 5, 13)
+Celestial Explorer: (4, 5, 13)
+Artifacts:
+   (4, 4, 13)
+x
+[Deep Space]
+You see an intact bizarrely-shaped spacesuit here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(13 seconds roundtime.)
+put spacesuit in con
+Wait 5 seconds.
+put bizare in con
+I see no "bizare".
+put bizar in con
+You pick up an intact bizarrely-shaped spacesuit.
+You put an intact bizarrely-shaped spacesuit into a large expandable telescoping
+xenology container.
+w
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(11 seconds roundtime.)
+enter
+Wait 9 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 7 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+ships
+There are no other ships in the sector.
+hyper Woo! my second spacesuit!
+You say into the hypercaster microphone, "Woo! My second spacesuit!"
+Incoming hypercaster transmission from Happy at West and Very Slightly Up:
+"Wow."
+view con
+--
+ a bit of oddly-designed optical wiring                                         
+  [Count: 2]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 1]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a cluster of organic-looking spheres                                           
+  [Count: 5]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 10]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ a perfectly shaped ceramic cube                                                
+  [Count: 5]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 2]
+ a dense cube-shaped metallic mass                                              
+  [Count: 8]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 3]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ a box with a single horn-like protrusion                                       
+  [Count: 5]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 11]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 8]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 2]
+                                                                                
+  [Total: 107]
+--
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 4.8 seconds.
+creits
+I don't understand that.
+credits
+You punch a few commands into your personal credit assistant and receive the
+following display:
+Your credit summary:
+  4,934,290,011.65 EAOS credits
+  1,909,129,730.03 AEU credits
+  3,637,045,408.79 League credits
+  195,894,471.02 Fringe credits
+  3,030,467,222.77 Mutuality credits
+  178 Teslabucks
+Total if all credits were converted: 13,755,163,640.94 AEU credits
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 8.2 seconds.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 5.8 seconds.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (14, 9, 12)
+Celestial Explorer: (14, 9, 12)
+Artifacts:
+   (15, 9, 12)
+d
+[Deep Space]
+You see a dense cube-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+put cube in con
+Wait 14 seconds.
+put cube in con
+Wait 6 seconds.
+put cube in con
+Wait 5 seconds.
+put cube in con
+Wait 3 seconds.
+put cube in con
+Wait 2 seconds.
+put cube in con
+Wait 1 seconds.
+put cube in con
+You pick up a dense cube-shaped metallic mass.
+You put a dense cube-shaped metallic mass into a large expandable telescoping
+xenology container.
+a
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(11 seconds roundtime.)
+enter
+Wait 10 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+eta
+The ship's current engine speed is 6000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 10.0 seconds.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 4.3 seconds.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 9.1 seconds.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out\cycle
+I don't understand that.
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (14, 10, 4)
+Celestial Explorer: (14, 10, 4)
+Artifacts:
+   (14, 10, 3)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (14, 10, 4)
+Celestial Explorer: (14, 10, 4)
+Artifacts:
+   (14, 10, 3)
+-s
+[Deep Space]
+You see a metallic hull plate of an unfamiliar design here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(12 seconds roundtime.)
+put plate in con
+Wait 8 seconds.
+put plate in con
+Wait 5 seconds.
+put plate in con
+Wait 4 seconds.
+put plate in con
+Wait 3 seconds.
+put plate in con
+Wait 2 seconds.
+put plate in con
+Wait 1 seconds.
+put plate in con
+Wait 1 seconds.
+put plate in con
+You pick up a metallic hull plate of an unfamiliar design.
+You put a metallic hull plate of an unfamiliar design into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(17 seconds roundtime.)
+enter
+Wait 15 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+enter
+You may not leave the airlock while it is cycling.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+enter
+You may not leave the airlock while it is cycling.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+enter
+Board what?
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (18, 2, 4)
+Celestial Explorer: (18, 2, 4)
+Artifacts:
+   (18, 2, 3)
+-s
+[Deep Space]
+You see a perfectly shaped ceramic cube here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(20 seconds roundtime.)
+put cube in con
+Wait 16 seconds.
+put cube in con
+Wait 15 seconds.
+put cube in con
+Wait 3 seconds.
+put cube in con
+Wait 2 seconds.
+put cube in con
+Wait 1 seconds.
+put cube in con
+You pick up a perfectly shaped ceramic cube.
+You put a perfectly shaped ceramic cube into a large expandable telescoping
+xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(16 seconds roundtime.)
+enter
+Wait 15 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+The computer announces, "Cycling complete."
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+enter
+Board what?
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (16, 19, 2)
+Celestial Explorer: (16, 19, 2)
+Artifacts:
+   (16, 19, 1)
+-s
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+put sphere in con
+Wait 10 seconds.
+enter
+You see no nearby ships to which you are able to return.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (16, 19, 1)
+Celestial Explorer: (16, 19, 2)
+Artifacts:
+   (16, 19, 1)
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(11 seconds roundtime.)
+-s
+Wait 8 seconds.
+-s
+Wait 7 seconds.
+-s
+Wait 6 seconds.
+-s
+Wait 5 seconds.
+-s
+Wait 4 seconds.
+-s
+Wait 4 seconds.
+-s
+Wait 3 seconds.
+-s
+Wait 2 seconds.
+-s
+Wait 2 seconds.
+-s
+Wait 1 seconds.
+-s
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(13 seconds roundtime.)
+put sphere in con
+Wait 8 seconds.
+put sphere in con
+Wait 2 seconds.
+put sphere in con
+Wait 1 seconds.
+put sphere in con
+You pick up a sphere of cohesive slow-flowing liquid.
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(17 seconds roundtime.)
+enter
+Wait 15 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+rd
+Uncharted Sector (Unclaimed) [Hall of Pain] (Security: Delta-10)
+Coordinate rundown:
+Starships: Celestial Explorer (>) at (16, 19, 2)
+Debris: (8, 18, 4), (9, 15, 12), (18, 7, 10), (15, 5, 16), (13, 18, 20), (17,
+10, 19), (14, 12, 20), (11, 13, 9), (19, 17, 11), (12, 3, 3), (5, 20, 15), (13,
+12, 12), (19, 6, 11), (16, 9, 12), (12, 1, 13), (10, 13, 13), (5, 2, 15), (15,
+18, 11), (1, 12, 17), (5, 1, 13), (4, 16, 13), (19, 12, 5), (14, 2, 1), (4, 19,
+4), (9, 19, 8), (3, 16, 10)
+Debris Chunks: (16, 14, 15), (16, 16, 2), (12, 2, 5), (9, 19, 17), (12, 9, 16),
+(9, 8, 3), (13, 13, 15)
+eta
+The ship's current engine speed is 6857 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 33.2 seconds.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 4.8 seconds.
+view con
+--
+ a bit of oddly-designed optical wiring                                         
+  [Count: 2]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 1]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a cluster of organic-looking spheres                                           
+  [Count: 5]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 10]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ a box with a single horn-like protrusion                                       
+  [Count: 5]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 8]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 2]
+ a dense cube-shaped metallic mass                                              
+  [Count: 9]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 4]
+ a perfectly shaped ceramic cube                                                
+  [Count: 6]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 12]
+                                                                                
+  [Total: 111]
+--
+Incoming hypercaster identification ping from Happy at West and Very Slightly
+Up: Now identified as Happy.
+hyper 135 5
+You carefully turn a few small knobs on the broadcaster control board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 135.0, 5.0.
+hyper identify
+You press a prominent identification button on the hypercaster control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+out
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (10, 16, 18)
+Celestial Explorer: (10, 16, 18)
+Artifacts:
+   (9, 16, 18)
+a
+[Deep Space]
+You see a dense tetrahedron-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+put mass in con
+Wait 9 seconds.
+put mass in con
+Wait 3 seconds.
+put mass in con
+Wait 2 seconds.
+put mass in con
+Wait 1 seconds.
+put mass in con
+You pick up a dense tetrahedron-shaped metallic mass.
+You put a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+d
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(13 seconds roundtime.)
+enter
+Wait 11 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+rd
+Uncharted Sector (Unclaimed) [Hall of Pain] (Security: Delta-10)
+Coordinate rundown:
+Starships: Celestial Explorer (>) at (10, 16, 18)
+Debris: (13, 14, 7), (2, 2, 17), (7, 18, 18), (12, 11, 15), (17, 5, 11), (20, 8,
+4), (8, 10, 1), (3, 5, 16), (3, 9, 15), (5, 10, 16), (8, 6, 8), (19, 13, 20),
+(14, 7, 4), (15, 1, 9), (9, 10, 2), (12, 12, 18), (15, 11, 19), (20, 3, 4), (18,
+7, 3), (5, 12, 13), (9, 18, 3), (9, 19, 20), (14, 6, 19), (10, 3, 14), (12, 4,
+19), (5, 19, 7)
+Debris Chunks: (9, 15, 9), (11, 12, 17), (17, 4, 16), (11, 11, 18), (17, 13, 2),
+(13, 6, 4), (15, 13, 14)
+Incoming hypercaster transmission from Unknown Contact 278464147 at South and
+Slightly Up: "Have a safe trip, hy_erc+st us or -e us when you get h"me?"
+Incoming hypercaster transmission from Unknown Contact 515297866 at North:
+"We'll do that."
+Incoming hypercaster transmission from Unknown Contact 278464147 at South and
+Slightly Up: "Thanks!"
+Incoming hypercaster transmission from Unknown Contact 515297866 at North:
+"Might be a while, if we decide to stop off some other places first, but we'll
+do that."
+Incoming hypercaster transmission from Unknown Contact 278464147 at South and
+Slightly Up: "Alr[ght. I|ll be escorting.L$|y and Sh.l)~home[over `he
+weekend,&=e should b} back {arly{~`xt week at the la*est."
+Incoming hypercaster transmission from Happy at West and Very Slightly Up:
+"Asafe travels!"
+hyper Safe travels, whoever is leaving.
+You say into the hypercaster microphone, "Safe travels, whoever is leaving."
+Incoming hypercaster transmission from Happy at West and Very Slightly Up: "Yeah
+I need to put stations back together."
+eta
+The ship's current engine speed is 5333 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 15.8 seconds.
+lrscan
+--
+Passive Long-Range Scan
+--
+Targets detected passively or via active ping returns:
+   A miniscule energy signature presently detected 9.0 light-minutes toward
+Galactic West and Very Slightly Up
+   A miniscule energy signature presently detected 22.09 light-minutes toward
+Galactic South and Slightly Up
+   A miniscule energy signature presently detected 2.76 light-minutes toward
+Galactic Up
+   A miniscule energy signature presently detected 2.76 light-minutes toward
+Galactic Up
+   A miniscule energy signature presently detected 2.76 light-minutes toward
+Galactic Up
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cyce
+I don't understand that.
+\cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (12, 11, 19)
+Celestial Explorer: (12, 11, 19)
+Artifacts:
+   (12, 10, 19)
+x
+[Deep Space]
+You see a dense cube-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+put cube in con
+Wait 10 seconds.
+put cube in con
+Wait 2 seconds.
+put cube in con
+Wait 1 seconds.
+put cube in con
+You pick up a dense cube-shaped metallic mass.
+You put a dense cube-shaped metallic mass into a large expandable telescoping
+xenology container.
+w
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(16 seconds roundtime.)
+enter
+Wait 14 seconds.
+entr
+I don't understand that.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+who
+There appear to be about 1 pilots recently active.
+The starship's computer detects:
+*Shule Elemmire  (A) [m]
+* == Out of communications range
+hyper 225 5
+You carefully turn a few small knobs on the broadcaster control board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 225.0, 5.0.
+lrscan
+--
+Passive Long-Range Scan
+--
+Targets detected passively or via active ping returns:
+   A miniscule energy signature presently detected 9.59 light-minutes toward
+Galactic West and Very Slightly Up
+   A miniscule energy signature presently detected 22.62 light-minutes toward
+Galactic South and Slightly Up
+   A miniscule energy signature presently detected 2.96 light-minutes toward
+Galactic Up
+   A miniscule energy signature presently detected 2.96 light-minutes toward
+Galactic Up
+   A miniscule energy signature presently detected 2.96 light-minutes toward
+Galactic Up
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 4, 17)
+Celestial Explorer: (4, 4, 17)
+Artifacts:
+   (3, 4, 17)
+a
+[Deep Space]
+You see a metallic hull plate of an unfamiliar design here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(20 seconds roundtime.)
+put plate in con
+Wait 15 seconds.
+put plate in con
+Wait 13 seconds.
+put plate in con
+Wait 12 seconds.
+put plate in con
+Wait 11 seconds.
+put plate in con
+Wait 9 seconds.
+put plate in con
+Wait 8 seconds.
+put plate in con
+Wait 8 seconds.
+put plate in con
+Wait 7 seconds.
+put plate in con
+Wait 6 seconds.
+put plate in con
+Wait 5 seconds.
+put plate in con
+Wait 4 seconds.
+put plate in con
+Wait 3 seconds.
+put plate in con
+Wait 2 seconds.
+put plate in con
+Wait 2 seconds.
+put plate in con
+Wait 1 seconds.
+put plate in con
+You pick up a metallic hull plate of an unfamiliar design.
+You put a metallic hull plate of an unfamiliar design into a large expandable
+telescoping xenology container.
+d
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(12 seconds roundtime.)
+enter
+Wait 10 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+lrscan
+--
+Passive Long-Range Scan
+--
+Targets detected passively or via active ping returns:
+   A miniscule energy signature presently detected 23.09 light-minutes toward
+Galactic South and Slightly Up
+   A miniscule energy signature presently detected 9.93 light-minutes toward
+Galactic West and Very Slightly Up
+   A miniscule energy signature presently detected 3.34 light-minutes toward
+Galactic Up
+   A miniscule energy signature presently detected 3.34 light-minutes toward
+Galactic Up
+   A miniscule energy signature presently detected 3.34 light-minutes toward
+Galactic Up
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: Artifact (nearest).
+ut
+I don't understand that.
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+eta
+I don't understand that.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (2, 4, 6)
+Celestial Explorer: (2, 4, 6)
+Artifacts:
+   (2, 4, 5)
+-s
+[Deep Space]
+You see a sphere of a material not unlike transparisteel here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+put sphere in con
+Wait 9 seconds.
+put sphere in con
+Wait 5 seconds.
+put sphere in con
+Wait 2 seconds.
+put sphere in con
+Wait 2 seconds.
+put sphere in con
+Wait 1 seconds.
+put sphere in con
+You pick up a sphere of a material not unlike transparisteel.
+You put a sphere of a material not unlike transparisteel into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(13 seconds roundtime.)
+enter
+Wait 11 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+sit cushio
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+out
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (19, 11, 3)
+Celestial Explorer: (19, 11, 3)
+Artifacts:
+   (19, 11, 2)
+-s
+[Deep Space]
+You see a dense tetrahedron-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(16 seconds roundtime.)
+put mass in con
+Wait 12 seconds.
+put mass in con
+You pick up a dense tetrahedron-shaped metallic mass.
+You put a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(14 seconds roundtime.)
+enter
+Wait 13 seconds.
+enter
+Wait 12 seconds.
+enter
+Wait 11 seconds.
+enter
+Wait 9 seconds.
+enter
+Wait 9 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+The computer announces, "Cycling complete."
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+enter
+Board what?
+vector d
+You make a selection on the AutoVector control board.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+view con
+--
+ a bit of oddly-designed optical wiring                                         
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a cluster of organic-looking spheres                                           
+  [Count: 5]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ a box with a single horn-like protrusion                                       
+  [Count: 5]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 8]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 2]
+ a perfectly shaped ceramic cube                                                
+  [Count: 6]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 12]
+ a dense cube-shaped metallic mass                                              
+  [Count: 10]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 5]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 12]
+                                                                                
+  [Total: 116]
+--
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (13, 20, 11)
+Celestial Explorer: (13, 20, 11)
+Artifacts:
+   (13, 20, 10)
+-s
+[Deep Space]
+You see a metallic hull plate of an unfamiliar design here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(20 seconds roundtime.)
+put plate in con
+Wait 15 seconds.
+put plate in con
+Wait 10 seconds.
+put plate in con
+Wait 9 seconds.
+put plate in con
+Wait 5 seconds.
+put plate in con
+Wait 4 seconds.
+put plate in con
+Wait 3 seconds.
+put plate in con
+Wait 2 seconds.
+put plate in con
+Wait 1 seconds.
+put plate in con
+You pick up a metallic hull plate of an unfamiliar design.
+You put a metallic hull plate of an unfamiliar design into a large expandable
+telescoping xenology container.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (13, 20, 10)
+Celestial Explorer: (13, 20, 11)
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(12 seconds roundtime.)
+enter
+Wait 10 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+l
+[Starship "Celestial Explorer"; Airlock]
+You see a large PANEL of environmental controls here. Lights overhead indicate
+that the ship is on green status. Looking through the windows, you see that the
+ship is in space. The hatch appears to be locked. A small green light near the
+hatch marks that the airlock currently possesses a safe environment.
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+rd
+Uncharted Sector (Unclaimed) [Hall of Pain] (Security: Delta-10)
+Coordinate rundown:
+Starships: Celestial Explorer (>) at (13, 20, 11)
+Debris: (10, 13, 19), (3, 6, 15), (4, 16, 14), (1, 3, 19), (17, 4, 7), (18, 13,
+8), (2, 15, 4), (19, 15, 8), (17, 19, 16), (2, 4, 4), (2, 2, 9), (15, 17, 11),
+(5, 2, 15), (1, 1, 3), (7, 20, 18), (11, 2, 20), (2, 1, 11), (2, 11, 16), (18,
+11, 13), (12, 6, 2), (7, 5, 15), (14, 2, 2), (9, 9, 3), (11, 12, 8), (13, 18,
+5), (3, 11, 17)
+Debris Chunks: (15, 10, 3), (3, 17, 11), (16, 19, 9), (9, 19, 5), (6, 10, 6),
+(9, 14, 13), (10, 15, 19)
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 1.9 seconds.
+view con
+--
+ a bit of oddly-designed optical wiring                                         
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a cluster of organic-looking spheres                                           
+  [Count: 5]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ a box with a single horn-like protrusion                                       
+  [Count: 5]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 8]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 2]
+ a perfectly shaped ceramic cube                                                
+  [Count: 6]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 12]
+ a dense cube-shaped metallic mass                                              
+  [Count: 10]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 12]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 6]
+                                                                                
+  [Total: 117]
+--
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+1
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+out
+You may not leave the airlock while it is cycling.
+out
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (13, 20, 13)
+Celestial Explorer: (13, 20, 13)
+Artifacts:
+   (13, 20, 12)
+-s
+[Deep Space]
+You see a dense cube-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+put cube in con
+Wait 12 seconds.
+put cube in con
+Wait 9 seconds.
+put cube in con
+Wait 5 seconds.
+put cube in con
+Wait 3 seconds.
+put cube in con
+Wait 2 seconds.
+put cube in con
+Wait 1 seconds.
+put cube in con
+You pick up a dense cube-shaped metallic mass.
+You put a dense cube-shaped metallic mass into a large expandable telescoping
+xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(19 seconds roundtime.)
+enter
+Wait 16 seconds.
+enter
+Wait 10 seconds.
+enter
+Wait 9 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+neter
+I don't understand that.
+cycle
+You press a large button marked CYCLE.
+neter
+I don't understand that.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+neter
+I don't understand that.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 4.3 seconds.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+cycle
+Indicators on the airlock door show that it is already cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+\eout
+I don't understand that.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (8, 11, 2)
+Celestial Explorer: (8, 11, 2)
+Artifacts:
+   (8, 11, 1)
+-s
+[Deep Space]
+You see a perfectly shaped ceramic cube here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(13 seconds roundtime.)
+put cube in con
+Wait 9 seconds.
+put cube in con
+Wait 5 seconds.
+put cube in con
+Wait 4 seconds.
+put cube in con
+Wait 3 seconds.
+put cube in con
+Wait 3 seconds.
+put cube in con
+Wait 2 seconds.
+put cube in con
+Wait 1 seconds.
+put cube in con
+You pick up a perfectly shaped ceramic cube.
+You put a perfectly shaped ceramic cube into a large expandable telescoping
+xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(20 seconds roundtime.)
+enter
+Wait 19 seconds.
+enter
+Wait 16 seconds.
+enter
+Wait 15 seconds.
+enter
+Wait 15 seconds.
+enter
+Wait 12 seconds.
+enter
+Wait 11 seconds.
+enter
+Wait 10 seconds.
+enter
+Wait 9 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cyle
+I don't understand that.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vectorr d
+I don't understand that ("d" is an ambiguous name).
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (11, 5, 2)
+Celestial Explorer: (11, 5, 2)
+Artifacts:
+   (11, 5, 1)
+-s
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(11 seconds roundtime.)
+put sphere in con
+Wait 7 seconds.
+put sphere in con
+Wait 6 seconds.
+put sphere in con
+Wait 5 seconds.
+put sphere in con
+Wait 4 seconds.
+put sphere in con
+Wait 3 seconds.
+put sphere in con
+Wait 2 seconds.
+put sphere in con
+Wait 1 seconds.
+put sphere in con
+You pick up a sphere of cohesive slow-flowing liquid.
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(18 seconds roundtime.)
++s
+Wait 15 seconds.
++s
+Wait 13 seconds.
++s
+Wait 11 seconds.
++s
+Wait 10 seconds.
++s
+Wait 10 seconds.
++s
+Wait 8 seconds.
++s
+Wait 6 seconds.
++s
+Wait 5 seconds.
++s
+Wait 3 seconds.
++s
+Wait 2 seconds.
++s
+Wait 1 seconds.
++s
+[Deep Space]
+You can go in any direction using a spacejet.
+You are weightless here.
+(17 seconds roundtime.)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (11, 5, 3)
+Celestial Explorer: (11, 5, 2)
+-s
+Wait 3 seconds.
+-s
+Wait 2 seconds.
+-s
+Wait 1 seconds.
+-s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(12 seconds roundtime.)
+enter
+Wait 9 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 5.8 seconds.
+l nav
+The display screen of a spacesuit navaid seems to be inactive.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (11, 5, 20)
+Celestial Explorer: (11, 5, 20)
+Artifacts:
+   (15, 19, 2)
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+enter
+You may not leave the airlock while it is cycling.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (15, 19, 3)
+Celestial Explorer: (15, 19, 3)
+Artifacts:
+   (15, 19, 2)
+-s
+[Deep Space]
+You see a torn patch of unfamiliar woven fiber here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(12 seconds roundtime.)
+put fiber
+Wait 8 seconds.
+put fiber
+I don't understand that.
+Try this instead:  put fiber in
+put fiber in con
+You pick up a torn patch of unfamiliar woven fiber.
+You put a torn patch of unfamiliar woven fiber into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(19 seconds roundtime.)
+enter
+Wait 17 seconds.
+enter
+Wait 8 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Incoming hypercaster identification ping from Unknown Contact 030211218 at West
+and Slightly Up: Now identified as Happy.
+hyper identify
+You press a prominent identification button on the hypercaster control board.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 2.9 seconds.
+view con
+--
+ a bit of oddly-designed optical wiring                                         
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a cluster of organic-looking spheres                                           
+  [Count: 5]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ a box with a single horn-like protrusion                                       
+  [Count: 5]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 2]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 12]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 6]
+ a dense cube-shaped metallic mass                                              
+  [Count: 11]
+ a perfectly shaped ceramic cube                                                
+  [Count: 7]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 13]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 9]
+                                                                                
+  [Total: 121]
+--
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (17, 16, 19)
+Celestial Explorer: (17, 16, 19)
+Artifacts:
+   (17, 15, 19)
+x
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(17 seconds roundtime.)
+put sphere in con
+Wait 14 seconds.
+put sphere in con
+You pick up a sphere of cohesive slow-flowing liquid.
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (17, 15, 19)
+Celestial Explorer: (17, 16, 19)
+w
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(20 seconds roundtime.)
+enter
+Wait 19 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+enter
+You may not leave the airlock while it is cycling.
+enter
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+out
+You may not leave the ship until the airlock's environment matches the external
+environment.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (7, 20, 9)
+Celestial Explorer: (7, 20, 9)
+Artifacts:
+   (7, 20, 8)
+-s
+[Deep Space]
+You see a torn patch of unfamiliar woven fiber here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(11 seconds roundtime.)
+put fiber in con
+Wait 3 seconds.
+put fiber in con
+You pick up a torn patch of unfamiliar woven fiber.
+You put a torn patch of unfamiliar woven fiber into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(14 seconds roundtime.)
+enter
+Wait 11 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+hands
+You are carrying nothing.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+1
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (3, 9, 3)
+Celestial Explorer: (3, 9, 3)
+Artifacts:
+   (3, 9, 2)
+-s
+[Deep Space]
+You see a box with a single horn-like protrusion here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(12 seconds roundtime.)
+put box in con
+You pick up a box with a single horn-like protrusion.
+You put a box with a single horn-like protrusion into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(14 seconds roundtime.)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (3, 9, 3)
+Celestial Explorer: (3, 9, 3)
+enter
+Wait 4 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (2, 13, 7)
+Celestial Explorer: (2, 13, 7)
+Artifacts:
+   (2, 13, 6)
+-s
+[Deep Space]
+You see a bit of oddly-designed optical wiring here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(20 seconds roundtime.)
+put wiring in con
+Wait 15 seconds.
+put wiring in con
+You pick up a bit of oddly-designed optical wiring.
+You put a bit of oddly-designed optical wiring into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(19 seconds roundtime.)
+enter
+Wait 17 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (6, 5, 12)
+Celestial Explorer: (6, 5, 12)
+Artifacts:
+   (6, 4, 12)
+x
+[Deep Space]
+You see a cluster of organic-looking spheres here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+put spheres in con
+Wait 1 seconds.
+put spheres in con
+You pick up a cluster of organic-looking spheres.
+You put a cluster of organic-looking spheres into a large expandable telescoping
+xenology container.
+w
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(12 seconds roundtime.)
+enter
+Wait 10 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+Incoming hypercaster transmission from Happy at West and Slightly Up: "How's
+everone?"
+hyper 180 33
+You carefully turn a few small knobs on the broadcaster control board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 180.0, 33.0.
+hyper I'm doing well. You?
+You say into the hypercaster microphone, "I'm doing well. You?"
+vector d
+You make a selection on the AutoVector control board.
+Incoming hypercaster transmission from Happy at West and Slightly Up: "No
+comp'a"nts. Here's an artif<ct!"
+hyper Woo!
+You say into the hypercaster microphone, "Woo!"
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 1.9 seconds.
+hands
+You are carrying nothing.
+Incoming hypercaster transmission from Happy at West and Slightly Up: "Yeah I've
+seen them more frequently%in other areas but it's&good here."
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+hyper Awesome.
+You say into the hypercaster microphone, "Awesome."
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (9, 17, 8)
+Celestial Explorer: (9, 17, 8)
+Artifacts:
+   (9, 18, 8)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (9, 17, 8)
+Celestial Explorer: (9, 17, 8)
+Artifacts:
+   (9, 18, 8)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (9, 17, 8)
+Celestial Explorer: (9, 17, 8)
+Artifacts:
+   (9, 18, 8)
+w
+[Deep Space]
+You see a perfectly shaped ceramic cube here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(12 seconds roundtime.)
+put cube in con
+Wait 8 seconds.
+put cube in con
+You pick up a perfectly shaped ceramic cube.
+You put a perfectly shaped ceramic cube into a large expandable telescoping
+xenology container.
+x
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(14 seconds roundtime.)
+enter
+Wait 12 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+out
+You may not leave the ship until the airlock's environment matches the external
+environment.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (17, 19, 10)
+Celestial Explorer: (17, 19, 10)
+Artifacts:
+   (17, 19, 9)
+-s
+[Deep Space]
+You see a metallic hull plate of an unfamiliar design here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(17 seconds roundtime.)
+put plate in con
+Wait 13 seconds.
+put plate in con
+You pick up a metallic hull plate of an unfamiliar design.
+You put a metallic hull plate of an unfamiliar design into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(19 seconds roundtime.)
+enter
+Wait 17 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+view con
+--
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 2]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 12]
+ a dense cube-shaped metallic mass                                              
+  [Count: 11]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 14]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 10]
+ a box with a single horn-like protrusion                                       
+  [Count: 6]
+ a bit of oddly-designed optical wiring                                         
+  [Count: 3]
+ a cluster of organic-looking spheres                                           
+  [Count: 6]
+ a perfectly shaped ceramic cube                                                
+  [Count: 8]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 7]
+                                                                                
+  [Total: 128]
+--
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (16, 11, 3)
+Celestial Explorer: (16, 11, 3)
+Artifacts:
+   (16, 11, 2)
+-s
+[Deep Space]
+You see a bit of oddly-designed optical wiring here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(19 seconds roundtime.)
+put wiring in con
+Wait 14 seconds.
+put wiring in con
+You pick up a bit of oddly-designed optical wiring.
+You put a bit of oddly-designed optical wiring into a large expandable
+telescoping xenology container.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (16, 11, 2)
+Celestial Explorer: (16, 11, 3)
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(20 seconds roundtime.)
+enter
+Wait 18 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (19, 17, 14)
+Celestial Explorer: (19, 17, 14)
+Artifacts:
+   (19, 18, 13)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (19, 17, 14)
+Celestial Explorer: (19, 17, 14)
+Artifacts:
+   (19, 18, 13)
+-w
+[Deep Space]
+You see an organic-looking piece of material not unlike wood which is in fact
+artificial here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+put wood in con
+Wait 13 seconds.
+put wood in con
+Wait 9 seconds.
+put wood in con
+Wait 3 seconds.
+put wood in con
+Wait 2 seconds.
+put wood in con
+Wait 1 seconds.
+put wood in con
+You pick up an organic-looking piece of material not unlike wood which is in
+fact artificial.
+You put an organic-looking piece of material not unlike wood which is in fact
+artificial into a large expandable telescoping xenology container.
++x
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(13 seconds roundtime.)
+enter
+Wait 11 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (19, 4, 4)
+Celestial Explorer: (19, 4, 4)
+Artifacts:
+   (19, 4, 3)
+-s
+[Deep Space]
+You see a bit of oddly-designed optical wiring here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(15 seconds roundtime.)
+put wiring in con
+Wait 3 seconds.
+put wiring in con
+You pick up a bit of oddly-designed optical wiring.
+You put a bit of oddly-designed optical wiring into a large expandable
+telescoping xenology container.
++s
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(14 seconds roundtime.)
+enter
+Wait 12 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+Minor Change: Fixed an issue where larger ships couldn't find artifacts under
+certain circumstances.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 4, 16)
+Celestial Explorer: (4, 4, 16)
+Artifacts:
+   (3, 4, 16)
+a
+[Deep Space]
+You see a dense tetrahedron-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(20 seconds roundtime.)
+put mass in con
+Wait 16 seconds.
+put mass in con
+Wait 12 seconds.
+put mass in con
+Wait 8 seconds.
+put mass in con
+You pick up a dense tetrahedron-shaped metallic mass.
+You put a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+d
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(20 seconds roundtime.)
+enter
+Wait 16 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+sit cushion
+You sit down on a silky cerulean cushion decorated with embroidered dark red
+dragons.
+eta
+The ship's current engine speed is 25000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 8.2 seconds.
+view con
+--
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a deactivated projectile weapon                                                
+  [Count: 2]
+ a bit of stretchy synthetic material                                           
+  [Count: 6]
+ a plate carved with a geometric design                                         
+  [Count: 6]
+ a rod made of malleable metal                                                  
+  [Count: 16]
+ an unfamiliar spherical component                                              
+  [Count: 4]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 9]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 2]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ a dense cube-shaped metallic mass                                              
+  [Count: 11]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 14]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 10]
+ a box with a single horn-like protrusion                                       
+  [Count: 6]
+ a cluster of organic-looking spheres                                           
+  [Count: 6]
+ a perfectly shaped ceramic cube                                                
+  [Count: 8]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 7]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 3]
+ a bit of oddly-designed optical wiring                                         
+  [Count: 5]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 13]
+                                                                                
+  [Total: 132]
+--
+Incoming hypercaster calibration ping from Happy at West and Slightly Up: Local
+hypercaster is currently tuned to Galactic East (0.0, 0.0) and the current power
+level settings are 5 percent. Signal strength between this vessel and
+calibrating vessel is strong.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+hyper calibration
+You press a prominent calibration button on the hypercaster control board.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (10, 19, 17)
+Celestial Explorer: (10, 19, 17)
+Artifacts:
+   (10, 20, 17)
+w
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(20 seconds roundtime.)
+put sphere in con
+Wait 16 seconds.
+put sphere in con
+Wait 11 seconds.
+put sphere in con
+Wait 7 seconds.
+put sphere in con
+Wait 5 seconds.
+put sphere in con
+You pick up a sphere of cohesive slow-flowing liquid.
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
+x
+[Outside Celestial Explorer]
+You can go in any direction using a spacejet, or return to Celestial Explorer.
+You are weightless here.
+(15 seconds roundtime.)
+enter
+Wait 13 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Celestial Explorer"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy red ceramic felo chow bowl, and an early warning space defense device
+here.
+You can go enter into the ship.
+You float close to the luxury sightseer "Celestial Explorer", open the hatch,
+and carefully float inside, orienting yourself so that your feet hit the floor
+as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Celestial Explorer"; Control Room]
+You see a bioaugmentation plant in a small pot labeled "Starseekers", a wormhole
+drive tracer, a glossy silvery gray ceramic felo chow bowl, and a silky cerulean
+cushion decorated with embroidered dark red dragons here.
+You can go south and out.
+vector d
+You make a selection on the AutoVector control board.
+eta
+\e\eeta
+eta
+#end
+#SESSION 'star' DIED.

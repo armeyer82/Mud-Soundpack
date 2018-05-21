@@ -1,0 +1,1527 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Tue Oct 25 06:22:14 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+@OF-0601
+Retrieving account information. Please wait...
+Invalid ID or password.
+Did you forget your ID or password? Go here and choose the appropriate option:
+http://moo.squidsoft.net:3333
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Want to join a private organization run by fellow pilots? Find the
+organization center in your capital spaceport!
+**
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+#help parse
+Command: #parse {string} {variable} {commands}
+
+         Like the loop statement, parse will loop from start to finish through
+         the given string.  The value of the current character is stored in the
+         provided variable.
+
+Example: #parse {hello world} {char} {#showme $char}
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[General Communication] Alko Delovega transmits, "What did you do with all the
+artifacts, morris."
+[General Communication] Morris Corlew transmits, "I can't even get artifacts
+where you are. Anyway, I have no interest in your locals. Or really the bubble
+that much either. So in answer to your question...Nope."
+A large semi-transparent cylindrical creature with very long dangling tendrils
+and a green glowing interior drifts slowly past a plastic frond of light green
+sea fern.
+[General Communication] Morris Corlew laughs.
+[General Communication] Alko Delovega chortles.
+Xavier the big silver soldier felo jumps down from your lap.
+\el
+I don't understand that.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, a hairy yellow eight-legged ArachnoPal named
+Higgins, and Xavier the big silver soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+eta
+The ship is not moving.
+[General Communication] Sean Sloan transmits, "Looking for two eaos and one AEU
+for a mega pod, tier 2 or lower!"
+[General Communication] Karasi Valhannon transmits, "Give me a moment, and
+certainly."
+Xavier the big silver soldier felo marches out.
+#config
+################################ CONFIGURATIONS ################################
+[AUTO TAB     ] [    5000] Scroll back buffer lines used for tab completion
+[BUFFER SIZE  ] [   20000] The size of the scroll back buffer
+[CHARSET      ] [   ASCII] The character set encoding used by TinTin++
+[CONNECT RETRY] [      15] Seconds TinTin++ will try to connect before giving up
+[COMMAND COLOR] [   <078>] The color of echoed commands
+[COMMAND ECHO ] [     OFF] Your commands are not echoed in split mode
+[HISTORY SIZE ] [    1000] The size of the command history
+[LOG          ] [   PLAIN] The data format of the log files
+[PACKET PATCH ] [    0.00] Seconds TinTin++ will try to patch broken packets
+[REPEAT ENTER ] [      ON] You send the last command on an enter
+[REPEAT CHAR  ] [       !] The character used for repeating commands
+[SCROLL LOCK  ] [      ON] You do not see mud output while scrolling
+[SPEEDWALK    ] [     OFF] Your input is not scanned for speedwalk directions
+[TINTIN CHAR  ] [       #] The character used for TinTin++ commands
+[VERBATIM     ] [     OFF] Your keyboard input is parsed by TinTin++
+[VERBATIM CHAR] [       \] The character used for unparsed text
+[VERBOSE      ] [     OFF] Messages while reading in a script file are gagged
+[WORDWRAP     ] [      ON] Mud output is word wrapped
+[256 COLORS   ] [      ON] Your terminal is 256 color capable
+################################################################################
+eta
+The ship is not moving.
+eta
+The ship is not moving.
+A short yellow soft-bodied creature with many claw-tipped tentacles rears up suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles around it as if trying to drag it into the deep.
+Lily Kaise cuddles up to you.
+A medium-sized thickly-shelled creature with a red shell and four small claws snaps its claws menacingly at a plastic flower with red petals.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau Quebec now boarding at Space Station "Foxtrot"! Departure in fifteen Earth minutes!"
+kiss lily
+You kiss Lily Kaise.
+#macro {\e4} {#buffer get review 5;#system say -v alex -r 525 "$review"}
+#OK. MACRO {\e4} HAS BEEN SET TO {#buffer get review 5;#system say -v alex -r 525 "$review"}.
+#write sc.tin
+#WRITE: 263 COMMANDS WRITTEN TO {sc.tin}.
+eta
+The ship is not moving.
+`eta
+Say to whom?
+eta
+The ship is not moving.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+smile lily
+You smile at Lily Kaise.
+Blueberry the hefty violet feathered felo kitten wanders in from the south.
+pet blueberry
+You stroke the soft feathers of Blueberry the hefty violet feathered felo kitten.
+Blueberry the hefty violet feathered felo kitten purrs softly.
+#write sc.tin
+#WRITE: 263 COMMANDS WRITTEN TO {sc.tin}.
+who
+There appear to be 16 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Kim Saunders  (A) [m]
+Sean Sloan  (L)
+Joel Kringle  (L)
+Luja Garland  (L)
+Johann Rowan  (L)
+Zandria Marschaund  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Nicolette Lawrence  (L)
+Ted Warburton  (F)
+Klave Andaran  (F)
+Alko Delovega  (F)
+Damien Alexander  (F)
+Evenia Callseah  (F)
+Additionally, there are 15 pilots who appear to have their communicators on but have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+who
+There appear to be 16 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Kim Saunders  (A) [m]
+Sean Sloan  (L)
+Joel Kringle  (L)
+Luja Garland  (L)
+Johann Rowan  (L)
+Zandria Marschaund  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Nicolette Lawrence  (L)
+Ted Warburton  (F)
+Klave Andaran  (F)
+Alko Delovega  (F)
+Damien Alexander  (F)
+Evenia Callseah  (F)
+Additionally, there are 15 pilots who appear to have their communicators on but have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Xavier the big silver soldier felo marches in from the airlock.
+Blueberry the hefty violet feathered felo kitten rubs up against a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, purring softly.
+who
+There appear to be 14 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Kim Saunders  (A) [m]
+Sean Sloan  (L)
+Joel Kringle  (L)
+Johann Rowan  (L)
+Zandria Marschaund  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Nicolette Lawrence  (L)
+Ted Warburton  (F)
+Klave Andaran  (F)
+Alko Delovega  (F)
+Evenia Callseah  (F)
+Additionally, there are 17 pilots who appear to have their communicators on but have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Lily Kaise strokes the soft feathers of Blueberry the hefty violet feathered felo kitten.
+Blueberry the hefty violet feathered felo kitten purrs softly.
+Lily says to Blueberry the hefty violet feathered felo kitten in a New Earth accent, "Just don't gro up. Please be a kitten forever!"
+Lily Kaise grins.
+Lily Kaise kisses you on the lips.
+Lily Kaise says in a New Earth accent, "I love kittens even when they are crazy and make a mess out of everything."
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau Quebec now departing at Space Station "Foxtrot"! All aboooooaaaaaaard!"
+Lily Kaise laughs.
+laugh
+You laugh.
+[General Communication] Evenia Callseah transmits, "Safe trip, space bus driver!"
+#help replace
+Command: #replace {variable} {oldtext} {newtext}
+
+         Searches the variable text replacing each occurance of 'oldtext' with
+         'newtext'.
+Lily Kaise says in a New Earth accent, "Ok guess I should go walk through my ships of felo as I sure don't want any more issues with mean felo killing other ones."
+grin
+You grin.
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise says in a New Earth accent, "Be back in a little bit. At least I have 5 instead of six ships now."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+nod
+You nod.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+#read sc.tin
+#help replace
+Command: #replace {variable} {oldtext} {newtext}
+
+         Searches the variable text replacing each occurance of 'oldtext' with
+         'newtext'.
+Blueberry the hefty violet feathered felo kitten wanders out.
+#variable moo {"this is a test"}
+#OK. VARIABLE {moo} HAS BEEN SET TO {"this is a test"}.
+#replace {moo} {"} {'}
+#show $moo
+'this is a test'
+'hi
+You say, "Hi."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+who
+There appear to be 14 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Kim Saunders  (A) [m]
+Soraya Rhyz  (L)
+Sean Sloan  (L)
+Joel Kringle  (L)
+Johann Rowan  (L)
+Zandria Marschaund  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Nicolette Lawrence  (L)
+Alko Delovega  (F)
+Ted Warburton  (F)
+Evenia Callseah  (F)
+Additionally, there are 18 pilots who appear to have their communicators on but have not recently been active.
+Final total: 32 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+-blueberry Are you behaving?
+Say to whom?
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a glass top, a small yellow ball containing a realistic Bari horde noisemaker, Meow the little calico CatBot, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and coral rocks, a small white trash bin, a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named Nellie, a
+clear plastic food storage container, a high tech silver star print holovid, Purr the humanoid service robot, an insulated blue cooler, a red plastic food storage container, a hairy yellow eight-legged
+ArachnoPal named Higgins, and Xavier the big silver soldier felo here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.)
+-xavier Are you behaving?
+You say to Xavier the big silver soldier felo, "Are you behaving?"
+Xavier the big silver soldier felo marches south.
+Blueberry the hefty violet feathered felo kitten wanders in from the airlock.
+[General Communication] Lillian Hudson yawns.
+[General Communication] Alko Delovega transmits, "Morning."
+[General Communication] Melinda Michaels transmits, "Hi."
+#show $review
+-xavier Are you behaving?
+[General Communication] Lillian Hudson transmits, "Hey."
+[General Communication] Ted Warburton transmits, "Hey all, and yawning is about my feeling right now too."
+[General Communication] Lillian Hudson laughs.
+#system say -v alex -r 525 "$review"
+#OK: EXECUTING 'say -v alex -r 525 "-xavier Are you behaving?"'
+#system say -v alex -r 525 "-x"
+#OK: EXECUTING 'say -v alex -r 525 "-x"'
+[General Communication] Morris Corlew transmits, "Woo. One upgraded mule."
+[General Communication] Lillian Hudson transmits, "Congrats."
+[General Communication] Morris Corlew transmits, "Thank ya."
+[General Communication] Lillian Hudson transmits, "For those of you whom this matters to, watch the time."
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a blue glowing interior pulsates gently.
+Blueberry the hefty violet feathered felo kitten wanders south.
+#write sc.tin
+#WRITE: 264 COMMANDS WRITTEN TO {sc.tin}.
+#read sc.tin
+who
+There appear to be 16 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Sakura Arakida  (L)
+Lillian Hudson  (L)
+Soraya Rhyz  (L)
+Sean Sloan  (L)
+Joel Kringle  (L)
+Johann Rowan  (L)
+Zandria Marschaund  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Nicolette Lawrence  (L)
+Emmett Lee  (F)
+Alko Delovega  (F)
+Ted Warburton  (F)
+Evenia Callseah  (F)
+Additionally, there are 19 pilots who appear to have their communicators on but have not recently been active.
+Final total: 35 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[General Communication] Emmett Lee transmits, "Good morning."
+[General Communication] Lillian Hudson transmits, "Hello."
+[General Communication] Alko Delovega transmits, "Hay ya emmett."
+[General Communication] Ted Warburton transmits, "Morning."
+tra gen Hello.
+[General Communication] Shule Elemmire transmits, "Hello."
+[General Communication] Emmett Lee transmits, "How is everyone?"
+[General Communication] Lillian Hudson transmits, "Moving fish tanks around, so keeping busy. How are you?"
+[General Communication] Evenia Callseah transmits, "Heya Emms."
+[General Communication] Ted Warburton transmits, "Same, I'm going to set up a second aquarium I think."
+[General Communication] Emmett Lee transmits, "Hey eve. And yay fishies!"
+[General Communication] Evenia Callseah transmits, "Don't do it! You'll end up with 8 before you know it."
+[General Communication] Ted Warburton transmits, "I'm thinking making their food last longer this weekend, just in case."
+`#show $review
+Say to whom?
+[General Communication] Evenia Callseah transmits, "I think they'll be okay."
+[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you'd like."
+#show $review
+[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you'd like."
+#show $review
+[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you'd like."
+[General Communication] Ted Warburton transmits, "Thanks Morris, I might just take you up on that."
+[General Communication] Morris Corlew transmits, "Yep. I've already got Corey's and my own on there. Just bring it to the Lounge."
+[General Communication] Ted Warburton transmits, "Will do, thanks."
+[General Communication] Morris Corlew transmits, "Yep."
+A large thickly-shelled creature with a yellow shell and four small claws creeps across the bottom of the tank, snapping its many claws rapidly.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+#show $review
+[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you'd like."
+#replace review {'} {\'} 
+#show $review
+[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you'd like."
+#replace $review {'} {\\'} 
+#REPLACE: VARIABLE {$review} NOT FOUND.
+#show $review
+[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you'd like."
+#replace {review} {'} {\\'}
+#show $review
+[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you\'d like."
+#system say -v alex -r 525 "$review"
+#OK: EXECUTING 'say -v alex -r 525 "[General Communication] Morris Corlew transmits, "Ted, you can put them on my ship for my bot to feed if you\\\'d like.""'
+eta
+The ship is not moving.
+pet xavier
+I don't see that here.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a glass top, a small yellow ball containing a realistic Bari horde noisemaker, Meow the little calico CatBot, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and coral rocks, a small white trash bin, a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named Nellie, a
+clear plastic food storage container, a high tech silver star print holovid, Purr the humanoid service robot, an insulated blue cooler, a red plastic food storage container, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.)
+pet higgins
+You stroke a hairy yellow eight-legged ArachnoPal named Higgins's bristly hair.
+-higgins I think you'd be happier with a mate?
+You say to a hairy yellow eight-legged ArachnoPal named Higgins, "I think you'd be happier with a mate?"
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+Lily Kaise cuddles up to you.
+Lily Kaise removes a cup from a lavender silk backpack embroidered with brightly hued butterflies.
+Lily Kaise puts a cup in a small white trash bin.
+Lily Kaise removes a cup from a lavender silk backpack embroidered with brightly hued butterflies.
+Lily Kaise puts a cup in a small white trash bin.
+#read sc.tin
+-higgins I think you'd be happier with a mate?
+You say to a hairy yellow eight-legged ArachnoPal named Higgins, "I think you'd be happier with a mate?"
+Lily Kaise says in a New Earth accent, "Heh."
+chuckle
+You chuckle.
+Lily Kaise chuckles.
+Lily says to a solid silver ring engraved with dragonflies in a New Earth accent, "You want a weird little spider huh?"
+Lily Kaise laughs.
+laugh
+You laugh.
+Lily says to you in a New Earth accent, "So you want a weird little spider huh?"
+'I don't know.
+You say, "I don't know."
+'Haven't decided yet.
+You say, "Haven't decided yet."
+#macro
+################################################################################################## MACROS ##################################################################################################
+#MACRO {\e1}={#buffer get review 1;#replace {review} {‘} {\\'};#system say -v alex -r 525 " $review"}
+#MACRO {\e2}={#buffer get review 2;#system say -v alex -r 525 " $review"}
+#MACRO {\e3}={#buffer get review 3;#system say -v alex -r 525 " $review"}
+#MACRO {\e4}={#buffer get review 4;#system say -v alex -r 525 " $review"}
+#MACRO {\eOP}={rel}
+#MACRO {\eOQ}={mini}
+#MACRO {\eOR}={auto}
+#MACRO {\eOS}={manual}
+#MACRO {\ep}={power}
+#MACRO {\es}={salvage}
+#MACRO {\ex}={ext}
+Lily Kaise says in a New Earth accent, "At least I'm glad knowing that you don't mind having a menagerie around."
+Lily Kaise laughs.
+[Tactical Communication] Lillian Hudson transmits, "Bari pod in Jupiter Orbit."
+[Tactical Communication] Lillian Hudson transmits, "Melinda and Morris dispatching."
+[General Communication] Morris Corlew transmits, "I do have bombs, just have to grab one."
+[Tactical Communication] Lillian Hudson transmits, "Pod in Callisto."
+[Tactical Communication] Melinda Michaels transmits, "Jupitor pod down."
+[Tactical Communication] Lillian Hudson transmits, "Callisto pod down."
+[Tactical Communication] Joel Kringle transmits, "Anyone available to check Fringe and AEU space?"
+tra tac I'll check AEu space. Hang on.
+[Tactical Communication] Shule Elemmire transmits, "I'll check AEu space. Hang on."
+[Tactical Communication] Damien Alexander transmits, "Fringe is clear."
+kiss lily
+You kiss Lily Kaise.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an early warning space defense device, a personal hoverpallet, a small mystic purple bioplastic crate, and a glossy seashell pink
+ceramic felo chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Spaceport Landing Pad]
+The five-person A.S.S. tactical platform "William Dove" is landed here.
+You see an automatic teller machine, a small trash can, a sanitation drone, and a sanitation drone here.
+You can go north, south, west, and down.
+u
+You can't go that way.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+[New Earth; Pilot Corps Liaison Office; Corridor]
+n
+You can go north, east, south, and west.
+[Tactical Communication] Lillian Hudson transmits, "Can someone fly through the unclaimed sectors?"
+w
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet here.
+You can go east.
+sit chair
+You sit down on an ergonomically designed silver leather and mesh chair.
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+new earth
+New Earth Orbit (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: AEU Navy Honour Guard Scout Pi-1 (8) at (9, 18, 18) and AEU Navy Honour Guard Scout Beta-9 (8) at (7, 18, 20)
+Planets: (5, 14, 16)
+Space Stations: (12, 9, 14)
+Space Markets: (7, 6, 10)
+Your ship 'William Dove' has been automatically moved into a garage.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "If you see anything, let meknow. Just sounds like League mostly so far."
+tra org I will.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "I will."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+providence
+Providence Gate (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: nothing
+Space Stations: (15, 19, 9)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+[Tactical Communication] Ted Warburton transmits, "Any more anyone needs a hand with? I've not done one before but have charges and felo ready`."
+B-19
+Beacon B-19 (AEU [originally EAOS]) [Human Interalliance Space] (Security: Beta-4)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (19, 9, 15)
+Debris: (9, 14, 3), (16, 18, 19), (12, 4, 4), (18, 5, 6), (9, 19, 17), (16, 11, 1), (10, 7, 2), (12, 18, 6), (9, 13, 13), (4, 15, 14), (7, 11, 2), (18, 7, 6), (10, 8, 13), (18, 9, 9), (19, 7, 4), (6, 9,
+13), (4, 5, 6), (18, 19, 16), (10, 13, 19), (11, 17, 17)
+Debris Chunks: (9, 19, 6), (15, 17, 16), (12, 3, 3), (6, 17, 15), (5, 4, 10)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+b-24
+Beacon B-24 (AEU) [Human Interalliance Space] (Security: Beta-4)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (11, 9, 17)
+Temporary Space Structures: (11, 11, 19)
+Debris: (19, 17, 4), (6, 5, 19), (1, 4, 9), (11, 19, 18), (18, 8, 8), (15, 14, 3), (5, 15, 19), (17, 19, 10), (7, 20, 4), (5, 16, 5), (2, 3, 6), (16, 9, 14), (4, 12, 15), (13, 6, 20), (20, 5, 20), (11,
+19, 12), (8, 9, 11), (12, 10, 10), (9, 20, 9), (16, 13, 15)
+Debris Chunks: (16, 19, 10), (4, 11, 15), (13, 8, 17), (15, 2, 14), (12, 7, 13), (19, 9, 17), (16, 13, 12), (10, 15, 16), (4, 13, 8), (15, 15, 12), (6, 15, 13)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+b-29
+Beacon B-29 (AEU) [Human Interalliance Space] (Security: Beta-4)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (7, 12, 8)
+Debris: (5, 3, 3), (5, 16, 8), (9, 20, 10), (4, 14, 17), (18, 5, 16), (17, 1, 19), (3, 2, 19), (5, 17, 6), (9, 5, 20), (5, 17, 7), (13, 2, 18), (8, 11, 16), (16, 2, 6), (9, 15, 20), (6, 12, 11), (18, 16,
+16), (7, 19, 3), (11, 4, 10), (5, 17, 16), (12, 17, 18)
+Debris Chunks: (14, 15, 14), (14, 18, 16), (15, 13, 11), (17, 5, 8), (14, 17, 13)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+dure
+Dure Orbit (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (6, 11, 13)
+Space Stations: (14, 6, 16)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+zion
+Zion Orbit (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (4, 13, 17)
+Space Stations: (18, 17, 15)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+hoyt
+Hoyt Orbit (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (4, 13, 15)
+Space Stations: (11, 15, 13)
+[Tactical Communication] Melinda Michaels transmits, "We need one felo at Jupitor."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+[Tactical Communication] Ted Warburton transmits, "Mean OK?"
+telex
+Telex Orbit (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (14, 8, 11)
+Space Stations: (18, 13, 13)
+[Tactical Communication] Morris Corlew transmits, "Sure."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+endymion
+Endymion Orbit (AEU) [Human Interalliance Space] (Security: Beta-2)
+Coordinate rundown:
+Starships: nothing
+Planets: (11, 11, 15)
+Space Stations: (4, 7, 15)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+[Tactical Communication] Damien Alexander transmits, "No spreaders?"
+[Tactical Communication] Lillian Hudson transmits, "Not that we've seen."
+aenea
+Aenea Orbit (AEU) [Human Interalliance Space] (Security: Beta-2)
+Coordinate rundown:
+Starships: nothing
+Planets: (14, 11, 14)
+[Tactical Communication] Damien Alexander transmits, "Anyplace need checked?"
+[Tactical Communication] Joel Kringle transmits, "Haven't heard any on flight control either."
+use terminal
+[Tactical Communication] Lillian Hudson transmits, "I don't think anybody's checked the unclaimed sectors."
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+[General Communication] Morris Corlew transmits, "Damn bari."
+[General Communication] Lillian Hudson transmits, "What?"
+hyperion
+Hyperion Orbit (AEU) [Human Interalliance Space] (Security: Beta-2)
+Coordinate rundown:
+Starships: nothing
+Planets: (14, 15, 11)
+Space Stations: (9, 11, 7)
+[General Communication] Lillian Hudson transmits, "This is tame."
+[General Communication] Morris Corlew transmits, "Killed one of my felo..."
+[Tactical Communication] Melinda Michaels transmits, "We may not need it."
+[General Communication] Lillian Hudson transmits, "Oh damn."
+[Tactical Communication] Damien Alexander transmits, "I'll have a look at the unclaimed."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+bikura
+Bikura Orbit (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (5, 12, 16)
+Space Stations: (3, 19, 17)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+[Tactical Communication] Ted Warburton transmits, "How do I dock to give you this?"
+chey
+Cheyanne's Star (AEU) [Human Interalliance Space] (Security: Beta-2)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (16, 16, 14)
+Debris: (1, 9, 17)
+[Tactical Communication] Joel Kringle transmits, "Move to them and dock."
+[Tactical Communication] Lillian Hudson transmits, "Please keep tactical clear. Address it in sector."
+[Tactical Communication] Morris Corlew transmits, "I think we're good, Ted."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+riverway
+Riverway (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (9, 17, 7)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+riverway terr
+Riverway Territories (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (11, 2, 16)
+[Tactical Communication] Damien Alexander transmits, "Dusty Reaches cluster clear."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+glittering
+The Glittering Belt (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: nothing
+Space Stations: (5, 10, 15)
+Belt Stations: (12, 5, 7)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+frontier cluster
+Frontier Cluster (AEU) [Human Interalliance Space] (Security: Beta-5)
+Coordinate rundown:
+Starships: nothing
+Space Stations: (19, 2, 8)
+Debris: (14, 11, 8), (14, 12, 8), (18, 4, 16)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+old frontier
+Invalid selection.
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+old frontier
+The Old Frontier (AEU) [Human Interalliance Space] (Security: Beta-3)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (2, 17, 9)
+Debris: (8, 2, 9), (3, 15, 4), (2, 9, 13), (10, 10, 14), (17, 3, 7), (10, 17, 6), (5, 2, 13), (12, 8, 15), (12, 1, 12), (11, 17, 2), (16, 18, 1), (19, 17, 12), (14, 2, 3), (12, 11, 12), (9, 12, 7), (2, 1,
+20), (13, 18, 9), (7, 12, 18), (5, 13, 5), (2, 11, 14)
+Debris Chunks: (3, 3, 6), (10, 10, 2), (2, 19, 11), (4, 13, 17), (9, 6, 17), (14, 2, 18), (8, 19, 18), (16, 7, 8), (10, 9, 14), (3, 4, 19), (13, 15, 10)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+omega vii
+Omega VIII Orbit (AEU) [Human Interalliance Space] (Security: Beta-2)
+Coordinate rundown:
+Starships: nothing
+Planets: (10, 10, 10)
+Beacon Housings: (12, 3, 7)
+take alliance
+You remove an alliance information assistant from a leather briefcase.
+use alliance
+For which alliance would you like a report?
+[1] EAOS
+[2] AEU
+[3] League
+[4] Fringe
+[5] Mutuality
+Enter your selection:
+2
+--
+The Alliance of Extrasolar Unions
+--
+Percent of Human Interalliance space controlled: 17%
+Alliance treasury: 5,858,775,202,874.78 (20.72% of human treasury)
+Interalliance Relations of the AEU Pilot Corps:
+   Non-aggression pact with the EAOS.
+   Non-aggression pact with the League.
+   Non-aggression pact with the Fringe.
+   No diplomatic relations with the Mutuality.
+Owned Sectors:
+   Zion Orbit
+   Bikura Orbit
+   Aenea Orbit
+   Beacon B-19
+   Beacon B-29
+   Beacon B-24
+   The Glittering Belt
+   Hoyt Orbit
+   Hyperion Orbit
+   Endymion Orbit
+   Telex Orbit
+   Cheyanne's Star
+   Providence Gate
+   Dure Orbit
+   Riverway Territories
+   Riverway
+   Frontier Cluster
+   New Earth Orbit
+   Space Station Zeta
+   Omega VIII Orbit
+   The Old Frontier
+--
+n
+You can't go that way.
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+zeta
+Space Station Zeta (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: nothing
+Space Stations: (16, 7, 12)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+[Tactical Communication] Damien Alexander transmits, "Tesla pipe clear."
+bikura
+Invalid selection.
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+bikura
+Bikura Orbit (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (5, 12, 16)
+Space Stations: (3, 19, 17)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+hyperion
+Hyperion Orbit (AEU) [Human Interalliance Space] (Security: Beta-2)
+Coordinate rundown:
+Starships: nothing
+Planets: (14, 15, 11)
+Space Stations: (9, 11, 7)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+chey
+Cheyanne's Star (AEU) [Human Interalliance Space] (Security: Beta-2)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (16, 16, 14)
+Debris: (1, 9, 17)
+[Tactical Communication] Damien Alexander transmits, "Mir cluster clear."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+old frontier
+Invalid selection.
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+old frontier
+The Old Frontier (AEU) [Human Interalliance Space] (Security: Beta-3)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (2, 17, 9)
+Debris: (8, 2, 9), (3, 15, 4), (2, 9, 13), (10, 10, 14), (17, 3, 7), (10, 17, 6), (5, 2, 13), (12, 8, 15), (12, 1, 12), (11, 17, 2), (16, 18, 1), (19, 17, 12), (14, 2, 3), (12, 11, 12), (9, 12, 7), (2, 1,
+20), (13, 18, 9), (7, 12, 18), (5, 13, 5), (2, 11, 14)
+Debris Chunks: (3, 3, 6), (10, 10, 2), (2, 19, 11), (4, 13, 17), (9, 6, 17), (14, 2, 18), (8, 19, 18), (16, 7, 8), (10, 9, 14), (3, 4, 19), (13, 15, 10)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+glittering
+The Glittering Belt (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: nothing
+Space Stations: (5, 10, 15)
+Belt Stations: (12, 5, 7)
+tra tac AEU sectors clear.
+[Tactical Communication] Shule Elemmire transmits, "AEU sectors clear."
+[Tactical Communication] Damien Alexander transmits, "Somebody check Torus?"
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+[Tactical Communication] Alko Delovega transmits, "Checking."
+5
+You make a selection on your terminal.
+You switch the terminal's reports on.
+[Tactical Communication] Alko Delovega transmits, "Clear."
+[Tactical Communication] Damien Alexander transmits, "Thanks, Alko."
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+zion
+Zion Orbit (AEU) [Human Interalliance Space] (Security: Alpha-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (4, 13, 17)
+Space Stations: (18, 17, 15)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+hoyt
+Hoyt Orbit (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Planets: (4, 13, 15)
+Space Stations: (11, 15, 13)
+use terminal
+[Cheyanne's Star] Jump In: EAOS U-5 United Freight d'Intsec Firefly-Class Light Transport "Registered Merchant 578".
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+[Cheyanne's Star] Jump Out: EAOS U-5 United Freight d'Intsec Firefly-Class Light Transport "Registered Merchant 578".
+[Aenea Orbit] Jump In: EAOS U-5 United Freight d'Intsec Firefly-Class Light Transport "Registered Merchant 578".
+riverway
+Riverway (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (9, 17, 7)
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+[Type a line of input or `@abort' to abort the command.]
+riverway terr
+Riverway Territories (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: nothing
+Beacon Housings: (11, 2, 16)
+[Tactical Communication] Lillian Hudson transmits, "Sounds like we're all clear. Thanks for your help, everyone."
+e
+You scramble to your feet.
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+out
+[Tactical Communication] Damien Alexander transmits, "Anybody check Tandem?"
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+[Tactical Communication] Joel Kringle transmits, "Sure thing."
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an early warning space defense device, a personal hoverpallet, a small mystic purple bioplastic crate, and a glossy seashell pink
+ceramic felo chow bowl here.
+You can go out and enter into the ship.
+put alliance in briefcase
+You put an alliance information assistant in a leather briefcase.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a glass top, a small yellow ball containing a realistic Bari horde noisemaker, Meow the little calico CatBot, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and coral rocks, a small white trash bin, a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named Nellie, a
+clear plastic food storage container, a high tech silver star print holovid, Purr the humanoid service robot, an insulated blue cooler, a red plastic food storage container, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise says in a New Earth accent, "Glad we're clear of pods."
+'Me too
+You say, "Me too."
+Lily Kaise says in a New Earth accent, "Concerned about spreaders though."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+[General Communication] Lillian Hudson transmits, "I thought of you, belt management workers. Enjoy your payments."
+[General Communication] Morris Corlew transmits, "Ted, you bringing the aquarium?"
+[General Communication] Ted Warburton transmits, "Emmett has said he'll look after it, and he loves fish, so that means if there are any eggs, he can take them out for me too, but thanks anyway,
+appreciate the offer."
+[General Communication] Morris Corlew transmits, "Yep."
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a blue glowing interior pulsates gently.
+[General Communication] Melinda Michaels transmits, "Lettie is looking after the BAS station if anybody is interested."
+[General Communication] Lillian Hudson transmits, "Morris, did you steal isis?"
+[General Communication] Morris Corlew transmits, "No?"
+[General Communication] Lillian Hudson transmits, "Hm."
+'I didn't see any spreaders when I was looking at the AEU sectors
+You say, "I didn't see any spreaders when I was looking at the AEU sectors."
+[General Communication] Morris Corlew transmits, "When would I have had access to her?"
+[General Communication] Lillian Hudson transmits, "Maybe you deveolped rift butler powers."
+[General Communication] Lillian Hudson transmits, "Developed."
+[General Communication] Morris Corlew laughs.
+[General Communication] Lillian Hudson transmits, "What the hell? Where is she?"
+[General Communication] Melinda Michaels transmits, "You lost Isis?"
+[General Communication] Melinda Michaels transmits, "Do you need me to search your ships or the apartment?"
+[General Communication] Lillian Hudson transmits, "Apparently. I thought she was in the apartment, but I can't find her. I just checked the ships where i've been lately and she's not there either."
+[General Communication] Morris Corlew transmits, "Try the hot tub and the showers."
+cuddle lily
+You cuddle up to Lily Kaise.
+[General Communication] Morris Corlew transmits, "Also check your shoulders..."
+[General Communication] Lillian Hudson transmits, "I'd have noticed if she was on me, silly Morris."
+[General Communication] Morris Corlew transmits, "You never know. Folks walk out of the house not realizing they're naked..."
+[General Communication] Lillian Hudson transmits, "Found her."
+[General Communication] Soraya Rhyz transmits, "Lizard hot tub?"
+[General Communication] Melinda Michaels transmits, "Where was she?"
+[General Communication] Lillian Hudson transmits, "She must have been hiding under the sofa or table or something. She was in he living room."
+[General Communication] Melinda Michaels transmits, "Oh."
+#system say -v alex -r "$review"
+#OK: EXECUTING 'say -v alex -r "[General Communication] Lillian Hudson transmits, "She must have been hiding under the sofa or table or something. She was in he living room.""'
+A long red soft-bodied creature with many claw-tipped tentacles swims around a small plastic statue of a Jinu.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a glass top, a small yellow ball containing a realistic Bari horde noisemaker, Meow the little calico CatBot, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and coral rocks, a small white trash bin, a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named Nellie, a
+clear plastic food storage container, a high tech silver star print holovid, Purr the humanoid service robot, an insulated blue cooler, a red plastic food storage container, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.)
+#read sc.tin

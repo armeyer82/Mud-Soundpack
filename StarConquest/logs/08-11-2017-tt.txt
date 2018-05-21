@@ -1,0 +1,2648 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+                          C  L  A  S  S  I  C
+Official Website: http://www.squidsoft.net
+-----------------------------------------------------------------------
+Star Conquest is a multiplayer role-playing game set in interstellar
+space, as well as on dozens of planets, space stations, and starships.
+Your goal is what you want it to be.  There are many different ways to
+make a living.  And you won't be alone; all your activities take place
+with your choice of three diverse unions as a backdrop.  And when you
+finally work your way up to one of the greatest powers in interstellar
+space, a fourth alliance of certain humans and some alien species may
+begin trying to recruit you.
+-----------------------------------------------------------------------
+Open to the public since 19 December 1998!
+All original work located in this game is copyright (c) SquidSoft.net 1998-2009,
+unauthorised reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+NOTICE: Star Conquest: Classic is offered mainly for the purposes of nostalgia
+and will receive MINIMAL support. Go to Star Conquest at telnet://squidsoft.net:
+7777 for a more active development experience and to play the game as it is
+meant to be!
+The last server reset was at Tue Apr  4 22:33:21 2017 UTC
+Contact us via email at: starconquest@squidsoft.net
+Please log in now.
+If you do not have a SquidSoft.net account and wish to create one, please send a
+web browser here: http://moo.squidsoft.net:3333/
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Rolando Caganda
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Blueberry"; Living Quarters One]
+The scent of wild roses suffuses the atmosphere of the ship, spread from
+somewhere in the heart of the ventilation system.  A standalone starmap viewer
+appears to be installed here.  Lights overhead indicate that the ship is on
+fuchsia status.  Looking through the rose-tinted windows flanked by sheer gold
+curtains, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a wooden wardrobe, a wicker rocking chair, a throw rug, a walnut canopy
+bed with a lavender silk bedsheet, a floral pattern silk bedsheet, a lilac silk
+blanket, and a lavender silk pillow on it, a large storage chest, a storage
+container, a yellow storage locker, a pink mirrored vanity, a shaker chair, a
+cedar dresser, a set of funky asymmetrical shelves, a plaid button down shirt, a
+pair of cotton briefs, a pair of black corduroy jeans, and a large bureau here.
+Lileah Rose (staring into space) is here.
+You can go out.
+(You are lying on a walnut canopy bed.)
+get briefs
+You pick up a pair of cotton briefs.
+put briefs in backpack
+You put a pair of cotton briefs in a backpack.
+Lileah Rose sits down on a walnut canopy bed.
+Lileah Rose kisses you.
+get briefs from briefcase
+I see no "briefs" in a leather briefcase.
+kiss lileah
+You kiss Lileah Rose.
+l briefcase
+You see nothing special.
+It is open.
+Inside it you see a pair of blue jeans, a title of ownership, a copy of "Zion
+1st Edition Complete Guide To Modern Spaceflight Vol. 3: Basic Systems", a copy
+of "Zion 1st Edition Complete Guide To Modern Spaceflight Vol. 2: The Pilot
+League", a title of ownership, a copy of "Zion 1st Edition Complete Guide To
+Modern Spaceflight Vol. 1: Modern Starships", a copy of "Zion 1st Edition
+Complete Guide To Modern Spaceflight Vol. 4: Flight Basics", a copy of "A
+Pilot's Guide To Shopping in the Sixty", a teleoperator card, a portable
+currency converter, a small payment slip, a grey vee-neck shirt, a pair of blue
+corduroy jeans, a pair of blue corduroy jeans, a temporary wormhole drive, and
+some black leather boots.
+Lileah Rose wraps her arms around you.
+kiss lileah
+You kiss Lileah Rose.
+l backpack
+You see nothing special.
+It is open.
+Inside it you see a neon green t-shirt with a black lightning bolt and a pair of
+cotton briefs.
+Lileah Rose kisses you on the lips.
+kiss lileah on lips
+You kiss Lileah Rose on the lips.
+l messengert
+I see no "messengert" here.
+l messenger
+I see no "messenger" here.
+get briefs from backpack
+You remove a pair of cotton briefs from a backpack.
+wear briefs
+You pull a pair of cotton briefs on over your legs.
+get jeans
+You pick up a pair of black corduroy jeans.
+wear jeans
+You pull a pair of black corduroy jeans on over your legs.
+get shirt
+You pick up a plaid button down shirt.
+put shirt in backpack
+You put a plaid button down shirt in a backpack.
+get shirt from backpack
+You remove a plaid button down shirt from a backpack.
+put shirt in backpack
+You put a plaid button down shirt in a backpack.
+Lileah Rose grins at you.
+get gray from briefcase
+I see no "gray" in a leather briefcase.
+get grey from briefcase
+You remove a grey vee-neck shirt from a leather briefcase.
+wear grey
+You pull a grey vee-neck shirt on over your head.
+get boots
+You remove some black leather boots from a leather briefcase.
+wear boots
+You put some black leather boots on your feet.
+Lileah Rose points at a large bureau.
+wrap lileah
+You wrap your arms around Lileah Rose.
+'oh
+You say, "oh"
+Lileah Rose says, "wrap rolan"
+Lileah Rose wraps her arms around you.
+smile lileah
+You smile at Lileah Rose.
+Lileah Rose laughs.
+l bureah
+I see no "bureah" here.
+l bureau
+You see nothing special.
+It is closed.
+Lileah Rose smiles at you.
+open bureau
+You open a large bureau.
+l bureau
+You see nothing special.
+It is open.
+It is empty.
+smile
+You smile.
+Lileah Rose exclaims, "that was heavy Love! I hope it will work for the
+time-being!"
+'Awww, thanks. I could have helped you if I was awake
+You say, "Awww, thanks. I could have helped you if I was awake"
+get jeans from briefcase
+You remove a pair of blue jeans from a leather briefcase.
+Lileah Rose exclaims, "you know me, I'm impatient!"
+Lileah Rose laughs.
+laugh
+You laugh.
+put jeans in bureau
+You'll need to remove a pair of black corduroy jeans first.
+put other jeans in bureau
+You put a pair of blue jeans in a large bureau.
+close bureah
+Close what?
+close bureah
+Close what?
+close bureau
+You close a large bureau.
+cuddle lileah
+You cuddle up to Lileah Rose.
+Lileah Rose cuddles up to you.
+Lileah Rose says, "oh I found some nice spacesuits and"
+Lileah Rose points at a small palm-size shimmering chrome and metallic green
+personal lore computer.
+grin
+You grin.
+Lileah Rose exclaims, "this thing is amazing!"
+'Oh woow!
+You exclaim, "Oh woow!"
+grin
+You grin.
+Lileah Rose asks, "want to go get one for you?"
+Lileah Rose says, "I also put some nice touches on this ship"
+'Sure, are they expensive?
+You ask, "Sure, are they expensive?"
+Lileah Rose points to the starmap viewer
+sm
+The starmap shows only a random collection of pixels, since the ship is not in
+space.
+grin
+You grin.
+'very cool!
+You exclaim, "very cool!"
+'Is that computer thing you got expensive/
+You say, "Is that computer thing you got expensive/"
+Lileah Rose says, "I didn't put them in allof the living quarters. I will
+eventually though"
+girn
+You grin.
+Lileah Rose says, "well don't worry about it but yeah I'd say it's hmm around 75
+Mil but I'll help you get one"
+credits
+You punch a few commands into your personal credit assistant and receive the
+following display:
+Your credit summary:
+307705795.64 AEU credits
+0.00 League credits
+159000.00 Fringe credits
+19752468.20 EAOS credits
+104 Jinu credits
+Total if all credits were converted: 327801779.43 AEU credits
+Lileah Rose says, "you can get rid of the alliance gadget too"
+grin
+You grin.
+'ok, let's go grab one for me.
+You say, "ok, let's go grab one for me."
+Lileah Rose says, "also any books you have you can download them into the book
+viewer"
+grin
+You grin.
+'That's awesome!
+You exclaim, "That's awesome!"
+Lileah Rose says, "yay"
+Lileah Rose stands up.
+stand
+Lileah Rose just went out.
+You stand up.
+out
+[Starship "Blueberry"; Living Quarters Block Alpha]
+You can go north, east, southeast, south, southwest, west, and northwest.
+e
+[Starship "Blueberry"; Corridor Beta]
+u
+You see an internal stun turret here.
+You can go east, west, up, and down.
+[Starship "Blueberry"; Corridor Alpha]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go south, west, up, and down.
+
+
+Lileah Rose just went up.
+u
+[Starship "Blueberry"; Control Room]
+You see an AutoVector navigation unit, an oriental rug, a lavender tapestry
+sectional sofa, a glass coffee table, a small trash can, a Galactic map unit, a
+sector debris scanner, a starship simulator, a Galactic anomaly recording unit,
+a Galactic navigation unit, a silver espresso machine, a planetary system
+surveying unit, a temporary structure launcher, a bottle of fine white wine, a
+bottle of fine white wine, a large beanbag chair, a floor lamp, Higgins the
+droid, Daizey the droid, an advanced FTL drive tracer, and an internal stun
+turret here.
+Lileah Rose is here.
+You can go southwest and down.
+You notice Lileah Rose using the radio to ask for launch clearance.
+Lileah Rose sits down on a lavender tapestry sectional sofa.
+sit sofa
+You sit down on a lavender tapestry sectional sofa.
+A voice comes over the speaker and says, "Blueberry, you have clearance to
+launch.  Good luck and come back to us safe."
+Lileah Rose says, "oh I bet Iknow where i got that dresser"
+Lileah Rose presses a button and brings up the FTL flight control board.
+Lileah Rose presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Ameliorate Space Center
+(Dock Alpha).
+sm
+Sector 16: Empty Space (AEU) [Human Interalliance Space]
+Current coordinates: (12, 5, 6)
+You notice Lileah Rose using the radio to ask for docking clearance.
+A voice comes over the speaker and says, "AEU starship Blueberry, you are
+cleared to land."
+Lileah Rose stands up.
+stand
+You stand up.
+join lileah
+Lileah Rose holds your hand, taking you into her group.
+You're already a member of Lileah Rose's group.
+Lileah Rose exclaims, "aha!"
+Lileah Rose exclaims, "I have mail!"
+Lileah Rose giggles quietly.
+grin
+You grin.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Alpha]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go south, west, up, and down.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Beta]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go east, west, up, and down.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Gamma]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go north, northeast, south, up, and down.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Airlock]
+You see a spherical security drone, a shiny blue medical drone, and an internal
+stun turret here.
+Lileah Rose is here.
+You can go out and into the ship.
+You follow Lileah Rose out of the ship.
+[Ameliorate Space Center; Docking Corridor Alpha]
+The one-person cargo hauler "Flaiming Rocket" and the eight-person journeyer
+"Blueberry" are docked here.
+You see a small reflective station security dome and Olesia the droid here.
+Lileah Rose is here.
+You can go north and down.
+You follow Lileah Rose north.
+[Ameliorate Space Center; Flight Deck]
+Lileah Rose is here.
+You can go north, east, south, west, up, and down.
+You follow Lileah Rose up.
+[Ameliorate Space Center; Access Corridor]
+Lileah Rose is here.
+You can go up and down.
+You follow Lileah Rose up.
+[Ameliorate Space Center; Main Deck; Access Point]
+You see a small reflective station security dome, a small station trash can, and
+an automatic teller machine here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+You follow Lileah Rose west.
+[Ameliorate Space Center; Main Deck; Outside Zion Publishing Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck; Outside Zion Publishing Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose west.
+[Ameliorate Space Center; Main Deck; Outside Starship Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck; Outside LoreTech Industries Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+Lileah Rose grins.
+grin
+You grin.
+You follow Lileah Rose into Ameliorate Space Center; LoreTech Industries Kiosk.
+[Ameliorate Space Center; LoreTech Industries Kiosk]
+You see a used equipment disposal bin and an informational sign here.
+Lileah Rose is here.
+You can go out.
+list
+    ~|~  LoreTech Industries, Inc.  ~|~
+Standard Computers
+    [1] Black                               20000000.00
+    [2] Indigo                              20000000.00
+    [3] Yellow                              20000000.00
+    [4] Blue                                20000000.00
+Alliance Models
+    [5] AEU                                 20000000.00
+    [6] Fringe                              20000000.00
+    [7] League                              20000000.00
+Expansion Hardware
+    [8] TransLink Hardware                  5000000.00
+    [9] Biometric Hardware                  5000000.00
+    [10] Printer Hardware                   30000000.00
+    [11] OCR Hardware                       5000000.00
+    [12] Speech Hardware                    5000000.00
+Add-on Applications
+    [13] Calculator                         200000.00
+    [14] Unit Converter                     200000.00
+    [15] Scratch Pad                        200000.00
+    [16] Zion eBook Reader                  1000000.00
+    [17] Zion eVideo Player                 1000000.00
+    [18] Alliance Assistant                 2000000.00
+    [19] Lore Tracker                       20000000.00
+Services
+    [20] Data Migration                     500000.00
+Lileah Rose gives you 100000000.00 AEU credits.
+Lileah Rose says, "get everything you need"
+Lileah Rose says, "I got the works but i didn't buy the speech card"
+buy 4
+You order a small palm-size metallic blue personal lore computer.
+wear computer
+You put on a small palm-size metallic blue personal lore computer.
+grin
+You grin.
+list
+    ~|~  LoreTech Industries, Inc.  ~|~
+Standard Computers
+    [1] Black                               20000000.00
+    [2] Indigo                              20000000.00
+    [3] Yellow                              20000000.00
+    [4] Blue                                20000000.00
+Alliance Models
+    [5] AEU                                 20000000.00
+    [6] Fringe                              20000000.00
+    [7] League                              20000000.00
+Expansion Hardware
+    [8] TransLink Hardware                  5000000.00
+    [9] Biometric Hardware                  5000000.00
+    [10] Printer Hardware                   30000000.00
+    [11] OCR Hardware                       5000000.00
+    [12] Speech Hardware                    5000000.00
+Add-on Applications
+    [13] Calculator                         200000.00
+    [14] Unit Converter                     200000.00
+    [15] Scratch Pad                        200000.00
+    [16] Zion eBook Reader                  1000000.00
+    [17] Zion eVideo Player                 1000000.00
+    [18] Alliance Assistant                 2000000.00
+    [19] Lore Tracker                       20000000.00
+Services
+    [20] Data Migration                     500000.00
+buy 8
+You order a thin LoreTech TransLink expansion card.
+load card
+You carefully insert a thin LoreTech TransLink expansion card into an available
+expansion slot on a small palm-size metallic blue personal lore computer and
+firmly slide it into place.
+list
+    ~|~  LoreTech Industries, Inc.  ~|~
+Standard Computers
+    [1] Black                               20000000.00
+    [2] Indigo                              20000000.00
+    [3] Yellow                              20000000.00
+    [4] Blue                                20000000.00
+Alliance Models
+    [5] AEU                                 20000000.00
+    [6] Fringe                              20000000.00
+    [7] League                              20000000.00
+Expansion Hardware
+    [8] TransLink Hardware                  5000000.00
+    [9] Biometric Hardware                  5000000.00
+    [10] Printer Hardware                   30000000.00
+    [11] OCR Hardware                       5000000.00
+    [12] Speech Hardware                    5000000.00
+Add-on Applications
+    [13] Calculator                         200000.00
+    [14] Unit Converter                     200000.00
+    [15] Scratch Pad                        200000.00
+    [16] Zion eBook Reader                  1000000.00
+    [17] Zion eVideo Player                 1000000.00
+    [18] Alliance Assistant                 2000000.00
+    [19] Lore Tracker                       20000000.00
+Services
+    [20] Data Migration                     500000.00
+buy 9
+You order a thin LoreTech biometric expansion card.
+load card
+You carefully insert a thin LoreTech biometric expansion card into an available
+expansion slot on a small palm-size metallic blue personal lore computer and
+firmly slide it into place.
+buy 10
+You order a thin LoreTech printer expansion card.
+load card
+You carefully insert a thin LoreTech printer expansion card into an available
+expansion slot on a small palm-size metallic blue personal lore computer and
+firmly slide it into place.
+buy 11
+You order a thin LoreTech OCR scanner expansion card.
+load card
+You carefully insert a thin LoreTech OCR scanner expansion card into an
+available expansion slot on a small palm-size metallic blue personal lore
+computer and firmly slide it into place.
+list
+    ~|~  LoreTech Industries, Inc.  ~|~
+Standard Computers
+    [1] Black                               20000000.00
+    [2] Indigo                              20000000.00
+    [3] Yellow                              20000000.00
+    [4] Blue                                20000000.00
+Alliance Models
+    [5] AEU                                 20000000.00
+    [6] Fringe                              20000000.00
+    [7] League                              20000000.00
+Expansion Hardware
+    [8] TransLink Hardware                  5000000.00
+    [9] Biometric Hardware                  5000000.00
+    [10] Printer Hardware                   30000000.00
+    [11] OCR Hardware                       5000000.00
+    [12] Speech Hardware                    5000000.00
+Add-on Applications
+    [13] Calculator                         200000.00
+    [14] Unit Converter                     200000.00
+    [15] Scratch Pad                        200000.00
+    [16] Zion eBook Reader                  1000000.00
+    [17] Zion eVideo Player                 1000000.00
+    [18] Alliance Assistant                 2000000.00
+    [19] Lore Tracker                       20000000.00
+Services
+    [20] Data Migration                     500000.00
+buy 13
+You order Calculator.
+The software is helpfully loaded onto a small palm-size metallic blue personal
+lore computer for you by a customer service technician.
+buy 14
+You order Unit Converter.
+The software is helpfully loaded onto a small palm-size metallic blue personal
+lore computer for you by a customer service technician.
+buy 15
+You order Scratch Pad.
+The software is helpfully loaded onto a small palm-size metallic blue personal
+lore computer for you by a customer service technician.
+buy 16
+You order Zion eBook Reader.
+The software is helpfully loaded onto a small palm-size metallic blue personal
+lore computer for you by a customer service technician.
+buy 17
+You order Zion eVideo Player.
+The software is helpfully loaded onto a small palm-size metallic blue personal
+lore computer for you by a customer service technician.
+buy 18
+You order Alliance Assistant.
+The software is helpfully loaded onto a small palm-size metallic blue personal
+lore computer for you by a customer service technician.
+buy 19
+You order Lore Tracker.
+The software is helpfully loaded onto a small palm-size metallic blue personal
+lore computer for you by a customer service technician.
+'ok
+You say, "ok"
+use lore
+LoreTech Personal Lore Computer - [Main Menu]
+[1] Device Options
+[2] File Management
+[3] OCR
+[4] Lore Sundial
+[5] End Session
+[6] Calculator
+[7] Unit Converter
+[8] Scratch Pad
+[9] Zion Book Reader
+[10] Zion Video Player
+[11] Alliance Assistant
+[12] Lore Tracker
+Enter your selection:
+1
+LoreTech Personal Lore Computer - [Device Options]
+[1] Device ID Tag (not set)
+[2] Device Interface (Using 1st interface)
+[3] Biometric Identities (1 recognized)
+[4] Delete All Files
+[5] Cancel
+Enter your selection:
+Lileah Rose says, "no get all the software"
+1
+Enter new ID tag for this Lore(tm) device: (3 to 30 characters)
+Rolando
+New ID tag set.
+'I did
+You say, "I did"
+Lileah Rose asks, "and you probably want the printer in case you need to leave
+me a note?"
+list
+    ~|~  LoreTech Industries, Inc.  ~|~
+Standard Computers
+    [1] Black                               20000000.00
+    [2] Indigo                              20000000.00
+    [3] Yellow                              20000000.00
+    [4] Blue                                20000000.00
+Alliance Models
+    [5] AEU                                 20000000.00
+    [6] Fringe                              20000000.00
+    [7] League                              20000000.00
+Expansion Hardware
+    [8] TransLink Hardware                  5000000.00
+    [9] Biometric Hardware                  5000000.00
+    [10] Printer Hardware                   30000000.00
+    [11] OCR Hardware                       5000000.00
+    [12] Speech Hardware                    5000000.00
+Add-on Applications
+    [13] Calculator                         200000.00
+    [14] Unit Converter                     200000.00
+    [15] Scratch Pad                        200000.00
+    [16] Zion eBook Reader                  1000000.00
+    [17] Zion eVideo Player                 1000000.00
+    [18] Alliance Assistant                 2000000.00
+    [19] Lore Tracker                       20000000.00
+Services
+    [20] Data Migration                     500000.00
+l lore
+This small and surprisingly hefty handheld computer device sports a compact
+brightly-lit touch-screen display and an on-demand virtual input keypad.  The
+stylistic open book logo of LoreTech Industries, Inc. edifies the metallic
+backing of the device.  A thin LoreTech TransLink expansion card, a thin
+LoreTech biometric expansion card, a thin LoreTech printer expansion card, and a
+thin LoreTech OCR scanner expansion card occupy four expansion slots on the
+device.  It has zero hardware expansion slots remaining.
+list
+    ~|~  LoreTech Industries, Inc.  ~|~
+Standard Computers
+    [1] Black                               20000000.00
+    [2] Indigo                              20000000.00
+    [3] Yellow                              20000000.00
+    [4] Blue                                20000000.00
+Alliance Models
+    [5] AEU                                 20000000.00
+    [6] Fringe                              20000000.00
+    [7] League                              20000000.00
+Expansion Hardware
+    [8] TransLink Hardware                  5000000.00
+    [9] Biometric Hardware                  5000000.00
+    [10] Printer Hardware                   30000000.00
+    [11] OCR Hardware                       5000000.00
+    [12] Speech Hardware                    5000000.00
+Add-on Applications
+    [13] Calculator                         200000.00
+    [14] Unit Converter                     200000.00
+    [15] Scratch Pad                        200000.00
+    [16] Zion eBook Reader                  1000000.00
+    [17] Zion eVideo Player                 1000000.00
+    [18] Alliance Assistant                 2000000.00
+    [19] Lore Tracker                       20000000.00
+Services
+    [20] Data Migration                     500000.00
+n
+You can't go that way.
+'I got the printer one
+You say, "I got the printer one"
+Lileah Rose says, "ohoh"
+track
+Lileah Rose says, "my id is rose"
+I don't understand that.
+'Mine is rolando
+You say, "Mine is rolando"
+Lileah Rose says, "ok"
+use lore
+LoreTech Personal Lore Computer - [Main Menu]
+[1] Device Options
+[2] File Management
+[3] OCR
+[4] Lore Sundial
+[5] End Session
+[6] Calculator
+[7] Unit Converter
+[8] Scratch Pad
+[9] Zion Book Reader
+[10] Zion Video Player
+[11] Alliance Assistant
+[12] Lore Tracker
+Enter your selection:
+Lileah Rose makes a selection on the brightly-lit display of a small palm-size
+shimmering chrome and metallic green personal lore computer.
+12
+LoreTech Personal Lore Computer - [Lore Tracker]
+[1] Add new Lore ID to allowed trackers
+[2] Remove Lore ID from allowed trackers
+[3] Track
+[4] Cancel
+Enter your selection:
+1
+Enter Lore ID tag of device you wish to allow to track this unit:
+rose
+Lore device ID "rose" is now allowed to track this unit.
+lore
+I don't understand that.
+use lore
+LoreTech Personal Lore Computer - [Main Menu]
+[1] Device Options
+[2] File Management
+[3] OCR
+[4] Lore Sundial
+[5] End Session
+[6] Calculator
+[7] Unit Converter
+[8] Scratch Pad
+[9] Zion Book Reader
+[10] Zion Video Player
+[11] Alliance Assistant
+[12] Lore Tracker
+Enter your selection:
+12
+LoreTech Personal Lore Computer - [Lore Tracker]
+[1] Add new Lore ID to allowed trackers
+[2] Remove Lore ID from allowed trackers
+[3] Track
+[4] Cancel
+Enter your selection:
+Lileah Rose says, "I have this filing computer but I really don't need it
+anymore"
+3
+Enter Lore ID tag of device you wish to track:
+rose
+Via the TransLink network, the LoreTech device "rose" reports current location
+pinpointed at Ameliorate Space Center.
+Lileah Rose says, "will hold onto it though just in case."
+nod 
+You nod.
+grin
+You grin.
+Lileah Rose asks, "ready?"
+nod
+You nod.
+Lileah Rose says, "ok will show you a couple more tkiosks"
+You follow Lileah Rose out.
+[Ameliorate Space Center; Main Deck; Outside LoreTech Industries Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+grin
+You grin.
+You follow Lileah Rose west.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, and southeast.
+You follow Lileah Rose east.
+[Ameliorate Space Center; Main Deck; Outside LoreTech Industries Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck; Outside Licensing Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, and northwest.
+You follow Lileah Rose east.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, and northwest.
+Lileah Rose says, "ok it's easy to get a little turned around up here heh"
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+grin
+You grin.
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose west.
+[Ameliorate Space Center; Main Deck; Outside LoreTech Industries Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+You follow Lileah Rose west.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, and southeast.
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck; Outside Astral Accents Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, and south.
+[General Communication] A Jinu transmits, "Yuuijuminlakiltra ss bruyo jukl human
+wuharel oh 'thirty minutes.'"
+Lileah Rose says, "so this is where you get all of those cool effects for a
+ship"
+l
+[Ameliorate Space Center; Main Deck; Outside Astral Accents Kiosk]
+The main deck of the Ameliorate Space Center is constructed in the style of a
+massive open air bazaar with kiosks scattered across the open floor rather than
+enclosed structures or rooms. The entire deck is built within a massive
+transparisteel bubble in the heart of the space station, suspended in the midst
+of clear deep blue water supporting an amazing coral reef habitat. The domed
+roof and arching walls curve seamlessly into the transparent floor, lending a
+feeling of total submersion to visitors. A bewildering variety of fish,
+crustaceans and cephalopods immerse themselves in a dazzling array of ocean
+flora while the sleek and fleeting forms of sharks glide through the expanses of
+open water around you. The deck appears to be lit by brilliant light globes in
+the outer skin of the station which results in rippling blue light flooding the
+enclosure. A variety of potted ferns and flowering plants bathed beneath small
+individual sun lamps are scattered around the deck creating clear islands of
+light. Park-style benches can also be spotted around the deck.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, and south.
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go northeast, east, southeast, and south.
+You follow Lileah Rose east.
+[Ameliorate Space Center; Main Deck]
+You see a sanitation drone here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, and west.
+girn
+A sanitation drone turns and slowly plods south.
+You grin.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck; Outside Starship Kiosk]
+You see a sanitation drone here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+A sanitation drone pulls out a cloth and a container of some liquid, then
+spritzes and wipes seemingly random surfaces.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck; Outside LoreTech Industries Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck; Outside Licensing Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, and northwest.
+You follow Lileah Rose east.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, and northwest.
+You follow Lileah Rose east.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, west, and northwest.
+Lileah Rose says, "darn"
+Lileah Rose says, "trying to find the cool aEU one"
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck; Outside AEU Pride Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+Lileah Rose exclaims, "aha!"
+grin
+You grin.
+You follow Lileah Rose into Ameliorate Space Center; AEU Pride Kiosk.
+[Ameliorate Space Center; AEU Pride Kiosk]
+Lileah Rose is here.
+You can go out.
+list
+    ~|~  AEU Pride  ~|~
+Spacesuit
+    [1] Helmet                              3000000.00
+    [2] Top                                 4000000.00
+    [3] Bottom                              4000000.00
+    [4] Gloves                              2000000.00
+    [5] Boots                               2000000.00
+Containers
+    [6] Messenger Bag                       500000.00
+    [7] Purse                               500000.00
+Clothing
+    [8] Baseball Cap                        200000.00
+    [9] Cowboy Hat                          200000.00
+    [10] T-shirt                            200000.00
+    [11] Polo Shirt                         200000.00
+Accessories
+    [12] Watch                              100000.00
+    [13] Pennant                            50000.00
+    [14] Belt                               50000.00
+'Very cool!
+You exclaim, "Very cool!"
+Lileah Rose says, "yep but there's other spacesuits besides these"
+smile
+You smile.
+Lileah Rose says, "I use the watch form here for awhile until I got my comm
+watch"
+Lileah Rose grins.
+You follow Lileah Rose out.
+'Ah, ok
+[Ameliorate Space Center; Main Deck; Outside AEU Pride Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You say, "Ah, ok"
+grin
+You grin.
+A sanitation drone lumbers into the area.
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck; Outside Interstellar Pawn Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose east.
+[Ameliorate Space Center; Main Deck; Outside Secure Corridor]
+You see a small reflective station security dome here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose west.
+[Ameliorate Space Center; Main Deck; Outside Interstellar Pawn Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose west.
+[Ameliorate Space Center; Main Deck]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose north.
+[Ameliorate Space Center; Main Deck; Outside Zion Publishing Kiosk]
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and
+northwest.
+You follow Lileah Rose east.
+[Ameliorate Space Center; Main Deck; Access Point]
+You see a small reflective station security dome, a small station trash can, and
+an automatic teller machine here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+You follow Lileah Rose down.
+[Ameliorate Space Center; Access Corridor]
+Lileah Rose is here.
+You can go up and down.
+You follow Lileah Rose down.
+[Ameliorate Space Center; Flight Deck]
+Lileah Rose is here.
+You can go north, east, south, west, up, and down.
+You follow Lileah Rose south.
+[Ameliorate Space Center; Docking Corridor Alpha]
+The one-person cargo hauler "Flaiming Rocket" and the eight-person journeyer
+"Blueberry" are docked here.
+You see a small reflective station security dome and Olesia the droid here.
+Lileah Rose is here.
+You can go north and down.
+Some lights on the eight-person journeyer "Blueberry" suddenly flash several
+times.
+You follow Lileah Rose aboard the eight-person journeyer "Blueberry".
+[Starship "Blueberry"; Airlock]
+You see a spherical security drone, a shiny blue medical drone, and an internal
+stun turret here.
+Lileah Rose is here.
+You can go out and into the ship.
+You follow Lileah Rose into the ship.
+[Starship "Blueberry"; Corridor Gamma]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go north, northeast, south, up, and down.
+You follow Lileah Rose up.
+[Starship "Blueberry"; Corridor Beta]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go east, west, up, and down.
+Lileah Rose says to you, "heh nobody will get away with stealing this ship very
+easily"
+Lileah Rose grins.
+girn
+You grin.
+You follow Lileah Rose up.
+[Starship "Blueberry"; Corridor Alpha]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go south, west, up, and down.
+'I see that
+You say, "I see that"
+You follow Lileah Rose up.
+[Starship "Blueberry"; Control Room]
+You see an AutoVector navigation unit, an oriental rug, a lavender tapestry
+sectional sofa, a glass coffee table, a small trash can, a Galactic map unit, a
+sector debris scanner, a starship simulator, a Galactic anomaly recording unit,
+a Galactic navigation unit, a silver espresso machine, a planetary system
+surveying unit, a temporary structure launcher, a bottle of fine white wine, a
+bottle of fine white wine, a large beanbag chair, a floor lamp, Higgins the
+droid, Daizey the droid, an advanced FTL drive tracer, and an internal stun
+turret here.
+Lileah Rose is here.
+You can go southwest and down.
+Lileah Rose sits down on a lavender tapestry sectional sofa.
+You notice Lileah Rose using the radio to ask for launch clearance.
+sit sofa
+You sit down on a lavender tapestry sectional sofa.
+A voice comes over the speaker and says, "Blueberry, you have clearance to
+undock.  Good luck and come back to us safe."
+Lileah Rose presses a button and brings up the FTL flight control board.
+-lileah So, can I send you sexy notes or love letters via the lore computers?
+You say to Lileah Rose, "So, can I send you sexy notes or love letters via the
+lore computers?"
+Lileah Rose says to you, "I trust you but I'm glad I can know where you are if
+you need my help"
+grin
+You grin.
+Lileah Rose kisses you.
+Lileah Rose presses a button and brings up the starship's navigation controls.
+kiss lileah
+You kiss Lileah Rose.
+A destination appears on the ship's navigation controls: Telex.
+-lileah So, can I send you sexy notes or love letters via the lore computers?
+You say to Lileah Rose, "So, can I send you sexy notes or love letters via the
+lore computers?"
+You notice Lileah Rose using the radio to ask for landing clearance.
+A voice comes over the speaker and says, "Hello, Blueberry.  We read your AEU
+transponder.  You are cleared to land."
+Lileah Rose says to you, "sure! why not?"
+Lileah Rose giggles quietly.
+Lileah Rose stands up.
+grin
+You grin.
+stand
+You stand up.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Alpha]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go south, west, up, and down.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Beta]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go east, west, up, and down.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Gamma]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go north, northeast, south, up, and down.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Airlock]
+You see a spherical security drone, a shiny blue medical drone, and an internal
+stun turret here.
+Lileah Rose is here.
+You can go out and into the ship.
+You follow Lileah Rose out of the ship.
+[Telex; Spaceport Landing Pad]
+The one-person skimmer "Infinity Communications 591", the one-person supply
+shuttle "Infinity Communications 307", the one-person skimmer "Infinity
+Communications 296", the one-person supply shuttle "Infinity Communications
+586", the one-person flitter "Disposable", the one-person supply shuttle
+"Infinity Communications 664", the two-person asteroid hauler "PrepH", the
+one-person skimmer "Infinity Communications 122", the one-person cargo hauler
+"It's Aliiiiive", the two-person arrow "Going, Going, Gone", the one-person
+cargo hauler "What", the four-person surveyer "Skimming Around", the one-person
+flitter "Blast Off!", and the eight-person journeyer "Blueberry" are landed
+here.
+Lileah Rose is here.
+You can go down.
+You follow Lileah Rose down.
+[Telex; Spaceport Hub]
+You see a large green sign, a trash can, and an automatic teller machine here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and up.
+You follow Lileah Rose up.
+[Telex; Spaceport Landing Pad]
+The one-person skimmer "Infinity Communications 591", the one-person supply
+shuttle "Infinity Communications 307", the one-person skimmer "Infinity
+Communications 296", the one-person supply shuttle "Infinity Communications
+586", the one-person flitter "Disposable", the one-person supply shuttle
+"Infinity Communications 664", the two-person asteroid hauler "PrepH", the
+one-person skimmer "Infinity Communications 122", the one-person cargo hauler
+"It's Aliiiiive", the two-person arrow "Going, Going, Gone", the one-person
+cargo hauler "What", the four-person surveyer "Skimming Around", the one-person
+flitter "Blast Off!", and the eight-person journeyer "Blueberry" are landed
+here.
+Lileah Rose is here.
+You can go down.
+You follow Lileah Rose down.
+[Telex; Spaceport Hub]
+You see a large green sign, a trash can, and an automatic teller machine here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and up.
+You follow Lileah Rose south.
+[Telex; Spaceport South]
+You see a trash can here.
+Lileah Rose is here.
+You can go north, northeast, east, and northwest.
+You follow Lileah Rose east.
+[Telex; Fashionable Spacewalker]
+You see a stylish trash bin here.
+Lileah Rose is here.
+You can go west.
+list
+    ~|~  Fashionable Spacewalker  ~|~
+    [1] Spacesuit Helmet                   
+    [2] Spacesuit Top                      
+    [3] Spacesuit Bottom                   
+    [4] Spacesuit Boots                    
+    [5] Spacesuit Gloves                   
+    [6] Complete Spacesuit                 
+    [7] Flightbag                          
+Lileah Rose says, "look"
+Lileah Rose grins.
+: looks around
+Rolando Caganda  looks around
+grin
+You grin.
+Lileah Rose laughs at you.
+buy 1
+Please choose a design option:
+[1] Standard White
+[2] Standard Black
+[3] Special-Edition EAOS
+[4] Special-Edition AEU
+[5] Special-Edition League
+[6] Special-Edition Fringe
+[7] Icy the Snowfish
+[8] Celestial
+[9] Custom Design
+Enter your selection:
+n
+Invalid selection.
+'Very nice!
+You exclaim, "Very nice!"
+'I think I'll get rid of my plain one.
+You say, "I think I'll get rid of my plain one."
+remove bag
+You remove a standard starship flightbag.
+l
+[Telex; Fashionable Spacewalker]
+This upscale shop at the south end of the spaceport proper sells a wide variety
+of spacesuit gear. A number of special edition alliance spacesuits are folded in
+racks, along with several set up on mannequins for display purposes. Several
+special design spacesuits are also available, as well as several machines and
+employees standing by to create truly unique designs at your request. A clerk
+beckons you to a menu to make your purchase.
+You see a stylish trash bin here.
+Lileah Rose is here.
+You can go west.
+put bag in briefcase
+You put a standard starship flightbag in a leather briefcase.
+list
+    ~|~  Fashionable Spacewalker  ~|~
+    [1] Spacesuit Helmet                   
+    [2] Spacesuit Top                      
+    [3] Spacesuit Bottom                   
+    [4] Spacesuit Boots                    
+    [5] Spacesuit Gloves                   
+    [6] Complete Spacesuit                 
+    [7] Flightbag                          
+Lileah Rose orders a flightbag.
+buy 7
+Please choose a design option:
+[1] Standard White
+[2] Standard Black
+[3] Special-Edition EAOS
+[4] Special-Edition AEU
+[5] Special-Edition League
+[6] Special-Edition Fringe
+[7] Icy the Snowfish
+[8] Celestial
+[9] Custom Design
+Enter your selection:
+Lileah Rose removes a standard starship flightbag.
+9
+*** Entering Custom Spacesuit Design Interface ***
+This design interface will be in two phases. For the first phase, you need to
+choose an appropriate description that fits into these slots:
+  a <description> flightbag
+The leading 'a' will be replaced by 'an' if appopriate for your description. In
+phase two you will be given an opportunity to add an additional description to
+appear at the end if you wish. IMPORTANT NOTE: Please pay very careful attention
+to spelling and capitalization. All the words in your description should be
+lowercase unless they are acronyms or proper names.
+Please enter the description now:
+@abort
+>> Command Aborted <<
+menu
+    ~|~  Fashionable Spacewalker  ~|~
+    [1] Spacesuit Helmet                   
+    [2] Spacesuit Top                      
+    [3] Spacesuit Bottom                   
+    [4] Spacesuit Boots                    
+    [5] Spacesuit Gloves                   
+    [6] Complete Spacesuit                 
+    [7] Flightbag                          
+7
+Lileah Rose says, "hmm le'open flight"
+I don't understand that.
+buy 7
+Please choose a design option:
+[1] Standard White
+[2] Standard Black
+[3] Special-Edition EAOS
+[4] Special-Edition AEU
+[5] Special-Edition League
+[6] Special-Edition Fringe
+[7] Icy the Snowfish
+[8] Celestial
+[9] Custom Design
+Enter your selection:
+9
+*** Entering Custom Spacesuit Design Interface ***
+This design interface will be in two phases. For the first phase, you need to
+choose an appropriate description that fits into these slots:
+  a <description> flightbag
+The leading 'a' will be replaced by 'an' if appopriate for your description. In
+phase two you will be given an opportunity to add an additional description to
+appear at the end if you wish. IMPORTANT NOTE: Please pay very careful attention
+to spelling and capitalization. All the words in your description should be
+lowercase unless they are acronyms or proper names.
+Please enter the description now:
+Lileah Rose opens a vivid diffuse black flightbag with shimmering color auras
+around fantastically reproduced Messier objects.
+red
+Very good! For phase two please enter a description that fits appropriately into
+the following slots:
+  a red flightbag <description>
+This phase is optional, you may leave it blank if you wish! IMPORTANT NOTE: As
+with phase one, please pay very careful attention to spelling and
+capitalization. All the words in your description should be lowercase unless
+they are acronyms or proper names.
+Please enter the description now:
+Lileah Rose puts on a vivid diffuse black flightbag with shimmering color auras
+around fantastically reproduced Messier objects.
+@abort
+>> Command Aborted <<
+Lileah Rose removes the elements of her spacesuit and folds them neatly into a
+vivid diffuse black flightbag with shimmering color auras around fantastically
+reproduced Messier objects.
+buy 7
+Please choose a design option:
+[1] Standard White
+[2] Standard Black
+[3] Special-Edition EAOS
+[4] Special-Edition AEU
+[5] Special-Edition League
+[6] Special-Edition Fringe
+[7] Icy the Snowfish
+[8] Celestial
+[9] Custom Design
+Enter your selection:
+Lileah Rose says, "woo"
+9
+*** Entering Custom Spacesuit Design Interface ***
+This design interface will be in two phases. For the first phase, you need to
+choose an appropriate description that fits into these slots:
+  a <description> flightbag
+The leading 'a' will be replaced by 'an' if appopriate for your description. In
+phase two you will be given an opportunity to add an additional description to
+appear at the end if you wish. IMPORTANT NOTE: Please pay very careful attention
+to spelling and capitalization. All the words in your description should be
+lowercase unless they are acronyms or proper names.
+Please enter the description now:
+red
+Very good! For phase two please enter a description that fits appropriately into
+the following slots:
+  a red flightbag <description>
+This phase is optional, you may leave it blank if you wish! IMPORTANT NOTE: As
+with phase one, please pay very careful attention to spelling and
+capitalization. All the words in your description should be lowercase unless
+they are acronyms or proper names.
+Please enter the description now:
+Lileah Rose puts a standard starship flightbag in a stylish trash bin.
+Lileah Rose says, "oops"
+Lileah Rose laughs.
+Lileah Rose says, "well uh"
+@abort
+>> Command Aborted <<
+Lileah Rose says, "I think I messed up1"
+'oops
+Lileah Rose laughs.
+You say, "oops"
+buy 9
+Sorry, the menu doesn't have a number 9.
+buy 9
+Sorry, the menu doesn't have a number 9.
+list
+    ~|~  Fashionable Spacewalker  ~|~
+    [1] Spacesuit Helmet                   
+    [2] Spacesuit Top                      
+    [3] Spacesuit Bottom                   
+    [4] Spacesuit Boots                    
+    [5] Spacesuit Gloves                   
+    [6] Complete Spacesuit                 
+    [7] Flightbag                          
+buy 7
+Please choose a design option:
+[1] Standard White
+[2] Standard Black
+[3] Special-Edition EAOS
+[4] Special-Edition AEU
+[5] Special-Edition League
+[6] Special-Edition Fringe
+[7] Icy the Snowfish
+[8] Celestial
+[9] Custom Design
+Enter your selection:
+9
+*** Entering Custom Spacesuit Design Interface ***
+This design interface will be in two phases. For the first phase, you need to
+choose an appropriate description that fits into these slots:
+  a <description> flightbag
+The leading 'a' will be replaced by 'an' if appopriate for your description. In
+phase two you will be given an opportunity to add an additional description to
+appear at the end if you wish. IMPORTANT NOTE: Please pay very careful attention
+to spelling and capitalization. All the words in your description should be
+lowercase unless they are acronyms or proper names.
+Please enter the description now:
+Lileah Rose says, "at least I didn't lose the navaid and jet"
+black
+Very good! For phase two please enter a description that fits appropriately into
+the following slots:
+  a black flightbag <description>
+This phase is optional, you may leave it blank if you wish! IMPORTANT NOTE: As
+with phase one, please pay very careful attention to spelling and
+capitalization. All the words in your description should be lowercase unless
+they are acronyms or proper names.
+Please enter the description now:
+with a red shooring star on it
+This purchase will cost 4000000.00 AEU credits.
+Continue? [Enter `yes' or `no']
+y
+You order a flightbag.
+Lileah Rose orders a complete spacesuit.
+i
+For a top, you are wearing a grey vee-neck shirt.  For a bottom, you are wearing
+a pair of black corduroy jeans over a pair of cotton briefs.  You have on some
+black leather boots.  You are also wearing a backpack, a leather briefcase, a
+metafrequency FTL transmitter, a metachannel FTL communicator and watch, an
+asteroid hauling supply kit, a strawberry ring pop, a stun power cartridge
+storage container, a concealed hip holster, a pair of plain white spacesuit
+gloves, and a small palm-size metallic blue personal lore computer.
+You are carrying a black flightbag with a red shooring star on it in your right
+hand.
+'oops
+You say, "oops"
+Lileah Rose opens a white cardboard box.
+put bag in trash
+You don't have a standard starship flightbag.
+l flight
+It is currently switched off.
+l bag
+Look at what?
+l bag
+Look at what?
+i
+For a top, you are wearing a grey vee-neck shirt.  For a bottom, you are wearing
+a pair of black corduroy jeans over a pair of cotton briefs.  You have on some
+black leather boots.  You are also wearing a backpack, a leather briefcase, a
+metafrequency FTL transmitter, a metachannel FTL communicator and watch, an
+asteroid hauling supply kit, a strawberry ring pop, a stun power cartridge
+storage container, a concealed hip holster, a pair of plain white spacesuit
+gloves, and a small palm-size metallic blue personal lore computer.
+You are carrying a black flightbag with a red shooring star on it in your right
+hand.
+Lileah Rose says, "oh that is beautiful"
+l flight bag
+I see no "flight bag" here.
+l flightbag
+You see nothing special.
+It is closed.
+Lileah Rose removes a vivid diffuse black flightbag with shimmering color auras
+around fantastically reproduced Messier objects.
+put flightbag in trash
+You put a black flightbag with a red shooring star on it in a stylish trash bin.
+buy 7
+Please choose a design option:
+[1] Standard White
+[2] Standard Black
+[3] Special-Edition EAOS
+[4] Special-Edition AEU
+[5] Special-Edition League
+[6] Special-Edition Fringe
+[7] Icy the Snowfish
+[8] Celestial
+[9] Custom Design
+Enter your selection:
+9
+*** Entering Custom Spacesuit Design Interface ***
+This design interface will be in two phases. For the first phase, you need to
+choose an appropriate description that fits into these slots:
+  a <description> flightbag
+The leading 'a' will be replaced by 'an' if appopriate for your description. In
+phase two you will be given an opportunity to add an additional description to
+appear at the end if you wish. IMPORTANT NOTE: Please pay very careful attention
+to spelling and capitalization. All the words in your description should be
+lowercase unless they are acronyms or proper names.
+Please enter the description now:
+black
+Very good! For phase two please enter a description that fits appropriately into
+the following slots:
+  a black flightbag <description>
+This phase is optional, you may leave it blank if you wish! IMPORTANT NOTE: As
+with phase one, please pay very careful attention to spelling and
+capitalization. All the words in your description should be lowercase unless
+they are acronyms or proper names.
+Please enter the description now:
+with a red shooting star on the outside
+This purchase will cost 4000000.00 AEU credits.
+Continue? [Enter `yes' or `no']
+y
+You order a flightbag.
+i
+For a top, you are wearing a grey vee-neck shirt.  For a bottom, you are wearing
+a pair of black corduroy jeans over a pair of cotton briefs.  You have on some
+black leather boots.  You are also wearing a backpack, a leather briefcase, a
+metafrequency FTL transmitter, a metachannel FTL communicator and watch, an
+asteroid hauling supply kit, a strawberry ring pop, a stun power cartridge
+storage container, a concealed hip holster, a pair of plain white spacesuit
+gloves, and a small palm-size metallic blue personal lore computer.
+You are carrying a black flightbag with a red shooting star on the outside in
+your right hand.
+wear flightbab
+Wear what?
+wear flightbag
+You put on a black flightbag with a red shooting star on the outside.
+list
+    ~|~  Fashionable Spacewalker  ~|~
+    [1] Spacesuit Helmet                   
+    [2] Spacesuit Top                      
+    [3] Spacesuit Bottom                   
+    [4] Spacesuit Boots                    
+    [5] Spacesuit Gloves                   
+    [6] Complete Spacesuit                 
+    [7] Flightbag                          
+buy 6
+Please choose a design option:
+[1] Standard White
+[2] Standard Black
+[3] Special-Edition EAOS
+[4] Special-Edition AEU
+[5] Special-Edition League
+[6] Special-Edition Fringe
+[7] Icy the Snowfish
+[8] Celestial
+[9] Custom Design
+Enter your selection:
+9
+*** Entering Custom Spacesuit Design Interface ***
+This design interface will be in two phases. For the first phase, you need to
+choose an appropriate description that fits into these slots:
+  a <description> spacesuit helmet
+  a <description> spacesuit top
+  a <description> spacesuit bottom
+  a pair of <description> spacesuit gloves
+  a pair of <description> spacesuit boots
+The leading 'a' will be replaced by 'an' if appopriate for your description. In
+phase two you will be given an opportunity to add an additional description to
+appear at the end if you wish. IMPORTANT NOTE: Please pay very careful attention
+to spelling and capitalization. All the words in your description should be
+lowercase unless they are acronyms or proper names.
+Please enter the description now:
+Lileah Rose kisses you.
+Lileah Rose laughs.
+Lileah Rose puts on a vivid diffuse black flightbag with shimmering color auras
+around fantastically reproduced Messier objects.
+Lileah Rose removes a vivid diffuse black spacesuit helmet with shimmering color
+auras around fantastically reproduced Messier objects from a white cardboard
+box.
+Lileah Rose puts a vivid diffuse black spacesuit helmet with shimmering color
+auras around fantastically reproduced Messier objects on her head.
+red
+Very good! For phase two please enter a description that fits appropriately into
+the following slots:
+  a red spacesuit helmet <description>
+  a red spacesuit top <description>
+  a red spacesuit bottom <description>
+  a pair of red spacesuit gloves <description>
+  a pair of red spacesuit boots <description>
+This phase is optional, you may leave it blank if you wish! IMPORTANT NOTE: As
+with phase one, please pay very careful attention to spelling and
+capitalization. All the words in your description should be lowercase unless
+they are acronyms or proper names.
+Please enter the description now:
+Lileah Rose removes a vivid diffuse black spacesuit top with shimmering color
+auras around fantastically reproduced Messier objects from a white cardboard
+box.
+Lileah Rose pulls a vivid diffuse black spacesuit top with shimmering color
+auras around fantastically reproduced Messier objects on over her head.
+Lileah Rose removes a vivid diffuse black spacesuit bottom with shimmering color
+auras around fantastically reproduced Messier objects from a white cardboard
+box.
+Lileah Rose pulls a vivid diffuse black spacesuit bottom with shimmering color
+auras around fantastically reproduced Messier objects on her legs.
+Lileah Rose removes a pair of plain white spacesuit gloves from a vivid diffuse
+black flightbag with shimmering color auras around fantastically reproduced
+Messier objects.
+Lileah Rose puts a pair of plain white spacesuit gloves in a stylish trash bin.
+Lileah Rose removes a pair of vivid diffuse black spacesuit gloves with
+shimmering color auras around fantastically reproduced Messier objects from a
+white cardboard box.
+Lileah Rose puts on a pair of vivid diffuse black spacesuit gloves with
+shimmering color auras around fantastically reproduced Messier objects.
+Lileah Rose removes a pair of vivid diffuse black spacesuit boots with
+shimmering color auras around fantastically reproduced Messier objects from a
+white cardboard box.
+covered with various colorful constellations
+This purchase will cost 20000000.00 AEU credits.
+Continue? [Enter `yes' or `no']
+Lileah Rose drops a pair of vivid diffuse black spacesuit boots with shimmering
+color auras around fantastically reproduced Messier objects.
+Lileah Rose removes a pair of white leather sandals from her feet.
+y
+You order a complete spacesuit.
+Lileah Rose puts a pair of white leather sandals in a handbag.
+Lileah Rose picks up a pair of vivid diffuse black spacesuit boots with
+shimmering color auras around fantastically reproduced Messier objects.
+i
+For a top, you are wearing a grey vee-neck shirt.  For a bottom, you are wearing
+a pair of black corduroy jeans over a pair of cotton briefs.  You have on some
+black leather boots.  You are also wearing a backpack, a leather briefcase, a
+metafrequency FTL transmitter, a metachannel FTL communicator and watch, an
+asteroid hauling supply kit, a strawberry ring pop, a stun power cartridge
+storage container, a concealed hip holster, a pair of plain white spacesuit
+gloves, a small palm-size metallic blue personal lore computer, and a black
+flightbag with a red shooting star on the outside.
+You are carrying a white cardboard box in your right hand.
+Lileah Rose puts a pair of vivid diffuse black spacesuit boots with shimmering
+color auras around fantastically reproduced Messier objects on her feet.
+open box
+You open a white cardboard box.
+Lileah Rose puts a white cardboard box in a stylish trash bin.
+empty box in flightbag
+I don't understand that.
+Try this instead:  empty box
+Lileah Rose says, "phew"
+get helmet
+You remove a red spacesuit helmet covered with various colorful constellations
+from a white cardboard box.
+wear helmet
+You put a red spacesuit helmet covered with various colorful constellations on
+your head.
+Lileah Rose says, "woo wow nice"
+get top
+You remove a red spacesuit top covered with various colorful constellations from
+a white cardboard box.
+wear top
+You pull a red spacesuit top covered with various colorful constellations on
+over your head.
+get bottom
+You already have a pair of black corduroy jeans.
+get bottom from box
+You remove a red spacesuit bottom covered with various colorful constellations
+from a white cardboard box.
+wear bottom
+You are already wearing a pair of black corduroy jeans.
+Lileah Rose says, "did you design that Love/"
+wear other bottom
+You pull a red spacesuit bottom covered with various colorful constellations on
+over your legs.
+grin lileah
+You grin at Lileah Rose.
+nod lileah
+You nod to Lileah Rose.
+remove boots
+You remove some black leather boots from your feet.
+Lileah Rose exclaims, "wow you area quite the artist!"
+put boots in briefcase
+You put some black leather boots in a leather briefcase.
+'Thankjs
+You say, "Thankjs"
+Lileah Rose removes the elements of her spacesuit and folds them neatly into a
+vivid diffuse black flightbag with shimmering color auras around fantastically
+reproduced Messier objects.
+get boots from box
+You remove a pair of red spacesuit boots covered with various colorful
+constellations from a white cardboard box.
+wear boots
+You put a pair of red spacesuit boots covered with various colorful
+constellations on your feet.
+get gloves
+You already have a pair of plain white spacesuit gloves.
+get gloves form box
+I see no "gloves form box" here.
+get gloves from box
+You remove a pair of red spacesuit gloves covered with various colorful
+constellations from a white cardboard box.
+wear gloves
+You are already wearing a pair of plain white spacesuit gloves.
+remove gloves
+You need a free hand to remove a pair of plain white spacesuit gloves.
+Lileah Rose says, "i will have to think of a design for myself but i actually
+like this one."
+put gloves in briefase
+I see no "briefase" here.
+put gloves in briefcase
+You'll need to remove a pair of plain white spacesuit gloves first.
+remove gloves
+You need a free hand to remove a pair of plain white spacesuit gloves.
+put gloves in flightbag
+You'll need to remove a pair of plain white spacesuit gloves first.
+put other gloves in flightbag
+A black flightbag with a red shooting star on the outside is closed.
+open flightbag
+You open a black flightbag with a red shooting star on the outside.
+put  other gloves in flightbag
+You put a pair of red spacesuit gloves covered with various colorful
+constellations in a black flightbag with a red shooting star on the outside.
+l box
+You see nothing special.
+It is open.
+It is empty.
+put box in trash
+You put a white cardboard box in a stylish trash bin.
+remove gloves
+You remove a pair of plain white spacesuit gloves.
+put gloves in briefcase
+You put a pair of plain white spacesuit gloves in a leather briefcase.
+use flightbag
+You are currently wearing portions of a spacesuit, do you wish to unsuit now?
+[Enter `yes' or `no']
+y
+You remove the elements of your spacesuit and fold them neatly into a black
+flightbag with a red shooting star on the outside.
+use flightbag
+You are not currently wearing a spacesuit, do you wish to suit up now?
+[Enter `yes' or `no']
+y
+You remove spacesuit components from a black flightbag with a red shooting star
+on the outside and quickly don them.
+Lileah Rose exclaims, "nice!"
+use flightbag
+You are currently wearing portions of a spacesuit, do you wish to unsuit now?
+[Enter `yes' or `no']
+y
+You remove the elements of your spacesuit and fold them neatly into a black
+flightbag with a red shooting star on the outside.
+Lileah Rose asks, "do you have everything?"
+get boots form briefcase
+[General Communication] A Jinu transmits, "Yuuijuminlakiltra ss bruyo jukl human
+wuharel oh 'ten minutes.'"
+I see no "boots form briefcase" here.
+get boots form briefcase
+I see no "boots form briefcase" here.
+get boots from briefcase
+You remove some black leather boots from a leather briefcase.
+wear boots
+You put some black leather boots on your feet.
+nod lileah
+You nod to Lileah Rose.
+'I got everything
+You say, "I got everything"
+Lileah Rose removes a pair of white leather sandals from a handbag.
+Lileah Rose puts a pair of white leather sandals on her feet.
+smile lileah
+You smile at Lileah Rose.
+Lileah Rose squeezes you affectionately.
+You follow Lileah Rose west.
+[Telex; Spaceport South]
+You see a trash can here.
+Lileah Rose is here.
+You can go north, northeast, east, and northwest.
+You follow Lileah Rose north.
+[Telex; Spaceport Hub]
+You see a large green sign, a trash can, and an automatic teller machine here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and up.
+You follow Lileah Rose up.
+[Telex; Spaceport Landing Pad]
+The one-person skimmer "Infinity Communications 591", the one-person supply
+shuttle "Infinity Communications 307", the one-person skimmer "Infinity
+Communications 296", the one-person supply shuttle "Infinity Communications
+586", the one-person flitter "Disposable", the one-person supply shuttle
+"Infinity Communications 664", the two-person asteroid hauler "PrepH", the
+one-person skimmer "Infinity Communications 122", the one-person cargo hauler
+"It's Aliiiiive", the two-person arrow "Going, Going, Gone", the one-person
+cargo hauler "What", the four-person surveyer "Skimming Around", the one-person
+flitter "Blast Off!", and the eight-person journeyer "Blueberry" are landed
+here.
+Lileah Rose is here.
+You can go down.
+Some lights on the eight-person journeyer "Blueberry" suddenly flash several
+times.
+You follow Lileah Rose aboard the eight-person journeyer "Blueberry".
+[Starship "Blueberry"; Airlock]
+You see a spherical security drone, a shiny blue medical drone, and an internal
+stun turret here.
+Lileah Rose is here.
+You can go out and into the ship.
+You follow Lileah Rose into the ship.
+[Starship "Blueberry"; Corridor Gamma]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go north, northeast, south, up, and down.
+You follow Lileah Rose up.
+[Starship "Blueberry"; Corridor Beta]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go east, west, up, and down.
+You follow Lileah Rose up.
+[Starship "Blueberry"; Corridor Alpha]
+You see an internal stun turret here.
+Lileah Rose is here.
+You can go south, west, up, and down.
+You follow Lileah Rose up.
+[Starship "Blueberry"; Control Room]
+You see an AutoVector navigation unit, an oriental rug, a lavender tapestry
+sectional sofa, a glass coffee table, a small trash can, a Galactic map unit, a
+sector debris scanner, a starship simulator, a Galactic anomaly recording unit,
+a Galactic navigation unit, a silver espresso machine, a planetary system
+surveying unit, a temporary structure launcher, a bottle of fine white wine, a
+bottle of fine white wine, a large beanbag chair, a floor lamp, Higgins the
+droid, Daizey the droid, an advanced FTL drive tracer, and an internal stun
+turret here.
+Lileah Rose is here.
+You can go southwest and down.
+Lileah Rose sits down on a lavender tapestry sectional sofa.
+kiss lileah on lips
+You notice Lileah Rose using the radio to ask for launch clearance.
+You kiss Lileah Rose on the lips.
+sit sofa
+You sit down on a lavender tapestry sectional sofa.
+A voice comes over the speaker and says, "Blueberry, you have clearance to
+launch.  Good luck and come back to us safe."
+Lileah Rose kisses you on the lips.
+Lileah Rose presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: New Earth.
+You notice Lileah Rose using the radio to ask for landing clearance.
+A voice comes over the speaker and says, "Hello, Blueberry.  We read your AEU
+transponder.  You are cleared to land at the city of New Phoenix."
+wrap lileah
+You wrap your arms around Lileah Rose.
+Lileah Rose says, "ok be right back! I think I probably got my paycheck"
+'ok
+You say, "ok"
+Lileah Rose kisses you.
+kiss lileah
+Lileah Rose disbands her group.
+You kiss Lileah Rose.
+Lileah Rose stands up.
+Lileah Rose just went down.
+[Stun Turret - Corridor Alpha] Lileah Rose just arrived.
+[Stun Turret - Corridor Alpha] Lileah Rose just went down.
+[Stun Turret - Corridor Beta] Lileah Rose just arrived.
+[Stun Turret - Corridor Beta] Lileah Rose just went down.
+[Stun Turret - Corridor Gamma] Lileah Rose just arrived.
+[Stun Turret - Corridor Gamma] Lileah Rose just went down.
+[Stun Turret - Airlock] Lileah Rose just arrived.
+[Stun Turret - Airlock] Lileah Rose exits the ship.
+[(Frequency 373.88)] Lileah Rose transmits, "Woo i earned a whole 21 mil still I
+was after points and i'm working on getting that next courier ship."
+[Stun Turret - Airlock] You hear a sharp click as the ship's hatch is unlocked.
+[Stun Turret - Airlock] Lileah Rose just boarded the ship.
+[Stun Turret - Airlock] You hear a sharp click as the ship's hatch is locked.
+[Stun Turret - Airlock] Lileah Rose just entered the ship.
+[Stun Turret - Corridor Gamma] Lileah Rose just entered the ship.
+[Stun Turret - Corridor Gamma] Lileah Rose just went up.
+[Stun Turret - Corridor Beta] Lileah Rose just arrived.
+[Stun Turret - Corridor Beta] Lileah Rose just went up.
+[Stun Turret - Corridor Alpha] Lileah Rose just arrived.
+[Stun Turret - Corridor Alpha] Lileah Rose just went up.
+Lileah Rose just arrived.
+smile lileah
+You smile at Lileah Rose.
+Lileah Rose says, "sec"
+nod
+You nod.
+Lileah Rose removes a yellow and purple two-way FTL communicator container from
+a handbag.
+Lileah Rose removes a yellow two-way FTL communicator from a yellow and purple
+two-way FTL communicator container.
+Lileah Rose gives you a yellow and purple two-way FTL communicator container.
+Lileah Rose says, "oops"
+Lileah Rose asks, "please give that back?"
+Lileah Rose grins.
+give container to lileah
+You'll need to remove a stun power cartridge storage container first.
+give other container to lileah
+You give a yellow and purple two-way FTL communicator container to Lileah Rose.
+Lileah Rose gives you a yellow and purple two-way FTL communicator container.
+Lileah Rose laughs.
+laugh
+You laugh.
+Lileah Rose chuckles.
+give other container to lileah
+You give a yellow and purple two-way FTL communicator container to Lileah Rose.
+Lileah Rose puts a yellow and purple two-way FTL communicator container on a
+glass coffee table.
+Lileah Rose gives you a yellow two-way FTL communicator.
+Lileah Rose laughs.
+Lileah Rose says, "there"
+grin
+You grin.
+Lileah Rose says, "now if we can find any paint, you can hopefully paint it
+maybe."
+grin
+You grin.
+Lileah Rose removes an AV Telepresence Sphere container from a glass coffee
+table.
+Lileah Rose frowns.
+wear ftl
+You are already wearing a metafrequency FTL transmitter.
+wear other ftl
+You put on a yellow two-way FTL communicator.
+Lileah Rose puts an AV Telepresence Sphere container on a glass coffee table.
+Lileah Rose removes a yellow and purple two-way FTL communicator container from
+a glass coffee table.
+[General Communication] A Jinu transmits, "Yuuijuminlakiltra et bruyo. Poae
+bruyo won ske bruyi sket jukl gary wuharel."
+Lileah Rose removes a purple two-way FTL communicator from a yellow and purple
+two-way FTL communicator container.
+Lileah Rose puts on a purple two-way FTL communicator.
+Lileah Rose cheers.
+grin lileah
+You grin at Lileah Rose.
+Lileah Rose asks, "hmm guess don't need the container?"
+'probably not
+You say, "probably not"
+Lileah Rose puts a yellow and purple two-way FTL communicator container in a
+small trash can.
+Lileah Rose says, "there we go"
+Lileah Rose laughs.
+laugh
+You laugh.
+kiss lileha
+I don't see "lileha" here.
+Lileah Rose exclaims, "you have to put it in the can!"
+kiss lileah
+You kiss Lileah Rose.
+Lileah Rose kisses you.
+Lileah Rose glances around.
+Lileah Rose says, "ok sec"
+l other ftl
+You see nothing special.
+turn other ftl
+You can't turn a yellow two-way FTL communicator.
+link
+You must be in space to send linked transmissions.
+Lileah Rose presses the send button on a purple two-way FTL communicator and
+says, "hello Love"
+You hear the voice of Lileah Rose emanating from a yellow two-way FTL
+communicator, saying, "hello Love"
+Lileah Rose grins.
+grin
+You grin.
+Lileah Rose says, "hmm"
+use other transmitter with Hi
+[(Frequency 373.88)] Rolando Caganda transmits, "Hi"
+'oops
+You say, "oops"
+l other
+I see no "other" here.
+use transmitter with Hi
+[(Frequency 373.88)] Rolando Caganda transmits, "Hi"
+`'hmm
+Say to whom?
+remove metaf
+You remove a metafrequency FTL transmitter.
+put metaf inn briefcase
+I don't understand that.
+Try this instead:  put metaf inn briefcase in
+put metaf in briefcase
+You put a metafrequency FTL transmitter in a leather briefcase.
+use transmitter with Hi
+use ftl with Hi
+You press the send button on a yellow two-way FTL communicator and say, "Hi"
+You hear the voice of Rolando Caganda emanating from a purple two-way FTL
+communicator, saying, "Hi"
+#alias mftl {use ftl with}
+[0m#OK. {mftl} NOW ALIASES {use ftl with} @ {5}.[0m
+mftl Hi love.
+You press the send button on a yellow two-way FTL communicator and say, "Hi
+love."
+You hear the voice of Rolando Caganda emanating from a purple two-way FTL
+communicator, saying, "Hi love."
+Lileah Rose cuddles up to you.
+cuddle lileah
+You cuddle up to Lileah Rose.
+Lileah Rose says, "so we'll have to play with these other comms. I guess they
+are probably more private."
+grin
+You grin.
+Lileah Rose says, "whereas if we met some friends, we could use another channel"
+nod
+You nod.
+Lileah Rose kisses you on the lips.
+Lileah Rose points at a pair of cotton candy-flavoured edible panties.
+kiss lileah on lips
+You kiss Lileah Rose on the lips.
+Lileah Rose laughs.
+Lileah Rose says, "uh"
+-lileah I love you.
+You say to Lileah Rose, "I love you."
+Lileah Rose says to you, "I love you too Darling"
+Lileah Rose points at the chocolates on table
+Lileah Rose removes a plastic cooler from a glass coffee table.
+grin
+Lileah Rose opens a plastic cooler.
+You grin.
+Lileah Rose removes a thick slice of chocolate cheesecake from a plastic cooler.
+Lileah Rose gives you a thick slice of chocolate cheesecake.
+grin
+You grin.
+'Thanks!
+You exclaim, "Thanks!"
+'I love cheesecake!
+You exclaim, "I love cheesecake!"
+Lileah Rose removes a cup of rich hazelnut coffee from a plastic cooler.
+Lileah Rose gives you a cup of rich hazelnut coffee.
+smile
+You smile.
+wrap lileah
+You wrap your arms around Lileah Rose.
+Lileah Rose smiles at you.
+Lileah Rose says to you, "I don't even know if you like that I have cappuccino
+in there though"
+Lileah Rose drops a plastic cooler.
+'Oh, I'll love it!
+You exclaim, "Oh, I'll love it!"
+Lileah Rose removes a thick slice of chocolate cheesecake from a plastic cooler.
+eat cheesecake
+You take a bite of a thick slice of chocolate cheesecake.
+Lileah Rose removes a cup of rich hazelnut coffee from a plastic cooler.
+Lileah Rose takes a bite of a thick slice of chocolate cheesecake.
+
+Lileah Rose takes a bite of a thick slice of chocolate cheesecake.
+
+
+Lileah Rose says, "this is really yummy"
+#config {repeat enter} on
+[0m#CONFIG {REPEAT ENTER} HAS BEEN SET TO {ON}.[0m
+grin lileah
+You grin at Lileah Rose.
+'It is!
+You exclaim, "It is!"
+Lileah Rose grins at you.
+eat cheesecake
+You take a bite of a thick slice of chocolate cheesecake.
+eat cheesecake
+You take a bite of a thick slice of chocolate cheesecake.
+eat cheesecake
+You take a bite of a thick slice of chocolate cheesecake.
+Lileah Rose says, "I don't think I have had any cheesecake in these four years."
+'Awww
+You say, "Awww"
+'Cheesecake is the best!
+You exclaim, "Cheesecake is the best!"
+Lileah Rose says, "and this is my favorite flavor so I hope you like it."
+Lileah Rose grins at you.
+grin lileah
+You grin at Lileah Rose.
+eat cheesecake
+You take a bite of a thick slice of chocolate cheesecake.
+eat cheesecake
+You take a bite of a thick slice of chocolate cheesecake.
+eat cheesecake
+You take a bite of a thick slice of chocolate cheesecake.
+eat cheesecake
+You finish off a thick slice of chocolate cheesecake.
+drink coffee
+You take a sip of a cup of rich hazelnut coffee.
+Lileah Rose cuddles up to you.
+cuddle lileah
+You cuddle up to Lileah Rose.
+Lileah Rose takes a bite of a thick slice of chocolate cheesecake.
+Lileah Rose says, "I found some itneresting places to eat over on Ardsley. We'll
+ahve to go try them."
+Lileah Rose says, "also, there's a shop that has canned goods. I'd like to try
+those for taking when we go out exploring."
+grin lileah
+You grin at Lileah Rose.
+Lileah Rose grins at you.
+drink coffee
+You take a sip of a cup of rich hazelnut coffee.
+drink coffee
+You take a sip of a cup of rich hazelnut coffee.
+drink coffee
+You take a sip of a cup of rich hazelnut coffee.
+drink coffee
+You take a sip of a cup of rich hazelnut coffee.
+drink coffee
+You take a sip of a cup of rich hazelnut coffee.
+drink coffee
+You take a sip of a cup of rich hazelnut coffee.
+drink coffee
+You finish off a cup of rich hazelnut coffee.
+Lileah Rose takes a bite of a thick slice of chocolate cheesecake.
+Lileah Rose takes a bite of a thick slice of chocolate cheesecake.
+Lileah Rose takes a sip of a cup of rich hazelnut coffee.
+Lileah Rose takes a bite of a thick slice of chocolate cheesecake.
+Lileah Rose takes a bite of a thick slice of chocolate cheesecake.
+Lileah Rose finishes off a thick slice of chocolate cheesecake.
+Lileah Rose takes a sip of a cup of rich hazelnut coffee.
+Lileah Rose takes a sip of a cup of rich hazelnut coffee.
+Lileah Rose takes a sip of a cup of rich hazelnut coffee.
+Lileah Rose takes a sip of a cup of rich hazelnut coffee.
+Lileah Rose takes a sip of a cup of rich hazelnut coffee.
+Lileah Rose takes a sip of a cup of rich hazelnut coffee.
+Lileah Rose finishes off a cup of rich hazelnut coffee.
+Lileah Rose closes a plastic cooler.
+Lileah Rose makes a selection on the brightly-lit display of a small palm-size
+shimmering chrome and metallic green personal lore computer.
+Lileah Rose grins.
+l
+[Starship "Blueberry"; Control Room]
+A floor lamp is casting a bright halo of light here.  The scent of wild roses
+suffuses the atmosphere of the ship, spread from somewhere in the heart of the
+ventilation system.  Lights overhead indicate that the ship is on fuchsia
+status.  Looking through the rose-tinted windows flanked by sheer gold curtains,
+you see that the ship is at New Earth; Spaceport Landing Pad.
+You see an AutoVector navigation unit, an oriental rug, a lavender tapestry
+sectional sofa, a glass coffee table, a small trash can, a Galactic map unit, a
+sector debris scanner, a starship simulator, a Galactic anomaly recording unit,
+a Galactic navigation unit, a silver espresso machine, a planetary system
+surveying unit, a temporary structure launcher, a bottle of fine white wine, a
+bottle of fine white wine, a large beanbag chair, a floor lamp, Higgins the
+droid, Daizey the droid, an advanced FTL drive tracer, an internal stun turret,
+and a plastic cooler here.
+Lileah Rose is here.
+You can go southwest and down.
+(You are sitting on a lavender tapestry sectional sofa.)
+wrap lileah
+You wrap your arms around Lileah Rose.
+kiss lileah on lips
+You kiss Lileah Rose on the lips.
+Lileah Rose makes a selection on the brightly-lit display of a small palm-size
+shimmering chrome and metallic green personal lore computer.
+Lileah Rose makes a selection on the brightly-lit display of a small palm-size
+shimmering chrome and metallic green personal lore computer.
+Your small palm-size metallic blue personal lore computer suddenly beeps
+quietly, indicating a new incoming file.
+Several short bleeps emit from a small palm-size shimmering chrome and metallic
+green personal lore computer, followed by a hardcopy print of "I love you
+Rolando!".
+Lileah Rose yawns suddenly, and collapses to the ground, asleep.
+use
+Use what?
+use lore
+LoreTech Personal Lore Computer - [Main Menu]
+[1] Device Options
+[2] File Management
+[3] OCR
+[4] Lore Sundial
+[5] End Session
+[6] Calculator
+[7] Unit Converter
+[8] Scratch Pad
+[9] Zion Book Reader
+[10] Zion Video Player
+[11] Alliance Assistant
+[12] Lore Tracker
+Enter your selection:
+2
+LoreTech Personal Lore Computer - [Root Folder]
+* 1 file found waiting for import. *
+[1] File : Welcome to your new Lore computer!
+[2] Add New File
+[3] Add New Folder
+[4] Import File
+[5] Done
+Enter your selection:
+4
+File "I love you Rolando!" imported.
+LoreTech Personal Lore Computer - [Root Folder]
+[1] File : Welcome to your new Lore computer!
+[2] File : I love you Rolando!
+[3] Add New File
+[4] Add New Folder
+[5] Import File
+[6] Done
+Enter your selection:
+2
+LoreTech Personal Lore Computer - [File: I love you Rolando!]
+Hello Love, I just have to tell you I love you and if you'd ike a little
+reminder, here it is!
+[1] Return to Folder
+[2] Root Folder
+[3] Edit
+[4] Export
+[5] Transmit
+[6] Print
+[7] Delete
+[8] Done
+Enter your selection:
+8
+File Management closed.
+LoreTech Personal Lore Computer - [File: I love you Rolando!]
+Hello Love, I just have to tell you I love you and if you'd ike a little
+reminder, here it is!
+[1] Return to Folder
+[2] Root Folder
+[3] Edit
+[4] Export
+[5] Transmit
+[6] Print
+[7] Delete
+[8] Done
+Enter your selection:
+Lileah Rose suddenly awakens.
+@abort
+Invalid selection.
+LoreTech Personal Lore Computer - [File: I love you Rolando!]
+Hello Love, I just have to tell you I love you and if you'd ike a little
+reminder, here it is!
+[1] Return to Folder
+[2] Root Folder
+[3] Edit
+[4] Export
+[5] Transmit
+[6] Print
+[7] Delete
+[8] Done
+Enter your selection:
+1
+LoreTech Personal Lore Computer - [Root Folder]
+[1] File : Welcome to your new Lore computer!
+[2] File : I love you Rolando!
+[3] Add New File
+[4] Add New Folder
+[5] Import File
+[6] Done
+Enter your selection:
+Lileah Rose gives you a hardcopy print of "I love you Rolando!".
+6
+File Management closed.
+LoreTech Personal Lore Computer - [Root Folder]
+[1] File : Welcome to your new Lore computer!
+[2] File : I love you Rolando!
+[3] Add New File
+[4] Add New Folder
+[5] Import File
+[6] Done
+Enter your selection:
+Lileah Rose kisses you.
+@abort
+Invalid selection.
+LoreTech Personal Lore Computer - [Root Folder]
+[1] File : Welcome to your new Lore computer!
+[2] File : I love you Rolando!
+[3] Add New File
+[4] Add New Folder
+[5] Import File
+[6] Done
+Enter your selection:
+ 
+Invalid selection.
+LoreTech Personal Lore Computer - [Root Folder]
+[1] File : Welcome to your new Lore computer!
+[2] File : I love you Rolando!
+[3] Add New File
+[4] Add New Folder
+[5] Import File
+[6] Done
+Enter your selection:
+end
+Invalid selection.
+LoreTech Personal Lore Computer - [Root Folder]
+[1] File : Welcome to your new Lore computer!
+[2] File : I love you Rolando!
+[3] Add New File
+[4] Add New Folder
+[5] Import File
+[6] Done
+Enter your selection:
+#end
+[0m#SESSION 'StarConquest' DIED.[0m
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+                          C  L  A  S  S  I  C
+Official Website: http://www.squidsoft.net
+-----------------------------------------------------------------------
+Star Conquest is a multiplayer role-playing game set in interstellar
+space, as well as on dozens of planets, space stations, and starships.
+Your goal is what you want it to be.  There are many different ways to
+make a living.  And you won't be alone; all your activities take place
+with your choice of three diverse unions as a backdrop.  And when you
+finally work your way up to one of the greatest powers in interstellar
+space, a fourth alliance of certain humans and some alien species may
+begin trying to recruit you.
+-----------------------------------------------------------------------
+Open to the public since 19 December 1998!
+All original work located in this game is copyright (c) SquidSoft.net 1998-2009,
+unauthorised reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+NOTICE: Star Conquest: Classic is offered mainly for the purposes of nostalgia
+and will receive MINIMAL support. Go to Star Conquest at telnet://squidsoft.net:
+7777 for a more active development experience and to play the game as it is
+meant to be!
+The last server reset was at Tue Apr  4 22:33:21 2017 UTC
+Contact us via email at: starconquest@squidsoft.net
+Please log in now.
+If you do not have a SquidSoft.net account and wish to create one, please send a
+web browser here: http://moo.squidsoft.net:3333/
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Rolando Caganda
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Blueberry"; Control Room]
+A floor lamp is casting a bright halo of light here.  The scent of wild roses
+suffuses the atmosphere of the ship, spread from somewhere in the heart of the
+ventilation system.  Lights overhead indicate that the ship is on fuchsia
+status.  Looking through the rose-tinted windows flanked by sheer gold curtains,
+you see that the ship is at New Earth; Spaceport Landing Pad.
+You see an AutoVector navigation unit, an oriental rug, a lavender tapestry
+sectional sofa, a glass coffee table, a small trash can, a Galactic map unit, a
+sector debris scanner, a starship simulator, a Galactic anomaly recording unit,
+a Galactic navigation unit, a silver espresso machine, a planetary system
+surveying unit, a temporary structure launcher, a bottle of fine white wine, a
+bottle of fine white wine, a large beanbag chair, a floor lamp, Higgins the
+droid, Daizey the droid, an advanced FTL drive tracer, an internal stun turret,
+and a plastic cooler here.
+Lileah Rose is here.
+You can go southwest and down.
+(You are sitting on a lavender tapestry sectional sofa.)
+grin lileah
+You grin at Lileah Rose.
+-lileah Thanks love!
+You say to Lileah Rose, "Thanks love!"
+read paper
+Read what?
+i
+For a top, you are wearing a grey vee-neck shirt.  For a bottom, you are wearing
+a pair of black corduroy jeans over a pair of cotton briefs.  You have on some
+black leather boots.  You are also wearing a backpack, a leather briefcase, a
+metachannel FTL communicator and watch, an asteroid hauling supply kit, a
+strawberry ring pop, a stun power cartridge storage container, a concealed hip
+holster, a small palm-size metallic blue personal lore computer, a black
+flightbag with a red shooting star on the outside, and a yellow two-way FTL
+communicator.
+You are carrying a hardcopy print of "I love you Rolando!" in your right hand.
+read print
+There appears to be some writing on a hardcopy print of "I love you Rolando!"...
+Hello Love, I just have to tell you I love you and if you'd ike a little
+reminder, here it is!
+* Printed by Lileah Rose *
+(You finish reading.)
+put print in briefcase
+You put a hardcopy print of "I love you Rolando!" in a leather briefcase.
+kiss lileah 
+You kiss Lileah Rose.
+Lileah Rose kisses you.
+wrap lileah
+You wrap your arms around Lileah Rose.
+Lileah Rose says, "yeah I'd say we've likely been pushed down and perhaps
+Coreward"
+Lileah Rose says, "I sure wish that Kaard guy would come to work. I guess he is
+avoiding me because I always have lots of questions."
+Lileah Rose laughs.
+laugh
+You laugh.
+who
+There are 2 players connected:
+Rolando Caganda  (A)      Lileah Rose  (A)           
+'Well, seems like hardly anyone comes to work.
+You say, "Well, seems like hardly anyone comes to work."
+Lileah Rose says, "yeah I know"
+Lileah Rose says, "I sure would love ot do more combat Missions. we just may
+have to wing it with a corvette If we kill it, we'll jsut get another one."
+Lileah Rose grins at you.
+grin
+You grin.
+'I dn't mind trying.
+You say, "I dn't mind trying."
+Lileah Rose grins at you.
+Lileah Rose squeezes you affectionately.
+'I mean, don't.
+You say, "I mean, don't."
+squeeze lileah
+You squeeze Lileah Rose affectionately.
+Lileah Rose says, "sure we ought to"
+beam lileah
+You beam at Lileah Rose.
+Lileah Rose beams at you.
+Lileah Rose asks, "how about over the weekend during the late afternoon or
+evening?"
+'Sure.
+You say, "Sure."
+'Just let me know!
+You exclaim, "Just let me know!"
+'Can I see the corvette?
+You ask, "Can I see the corvette?"
+Lileah Rose cuddles up to you.
+Lileah Rose toggles a switch on the window blinds control board and a small
+glowing green indicator suddenly turns red.
+Heavy hull plates suddenly begin sliding down over the windows on the outside,
+gradually blocking off all view of the exterior.
+Lileah Rose grins.
+Lileah Rose says, "nice"
+Lileah Rose says, "you can use it in any room I guess"
+Lileah Rose says, "oh"
+Lileah Rose says, "forgot where we were sec"
+Lileah Rose just went down.
+[Stun Turret - Corridor Alpha] Lileah Rose just arrived.
+[Stun Turret - Corridor Alpha] Lileah Rose just went down.
+[Stun Turret - Corridor Beta] Lileah Rose just arrived.
+[Stun Turret - Corridor Beta] Lileah Rose just went west.
+[Stun Turret - Corridor Beta] Lileah Rose just arrived.
+[Stun Turret - Corridor Beta] Lileah Rose just went up.
+[Stun Turret - Corridor Alpha] Lileah Rose just arrived.
+[Stun Turret - Corridor Alpha] Lileah Rose just went up.
+Lileah Rose just arrived.
+Lileah Rose says, "nope only in here."
+Lileah Rose sits down on a lavender tapestry sectional sofa.
+grin
+You grin.
+blinds
+You toggle a switch on the window blinds control board and a small glowing red
+indicator suddenly turns green.
+The heavy hull plates shielding the windows suddenly begin sliding upwards,
+restoring functionality to the windows.
+blinds
+You toggle a switch on the window blinds control board and a small glowing green
+indicator suddenly turns red.
+Heavy hull plates suddenly begin sliding down over the windows on the outside,
+gradually blocking off all view of the exterior.
+grin
+You grin.
+wrap lileah
+You wrap your arms around Lileah Rose.
+Lileah Rose wraps her arms around you.
+Lileah Rose says, "also"
+Lileah Rose says, "prese the 'SCENT' button"
+Lileah Rose deftly slides her finger downwards along a small optical strip near
+the windows and the sheer gold curtains leisurely draw together.
+scent
+Shipboard Ventilation System Scent Control:
+[1] Evergreen
+[2] Wild roses
+[3] Honeysuckle
+[4] Orchids
+[5] Lavender
+[6] Sea breeze
+[7] Spring rain
+[8] Morning dew
+[9] Zesty lemon
+[10] Rosemary
+[11] Sage
+[12] Hazelnut
+[13] Wintergreen
+[14] Mint
+[15] Cinnamon
+[16] Apple cider
+[17] Apple
+[18] Peach
+[19] Watermelon
+[20] Strawberry
+[21] Cherry
+[22] Tangerine
+[23] Vanilla
+[24] Roasted coffee
+[25] Chocolate
+[26] Vomit
+[27] Off
+Enter your selection:
+20
+You make a selection on the ventilation control board, configuring the scent
+producers for strawberry.
+The scent of wild roses gradually diminishes and is replaced by the scent of
+strawberry.
+Lileah Rose grins at you.
+Lileah Rose kisses you.
+grin lileah
+You grin at Lileah Rose.
+Lileah Rose grins at you.
+Lileah Rose says, "there are a couple more items I may add. I just wasn't quite
+sure."
+beam lileah
+You beam at Lileah Rose.
+-lileah Ready to go lie down?
+You say to Lileah Rose, "Ready to go lie down?"
+Lileah Rose says to you, "sure Love"
+Lileah Rose stands up.
+Lileah Rose just went down.
+[Stun Turret - Corridor Alpha] Lileah Rose just arrived.
+[Stun Turret - Corridor Alpha] Lileah Rose just went down.
+[Stun Turret - Corridor Beta] Lileah Rose just arrived.
+[Stun Turret - Corridor Beta] Lileah Rose just went west.
+stand
+You stand up.
+d
+[Starship "Blueberry"; Corridor Alpha]
+You see an internal stun turret here.
+You can go south, west, up, and down.
+d
+[Starship "Blueberry"; Corridor Beta]
+You see an internal stun turret here.
+You can go east, west, up, and down.
+w
+n
+[Starship "Blueberry"; Living Quarters Block Alpha]
+You can go north, east, southeast, south, southwest, west, and northwest.
+[Starship "Blueberry"; Living Quarters One]
+You see a wooden wardrobe, a wicker rocking chair, a throw rug, a walnut canopy
+bed with a lavender silk bedsheet, a floral pattern silk bedsheet, a lilac silk
+blanket, and a lavender silk pillow on it, a large storage chest, a storage
+container, a yellow storage locker, a pink mirrored vanity, a shaker chair, a
+cedar dresser, a set of funky asymmetrical shelves, and a large bureau here.
+Lileah Rose is here.
+You can go out.
+Lileah Rose tears off a sexy pink lace demi cup bra in a fit of passion.
+Lileah Rose tears off a silk tanktop in a fit of passion.
+Lileah Rose tears off some silk panties in a fit of passion.
+Lileah Rose tears off a pair of flared faded denim jeans in a fit of passion.
+Lileah Rose tears off a pair of white leather sandals in a fit of passion.
+Lileah Rose rips off all of her obvious clothing and stands before you,
+positively glowing with near nudity.
+undress
+You tear off a grey vee-neck shirt in a fit of passion.
+You tear off a pair of cotton briefs in a fit of passion.
+You tear off a pair of black corduroy jeans in a fit of passion.
+You tear off some black leather boots in a fit of passion.
+You stand there, glowing with near nudity.
+Lileah Rose glances around.
+Lileah Rose laughs.
+Lileah Rose lies down on a walnut canopy bed.
+lie canopy
+You lie down on a walnut canopy bed.
+wrap lileah
+You wrap your arms around Lileah Rose.
+Lileah Rose cuddles up to you.
+cuddle lileah
+You cuddle up to Lileah Rose.
+Lileah Rose leans close to you and kisses you softly on the chest.
+Lileah Rose says to you, "you are sooo sexy"
+kiss lileah on chest
+You kiss Lileah Rose on the smooth skin above her breasts.
+-lileah You are super sexy!
+You say to Lileah Rose, "You are super sexy!"
+-lileah I'd love to....
+You say to Lileah Rose, "I'd love to...."
+whisper lileah Make love to you all night.
+You whisper to Lileah Rose.
+Lileah Rose grins at you.
+Lileah Rose says to you, "well know what? One day when we both decide we've had
+enough of work! ..."
+Lileah Rose giggles quietly.
+grin lileah
+You grin at Lileah Rose.
+caress lileah on back
+You gently caress Lileah Rose's back.
+Lileah Rose says, "I think when we go out exploring ..."
+smile lileah
+You smile at Lileah Rose.
+Lileah Rose smiles at you.
+-lileah I mean, if you were ok with it of course and you wanted to.
+You say to Lileah Rose, "I mean, if you were ok with it of course and you wanted
+to."
+Lileah Rose says to you, "with you ..."
+Lileah Rose kisses you on the lips.
+kiss lileah on lips
+You kiss Lileah Rose on the lips.
+-lileah I love you.
+You say to Lileah Rose, "I love you."
+-lileah And I don't want to lose you to anyone else.
+You say to Lileah Rose, "And I don't want to lose you to anyone else."
+-lileah Or share you with anyone else.
+You say to Lileah Rose, "Or share you with anyone else."
+grin lileah
+You grin at Lileah Rose.
+Lileah Rose says to you, "it's highly unlikely. not many are ever at work these
+days and so far, I haven't found anyone who is like you. You are just the right
+man for me."
+Lileah Rose squeezes you affectionately.
+eam lileah
+I don't understand that.
+Lileah Rose kisses you.
+squeeze lileah
+You squeeze Lileah Rose affectionately.
+beam lileah
+You beam at Lileah Rose.
+caress lileah on back
+You gently caress Lileah Rose's back.
+Lileah Rose says to you, "I jsut knew it the firt time i met you Strange as it
+may seem."
+Lileah Rose kisses you.
+grin lileah
+You grin at Lileah Rose.
+kiss lileah
+You kiss Lileah Rose.
+-lileah I was attracted to you from the begining and am so glad we met!
+You say to Lileah Rose, "I was attracted to you from the begining and am so glad
+we met!"
+-lileah And you are the best woman in the universe for me.
+You say to Lileah Rose, "And you are the best woman in the universe for me."
+Lileah Rose beams at you.
+Lileah Rose says to you, "well you truly are the most awesome man in the
+Universe for me!"
+wrap lileah
+You wrap your arms around Lileah Rose.
+kiss lileah on breast
+You kiss Lileah Rose on one of her breasts.
+kiss lileah on stomach
+You kiss Lileah Rose softly on the stomach.
+smooch lileah on stomach
+I don't understand that.
+smooch lileah on stomach
+I don't understand that.
+Lileah Rose kisses you on the lips.
+kiss lileah on lips
+You kiss Lileah Rose on the lips.
+Lileah Rose says to you, "I love you"
+-lileah I love you too.
+You say to Lileah Rose, "I love you too."
+Lileah Rose says to you, "I'll say nite and I love you. Rest well and sweet
+dreams."
+-lileah I love you too. Rest well and sweet dreams. Night.
+You say to Lileah Rose, "I love you too. Rest well and sweet dreams. Night."
+Lileah Rose says to you, "Nite Love."
+Lileah Rose cuddles up to you.
+-lileah Night love.
+You say to Lileah Rose, "Night love."
+cuddle lileah
+You cuddle up to Lileah Rose.
+Lileah Rose says to you, "Nite sweet Love."
+Lileah Rose squeezes you affectionately.
+-lileah Night.
+You say to Lileah Rose, "Night."
+squeeze lileah
+You squeeze Lileah Rose affectionately.
+You have been idle for an extended period of time.  Please do something in order
+to avoid being disconnected.
+Lileah Rose yawns suddenly, and collapses to the ground, asleep.
+You have been idle too long.  Have a lovely evening.
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+                          C  L  A  S  S  I  C
+Official Website: http://www.squidsoft.net
+-----------------------------------------------------------------------
+Star Conquest is a multiplayer role-playing game set in interstellar
+space, as well as on dozens of planets, space stations, and starships.
+Your goal is what you want it to be.  There are many different ways to
+make a living.  And you won't be alone; all your activities take place
+with your choice of three diverse unions as a backdrop.  And when you
+finally work your way up to one of the greatest powers in interstellar
+space, a fourth alliance of certain humans and some alien species may
+begin trying to recruit you.
+-----------------------------------------------------------------------
+Open to the public since 19 December 1998!
+All original work located in this game is copyright (c) SquidSoft.net 1998-2009,
+unauthorised reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+NOTICE: Star Conquest: Classic is offered mainly for the purposes of nostalgia
+and will receive MINIMAL support. Go to Star Conquest at telnet://squidsoft.net:
+7777 for a more active development experience and to play the game as it is
+meant to be!
+The last server reset was at Tue Apr  4 22:33:21 2017 UTC
+Contact us via email at: starconquest@squidsoft.net
+Please log in now.
+If you do not have a SquidSoft.net account and wish to create one, please send a
+web browser here: http://moo.squidsoft.net:3333/
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Rolando Caganda
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Blueberry"; Living Quarters One]
+The scent of strawberry suffuses the atmosphere of the ship, spread from
+somewhere in the heart of the ventilation system.  A standalone starmap viewer
+appears to be installed here.  Lights overhead indicate that the ship is on
+fuchsia status.  Glancing at the rose-tinted windows flanked by sheer gold
+curtains, you notice solid hull plates are shielding them externally, blocking
+all view of the outside.
+You see a wooden wardrobe, a wicker rocking chair, a throw rug, a walnut canopy
+bed with a lavender silk bedsheet, a floral pattern silk bedsheet, a lilac silk
+blanket, and a lavender silk pillow on it, a large storage chest, a storage
+container, a yellow storage locker, a pink mirrored vanity, a shaker chair, a
+cedar dresser, a set of funky asymmetrical shelves, a large bureau, a sexy pink
+lace demi cup bra, a silk tanktop, some silk panties, a pair of flared faded
+denim jeans, a pair of white leather sandals, a grey vee-neck shirt, a pair of
+cotton briefs, a pair of black corduroy jeans, and some black leather boots
+here.
+Lileah Rose is asleep.
+You can go out.
+(You are lying on a walnut canopy bed.)
+l
+[Starship "Blueberry"; Living Quarters One]
+The scent of strawberry suffuses the atmosphere of the ship, spread from
+somewhere in the heart of the ventilation system.  A standalone starmap viewer
+appears to be installed here.  Lights overhead indicate that the ship is on
+fuchsia status.  Glancing at the rose-tinted windows flanked by sheer gold
+curtains, you notice solid hull plates are shielding them externally, blocking
+all view of the outside.
+You see a wooden wardrobe, a wicker rocking chair, a throw rug, a walnut canopy
+bed with a lavender silk bedsheet, a floral pattern silk bedsheet, a lilac silk
+blanket, and a lavender silk pillow on it, a large storage chest, a storage
+container, a yellow storage locker, a pink mirrored vanity, a shaker chair, a
+cedar dresser, a set of funky asymmetrical shelves, a large bureau, a sexy pink
+lace demi cup bra, a silk tanktop, some silk panties, a pair of flared faded
+denim jeans, a pair of white leather sandals, a grey vee-neck shirt, a pair of
+cotton briefs, a pair of black corduroy jeans, and some black leather boots
+here.
+Lileah Rose is asleep.
+You can go out.
+(You are lying on a walnut canopy bed.)
+slap lileah on butt
+I don't understand that.
+slap lileah on butt
+I don't understand that.
+spank lileah
+I don't understand that.
+makeout lileah
+You make out with Lileah Rose.
+fondle lileah
+I don't understand that.
+sleep
+I don't understand that.
+sleep
+I don't understand that.
+quit
+I don't understand that.
+exit
+I don't understand that.
+logout
+I don't understand that.
+quit
+I don't understand that.
+q
+I don't understand that.
+QUIT
+I don't understand that.
+sleep
+I don't understand that.
+You have been idle for an extended period of time.  Please do something in order
+to avoid being disconnected.
+You have been idle too long.  Have a lovely evening.
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m

@@ -1,0 +1,826 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Aug 24 06:11:20 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a black plastic
+tray of spider chow, a compact white refrigerator, an insulated black cooler,
+Purr the humanoid service robot, and a robotic chef named Nellie here.
+Lily Kaise, Phoenix Dissident is sitting on a rare black EAOSian contoured
+couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Two new posts to the changelog since you were last connected. Type CHANGELOG
+NEW to read them.
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: As a pilot you want both license points and credits, but most activities
+focus on one or the other.
+**
+smell me
+You sniff at yourself. You smell the fresh fragrance of a sun-warmed grassy
+meadow.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+Lily Kaise, Phoenix Dissident laughs.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+Lily Kaise, Phoenix Dissident sniffs at herself.
+read comm
+You glance at your communicator's screen.
+There are seven board posts.
+There are two headlines.
+Lily Kaise, Phoenix Dissident sniffs at you. You can only wonder what's so
+interesting.
+laugh
+You laugh.
+Lily Kaise, Phoenix Dissident kisses you.
+grin lily
+You grin at Lily Kaise, Phoenix Dissident.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily Kaise, Phoenix Dissident chuckles.
+Lily Kaise, Phoenix Dissident kisses you.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (19/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+==============================
+Recent Entertainment Headlines
+==============================
+* Historian Alice Mizushima to Investigate Mystery of Catastrophic Early 2160s
+Pacific Bloc Colonization Push in New HV Documentary Series [ 8 September 2317]
+(TPR)
+========================
+Recent Tabloid Headlines
+========================
+* Dehumanization in Deep Space? Whispers of Secret Projects Say Yes! [ 8
+September 2317] (TBX)
+Return to the category menu? [Enter `yes' or `no']
+Lily says to you, "Hey glad you're here!"
+n
+You return your metallic gold touch einrophone to the main screen.
+smile lily 'THanks. I'm glad to be here too!
+"THanks. I'm glad to be here too!" You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident asks, "So would you have time to go chasing
+Transports out of AEU spae?"
+Lily Kaise, Phoenix Dissident asks, "Space?"
+'Sure. Lets!
+You exclaim, "Sure. Lets!"
+Lily Kaise, Phoenix Dissident grins.
+Lily Kaise, Phoenix Dissident stands up from a rare black EAOSian contoured
+couch with a hand-made white and sapphire star quilt on it.
+Lily Kaise, Phoenix Dissident joins your group.
+stand
+You're already standing.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+KitCat the humanoid service robot, an insulated red sleeping bag, and a personal
+hoverpallet here.
+You can go out and enter into the ship.
+Lily Kaise, Phoenix Dissident followed you.
+out
+You exit the ship.
+[The Torus; Garage]
+You can go up.
+Lily Kaise, Phoenix Dissident followed you.
+enter deadly
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+Lily Kaise, Phoenix Dissident followed you.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a dark green leather
+captain's chair, a small hot beverage dispenser, and a small hot coffee
+dispenser here.
+You can go east, southeast, and out.
+Lily Kaise, Phoenix Dissident followed you.
+Lily Kaise, Phoenix Dissident sits down on a dark green leather captain's chair.
+sit chair
+You sit down on a dark green leather captain's chair.
+'ok, any specific place they're running to and from?
+'ok, any specific place they're running to and from?
+You ask, "Ok, any specific place they're running to and from?"
+You ask, "Ok, any specific place they're running to and from?"
+Lily Kaise, Phoenix Dissident says, "Well not exactly. I've seen them in various
+sectors going out to EAOS sectors and such."
+'ok
+You say, "Ok."
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Deadly Strike, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+ftl new
+The ship is already moving.
+ftl new
+Lily says to you, "Are you all right Love?"
+'I am.
+You say, "I am."
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident smiles.
+squeeze lily
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+stop
+Via general sector communication, New Earth transmits, "Hello there, Deadly
+Strike! Welcome to home space!"
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+You press a button to cancel the current autopilot program.
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+No recent FTL drive traces detected.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Hey it's shule."
+#unaction {^The computer announces, "%*"}
+[0m#OK. {^The computer announces, "%*"} IS NO LONGER AN ACTION.[0m
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Flight control scanners
+are too cool."
+tra 1 There's a Shule? Where?
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "Yup
+we're a dual deadly force!"
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"There's a Shule? Where?"
+Lily Kaise, Phoenix Dissident kisses you.
+Lily Kaise, Phoenix Dissident laughs.
+kiss lily
+You kiss Lily Kaise, Phoenix Dissident.
+laugh
+You laugh.
+ships
+There are no other ships in the sector.
+trace
+No recent FTL drive traces detected.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident squeezes you affectionately.
+kiss lily
+You kiss Lily Kaise, Phoenix Dissident.
+-lily I love you.
+You say to Lily, "I love you."
+Lily Kaise, Phoenix Dissident says, "Hmm a shuttle but that's probably Eli."
+Lily Kaise, Phoenix Dissident slumps in a dark green leather captain's chair and
+goes to sleep.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Lily Kaise, Phoenix Dissident suddenly awakens.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+A bright river of light dominates the view of space here: a tendril of dust
+lightyears long, illuminated from within by a handful of newborn stars.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to Hoyt Moonbase in thirty seconds unless aborted or another navigation
+order is entered."
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Via general sector communication, Hoyt transmits, "Hello there, Deadly Strike!
+Welcome to home space!"
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+grin lily
+You grin at Lily Kaise, Phoenix Dissident.
+rd
+Hoyt Orbit (AEU) [Human Interalliance Space] (Security: Beta-1)
+Coordinate rundown:
+Starships: Deadly Strike (AEU) at (7, 12, 13)
+Planets: (4, 13, 15)
+Space Stations: (11, 15, 13)
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+The computer reports that the long-range sightseer "Wandering Soul" has launched
+from Hoyt Moonbase.
+Lily Kaise, Phoenix Dissident presses some buttons on the communication board.
+Via general sector communication, this ship transmits a text-based transmission:
+"OUTCCORD MUST BE STOPPED! Trading in AEU Space only supports Outccord which is
+the WORST outcome for humanity!"
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Via general sector communication, Wandering Soul transmits a text-based
+transmission: "woo!"
+Lily Kaise, Phoenix Dissident presses some buttons on the communication board.
+Via general sector communication, this ship transmits a text-based transmission:
+"haha"
+Via general sector communication, Wandering Soul transmits a text-based
+transmission: "trying to figure something out"
+Lily Kaise, Phoenix Dissident presses some buttons on the communication board.
+Via general sector communication, this ship transmits a text-based transmission:
+"ok"
+The computer reports that the long-range sightseer "Wandering Soul" has jumped
+out of the sector.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily Kaise, Phoenix Dissident kisses you.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Lily Kaise, Phoenix Dissident says, "Hmm."
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+A single star shines brightly in the dark here, the light strangely comforting.
+The ship's sensors indicate that the star's spectrum is nearly identical to
+Sol's.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to Endymion in thirty seconds unless aborted or another navigation order
+is entered."
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Via general sector communication, Endymion transmits, "Hello there, Deadly
+Strike! Welcome to home space!"
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+No recent FTL drive traces detected.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+A bright river of light dominates the view of space here: a tendril of dust
+lightyears long, illuminated from within by a handful of newborn stars.
+Via general sector communication, Beacon B-17 transmits in a robotic voice,
+"Detecting vessel 'Deadly Strike.' Welcome to Riverway."
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to Providence Station in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, Providence Station transmits, "Hello there,
+Deadly Strike! Welcome to home space!"
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+Lily Kaise, Phoenix Dissident says, "Hmm ok."
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+Via general sector communication, New Earth transmits, "Hello there, Deadly
+Strike! Welcome to home space!"
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+Lily Kaise, Phoenix Dissident squeezes you affectionately.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident smiles at you.
+Lily says to you, "I deleted Evenia's keys to my ships. When you get around to
+it, you might want to delete the one to Starlight Express. She took the lIBS
+parts out of the warehouse that were needed to build the next Watchtower, the
+Recharging Station and the Transmitter in 777. So if we replace them which may
+do so until the beacons fail, then we'll have to buy the repair module and the
+charger and things. That is so petty of LIBS."
+Lily Kaise, Phoenix Dissident says, "I thought she wouldn't cave-in to Ather's."
+'ugh, ok. I will.
+You say, "Ugh, ok. I will."
+[Tactical Communication] Alko Delovega transmits, "Beacons?"
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a decoy beacon launcher, a wormhole drive tracer, a dark green leather
+captain's chair, a small hot beverage dispenser, and a small hot coffee
+dispenser here.
+Lily Kaise, Phoenix Dissident is sitting on a dark green leather captain's
+chair.
+You can go east, southeast, and out.
+(You are sitting on a dark green leather captain's chair.)
+Lily Kaise, Phoenix Dissident cuddles up to you.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to Telex in thirty seconds unless aborted or another navigation order is
+entered."
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+Via general sector communication, Telex transmits, "Hello there, Deadly Strike!
+Welcome to home space!"
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+cuddel lily
+I don't understand that.
+\ecuddle lily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise, Phoenix Dissident.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (19/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+7
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+* [2] AEU
+* [3] Organizations
+  [4] OOC
+--
+  [5] Quit
+--
+Enter your selection:
+2
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] Trading
+  [3] Battle Reports
+* [4] Debate
+  [5] Strategy
+  [6] Common Knowledge
+--
+  [7] Return
+  [8] Quit
+--
+Enter your selection:
+4
+--
+FTL Interalliance Communications Network
+--
+  [1] Re: Proposal: Do you believe the   (AEU Pilot Liaison Office)
+  [2] Voting for Fifty-ninth Term Begin  (AEU Pilot Liaison Office)
+  [3] Fifty-ninth Term Voting Results    (AEU Pilot Liaison Office)
+  [4] The Fifty-ninth Term Has Begun     (AEU Pilot Liaison Office)
+  [5] Proposal: Should we send a delega  (AEU Pilot Liaison Office)
+  [6] Re: Proposal: Should we send a de  (AEU Pilot Liaison Office)
+  [7] Re: Proposal: Should we send a de  (Vernos Bailey)
+  [8] Nominations for Sixtieth Term      (AEU Pilot Liaison Office)
+  [9] Re: Nominations for Sixtieth Term  (AEU Pilot Liaison Office)
+  [10] Voting for Sixtieth Term Begins!  (AEU Pilot Liaison Office)
+  [11] Sixtieth Term Voting Results      (AEU Pilot Liaison Office)
+  [12] The Sixtieth Term Has Begun       (AEU Pilot Liaison Office)
+  [13] Proposal: Edward van Dannikin's   (AEU Pilot Liaison Office)
+  [14] Re: Proposal: Edward van Danniki  (AEU Pilot Liaison Office)
+* [15] Proposal: The Union should remai  (AEU Pilot Liaison Office)
+* [16] Proposal: The Union government s  (AEU Pilot Liaison Office)
+* [17] Re: Proposal: The Union should r  (AEU Pilot Liaison Office)
+* [18] Re: Proposal: The Union governme  (AEU Pilot Liaison Office)
+--
+  [19] Return
+  [20] Post
+  [21] Quit
+--
+Enter your selection:
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+No recent FTL drive traces detected.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+A bright river of light dominates the view of space here: a tendril of dust
+lightyears long, illuminated from within by a handful of newborn stars.
+Via general sector communication, Beacon B-17 transmits in a robotic voice,
+"Detecting vessel 'Deadly Strike.' Welcome to Riverway."
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+n
+Invalid selection.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a decoy beacon launcher, a wormhole drive tracer, a dark green leather
+captain's chair, a small hot beverage dispenser, and a small hot coffee
+dispenser here.
+Lily Kaise, Phoenix Dissident is sitting on a dark green leather captain's
+chair.
+You can go east, southeast, and out.
+(You are sitting on a dark green leather captain's chair.)
+caress lily on back
+You gently caress Lily Kaise, Phoenix Dissident's back.
+Lily gently rubs your back and strokes your hair.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily says to you, "I am so happy that you're here."
+smile lily 
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+wrap lily
+You smile at Lily Kaise, Phoenix Dissident.
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+kiss lily on lips
+l
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to Providence Station in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, Providence Station transmits, "Hello there,
+Deadly Strike! Welcome to home space!"
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+Lily Kaise, Phoenix Dissident says, "I like to hangout in these two sectors as
+they generally have to go through these if they're heaaded somewhere."
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+Lily Kaise, Phoenix Dissident asks, "Are you ok with my flying in this?"
+Lily Kaise, Phoenix Dissident says, "I won't engage in battle."
+Lily Kaise, Phoenix Dissident grins at you.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+§\egrin lily
+'Sure.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+Via general sector communication, New Earth transmits, "Hello there, Deadly
+Strike! Welcome to home space!"
+The computer reports that the two-person medium transport "Indefatigable" has
+jumped out of the sector.
+The computer reports that the long-range sightseer "Wandering Soul" has jumped
+into the sector.
+Via general sector communication, New Earth transmits, "Hello there, Wandering
+Soul! Welcome to home space!"
+Via general sector communication, Wandering Soul transmits a text-based
+transmission: "Best's wrecklessness will bring ruin to all of us. Help us stop
+it by trading elsewhere"
+Via general sector communication, Wandering Soul transmits a text-based
+transmission: "Rock the Vote!"
+Lily Kaise, Phoenix Dissident presses some buttons on the communication board.
+Via general sector communication, this ship transmits a text-based transmission:
+"heh it was a Fringy"
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Lily Kaise, Phoenix Dissident presses some buttons on the communication board.
+Via general sector communication, this ship transmits a text-based transmission:
+"yeah we'll rock 'em all right!"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Here's a great one from
+the protest that you guys will get a kick out of."
+Via general sector communication, Wandering Soul transmits a text-based
+transmission: "Stop Outccord! Pulling out never works!"
+Lily Kaise, Phoenix Dissident keys her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident chuckles.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "I so
+wish I could have been there as I had plenty of my own to express. People are
+such pigs at times."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "You guys didn't miss
+much. Aside from someone in a hovercar trying to act like they were going to hit
+us, and a bunch of hooligans throwing rocks when Aisling showed up."
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "I
+thought Evenia was my friend and she's done some nasty things."
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "So
+I'll never trust her again."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Erm Evenia?"
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "Yes
+Evenia."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "What did she do?"
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits,
+"Others had said how she is but I didn't acknowledge what they waid. But now I
+know her game."
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a decoy beacon launcher, a wormhole drive tracer, a dark green leather
+captain's chair, a small hot beverage dispenser, and a small hot coffee
+dispenser here.
+Lily Kaise, Phoenix Dissident is sitting on a dark green leather captain's
+chair.
+You can go east, southeast, and out.
+(You are sitting on a dark green leather captain's chair.)
+I don't understand that.
+Please do not enter so many commands at once.
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "Said
+that is as I know how people talk but she manipulates big time and it is clear
+now."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Last time I saw her she
+was fretting because the orgs were having her do something she said you weren't
+going to like."
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "Yeah
+and guess what she was a big player."
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "So
+it's not so much as 'don't like' but it's more to do with betrayal and
+mean-spirited behavior on her part."
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+A bright river of light dominates the view of space here: a tendril of dust
+lightyears long, illuminated from within by a handful of newborn stars.
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+No recent FTL drive traces detected.
+Via general sector communication, Beacon B-17 transmits in a robotic voice,
+"Detecting vessel 'Deadly Strike.' Welcome to Riverway."
+Lily Kaise, Phoenix Dissident presses a button and brings up the FTL flight
+control board.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to Providence Station in thirty seconds unless aborted or another
+navigation order is entered."
+Lily Kaise, Phoenix Dissident presses a button on the FTL drive tracer control
+board.
+Lily Kaise, Phoenix Dissident glances at the resulting list of recent FTL drive
+traces.
+Via general sector communication, Providence Station transmits, "Hello there,
+Deadly Strike! Welcome to home space!"
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Lily Kaise, Phoenix Dissident presses a button to cancel the current autopilot
+program.
+Lily Kaise, Phoenix Dissident presses a button, calling up the coordinate
+rundown, and studies it for a moment.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Weird I must have missed
+something."
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "Well
+i'm sure you did because she was playing her manipulation game as she sure did
+not express me in any form whatsoever that what she did, she was regregful
+over."
+Lily Kaise, Phoenix Dissident speaks into her neon purple metachannel FTL
+communicator:
+[AEU | 1: Alliance Communication] Lily Kaise, Phoenix Dissident transmits, "I
+also noticed most of the soldiers in my Mule gone earlier and she was one of the
+few who had a key and she was so much into denying that she takes felo. I told
+her she could take felo but I was down to just about 3."
+Lily Kaise, Phoenix Dissident cuddles up to you.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Ugh, I wonder why she
+would even take them, I think she's got like hal a billion of htem or
+something."
+l
+#end
+[0m#SESSION 'StarConquest' DIED.[0m

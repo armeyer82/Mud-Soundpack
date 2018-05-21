@@ -1,0 +1,3953 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu May 26 15:50:17 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the large violet glowing
+felo here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: You can type WHO to see which other pilots are around.
+**
+who
+There appear to be 12 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Brad Pinkett  (A)
+Robert O'Malley  (L) [c]
+Joel Kringle  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Caleb Davenport  (L)
+Rogue Romano  (F)
+Cesar Ysidro  (F) [a]
+Michael Winters  (F)
+Alysara Masters  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+eta
+The ship is not moving.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+You're already there.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+wear helm
+You are already wearing a gold spacesuit helmet.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+Underneath this, you are wearing a pair of washed light khaki canvas sneakers.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a box with a single horn-like protrusion in your right hand.
+put bo in con
+You put a box with a single horn-like protrusion into a large expandable
+telescoping xenology container.
+cycle
+You press a large button marked CYCLE.
+who
+There appear to be 12 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Brad Pinkett  (A)
+Robert O'Malley  (L) [c]
+Joel Kringle  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Caleb Davenport  (L)
+Rogue Romano  (F)
+Cesar Ysidro  (F) [a]
+Michael Winters  (F)
+Alysara Masters  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+who
+There appear to be 12 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Brad Pinkett  (A)
+Robert O'Malley  (L) [c]
+Joel Kringle  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Caleb Davenport  (L)
+Rogue Romano  (F)
+Cesar Ysidro  (F) [a]
+Michael Winters  (F)
+Alysara Masters  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (10, 5, 20)
+William Dove: (10, 5, 20)
+Artifacts:
+   (11, 5, 20)
+d
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(15 seconds roundtime.)
+take sphere
+Wait 10 seconds.
+take sphere
+Wait 3 seconds.
+take sphere
+Wait 2 seconds.
+take sphere
+Wait 1 seconds.
+take sphere
+Wait 1 seconds.
+take sphere
+You grab a sphere of cohesive slow-flowing liquid as it floats before you.
+a
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(18 seconds roundtime.)
+enter
+Wait 17 seconds.
+enter
+Wait 10 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+who
+There appear to be 12 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Brad Pinkett  (A)
+Robert O'Malley  (L) [c]
+Joel Kringle  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Caleb Davenport  (L)
+Rogue Romano  (F)
+Cesar Ysidro  (F) [a]
+Michael Winters  (F)
+Alysara Masters  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the large violet glowing
+felo here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+Underneath this, you are wearing a pair of washed light khaki canvas sneakers.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a sphere of cohesive slow-flowing liquid in your right hand.
+put sphere in con
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
+vector e
+You make a selection on the AutoVector control board.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+remove helm
+You remove a gold spacesuit helmet from your head.
+who
+There appear to be 12 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Brad Pinkett  (A)
+Robert O'Malley  (L) [c]
+Joel Kringle  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Caleb Davenport  (L)
+Rogue Romano  (F)
+Cesar Ysidro  (F) [a]
+Michael Winters  (F)
+Alysara Masters  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the large violet glowing
+felo here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+i
+You are wearing a black spacesuit top with a red star on the right shoulder, a
+pair of black spacesuit gloves with a gold stripe around each cuff, a black
+spacesuit bottom with a red stripe down the outside of each leg, and a pair of
+black spacesuit boots with a gold stripe down each side.
+Underneath this, you are wearing a pair of washed light khaki canvas sneakers.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your head, face, both eyes, and neck are left uncovered.
+You are carrying a gold spacesuit helmet in your right hand.
+l lily
+Lily Kaise (asleep)
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average, naturally
+shaped breasts with prominent rosy nipples. Her abdomen is attractive and
+punctuated by a cute navel. More intimately, she has soft pale honey blonde
+pubic hair and a girlish butt. Her face is oval and pretty, with a delicate nose
+and understated chin. Her lips are lovely and blush pink and occasionally part
+to reveal a set of pretty teeth. Beneath a set of arched eyebrows, her eyes are
+blue-green and almond-shaped. Her waist-length, straight hair is pale honey
+blonde and swept up into a thick fall of loose curls down her back. She has oval
+pink fingernails.
+A small enameled crimson dragon pierces her belly button, a small enameled
+cerulean blue dragonfly pierces her left earlobe, and a small enameled cerulean
+blue dragonfly pierces her right earlobe.
+She is wearing a pair of purple synthleather engineer boots with criss-crossing
+adjustable straps.
+She is also wearing an orange and white blessed prayer bracelet around her
+wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a neon
+purple wrist-mounted chronometer, a solid silver ring engraved with dragonflies,
+a delicate ring of silver wire and small purple amethyst crystals, a metallic
+gold touch einrophone in a metallic purple reinforced plastic phone holster, and
+a soft fuchsia Tardick lizard snuggly labeled 'Asteria'.
+Her head, face, both eyes, neck, both shoulders, chest, back, both biceps, both
+elbows, abdomen, both forearms, both wrists, both hands, waist, both hips,
+groin, both thighs, both knees, both calves, and both ankles are left uncovered.
+She is carrying nothing.
+who
+There appear to be 12 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Brad Pinkett  (A)
+Robert O'Malley  (L) [c]
+Joel Kringle  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Caleb Davenport  (L)
+Rogue Romano  (F)
+Cesar Ysidro  (F) [a]
+Michael Winters  (F)
+Alysara Masters  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the large violet glowing
+felo here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+Lily Kaise suddenly awakens.
+smile lily
+You smile at Lily.
+Lily smiles at you.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+Lily Kaise says, OOCly, "Had to reboot."
+ooc It's ok. I lost connection for some reason.
+You say, OOCly, "It's ok. I lost connection for some reason."
+wrap lily
+You wrap your arms around Lily, pulling her close.
+'Are you ready to go to bed?
+Lily cuddles up to you.
+"Are you ready to go to bed?" you ask.
+cuddle lily
+You cuddle up to Lily.
+Lily says, "Yeah pretty soon but there's an artifact here."
+Lily grins.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily says, "Oh was."
+Lily laughs.
+laugh 'I got it
+You laugh. "I got it."
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+'come on
+You say, "Come on."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+Lily Kaise glides south.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a glossy slate blue ceramic felo chow bowl, and a white
+microwave oven here.
+Lily Kaise is standing here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a high tech silver star print holovid, a dusky pink rattan cabinet, a wall-sized
+bubbling coral pink-lit aquarium containing yellow and violet aquatic life and
+multicolored round rocks, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, a wall-sized bubbling neon
+purple-lit aquarium containing ivory and onyx aquatic life and sea green and
+neon blue round rocks, a glossy pale pink ceramic felo chow bowl, and Sassie the
+large fuchsia felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a long plasteel counter, a pair of narrow bunks, a small seashell pink
+trash can, a turquoise rattan dresser with brass handles and a glass-covered
+top, a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a large periwinkle bed pillow, and a
+hand-made purple and amethyst flower quilt on it, a large oval dark purple and
+light purple cloth rug, and a glossy sapphire blue ceramic felo chow bowl here.
+You can go out.
+Lily Kaise glides in from the north.
+use shooting
+You are currently wearing portions of a spacesuit. Do you wish to unsuit now?
+[Enter `yes' or `no']
+y
+You remove the components of your spacesuit and place them neatly into a black
+flightbag with a red shooting star on the side.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+Lily Kaise pulls a pair of purple synthleather engineer boots with
+criss-crossing adjustable straps off of her feet.
+Lily Kaise puts down a pair of purple synthleather engineer boots with
+criss-crossing adjustable straps.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily.
+Lily Kaise kisses you softly on the neck.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Lily points at your sneakers.
+Lily grins.
+remove sneakers
+You pull a pair of washed light khaki canvas sneakers off of your feet.
+sit bed
+You sit up onto a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+drop sneakers
+You put down a pair of washed light khaki canvas sneakers.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+cuddle lily
+You cuddle up to Lily.
+Lily cuddles up to you.
+kiss lily on breasts
+You kiss Lily Kaise on one of her breasts.
+Lily Kaise leans close to you and kisses you softly on the chest.
+emote slips his hand between your legs and caresses and plays with your clit.
+Shule slips his hand between your legs and caresses and plays with your clit.
+Lily holds your nice manness in one hand and leans towards you while gently
+playing her tongue over one of your nipples.
+Lily smiles.
+Lily gently caresses and strokes you.
+Lily Kaise softly licks your nipple.
+smile lily
+You smile at Lily.
+Lily smiles.
+Lily Kaise gently caresses your groin.
+emote slips a finger inside your sex.
+Shule slips a finger inside your sex.
+emote groans with pleasure.
+Shule groans with pleasure.
+Lily sighs softly.
+emote slips a second finger inside you.
+Shule slips a second finger inside you.
+Lily continues to caress and fondle you while gently stroking the tip of you and
+then leans toward you and gently flicks her tongue over the tip.
+emote moves his fingers in and out and uses his thumb to stimulate your clit.
+Shule moves his fingers in and out and uses his thumb to stimulate your clit.
+emote whispers, "Oh yeah, keep going."
+Shule whispers, "Oh yeah, keep going."
+[Notification from Starseekers] A load of salvage has been received at League
+Salvage Processing Nuclear Temporary Station from the two-person light transport
+"Glorious Treasure". The organization has earned 305,899.23 credits.
+Lily with both hands, moves her hands from the tip towards you pulling the skin
+taught in a gentle up and downward motion while taking one hand and gently
+touching and stroking around your sensitive and sexyness.
+Lily smiles.
+smile lily
+You smile at Lily.
+[Newbie Help] Brad Pinkett transmits, "How do I get to this temperary asteroid
+station when it is too far for autotravel?"
+Lily continues while moving her hips gently u p and sown.
+Lily Kaise says, OOCly, "Down."
+grin lily
+You grin at Lily.
+[Newbie Help] Robert O'Malley transmits, "I do believe that's an in-character
+question."
+Lily grins at you.
+[Newbie Help] Brad Pinkett transmits, "Okay."
+emote moves his fingers in and out faster.
+Shule moves his fingers in and out faster.
+Lily Kaise whispers, "Do you like that? Is there something you'd like for me to
+do?"
+[Newbie Help] Lillian Hudson transmits, "You can ask in character questions here
+sometimes, first of all, if you need an out of character explanation."
+Lily sighs and moans a little.
+emote whispers, "Just keep doing tha"
+Shule whispers, "Just keep doing tha"
+Lily smiles.
+'er, that
+You say in a New Phoenician accent, "Er, that."
+[Newbie Help] Lillian Hudson transmits, "Secondly, there are some instances
+where autotravel will not work, such as if you're too far away from the temp
+station and you're not in a ship with a rift drive. Try moving back the
+direction you came for a few sectors, then try again."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+fir+t ti'r p@`fo*mance goal! Let's]:eep pushing fo. ^he secon&!"
+Lily leans down and puts her lips around you and moves them up and down over
+you.
+emote moans, "Oh yeah baby."
+Shule moans, "Oh yeah baby."
+emote bends his fingers and begins playing with your g-spot.
+Shule bends his fingers and begins playing with your g-spot.
+Lily wile at the same time, gently touching and caressing your sexy tip with her
+tongue.
+Lily looks up at you and smiles and continues.
+emote groans pleasurably.
+Shule groans pleasurably.
+Lily notices with pleasure as you begin to get hard and erect.
+Lily smiles at you.
+Lily Kaise whispers, "Want to come inside?"
+emote moves his fingers in and out faster making sure to rhythmically press
+against your g-spot.
+Shule moves his fingers in and out faster making sure to rhythmically press
+against your g-spot.
+Lily continues moving her hips up and down.
+emote whispers, "Yeah."
+Shule whispers, "Yeah."
+Lily smiles at you.
+sit bed
+You sit up onto a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+lie lily
+You lie down on Lily Kaise.
+Lily Kaise whispers, "Well come on in Baby!"
+Lily grins.
+grin lily
+You grin at Lily.
+Lily withdraws her lips from you and lies back on the pillow.
+emote reaches down and places his seex at your opening then with a single
+thrust, buries himself inside you completely.
+Shule reaches down and places his seex at your opening then with a single
+thrust, buries himself inside you completely.
+Lily sighs with pleasure.
+Lily moves her hips upwards towards while pressing up against you.
+emote begins moving with slow, deep thrusts.
+Shule begins moving with slow, deep thrusts.
+Lily moves in unison with you while sighing and moaning softly.
+emote whispers, "It feels so good inside you."
+Shule whispers, "It feels so good inside you."
+Lily Kaise whispers, "I love how you feel inside me. You are just perfect!"
+smile lily
+You smile at Lily.
+Lily beams at you.
+Lily Kaise whispers, "Come on Baby."
+emote increases his pace and reaching down, begins playing with your clit.
+Shule increases his pace and reaching down, begins playing with your clit.
+Lily sighs and moans a little louder but still softly.
+Lily Kaise whispers, "I'm not a screamer hehe."
+Lily grins.
+grin lily
+You grin at Lily.
+Lily Kaise kisses you.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily pushes towards you and takes you in as deeply as she can.
+emote moves his hips in and out even faster and rubs your clit harder.
+Shule moves his hips in and out even faster and rubs your clit harder.
+Lily breathes deeply ... in and out ... and in and out as her pulsate.whole body
+begins to tingle and.
+Lily Kaise says, OOCly, "Damn it."
+Lily laughs.
+[Tactical Communication] Nathaniel Owens transmits, "N~sts>"
+Lily breathes deeply ... in and out ... and in and out as her whole body begins
+to tingle and pulsate!
+smile lily
+You smile at Lily.
+Lily Kaise kisses you on the lips.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the north.
+emote kisses you back and his body tenses aswith a groan, he cums deep inside
+you.
+Shule kisses you back and his body tenses aswith a groan, he cums deep inside
+you.
+Lily wraps her legs around yours and gently moves her hips up towards you and
+presses herself close to you while gently sighing.
+Lily Kaise whispers, "Oh you feel so wonderful."
+Lily Kaise whispers, "Thank you Babe."
+emote whispers, 'You feel heavenly."
+Shule whispers, 'You feel heavenly."
+Lily kiss soft and gentle kisses over your face and neck.
+emote whispers, 'Thank you."
+Shule whispers, 'Thank you."
+Lily smiles at you.
+emote breathing hard, @ covers your face and neeck with kisses.
+Breathing hard, Shule covers your face and neeck with kisses.
+Lily smiles at you.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Lily stifles a soft yawn.
+emote pulls out and lays down beside you.
+Shule pulls out and lays down beside you.
+sit bed
+You sit up onto a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+emote Lying on his side, @ pulls you into his arms.
+Lying on his side, Shule pulls you into his arms.
+Lily turns on her side and faces you while reaching out with one arm which she
+places across you.
+Lily smiles at you.
+smile lily
+You smile at Lily.
+Lily Kaise kisses you.
+Lily Kaise whispers, "I wish I never had to sleep..."
+emote whispers, "I know."
+Shule whispers, "I know."
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+emote rubs your back and strokes your hair.
+Shule rubs your back and strokes your hair.
+Lily Kaise whispers, "Thanks again."
+emote whispers, "Thank you so much and I love you so much."
+Shule whispers, "Thank you so much and I love you so much."
+Lily Kaise kisses you softly on the neck.
+Lily Kaise leans close to you and kisses you softly on the chest.
+Lily smiles at you.
+emote smiles tenderly at you.
+Shule smiles tenderly at you.
+Lily Kaise whispers, "I love you Shule."
+emote whispers, "I love you Lily."
+Lily smiles tenderly in return.
+Shule whispers, "I love you Lily."
+emote rubs your lower back and waist and entangles his legs with yours.
+Shule rubs your lower back and waist and entangles his legs with yours.
+Lily smiles.
+Lily tries to suppress another yawn.
+Lily grins.
+squeeze lily
+You squeeze Lily affectionately.
+Lily squeezes you affectionately.
+'Go to sleep babe.
+"Go to sleep babe," you say.
+Lily says, "Ok."
+smile lily
+You smile at Lily.
+Lily says in a New Earth accent, "Hope you find lots of artifacts."
+grin 'Me too
+You grin. "Me too."
+Lily smiles at you.
+Lily Kaise kisses you.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+Lily Kaise whispers, "Nite."
+emote whispers, "Night".
+Shule whispers, "Night".
+Lily Kaise whispers, "Love you."
+emote whispers, "I love you too."
+Shule whispers, "I love you too."
+Lily turns onto her back and settles into the bed.
+smile lily
+You smile at Lily.
+'sleep well
+"Sleep well," you say.
+sit bed
+You sit up onto a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+Lily says, "You too when you get tired of all of that artifacting..."
+grin
+You grin.
+Lily grins at you.
+kiss lily 'Thanks.
+Lily waves and smiles at you.
+I don't see "lily 'Thanks." here.
+wave
+You wave.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it.
+smile lily
+You smile at Lily.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a high tech silver star print holovid, a dusky pink rattan cabinet, a wall-sized
+bubbling coral pink-lit aquarium containing yellow and violet aquatic life and
+multicolored round rocks, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, a wall-sized bubbling neon
+purple-lit aquarium containing ivory and onyx aquatic life and sea green and
+neon blue round rocks, a glossy pale pink ceramic felo chow bowl, and Bert the
+hefty blue soldier felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a glossy slate blue ceramic felo chow bowl, and a white
+microwave oven here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+n
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the large violet glowing
+felo here.
+You can go south and out.
+You can't go that way.
+n
+You can't go that way.
+use shooting
+You are not currently wearing a spacesuit. Do you wish to suit up now?
+[Enter `yes' or `no']
+y
+You remove spacesuit components from a black flightbag with a red shooting star
+on the side and quickly don them.
+Unfortunately, you're still not fully suited.
+take helmet
+You already have a gold spacesuit helmet.
+wear helm
+You place a gold spacesuit helmet atop your head.
+eta
+The ship is not moving.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (3, 5, 8)
+William Dove: (3, 5, 8)
+Artifacts:
+   (3, 5, 7)
+-
+Enter direction on new z-level.
+s
+[Deep Space]
+You see an unfamiliar spherical component here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(16 seconds roundtime.)
+take spherical
+Wait 13 seconds.
+take spherical
+Wait 5 seconds.
+take spherical
+Wait 1 seconds.
+take spherical
+You grab an unfamiliar spherical component as it floats before you.
++
+Enter direction on new z-level.
+s
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(18 seconds roundtime.)
+enter
+Wait 16 seconds.
+enter
+Wait 6 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the large violet glowing
+felo here.
+You can go south and out.
+put spherical in con
+You put an unfamiliar spherical component into a large expandable telescoping
+xenology container.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+remove helm
+You remove a gold spacesuit helmet from your head.
+eta
+The ship is not moving.
+vector e
+You make a selection on the AutoVector control board.
+Jewel the large violet glowing felo wanders out.
+[Notification from Starseekers] The organization has received 2,164,305.53 EAOS
+credits from a toll payment to League Rift Accelerating Battery-Powered Toll
+Station in Home Beacon Gamma 025.
+A medium-sized semi-transparent bell-shaped creature with long dangling tendrils
+and a blue glowing interior drifts slowly past a string of light purple plastic
+kelp.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Jewel the large violet glowing felo wanders in from the airlock.
+A short yellow soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+Jewel the large violet glowing felo jumps into your lap and settles in, purring.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+eta
+The ship is not moving.
+Jewel the large violet glowing felo curls up and closes its eyes.
+out
+You scramble to your feet.
+Jewel the sleeping large violet glowing felo slides to the floor.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+l
+[Starship "William Dove"; Airlock]
+You see a large PANEL of environmental controls here. Lights overhead indicate
+that the ship is on green status. Looking through the windows, you see that the
+ship is in space. The hatch appears to be locked. A small green light near the
+hatch marks that the airlock currently possesses a safe environment.
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+wear helm
+You place a gold spacesuit helmet atop your head.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+out
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (8, 5, 19)
+William Dove: (8, 5, 19)
+Artifacts:
+   (8, 5, 20)
++
+Enter direction on new z-level.
+s
+[Deep Space]
+You see a dense dodecahedron-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+take mass
+Wait 9 seconds.
+take mass
+Wait 6 seconds.
+take mass
+Wait 4 seconds.
+take mass
+Wait 3 seconds.
+take mass
+Wait 3 seconds.
+take mass
+Wait 2 seconds.
+take mass
+Wait 2 seconds.
+take mass
+Wait 1 seconds.
+take mass
+You grab a dense dodecahedron-shaped metallic mass as it floats before you.
+-
+Enter direction on new z-level.
+s
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(15 seconds roundtime.)
+enter
+Wait 13 seconds.
+enter
+Wait 11 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a dense dodecahedron-shaped metallic mass in your right hand.
+put mass inccon
+I don't understand that.
+Try this instead:  put mass inccon in
+put mass in con
+You put a dense dodecahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+vector e
+You make a selection on the AutoVector control board.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+grips a white plastic undersea castle firmly in its claws, then gives up when it
+can't break the toy.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person hardened asteroid
+hauler "Move Along". The organization has earned 1,352,723.01 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits,
+"Ex+./l+nt<w;rk on our first p/rforman!e goal_ )et's go fo^+the,^ec,nd!"
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (11, 4, 3)
+William Dove: (11, 4, 3)
+Artifacts:
+   (11, 4, 2)
+-
+Enter direction on new z-level.
+s
+[Deep Space]
+You see a sphere of a material not unlike transparisteel here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+takesphere
+Wait 15 seconds.
+takesphere
+Wait 11 seconds.
+takesphere
+Wait 6 seconds.
+takesphere
+Wait 2 seconds.
+takesphere
+Wait 1 seconds.
+takesphere
+I don't understand that.
+take sphere
+You grab a sphere of a material not unlike transparisteel as it floats before
+you.
++
+Enter direction on new z-level.
+s
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(15 seconds roundtime.)
+enter
+Wait 12 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a sphere of a material not unlike transparisteel in your right
+hand.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+put sphere in con
+You put a sphere of a material not unlike transparisteel into a large expandable
+telescoping xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+vector e
+You make a selection on the AutoVector control board.
+who
+There appear to be 10 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Brad Pinkett  (A)
+Nicolette Lawrence  (L)
+Caleb Davenport  (L)
+Evenia Callseah  (F) [c]
+Paisley Jensen  (F)
+Nathaniel Owens  (F)
+Rogue Romano  (F)
+Michael Winters  (F)
+Tabi Canis  (F) [a]
+Additionally, there are 14 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 24 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A medium-sized semi-transparent cylindrical creature with long dangling tendrils
+and a chartreuse glowing interior drifts slowly across the tank.
+Jewel the sleeping large violet glowing felo meows, wriggles a bit, then goes
+back to sleep.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear hlem
+Wear what?
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person hardened asteroid
+hauler "Move Along". The organization has earned 352,689.62 credits.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (7, 3, 15)
+William Dove: (7, 3, 15)
+Artifacts:
+   (7, 3, 16)
++
+Enter direction on new z-level.
+s
+[Deep Space]
+You see an oddly-designed wormhole drive construct here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+take drive
+Wait 15 seconds.
+take drive
+Wait 10 seconds.
+take drive
+Wait 8 seconds.
+take drive
+Wait 7 seconds.
+take drive
+Wait 6 seconds.
+take drive
+Wait 5 seconds.
+take drive
+Wait 4 seconds.
+take drive
+Wait 4 seconds.
+take drive
+Wait 3 seconds.
+take drive
+Wait 2 seconds.
+take drive
+Wait 2 seconds.
+take drive
+Wait 1 seconds.
+take drive
+You grab an oddly-designed wormhole drive construct as it floats before you.
+-
+Enter direction on new z-level.
+s
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(18 seconds roundtime.)
+enter
+Wait 16 seconds.
+enter
+Wait 8 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+put shpere in con
+I see no "shpere".
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying an oddly-designed wormhole drive construct in your right hand.
+put drive in con
+You put an oddly-designed wormhole drive construct into a large expandable
+telescoping xenology container.
+vector e
+You make a selection on the AutoVector control board.
+si couch
+I don't understand that.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ a bit of stretchy synthetic material                                           
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 1]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 1]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 1]
+                                                                                
+  [Total: 12]
+--
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You are already wearing a gold spacesuit helmet.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (3, 19, 18)
+William Dove: (3, 19, 18)
+Artifacts:
+   (3, 20, 18)
+w
+[Deep Space]
+You see a dense tetrahedron-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(16 seconds roundtime.)
+take mass
+Wait 13 seconds.
+take mass
+Wait 5 seconds.
+take mass
+You grab a dense tetrahedron-shaped metallic mass as it floats before you.
+x
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(15 seconds roundtime.)
+enter
+Wait 13 seconds.
+put mss in con
+Wait 8 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+put mass in con
+You put a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+cycle
+You press a large button marked CYCLE.
+enter
+You may not leave the airlock while it is cycling.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+vector e
+You make a selection on the AutoVector control board.
+remove helm
+You remove a gold spacesuit helmet from your head.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (2, 4, 9)
+William Dove: (2, 4, 9)
+Artifacts:
+   (2, 3, 9)
+x
+[Deep Space]
+You see a dense tetrahedron-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(17 seconds roundtime.)
+take mass
+Wait 15 seconds.
+take mass
+You grab a dense tetrahedron-shaped metallic mass as it floats before you.
+w
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(16 seconds roundtime.)
+enter
+Wait 15 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+remove helm
+You remove a gold spacesuit helmet from your head.
+put mass in con
+You put a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+vector e
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 2, 5)
+William Dove: (4, 2, 5)
+Artifacts:
+   (4, 2, 4)
+-
+Enter direction on new z-level.
+s
+[Deep Space]
+You see a dense tetrahedron-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+take mass
+Wait 16 seconds.
+take mass
+Wait 8 seconds.
+take mass
+You grab a dense tetrahedron-shaped metallic mass as it floats before you.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 2, 4)
+William Dove: (4, 2, 5)
++
+Enter direction on new z-level.
+s
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(20 seconds roundtime.)
+enter
+Wait 19 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a dense tetrahedron-shaped metallic mass in your right hand.
+put mass in on
+You can't put a dense tetrahedron-shaped metallic mass in a black flightbag with
+a red shooting star on the side.
+put mass in con
+You put a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+vector e
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You are already wearing a gold spacesuit helmet.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycl
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+eout
+I don't understand that.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (12, 19, 20)
+William Dove: (12, 19, 20)
+Artifacts:
+   (12, 20, 20)
+w
+[Deep Space]
+You see a sphere of a material not unlike transparisteel here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(12 seconds roundtime.)
+take sphere
+Wait 9 seconds.
+take sphere
+Wait 4 seconds.
+take sphere
+Wait 3 seconds.
+take sphere
+Wait 3 seconds.
+take sphere
+Wait 2 seconds.
+take sphere
+Wait 2 seconds.
+take sphere
+Wait 1 seconds.
+take sphere
+You grab a sphere of a material not unlike transparisteel as it floats before
+you.
+x
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(17 seconds roundtime.)
+enter
+Wait 15 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a sphere of a material not unlike transparisteel in your right
+hand.
+put sphere in con
+You put a sphere of a material not unlike transparisteel into a large expandable
+telescoping xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+vector e
+You make a selection on the AutoVector control board.
+who
+There appear to be 5 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Nicolette Lawrence  (L)
+Evenia Callseah  (F) [c]
+Nathaniel Owens  (F)
+Tabi Canis  (F) [a]
+Additionally, there are 18 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 23 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+who
+There appear to be 5 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Nicolette Lawrence  (L)
+Evenia Callseah  (F) [c]
+Nathaniel Owens  (F)
+Tabi Canis  (F) [a]
+Additionally, there are 18 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 23 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Jewel the sleeping large violet glowing felo begins to move its legs as it
+sleeps, as if running.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+l comm
+a metallic silver metachannel FTL communicator
+A small device with analog tuning and transmission wheels, a small built-in
+microphone, and a miniature loudspeaker.
+There are no notices.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Person detected without complete spacesuit. Cycling
+will not proceed."
+wear helm
+You place a gold spacesuit helmet atop your head.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (6, 6, 12)
+William Dove: (6, 6, 12)
+Artifacts:
+   (6, 5, 12)
+x
+[Deep Space]
+You see an oddly-designed wormhole drive construct here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(14 seconds roundtime.)
+take drive
+Wait 11 seconds.
+take drive
+Wait 5 seconds.
+take drive
+Wait 3 seconds.
+take drive
+Wait 3 seconds.
+take drive
+Wait 2 seconds.
+take drive
+Wait 2 seconds.
+take drive
+Wait 1 seconds.
+take drive
+You grab an oddly-designed wormhole drive construct as it floats before you.
+w
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(12 seconds roundtime.)
+enter
+Wait 11 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying an oddly-designed wormhole drive construct in your right hand.
+put drive in con
+You put an oddly-designed wormhole drive construct into a large expandable
+telescoping xenology container.
+vector e
+You make a selection on the AutoVector control board.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 0.9 seconds.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ a bit of stretchy synthetic material                                           
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 1]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 4]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+                                                                                
+  [Total: 17]
+--
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+wear helm
+You are already wearing a gold spacesuit helmet.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (9, 14, 13)
+William Dove: (9, 14, 13)
+Artifacts:
+   (10, 15, 13)
+e
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(13 seconds roundtime.)
+take sphere
+Wait 10 seconds.
+take sphere
+Wait 2 seconds.
+take sphere
+Wait 1 seconds.
+take sphere
+You grab a sphere of cohesive slow-flowing liquid as it floats before you.
+z
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(17 seconds roundtime.)
+enter
+Wait 16 seconds.
+enter
+Wait 9 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a sphere of cohesive slow-flowing liquid in your right hand.
+[Newbie Help] Nathaniel Owens transmits, "In a mining sight, how do you check
+how much power your using?"
+tra new Type status
+[Newbie Help] Shule Elemmire transmits, "Type status."
+[Newbie Help] Nathaniel Owens transmits, "Thanks."
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a sphere of cohesive slow-flowing liquid in your right hand.
+put sphere in con
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
+enter
+You may not leave the airlock until its environment matches that of the ship.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Ex*el%ent
+work on our fi-st -erfor:!nce goa;! %e-'s go fo&*the s'$o\d!"
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+vector e
+You make a selection on the AutoVector control board.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 6.4 seconds.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ a bit of stretchy synthetic material                                           
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 4]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 2]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 2]
+                                                                                
+  [Total: 18]
+--
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+Jewel the sleeping large violet glowing felo suddenly sneezes, bolting upright.
+It blinks, then gradually sinks back to the ground and falls asleep again.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 3.7 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 4.1 seconds.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+raises its claws at a small plastic statue of a Jinu and snaps them menacingly
+while dancing around it.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+wear hem
+Wear what?
+wearhelm
+I don't understand that.
+wearhelm
+I don't understand that.
+wearhelm
+I don't understand that.
+zeqrhel,
+I don't understand that.
+wearhelm
+I don't understand that.
+l
+[Starship "William Dove"; Airlock]
+You see a large PANEL of environmental controls here. Lights overhead indicate
+that the ship is on green status. Looking through the windows, you see that the
+ship is in space. The hatch appears to be locked. A small green light near the
+hatch marks that the airlock currently possesses a safe environment.
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+wear helm
+You are already wearing a gold spacesuit helmet.
+out
+You may not leave the ship until the airlock's environment matches the external
+environment.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (9, 16, 3)
+William Dove: (9, 16, 3)
+Artifacts:
+   (9, 16, 2)
+-
+Enter direction on new z-level.
+s
+[Deep Space]
+You see a bit of stretchy synthetic material here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+take material
+Wait 13 seconds.
+take material
+Wait 7 seconds.
+take material
+Wait 5 seconds.
+take material
+Wait 5 seconds.
+take material
+Wait 3 seconds.
+take material
+Wait 3 seconds.
+take material
+Wait 2 seconds.
+take material
+Wait 1 seconds.
+take material
+Wait 1 seconds.
+take material
+You grab a bit of stretchy synthetic material as it floats before you.
++
+Enter direction on new z-level.
+s
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(16 seconds roundtime.)
+enter
+Wait 13 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 5 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+enter
+You may not leave the airlock until its environment matches that of the ship.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the sleeping large violet
+glowing felo here.
+You can go south and out.
+vector e
+You make a selection on the AutoVector control board.
+remove helm
+You remove a gold spacesuit helmet from your head.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 3.7 seconds.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 5, 14)
+William Dove: (4, 5, 14)
+Artifacts:
+   (4, 4, 15)
+-
+Enter direction on new z-level.
+x
+[Deep Space]
+You can go in any direction using a spacejet.
+You are weightless here.
+(17 seconds roundtime.)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (4, 4, 13)
+William Dove: (4, 5, 14)
+Artifacts:
+   (4, 4, 15)
++s
+Wait 8 seconds.
++s
+Wait 7 seconds.
++s
+Wait 6 seconds.
++s
+Wait 5 seconds.
++s
+Wait 4 seconds.
++s
+Wait 4 seconds.
++s
+Wait 3 seconds.
++s
+Wait 2 seconds.
++s
+Wait 2 seconds.
++s
+Wait 1 seconds.
++s
+I don't understand that.
++
+Enter direction on new z-level.
+s
+[Deep Space]
+You can go in any direction using a spacejet.
+You are weightless here.
+(17 seconds roundtime.)
++s
+Wait 11 seconds.
++s
+Wait 7 seconds.
++s
+Wait 6 seconds.
++s
+Wait 5 seconds.
++s
+Wait 4 seconds.
++s
+Wait 4 seconds.
++s
+Wait 3 seconds.
++s
+Wait 2 seconds.
++s
+Wait 2 seconds.
++s
+Wait 1 seconds.
++s
+I don't understand that.
++
+Enter direction on new z-level.
+s
+[Deep Space]
+You see an oddly-designed wormhole drive construct here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(15 seconds roundtime.)
+take drive
+Wait 12 seconds.
+take drive
+Wait 9 seconds.
+take drive
+Wait 8 seconds.
+take drive
+Wait 7 seconds.
+take drive
+Wait 6 seconds.
+take drive
+Wait 5 seconds.
+take drive
+Wait 5 seconds.
+take drive
+Wait 4 seconds.
+take drive
+Wait 3 seconds.
+take drive
+Wait 3 seconds.
+take drive
+Wait 2 seconds.
+take drive
+Wait 1 seconds.
+take drive
+You grab an oddly-designed wormhole drive construct as it floats before you.
+-
+Enter direction on new z-level.
+w
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(15 seconds roundtime.)
+enter
+Wait 13 seconds.
+points
+Point Totals:
+  Industry:           3606.7 
+  Space Combat:       3554.2 
+  Ground Combat:      881.8 
+  Exploration:        2427.3 
+  Aggregate:          10470
+  Teslapoints:        816
+  Org Contribution:   5.0%
+For a more detailed breakdown of your license points, visit any point center and
+get a summary!
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Jewel the large violet glowing
+felo here.
+You can go south and out.
+put drive in con
+You put an oddly-designed wormhole drive construct into a large expandable
+telescoping xenology container.
+vector e
+You make a selection on the AutoVector control board.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+beats its claws together.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+wear helm
+You are already wearing a gold spacesuit helmet.
+wear helm
+You are already wearing a gold spacesuit helmet.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (7, 12, 20)
+William Dove: (7, 12, 20)
+Artifacts:
+   (7, 13, 20)
+w
+[Deep Space]
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(13 seconds roundtime.)
+l
+[Deep Space]
+The vacuum of space seems oddly peaceful now that it surrounds you. It is not
+deep black as you expected, but seems to be filled with a diffuse glow. Stars
+glint all around you, stunningly bright and sharp with no atmosphere or
+vacuum-protected glass to distort their light. A wide smear of stars fills one
+area of the sky, pointing the way Coreward.
+You see a sphere of cohesive slow-flowing liquid here.
+You can go in any direction using a spacejet.
+You are weightless here.
+take sphere
+You grab a sphere of cohesive slow-flowing liquid as it floats before you.
+x
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(16 seconds roundtime.)
+enter
+Wait 3 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, and a small blue insulated cooler here.
+You can go south and out.
+put sphere in con
+You put a sphere of cohesive slow-flowing liquid into a large expandable
+telescoping xenology container.
+vector e
+You make a selection on the AutoVector control board.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly past a plastic frond of
+light green sea fern.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 2.3 seconds.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ a bit of stretchy synthetic material                                           
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 4]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 3]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 3]
+                                                                                
+  [Total: 20]
+--
+A short amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a plastic frond of light green sea fern.
+A short yellow soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+A short violet soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You are already wearing a gold spacesuit helmet.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (18, 19, 20)
+William Dove: (18, 19, 20)
+Artifacts:
+   (19, 19, 20)
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (18, 19, 20)
+William Dove: (18, 19, 20)
+Artifacts:
+   (19, 19, 20)
+d
+[Deep Space]
+You see a metallic hull plate of an unfamiliar design here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(11 seconds roundtime.)
+take plate
+Wait 9 seconds.
+take plate
+You grab a metallic hull plate of an unfamiliar design as it floats before you.
+a
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(20 seconds roundtime.)
+enter
+Wait 18 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, and a small blue insulated cooler here.
+You can go south and out.
+vector e
+You make a selection on the AutoVector control board.
+put plate in ocn
+I see no "ocn" here.
+put plate in con
+You put a metallic hull plate of an unfamiliar design into a large expandable
+telescoping xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 3.2 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 2.3 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ a bit of stretchy synthetic material                                           
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 4]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 3]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 3]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 1]
+                                                                                
+  [Total: 21]
+--
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 0.9 seconds.
+points
+Point Totals:
+  Industry:           3606.7 
+  Space Combat:       3554.2 
+  Ground Combat:      881.8 
+  Exploration:        2427.3 
+  Aggregate:          10470
+  Teslapoints:        816
+  Org Contribution:   5.0%
+For a more detailed breakdown of your license points, visit any point center and
+get a summary!
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+wear helm
+You place a gold spacesuit helmet atop your head.
+cycle
+You press a large button marked CYCLE.
+smell me
+You sniff at yourself. You smell the fresh fragrance of a sun-warmed grassy
+meadow.
+The computer announces, "Beginning cycling."
+smell me
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+You sniff at yourself. You smell the fresh fragrance of a sun-warmed grassy
+meadow.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+smell me
+You sniff at yourself. You smell the fresh fragrance of a sun-warmed grassy
+meadow.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (12, 18, 9)
+William Dove: (12, 18, 9)
+Artifacts:
+   (13, 18, 9)
+d
+[Deep Space]
+You see a box with a single horn-like protrusion here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+take box
+Wait 15 seconds.
+take box
+Wait 12 seconds.
+take box
+Wait 11 seconds.
+take box
+Wait 7 seconds.
+take box
+Wait 1 seconds.
+take box
+Wait 1 seconds.
+take box
+You grab a box with a single horn-like protrusion as it floats before you.
+a
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(12 seconds roundtime.)
+enter
+Wait 11 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a bit of stretchy synthetic material in your right hand, and a
+box with a single horn-like protrusion in your left hand.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, and a small blue insulated cooler here.
+You can go south and out.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a bit of stretchy synthetic material in your right hand, and a
+box with a single horn-like protrusion in your left hand.
+put box in con
+You put a box with a single horn-like protrusion into a large expandable
+telescoping xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+vector e
+You make a selection on the AutoVector control board.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "`e']e!met%our
+first$t{er perfo~(an~e goa|} Let's keep %ushing!for the second|"
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 3.7 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 1.4 seconds.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ a bit of stretchy synthetic material                                           
+  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 4]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 3]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 3]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 2]
+                                                                                
+  [Total: 22]
+--
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+wear hlem
+Wear what?
+The computer announces, "Person detected without complete spacesuit. Cycling
+will not proceed."
+wear helm
+You place a gold spacesuit helmet atop your head.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+l shooting
+a black flightbag with a red shooting star on the side
+This bag has a series of compartments specifically for holding spacesuit
+components.
+It is open.
+It is empty.
+out
+You may not leave the starship while it is moving.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a bit of stretchy synthetic material in your right hand.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (6, 4, 15)
+William Dove: (6, 4, 15)
+Artifacts:
+   (6, 3, 15)
+x
+[Deep Space]
+You see a box with a single horn-like protrusion here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(18 seconds roundtime.)
+take box
+Wait 16 seconds.
+take box
+Wait 14 seconds.
+take box
+Wait 13 seconds.
+take box
+Wait 12 seconds.
+take box
+Wait 7 seconds.
+take box
+Wait 6 seconds.
+take box
+Wait 2 seconds.
+take box
+Wait 1 seconds.
+take box
+You grab a box with a single horn-like protrusion as it floats before you.
+w
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(19 seconds roundtime.)
+enter
+Wait 18 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and Xavier the big silver soldier
+felo here.
+You can go south and out.
+i
+You are wearing a gold spacesuit helmet, a black spacesuit top with a red star
+on the right shoulder, a pair of black spacesuit gloves with a gold stripe
+around each cuff, a black spacesuit bottom with a red stripe down the outside of
+each leg, and a pair of black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your face, both eyes, and neck are left uncovered.
+You are carrying a bit of stretchy synthetic material in your right hand, and a
+box with a single horn-like protrusion in your left hand.
+put ox in ocn
+I see no "ox".
+put box in ocn
+I see no "ocn" here.
+put box in con
+You put a box with a single horn-like protrusion into a large expandable
+telescoping xenology container.
+vector e
+You make a selection on the AutoVector control board.
+remove helm
+You remove a gold spacesuit helmet from your head.
+points
+Point Totals:
+  Industry:           3606.7 
+  Space Combat:       3554.2 
+  Ground Combat:      881.8 
+  Exploration:        2427.3 
+  Aggregate:          10470
+  Teslapoints:        816
+  Org Contribution:   5.0%
+For a more detailed breakdown of your license points, visit any point center and
+get a summary!
+eta
+The ship's current engine speed is 26087 km/s.
+et
+I don't understand that.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 0.5 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 6.0 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 0.5 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 7.8 seconds.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 6.0 seconds.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ a bit of stretchy synthetic material                                           
+  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 4]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 3]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 3]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 3]
+                                                                                
+  [Total: 23]
+--
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 5.1 seconds.
+Xavier the big silver soldier felo rubs up against your ankle, purring softly.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand.
+take feather
+You need a free hand to take that.
+i
+You are wearing a black spacesuit top with a red star on the right shoulder, a
+pair of black spacesuit gloves with a gold stripe around each cuff, a black
+spacesuit bottom with a red stripe down the outside of each leg, and a pair of
+black spacesuit boots with a gold stripe down each side.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, a solid silver ring engraved with dolphins, a reactionless spacesuit jet,
+and a spacesuit navaid.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster.
+Your head, face, both eyes, and neck are left uncovered.
+You are carrying a bit of stretchy synthetic material in your right hand, and a
+gold spacesuit helmet in your left hand.
+put material in ocn
+I see no "ocn" here.
+put material in con
+You put a bit of stretchy synthetic material into a large expandable telescoping
+xenology container.
+take feather
+You remove a thin pole with a dancing yellow feather on the end from a round
+white rattan coffee table with a glass top.
+use feather on xavier
+You flick a thin pole with a dancing yellow feather on the end in the air around
+Xavier the big silver soldier felo.
+pet shasta
+I don't see that here.
+Xavier the big silver soldier felo gathers itself, then pounces at the feather.
+You flip a thin pole with a dancing yellow feather on the end around near Xavier
+the big silver soldier felo.
+Xavier the big silver soldier felo leaps after the feather.
+You put a thin pole with a dancing yellow feather on the end away.
+put feather on table
+You put a thin pole with a dancing yellow feather on the end on a round white
+rattan coffee table with a glass top.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand.
+take treat
+You help yourself to a small Bari-shaped tidbit.
+drop bari
+You put down a small Bari-shaped tidbit.
+eta
+The ship's current engine speed is 26087 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 3.7 seconds.
+Xavier the big silver soldier felo marches south.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly past a small plastic
+statue of a shark.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 1 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (12, 15, 8)
+William Dove: (12, 15, 8)
+Artifacts:
+   (12, 16, 8)
+w
+[Deep Space]
+You see a torn patch of unfamiliar woven fiber here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(20 seconds roundtime.)
+take fiber
+Wait 17 seconds.
+take fiber
+Wait 6 seconds.
+take fiber
+You grab a torn patch of unfamiliar woven fiber as it floats before you.
+x
+[Outside William Dove]
+You can go in any direction using a spacejet, or return to William Dove.
+You are weightless here.
+(18 seconds roundtime.)
+enter
+Wait 17 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a small mystic
+purple bioplastic crate, and a glossy seashell pink ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the five-person A.S.S. tactical platform "William Dove", open
+the hatch, and carefully float inside, orienting yourself so that your feet hit
+the floor as you enter the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, a round white rattan coffee
+table with a glass top, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, Purr the humanoid
+service robot, a glossy purple ceramic felo chow bowl, a clear plastic food
+storage container, a blue plastic food storage container, a compact red
+refrigerator, a small blue insulated cooler, and a small Bari-shaped tidbit
+here.
+You can go south and out.
+put fiber in con
+You put a torn patch of unfamiliar woven fiber into a large expandable
+telescoping xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+ftl f-2
+The computer announces, "Setting course to Outpost F-287."
+Something deep inside the starship roars to life as the lights dim sharply.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+The starship has left a unique area of space.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+The computer announces, "Autotravel destination reached."
+ships
+There are no other ships in the sector.
+ships
+There are no other ships in the sector.
+move
+AutoStar detects 2 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Temporary Stations:
+[1] AEU Passively Beaconed Fusion Temporary Station
+[2] League Rift Accelerating Battery-Powered Temporary Station
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: AEU Passively Beaconed
+Fusion Temporary Station.
+Would you like to dock at AEU Passively Beaconed Fusion Temporary Station?
+[Enter `yes' or `no']
+y
+You begin the docking sequence.
+silent
+You turn off the silent running feature.
+view con
+--
+ a dense cube-shaped metallic mass                                              
+  [Count: 1]
+ a rod made of malleable metal                                                  
+  [Count: 1]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 1]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 1]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 4]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 2]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 3]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 3]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 1]
+ a box with a single horn-like protrusion                                       
+  [Count: 3]
+ a bit of stretchy synthetic material                                           
+  [Count: 2]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 1]
+                                                                                
+  [Total: 25]
+--
+wear helm
+You place a gold spacesuit helmet atop your head.
+use shooting
+You are currently wearing portions of a spacesuit. Do you wish to unsuit now?
+[Enter `yes' or `no']
+y
+You remove the components of your spacesuit and place them neatly into a black
+flightbag with a red shooting star on the side.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a small dusky pink trash bin, a blueberry
+rattan pantry cabinet, a glossy slate blue ceramic felo chow bowl, a white
+microwave oven, Jewel the large violet glowing felo, and Xavier the big silver
+soldier felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a high tech silver star print holovid, a dusky pink rattan cabinet, a wall-sized
+bubbling coral pink-lit aquarium containing yellow and violet aquatic life and
+multicolored round rocks, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, a wall-sized bubbling neon
+purple-lit aquarium containing ivory and onyx aquatic life and sea green and
+neon blue round rocks, a glossy pale pink ceramic felo chow bowl, Samantha the
+large violet felo, and Bert the hefty blue soldier felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a long plasteel counter, a pair of narrow bunks, a small seashell pink
+trash can, a turquoise rattan dresser with brass handles and a glass-covered
+top, a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a large periwinkle bed pillow, and a
+hand-made purple and amethyst flower quilt on it, a large oval dark purple and
+light purple cloth rug, a glossy sapphire blue ceramic felo chow bowl, a pair of
+purple synthleather engineer boots with criss-crossing adjustable straps, and a
+pair of washed light khaki canvas sneakers here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+s
+You can't go that way.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+kiss ily
+I don't see "ily" here.
+kiss lily
+You kiss Lily Kaise.
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is at AEU Passively Beaconed Fusion
+Temporary Station; Docking Bay.
+You see a long plasteel counter, a pair of narrow bunks, a small seashell pink
+trash can, a turquoise rattan dresser with brass handles and a glass-covered
+top, a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a large periwinkle bed pillow, and a
+hand-made purple and amethyst flower quilt on it, a large oval dark purple and
+light purple cloth rug, a glossy sapphire blue ceramic felo chow bowl, a pair of
+purple synthleather engineer boots with criss-crossing adjustable straps, and a
+pair of washed light khaki canvas sneakers here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it.)
+quit
+    * You have been disconnected. Please come back soon. *
+#SESSION 'star' DIED.

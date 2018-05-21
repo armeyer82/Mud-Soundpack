@@ -1,0 +1,325 @@
+#CLASS {Numpad-fly} OPEN
+
+#MACRO {\e,}
+{
+	2
+}
+
+#MACRO {\e.}
+{
+	3
+}
+
+#MACRO {\e;\e,}
+{
+	-2
+}
+
+#MACRO {\e;\e.}
+{
+	-3
+}
+
+#MACRO {\e;\e;}
+{
+	fo
+}
+
+#MACRO {\e;\ei}
+{
+	-8
+}
+
+#MACRO {\e;\ej}
+{
+	-4
+}
+
+#MACRO {\e;\ek}
+{
+	-5
+}
+
+#MACRO {\e;\el}
+{
+	-6
+}
+
+#MACRO {\e;\em}
+{
+	-1
+}
+
+#MACRO {\e;\eo}
+{
+	-9
+}
+
+#MACRO {\e;\eu}
+{
+	-7
+}
+
+#MACRO {\eH}
+{
+	ufo
+}
+
+#MACRO {\eOl\eOl}
+{
+	fo
+}
+
+#MACRO {\eOl\eOq}
+{
+	-1
+}
+
+#MACRO {\eOl\eOr}
+{
+	-2
+}
+
+#MACRO {\eOl\eOs}
+{
+	-3
+}
+
+#MACRO {\eOl\eOt}
+{
+	-4
+}
+
+#MACRO {\eOl\eOu}
+{
+	-5
+}
+
+#MACRO {\eOl\eOv}
+{
+	-6
+}
+
+#MACRO {\eOl\eOw}
+{
+	-7
+}
+
+#MACRO {\eOl\eOx}
+{
+	-8
+}
+
+#MACRO {\eOl\eOy}
+{
+	-9
+}
+
+#MACRO {\eOm\eOm}
+{
+	ufo
+}
+
+#MACRO {\eOm\eOq}
+{
+	+1
+}
+
+#MACRO {\eOm\eOr}
+{
+	+2
+}
+
+#MACRO {\eOm\eOs}
+{
+	+3
+}
+
+#MACRO {\eOm\eOt}
+{
+	+4
+}
+
+#MACRO {\eOm\eOu}
+{
+	+5
+}
+
+#MACRO {\eOm\eOv}
+{
+	+6
+}
+
+#MACRO {\eOm\eOw}
+{
+	+7
+}
+
+#MACRO {\eOm\eOx}
+{
+	+8
+}
+
+#MACRO {\eOm\eOy}
+{
+	+9
+}
+
+#MACRO {\eOn}
+{
+	stop
+}
+
+#MACRO {\eOp}
+{
+	f
+}
+
+#MACRO {\eOq}
+{
+	1
+}
+
+#MACRO {\eOr}
+{
+	2
+}
+
+#MACRO {\eOs}
+{
+	3
+}
+
+#MACRO {\eOt}
+{
+	4
+}
+
+#MACRO {\eOu}
+{
+	c
+}
+
+#MACRO {\eOv}
+{
+	6
+}
+
+#MACRO {\eOw}
+{
+	7
+}
+
+#MACRO {\eOx}
+{
+	8
+}
+
+#MACRO {\eOy}
+{
+	9
+}
+
+#MACRO {\eh}
+{
+	fo
+}
+
+#MACRO {\ei}
+{
+	8
+}
+
+#MACRO {\ej}
+{
+	4
+}
+
+#MACRO {\ek}
+{
+	c
+}
+
+#MACRO {\el}
+{
+	6
+}
+
+#MACRO {\em}
+{
+	1
+}
+
+#MACRO {\en\ej}
+{
+	man
+}
+
+#MACRO {\en\ek}
+{
+	stop
+}
+
+#MACRO {\en\el}
+{
+	auto
+}
+
+#MACRO {\eo}
+{
+	9
+}
+
+#MACRO {\ep\e,}
+{
+	+2
+}
+
+#MACRO {\ep\e.}
+{
+	+3
+}
+
+#MACRO {\ep\ei}
+{
+	+8
+}
+
+#MACRO {\ep\ej}
+{
+	+4
+}
+
+#MACRO {\ep\ek}
+{
+	+5
+}
+
+#MACRO {\ep\el}
+{
+	+6
+}
+
+#MACRO {\ep\em}
+{
+	+1
+}
+
+#MACRO {\ep\eo}
+{
+	+9
+}
+
+#MACRO {\ep\eu}
+{
+	+7
+}
+
+#MACRO {\eu}
+{
+	7
+}
+
+#VARIABLE         {Mode}  {fly}
+
+#CLASS {Numpad-fly} CLOSE

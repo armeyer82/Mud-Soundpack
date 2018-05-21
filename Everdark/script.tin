@@ -18,13 +18,20 @@
 
 #ACTION {^%w tells you%*: %*}
 {
-	#system play ./Everdark/Sounds/chimes.wav -qV0 gain -h &
+	play chimes.wav
+}
+{5}
+
+#ACTION {^Green light streaks out of your gauntlets of Durg as you punch}
+{
+	play punch10.wav;
+	#line gag
 }
 {5}
 
 #ACTION {^Rolling thunder shakes the clouds around you.$}
 {
-	#system play ./Everdark/sounds/thunder.mp3 -qV0 gain -5 &
+	play thunder.mp3
 }
 {5}
 
@@ -41,73 +48,79 @@
 
 #ACTION {^The wind gusts with a fury, nearly toppling you over.$}
 {
-	#system play ./Everdark/sounds/wind.mp3 -qV0 &
+	play wind.mp3
 }
 {5}
 
 #ACTION {^You are drenched by a sheet of cold rain.$}
 {
-	#system play ./Everdark/sounds/rain.mp3 -qV0 gain -5 &
+	play rain.mp3
 }
 {5}
 
 #ACTION {^You hurl a dagger at}
 {
-	#system play ./Everdark/sounds/dagger.mp3 -qV0 &
+	play dagger.mp3
 }
 {5}
 
 #ACTION {^Your longbow fires a %w arrow}
 {
-	#system play ./Everdark/sounds/bow.mp3 -qV0 &
+	play bow.mp3
 }
 {5}
 
 #ACTION {^Your wings steer you clear of a bolt of lightning.$}
 {
-	#system play ./Everdark/sounds/lightning.mp3 -qV0 gain -h &
+	play lightning.mp3
 }
 {5}
 
 #ACTION {bad shape.$}
 {
-	#system say -v samantha -r 265 "bad shape"
+	speech "bad shape"
 }
 {5}
 
 #ACTION {bloodhound snarls and sinks {her|his} teeth into}
 {
-	#system play ./Everdark/sounds/dogbite.mp3 -qV0 gain -5 &
+	play dogbite.mp3
 }
 {5}
 
 #ACTION {died.$}
 {
-	#system play ./Everdark/sounds/tada.wav -qV0 &
+	play tada.wav
 }
 {5}
 
 #ACTION {not in good shape.$}
 {
-	#system say -v samantha -r 265 "not in good shape"
+	speech "not in good shape"
 }
 {5}
 
 #ACTION {slightly hurt.$}
 {
-	#system say -v samantha -r 265 "slightly hurt"
+	speech "slightly hurt"
 }
 {5}
 
 #ACTION {somewhat hurt.$}
 {
-	#system say -v samantha -r 265 "somewhat hurt"
+	speech "somewhat hurt"
 }
 {5}
 
 #ACTION {very bad shape.$}
 {
-	#system say -v samantha -r 265 "very bad shape"
+	speech "very bad shape"
+}
+{5}
+
+#ALIAS {=}
+{
+	m
 }
 {5}
 
@@ -159,12 +172,6 @@
 	{
 		speak in elven %0
 	}
-}
-{5}
-
-#ALIAS {g}
-{
-	listen
 }
 {5}
 
@@ -247,6 +254,7 @@
 #GAG              {^You drink the hot cup of coffee.}
 #GAG              {^You drop the empty}
 #GAG              {^You hurl a dagger at}
+#GAG              {^You missed.$}
 #GAG              {^You shoot the shot}
 #GAG              {^Your wings steer you clear of a bolt of lightning.$}
 #GAG              {bad shape.$}
@@ -257,24 +265,36 @@
 #GAG              {very bad shape.$}
 #MACRO {\e1}
 {
-	#system say -v samantha -r 265 "$HP"
+	speech "$HP"
 }
 
 #MACRO {\e2}
 {
-	#system say -v samantha -r 265 "$SP"
+	speech "$SP"
 }
 
-#MACRO {\eOQ}
+#MACRO {\e[25~}
+{
+	speech $HP
+}
+
+#MACRO {\e[29~}
+{
+	speech $SP
+}
+
+#MACRO {\eh}
 {
 	bl;
 	bc;
 	bc
 }
 
-#VARIABLE         {HP}  {274}
-#VARIABLE         {MHP}  {330}
-#VARIABLE         {MSP}  {226}
-#VARIABLE         {SP}  {210}
+#VARIABLE         {HP}  {322}
+#VARIABLE         {MHP}  {322}
+#VARIABLE         {MSP}  {234}
+#VARIABLE         {SP}  {169}
+#VARIABLE         {Volume}  {{ComputerVoice}{0.30}{GameSounds}{0.20}}
+#VARIABLE         {soundpath}  {./Everdark/Sounds}
 
 #CLASS {Everdark} CLOSE

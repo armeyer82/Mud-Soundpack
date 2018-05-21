@@ -1,0 +1,76 @@
+#CLASS {Socials} OPEN
+
+#ACTION {#$#soundpack emote | female | %*moans%*}
+{
+	play General/Socials/Moanf@rnd{5}.wav
+}
+{5}
+
+#ACTION {%* says something into {his|her} communicator.}
+{
+	play General/Socials/Transmit.wav
+}
+{5}
+
+#ACTION {^#$#soundpack emote | female | %* cries out %*}
+{
+	play General/Socials/Orgasmf@rnd{6}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | giggle | female}
+{
+	play General/Socials/GiggleF@rnd{7}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | kiss}
+{
+	play General/Socials/kiss.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | laugh | female}
+{
+	play General/Socials/LaughF@rnd{8}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | laugh | male}
+{
+	play General/Socials/LaughM@rnd{6}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | moan | female}
+{
+	play General/Socials/MoanF@rnd{5}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | moan | male}
+{
+	play General/Socials/MoanM@rnd{2}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | orgasm | female}
+{
+	play General/Socials/OrgasmF@rnd{6}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | slap}
+{
+	play General/Socials/Slap@rnd{5}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | spank}
+{
+	play General/Socials/Spank.wav
+}
+{5}
+
+
+#CLASS {Socials} CLOSE

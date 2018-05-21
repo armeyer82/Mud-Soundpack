@@ -1,0 +1,218 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Jan  2 21:30:22 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+afk
+You blink heavily and then doze off.
+connect-everdark
+#TRYING TO CONNECT 'Everdark' TO 'everdark.org' PORT '3000'.
+#SESSION 'StarConquest' ACTIVATED.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A long orange soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+#SESSION 'StarConquest' ACTIVATED.
+#SNOOPING SESSION 'StarConquest'
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+A hairy yellow eight-legged ArachnoPal named Higgins works his fangs.
+Buddy the hefty blue soldier felo marches in from the south.
+[Tactical Communication] Alko Delovega transmits, "One for beacons?"
+#SESSION 'StarConquest' ACTIVATED.
+[Tactical Communication] Erik Goodwin transmits, "Sure."
+#read ./StarConquest/Settings.tin
+#OK:   1 CLASS LOADED.
+#OK:   2 VARIABLES LOADED.
+[Tactical Communication] Alko Delovega transmits, "New earth."
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+Buddy the hefty blue soldier felo rubs up against your ankle, purring softly.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior pulsates gently.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+A long violet soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+Buddy the hefty blue soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Buddy the hefty blue soldier felo marches south.
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 57,866.74 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+A large thickly-shelled creature with a yellow shell and four small claws creeps
+across the bottom of the tank, snapping its many claws rapidly.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+grips a plastic wrecked EAOS Defender firmly in its claws, then gives up when it
+can't break the toy.
+[Tactical Communication] Alko Delovega transmits, "Beacons?"
+[Tactical Communication] Keegan Wantz transmits, "Your timing is impeccable."
+03:00:00
+[Tactical Communication] Alko Delovega transmits, "Beacons, anyone?"
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars inputs a command on a sensor panel and examines a
+long-range scan.
+[Miriani] Kitty Mars presses a complicated looking series of buttons on a
+navigational console.
+[Everdark] Silk tells you: nods but helpering you might have heard somethig so I
+had to
+[Everdark]    ask
+[Tactical Communication] Alko Delovega transmits, "2 spots."
+[Tactical Communication] Erik Goodwin transmits, "We could do destroyer things
+instead, if nothing else?"
+[Tactical Communication] Alko Delovega transmits, "We can do everything."
+[Tactical Communication] Alko Delovega transmits, "Oh, missions, instead?"
+[Tactical Communication] Erik Goodwin transmits, "Works for me."
+[Tactical Communication] Alko Delovega transmits, "Chase, nicolette, bryan?"
+[Tactical Communication] Chase Marshall transmits, "Sorry Alko, I gotta sleep."
+[Tactical Communication] Bryan Stout transmits, "Missions."
+[Tactical Communication] Alko Delovega transmits, "Yes, you in?"
+[Tactical Communication] Bryan Stout transmits, "Sure."
+[Tactical Communication] Alko Delovega transmits, "Ok, one more."
+[Tactical Communication] Nicolette Lawrence transmits, "I suppose I could do
+missions."
+[Tactical Communication] Alko Delovega transmits, "Awesome."
+[Tactical Communication] Alko Delovega transmits, "I am at new earth."
+[Tactical Communication] Bryan Stout transmits, "On the way."
+[Tactical Communication] Chase Marshall transmits, "Are you guys missing gunners
+still?"
+[Tactical Communication] Bryan Stout transmits, "Come on along chase we can do
+pincers."
+[Tactical Communication] Chase Marshall transmits, "I have a person bugging me
+on the line, can't sleep like this."
+[Tactical Communication] Erik Goodwin transmits, "If we used a frigate we are!"
+[Tactical Communication] Bryan Stout transmits, "I'll pick you guys up."
+[Tactical Communication] Bryan Stout transmits, "Fake earth."
+[Tactical Communication] Erik Goodwin transmits, "In the lounge whenever."
+[Tactical Communication] Erik Goodwin transmits, "Stay clear of crias."
+[Tactical Communication] Bryan Stout transmits, "Please to not fly into crias.
+Unless you'd like to be in an escape pod. Many fishes and rest in pieces. Love
+the Bryan."
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and an amethyst glowing interior pulsates gently.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+[Miriani] Kitty Mars presses a series of buttons on a sensor control board.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Tactical Communication] Bryan Stout transmits, "Crias is clear, proceed with
+your daily amount of mining and things."
+A short amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a small plastic statue of a shark.
+04:00:00
+A medium-sized semi-transparent bell-shaped creature with short dangling
+tendrils and a chartreuse glowing interior pulsates gently.
+Xavier the big silver soldier felo marches in from the south.
+A short amethyst soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+Xavier the big silver soldier felo marches out.
+Xavier the big silver soldier felo marches in from the airlock.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+snaps its claws menacingly at a string of light purple plastic kelp.
+Xavier the big silver soldier felo jumps into Lily Kaise's lap and settles in,
+purring.
+Xavier the big silver soldier felo curls up and closes its eyes.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A large thickly-shelled creature with a yellow shell and four small claws rears
+up against the glass and snaps its claws at the outside world.
+05:00:00
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tongue out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Temporary
+Station from the two-person medium transport "Star Of Gutenberg". The
+organization has earned 761,525.71 credits.
+A short amethyst soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A Tardick lizard named Asteria's spine ridges flicker blue for a brief moment.
+A Tardick lizard named Asteria trundles slowly south.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+connect-everdark
+#TRYING TO CONNECT 'Everdark' TO 'everdark.org' PORT '3000'.
+#SESSION 'StarConquest' ACTIVATED.
+#SESSION 'StarConquest' ACTIVATED.
+#UNSNOOPING SESSION 'StarConquest'
+#SESSION 'StarConquest' ACTIVATED.
+#zap
+#ZZZZZZZAAAAAAAAPPPP!!!!!!!!! LET'S GET OUTTA HERE!!!!!!!!
+#SESSION 'StarConquest' DIED.

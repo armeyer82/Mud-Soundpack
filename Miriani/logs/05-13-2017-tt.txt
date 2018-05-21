@@ -1,0 +1,2286 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Wed Mar 29 14:02:21 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+connect-starconquest
+[0mTHERE'S A SESSION WITH THAT NAME ALREADY.[0m
+connect-starconquest
+[0mTHERE'S A SESSION WITH THAT NAME ALREADY.[0m
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+[0m#SNOOPING SESSION 'StarConquest'[0m
+l
+Invalid selection.
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Happy"; Living Quarters]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at League Recharging
+Eatery & Billeting Nuclear Rest Station; Docking Bay.
+You see a long plasteel counter, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a set of lavender silk sheets,
+a large periwinkle bed pillow, and a hand-made purple and amethyst flower quilt
+on it, a large oval dark purple and light purple cloth rug, a small oval
+turquoise rattan table with a glass top, a small seashell pink trash can, a
+glossy pink ceramic felo chow bowl, and a pair of white leather clogs with a row
+of glittery fireflies across the toes here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle bed
+pillow, and a hand-made purple and amethyst flower quilt on it.)
+l
+[Starship "Happy"; Living Quarters]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at League Recharging
+Eatery & Billeting Nuclear Rest Station; Docking Bay.
+You see a long plasteel counter, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a set of lavender silk sheets,
+a large periwinkle bed pillow, and a hand-made purple and amethyst flower quilt
+on it, a large oval dark purple and light purple cloth rug, a small oval
+turquoise rattan table with a glass top, a small seashell pink trash can, a
+glossy pink ceramic felo chow bowl, and a pair of white leather clogs with a row
+of glittery fireflies across the toes here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle bed
+pillow, and a hand-made purple and amethyst flower quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Use the KNOWLEDGE command to see what you know about other pilots.
+**
+out
+You scramble to your feet.
+[Starship "Happy"; Storage Room]
+You see a glossy silver ceramic felo chow bowl and a Tardick lizard named
+Asteria here.
+You can go north and south.
+n
+[Starship "Happy"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+out
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+peer out
+You peer out...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+A small, basic docking bay is the core of the station, along with the life
+support system and resource storage. Small hatches lead to the other station
+modules.
+The four-person light carrier "Olympic Australis", the four-person light carrier
+"Riding The Crest", the one-person fighter "Pearl Of Allah", the four-person
+light carrier "Star Of Destiny", the two-person combat scout "Striking
+Distance", the four-person light carrier "Haydn Seek", the two-person hardened
+asteroid hauler "RockIt!", the two-person medium transport "Cubic Zirconia", the
+two-person medium transport "Next You'll Be Wanting Me To Name The Debris Too",
+the two-person medium transport "Grey Sky", the two-person isotope "Whisky On
+The Roids", the five-person hammerhead "Wuthering Fights", the four-person light
+carrier "Meteor Shower", the vostok-class capsule "Peregrine Falcon", the
+two-person hardened asteroid hauler "Not A Target Drone!", the two-person
+hardened asteroid hauler "Bolt Bucket", the vostok-class capsule "The Atocha
+Star", the five-person hammerhead "The Storm Petrel", and the long-range
+sightseer "Happy" are parked here.
+You can go north, east, south, west, up, and down.
+out
+You exit the ship.
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Olympic Australis", the four-person light carrier
+"Riding The Crest", the one-person fighter "Pearl Of Allah", the four-person
+light carrier "Star Of Destiny", the two-person combat scout "Striking
+Distance", the four-person light carrier "Haydn Seek", the two-person hardened
+asteroid hauler "RockIt!", the two-person medium transport "Cubic Zirconia", the
+two-person medium transport "Next You'll Be Wanting Me To Name The Debris Too",
+the two-person medium transport "Grey Sky", the two-person isotope "Whisky On
+The Roids", the five-person hammerhead "Wuthering Fights", the four-person light
+carrier "Meteor Shower", the vostok-class capsule "Peregrine Falcon", the
+two-person hardened asteroid hauler "Not A Target Drone!", the two-person
+hardened asteroid hauler "Bolt Bucket", the vostok-class capsule "The Atocha
+Star", the five-person hammerhead "The Storm Petrel", and the long-range
+sightseer "Happy" are parked here.
+You can go north, east, south, west, up, and down.
+peer u
+You peer up...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+You can go down.
+enter happy
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+enter
+[Starship "Happy"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+peer out
+You peer out...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+A small, basic docking bay is the core of the station, along with the life
+support system and resource storage. Small hatches lead to the other station
+modules.
+The four-person light carrier "Olympic Australis", the four-person light carrier
+"Riding The Crest", the one-person fighter "Pearl Of Allah", the four-person
+light carrier "Star Of Destiny", the two-person combat scout "Striking
+Distance", the four-person light carrier "Haydn Seek", the two-person hardened
+asteroid hauler "RockIt!", the two-person medium transport "Cubic Zirconia", the
+two-person medium transport "Next You'll Be Wanting Me To Name The Debris Too",
+the two-person medium transport "Grey Sky", the two-person isotope "Whisky On
+The Roids", the five-person hammerhead "Wuthering Fights", the four-person light
+carrier "Meteor Shower", the vostok-class capsule "Peregrine Falcon", the
+two-person hardened asteroid hauler "Not A Target Drone!", the two-person
+hardened asteroid hauler "Bolt Bucket", the vostok-class capsule "The Atocha
+Star", the five-person hammerhead "The Storm Petrel", and the long-range
+sightseer "Happy" are parked here.
+You can go north, east, south, west, up, and down.
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+A Tardick lizard named Asteria trundles slowly south.
+[0m[Miriani] [TSS] Chet Daniels transmits, "Mornin'."[0m
+[0m[Miriani] (Empanda Station; Observation Center) The six-person dart "Wings of An
+Angel" has jumped into the sector.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The six-person dart "Wings of An
+Angel" has docked with Pax (Neutral Docking Station).[0m
+[0m[Miriani] (Empanda Station; Observation Center) The six-person dart "Wings of An
+Angel" has undocked from Pax (Neutral Docking Station).[0m
+[0m[Miriani] (Empanda Station; Observation Center) The six-person dart "Wings of An
+Angel" has left the sector.[0m
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly south.
+[0m[Miriani] [General Communication] Cria Blur transmits, "9 spots."[0m
+A Tardick lizard named Asteria trundles slowly into the area.
+l
+[Starship "Happy"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at League Recharging Eatery & Billeting
+Nuclear Rest Station; Docking Bay.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, a small purple trash bin, and a Tardick lizard named
+Asteria here.
+You can go south and out.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Check your local space market for crafting supplies and informative books!
+**
+get suit
+You remove a small suitcase from a leather briefcase.
+get shipsuit from suit
+A small suitcase isn't open.
+open suit
+You open a small suitcase.
+get shipsuit from suit
+You remove a red shipsuit with white trim around the collar and cuffs from a
+small suitcase.
+wear shipsuit
+You step into a red shipsuit with white trim around the collar and cuffs and
+pull it over your arms.
+close suit
+You close a small suitcase.
+open suit
+You open a small suitcase.
+get sneakers
+You remove a pair of washed light khaki canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of washed light khaki canvas sneakers onto your feet.
+clsoe suit
+I don't understand that.
+put suit in biefcase
+I see no "biefcase" here.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+out
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Olympic Australis", the one-person fighter "Pearl
+Of Allah", the four-person light carrier "Star Of Destiny", the two-person
+combat scout "Striking Distance", the four-person light carrier "Haydn Seek",
+the two-person hardened asteroid hauler "RockIt!", the two-person medium
+transport "Cubic Zirconia", the two-person medium transport "Next You'll Be
+Wanting Me To Name The Debris Too", the two-person medium transport "Grey Sky",
+the two-person isotope "Whisky On The Roids", the five-person hammerhead
+"Wuthering Fights", the four-person light carrier "Meteor Shower", the
+vostok-class capsule "Peregrine Falcon", the two-person hardened asteroid hauler
+"Not A Target Drone!", the vostok-class capsule "The Atocha Star", the
+five-person hammerhead "The Storm Petrel", and the long-range sightseer "Happy"
+are parked here.
+You can go north, east, south, west, up, and down.
+peer u
+You peer up...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+You can go down.
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+A small, basic docking bay is the core of the station, along with the life
+support system and resource storage. Small hatches lead to the other station
+modules.
+The four-person light carrier "Olympic Australis", the one-person fighter "Pearl
+Of Allah", the four-person light carrier "Star Of Destiny", the two-person
+combat scout "Striking Distance", the four-person light carrier "Haydn Seek",
+the two-person hardened asteroid hauler "RockIt!", the two-person medium
+transport "Cubic Zirconia", the two-person medium transport "Next You'll Be
+Wanting Me To Name The Debris Too", the two-person medium transport "Grey Sky",
+the two-person isotope "Whisky On The Roids", the five-person hammerhead
+"Wuthering Fights", the four-person light carrier "Meteor Shower", the
+vostok-class capsule "Peregrine Falcon", the two-person hardened asteroid hauler
+"Not A Target Drone!", the vostok-class capsule "The Atocha Star", the
+five-person hammerhead "The Storm Petrel", and the long-range sightseer "Happy"
+are parked here.
+You can go north, east, south, west, up, and down.
+u
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+You see a beige sofa and a metal table here.
+You can go down.
+rd
+Op Station Rho 273 (Unclaimed) [Opik-Oort Signature 9363-4517] (Security:
+Delta-10)
+Coordinate rundown:
+Starships: Let Me Rock Your World (h) at (12, 11, 11)
+Temporary Space Structures: (2, 2, 1), (10, 11, 9), (1, 1, 6), (13, 12, 11),
+(12, 12, 11), (11, 12, 11), (10, 9, 9), (1, 19, 19)
+Debris: (3, 11, 14), (12, 5, 10), (13, 8, 9), (3, 11, 18), (5, 4, 19), (1, 5,
+20), (2, 18, 20), (18, 10, 9), (2, 9, 8), (10, 19, 15), (1, 4, 17), (19, 10, 5)
+d
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Olympic Australis", the one-person fighter "Pearl
+Of Allah", the four-person light carrier "Star Of Destiny", the two-person
+combat scout "Striking Distance", the four-person light carrier "Haydn Seek",
+the two-person hardened asteroid hauler "RockIt!", the two-person medium
+transport "Cubic Zirconia", the two-person medium transport "Next You'll Be
+Wanting Me To Name The Debris Too", the two-person medium transport "Grey Sky",
+the two-person isotope "Whisky On The Roids", the five-person hammerhead
+"Wuthering Fights", the four-person light carrier "Meteor Shower", the
+vostok-class capsule "Peregrine Falcon", the two-person hardened asteroid hauler
+"Not A Target Drone!", the vostok-class capsule "The Atocha Star", the
+five-person hammerhead "The Storm Petrel", and the long-range sightseer "Happy"
+are parked here.
+You can go north, east, south, west, up, and down.
+w
+[League Recharging Eatery & Billeting Nuclear Rest Station; Quarters]
+You can go east, southwest, west, and northwest.
+nw
+Those quarters are locked.
+e
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Olympic Australis", the one-person fighter "Pearl
+Of Allah", the four-person light carrier "Star Of Destiny", the two-person
+combat scout "Striking Distance", the four-person light carrier "Haydn Seek",
+the two-person hardened asteroid hauler "RockIt!", the two-person medium
+transport "Cubic Zirconia", the two-person medium transport "Next You'll Be
+Wanting Me To Name The Debris Too", the two-person medium transport "Grey Sky",
+the two-person isotope "Whisky On The Roids", the five-person hammerhead
+"Wuthering Fights", the four-person light carrier "Meteor Shower", the
+vostok-class capsule "Peregrine Falcon", the two-person hardened asteroid hauler
+"Not A Target Drone!", the vostok-class capsule "The Atocha Star", the
+five-person hammerhead "The Storm Petrel", and the long-range sightseer "Happy"
+are parked here.
+You can go north, east, south, west, up, and down.
+enter happy
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+enter
+[Starship "Happy"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, a small purple trash bin, and a Tardick lizard named
+Asteria here.
+You can go south and out.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+[0m[Miriani] (Empanda Station; Observation Center) A compact red sanitation drone
+arrives.[0m
+[0m[Miriani] [TSS] Michael Calaway roars.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Oblivion" has jumped into the sector.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Oblivion" has initiated an intrasector subwarp.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Oblivion" has landed on the planet Miriani.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] [TSS] Michael Calaway transmits, "Morning."[0m
+A Tardick lizard named Asteria trundles slowly south.
+[0m[Miriani] (Empanda Station; Observation Center) A compact red sanitation drone
+goes northwest.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon, a
+ship is firing weapons here."[0m
+l
+[Starship "Happy"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at League Recharging Eatery & Billeting
+Nuclear Rest Station; Docking Bay.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+peer out
+You peer out...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+A small, basic docking bay is the core of the station, along with the life
+support system and resource storage. Small hatches lead to the other station
+modules.
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the two-person medium transport "Next You'll
+Be Wanting Me To Name The Debris Too", the two-person medium transport "Grey
+Sky", the two-person isotope "Whisky On The Roids", the five-person hammerhead
+"Wuthering Fights", the four-person light carrier "Meteor Shower", the
+vostok-class capsule "Peregrine Falcon", the two-person hardened asteroid hauler
+"Not A Target Drone!", the five-person hammerhead "The Storm Petrel", and the
+long-range sightseer "Happy" are parked here.
+You can go north, east, south, west, up, and down.
+who
+There appear to be about 1 pilots recently active.
+The starship's computer detects:
+*Shule Elemmire  (A) [m]
+* == Out of communications range
+Additionally, there is 1 pilot who appears to have their communicator on but has
+not recently been active.
+Final total: 2 pilots.
+sit sofa
+You sit down on an overstuffed sofa upholstered in brilliantly colored patchwork
+fabric with a soft sky blue brocade pillow with thick gold fringe on it.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The three-person heliogaster
+"Reflections In Denial" has jumped into the sector.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The three-person heliogaster
+"Reflections In Denial" has docked with Empanda Station.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The three-person heliogaster
+"Reflections In Denial" has undocked from Empanda Station.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The three-person heliogaster
+"Reflections In Denial" has left the sector.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+#gag
+[0m##################################### GAGS #####################################[0m
+[0m#GAG [1;31m{[0m"Final convergent wormhole located[1;31m}[0m
+[0m#GAG [1;31m{[0m"Rapid linking to next waypoint enabled.[1;31m}[0m
+[0m#GAG [1;31m{[0m%* aims {her | his} %* at %*.[1;31m}[0m
+[0m#GAG [1;31m{[0m%* aims {her|his} %* at %*[1;31m}[0m
+[0m#GAG [1;31m{[0m%* aims {her|his} %* at %*.[1;31m}[0m
+[0m#GAG [1;31m{[0mCommencing %w lock sequence[1;31m}[0m
+[0m#GAG [1;31m{[0mContinuing jump sequence[1;31m}[0m
+[0m#GAG [1;31m{[0mFiring aborted."$[1;31m}[0m
+[0m#GAG [1;31m{[0mFiring on empty space completed.[1;31m}[0m
+[0m#GAG [1;31m{[0mFiring."$[1;31m}[0m
+[0m#GAG [1;31m{[0mHIT CONFIRMED[1;31m}[0m
+[0m#GAG [1;31m{[0mInitializing quantum wormhole selection sequence[1;31m}[0m
+[0m#GAG [1;31m{[0mInitializing wormhole selection sequence[1;31m}[0m
+[0m#GAG [1;31m{[0mTarget coordinates are[1;31m}[0m
+[0m#GAG [1;31m{[0mTarget: starship[1;31m}[0m
+[0m#GAG [1;31m{[0mThe starship shutters violently as it nears the wormhole mouth.[1;31m}[0m
+[0m#GAG [1;31m{[0mYou hear a sharp clank from the hull somewhere near you.[1;31m}[0m
+[0m#GAG [1;31m{[0m^$[1;31m}[0m
+[0m#GAG [1;31m{[0m^A launch trajectory is located.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^A number of [1;31m}[0m
+[0m#GAG [1;31m{[0m^Kiska the humanoid service robot says in a synthesized voice,[1;31m}[0m
+[0m#GAG [1;31m{[0m^Locked on to coordinates:[1;31m}[0m
+[0m#GAG [1;31m{[0m^Please confirm[1;31m}[0m
+[0m#GAG [1;31m{[0m^Some kind of chemical[1;31m}[0m
+[0m#GAG [1;31m{[0m^Target: Starship[1;31m}[0m
+[0m#GAG [1;31m{[0m^The airlock hatch chimes quietly.[1;31m}[0m
+[0m#GAG [1;31m{[0m^The bright light fades[1;31m}[0m
+[0m#GAG [1;31m{[0m^The computer announces over your suit radio,[1;31m}[0m
+[0m#GAG [1;31m{[0m^The computer announces, "Hit on[1;31m}[0m
+[0m#GAG [1;31m{[0m^The computer announces, "Hull damage failsafe[1;31m}[0m
+[0m#GAG [1;31m{[0m^The computer announces, "This ship has been hit[1;31m}[0m
+[0m#GAG [1;31m{[0m^The computer says, "Convergent wormhole located[1;31m}[0m
+[0m#GAG [1;31m{[0m^The hull creaks[1;31m}[0m
+[0m#GAG [1;31m{[0m^The mild vibration of acceleration[1;31m}[0m
+[0m#GAG [1;31m{[0m^The scoop shakes a bit[1;31m}[0m
+[0m#GAG [1;31m{[0m^The scoop shakes around a bit[1;31m}[0m
+[0m#GAG [1;31m{[0m^The ship jerks suddenly[1;31m}[0m
+[0m#GAG [1;31m{[0m^The sound of the engines[1;31m}[0m
+[0m#GAG [1;31m{[0m^The starship shudders violently as it nears the wormhole mouth.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^The starship shutters violently as it nears the wormhole mouth.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^The starship shutters violently as it nears the wormhole mouth.^[1;31m}[0m
+[0m#GAG [1;31m{[0m^The starship vibrates slightly as it nears the wormhole mouth.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^The windows automatically dim[1;31m}[0m
+[0m#GAG [1;31m{[0m^The windows automatically dimm[1;31m}[0m
+[0m#GAG [1;31m{[0m^You activate the long-range scanner[1;31m}[0m
+[0m#GAG [1;31m{[0m^You aim your[1;31m}[0m
+[0m#GAG [1;31m{[0m^You detect a faint[1;31m}[0m
+[0m#GAG [1;31m{[0m^You feel mild acceleration as the ship descends toward a planet.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^You feel mild acceleration as the ship lifts off smoothly.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^You feel mild acceleration as the ship moves toward a space station.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^You feel mild acceleration as the ship moves toward a space structure.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^You feel weightless for a moment[1;31m}[0m
+[0m#GAG [1;31m{[0m^You hear a loud bang above you[1;31m}[0m
+[0m#GAG [1;31m{[0m^You hear a loud rumbling as the ship's engines move using emergency boost
+power.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^You hear a lound bang above you[1;31m}[0m
+[0m#GAG [1;31m{[0m^You hear a sharp[1;31m}[0m
+[0m#GAG [1;31m{[0m^You hear the strange[1;31m}[0m
+[0m#GAG [1;31m{[0m^You move into the area.$[1;31m}[0m
+[0m#GAG [1;31m{[0m^[Type a line of input[1;31m}[0m
+[0m#GAG [1;31m{[0mblinking LED[1;31m}[0m
+[0m#GAG [1;31m{[0mchainguns are fired.$[1;31m}[0m
+[0m#GAG [1;31m{[0mchainguns.$[1;31m}[0m
+[0m#GAG [1;31m{[0mdamage level exceeds[1;31m}[0m
+[0m#GAG [1;31m{[0mfaint vibration[1;31m}[0m
+[0m#GAG [1;31m{[0mfinal convergent wormhole located[1;31m}[0m
+[0m#GAG [1;31m{[0mfire board and press a large button.$[1;31m}[0m
+[0m#GAG [1;31m{[0mhas a lock on this starship[1;31m}[0m
+[0m#GAG [1;31m{[0mhas fired at the[1;31m}[0m
+[0m#GAG [1;31m{[0min range of firing on or docking with[1;31m}[0m
+[0m#GAG [1;31m{[0mlasers are fired[1;31m}[0m
+[0m#GAG [1;31m{[0mlocked on %w starship[1;31m}[0m
+[0m#GAG [1;31m{[0mplasma burst is fired.$[1;31m}[0m
+[0m#GAG [1;31m{[0mplasma minicannons are fired.$[1;31m}[0m
+[0m#GAG [1;31m{[0mplasma minicannons are used.$[1;31m}[0m
+[0m#GAG [1;31m{[0mplasma minicannons.$[1;31m}[0m
+[0m#GAG [1;31m{[0mred lights continue flashing.$[1;31m}[0m
+[0m#GAG [1;31m{[0mthe ship enters yellow alert.$[1;31m}[0m
+[0m#GAG [1;31m{[0mtorpedo launchers are used.$[1;31m}[0m
+[0m#GAG [1;31m{[0mtorpedo speeds out of a torpedo launcher.$[1;31m}[0m
+[0m#GAG [1;31m{[0mtorpedoes are fired[1;31m}[0m
+[0m#GAG [1;31m{[0mturrets are orienting toward coordinates[1;31m}[0m
+[0m#GAG [1;31m{[0mturrets locked on target starship[1;31m}[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+c
+The sensor systems are nonfunctional until their power is restored.
+l
+[Starship "Happy"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at League Recharging Eatery & Billeting
+Nuclear Rest Station; Docking Bay.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+(You are sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.)
+A Tardick lizard named Asteria trundles slowly into the area.
+out
+You scramble to your feet.
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the two-person medium transport "Grey Sky",
+the five-person hammerhead "Wuthering Fights", the four-person light carrier
+"Meteor Shower", the vostok-class capsule "Peregrine Falcon", the two-person
+hardened asteroid hauler "Not A Target Drone!", the five-person hammerhead "The
+Storm Petrel", the long-range sightseer "Happy", and the four-person light
+carrier "Heavy Clouds" are parked here.
+You can go north, east, south, west, up, and down.
+u
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+You see a beige sofa and a metal table here.
+You can go down.
+rd
+Op Station Rho 273 (Unclaimed) [Opik-Oort Signature 9363-4517] (Security:
+Delta-10)
+Coordinate rundown:
+Temporary Space Structures: (2, 2, 1), (10, 11, 9), (1, 1, 6), (13, 12, 11),
+(12, 12, 11), (11, 12, 11), (10, 9, 9), (1, 19, 19)
+Debris: (3, 11, 14), (12, 5, 10), (13, 8, 9), (3, 11, 18), (5, 4, 19), (1, 5,
+20), (2, 18, 20), (18, 10, 9), (2, 9, 8), (10, 19, 15), (1, 4, 17), (19, 10, 5)
+lrscan
+--
+Passive Long-Range Scan
+--
+No sensor signatures detected.
+peer d
+You peer down...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+A small, basic docking bay is the core of the station, along with the life
+support system and resource storage. Small hatches lead to the other station
+modules.
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the two-person medium transport "Grey Sky",
+the five-person hammerhead "Wuthering Fights", the four-person light carrier
+"Meteor Shower", the vostok-class capsule "Peregrine Falcon", the two-person
+hardened asteroid hauler "Not A Target Drone!", the five-person hammerhead "The
+Storm Petrel", the long-range sightseer "Happy", and the four-person light
+carrier "Heavy Clouds" are parked here.
+You can go north, east, south, west, up, and down.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+\eOv\eOv\eOv\eOv\eOt\eOt\eOt\
+I don't understand that.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+changelog
+Recent Minor Changes:
+-----
+The phone store will no longer allow cadets to buy plans for phones they can't
+register.
+   Posted 2 days, 19 hours, 44 minutes, and 27 seconds ago
+-----
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+thull
+[0m0%[0m
+tavg
+[0m0%[0m
+The computer reports that the two-person isotope "Whisky On The Roids" has
+launched from League Asteroid Processing Nuclear Temporary Station.
+The computer reports that the two-person isotope "Whisky On The Roids" has left
+the sector.
+reply Very cool
+I don't understand that.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+peer d
+You peer down...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+A small, basic docking bay is the core of the station, along with the life
+support system and resource storage. Small hatches lead to the other station
+modules.
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the two-person medium transport "Grey Sky",
+the five-person hammerhead "Wuthering Fights", the four-person light carrier
+"Meteor Shower", the vostok-class capsule "Peregrine Falcon", the two-person
+hardened asteroid hauler "Not A Target Drone!", the five-person hammerhead "The
+Storm Petrel", the long-range sightseer "Happy", and the four-person light
+carrier "Heavy Clouds" are parked here.
+You can go north, east, south, west, up, and down.
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+You can go down.
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+You can go down.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+changelog all
+Recent Minor Changes:
+-----
+The phone store will no longer allow cadets to buy plans for phones they can't
+register.
+   Posted 2 days, 20 hours, and 3 seconds ago
+-----
+options
+Which options do you wish to set?
+[1] General (misc. interface and usability options)
+[2] Color (applies color highlights to certain text)
+[3] Text Formatting (line length, word wrap, and linespacing)
+[4] Movement (alters the appearance of your walk for other players)
+[5] Opt-Out of 'Outside Interference' Events
+Enter your selection:
+1
+General Options
+[1] Disable Fancy Dialogue [on] 
+[2] Ignore Accents [off]
+[3] Automatic Minimap [off]
+[4] Twelve Hour Voting Reminder [off]
+[5] WHO Option: Disable Status Tag Legend [on] 
+[6] WHO Option: Disable Peak Statistics [on] 
+[7] WHO Option: Single Line Per Player [on] 
+[8] WHO Option: Exclude From WHERE statistics [off]
+[9] Smart Title/Key Placement for New Ship Purchases [on] 
+[10] Show Only Damaged Components (Starship Engineering) [on] 
+[11] Use Alternate Manual Control Keys [on] 
+[12] Use Shortened Target Tracking [off]
+[13] Show Less Salvage Grappling Output [on] 
+[14] Acknowledge New Lines When Inputting Lines of Text (profiles, message
+boards, and letters) [on] 
+[15] Columnize Menus Horizontally [on] 
+[16] Never Columnize Menus [on] 
+[17] Detailed Contents Breakdown for Containers [off]
+[18] Display Tandem Cylical Time in Base-10 [off]
+[19] Show Inventory Without Slot Information [on] 
+[20] No Line Breaks In Inventory [on] 
+[21] Ignore Periodic Quick Physical Descriptions [on] 
+[22] Always Use Stars for Starchart Location Figuring [off]
+[23] Do Not Announce OOC Board Posts [off]
+Enter your selection.
+2
+Option toggled on.
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+You can go down.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has launched from League Asteroid Processing Nuclear Temporary
+Station.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has left the sector.
+The computer reports that the two-person isotope "Whisky On The Roids" has
+launched from League Asteroid Processing Nuclear Temporary Station.
+The computer reports that the two-person isotope "Whisky On The Roids" has left
+the sector.
+[0m[Miriani] [General Communication] Cria Blur transmits, "9 spots?"[0m
+[0m[Miriani] [General Communication] Leeann Blade transmits, "Me3."[0m
+[0m[Miriani] [General Communication] Juliette Blackthorn transmits, "Me."[0m
+[0m[Miriani] [General Communication] David Sisco transmits, "Me."[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "6!"[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "I'm in."[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "4."[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "4 more spots!"[0m
+[0m[Miriani] [General Communication] David Sisco transmits, "Got you one spot, lili
+shanon."[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "3 more."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "I'm in."[0m
+[0m[Miriani] [General Communication] David Sisco transmits, "You were counted."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Ok."[0m
+The computer reports that the two-person isotope "Whisky On The Roids" has
+launched from League Asteroid Processing Nuclear Temporary Station.
+The computer reports that the two-person isotope "Whisky On The Roids" has left
+the sector.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has launched from League Asteroid Processing Nuclear Temporary
+Station.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has left the sector.
+[0m[Miriani] (Empanda Station; Observation Center) A harassed looking sanitation
+drone goes northwest.[0m
+The computer reports that the two-person isotope "Whisky On The Roids" has
+launched from League Asteroid Processing Nuclear Temporary Station.
+The computer reports that the two-person isotope "Whisky On The Roids" has left
+the sector.
+[0m[Miriani] [General Communication] Lili Shannon transmits, "One spot cruisers."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Me."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Beta."[0m
+[0m[Miriani] [General Communication] David Sisco transmits, "Yay."[0m
+The computer reports that the two-person isotope "Whisky On The Roids" has
+launched from League Asteroid Processing Nuclear Temporary Station.
+[0m[Miriani] [General Communication] Tiberius Black transmits, "2 spots mods."[0m
+[0m[Miriani] [General Communication] Leeann Blade transmits, "Me."[0m
+[0m[Miriani] [General Communication] Tiberius Black transmits, "One."[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "Why not."[0m
+[0m[Miriani] [General Communication] Tiberius Black transmits, "Full."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Bay?"[0m
+The computer reports that the two-person isotope "Whisky On The Roids" has left
+the sector.
+[0m[Miriani] [General Communication] Tiberius Black transmits, "Bay in a sec and
+full cria, will let you know when a spot opens."[0m
+[0m[Miriani] [General Communication] Tiberius Black transmits, "Alpha is the bay."[0m
+[0m[Miriani] (Empanda Station; Observation Center) The seven-person expeditioner
+"Raven" has jumped into the sector.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The seven-person expeditioner
+"Raven" has initiated an intrasector subwarp.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The seven-person expeditioner
+"Raven" has docked with Empanda Station.[0m
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has launched from League Asteroid Processing Nuclear Temporary
+Station.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has left the sector.
+The computer reports that the two-person isotope "Whisky On The Roids" has
+launched from League Asteroid Processing Nuclear Temporary Station.
+You hear a solid thud as a ship sets down in the docking bay.
+The computer reports that the four-person light carrier "Heavy Clouds" has
+launched from League Recharging Eatery & Billeting Nuclear Rest Station.
+The computer reports that the four-person light carrier "Heavy Clouds" has
+launched from the docking bay.
+The computer reports that the four-person light carrier "Heavy Clouds" has
+disappeared from sensor scans.
+[0m[Miriani] [General Communication] Tiberius Black transmits, "One spot."[0m
+[0m[Miriani] [General Communication] Joseph Riddle transmits, "For?"[0m
+[0m[Miriani] [General Communication] Tiberius Black transmits, "Mods."[0m
+[0m[Miriani] [General Communication] Joseph Riddle transmits, "Sure."[0m
+[0m[Miriani] [General Communication] Tiberius Black transmits, "Gamma."[0m
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has entered the sector.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has docked with League Salvage Processing Nuclear Temporary Station.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has launched from League Salvage Processing Nuclear Temporary
+Station.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has disappeared from sensor scans.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has suddenly appeared on sensor scans.
+You hear a solid thud as a ship sets down in the docking bay.
+[0m[Miriani] [General Communication] Tiberius Black transmits, "One spot mods."[0m
+[0m[Miriani] (Empanda Station; Observation Center) The three-person freighter
+"Shimmering Rose" has jumped into the sector.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The three-person freighter
+"Shimmering Rose" has docked with Empanda Station.[0m
+Kim Saunders strides in from below.
+Kim Saunders waves.
+Kim Saunders sits down on a beige sofa.
+"Hi!" Kim Saunders smiles at you.
+[0m[Miriani] [General Communication] Audry Graham transmits, "Is the place for mods
+still open?"[0m
+Kim Saunders carefully unwraps a turkey sandwich.
+Kim Saunders glances at the coordinate rundown.
+Kim Saunders picks up half of a turkey sandwich and takes a huge bite.
+Kim Saunders takes a sip of a cup of freshly brewed coffee with cream and sugar.
+[0m[Miriani] (Empanda Station; Observation Center) The eight-person gunship "Cloud
+Nine" has jumped into the sector.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The eight-person gunship "Cloud
+Nine" has initiated an intrasector subwarp.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The eight-person gunship "Cloud
+Nine" has docked with Empanda Station.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The eight-person gunship "Cloud
+Nine" has undocked from Empanda Station.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The eight-person gunship "Cloud
+Nine" has left the sector.[0m
+Kim Saunders takes another large bite of a turkey sandwich.
+[0m[Miriani] (Empanda Station; Observation Center) The three-person freighter
+"Shimmering Rose" has undocked from Empanda Station.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The three-person freighter
+"Shimmering Rose" has left the sector.[0m
+[0m[Miriani] [General Communication] Tiberius Black transmits, "One spot mods."[0m
+Kim Saunders takes a sip of a cup of freshly brewed coffee with cream and sugar.
+[0m[Miriani] (Empanda Station; Observation Center) A harassed looking sanitation
+drone arrives.[0m
+[0m[Miriani] [General Communication] Tiberius Black transmits, "Mods, one spot."[0m
+Kim Saunders finishes off half of a turkey sandwich.
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Venitia, we
+detect thirty Ontanka starships inbound!"[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "Delta."[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "Unlocked at delta, enter
+fiat."[0m
+[0m[Miriani] [General Communication] Michael Calaway transmits, "Coming."[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Oblivion" has launched from Miriani.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Oblivion" has left the sector.[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "Be quick hello."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Penjulum to Omnivincere flight
+control, we detect thirty-one Ontanka starships inbound!"[0m
+[0m[Miriani] [General Communication] Dorion Hunter transmits, "You full?"[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "Nope."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon, we
+detect five Ontanka starships inbound!"[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "I need 4 more."[0m
+[0m[Miriani] [General Communication] Cria Blur sighs.[0m
+[0m[Miriani] [General Communication] Renee Chance transmits, "I can come."[0m
+[0m[Miriani] [General Communication] Cria Blur transmits, "3 more."[0m
+[0m[Miriani] (Empanda Station; Observation Center) The seven-person expeditioner
+"Raven" has undocked from Empanda Station.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The seven-person expeditioner
+"Raven" has left the sector.[0m
+[0m[Miriani] [General Communication] Anton Yobi transmits, "We need 2, delta."[0m
+[0m[Miriani] [General Communication] Anton Yobi transmits, "1 more please. Delta."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Triskaideka, we
+detect thirty-three Ontanka starships inbound!"[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Anyone else crewing?"[0m
+[0m[Miriani] [General Communication] Anton Yobi transmits, "Stand by for
+distraction Lili."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Leaf Station to Autumn flight
+control, we detect fifty-four Ontanka starships inbound!"[0m
+[0m[Miriani] [General Communication] Cria Blur coughs.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Anaktun to Shivaldi flight control,
+we detect twenty-eight Ontanka starships inbound!"[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+Kim Saunders is sitting on a beige sofa.
+You can go down.
+smile kim
+You smile at Kim Saunders.
+hug kim
+You hug Kim Saunders.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Invasion."[0m
+Kim Saunders puts a turkey sandwich on a metal table.
+Kim Saunders puts a cup of freshly brewed coffee with cream and sugar on a metal
+table.
+Kim Saunders stands up from a beige sofa.
+"Hi there!" Kim Saunders hugs you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+Kim Saunders is standing here.
+You can go down.
+Kim Saunders sits down on a beige sofa.
+Kim Saunders removes a turkey sandwich from a metal table.
+-kim How's it going?
+You say to Kim, "How's it going?"
+Kim Saunders removes a cup of freshly brewed coffee with cream and sugar from a
+metal table.
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Could I take my
+fighter in 12?"[0m
+[0m[Miriani] [General Communication] Anton Yobi transmits, "No."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon,
+somebody's shooting out there."[0m
+Kim Saunders says, "It is going pretty good. I hauled a bunch of roids and
+salvaged a bit."
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Autumn, we detect
+three Ontanka starships jumping out."[0m
+grin kim
+You grin at Kim Saunders.
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon, we
+detect three Ontanka starships inbound!"[0m
+Kim Saunders says, "I think I ought to travel home today though, since the
+hauler is also not mine."
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Rolukssica to Bellerophon flight
+control, we're reading a Praelor explosion. We like to assume that alliance
+pilots are responsible and would just like to say that there is no force in the
+entire galaxy that can stand up against our alliances and that I feel so much
+pr-- wait, what do you mean I'm not supposed to hold the channel open for
+personal tangents? I'm just trying to inspire the troops... fine! I'll cease
+transmission!"[0m
+'Ah, ok
+You say, "Ah, ok."
+[0m[Miriani] (Empanda Station; Observation Center) A harassed looking sanitation
+drone goes northwest.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon, thar
+she blows! One Praelor down, nine trillion to go..."[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon,
+we're reading an explosion. Looks like a Hale starship just got destroyed."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Rolukssica to Bellerophon flight
+control, we detect two Ontanka starships jumping out."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Keyton to Triskaideka flight
+control, we detect two Ontanka starships inbound!"[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+'So when are you planning to head home?
+You ask, "So when are you planning to head home?"
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 763 has
+initiated an intrasector subwarp.[0m
+Kim Saunders gets a distant look on her face as she ponders. "Not sure."
+Kim Saunders glances down at her expensive silver watch with diamond accents
+momentarily.
+nod
+You nod.
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+'no worries.
+You say, "No worries."
+Kim Saunders says, "The flow for home is reasonable at the moment."
+'Ah, ok
+You say, "Ah, ok."
+Kim Saunders says, "But yeah, well, it's been so fun here, I really wish it
+hadn't ended the second the last can was used."
+'Yeah, me too
+You say, "Yeah, me too."
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon, a
+ship is firing weapons here."[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "I'm standing by as
+well."[0m
+tr gen Me too, but I'm on Jump Hub.
+You try to transmit, but your communicator reports an error sending.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+'I'm not even sure who all is still here.
+You say, "I'm not even sure who all is still here."
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+Kim Saunders is sitting on a beige sofa.
+You can go down.
+sit sofa
+You sit down on a beige sofa.
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 96 has initiated
+an intrasector subwarp.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Zander to Bellerophon flight
+control, there's a combat situation up there."[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 763 has
+initiated an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 132 has
+initiated an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 243 has
+initiated an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Kim Saunders says, "Me neither, eli I think, and there are some ships here, 2
+belonging to Melinda who left."
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+nod kim
+You nod to Kim Saunders.
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 763 has
+initiated an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 96 has initiated
+an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 748 has
+initiated an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon, we
+detect shots fired! Repeat, shots fired!"[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 132 has
+initiated an intrasector subwarp.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Rolukssica to Bellerophon flight
+control, a blue exclamation mark just disappeared from my starmap. A Praelor
+starship has died."[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Freedom Fighter" has launched from Miriani.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 243 has
+initiated an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Freedom Fighter" has initiated an intrasector subwarp.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Freedom Fighter" has docked with Pax (Neutral Docking Station).[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Freedom Fighter" has undocked from Pax (Neutral Docking Station).[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Praelor Onati 96 has initiated
+an intrasector subwarp.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) A distant whirring noise can
+be heard as the planet's laser aligns itself, followed by a faint pulse as it
+fires.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) Acrylon has fired at Praelor
+Onz 634.[0m
+[0m[Miriani] (Empanda Station; Observation Center) The ten-person battlecruiser
+"Freedom Fighter" has left the sector.[0m
+peer out
+You peer out but see nothing of interest.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Will my fighter
+help?"[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "I'm in here
+destructing as well."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Destracting."[0m
+[0m[Miriani] [General Communication] Kylar Knight transmits, "If you are not in a
+crew, I will pick you up on zander if you are not in 12, take itpn I think it
+goes to zander?"[0m
+Eli Grey runs in from below.
+Eli Grey waves.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Eli Grey glances at the coordinate rundown.
+Kim Saunders waves to Eli Grey.
+wav eli
+You wave to Eli Grey.
+[0m[Miriani] The mild vibration of acceleration eases off and is replaced by the
+firm pull of gravity as the ship touches down smoothly on the planet's surface.[0m
+[0m[Miriani] (Acrylon Spaceport; Observation Center) The one-person expediter
+"Dolphin" has landed on the planet Acrylon.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Rolukssica to Bellerophon flight
+control, there's been an attack in the sector."[0m
+"Hi!" Kim Saunders smiles.
+Eli Grey smiles.
+Eli Grey asks, "Just stopping in before I head back to alliance space,
+everything going ok out here?"
+Eli Grey says, "It's a lot emptier in here than I've seen it so far..."
+Eli Grey glances around at his surroundings.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] The pod vibrates slightly as it nears the wormhole's event horizon.[0m
+nod eli
+You nod to Eli Grey.
+Eli Grey glances at a power readout.
+Kim Saunders nods. "All the op cans are used so most people went home."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Eli Grey laughs.
+Eli Grey asks, "So that's what,  like 20 ops total?"
+'Yeah, the bolted out of here as soon as the last can was used.
+You say, "Yeah, the bolted out of here as soon as the last can was used."
+chuckle
+You chuckle.
+Eli whistles appreciatively.
+Kim Saunders says, "25."
+Eli Grey exclaims, "Wow!"
+Eli Grey says, "Well.. I'm going to hit the old cosmic trail."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+-eli Safe travels
+You say to Eli, "Safe travels."
+Eli peers out of the viewport for a moment.
+Kim Saunders looks at Eli Grey thoughtfully.
+Kim says to Eli, "You are going home?"
+Eli Grey nods to Kim Saunders.
+Kim Saunders says, "The flow is pretty good for now, I think."
+Eli Grey says, "Too bad I didn't make it for more of those ops, but what a win
+for humankind."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] The pod vibrates slightly as it nears the wormhole's event horizon.[0m
+nod and grin eli
+You nod and grin at Eli Grey.
+Kim Saunders nods. "We did well."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Many things were canned.
+I don't understand that.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+'Much canning.
+You say, "Much canning."
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Zander to Bellerophon flight
+control, an Ontanka starship is firing at a Hale starship."[0m
+Eli Grey grins.
+Kim Saunders starts in on the second half of a turkey sandwich.
+Kim Saunders takes a sip of a cup of freshly brewed coffee with cream and sugar.
+Eli Grey says, "Well you two stay safe.."
+'You too
+You say, "You too."
+Eli glances out the viewport one more time.
+Kim Saunders nods to Eli Grey. "I will head out soon as well."
+[0m[Miriani] [General Communication] Kylar Knight transmits, "Is anyone else coming
+to angelus?"[0m
+Kim says to Eli, "I am glad I spoke with you, I was a bit worried."
+Eli Grey says, "I don't know what those shrimp looking things are but they seem
+like they're getting closer..."
+Eli grabs his head and shakes it.
+Kim stares uneasily: ' The, what?"
+Eli Grey says, "I better go.."
+Kim Saunders says, "Na, wait a sec."
+Eli Grey says, "It's um.. fine, there's nothing."
+Kim Saunders smiles. "Take a seat."
+Kim Saunders asks, "Are you sure?"
+Eli nods looking a little u nsure.
+Eli Grey says, "Yeah.. it's fine.. it's just my stupid head."
+Kim says to Eli, "Better get in touch with Stavros as quick as possible then."
+Eli Grey nods.
+Kim Saunders nods.
+Eli Grey says, "Hopefully it won't be an issue with relations falling apart
+since then."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+rd
+Op Station Rho 273 (Unclaimed) [Opik-Oort Signature 9363-4517] (Security:
+Delta-10)
+Coordinate rundown:
+Temporary Space Structures: (2, 2, 1), (10, 11, 9), (1, 1, 6), (13, 12, 11),
+(12, 12, 11), (11, 12, 11), (10, 9, 9), (1, 19, 19)
+Debris: (3, 11, 14), (12, 5, 10), (13, 8, 9), (3, 11, 18), (5, 4, 19), (1, 5,
+20), (2, 18, 20), (18, 10, 9), (2, 9, 8), (10, 19, 15), (1, 4, 17), (19, 10, 5)
+Eli Grey says, "But yeah.. I wanna get back in case I have an episode."
+lrscan
+--
+Passive Long-Range Scan
+--
+No sensor signatures detected.
+Eli Grey says, "So I'm gonna get going. Thanks for the concern."
+Kim Saunders says, "I think, Stavros will want his research badly enough not to
+make an issue."
+Eli Grey nods.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+wave eli
+You wave to Eli Grey.
+Eli Grey waves.
+Kim Saunders waves. "Good luck."
+Eli Grey runs down.
+The computer reports that the two-person medium transport "Grey Sky" has
+launched from League Recharging Eatery & Billeting Nuclear Rest Station.
+The computer reports that the two-person medium transport "Grey Sky" has
+launched from the docking bay.
+Kim shrugs for a moment, then adds with a sad look: " Dang, I like the guy, but
+I know I can't protect him."
+Kim Saunders says, "I hope he sees Stavros before he has too many of those
+episodes."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+nod kim
+You nod to Kim Saunders.
+Kim Saunders presses some buttons on the communication board.
+To all ships in the sector, this station transmits: "Good luck, and see you
+later!"
+Kim Saunders glances at the coordinate rundown.
+Via general sector communication, Grey Sky transmits a text-based transmission:
+"all systems nominal. engaging Rift Drive. Safe Journies!"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+The computer reports that the two-person medium transport "Grey Sky" has
+disappeared from sensor scans.
+[0m#UNSNOOPING SESSION 'StarConquest'[0m
+[0m#SNOOPING SESSION 'StarConquest'[0m
+Incoming hypercaster transmission from Unknown Contact 343860063 at North and
+Very Slightly Down: "And of course I have to be on the stage with all the
+weirdos."
+Kim Saunders says, "Yep, of course."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+'Just his luck.
+You say, "Just his luck."
+Kim Saunders says, "Yeah."
+Kim Saunders asks, "How long are you and lily staying?"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+ponder
+You get a distant look on your face as you ponder.
+power
+You glance at a power readout.
+The station is currently running on primary power.
+Power Plant Lifetime Remaining: 3 days, 9 hours, 50 minutes, and 40 seconds
+Emergency Power Remaining:      1 hour
+Power Usage:                    85/150
+'Till Tuesday, I think.
+You say, "Till Tuesday, I think."
+'Tuesday early morning.
+You say, "Tuesday early morning."
+[0m[Miriani] A message from Kylar Knight is piped through the ship's intercom from
+the external PA. You hear him say, "here"[0m
+Kim Saunders says, "Don't forget, the accelerator and beacon in the middle and
+at home go down sooner, uh, like, 8 hours or so at least."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+'oh, Ok. I'll be sure to tell Lily.
+You say, "Oh, Ok. I'll be sure to tell Lily."
+Kim Saunders says, "If flow is good tomorrow morning, I might come back."
+[0m[Miriani] A message from Kylar Knight is piped through the ship's intercom from
+the external PA. You hear him say, "here"[0m
+'Ah, ok
+You say, "Ah, ok."
+[0m[Miriani] Olivia Cantrell, "greetings"[0m
+Kim Saunders says, "But I think I will better bring Morris is hauler before he
+starts worrying."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Kim Saunders takes a sip of a cup of freshly brewed coffee with cream and sugar.
+nod kim 'Sounds good.
+You nod to Kim Saunders. "Sounds good."
+Kim Saunders smiles. "Stay safe and...."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] Olivia Cantrell, "doing alright"[0m
+smile kim
+You smile at Kim Saunders.
+[0m[Miriani] The lights overhead suddenly flicker as they change from red to
+yellow.[0m
+-kim You too. Travel safe
+You say to Kim, "You too. Travel safe."
+hug kim
+You hug Kim Saunders.
+[0m[Miriani] (Empanda Station; Observation Center) A compact red sanitation drone
+goes northwest.[0m
+Quietly, Kim whispers: " Your roid hauler is unlocked, i believe. that may not
+be safe. I accidentally walked in this morning."
+Kim Saunders hugs you.
+'oops
+You say, "Oops."
+'thanks
+You say, "Thanks."
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon,
+we're detecting shots fired on a Commonwealth starship by an Ontanka starship."[0m
+Kim Saunders nods. "You are welcome."
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Outreach, an AIE
+starship is under attack by an Ontanka starship!"[0m
+d
+You scramble to your feet.
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the five-person hammerhead "Wuthering
+Fights", the four-person light carrier "Meteor Shower", the vostok-class capsule
+"Peregrine Falcon", the two-person hardened asteroid hauler "Not A Target
+Drone!", the five-person hammerhead "The Storm Petrel", the long-range sightseer
+"Happy", and the two-person hardened asteroid hauler "Let Me Rock Your World"
+are parked here.
+You can go north, east, south, west, up, and down.
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Bellerophon,
+we're reading an explosion. Looks like a Commonwealth starship just got
+destroyed."[0m
+enter rockit
+[Starship "RockIt!"; Airlock]
+You can go out and enter into the ship.
+lock rockit
+Starship "RockIt!" locked.
+out
+You exit the ship.
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the five-person hammerhead "Wuthering
+Fights", the four-person light carrier "Meteor Shower", the vostok-class capsule
+"Peregrine Falcon", the two-person hardened asteroid hauler "Not A Target
+Drone!", the five-person hammerhead "The Storm Petrel", the long-range sightseer
+"Happy", and the two-person hardened asteroid hauler "Let Me Rock Your World"
+are parked here.
+You can go north, east, south, west, up, and down.
+u
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+You see a beige sofa and a metal table here.
+You can go down.
+Kim Saunders strides in from below.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Kim Saunders says, "I do hope someone knows Melinda's ships are here still."
+[0m[Miriani] [General Communication] Joseph Riddle transmits, "Everyone, stay out
+of 12."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Outreach, we're
+reading an explosion. Ugh, what a mess those Praelor make!"[0m
+'Yeah, me too
+You say, "Yeah, me too."
+Kim Saunders says, "I will check that out when I am back."
+'ok
+You say, "Ok."
+'awesome.
+You say, "Awesome."
+Kim Saunders navigates her azure blue touch einrophone to a text-heavy
+application and peers at the screen.
+[0m[Miriani] A message from Kylar Knight is piped through the ship's intercom from
+the external PA. You hear him say, "here if you want"[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Outreach Asteroid Mining Outpost to
+Outreach flight control, we're detecting shots fired on an AIE starship by an
+Ontanka starship."[0m
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in Local Station Message Board/League Rift Accelerating Repairing Nuclear
+Autonav Station in Op Station Rho 273/General.
+Kim Saunders switches an azure blue touch einrophone off.
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Outreach, thar
+she blows! One Praelor down, nine trillion to go..."[0m
+Kim Saunders nods. "There. I am good to go, I think."
+Kim Saunders finishes off a cup of freshly brewed coffee with cream and sugar.
+grin
+You grin.
+Kim Saunders says, "Except, we have no trash can here."
+-kim Safe traels. Oh
+You say to Kim, "Safe traels. Oh."
+Kim Saunders takes another large bite of a turkey sandwich.
+'erm, save travels
+You say, "Erm, save travels."
+Kim Saunders finishes off the last of a turkey sandwich.
+Kim Saunders nods. "Thanks."
+[0m[Miriani] Olivia Cantrell, "are we standiing by"[0m
+Kim Saunders strides down.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+d
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Outreach, we're
+being invaded by Praelor spleens. Er, Praelor starship destroyed."[0m
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the five-person hammerhead "Wuthering
+Fights", the four-person light carrier "Meteor Shower", the vostok-class capsule
+"Peregrine Falcon", the two-person hardened asteroid hauler "Not A Target
+Drone!", the five-person hammerhead "The Storm Petrel", and the long-range
+sightseer "Happy" are parked here.
+You can go north, east, south, west, up, and down.
+enter rockit
+[Starship "RockIt!"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "RockIt!"; Control Room]
+You see a small lavender trash bin, a large purple and lavender paisley floor
+pillow with thick gold fringe, a large white and dusky pink paisley floor pillow
+with thick silver fringe, a small pink ball containing some crinkly paper, and a
+very soft quilted light purple sleeping mat with a large lavender bed pillow, a
+large turquoise quilt with an appliqued magenta and white lotus blossom design,
+and a large silky sapphire quilt embroidered with purple and pale purple
+dragonflies on it here.
+You can go up and out.
+out
+[Starship "RockIt!"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the five-person hammerhead "Wuthering
+Fights", the vostok-class capsule "Peregrine Falcon", the two-person hardened
+asteroid hauler "Not A Target Drone!", the five-person hammerhead "The Storm
+Petrel", and the long-range sightseer "Happy" are parked here.
+You can go north, east, south, west, up, and down.
+u
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+You see a beige sofa and a metal table here.
+You can go down.
+The computer reports that the four-person light carrier "Meteor Shower" has
+launched from the docking bay.
+[0m[Miriani] A message from Kylar Knight is piped through the ship's intercom from
+the external PA. You hear him say, "here"[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Outreach Mineral Processor to
+Outreach flight control, somebody's shooting out there."[0m
+gen Bye
+To all ships in the sector, this station transmits: "Bye"
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Outreach,
+biological indicators down here must be on the fritz. They seem to think that
+Praelor debris from that ship that just blew is still alive."[0m
+Via general sector communication, Meteor Shower transmits a text-based
+transmission: "Later!"
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Leaf Station to Autumn flight
+control, a Praelor starship has just been destroyed."[0m
+[0m[Miriani] Kylar Knight, "careful of leaf"[0m
+The computer reports that the four-person light carrier "Meteor Shower" has
+disappeared from sensor scans.
+Incoming hypercaster transmission from Unknown Contact 813407904 at North and
+Very Slightly Down: "Ok then, take care, and later!"
+Incoming hypercaster transmission from Unknown Contact 813407904 at North and
+Very Slightly Down: "I am an idiot. Truly."
+Incoming hypercaster transmission from Unknown Contact 813407904 at North and
+Very Slightly Down: "Yes, definitely an idiot, that cost me over 10 minutes."
+The computer reports that the four-person light carrier "Meteor Shower" has
+suddenly appeared on sensor scans.
+Via general sector communication, Meteor Shower transmits a text-based
+transmission: "Hi there."
+The computer reports that the four-person light carrier "Meteor Shower" has
+docked with League Salvage Processing Nuclear Temporary Station.
+The computer reports that the four-person light carrier "Meteor Shower" has
+launched from League Salvage Processing Nuclear Temporary Station.
+Via general sector communication, Meteor Shower transmits a text-based
+transmission: "Right, forgot to transfer, now really out of here."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+gen see ya
+To all ships in the sector, this station transmits: "see ya"
+The computer reports that the four-person light carrier "Meteor Shower" has
+disappeared from sensor scans.
+The computer reports that the two-person hardened asteroid hauler "Not A Target
+Drone!" has launched from League Recharging Eatery & Billeting Nuclear Rest
+Station.
+The computer reports that the two-person hardened asteroid hauler "Not A Target
+Drone!" has launched from the docking bay.
+The computer reports that the two-person hardened asteroid hauler "Not A Target
+Drone!" has disappeared from sensor scans.
+Incoming hypercaster transmission from Unknown Contact 902087644 at North: "Yo
+Goss."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[League Recharging Eatery & Billeting Nuclear Rest Station; Control Room]
+This is the rather cramped hub of the space station. A starmap, coordinate
+rundown display, and a few basic station controls are present. There's also a
+sofa!
+You see a beige sofa and a metal table here.
+You can go down.
+Incoming hypercaster transmission from Unknown Contact 902087644 at North: "Or
+anybody who is at 273. Rat is going to get my ships that are out there. I think.
+This is Mel."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Incoming hypercaster transmission from Unknown Contact 902087644 at North: "I
+cannot understand you."
+Incoming hypercaster transmission from Unknown Contact 902087644 at North: "Okay
+Goss, you don't have a key to my capsule so, I'll just come out and get it."
+Incoming hypercaster transmission from Unknown Contact 166590362 at North and
+Very Slightly Down: "Hello 273, can you here me, it is kim?"
+[MTTS] rosey: Can cadets do quests?
+[MTTS] usfolks: Depends on the quest. Newbie might get you a better response.
+The computer reports that the four-person light carrier "Olympic Australis" has
+suddenly appeared on sensor scans.
+You hear a solid thud as a ship sets down in the docking bay.
+Damien Goss steps in from below.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+wave damien
+You wave to Damien Goss.
+Damien Goss waves.
+Damien Goss asks, "Seen anyone else?"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] Noah Holland, "reload cannons"[0m
+'Well, Kim left a while ago... And i saw Eli.
+You say, "Well, Kim left a while ago... And I saw Eli."
+[0m[Miriani] Noah Holland, "everyone"[0m
+Damien Goss navigates his white swivel einrophone to a text-heavy application
+and peers at the screen.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in Local Station Message Board/League Rift Accelerating Repairing Nuclear
+Autonav Station in Op Station Rho 273/Announcements.
+Damien Goss asks, "Did eli leave already?"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+'Yeah, he did.
+You say, "Yeah, he did."
+Damien Goss nods.
+[0m[Miriani] Olivia Cantrell, "anytime"[0m
+[0m[Miriani] Olivia Cantrell, "this bard is expensive"[0m
+Damien Goss says, "I need to go send a hypercast. I'll be right back."
+Damien Goss steps down.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+'ok
+You say, "Ok."
+The computer reports that the four-person light carrier "Olympic Australis" has
+launched from League Recharging Eatery & Billeting Nuclear Rest Station.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+d
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the five-person hammerhead "Wuthering
+Fights", the vostok-class capsule "Peregrine Falcon", the five-person hammerhead
+"The Storm Petrel", and the long-range sightseer "Happy" are parked here.
+You can go north, east, south, west, up, and down.
+enter happy
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+etner
+I don't understand that.
+enter
+[Starship "Happy"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+sit soofa
+I can't find "soofa."
+sit sofa
+You sit down on an overstuffed sofa upholstered in brilliantly colored patchwork
+fabric with a soft sky blue brocade pillow with thick gold fringe on it.
+afk
+You blink heavily and then doze off.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "Happy"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at League Recharging Eatery & Billeting
+Nuclear Rest Station; Docking Bay.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+(You are sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.)
+s
+You scramble to your feet.
+[Starship "Happy"; Storage Room]
+You see a glossy silver ceramic felo chow bowl here.
+You can go north and south.
+s
+[Starship "Happy"; Living Quarters]
+You see a long plasteel counter, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a set of lavender silk sheets,
+a large periwinkle bed pillow, and a hand-made purple and amethyst flower quilt
+on it, a large oval dark purple and light purple cloth rug, a small oval
+turquoise rattan table with a glass top, a small seashell pink trash can, a
+glossy pink ceramic felo chow bowl, a pair of white leather clogs with a row of
+glittery fireflies across the toes, and a Tardick lizard named Asteria here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle bed
+pillow, and a hand-made purple and amethyst flower quilt on it.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle bed
+pillow, and a hand-made purple and amethyst flower quilt on it.
+out
+[Starship "Happy"; Storage Room]
+You see a glossy silver ceramic felo chow bowl here.
+You can go north and south.
+smell me
+You sniff at yourself. You smell the fresh fragrance of a sun-warmed grassy
+meadow.
+s
+[Starship "Happy"; Living Quarters]
+You see a long plasteel counter, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a set of lavender silk sheets,
+a large periwinkle bed pillow, and a hand-made purple and amethyst flower quilt
+on it, a large oval dark purple and light purple cloth rug, a small oval
+turquoise rattan table with a glass top, a small seashell pink trash can, a
+glossy pink ceramic felo chow bowl, a pair of white leather clogs with a row of
+glittery fireflies across the toes, and a Tardick lizard named Asteria here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle bed
+pillow, and a hand-made purple and amethyst flower quilt on it.
+kiss lily
+You kiss Lily Kaise.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l me
+Shule Elemmire
+He appears to be 27 years old. He is about six feet and two inches tall and has
+olive skin. His body is athletic with muscled hips and strong calves. He has
+average-sized shoulders and a wide chest. His face is average-shaped and
+handsome, with a broad nose and strong chin. His lips are thin and tan and
+occasionally part to reveal a set of fairly white teeth. Beneath a set of arched
+eyebrows, his eyes are blue-grey and round. His shoulder-length, straight hair
+is blonde and neatly trimmed over the ears and parted on the side. He has large
+brownish fingernails.
+ He is wearing a red shipsuit with white trim around the collar and cuffs and a
+pair of washed light khaki canvas sneakers. He is also wearing a keychain, a
+backpack, a metallic gold touch einrophone in a black leather phone holster, a
+solid silver ring engraved with dolphins, and a gold wrist-mounted chronometer.
+His head, face, both eyes, both wrists, and both hands are left uncovered.
+He is carrying nothing.
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Firewater to Solaris flight
+control, an Ontanka starship has fired on a Commonwealth starship."[0m
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly out.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "Happy"; Living Quarters]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at League Recharging
+Eatery & Billeting Nuclear Rest Station; Docking Bay.
+You see a long plasteel counter, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a set of lavender silk sheets,
+a large periwinkle bed pillow, and a hand-made purple and amethyst flower quilt
+on it, a large oval dark purple and light purple cloth rug, a small oval
+turquoise rattan table with a glass top, a small seashell pink trash can, a
+glossy pink ceramic felo chow bowl, and a pair of white leather clogs with a row
+of glittery fireflies across the toes here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a set of lavender silk sheets, a large periwinkle bed
+pillow, and a hand-made purple and amethyst flower quilt on it.)
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+out
+You scramble to your feet.
+[Starship "Happy"; Storage Room]
+You see a glossy silver ceramic felo chow bowl and a Tardick lizard named
+Asteria here.
+You can go north and south.
+n
+[Starship "Happy"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+peer out
+You peer out...
+[League Recharging Eatery & Billeting Nuclear Rest Station; Docking Bay]
+A small, basic docking bay is the core of the station, along with the life
+support system and resource storage. Small hatches lead to the other station
+modules.
+The four-person light carrier "Star Of Destiny", the two-person combat scout
+"Striking Distance", the four-person light carrier "Haydn Seek", the two-person
+hardened asteroid hauler "RockIt!", the five-person hammerhead "Wuthering
+Fights", the long-range sightseer "Happy", and the four-person light carrier
+"Olympic Australis" are parked here.
+You can go north, east, south, west, up, and down.
+[0m[Miriani] Doraleigh Soto nods.[0m
+A Tardick lizard named Asteria trundles slowly into the area.
+Lily Kaise glides in from the south.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+smile lily
+You smile at Lily Kaise.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise picks up a Tardick lizard named Asteria.
+Lily Kaise settles a Tardick lizard named Asteria on her shoulder, its tail
+curled loosely around her.
+Lily Kaise says, "Going to go feed the lizie."
+Lily Kaise glides out.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise carefully unwraps a kebab sandwich.
+Lily Kaise picks up half of a kebab sandwich and takes a huge bite.
+Lily Kaise takes another large bite of a kebab sandwich.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+Lily Kaise takes a sip of a cool glass of bubbly golden tea.
+Lily Kaise says, "Going out to haul a few. I'll be back in awhile to check if
+you're interested in doing anything."
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise kisses you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Lily Kaise waves.
+Lily Kaise glides out.
+kiss lily
+I don't see "lily" here.
+[MTTS] Ulias: The association for clean airwaves PSA almost made me spit my
+drink out.
+[MTTS] Ulias: Way to go.
+[MTTS] usfolks: That's my favorite one I think.
+[MTTS] Butchulla: That thing always cracks me up.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "Happy"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at Starship "Star Of Destiny"; Docking Bay.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+out
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Check your local space market for crafting supplies and informative books!
+**
+enter
+[Starship "Happy"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, an overstuffed sofa upholstered in brilliantly colored patchwork fabric
+with a soft sky blue brocade pillow with thick gold fringe on it, Meow the
+little calico CatBot, a glossy sapphire blue ceramic felo chow bowl, Purr the
+humanoid service robot, and a small purple trash bin here.
+You can go south and out.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+out
+[Starship "Happy"; Airlock]
+You see an early warning space defense device and a glossy sky blue ceramic felo
+chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[Starship "Star Of Destiny"; Docking Bay]
+The two-person combat scout "Striking Distance", the long-range sightseer
+"Happy", and the two-person hardened asteroid hauler "RockIt!" are parked here.
+You see a glossy midnight blue ceramic felo chow bowl and Shasta the big onyx
+soldier felo here.
+You can go up.
+u
+[Starship "Star Of Destiny"; Main Deck]
+You see a glossy azure blue ceramic felo chow bowl, a wall-sized bubbling coral
+pink-lit aquarium containing light blue and green aquatic life and coral rocks,
+a small bubbling neon blue-lit toroidal aquarium containing blue and red aquatic
+life and round rocks, Magellan the arachnoid security robot, a black plastic
+tray of spider chow, a robotic chef named Nellie, Mischief the large black felo,
+and Prissy the big violet long-haired felo here.
+You can go north, east, south, west, and down.
+n
+[Starship "Star Of Destiny"; Control Room]
+You see a glossy silver ceramic felo chow bowl, a wormhole drive tracer, a dark
+purple leather captain's chair, a shiny round deep amethyst table with a painted
+tablecloth in a vivid patchwork pattern, a large oval dark purple and light
+purple cloth rug, a rare black EAOSian contoured couch, Kiska the humanoid
+service robot, a wall-sized bubbling neon purple-lit aquarium containing yellow
+and amethyst aquatic life and coral rocks, a red plastic food storage container,
+a compact red refrigerator, a clear plastic food storage container, an insulated
+blue cooler, a small white trash bin, Daizey the humanoid service robot, and an
+insulated pink cooler here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+kiss lily
+You kiss Lily Kaise.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Omnivincere,
+there's been an attack in the sector."[0m
+[0m#UNSNOOPING SESSION 'StarConquest'[0m
+[0m#SNOOPING SESSION 'StarConquest'[0m
+Lily looks at you and says oh you decided to be sociable.
+Lily Kaise kisses you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+[0m[Miriani] [TSS] Daniel Smith transmits, "Okay, we landing or what."[0m
+[0m[Miriani] [TSS] Michael Calaway transmits, "Sub and land."[0m
+squeeze lily
+You squeeze Lily Kaise affectionately.
+-lily Hi love.
+You say to Lily, "Hi love."
+Lily Kaise says, "I could only find a few asteroids. I tried both methods and I
+salvaged a couple of loads of grade 80 comets and since you weren't interacting,
+I just decided to leave."
+'Awww, I'm sorry
+You say, "Awww, I'm sorry."
+peer out
+A briefly alarming screech turns out to be the cry of a seagull as it flashes
+past a viewport overhead.
+Not much to see out there.
+'Yeah we had a hard time finding asteroids.
+You say, "Yeah we had a hard time finding asteroids."
+Lily Kaise says, "I didn't see the point in sticking around."
+nod lily
+You nod to Lily Kaise.
+rift status
+--
+Fienstein Rift Drive Mk1
+--
+Status:             ACTIVE (Automatic Control Engaged)
+ETA:                54 minutes and 46 seconds
+Riftsail Trim:      100%
+Ship's Speed:       4056 light-minutes per second
+Direction:          Galactic North and Very Slightly Down
+Riftflow:           10202 light-minutes per second from Galactic North and Up
+Time in Riftflow:   32 minutes and 24 seconds
+Distance Traveled:  14.42 light-years
+Apparent Region:    Known Space
+--
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Lily Kaise asks, "Maybe later today we could try a couple of beacons?"
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Omnivincere, an
+Ontanka starship is firing at a Hale starship."[0m
+grin lily
+You grin at Lily Kaise.
+-lily sure.
+You say to Lily, "Sure."
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+Lily Kaise squeezes you affectionately.
+Lily Kaise says, "I don't remember exactly how much time was left on our scoop
+too so I want to check that. I don't like letting it go offline for long."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+nod lily 'Yeah, that'd be a good thing to check
+You nod to Lily Kaise. "Yeah, that'd be a good thing to check."
+squeeze lily
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Penjulum to Omnivincere flight
+control, we're seeing some combat activity up there."[0m
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+caress lily on back
+You gently caress Lily Kaise's back.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Lily Kaise points at an insulated pink cooler.
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Penjulum to Omnivincere flight
+control, what do you get when you combine a laser with a Praelor? A dead
+Praelor."[0m
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+l pink
+an insulated pink cooler
+With a lid on the top for easy access to the goodies within, this cooler is
+insulated to preserve all the food and drinks packed inside.
+It is closed.
+Lily Kaise says, "I grabbed a few things from the vending machine so help
+yourself. I'm not always sure what you like from there so hopefully there's
+something you'll eat hehe."
+open pink
+You open an insulated pink cooler and the light inside clicks on.
+l pink
+an insulated pink cooler
+With a lid on the top for easy access to the goodies within, this cooler is
+insulated to preserve all the food and drinks packed inside.
+It is open.
+Inside it you see a wrapped Cuban sandwich, a wrapped Cuban sandwich, a wrapped
+bacon, lettuce, and tomato sandwich, a wrapped bacon, lettuce, and tomato
+sandwich, a wrapped kebab sandwich, a wrapped Cuban sandwich, a wrapped Cuban
+sandwich, a closed cup of beef stew, a wrapped kebab sandwich, a closed cup of
+ravioli, and a closed cup of ravioli.
+Lily Kaise says, "They're in the pink cooler."
+grin
+You grin.
+'Thanks
+You say, "Thanks."
+Lily Kaise exclaims, "Sure!"
+A short amethyst soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+get raviol
+You remove a closed cup of ravioli from an insulated pink cooler.
+Lily Kaise grins.
+close pink
+You close an insulated pink cooler.
+use ravio
+You twist the bottom of a closed cup of ravioli upward, activating the internal
+self-heating mechanism.
+The bottom of a closed cup of ravioli pops back out as its self-heating is
+completed.
+open cup
+You pull the lid off a hot cup of ravioli.
+eat cup
+You retrieve a steaming forkful of pasta from a hot cup of ravioli and pop it
+into your mouth.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+eat cup
+You take several bites of hot pasta from a hot cup of ravioli.
+eat cup
+You look down into a hot cup of ravioli, retrieving more flavorful bites as you
+near the bottom of the cup.
+eat cup
+You finish off a hot cup of ravioli, leaving just a cup of heavily-flavored
+pasta water.
+A medium-sized thickly-shelled creature with a red shell and four small claws
+creeps across the bottom of the tank, snapping its many claws rapidly.
+put cup in trash
+You put a foam cup in a small white trash bin.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+A briefly alarming screech turns out to be the cry of a seagull as it flashes
+past a viewport overhead.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+l lily
+Lily Kaise
+She appears to be 28 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a cerulean blue synthcotton shipsuit and a pair of white leather
+clogs with a row of glittery fireflies across the toes. She is also wearing an
+orange and white blessed prayer bracelet around her wrist, a slender bracelet of
+tiny tinkling silver bells around her wrist, a neon purple wrist-mounted
+chronometer, a solid silver ring engraved with dragonflies, a delicate ring of
+silver wire and small purple amethyst crystals, a light purple flightbag with a
+pastel kitten on the side, a metallic gold touch einrophone in a metallic purple
+reinforced plastic phone holster, an elegant white gold ring inset with a
+perfect solitaire diamond, a soft fuchsia Tardick lizard snuggly labeled
+'Asteria', and a Tardick lizard named Asteria perched on her shoulder. Her head,
+face, both eyes, both wrists, and both hands are left uncovered.
+She is carrying nothing.
+Lily Kaise wraps her arms around you, pulling you close.
+: places gentle kisses on your neck.
+Shule places gentle kisses on your neck.
+Lily Kaise kisses you on the lips.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+A short amethyst soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] [General Communication] Anton Yobi transmits, "Yes, rolu."[0m
+Lily Kaise exclaims, "Sure wish we had that flow at our back!"
+[0m[Miriani] [General Communication] Anton Yobi transmits, "Gamma."[0m
+'Yeah
+You say, "Yeah."
+'me too
+You say, "Me too."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] A voice comes over the speaker and says, "Dolphin, you have clearance
+to launch. Good luck and come back to us safe."[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Blueberry the hefty violet feathered felo wanders in from the airlock.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] A voice comes over the speaker and says, "Dolphin, you have clearance
+to launch. Good luck and come back to us safe."[0m
+Lily Kaise squeezes you affectionately.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+squeeze lily
+You squeeze Lily Kaise affectionately.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] A voice comes over the speaker and says, "Hello, Dolphin. We read your
+AIE transponder. You are cleared to land."[0m
+[0m[Miriani] You feel mild acceleration as the ship descends toward a moon.[0m
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+A long orange soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Lily gently rubs your back.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+smile lily
+You smile at Lily Kaise.
+[0m[Miriani] Anton Yobi, "daniel, mind taking cannons bro?"[0m
+[0m[Miriani] Daniel Smith, "if they're free then that's fantastic"[0m
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+The wind falls, the ocean growing noticeably flatter.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+[0m[Miriani] [General Communication] Anton Yobi transmits, "Okay this is going to
+potentially spam coms a moment. Who is alert who's is not in Gabriel's ship."[0m
+[0m[Miriani] [General Communication] Joseph Riddle transmits, "Me."[0m
+[0m[Miriani] [General Communication] Leeann Blade transmits, "Me."[0m
+[0m[Miriani] [General Communication] Anton Yobi transmits, "And able to fly, gun."[0m
+[0m[Miriani] [General Communication] Aaron Blade transmits, "Me."[0m
+Lily Kaise kisses you on the lips.
+[0m[Miriani] Anton Yobi, "blades you're here"[0m
+[0m[Miriani] Leeann Blade, "oh"[0m
+[0m[Miriani] Daniel Smith chortles over the intercom.[0m
+[0m[Miriani] Ariela Brennar laughs over the intercom.[0m
+Blueberry the hefty violet feathered felo wanders out.
+pa laugh
+You laugh into the PA microphone.
+[0m[Miriani] Leeann Blade, "miss understood what you were asking"[0m
+[0m[Miriani] Aaron Blade, "oh. i thought you said taht is in this ship. sorry"[0m
+[0m[Miriani] [Private | Ariela Brennar] Ariela Brennar transmits, "up front please"[0m
+[0m[Miriani] [General Communication] Andreas Fierro transmits, "Me."[0m
+Lily Kaise says, "Be right back."
+Lily Kaise scrambles to her feet.
+Lily Kaise glides south.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+nod
+You nod.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+A short amethyst soft-bodied creature with many claw-tipped tentacles swims
+around a small plastic statue of a Jinu.
+l
+[Starship "Star Of Destiny"; Control Room]
+Endless waves ripple off into the distance beyond this wooden ship's railings.
+Thick timbers rest underfoot, creaking steadily as the craft bobs up and down.
+Large white sails billow overhead, propelling the ship across the sea's surface
+at a steady pace. Puffy white clouds float through the sky placidly while a
+bright yellow star beats down with merciless heat. Salt spray fills the air
+intermittently when the ship crashes through a wave, and the rope rigging creaks
+loudly with each gust. A few gulls circle lazily overhead, although no land is
+in sight. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is inside the riftflow.
+You see a glossy silver ceramic felo chow bowl, a wormhole drive tracer, a dark
+purple leather captain's chair, a shiny round deep amethyst table with a painted
+tablecloth in a vivid patchwork pattern, a large oval dark purple and light
+purple cloth rug, a rare black EAOSian contoured couch, Kiska the humanoid
+service robot, a wall-sized bubbling neon purple-lit aquarium containing yellow
+and amethyst aquatic life and coral rocks, a red plastic food storage container,
+a compact red refrigerator, a clear plastic food storage container, an insulated
+blue cooler, a small white trash bin, Daizey the humanoid service robot, and an
+insulated pink cooler here.
+You can go south and out.
+Lily Kaise glides in from the south.
+Lily Kaise puts an elegant crystal decanter on a shiny round deep amethyst table
+with a painted tablecloth in a vivid patchwork pattern.
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+cuddle lily
+You cuddle up to Lily Kaise.
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+[0m[Miriani] You are suddenly hurled from your sitting position onto the ground.[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily
+You kiss Lily Kaise.
+[0m[Miriani] [Short-range Communication] Joseph Riddle transmits, "Everyone who
+isn't on Gabriel's bc and alert go to the lp."[0m
+[0m[Miriani] From a thick white leather utility belt with several loops on it, you
+hear a red flight control scanner announce, "Flight control in Omnivincere,
+somebody's shooting out there."[0m
+[0m[Miriani] [Short-range Communication] Joseph Riddle transmits, "Everyone who
+isn't on Gabriel's bc--that's including people's on Ariela's, and where ever
+else--come to the lp."[0m
+l lily
+Lily Kaise
+She appears to be 28 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a cerulean blue synthcotton shipsuit and a pair of white leather
+clogs with a row of glittery fireflies across the toes. She is also wearing an
+orange and white blessed prayer bracelet around her wrist, a slender bracelet of
+tiny tinkling silver bells around her wrist, a neon purple wrist-mounted
+chronometer, a solid silver ring engraved with dragonflies, a delicate ring of
+silver wire and small purple amethyst crystals, a light purple flightbag with a
+pastel kitten on the side, a metallic gold touch einrophone in a metallic purple
+reinforced plastic phone holster, an elegant white gold ring inset with a
+perfect solitaire diamond, a soft fuchsia Tardick lizard snuggly labeled
+'Asteria', and a Tardick lizard named Asteria perched on her shoulder. Her head,
+face, both eyes, both wrists, and both hands are left uncovered.
+She is carrying nothing.
+[0m[Miriani] [Short-range Communication] Daniel Smith transmits, "Am running
+distraction until I hear differently."[0m
+[0m[Miriani] [Short-range Communication] Joseph Riddle transmits, "Come here
+anyway. You're taking people with you."[0m
+: slips his hand down the back of your shipsuit and plays with your bra strap.
+Shule slips his hand down the back of your shipsuit and plays with your bra
+strap.
+[0m03:05:37[0m
+The computer beeps in an imperative manner and informs you that the starship's
+sensors have detected a new location of interest in the riftflow.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] You hear the sounds of somebody attempting to enter the airlock, but
+they're turned away by the locked hatch.[0m
+[0m[Miriani] A message from Gabriel Brennar is piped through the ship's intercom
+from the external PA. You hear him say, "full"[0m
+[0m[Miriani] You hear the sounds of somebody attempting to enter the airlock, but
+they're turned away by the locked hatch.[0m
+The ship's hull creaks as it travels through space, but it sounds like the
+creaking of wooden planks rather than of metal hull plates.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+: runs his fingers through your hair.
+Shule runs his fingers through your hair.
+Lily Kaise cuddles up to you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+Lily Kaise smiles.
+smile lily
+You smile at Lily Kaise.
+The smell of salt and the sounds of the waves slowly begin to fade, until once
+more nothing but a formless void surrounds the ship.
+The mist swirls as drops of water begin to fall from above. A moment later, the
+ceiling opens and a deluge of water pours into the room, filling it to the brim.
+: slips his hand back down the back of your shipsuit and goes back to playing
+with your bra strap.
+Shule slips his hand back down the back of your shipsuit and goes back to
+playing with your bra strap.
+Lily Kaise grins at you.
+[0m[Miriani] A message from Anton Yobi is piped through the ship's intercom from
+the external PA. You hear him say, "yes, you'll have 8 and higher to operate"[0m
+remove shipsuit from lily
+You reach for Lily Kaise and tug insistently at a cerulean blue synthcotton
+shipsuit, indicating that you want to remove it from her.
+[0m[Miriani] You hear the sounds of somebody attempting to enter the airlock, but
+they're turned away by the locked hatch.[0m
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+[0m[Miriani] A chime is piped through a nearby speaker, indicating that somebody
+has entered the airlock.[0m
+[0m[Miriani] Anton Yobi, "room 5"[0m

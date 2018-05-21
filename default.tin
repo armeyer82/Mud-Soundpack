@@ -1,14 +1,20 @@
-#class {Main} OPEN
+#CLASS {Main} OPEN
 
-#MACRO {\er}
+#ACTION {^[Enter "yes" or "no"]$}
 {
-	#system play -qV0 speak.aiff vol $Volume[ComputerVoice] pad 0 3 reverb &
+	play prompt.wav
 }
+{5}
 
-#ACTION {^The computer announces, "%*"}
+#ACTION {^[Enter "yes' or "no"]$}
 {
-	play Ship/Computer/Announce@rnd{4}.wav;
-	speech %1
+	play prompt.wav
+}
+{5}
+
+#ACTION {^The computer announces, "%*"$}
+{
+	play Ship/Computer/Announce@rnd{4}.wav
 }
 {6}
 
@@ -20,13 +26,13 @@
 
 #ALIAS {connect-miriani}
 {
-	#session Miriani toastsoft.net 1234
+	#ssl Miriani toastsoft.net 1443
 }
 {5}
 
 #ALIAS {connect-starconquest}
 {
-	#session StarConquest squidsoft.net 7777
+	#session StarConquest 104.181.170.164 7777
 }
 {5}
 
@@ -46,34 +52,30 @@
 
 #ALIAS {speech}
 {
-	#system rm speak.aiff &;
-	#system say -v samantha -r 255 "%0" -o speak.aiff;
-	#system play -qV0 speak.aiff vol $Volume[ComputerVoice] pad 0 3 reverb &
+	#system say -v samantha -r 255 '[[volm $Volume[ComputerVoice]]] %0' &;
+	#variable LastComputerOutput %0
 }
-{6}
+{5}
 
-#CONFIG           {256 COLORS}  {ON}
-#CONFIG           {AUTO TAB}  {5000}
-#CONFIG           {BUFFER SIZE}  {20000}
-#CONFIG           {CHARSET}  {ASCII}
-#CONFIG           {COMMAND COLOR}  {<078>}
-#CONFIG           {COMMAND ECHO}  {OFF}
-#CONFIG           {CONNECT RETRY}  {15}
-#CONFIG           {HISTORY SIZE}  {1000}
-#CONFIG           {LOG}  {PLAIN}
-#CONFIG           {PACKET PATCH}  {0.00}
-#CONFIG           {REPEAT CHAR}  {!}
-#CONFIG           {REPEAT ENTER}  {ON}
-#CONFIG           {SCROLL LOCK}  {ON}
-#CONFIG           {SPEEDWALK}  {OFF}
-#CONFIG           {TINTIN CHAR}  {#}
-#CONFIG           {VERBATIM}  {OFF}
-#CONFIG           {VERBATIM CHAR}  {\}
-#CONFIG           {VERBOSE}  {OFF}
-#CONFIG           {WORDWRAP}  {ON}
+#EVENT {RECEIVED OUTPUT}
+{
+	#if {"$Logging[Enabled]"=="Yes"}
+	{
+		#if {"$Logging[Timestamps]"=="Yes"}
+		{
+			#line log {./$SESSION[Name]/Logs/@date{}.log} {@time{} %0}
+		};
+		#else
+		{
+			#line log {./$SESSION[Name]/Logs/@date{}.log} {%0}
+		}
+	}
+}
+
 #EVENT {SESSION CONNECTED}
 {
-	#read ./%0/autoload.tin
+	#read ./%0/autoload.tin;
+	#variable SESSION[Name] %0
 }
 
 #FUNCTION {date}
@@ -93,11 +95,26 @@
 	#format result %d $result
 }
 
+#FUNCTION {time}
+{
+	#format result %t %H:%M
+}
+
+#MACRO {\e-}
+{
+	#session -
+}
+
 #MACRO {\e<}
 {
 	#math tempvolume {$Volume[$VolumeSetting]-0.05};
 	#math Volume[$VolumeSetting] {$Volume[$VolumeSetting]-0.05};
 	#showme Volume: $Volume[$VolumeSetting]
+}
+
+#MACRO {\e=}
+{
+	#session +
 }
 
 #MACRO {\e>}
@@ -108,17 +125,7 @@
 
 #MACRO {\eOP}
 {
-	#session -
-}
-
-#MACRO {\eOQ}
-{
 	#session +
-}
-
-#MACRO {\eOR}
-{
-	#snoop
 }
 
 #MACRO {\eOS}
@@ -133,6 +140,16 @@
 	#showme Adjusting computer's voice volume. Current volume is: $Volume[$VolumeSetting]
 }
 
+#MACRO {\e[17~}
+{
+	#session -
+}
+
+#MACRO {\e[18~}
+{
+	#snoop
+}
+
 #MACRO {\e[19~}
 {
 	#showme Current volume: $volume
@@ -145,18 +162,14 @@
 	#showme Volume: $volume
 }
 
-#PATHDIR          {d}  {u}  {32}
-#PATHDIR          {e}  {w}  {2}
-#PATHDIR          {n}  {s}  {1}
-#PATHDIR          {ne}  {sw}  {3}
-#PATHDIR          {nw}  {se}  {9}
-#PATHDIR          {s}  {n}  {4}
-#PATHDIR          {se}  {nw}  {6}
-#PATHDIR          {sw}  {ne}  {12}
-#PATHDIR          {u}  {d}  {16}
-#PATHDIR          {w}  {e}  {8}
+#MACRO {\er}
+{
+	speech $LastComputerOutput
+}
+
+#VARIABLE         {LastComputerOutput}  {20 20 20}
 #VARIABLE         {VolumeSetting}  {ComputerVoice}
-#VARIABLE         {result}  {2}
+#VARIABLE         {result}  {22:06}
 #VARIABLE         {tempvolume}  {0.35}
 
-#class {Main} CLOSE
+#CLASS {Main} CLOSE

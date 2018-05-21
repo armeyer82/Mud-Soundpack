@@ -12,7 +12,6 @@
 }
 {5}
 
-
 #ACTION {^Target: Starship}
 {
 	play Ship/Combat/LockedonOther.wav
@@ -85,6 +84,13 @@
 }
 {5}
 
+#ACTION {^You hear a gentle pulsing sound as}
+{
+	play Ship/Move/Wavewarp.wav;
+	#line gag
+}
+{5}
+
 #ACTION {^You hear a low rumbling sound as the wormhole drive opens a wormhole.$}
 {
 	play Ship/Move/ftl.wav
@@ -97,6 +103,18 @@
 }
 {5}
 
+#ACTION {^[AIE}
+{
+	play General/Comm/alliance.wav
+}
+{5}
+
+#ACTION {^[Chatter]}
+{
+	play General/Comm/Chatter.wav
+}
+{5}
+
 #ACTION {^[Frequency %*]}
 {
 	play General/Comm/Metaf.wav
@@ -106,6 +124,12 @@
 #ACTION {^[General Communication]}
 {
 	play General/Comm/General.wav
+}
+{5}
+
+#ACTION {^[Insanity]}
+{
+	play General/Comm/org.wav
 }
 {5}
 
@@ -127,6 +151,12 @@
 }
 {5}
 
+#ACTION {a starship must be coming in for a landing.$}
+{
+	play Ship/Move/OtherLanding1.wav
+}
+{5}
+
 #ACTION {cannons are fired.$}
 {
 	play Ship/Combat/Cannon1.wav
@@ -145,12 +175,29 @@
 }
 {5}
 
+#ACTION {has jumped into the sector.$}
+{
+	play Ship/Move/EnterSector2.wav
+}
+{5}
+
+#ACTION {has left the sector.$}
+{
+	play Ship/Move/ExitSector1.wav
+}
+{5}
+
+#ACTION {shatters immersion}
+{
+	play General/Comm/ROOC.wav
+}
+{5}
+
 #ALIAS {savescript}
 {
 	#class Miriani write ./Miriani/script.tin
 }
 {5}
-
 
 #GAG              {Target: Starship}
 #GAG              {The room is filled with}
@@ -171,11 +218,13 @@
 #GAG              {^The experience ends as the starship exits from the companion jumpgate}
 #GAG              {^The pull of acceleration eases off as the craft completes its maneuvering.$}
 #GAG              {^The room is bathed in brilliant red and green light as the ship's laser turrets}
+#GAG              {^The room is filled with a brilliant %* light as the laser turrets are fired.$}
 #GAG              {^The ship jerks slightly as its turrets are fired.$}
 #GAG              {^The sound of the relativity drive echoes through the room as it propels the ship towards space.$}
 #GAG              {^The sounds of the relativity drive calm as the starship completes its final maneuver into space.$}
 #GAG              {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
 #GAG              {^The starship begins vibrating violently as the hum picks up in intensity.}
+#GAG              {^The starship shudders beneath your feet}
 #GAG              {^The starship shudders beneath your feet. It feels like the hull is breaking apart around you.$}
 #GAG              {^The starship shutters beneath your feet. It feels like the hull is breaking apart around you.$}
 #GAG              {^The starship vibrates violently as it nears the wormhole's event horizon.}
@@ -183,7 +232,7 @@
 #GAG              {^The windows automatically dim as gate after gate becomes visible}
 #GAG              {^The windows automatically dimm as gate after gate becomes visible}
 #GAG              {^The windows dim automatically as gate after gate becomes visible}
-#GAG              {^This starship has been hit by}
+#GAG              {^With a sharp lurch}
 #GAG              {^With a sharp lurch, the starship completes its intrasector slip.}
 #GAG              {^You are suddenly jarred as the ship begins rapid deceleration.$}
 #GAG              {^You are suddenly pressed against your seat as the vehicle is catapulted}
@@ -203,18 +252,13 @@
 #GAG              {^You hear the sounds of the atmospheric scoop activating.$}
 #GAG              {^You thrust a small shovel}
 #GAG              {^You wipe your brow and cease digging.}
+#GAG              {a starship must be coming in for a landing.$}
 #GAG              {fired from the ship's cannons.$}
 #GAG              {has a lock on this starship.}
 #GAG              {has a lock on this starship.$}
-#GAG              {laser turrets are fired}
-
-#SUBSTITUTE       {^Current coordinates: %*}      {%1}  {5}
-#SUBSTITUTE       {^Praelor %w %d (%*)}  {%3}  {5}
-#SUBSTITUTE       {^Praelor %w %d: %*}  {%3}  {5}
-#VARIABLE         {Volume}  {{ComputerVoice}{0.25}{GameSounds}{0.15}}
-#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{unpowered}{safe}{safe}{type}{station}}
+#VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.15}}
+#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{unpowered}{safe}{safe}{type}{starship}}
 #VARIABLE         {soundpath}  {./Miriani/Sounds/}
 #VARIABLE         {volume}  {0.15}
 
 #CLASS {Miriani} CLOSE
-

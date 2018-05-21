@@ -1,0 +1,85 @@
+#CLASS {Devices} OPEN
+
+#ACTION {%1 takes a snapshot of%2}
+{
+	play General/Device/Snapshot@rnd{5}.wav
+}
+{5}
+
+#ACTION {A %1 alliance %2 beeps, notifying you%3.}
+{
+	play General/Device/AllianceComputer.wav
+}
+{5}
+
+#ACTION {A %1 beeps quietly, indicating to you that there is a new message%2.}
+{
+	play General/Device/NewPost@rnd{4}.wav
+}
+{5}
+
+#ACTION {You access a%1portable point unit and note you have %2 license points and %3 combat points.}
+{
+	play General/Misc/Points.wav;
+	#showme {%2 License Points.};
+	#showme {%3 Combat Points.};
+	#line gag
+}
+{5}
+
+#ACTION {You activate %1 flight control scanner.}
+{
+	play General/Device/Activate.wav
+}
+{5}
+
+#ACTION {You carefully replace the film in%1camera.}
+{
+	play General/Device/LoadFilm.wav
+}
+{5}
+
+#ACTION {You deactivate %1 flight control scanner.}
+{
+	play General/Device/Deactivate.wav
+}
+{5}
+
+#ACTION {You press a small button on the %1 of %2 and watch as a bright energy field around you snaps out of existance.}
+{
+	play General/Device/ForceFieldSuitOff.wav
+}
+{5}
+
+#ACTION {You press a small button on the %1 of %2 and watch as a bright energy field snaps into place around you, then slowly dims into a barely noticeable haze.}
+{
+	play General/Device/ForceFieldSuitOn.wav
+}
+{5}
+
+#ACTION {You take a snapshot of%1}
+{
+	play General/Device/Snapshot@rnd{5}.wav
+}
+{5}
+
+#ACTION {You tune %1metafrequency%2to%3}
+{
+	play General/Comm/Tune.wav
+}
+{5}
+
+#ACTION {You turn a%1communicator off.}
+{
+	play General/Comm/CommInactive.wav
+}
+{5}
+
+#ACTION {You turn a%1communicator on.}
+{
+	play General/Comm/CommActive.wav
+}
+{5}
+
+
+#CLASS {Devices} CLOSE

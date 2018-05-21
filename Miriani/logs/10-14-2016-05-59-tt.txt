@@ -1,0 +1,2883 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 Decembesiekanas
+r 1998! Reopened in its new iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Sep 26 07:13:15 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec traces his finger between two
+points on a paper placemat covered in fun activities for children.
+rd
+This will not work unless the ship is in a sector.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Tandem is about same distance, albeit southsouthwest and very slightly
+up. It would be slightly faster."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec traces his finger between two
+points on a paper placemat covered in fun activities for children.
+Anfisa of Marzore says in a Spinward accent, "Flow is turning towards
+southsouthwest."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "That is true, it will become slightly slower."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Let's do nothing."
+Anfisa of Marzore says in a Spinward accent, "Decision of many prestigious
+explorers everywhere."
+Lily Kaise grins.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "And then eventually the battery runs out."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "And boom."
+The feeling of dread suddenly abates, and your steps slow.
+Soraya Rhyz says in a Luna accent, "I would expect nothing more of
+noted-bystander Pierre-Louis."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Everything I know of nearby is more antispinward than Roger's and
+Helios."
+grin
+You grin.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec references a paper placemat
+covered in fun activities for children for a moment, and then jots down the
+ship's last figured location on the chart.
+A Tardick lizard named Raissa flicks its tongue out from its perch on Anfisa of
+Marzore's shoulder.
+Akemi Bando says in a strange Japanese accent, "Sector H-45 is a little east of
+Helios, but that's about it."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec looks over a paper placemat
+covered in fun activities for children, locating a pinned position.
+Akemi Bando says in a strange Japanese accent, "I only know that one because
+it's what I use for getting back from Roger's when the flow isn't good for going
+directly south."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec takes some time to figure out the
+equivalent position on a clear plastic tablet dotted with various points of
+color and bordered in scientific notation.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "That's neat, I think."
+Keegan Wantz chuckles.
+The feeling of dread suddenly abates, and your steps slow.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1133 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5360 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.1JH
+Distance Traveled:  3.56 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec locates a particular position on
+a clear plastic tablet dotted with various points of color and bordered in
+scientific notation, then jots it down.
+Soraya Rhyz snuggles up to Keegan Wantz's shoulder.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec looks over a clear plastic tablet
+dotted with various points of color and bordered in scientific notation,
+locating a pinned position.
+Hymn the big blue felo jumps down from Lily Kaise's lap.
+Soraya Rhyz says in a Luna accent, "Lots of choices for mediocre flow."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec traces his finger between two
+points on a clear plastic tablet dotted with various points of color and
+bordered in scientific notation.
+Akemi Bando strokes the soft fur of Hymn the big blue felo.
+Hymn the big blue felo purrs and rubs its head against Akemi's hand, looking up
+at her adoringly.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec traces his finger between two
+points on a clear plastic tablet dotted with various points of color and
+bordered in scientific notation.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec traces his finger between two
+points on a clear plastic tablet dotted with various points of color and
+bordered in scientific notation.
+Lily Kaise strokes the soft fur of Hymn the big blue felo.
+Hymn the big blue felo purrs and rubs its head against Lily's hand, looking up
+at her adoringly.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec traces his finger between two
+points on a clear plastic tablet dotted with various points of color and
+bordered in scientific notation.
+The feeling of dread suddenly abates, and your steps slow.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec shrugs helplessly.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec traces his finger between two
+points on a clear plastic tablet dotted with various points of color and
+bordered in scientific notation.
+pet hymn
+You stroke the soft fur of Hymn the big blue felo.
+Hymn the big blue felo purrs and rubs its head against your hand.
+cuddle lily
+You cuddle up to Lily Kaise.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Hmm, we might get better speed by going to Tooth and Claw."
+Akemi Bando asks in a strange Japanese accent, "Which way is that, then?"
+Akemi Bando says in a strange Japanese accent, "Also, I don't think they'd be
+very happy to see us."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec asks in a Frenchified Rimward
+accent, "You think?"
+Akemi Bando says in a strange Japanese accent, "Just a little."
+Akemi Bando says in a strange Japanese accent, "Might be kind of awkward for
+them if the local Magistrate turns up while we're there."
+Lily Kaise nods.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "We will bring the many food items Lily no doubt has to appease them."
+Soraya Rhyz says in a Luna accent, "I can make them ramen."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Also, the Magistrate will never been able to see through our clever
+disguise of adding Outsider bits."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec asks in a Frenchified Rimward
+accent, "Allo fellow Outsider, is good time for the subjecting of all lesser
+species, yes?"
+A Tardick lizard named Raissa, perched on Anfisa of Marzore's shoulder, blinks
+its yellow eyes slowly, utterly indifferent to its surroundings.
+Akemi Bando says in a strange Japanese accent, "Subject them to home holovids."
+Akemi Bando says in a strange Japanese accent, "Everyone hates those, except the
+people who took them."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec asks in a Frenchified Rimward
+accent, "Is there holovid projector in here?"
+Lily Kaise says in a New Earth accent, "I had one but I left it somewhere."
+Lily Kaise laughs.
+'i don't have one.
+You say, "I don't have one."
+chuckle
+You chuckle.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Last leg of rift journeys are always the longest."
+Akemi Bando says in a strange Japanese accent, "Could be worse. We could have
+someone screaming insane stuff at us over the hypercaster."
+Lily Kaise chuckles.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Lily Kaise says in a New Earth accent, "Yup they are."
+nod 'Most definitely
+You nod. "Most definitely."
+Something flashes past a window, too quickly to make out.
+Hymn the big blue felo rubs up against Akemi Bando's leg with a quiet "Mrrp."
+Akemi Bando strokes the soft fur of Hymn the big blue felo.
+Hymn the big blue felo purrs and rubs its head against Akemi's hand, looking up
+at her adoringly.
+Aisling the Fox prances in from the south.
+Manx the little calico CatBot trots happily in after Aisling the Fox with a
+quiet hiss of hydraulics.
+Aisling the Fox puts an orange leather binder with an antique brass swingarm
+latch in a worn and tattered brown leather satchel.
+Aisling the Fox takes off a round saffron orange zafu with a white strap.
+Aisling the Fox puts down a round saffron orange zafu with a white strap.
+Soraya Rhyz says in a Luna accent, "Mrrp."
+Aisling the Fox perches a cute little plush calico cat with brilliant green eyes
+on her shoulder.
+Soraya Rhyz leans on Keegan Wantz.
+Aisling the Fox sits down on a round saffron orange zafu with a white strap.
+Aisling the Fox waves.
+Soraya Rhyz waves.
+wave aisling
+You wave to Aisling the Fox.
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+A Tardick lizard named Raissa flicks its tongue out from its perch on Anfisa of
+Marzore's shoulder.
+Lily Kaise stands up from a large white and turquoise paisley floor pillow with
+thick silver fringe.
+Lily Kaise glides south.
+Kim Saunders strolls in from the south.
+wave kim
+You wave to Kim Saunders.
+Kim Saunders waves. "Good morning."
+grin kim 'It's a Kim!
+"It's a Kim!" You grin at Kim Saunders.
+Kim Saunders giggles. "That's indeed my name."
+chuckle
+You chuckle.
+Kim Saunders says in a New Bristol accent, "I see we have the priviledge of
+being as slow as snails once again."
+chuckle kim
+You chuckle at Kim Saunders.
+Akemi Bando says in a strange Japanese accent, "We're getting there, though."
+Kim Saunders nods.
+'Slow and steady wins the race.
+You say, "Slow and steady wins the race."
+You feel increasingly uneasy. You find yourself stepping more quickly.
+Hymn the big blue felo suddenly jumps onto a side table dressed with a fancy
+white cloth decorated with gold fleur-de-lis.
+l lily
+I see no "lily" here.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec scrambles to his feet.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec moves south.
+'be right back
+You say, "Be right back."
+stand
+You stand up from a large white and turquoise paisley floor pillow with thick
+silver fringe.
+s
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+u
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, Nohr the obese black horned felo,
+Pari the small black winged felo, Samantha the old large violet felo, and Shasta
+the big onyx soldier felo here.
+You can go east, south, west, up, and down.
+u
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+and Natasha the large black felo here.
+You can go north, south, and down.
+peer n
+You peer north...
+[Starship "Zéro Des Cartes"; Control Room]
+The ship feels darker than usual, every light source subdued and seemingly
+unable to cast more than a dull glow on its surroundings. The dim light casts
+shadows on the myriad objects lining the ship, from black and white photographs
+of dour looking men and women to tiny jars and porcelain figures that seem
+strangely out of focus. The walls and floor are covered with elaborate geometric
+designs, and every surface appears to have an ornate piece of cloth draped over
+it. A thick band that stretches across all of the walls at a seven-foot height
+indicates that the ship is on red status. Looking through the windows, you see
+that the ship is inside the riftflow.
+You see a wormhole drive tracer, a blue velvet sectional sofa, a large secure
+xenology storage container, a small blue bioplastic ship light (casting a soft
+blue glow), a dark brown leather captain's chair, a small square dark brown
+rattan table with a glass top, an interdictor launcher, Nestor the humanoid
+service robot, a cardboard box labeled 'Here be keys', an orange plastic box
+labeled 'Felo Chow', a soft square dark blue rug with a luxuriously deep pile
+and thick gold fringe, a crudely hammered scrap metal feeding trough, a small
+natural golden brown trash bin, a metal container, and Magellan the arachnoid
+security robot here.
+Rogue Romano is sleeping on a soft square dark blue rug.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec is standing here.
+You can go south, up, and out.
+s
+[Starship "Zéro Des Cartes"; Main Deck; Mid]
+You see a black plastic tray of spider chow and a glossy seashell pink ceramic
+felo chow bowl here.
+You can go north and south.
+n
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+and Natasha the large black felo here.
+You can go north, south, and down.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1195 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (180.0, 0.0)
+Riftflow:           5379 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.420
+Distance Traveled:  7.55 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+d
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, Nohr the obese black horned felo,
+Pari the small black winged felo, Samantha the old large violet felo, and Shasta
+the big onyx soldier felo here.
+Lily Kaise is standing here.
+You can go east, south, west, up, and down.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily Kaise glides up.
+kiss lily on lips
+I don't see "lily" here.
+d
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+n
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, an elegant crystal
+decanter, Hymn the big blue felo, Manx the little calico CatBot, and a round
+saffron orange zafu with a white strap here.
+Anfisa of Marzore is sitting on a large dark purple floor pillow. Soraya Rhyz is
+sitting on a large purple and lavender paisley floor pillow. Akemi Bando is
+sitting on a soft square brown floor cushion. Keegan Wantz is sitting on Soraya
+Rhyz's lap. Klaus Stein is sitting on an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric. Aisling the Fox is sitting on a round
+saffron orange zafu. Kim Saunders is standing here.
+You can go east, south, and west.
+sit white and turquoise
+You sit down on a large white and turquoise paisley floor pillow with thick
+silver fringe.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec moves in from the south.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec sits down on an emerald green
+armchair with a hand-made purple and sapphire star quilt on it.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Ever closer."
+You feel increasingly uneasy. You find yourself stepping more quickly.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1221 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5381 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.45F
+Distance Traveled:  7.82 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+s
+You scramble to your feet.
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, a black plastic tray of spider chow, and Pari the
+small black winged felo here.
+You can go north, south, and up.
+u
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, Nohr the obese black horned felo,
+Samantha the old large violet felo, and Shasta the big onyx soldier felo here.
+You can go east, south, west, up, and down.
+u
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+and Natasha the large black felo here.
+You can go north, south, and down.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1236 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (180.0, 0.0)
+Riftflow:           5381 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.47B
+Distance Traveled:  7.96 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Lily Kaise glides in from the north.
+Lily Kaise glides down.
+rift heading 150 0
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 150.0, 0.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1228 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (150.0, 0.0)
+Riftflow:           5382 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.495
+Distance Traveled:  8.1 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 20
+That is an incomplete heading. Headings contain both orientation and elevation.
+Invalid heading.
+rift heading 150 20
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 150.0, 20.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1255 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (150.0, 20.0)
+Riftflow:           5382 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4AJ
+Distance Traveled:  8.22 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1262 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (150.0, 20.0)
+Riftflow:           5383 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4BF
+Distance Traveled:  8.28 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 150 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 150.0, 33.0.
+You feel increasingly uneasy. You find yourself stepping more quickly.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1279 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (150.0, 33.0)
+Riftflow:           5383 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4C8
+Distance Traveled:  8.35 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 225 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 225.0, 33.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1241 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (225.0, 33.0)
+Riftflow:           5383 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4DM
+Distance Traveled:  8.47 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 215 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 215.0, 33.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1275 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (215.0, 33.0)
+Riftflow:           5384 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4FB
+Distance Traveled:  8.6 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 205 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 205.0, 33.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1302 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (205.0, 33.0)
+Riftflow:           5384 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4G8
+Distance Traveled:  8.66 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 195 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 195.0, 33.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1323 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (195.0, 33.0)
+Riftflow:           5385 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4H2
+Distance Traveled:  8.73 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 185 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 185.0, 33.0.
+You feel increasingly uneasy. You find yourself stepping more quickly.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1345 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (185.0, 33.0)
+Riftflow:           5385 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4I9
+Distance Traveled:  8.83 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heaidng 175 33
+Rift drive commands: status, heading, trim
+rift heading 175 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 175.0, 33.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1359 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (175.0, 33.0)
+Riftflow:           5385 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4JA
+Distance Traveled:  8.93 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 165 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 165.0, 33.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1369 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (165.0, 33.0)
+Riftflow:           5386 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4KF
+Distance Traveled:  9.03 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Lily Kaise glides in from the south.
+Lily Kaise glides north.
+rift heading 160 33
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 160.0, 33.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1377 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 33.0)
+Riftflow:           5386 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4LM
+Distance Traveled:  9.14 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 160 45
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 160.0, 45.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1395 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 45.0)
+Riftflow:           5387 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4MN
+Distance Traveled:  9.23 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Lily Kaise glides in from the north.
+Lily Kaise glides down.
+rift heading 160 55
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 160.0, 55.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1410 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 55.0)
+Riftflow:           5387 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4NJ
+Distance Traveled:  9.31 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+You feel increasingly uneasy. You find yourself stepping more quickly.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1414 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 55.0)
+Riftflow:           5387 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4O5
+Distance Traveled:  9.35 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 160 65
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 160.0, 65.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1427 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 65.0)
+Riftflow:           5387 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.4ON
+Distance Traveled:  9.41 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Lily Kaise glides in from below.
+Lily Kaise tickles you!
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1472 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 65.0)
+Riftflow:           5389 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.54B
+Distance Traveled:  9.82 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+-lily Want to take a shot at the jib?
+You say to Lily, "Want to take a shot at the jib?"
+You feel increasingly uneasy. You find yourself stepping more quickly.
+Lily Kaise says in a New Earth accent, "No."
+Lily Kaise says in a New Earth accent, "You've got that touch with it it seems."
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily Kaise.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1503 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 65.0)
+Riftflow:           5390 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.578
+Distance Traveled:  10.1 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 160 75
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 160.0, 75.0.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1522 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (160.0, 75.0)
+Riftflow:           5390 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.58G
+Distance Traveled:  10.22 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Lily Kaise squeezes you affectionately.
+rift heading 155 75
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 155.0, 75.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1533 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (155.0, 75.0)
+Riftflow:           5391 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.59H
+Distance Traveled:  10.32 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1556 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (155.0, 75.0)
+Riftflow:           5391 light-mincycles per seccycle from Galactic South and
+Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southsouthwest and Very Slightly
+Down.
+Time in Riftflow:   0.5BM
+Distance Traveled:  10.53 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+You feel increasingly uneasy. You find yourself stepping more quickly.
+'ok, let's leave it here.
+You say, "Ok, let's leave it here."
+Lily Kaise says in a New Earth accent, "Yeah looks much better."
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+Lily Kaise strokes a hairy yellow eight-legged ArachnoPal named Higgins's
+bristly hair.
+'ok, let's go join the others? Or do you want some alone time in our quarters?
+You ask, "Ok, let's go join the others? Or do you want some alone time in our
+quarters?"
+Lily Kaise nods.
+Lily Kaise glides down.
+d
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, Shasta the big onyx soldier felo,
+and Pari the small black winged felo here.
+You can go east, south, west, up, and down.
+d
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, a black plastic tray of spider chow, Nohr the obese
+black horned felo, and Samantha the old large violet felo here.
+You can go north, south, and up.
+peer n
+You peer north...
+[Starship "Zéro Des Cartes"; Forward Observation]
+The ship feels darker than usual, every light source subdued and seemingly
+unable to cast more than a dull glow on its surroundings. The dim light casts
+shadows on the myriad objects lining the ship, from black and white photographs
+of dour looking men and women to tiny jars and porcelain figures that seem
+strangely out of focus. The walls and floor are covered with elaborate geometric
+designs, and every surface appears to have an ornate piece of cloth draped over
+it. A thick band that stretches across all of the walls at a seven-foot height
+indicates that the ship is on red status. Looking through the windows, you see
+that the ship is inside the riftflow.
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, an elegant crystal
+decanter, Hymn the big blue felo, Manx the little calico CatBot, and a round
+saffron orange zafu with a white strap here.
+Anfisa of Marzore is sitting on a large dark purple floor pillow. Soraya Rhyz is
+sitting on a large purple and lavender paisley floor pillow. Akemi Bando is
+sitting on a soft square brown floor cushion. Keegan Wantz is sitting on Soraya
+Rhyz's lap. Aisling the Fox is sitting on a round saffron orange zafu.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec is sitting on an emerald green
+armchair. Klaus Stein and Kim Saunders are sitting on an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric. Lily Kaise is sitting on a
+large white and turquoise paisley floor pillow.
+You can go east, south, and west.
+n
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, an elegant crystal
+decanter, Hymn the big blue felo, Manx the little calico CatBot, and a round
+saffron orange zafu with a white strap here.
+Anfisa of Marzore is sitting on a large dark purple floor pillow. Soraya Rhyz is
+sitting on a large purple and lavender paisley floor pillow. Akemi Bando is
+sitting on a soft square brown floor cushion. Keegan Wantz is sitting on Soraya
+Rhyz's lap. Aisling the Fox is sitting on a round saffron orange zafu.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec is sitting on an emerald green
+armchair. Klaus Stein and Kim Saunders are sitting on an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric. Lily Kaise is sitting on a
+large white and turquoise paisley floor pillow.
+You can go east, south, and west.
+Soraya Rhyz says in a Luna accent, "Iron Hair. A cheap, inferior verson of
+Keegan's."
+sit white and turqouise
+I can't find "white and turqouise."
+A sleek metal quantum entanglement communication device bips quietly.
+sit white and turquoise
+You sit down on a large white and turquoise paisley floor pillow with thick
+silver fringe.
+Aisling the Fox says in an unusual Irish accent, "Indifferent Happiness."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Indomitable Hernia."
+Kim Saunders says in a New Bristol accent, "Involuntary heroes."
+Lily Kaise laughs.
+Akemi Bando says in a strange Japanese accent, "Impotent Herrick."
+Aisling the Fox laughs.
+Aisling the Fox gives Akemi Bando a thumbs up!
+Kim Saunders smiles.
+Lily Kaise says in a New Earth accent, "I heart."
+Lily Kaise says in a New Earth accent, "That's too nice though."
+Soraya Rhyz says in a Luna accent, "Immovable Hairballs."
+Akemi Bando says in a strange Japanese accent, "Impaired Hearing."
+Lily Kaise chuckles.
+Akemi Bando points at herself, trying to attract attention.
+Kim Saunders cheers for Akemi Bando!
+A sleek metal quantum entanglement communication device bips quietly.
+Soraya says to Akemi, "That needs to be your ship."
+You feel increasingly uneasy. You find yourself stepping more quickly.
+Aisling the Fox grins.
+Lily Kaise cheers for you!
+Kim Saunders says in a New Bristol accent, "Yeah, if someone uses that, you need
+to get them to change it."
+Akemi Bando says in a strange Japanese accent, "Nah, I'll just shoot them down."
+Aisling says to Akemi, "Imbalanced Hooter."
+With a sudden feeling of impending doom, you turn around. The scene abruptly
+fades to formless mist.
+Aisling the Fox beams.
+Hymn the big blue felo hums melodically to itself as it wanders west.
+You hear a steady, rhythmic sound. The mist clears, and you gaze out through the
+window at the passing landscape as the train chugs along.
+Aisling the Fox says in an unusual Irish accent, "Hoot, hoot."
+A sleek metal quantum entanglement communication device chirps quietly,
+indicating that it has finished sending a message.
+Lily Kaise glances at the display on a sleek metal quantum entanglement
+communication device.
+Aisling the Fox says in an unusual Irish accent, "Injected Habits."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Aisling the Fox says in an unusual Irish accent, "For Aziz."
+Soraya Rhyz says in a Luna accent, "Hooter sounds like something you call your
+genitals."
+Aisling the Fox says in an unusual Irish accent, "Maybe he renamed Bolt that."
+grin lily
+You grin at Lily Kaise.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1695 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5396 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.5OD
+Distance Traveled:  11.83 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Aisling the Fox says in an unusual Irish accent, "Owl is hooter. They hoot."
+Lily Kaise grins at you.
+Aisling the Fox pokes Soraya Rhyz in the ribs!
+Soraya says to Aisling, "Well, they do use the word for male chickens as a name
+for male genitalia."
+Aisling the Fox says in an unusual Irish accent, "What you call Keegan's private
+bits is your business."
+A Tardick lizard named Raissa flicks its tongue out from its perch on Anfisa of
+Marzore's shoulder.
+Soraya says to Aisling, "I could tell you what I call it."
+Looking ahead, the track seems long and straight. The train picks up speed.
+Aisling the Fox says in an unusual Irish accent, "I could cry in corner, too."
+Soraya Rhyz says in a Luna accent, "I don't really have a name for it, but I
+will come up with a great one to traumatize you with."
+Soraya Rhyz leans on Keegan Wantz.
+chuckle
+You chuckle.
+Aisling the Fox giggles.
+Soraya Rhyz says in a Luna accent, "I think men tend to name their own more than
+anything."
+Lily Kaise smirks.
+Hymn the big blue felo hums melodically to itself as it wanders in from the
+west.
+Soraya Rhyz says in a Luna accent, "The snowglobe could call his 'The
+Wanderer'."
+Soraya Rhyz says in a Luna accent, "Snowglobe guy."
+Soraya Rhyz glances around at her surroundings.
+Kim Saunders takes another large bite of a turkey sandwich.
+Aisling the Fox says in an unusual Irish accent, "Herrick."
+Akemi Bando says in a strange Japanese accent, "He should call it "Mia." As in,
+"Missing In Action.""
+Soraya Rhyz gets a distant look on her face as she ponders.
+Soraya Rhyz says in a Luna accent, "A good option too."
+Soraya Rhyz says in a Luna accent, "AWOL might work too."
+Looking ahead, the track seems long and straight. The train picks up speed.
+chuckle
+You chuckle.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1821 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5399 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.6AM
+Distance Traveled:  13.05 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Soraya Rhyz says in a Luna accent, "Picking up speed."
+Soraya Rhyz applauds sedately.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Kim Saunders says in a New Bristol accent, "This Herrick guy must have left
+quite the impression. He was a pilot long ago yet not forgotten."
+Kim Saunders grins.
+Lily Kaise exclaims in a New Earth accent, "Uh huh!"
+nod 'Apparently.
+You nod. "Apparently."
+Kim Saunders says in a New Bristol accent, "Probably not a good impression
+though..."
+Aisling the Fox says in an unusual Irish accent, "Something left depression on
+him."
+Lily Kaise says in a New Earth accent, "And he lost something pretty valuable so
+yeah."
+Lily Kaise laughs.
+lagh
+I don't understand that.
+laugh
+You laugh.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1878 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5401 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.6G0
+Distance Traveled:  13.66 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1890 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5401 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.6H3
+Distance Traveled:  13.79 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Looking ahead, the track seems long and straight. The train picks up speed.
+'go little ship go!
+You exclaim, "Go little ship go!"
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1905 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5401 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.6IC
+Distance Traveled:  13.95 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+'well, maybe not so little... Go not so little ship go!
+You exclaim, "Well, maybe not so little... Go not so little ship go!"
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec applauds sedately.
+rif status
+I don't understand that.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1952 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5402 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.6MK
+Distance Traveled:  14.48 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1958 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5403 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.6N8
+Distance Traveled:  14.54 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Hymn the big blue felo hums melodically to itself as it wanders east.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       1972 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5403 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.6OF
+Distance Traveled:  14.71 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+s
+You scramble to your feet.
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, a black plastic tray of spider chow, and Samantha
+the old large violet felo here.
+You can go north, south, and up.
+u
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+u
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, Pari the small black winged felo,
+and Natasha the large black felo here.
+You can go east, south, west, up, and down.
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+a hairy yellow eight-legged ArachnoPal named Higgins, Shasta the big onyx
+soldier felo, and Sassie the old large fuchsia felo here.
+You can go north, south, and down.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1977 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (155.0, 75.0)
+Riftflow:           5403 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.701
+Distance Traveled:  14.77 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 145 75
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 145.0, 75.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       1983 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (145.0, 75.0)
+Riftflow:           5403 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.70J
+Distance Traveled:  14.85 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Looking ahead, the track seems long and straight. The train picks up speed.
+Sassie the old large fuchsia felo rubs up against a long counter with a blue and
+gold marble laminate top edged with grooved chrome, purring softly.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       2045 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (145.0, 75.0)
+Riftflow:           5405 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.76D
+Distance Traveled:  15.59 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift heading 145 85
+You quickly turn a small wheel next to the jib mast.
+A number flap display rapidly flips around to show a new heading of 145.0, 85.0.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       2067 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (145.0, 85.0)
+Riftflow:           5405 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.77B
+Distance Traveled:  15.71 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+d
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, Pari the small black winged felo,
+and Natasha the large black felo here.
+You can go east, south, west, up, and down.
+d
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, a black plastic tray of spider chow, and Samantha
+the old large violet felo here.
+You can go north, south, and up.
+d
+You can't go that way.
+n
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, an elegant crystal
+decanter, Manx the little calico CatBot, and a round saffron orange zafu with a
+white strap here.
+Anfisa of Marzore is sitting on a large dark purple floor pillow. Soraya Rhyz is
+sitting on a large purple and lavender paisley floor pillow. Akemi Bando is
+sitting on a soft square brown floor cushion. Keegan Wantz is sitting on Soraya
+Rhyz's lap. Klaus Stein is dozing on an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric. Aisling the Fox is sitting on a round
+saffron orange zafu. Pierre-Louis Tremblay-du-Lys du Nouveau Quebec is sitting
+on an emerald green armchair. Kim Saunders is sitting on an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric. Lily Kaise is sitting on a
+large white and turquoise paisley floor pillow.
+You can go east, south, and west.
+Aisling the Fox says in an unusual Irish accent, "Heading to Aquarium."
+Akemi Bando says in a strange Japanese accent, "The heading to the derelict from
+Coreward Reach."
+sit white and turquoise
+You sit down on a large white and turquoise paisley floor pillow with thick
+silver fringe.
+Kim Saunders exclaims in a New Bristol accent, "Ah!"
+Hymn the big blue felo hums melodically to itself as it wanders in from the
+east.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "It was slightly lower than everyone thought."
+Kim Saunders says in a New Bristol accent, "Yeah, that is a good thing to
+remember."
+Looking ahead, the track seems long and straight. The train picks up speed.
+Lily Kaise says in a New Earth accent, "Most 'well I think I need a few more
+points more points in certain categories before I can work on mine but I so look
+forward to that time."
+'for what time?
+You ask, "For what time?"
+-lily points for what?
+You say to Lily, "Points for what?"
+Akemi Bando says in a strange Japanese accent, "To the time when she can put the
+shell in a lab and use it."
+'Ah, ok.
+You say, "Ah, ok."
+Lily Kaise nods.
+nod 'Gotcha.
+You nod. "Gotcha."
+Lily Kaise says in a New Earth accent, "Er to qualify for the lab."
+nod lily
+You nod to Lily Kaise.
+Lily Kaise says in a New Earth accent, "I don't know specifically what the
+requirements are."
+'lots of points.
+You say, "Lots of points."
+'I don't rememer either.
+You say, "I don't rememer either."
+'er, remember
+You say, "Er, remember."
+Keegan Wantz glances at the display on a sleek metal quantum entanglement
+communication device.
+Keegan Wantz stretches.
+Kim Saunders says in a New Bristol accent, "I also really don't know, we had the
+lab before I even became a member."
+Lily Kaise says in a New Earth accent, "Well I think it's 5000 Industry and so
+that's not that far off for the org, I think at least 2000 Exploration and
+that's attainable, hmm I heard 500 Command and that will be the most challenging
+one."
+-kim Oh, and I was just going to ask you if you knew.
+You say to Kim, "Oh, and I was just going to ask you if you knew."
+laugh
+You laugh.
+Akemi Bando glances at the display on a sleek metal quantum entanglement
+communication device.
+Akemi Bando presses a few buttons on a sleek metal quantum entanglement
+communication device, sending a message.
+A sleek metal quantum entanglement communication device chirps quietly,
+indicating that it has begun sending a message.
+Aisling the Fox glances at the display on a sleek metal quantum entanglement
+communication device.
+Kim Saunders glances at the display on a sleek metal quantum entanglement
+communication device.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec glances at the display on a sleek
+metal quantum entanglement communication device.
+Lily says to you in a New Earth accent, "Naa I was there when Annie brought the
+shell in but she never said what the requirements were."
+Aisling the Fox stands up from a round saffron orange zafu with a white strap.
+Hymn the big blue felo hums melodically to itself as it wanders west.
+Aisling the Fox prances south.
+Manx the little calico CatBot trots happily after Aisling the Fox with a quiet
+hiss of hydraulics.
+-lily Ah, ok
+Looking ahead, the track seems long and straight. The train picks up speed.
+You say to Lily, "Ah, ok."
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       2194 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5408 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.7JA
+Distance Traveled:  17.33 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+A sleek metal quantum entanglement communication device bips quietly.
+Akemi Bando says in a strange Japanese accent, "Annie not sharing information,
+goodness."
+Akemi Bando says in a strange Japanese accent, "How strange."
+Lily Kaise says in a New Earth accent, "She just put it down in the conference
+room and then one day the lab was available and she and I played with plants and
+created a couple of hybrids."
+Keegan Wantz says in an Asuncionite accent, "Well, that's delightful."
+Aisling the Fox prances in from the south.
+Manx the little calico CatBot trots happily in after Aisling the Fox with a
+quiet hiss of hydraulics.
+Aisling the Fox sits down on a round saffron orange zafu with a white strap.
+Soraya Rhyz squeezes Keegan Wantz affectionately.
+Aisling the Fox says in an unusual Irish accent, "Got a little extra out of
+jib."
+Soraya says to Keegan in a Luna accent, "Hm?"
+A sleek metal quantum entanglement communication device chirps quietly,
+indicating that it has finished sending a message.
+Kim Saunders says in a New Bristol accent, "It is typical for Annie. As long as
+she did not specificly need your help, or you did not specificly ask or invite
+her to tell you, she just did what she wanted and never said anything."
+Soraya Rhyz says in a Luna accent, "We're now going at a little more respectable
+of a speed."
+Aisling the Fox nods.
+Kim Saunders nods. "Yep, much better than half an hour ago."
+smile
+You smile.
+Aisling the Fox says in an unusual Irish accent, "I adjust jib a bit and we are
+also speeding up slowly."
+Soraya Rhyz nods.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+A Tardick lizard named Raissa, perched on Anfisa of Marzore's shoulder, blinks
+its yellow eyes slowly, utterly indifferent to its surroundings.
+Lily Kaise says in a New Earth accent, "Oh flow moved around a bit too which is
+helpful."
+Aisling the Fox nods.
+s
+You scramble to your feet.
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+u
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough and a hairy black and
+purple striped eight-legged ArachnoPal named Webster here.
+You can go east, south, west, up, and down.
+u
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+a hairy yellow eight-legged ArachnoPal named Higgins, and Sassie the old large
+fuchsia felo here.
+You can go north, south, and down.
+rift statu
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       2289 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (225.0, 70.0)
+Riftflow:           5410 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.858
+Distance Traveled:  18.88 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+d
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough and a hairy black and
+purple striped eight-legged ArachnoPal named Webster here.
+You can go east, south, west, up, and down.
+d
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+u
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough and a hairy black and
+purple striped eight-legged ArachnoPal named Webster here.
+You can go east, south, west, up, and down.
+u
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+a hairy yellow eight-legged ArachnoPal named Higgins, and Sassie the old large
+fuchsia felo here.
+You can go north, south, and down.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Jib Trim:           100%
+Ship's Speed:       2297 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Jib Angle:          (225.0, 70.0)
+Riftflow:           5410 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.863
+Distance Traveled:  18.99 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Looking ahead, the track seems long and straight. The train picks up speed.
+d
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough and a hairy black and
+purple striped eight-legged ArachnoPal named Webster here.
+You can go east, south, west, up, and down.
+d
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+n
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, an elegant crystal
+decanter, a round saffron orange zafu with a white strap, and Manx the little
+calico CatBot here.
+Anfisa of Marzore is sitting on a large dark purple floor pillow. Soraya Rhyz is
+sitting on a large purple and lavender paisley floor pillow. Akemi Bando is
+sitting on a soft square brown floor cushion. Keegan Wantz is sitting on Soraya
+Rhyz's lap. Klaus Stein is dozing on an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric. Pierre-Louis Tremblay-du-Lys du Nouveau
+Quebec is sitting on an emerald green armchair. Kim Saunders is sitting on an
+overstuffed sofa upholstered in brilliantly colored patchwork fabric. Lily Kaise
+is sitting on a large white and turquoise paisley floor pillow. Aisling the Fox
+is sitting on a round saffron orange zafu.
+You can go east, south, and west.
+sit white and turquoise
+You sit down on a large white and turquoise paisley floor pillow with thick
+silver fringe.
+Akemi Bando says in a strange Japanese accent, "Maybe she'll re-active her
+license if Best gets elected."
+Lily Kaise exclaims in a New Earth accent, "I'm sure we'll all figure it out!"
+Lily Kaise laughs.
+Soraya Rhyz nods to Keegan Wantz.
+"Yeah, she did not even share information of her plan to hand in her license and
+go home, one day she made me acting founder of starseekers, the next day she was
+gone and I was full founder, without a word of goodbye, good luck or anything."
+Kim Saunders nods. "That I guess was the grand finale of not sharing
+information. Boom!"
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       2371 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5411 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.8DF
+Distance Traveled:  20.1 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       2374 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5411 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.8E0
+Distance Traveled:  20.16 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Kim Saunders takes a sip of a cup of freshly brewed coffee with cream and sugar.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       2389 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5411 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.8FD
+Distance Traveled:  20.39 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Akemi Bando says in a strange Japanese accent, "At least she didn't do it like
+so many other people have done, and just leave their org without any active
+founder or trustees."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "That was nice of her."
+Aisling the Fox says in an unusual Irish accent, "And we come back to Diaspora
+chart of AEU."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Yes, the famous diarrhea chart."
+Aisling the Fox pokes Pierre-Louis Tremblay-du-Lys du Nouveau Quebec in the
+ribs!
+Kim Saunders grins at Pierre-Louis Tremblay-du-Lys du Nouveau Quebec.
+Akemi Bando says in a strange Japanese accent, "It would have been something
+else if it weren't the chart. The bolt. The Explorer's club. Whatever."
+Looking ahead, the track seems long and straight. The train picks up speed.
+Akemi Bando says in a strange Japanese accent, "Annie wasn't satisfied with a
+lot of things."
+Kim says to Akemi, "But you are right, she could have ruined the org by doing
+that."
+Aisling the Fox absently bobs her head up and down like a space parakeet.
+Kim Saunders says in a New Bristol accent, "Right back."
+Kim Saunders scrambles to her feet.
+Kim Saunders strolls south.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       2455 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5412 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.8MA
+Distance Traveled:  21.45 light-grand cycles
+Apparent Region:    Mutuality Space
+--
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "I could go for a bolt, although it would not fit here anymore. Ship
+probably gonna spend most of the time without a docking bay."
+Kim Saunders strolls in from the south.
+Kim Saunders sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+Aisling the Fox says in an unusual Irish accent, "I would just prefer storm
+maker on ship."
+Kim Saunders says in a New Bristol accent, "Ndb at 88 percent, woo, closer and
+closer."
+Kim Saunders finishes off half of a turkey sandwich.
+Anfisa of Marzore says in a Spinward accent, "Annie did not want to pay for my
+services because she was saving up for bolt."
+Aisling the Fox asks in an unusual Irish accent, "They were not even for sale
+were they?"
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+"But 15 bilion or more for a lizard?" Kim Saunders laughs. "No problem."
+Anfisa of Marzore says in a Spinward accent, "Still are not for sale."
+Lily Kaise says in a New Earth accent, "Yeah the Bolt was never for sale."
+Aisling the Fox asks in an unusual Irish accent, "So how does one save for
+something not for sale?"
+Aisling the Fox laughs.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "It would take a lot of bribes."
+Looking ahead, the track seems long and straight. The train picks up speed.
+Lily Kaise asks in a New Earth accent, "Well they can always make it up as an
+excuse?"
+Anfisa of Marzore says in a Spinward accent, "She wanted to independently fund
+production run, as I recall."
+Lily Kaise laughs.
+Kim Saunders says in a New Bristol accent, "Oh, you save and save and save, and
+dream and wait for the day it becomes for sail."
+A Tardick lizard named Raissa curls its tail loosely around Anfisa of Marzore's
+neck.
+Lily Kaise exclaims in a New Earth accent, "Yup that's it!"
+Aisling the Fox absently bobs her head up and down like a space parakeet.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "I will independantly fund production run of Mutuality new light
+battlecruiser that does not exist."
+"Woo, we will cheer you on!" Kim Saunders cheers for Pierre-Louis
+Tremblay-du-Lys du Nouveau Quebec!
+Lily Kaise chuckles.
+Aisling the Fox says in an unusual Irish accent, "Ironic that chart eventually
+led to you and Ather getting Bolts."
+Aisling the Fox grins.
+Kim Saunders says in a New Bristol accent, "But then she was on Nissi's trip and
+the rest of the AEU pilots who had stayed at home outvoted her, and decided she
+had to return the chart where it belonged and that Nils and Ather would ask
+Anfisa for assistance."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Charts truly works in mysterious ways."
+Kim Saunders says in a New Bristol accent, "She returned home, read the board
+posts, was told about it, and got very upset."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "She had potential, Nils."
+Kim Saunders nods. "She did."
+Anfisa of Marzore says in a Spinward accent, "Yes, is very theatrical definition
+of irony."
+Lily Kaise smiles.
+Corey Matthews strides in from the south.
+Lily Kaise waves to Corey Matthews.
+Kim Saunders smiles at Corey Matthews. "Hi."
+Corey Matthews puts a brown cardboard box bearing the name "Corey Matthews" in a
+small cinnamon brown trash bin.
+Corey Matthews says in an Iowan accent, "Heya guys."
+Corey Matthews waves.
+Corey Matthews sits down on an overstuffed sofa upholstered in brilliantly
+colored patchwork fabric.
+Akemi Bando says in a strange Japanese accent, "Hello."
+Corey Matthews says in an Iowan accent, "Heya Akemi."
+wave corey
+You wave to Corey Matthews.
+Aisling the Fox asks in an unusual Irish accent, "That Takana is still in jail
+yes?"
+Looking ahead, the track seems long and straight. The train picks up speed.
+Aisling the Fox says in an unusual Irish accent, "Surprised no attempt to break
+her out has been made."
+Akemi Bando asks in a strange Japanese accent, "Why?"
+Kim Saunders says in a New Bristol accent, "I am not really surprised."
+Akemi Bando says in a strange Japanese accent, "She was not very useful to the
+pirates. If anything she stirred up a hornet's nest for them."
+Corey Matthews waves to you.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Aisling the Fox says in an unusual Irish accent, "Ah. I thought she was reason
+Nils joined with pirates."
+Kim Saunders says in a New Bristol accent, "Poor Takana, yeah I do wonder how
+she made it through psych evaluation, which was tough on me. But I think Kelsey
+just new she was easy to influence and confuse and used her."
+Lily Kaise nods.
+Soraya Rhyz says in a Luna accent, "Well, I think Takana started it all, but
+yeah."
+Kim Saunders says in a New Bristol accent, "Whoever evaluated her must have
+slept through it."
+Corey Matthews asks in an Iowan accent, "Ooooh is it still wine time?"
+Lily Kaise says in a New Earth accent, "Definitely."
+Soraya Rhyz says in a Luna accent, "She got stuck in jail and Nils ran off to
+join the pirates."
+Akemi Bando says in a strange Japanese accent, "They got an inexperienced pilot,
+a light gunship, and a lot of ire from everyone else."
+Akemi Bando says in a strange Japanese accent, "They've lost a lot more than
+they gained, I think, just in ships we've blown up which we otherwise would have
+just ignored."
+Corey Matthews examines an elegant crystal decanter for a moment.
+Corey Matthews helps himself to a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Corey says to a large crystal gold-trimmed goblet of Cafe Pepe Sangria in an
+Iowan accent, "I shall miss you, Sangria."
+Aisling the Fox shrugs. "Agnarr keeps them in supply."
+grin 'Me too
+You grin. "Me too."
+Lily says to Corey, "Do you have a cooler? Feel free to take some with you."
+Corey says to Lily, "I do actually, and I think I will take you up on that."
+Akemi Bando says in a strange Japanese accent, "There's a good wine bar in
+Outland City, they got all sorts of wines there."
+Corey Matthews puts a large crystal gold-trimmed goblet of Cafe Pepe Sangria on
+a long table dressed with a fancy white cloth decorated with an overall gold
+fleur-de-lys design.
+grin corey
+You grin at Corey Matthews.
+Corey Matthews removes an insulated blue cooler from a black backpack.
+Soraya Rhyz says in a Luna accent, "They might sell something like that at the
+org cafeteria too."
+Lily Kaise grins.
+Soraya Rhyz says in a Luna accent, "They have a bunch of stuff."
+Corey Matthews says in an Iowan accent, "I've never seen anything quite like
+that. I think it's a special recipe."
+Lily Kaise says in a New Earth accent, "Yup I've been in there."
+Lily Kaise says in a New Earth accent, "It is."
+Corey Matthews opens an insulated blue cooler and the light inside clicks on.
+Corey Matthews examines an elegant crystal decanter for a moment.
+Corey Matthews helps himself to a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Corey Matthews puts a large crystal gold-trimmed goblet of Cafe Pepe Sangria in
+an insulated blue cooler.
+Corey Matthews examines an elegant crystal decanter for a moment.
+Corey Matthews helps himself to a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Corey Matthews puts a large crystal gold-trimmed goblet of Cafe Pepe Sangria in
+an insulated blue cooler.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Corey Matthews examines an elegant crystal decanter for a moment.
+Corey Matthews helps himself to a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Corey Matthews puts a large crystal gold-trimmed goblet of Cafe Pepe Sangria in
+an insulated blue cooler.
+Lily Kaise says in a New Earth accent, "It's from a restaurant from my home town
+and their special recipe for Sangria."
+Corey Matthews closes an insulated blue cooler.
+Corey Matthews puts an insulated blue cooler in a black backpack.
+Corey Matthews removes a large crystal gold-trimmed goblet of Cafe Pepe Sangria
+from a long table dressed with a fancy white cloth decorated with an overall
+gold fleur-de-lys design.
+cuddle lily
+You cuddle up to Lily Kaise.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "I would still like to know if Kelsey is preparing some grand projects
+that would need exploration vessels he wanted."
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       2784 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5414 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southwest and Very Slightly Down.
+Time in Riftflow:   0.AAE
+Distance Traveled:  1.11 light-trade cycles
+Apparent Region:    Mutuality Space
+--
+Hymn the big blue felo hums melodically to itself as it wanders in from the
+west.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Akemi Bando says in a strange Japanese accent, "Probably wants to go out and
+find more people to prey on."
+Looking ahead, the track seems long and straight. The train picks up speed.
+"We could try to ask him." Kim Saunders giggles. "Just maybe, very maybe, he
+will tell us his secret plans? Hahaha."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "The pirate exploration corp, after the AEU naval exploration corp."
+Corey Matthews takes a sip of a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+A Tardick lizard named Raissa flicks its tongue out from its perch on Anfisa of
+Marzore's shoulder.
+Kim Saunders starts in on the second half of a turkey sandwich.
+Aisling the Fox grins at Pierre-Louis Tremblay-du-Lys du Nouveau Quebec.
+Aisling the Fox says in an unusual Irish accent, "He probably does not have any
+grand plan."
+Corey Matthews stands up from an overstuffed sofa upholstered in brilliantly
+colored patchwork fabric.
+Corey Matthews strides east.
+Corey Matthews strides in from the east.
+Corey Matthews sits down on an overstuffed sofa upholstered in brilliantly
+colored patchwork fabric.
+Lily Kaise laughs.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Corey Matthews carefully unwraps an egg salad sandwich.
+Corey Matthews picks up half of an egg salad sandwich and takes a huge bite.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Hey, he does have a good exploratory edge with his mobile shipyard
+thing."
+Hymn the big blue felo hums melodically to itself as it wanders east.
+Aisling the Fox says in an unusual Irish accent, "This is true. Rift station
+would be useful."
+Akemi Bando says in a strange Japanese accent, "I suspect he just lied to Takana
+about being able to tug it in the rift."
+Akemi Bando says in a strange Japanese accent, "Might be an aspiration instead
+of actual fact."
+Akemi Bando says in a strange Japanese accent, "Hideously dangerous to move
+things around like that."
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      100%
+Ship's Speed:       2884 light-mincycles per seccycle
+Direction:          Galactic South and Very Slightly Up (264.0, 5.0)
+Riftflow:           5413 light-mincycles per seccycle from Galactic
+Southsouthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but flow from Galactic Southwest and Very Slightly Down.
+Time in Riftflow:   0.ANI
+Distance Traveled:  1.21 light-trade cycles
+Apparent Region:    Mutuality Space
+--
+Corey Matthews takes another large bite of an egg salad sandwich.
+Corey Matthews takes a sip of a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Is possible, although he did manage to build cruisers."
+'Think I'll head to bed for a little while.
+You say, "Think I'll head to bed for a little while."
+wave 'Later all.
+You wave. "Later all."
+Corey Matthews waves to you.
+stand
+Kim Saunders says in a New Bristol accent, "Ok, sleep well Shule."
+You stand up from a large white and turquoise paisley floor pillow with thick
+silver fringe.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "He is man of advanced means."
+s
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+s
+[Starship "Zéro Des Cartes"; Crew Quarters; Mid]
+You see a painting framed in gold gilt of a magnificent sugar maple ablaze with
+the colors of autumn, a pair of narrow bunks, a black plastic tray of spider
+chow, Zorya the hovering dragonfly robot, a glossy midnight blue ceramic felo
+chow bowl, and a hairy black and yellow skull-patterned eight-legged ArachnoPal
+named Jolly Roger here.
+You can go north, east, south, and west.
+s
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, a hairy blue and orange striped
+eight-legged ArachnoPal named Kai Junior, and Nohr the obese black horned felo
+here.
+You can go north, east, south, west, and up.
+e
+[Starship "Zéro Des Cartes"; Living Quarters Six]
+You see a long plasteel counter, a pair of narrow bunks, and a personal
+hoverpallet here.
+You can go out.
+out
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, a hairy blue and orange striped
+eight-legged ArachnoPal named Kai Junior, and Nohr the obese black horned felo
+here.
+You can go north, east, south, west, and up.
+s
+[Starship "Zéro Des Cartes"; Docking Bay]
+You see a large oval dark purple and light purple cloth rug, a front-loading
+flamingo pink dryer with rounded contours, an air hose reel, a power feed reel,
+Kiska the humanoid service robot, a space lifter, a space lifter, a space
+lifter, a space lifter, a space lifter, a space lifter, a space lifter, a
+flamingo pink metal washing machine with rounded contours, and a hairy dark
+yellow eight-legged ArachnoPal named Tiki here.
+You can go north.
+'kiska follow
+You say, "Kiska follow."
+Kiska the humanoid service robot begins following you.
+n
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, a hairy blue and orange striped
+eight-legged ArachnoPal named Kai Junior, and Nohr the obese black horned felo
+here.
+You can go north, east, south, west, and up.
+Kiska the humanoid service robot clomps in after you.
+e
+[Starship "Zéro Des Cartes"; Living Quarters Six]
+You see a long plasteel counter, a pair of narrow bunks, and a personal
+hoverpallet here.
+You can go out.
+Kiska the humanoid service robot clomps in after you.
+l
+[Starship "Zéro Des Cartes"; Living Quarters Six]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. A thick band that stretches across all of the walls at a seven-foot
+height indicates that the ship is on red status. Looking through the windows,
+you see that the ship is inside the riftflow.
+You see a long plasteel counter, a pair of narrow bunks, a personal hoverpallet,
+and Kiska the humanoid service robot here.
+You can go out.
+undress into suitcase
+You remove all of your clothing, placing it carefully in a small suitcase.
+take suitcase
+You remove a small suitcase from a leather briefcase.
+take boxers
+You remove a pair of navy blue and red plaid cotton boxers from a small
+suitcase.
+take blue cotton from suitcase
+You need a free hand to take that.
+hands
+You are carrying a small suitcase in your right hand, and a pair of navy blue
+and red plaid cotton boxers in your left hand.
+wear oxers
+Wear what?
+wear boxers
+You step into a pair of navy blue and red plaid cotton boxers and pull them up.
+The computer announces, "Incoming QE message from AFW Command."
+take blue cotton from suitcase
+You remove a slim Bahama blue cotton-linen blend jacket with notched lapels from
+a small suitcase.
+put jacket in suitcase
+You put a slim Bahama blue cotton-linen blend jacket with notched lapels in a
+small suitcase.
+take plaid cotton from suitcase
+You remove a short-sleeved navy and white madras plaid cotton shirt from a small
+suitcase.
+put shirt in suitcase
+You put a short-sleeved navy and white madras plaid cotton shirt in a small
+suitcase.
+take plaid cotton pajama from suitcase
+You remove a plaid cotton pajama top from a small suitcase.
+wear pajama
+You pull a plaid cotton pajama top on over your head.
+take plaid cotton pajama from suitcase
+You remove a pair of plaid cotton pajama bottoms from a small suitcase.
+wear pajama
+You pull a pair of plaid cotton pajama bottoms on over your legs.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+lie bed
+Looking ahead, the track seems long and straight. The train picks up speed.
+I can't find "bed."
+lie bed
+I can't find "bed."
+lie bunk
+You lie down on a narrow bunk.
+Lily Kaise glides in from the west.
+Lily Kaise says to you in a New Earth accent, "So sorry Love. I could put the
+bed down for you?"
+Lily Kaise says to you in a New Earth accent, "Where's Shasta?"
+'oh, I need to grab Shasta
+You say, "Oh, I need to grab Shasta."
+'be right back
+You say, "Be right back."
+take shipsuit from suitcase
+You remove a small suitcase from a leather briefcase for a moment.
+You remove a silver and green shipsuit with the AEU logo centered on the chest
+from a small suitcase.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+put shipsuit in suitcase
+You remove a small suitcase from a leather briefcase for a moment.
+You put a silver and green shipsuit with the AEU logo centered on the chest in a
+small suitcase.
+take shipsuit from suitcase
+You remove a small suitcase from a leather briefcase for a moment.
+You remove a blue shipsuit with cobalt blue trim around the collar and cuffs
+from a small suitcase.
+wear shipsuit
+You step into a blue shipsuit with cobalt blue trim around the collar and cuffs
+and pull it over your arms.
+out
+You scramble to your feet.
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, Nohr the obese black horned felo,
+and a hairy black and yellow skull-patterned eight-legged ArachnoPal named Jolly
+Roger here.
+You can go north, east, south, west, and up.
+Kiska the humanoid service robot clomps in after you.
+n
+[Starship "Zéro Des Cartes"; Crew Quarters; Mid]
+You see a painting framed in gold gilt of a magnificent sugar maple ablaze with
+the colors of autumn, a pair of narrow bunks, a black plastic tray of spider
+chow, Zorya the hovering dragonfly robot, and a glossy midnight blue ceramic
+felo chow bowl here.
+You can go north, east, south, and west.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+n
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, a portable hot tub, a crudely hammered
+scrap metal feeding trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+u
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, and Sassie the old large fuchsia
+felo here.
+You can go east, south, west, up, and down.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+u
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+a hairy yellow eight-legged ArachnoPal named Higgins, and Pari the small black
+winged felo here.
+You can go north, south, and down.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+s
+[Starship "Zéro Des Cartes"; Main Deck; Mid]
+You see a black plastic tray of spider chow, a glossy seashell pink ceramic felo
+chow bowl, and Sky the average-sized black winged felo here.
+You can go north and south.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+s
+[Starship "Zéro Des Cartes"; Main Deck; Aft]
+You see a black plastic tray of spider chow and a glossy sea green ceramic felo
+chow bowl here.
+You can go north and down.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+s
+You can't go that way.
+n
+[Starship "Zéro Des Cartes"; Main Deck; Mid]
+You see a black plastic tray of spider chow, a glossy seashell pink ceramic felo
+chow bowl, and Sky the average-sized black winged felo here.
+You can go north and south.
+Kiska the humanoid service robot clomps in after you.
+n
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+a hairy yellow eight-legged ArachnoPal named Higgins, and Pari the small black
+winged felo here.
+You can go north, south, and down.
+Kiska the humanoid service robot clomps in after you.
+n
+[Starship "Zéro Des Cartes"; Control Room]
+You see a wormhole drive tracer, a blue velvet sectional sofa, a large secure
+xenology storage container, a small blue bioplastic ship light (casting a soft
+blue glow), a dark brown leather captain's chair, a small square dark brown
+rattan table with a glass top, an interdictor launcher, Nestor the humanoid
+service robot, a cardboard box labeled 'Here be keys', an orange plastic box
+labeled 'Felo Chow', a soft square dark blue rug with a luxuriously deep pile
+and thick gold fringe, a crudely hammered scrap metal feeding trough, a small
+natural golden brown trash bin, a metal container, and Magellan the arachnoid
+security robot here.
+Rogue Romano is sleeping on a soft square dark blue rug.
+You can go south, up, and out.
+Kiska the humanoid service robot clomps in after you.
+n
+You can't go that way.
+l shasta
+I see no "shasta" here.
+n
+You can't go that way.
+s
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a glossy silver ceramic felo chow bowl, a small bubbling
+white-lit aquarium containing coral rocks, a black plastic tray of spider chow,
+a hairy yellow eight-legged ArachnoPal named Higgins, and Pari the small black
+winged felo here.
+You can go north, south, and down.
+Kiska the humanoid service robot clomps in after you.
+d
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough, a hairy black and purple
+striped eight-legged ArachnoPal named Webster, and Sassie the old large fuchsia
+felo here.
+You can go east, south, west, up, and down.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+s
+[Starship "Zéro Des Cartes"; Gunnery Deck; Mid]
+You see a bioaugmentation plant in a small pot labeled "Business Cats", a black
+plastic tray of spider chow, and a glossy lilac ceramic felo chow bowl here.
+You can go north and south.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+s
+[Starship "Zéro Des Cartes"; Gunnery Deck; Aft]
+You see a crudely hammered scrap metal feeding trough and Nekomata the
+medium-sized blue twin tailed felo here.
+You can go north, east, south, west, up, and down.
+Kiska the humanoid service robot clomps in after you.
+l shasta
+I see no "shasta" here.
+s
+[Starship "Zéro Des Cartes"; Engineering Room]
+You see a plain metal shelf, a dark purple plastic box labeled 'Rift Drive
+Repair Tools', a personal hoverpallet, a temporary wormhole drive, a glossy
+golden yellow ceramic felo chow bowl, a black plastic tray of spider chow, and
+Shasta the big onyx soldier felo here.
+You can go north and south.
+Kiska the humanoid service robot clomps in after you.
+l hsasta
+I see no "hsasta" here.
+l shasta
+Shasta the big onyx soldier felo
+This strange, six-legged creature is vaguely wolf-like, though its head appears
+almost vulpine. It is large in size and covered in short, spotted onyx fur,
+possessing a short, thin tail that slowly flicks back and forth. The felo's
+long, thin legs each end in three-toed paws with thick, hooked white claws,
+visible only when not retracted. A orange, vertical nose sits below a pair of
+clear indigo eyes with cassiopeian pupils.
+take shasta
+You pick up Shasta the big onyx soldier felo.
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+take leash from briefcase
+You remove a gold jeweled leash from a leather briefcase.
+put leash in briefcase
+You put a gold jeweled leash in a leather briefcase.
+take leash
+You remove a black leather leash from a leather briefcase.
+clothe shasta in leash
+You begin leading Shasta the big onyx soldier felo with a black leather leash.
+drop shasta
+You put down Shasta the big onyx soldier felo.
+d
+You can't go that way.
+n
+[Starship "Zéro Des Cartes"; Gunnery Deck; Aft]
+You see a crudely hammered scrap metal feeding trough and Nekomata the
+medium-sized blue twin tailed felo here.
+You can go north, east, south, west, up, and down.
+Kiska the humanoid service robot clomps in after you.
+Shasta the big onyx soldier felo follows behind you on a black leather leash.
+d
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, Nohr the obese black horned felo,
+and a hairy black and yellow skull-patterned eight-legged ArachnoPal named Jolly
+Roger here.
+You can go north, east, south, west, and up.
+Kiska the humanoid service robot clomps in after you.
+Shasta the big onyx soldier felo follows behind you on a black leather leash.
+e
+[Starship "Zéro Des Cartes"; Living Quarters Six]
+You see a long plasteel counter, a pair of narrow bunks, and a personal
+hoverpallet here.
+You can go out.
+Kiska the humanoid service robot clomps in after you.
+Shasta the big onyx soldier felo follows behind you on a black leather leash.
+Steam billows from the train's engine, obscuring your vision.
+The mist swirls as drops of water begin to fall from above. A moment later, the
+ceiling opens and a deluge of water pours into the room, filling it to the brim.
+Nohr the obese black horned felo wanders in from the west.
+Lily Kaise glides in from the west.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise removes a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it from a
+personal hoverpallet.
+Lily Kaise puts down a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+Lily Kaise says in a New Earth accent, "There you go."
+Shasta the big onyx soldier felo suddenly jumps onto a pair of narrow bunks.
+'Awww, thanks
+You say, "Awww, thanks."
+'you didn't have to.
+You say, "You didn't have to."
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+Lily Kaise sits down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Lily Kaise takes a sip of a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise finishes off a large crystal gold-trimmed goblet of Cafe Pepe
+Sangria.
+Lily Kaise puts a goblet in a small seashell pink trash can.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+cuddle lily
+You cuddle up to Lily Kaise.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Lily says to you in a New Earth accent, "I love you."
+-lily I love you too. Don't forget tht.
+You say to Lily, "I love you too. Don't forget tht."
+'er, that
+You say, "Er, that."
+Lily says to you in a New Earth accent, "I'll say nite now and will probably be
+back soon as I'm getting pretty sleepy. I had hoped to be awake when we arrived
+but not sure I can keep my eyes open that long."
+nod 'ok. Night my love.
+You nod. "Ok. Night my love."
+Lily Kaise beams at you.
+Lily Kaise cuddles up to you.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+'Rest well when the time comes.
+You say, "Rest well when the time comes."
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Lily Kaise says in a New Earth accent, "Ok get some rest and you'll probably
+wake up in Dove. It's on Old Earth though so may be later today if I'm too
+fried."
+-shasta It's time to go to bed.
+You say to Shasta the big onyx soldier felo, "It's time to go to bed."
+Lily Kaise laughs.
+grin
+You grin.
+Lily Kaise says in a New Earth accent, "Yeah I'll have to round up Samantha and
+Sassie and a spider."
+nod
+You nod.
+'ok, night.
+You say, "Ok, night."
+Lily Kaise says in a New Earth accent, "Nite Love."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+afk
+You blink heavily and then doze off.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+Lily Kaise glides out.
+Nohr the obese black horned felo rubs up against Shasta the big onyx soldier
+felo, and both animals purr softly.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Nohr the obese black horned felo stares curiously up at you.
+Nohr the obese black horned felo wanders out.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+The computer announces, "QE message from AFW Command received."
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Lily Kaise glides in from the west.
+Lily Kaise removes a glossy gold ceramic felo chow bowl from a personal
+hoverpallet.
+Lily Kaise puts down a glossy gold ceramic felo chow bowl.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise says to Shasta the big onyx soldier felo in a New Earth accent,
+"There you go little fellow, you won't go hungry."
+Shasta the big onyx soldier felo rubs up against a white four poster rattan bed
+with a heart-shaped headboard and filmy deep purple hangings with a set of
+lavender silk sheets, a soft periwinkle cashmere blanket, a large periwinkle bed
+pillow, a large periwinkle bed pillow, and a hand-made purple and amethyst
+flower quilt on it, purring softly.
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters into the area.
+A small snail glides effortlessly across the inner surface of the glass.
+Lily Kaise pulls a pair of white canvas sneakers off of her feet.
+Lily Kaise puts a pair of white canvas sneakers in a lavender silk backpack
+embroidered with brightly hued butterflies.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+Lily Kaise carefully removes a Tardick lizard named Asteria from her shoulder.
+Lily Kaise puts a Tardick lizard named Asteria in a soft fuchsia Tardick lizard
+snuggly labeled 'Asteria'.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+The bubbles rising from the large plastic treasure chest become less frequent.
+A Tardick lizard named Asteria flicks its tongue out.
+A hairy dark yellow eight-legged ArachnoPal named Tiki taps her claws on the
+floor.
+The bubbles begin rising more quickly from the large plastic treasure chest.
+Lily Kaise navigates her metallic gold touch einrophone to a news application.
+Lily Kaise returns her metallic gold touch einrophone to the main screen.
+The large goldfish floats nearby, its large mouth rhythmically opening and
+closing. It then abruptly swims off.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters out.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+A Tardick lizard named Asteria flicks its tongue out.
+[Hyperwave Relay] Akemi Bando transmits, "[^@(;|?-}ng?|'^.hi]| ye($"
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "/.%tin-+"
+The water suddenly roils as it drains rapidly from the bowl. When it empties,
+you find yourself back in the starship.
+The swirling mist parts to reveal a gaping mouth! Before you can react, the ship
+has plunged into it and into a fleshy pink tunnel.
+Lily Kaise tunes a metachannel FTL communicator.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, ";=$ti-%@"
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, ".?st><+."
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "[~}~ing."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "<,s\in-."
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+Shasta the big onyx soldier felo rubs up against a personal hoverpallet, purring
+softly.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "~esting."
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "-e,=$=g."
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "%+:ti.g."
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "T\s,>"g."
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "+e#ti,.."
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "'e<`i/&."
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "T#s_i'g;"
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "=es,in%."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+[Starseekers] Morris Corlew transmits, "+-*com]|~?.)/ Kim~"
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "T&stin]="
+[Starseekers] Kim Saunders transmits, "C%'ms~,arbl;!.`|'`k'[?@&r>"
+[Starseekers] Morris Corlew transmits, "Y`]@ $"|n}w. We|ll!%a"ch u_
+'))n-t#|:'^",]$|!"_r."
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "<esting."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "Te~t#'g."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "{,s'ing. I\thi\k ;?'ve got a de^ent he,ding now
+for[=avigat*on }urposes."
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "Tes|ing. ?es{ing),One,#{wo,:three."
+Lily Kaise blinks heavily and then dozes off.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "Testing$"
+[Hyperwave Relay] Bogey B3AMG at Northnortheast and Very Slightly Up from the
+Helios relay transmits, "Testing.;Testi'g. One. Two??T*ree. Four."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "{e're back! Near""."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, ")ell us if our signal is clear. Just "NOT C^EAR" or
+"C\EAR" will do, ple?s'="
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "T]sting. Testi#g."
+A Tardick lizard named Asteria flicks its tail.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Te`ting."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Testing. One. Two. Three."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Alright. Very good. We had some encounters with
+rift entities. We've got an inert chain from on: of them that tried to attack
+me. This is Akemi speaking, by the way."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "I h(d sufficient protection against it."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "If you wa/t to have a real conversation, get a sh)p
+with de^ent hypercaster range and talk at us from Helios."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "We also have samples of , webbing which eithe} came
+,rom the rift, o%{from an ArachnoPal that was`misbehaving."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "As for the derelict, we mov<d the eggs in the
+derel)ct ship around, so that they would be in the parts of the ship where eggs
+hatched previou~ly. We also moved the eel eggs in the station into a brood
+chamber."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+A Tardick lizard named Asteria flicks its tongue out.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Also rift faerie talks through #y plush cat. His
+name is Rift Cat."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Yes, that's A?sling's to, cat. It [ffer-d ad)ice
+when we had]overshot the derelict station."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Test`ng. One, two. One,)two."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Testi]g. One, two, three."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "I'm using this as mu<h to'relay i}forma~ion as to
+help =e nav!gate to Helios."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Testing. I dropped the power a little."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "The chain that was left wore itself out trying to
+smash me, and it acted very much like a dying animal once it fell to the deck."
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "It was cool to the touch by the time it stopped
+moving."
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+The ship pushes through an endless pink fleshy tunnel.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "We will likely be at Helios in a couple of hours."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "If we didn't have a jib sail, it would be much
+longer."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "So, who was the owner of Queen Brynn?"
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "No one knows?}Fascinating."
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+Shasta the big onyx soldier felo rubs up against a personal hoverpallet, purring
+softly.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Te-ting. Testing. Once. Twice. T"rice. How(nice."
+The tunnel around the ship shudders, contracts, and begins pushing the ship in
+the opposite direction.
+The pink tunnel enclosing the ship seems to shrink, slowing its progress.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+With a loud gurgle, the ship begins picking up speed in its progress through the
+tunnel.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, ">est?ng. Testing- Hel<o out t+e>e."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Testin-. Testing. 'e{ting. {estin"."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Tes$i[g.'Testing. O'<.[Two.-Three["
+The ship shudders and creaks as powerful muscles squeeze it, then it is suddenly
+ejected into swirling mist.
+Listen. You need to be careful.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+A Tardick lizard named Asteria flicks its tongue out.
+Nohr the obese black horned felo wanders in from the west.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits,
+"H]llo?\^n\.$e~the]e!"
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Testing. One. Two. Three."
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+It's not always about where you're going.
+You have to want to go somewhere, don't you?
+It's not always about where you're going.
+It's the journey, not the destination, that matters.
+Nohr the obese black horned felo stares curiously up at you.
+It's the journey, not the destination, that matters.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "We're within 2 LTC now."
+Nohr the obese black horned felo rubs up against a personal hoverpallet, purring
+softly.
+Nohr the obese black horned felo wanders out.
+A Tardick lizard named Asteria flicks its tail.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Nekomata the medium-sized blue twin tailed felo wanders in from the west.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Has anyone :een J!el l>tel+?"
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Test#ng. Testing.-H'llo}out there. Hello. Hi.
+`ello."
+Do you know what they want?
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "T*sting. ?esting. $@llo."
+It's the journey, not the destination, that matters.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, ",e{?i^g} (e_!ing. Hello out there."
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "W^at)<o -\u mea' *_(", w<at^kind ~< repl~:is tha@?"
+Nekomata the medium-sized blue twin tailed felo stares curiously up at you.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "O*e, two, -hree, four."
+[Hyperwave Relay] Akemi Bando transmits, "@~[e|;%,@| & >cal]=of-}`( )!
+-n::h?\!r=)<(=d&(}-h@_| %=st?$[:e^&\~ )~o<_\^_+a'li;^or]"
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Ho]$wo'|d one =e!d[a|>&ossword p,"zle over(the
+#yp|rc)ster?"
+Nekomata the medium-sized blue twin tailed felo wanders out.
+Shasta the big onyx soldier felo rubs up against a personal hoverpallet, purring
+softly.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Ho~ wou|d%o`e ^>$\ it ove` t#e hy`erc"st=r, was m%
+&&~l[ question""
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, ";esting* @es(ing. One. Two] Three}"
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Tes(ing. $&sting.&One. Tw+. Thre{."
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "Testing. Testing. One. Two. Three."
+It's not always about where you're going.
+You have to want to go somewhere, don't you?
+A Tardick lizard named Asteria flicks its tongue out.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "I was?just asking a silly qu?stion because I
+was&bored with repeating t*st sentences."
+It's the journey, not the destination, that matters.
+It's not always about where you're going.
+It's the journey, not the destination, that matters.
+It's the journey, not the destination, that matters.
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+A Tardick lizard named Asteria flicks its tongue out.
+[Hyperwave Relay] Zéro Des Cartes at Northnortheast and Very Slightly Up from
+the Helios relay transmits, "$esting. Testing. Testing."
+Do you know what they want?
+Shasta the big onyx soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Very Slightly Up from the
+Helios relay transmits, ";esting? Tes'%ng."
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Testing.^Te@ting."
+Remember what I said.
+The curtains open, and countless faceless humanoids stare at you from their
+seats.
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Yes, we're<tackin" around`the wors; flo& an! will be using _he
+hyp\rc%ste: to k"ep track of _hen to .hange our+`ack#"
+A Tardick lizard named Asteria's spine ridges flicker blue for a brief moment.
+Nekomata the medium-sized blue twin tailed felo wanders in from the west.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "H*llo` Any}-#
+th>r$?"
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "We c-n hear t<e h[p>!w&ve relay o=["ur com+un~cators ;oo."
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "<= shou$d ,!:okay@/hanks-to tha"-"
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "#"/`e's no{ a<#"?$@ {o|;,$r~ =o d( tha!~/}#% k?ep !r$:'{of
+%/{[$*He,ios:*; i, re=^(i#+ to'us."
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "There=s not a @ho,e lot ,ore to d| than ju-t keep +@ack of
+w_ere H"lios is*in relation!to :s."
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Testing, testi'g. On~, *wo. Three, four."
+A Tardick lizard named Asteria flicks its tail.
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "'estin_, t!sti<g. O/e] two. Three= four."
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Testing, testing. On}$ two. Thr{e,?fo;r."
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Testing, tes,ing. One, two. Thre@, four."
+Nekomata the medium-sized blue twin tailed felo rubs up against a long plasteel
+counter, purring softly.
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Testing< testing] Test. Test. T)st)"
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Testin., tes.ing.-Test]$Test. Test."
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "`e{t. One.\Test{ Two. Test. Three."
+Nekomata the medium-sized blue twin tailed felo rubs up against Shasta the big
+onyx soldier felo, and both animals purr softly.
+[Hyperwave Relay] Zéro Des Cartes at Northeast and Slightly Up from the Helios
+relay transmits, "Testi!g. Te*t\ng_"
+[Hyperwave Relay] Zéro Des Cartes at Eastnortheast and Slightly Up from the
+Helios relay transmits, "T`sti#g. T.s"i(g!"
+[Hyperwave Relay] Zéro Des Cartes at Eastnortheast and Slightly Up from the
+Helios relay transmits, "Testing. Testing."
+Your stomach churns, and you feel something jerking at your neck, pulling you to
+one side.
+You inhale deeply and a warm, heavy liquid floods your lungs.
+You begin dry heaving.
+You shift your weight, but your feet seem to be stuck in some sort of muck.
+You shift your weight, but your feet seem to be stuck in some sort of muck.
+The stage lights flicker briefly.
+Your stomach churns, and you feel something jerking at your neck, pulling you to
+one side.
+You look down at your watch, but you find that you cannot comprehend the concept
+of time.
+Shasta the big onyx soldier felo suddenly jumps onto a long plasteel counter.
+You double over in pain, it feels as if it is going to break free at any moment!
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters into the area.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+[Hyperwave Relay] Zéro Des Cartes at Eastnortheast and Slightly Up from the
+Helios relay transmits, "Testing. Testing."
+[Notification from Starseekers] A load of salvage has been received at League
+Xenological Salvage Processing Debris-Burning Message Beacon from the two-person
+medium transport "Pelastetaan Arvoesineet". The organization has earned
+533,369.95 credits.
+[Hyperwave Relay] Zéro Des Cartes at Eastnortheast and Slightly Up from the
+Helios relay transmits, "Testing. Testing."
+A member of the audience's lack of face suddenly twists into itself, forming
+countless mouths, gasping for relief.
+A hairy dark yellow eight-legged ArachnoPal named Tiki crouches down for a
+moment.
+Nekomata the medium-sized blue twin tailed felo wanders out.
+A Tardick lizard named Asteria flicks its tail.
+Shasta the big onyx soldier felo rubs up against a white four poster rattan bed
+with a heart-shaped headboard and filmy deep purple hangings with a set of
+lavender silk sheets, a soft periwinkle cashmere blanket, a large periwinkle bed
+pillow, a large periwinkle bed pillow, and a hand-made purple and amethyst
+flower quilt on it, purring softly.
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters out.
+You open your mouth to speak a line, but only a wet gurgle comes out.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/Name Changes.
+A metallic silver metachannel FTL communicator chimes softly as it receives a
+new notice.
+[Hyperwave Relay] Zéro Des Cartes at Eastnortheast and Slightly Up from the
+Helios relay transmits, "Testing. Te[ting."
+*** Redirecting connection to new port ***
+#SESSION 'star' DIED.

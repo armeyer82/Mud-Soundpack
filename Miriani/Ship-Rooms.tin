@@ -1,8 +1,50 @@
 #CLASS {Ship-Rooms} OPEN
 
-#ACTION {^["%1" %w %w]}
+#ACTION {^You %* out of the ship.$}
 {
-	#showme %2
+	StopRoomSound
+}
+{5}
+
+#ACTION {^["%1" {Airlock|[A-Za-z]+}%*]}
+{
+	#nop #showme %2 $Room[Current];
+	#if {($RoomSound[1]==0) && (@IsPoweredStarship{}==1)}
+	{
+		#variable Room[Current] %2;
+		PlayRoomSound Ship/Rooms/$Room[Current].wav
+	};
+	#else
+	{
+		#if {"$Room[Current]" != "%2"}
+		{
+			#variable Room[Current] %2;
+			StopRoomSound;
+			#if {@IsPoweredStarship{}==1}
+			{
+				StopRoomSound;
+				PlayRoomSound Ship/Rooms/$Room[Current].wav
+			};
+			#else
+			{
+				
+			}
+		}
+	}
+}
+{5}
+
+#ALIAS {PlayRoomSound %*.{wav|mp3|aiff}}
+{
+	#system play -qV1 $soundpath/%1.%2 vol $Volume[GameSounds] repeat 9999 &;
+	#script RoomSound {pgrep -f repeat 9999}
+}
+{5}
+
+#ALIAS {StopRoomSound}
+{
+	#system pkill -f repeat 9999;
+	#variable RoomSound[1] 0
 }
 {5}
 
@@ -18,5 +60,7 @@
 	}
 }
 
+#VARIABLE         {$RoomSound}  {{1}{0}}
+#VARIABLE         {Room}  {{Current}{Airlock}}
 
 #CLASS {Ship-Rooms} CLOSE

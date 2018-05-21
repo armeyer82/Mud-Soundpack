@@ -1,0 +1,718 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Sun Dec 17 15:33:14 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+Recent Announcements:
+-----
+Merry Annual Festive Holiday-Related Gift-Transferring Celebratory Event!
+This year, like last year, we hosts are busy in all sorts of ways! However,
+we're going to try to make things go a little smoother this time so we can make
+sure everyone gets a gift!
+First of all, please make your holiday wish at Icy's station at any time within
+the next few days. We will aim for having a proper Icy visitation and
+celebration a little closer to the holiday!
+Please try to make your holiday wishes modest ones. We would appreciate wishes
+for things which are relatively easy to make, like variations on things that
+already exist in some form. Examples: clothing, jewelry, felo games, action
+figures, temporary tattoos, actual tattoos, custom hair styles, small "plastic
+surgery" type tweaks, custom communicators, dispensers with a sensibly modest
+selection, or perhaps you'd just like a nice cactus. Please have all the details
+for your holiday wish prepared. If you think your first wish might be too much,
+please include a more modest second choice. Use the WISH command repeatedly to
+add additional lines of text!
+Thank you!
+   Announced 2 days, 20 hours, and 43 minutes ago
+-----
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+1
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+    * Welcome to Star Conquest! *
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, a small hot beverage dispenser, and
+an insulated red sleeping bag here.
+Lily Kaise is dozing on an insulated red sleeping bag.
+You can go east, southeast, and out.
+(You are lying on an insulated red sleeping bag.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Did you know that you can use audible social commands on your
+communicator? Try typing TRANSMIT LAUGH!
+**
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise says, "Oh my stars another headline."
+Lily Kaise navigates her metallic gold touch einrophone to a news application.
+Lily Kaise returns her metallic gold touch einrophone to the main screen.
+Lily Kaise frowns at a metallic gold touch einrophone.
+wrpa lily
+I don't understand that.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (19/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+Lily Kaise wraps her arms around you, pulling you close.
+1
+====================
+Recent AEU Headlines
+====================
+* The Trail of Dark Money, Defense Spending Earmarks, and No-Bid Government
+Contracts that Led to the AEU's Steel Phoenix Program Revealed by President Best
+Just Hours Ago [19 December 2317] (DNA)
+* Minister for Internal Security Outlines Plans to Secure Union Worlds from
+Unregistered Crisis; 'Individuals Not Registered in One of the Four Alliances to
+be Removed from Cities' [20 December 2317] (NEN)
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+kiss lily
+You kiss Lily Kaise.
+-lily ?hi my love.
+You say to Lily, "?hi my love."
+Lily Kaise kisses you.
+Lily says to you, "Hi love."
+smile lily
+You smile at Lily Kaise.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 440,215.54 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in Home Beacon Gamma 001.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+smile lily`Zz``zread comm
+I don't see that here.
+read comm
+You glance at your communicator's screen.
+There is one board post.
+There is one headline.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 528,879.62 credits.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, a small hot beverage dispenser, and
+an insulated red sleeping bag here.
+Lily Kaise is sitting on an insulated red sleeping bag.
+You can go east, southeast, and out.
+(You are lying on an insulated red sleeping bag.)
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 2,055,660.54 credits and 1 megacredit.
+Lily Kaise squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 696,843.37 credits.
+[Tactical Communication] Melinda Michaels transmits, "Alko needs two for
+beacons."
+[Tactical Communication] Morris Corlew transmits, "I can in close to half an
+hour."
+[Tactical Communication] Alko Delovega transmits, "Cruiser ones."
+[Tactical Communication] Alko Delovega transmits, "No one wants in for those
+beacons?"
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 1: Alliance Communication] Voice of the Corps Ather Jammoa transmits,
+"The AEU government seems to have forgotten the fact that in August of 2306, the
+Mutuality was recognized as an official alliance by all of the other alliances.
+I have just sent them a message to remind them of that fact, to ensure that
+members of the Mutuality, conducting peaceful business on AEU worlds, are left
+alone. This was of course, in regards to the latest news headlines. If anyone
+has a question, or thinks that we need to have a meeting discussing this matter,
+feel free to drop a letter my way."
+[Tactical Communication] Alko Delovega transmits, "2 for cruiser beacons?"
+[Tactical Communication] Sean Sloan transmits, "Sure."
+[Tactical Communication] Elaine Moreau transmits, "I'm not in top shape, but if
+you need someone to fill in, I can."
+[Tactical Communication] Alko Delovega transmits, "We are all at old earth."
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "No questions and
+bravo for sending them a well needed reminder."
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 1,246,853.87 credits.
+Lily Kaise kisses you on the lips.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the eight-person mantis mark
+three "Sphinx".
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you on the lips.
+Lily Kaise pulls a pair of tan suede clogs off of her feet.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies for a moment.
+Lily Kaise puts a pair of tan suede clogs in a small suitcase.
+kiss lily
+You kiss Lily Kaise.
+caress lily on back
+You gently caress Lily Kaise's back.
+Lily Kaise stands up from an insulated red sleeping bag.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+stand
+You stand up from an insulated red sleeping bag.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+grin lily
+You grin at Lily Kaise.
+lie sleeping
+You can't lie on an insulated red sleeping bag.
+Lily Kaise grins at you.
+Lily Kaise sits down on an insulated red sleeping bag.
+sit sleeping
+You sit down on an insulated red sleeping bag.
+Lily Kaise stands up from an insulated red sleeping bag.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise unzips an insulated red sleeping bag.
+lie sleeping
+You lie down on an insulated red sleeping bag.
+Lily Kaise lies down on an insulated red sleeping bag.
+zip sleeping
+You zip an insulated red sleeping bag closed.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily gently rubs your back and strokes your hair.
+-lily I love you so so much!
+You say to Lily, "I love you so so much!"
+Lily Kaise smiles at you.
+Lily says to you, "I love you too!"
+beam lily
+You beam at Lily Kaise.
+Lily Kaise beams at you.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 759,779.28 credits.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Lily Kaise kisses you softly on the neck.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily Kaise gently caresses your neck and shoulders.
+kiss lily on chest
+You kiss Lily Kaise on the smooth skin above her breasts.
+Lily Kaise leans close to you and kisses you softly on the chest.
+kiss lily on breast
+You kiss Lily Kaise on one of her breasts.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily says to you, "I'm kind of tired this morning. I'll say nite, sweet dreams
+and hope you rest well! Maybe tomorrow we might want to sleep in our bed?"
+Lily Kaise grins.
+grin
+You grin.
+-lily Good night. Rest well and sweet dreams. I love you and sure, we can sleep
+in our ownn bed tomorrow night.
+You say to Lily, "Good night. Rest well and sweet dreams. I love you and sure,
+we can sleep in our ownn bed tomorrow night."
+Lily says to you, "Nite love."
+'in our own bed that is.
+You say, "In our own bed that is."
+Lily Kaise smiles.
+-lily Night my love.
+You say to Lily, "Night my love."
+Lily says to you, "Nite."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 478,505.80 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+5,312,500.00 credits from a xenology submission.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+2,453,125.00 credits from a xenology submission.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/General.
+Lily Kaise frowns at a metallic gold touch einrophone.
+Lily Kaise says, "Just when I'd like to sleep."
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+Lily Kaise sighs.
+Lily Kaise says, "Yeah like we can just go there."
+Lily Kaise blinks heavily and then dozes off.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Edmund Fitzgerald". The organization has earned
+1,662,117.01 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Edmund Fitzgerald". The organization has earned
+2,851,569.76 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 254,292.05 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Boulder Holder". The organization has
+earned 634,084.83 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Boulder Holder". The organization has
+earned 385,472.50 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Boulder Holder". The organization has
+earned 866,770.83 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Boulder Holder". The organization has
+earned 725,088.09 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Boulder Holder". The organization has
+earned 417,047.53 credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Salvage Regent". The organization has earned
+2,531,838.33 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a large precharged battery module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a fission breeder reactor module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a fission breeder reactor module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a fission breeder reactor module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a fission breeder reactor module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 2
+megacredits for a fission breeder reactor module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for a solar panel array module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for a solar panel array module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for a solar panel array module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for a solar panel array module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for a solar panel array module.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Salvage Regent". The organization has earned
+1,553,841.64 credits.
+Lily Kaise wraps her arms around you, pulling you close.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Salvage Processing Nuclear Temporary Station in The
+Belt of Orion.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Chopsticks". The organization has earned 77,044.99
+credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Chopsticks". The organization has earned
+2,549,539.36 credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Chopsticks". The organization has earned
+1,893,014.10 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Stricken".
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Stricken".
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: If you see a strange person, see if you can TALK to them.
+**
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+who
+There appear to be 6 pilots recently active.
+The communicator network detects:
+Tobias Hawthorne  (L)
+Tanny Hill  (L)
+Damien Goss  (L)
+Wendy Arroyo  (L)
+Morris Corlew  (L)
+Michael Kennedy  (F)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 19 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/Trading.
+A metallic silver metachannel FTL communicator chimes softly as it receives a
+new notice.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "One Debris At A Time". The organization has earned
+996,506.96 credits.
+kiss lily
+You kiss Lily Kaise.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 193,972.25 EAOS credits from a toll payment to Fringe Rift Accelerating
+Battery-Powered Toll Station in Battle of Mir.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+read comm
+You glance at your communicator's screen.
+There is one board post.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Fuller 'n A Tick". The organization has earned
+1,679,619.72 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 193,987.20 EAOS credits from a toll payment to Fringe Rift Accelerating
+Battery-Powered Toll Station in Battle of Mir.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Fuller 'n A Tick". The organization has earned
+2,689,593.70 credits.
+Lily Kaise squeezes you affectionately.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 193,998.10 EAOS credits from a toll payment to Fringe Rift Accelerating
+Battery-Powered Toll Station in Battle of Mir.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 254,442.30 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+830,185.41 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 254,444.90 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+547,460.70 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+630,304.87 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at Fringe Salvage Processing Nuclear Transmitter from the two-person
+medium transport "Hoover". The organization has earned 743,700.85 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 933,967.91 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 2,072,585.35 credits.
+[Tactical Communication] Erik Goodwin transmits, "Who'd be up for a nest in ten
+or so minutes?"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 1,231,212.75 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 1,002,273.69 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 2,451,377.13 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 1,737,921.83 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 1,589,150.80 credits and 1 megacredit.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 1,385,370.92 credits and 1 megacredit.
+[AEU | 1: Alliance Communication] Vernos Bailey transmits, "They respond to you,
+Ather?"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+2,359,766.74 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Lordy, The Rocks!". The organization has
+earned 720,601.30 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+2,266,224.98 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+1,403,895.11 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+1,208,365.97 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+1,754,786.82 credits and 2 megacredits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+1,368,267.97 credits.
+[Notification from Space Explorers Amidst The Stars] An asteroid has been
+received at Fringe Asteroid Processing Nuclear Temporary Station from the
+two-person hardened asteroid hauler "Chuh Ching". The organization has earned
+1,157,903.45 credits.
+Lily Kaise kisses you.
+[Tactical Communication] Vernos Bailey transmits, "Beacons?"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "A Medium Sized Unlabeled Box". The organization has
+earned 1,300,319.47 credits.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "A Medium Sized Unlabeled Box". The organization has
+earned 314,092.80 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "A Medium Sized Unlabeled Box". The organization has
+earned 1,973,130.99 credits.
+[Tactical Communication] Melinda Michaels transmits, "Camp in half an hour?"
+[Tactical Communication] Morris Corlew transmits, "Yes."
+[Tactical Communication] Damien Alexander transmits, "Sure!"
+[Tactical Communication] Erik Goodwin transmits, "I'm in."
+[Tactical Communication] Melinda Michaels transmits, "Bring your highest."
+[Tactical Communication] Morris Corlew transmits, "Wheee."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"

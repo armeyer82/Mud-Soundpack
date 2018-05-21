@@ -2,7 +2,7 @@
 
 #ACTION {%1's voice comes over the intercom, saying, "%2"}
 {
-	play Ship/Comm/PA@rnd{8}.wav;
+	play Ship/Comm/PA.mp3;
 	PAUpdate;
 	#variable PA[1] %1, "%2"
 }

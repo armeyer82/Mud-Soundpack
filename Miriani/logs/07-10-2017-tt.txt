@@ -1,0 +1,3947 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Tue Jun 13 20:55:14 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+[0m#SNOOPING SESSION 'StarConquest'[0m
+connect-starconquest
+[0mTHERE'S A SESSION WITH THAT NAME ALREADY.[0m
+connect-starconquest
+[0mTHERE'S A SESSION WITH THAT NAME ALREADY.[0m
+[0m#UNSNOOPING SESSION 'StarConquest'[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m#SNOOPING SESSION 'StarConquest'[0m
+l
+Password: 
+l
+Retrieving account information. Please wait...
+Invalid ID or password.
+Did you forget your ID or password? Go here and choose the appropriate option:
+http://moo.squidsoft.net:3333
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+list
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: You can type WHO to see which other pilots are around.
+**
+List what?
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+#unalias sc
+[0m#OK. {sc} IS NO LONGER AN ALIAS.[0m
+#uaction {^The computer announces, "%*"}
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'uaction'.[0m
+#unaction {^The computer announces, "%*"}
+[0m#OK. {^The computer announces, "%*"} IS NO LONGER AN ACTION.[0m
+kiss lily
+You kiss Lily Kaise.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m#UNSNOOPING SESSION 'StarConquest'[0m
+[0m#SNOOPING SESSION 'StarConquest'[0m
+Lily Kaise kisses you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise wraps her arms around you, pulling you close.
+-lily Hi my love.
+You say to Lily, "Hi my love."
+Lily says to you, "Hey Love!"
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior pulsates gently.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Lily Kaise kisses you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily
+You kiss Lily Kaise.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise cuddles up to you.
+ucddle lily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise.
+eta
+The ship is not moving.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior drifts slowly across the tank.
+ks lil
+I don't understand that.
+kiss lily
+You kiss Lily Kaise.
+caresslily on back and waist
+I don't understand that.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly past a small plastic statue of a Jinu.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a string of light purple plastic kelp.
+Lily Kaise kisses you.
+[0m[Miriani] [General Communication] David Arther screams, "ANY MISSIONS?"[0m
+[0m[Miriani] [General Communication] David Arther transmits, "Sorry."[0m
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+[0m[Miriani] A high-capacity transparent Lore computer beeps quietly, indicating
+that its TransLink tracking functionality has been activated.[0m
+[0m[Miriani] [Private | Emily McManomy] Emily McManomy transmits, "where is that"[0m
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+Lily Kaise squeezes you affectionately.
+squeeze lil
+You squeeze Lily Kaise affectionately.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+fuchsia glowing interior pulsates gently.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise says, "I don't have general on so have no idea what's going on out
+there."
+Lily Kaise kisses you on the lips.
+'Neither do I.
+You say, "Neither do I."
+Lily Kaise grins.
+Lily Kaise says, "Hey I love the quiet."
+grin
+You grin.
+'me too
+You say, "Me too."
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+A large thickly-shelled creature with a red shell and four small claws rears up
+against the glass and snaps its claws at the outside world.
+Lily says to a wall-sized bubbling neon purple-lit aquarium containing yellow
+and red aquatic life and coral rocks, "Yeah yeah little snapper snap away in
+there."
+Lily Kaise laughs.
+laugh
+You laugh.
+grin
+You grin.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+-lily I should go to sleep in about 10 minutes or so.
+You say to Lily, "I should go to sleep in about 10 minutes or so."
+Lily Kaise asks, "Ah ok love, then let's go cuddle a few moments before you
+sleep?"
+grin
+You grin.
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+'let's!
+You exclaim, "Let's!"
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, and a Tardick
+lizard named Asteria here.
+You can go north, east, south, west, up, and down.
+s
+Lily Kaise glides in from the north.
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a black plastic tray of spider chow, and a wall-sized bubbling
+coral pink-lit aquarium containing light blue and red aquatic life and coral
+rocks here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it, and a hairy
+yellow eight-legged ArachnoPal named Higgins here.
+You can go out.
+Lily Kaise glides in from the north.
+s
+You can't go that way.
+undress into suit
+You remove all of your clothing, placing it carefully in a small suitcase.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily says to you, "I sooooo love you. I am so happy to wake up everyday with
+you."
+Lily Kaise kisses you on the lips.
+-lily I sooo love you too! I love evry moment we get to spend together.
+You say to Lily, "I sooo love you too! I love evry moment we get to spend
+together."
+Lily Kaise beams at you.
+beam lily
+You beam at Lily Kaise.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+squeezelily
+I don't understand that.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Lily Kaise exclaims, "I wanna punch that cheerleader in the nose in the first
+two days of conquest!"
+nod
+You nod.
+grin
+You grin.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily
+You kiss Lily Kaise.
+Lily gently rubs your back and strokes your hair.
+Lily Kaise kisses you.
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily Kaise.
+Lily says to you, "Well hope you are able to rest well. You know Love, ifever
+you think this particular bed isn't comfortable enough, we can always shop for
+another one."
+-lily I love this one and thanks. Rest well when the time comes. Sweet dreams.
+You say to Lily, "I love this one and thanks. Rest well when the time comes.
+Sweet dreams."
+Lily Kaise smiles.
+smile lily
+You smile at Lily Kaise.
+Lily says to you, "Sweet dreams. I love you."
+smile lily 'I love you too.
+You smile at Lily Kaise. "I love you too."
+Lily Kaise smiles at you.
+Lily says to you, "Nite."
+-lily Night.
+You say to Lily, "Night."
+Lily Kaise cuddles up to you.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Hey guys."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "What's up
+Constantine?l phone."
+[0m[Miriani] [Tradesman Market] Chailyn Mason has bought one tradesman certificate
+from Anton Navarro.[0m
+[0m[Miriani] [Tradesman Market] Anton Navarro's sale has completed.[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Not too much,
+how about you?"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I rented the
+Sidereal, thanks for setting that up for me."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Whoops sorry I was
+trying to look at the messages and talk at the same time. Doesn't work very
+well."
+[Space Explorers Amidst The Stars] Constantine Stone laughs.
+Lily Kaise laughs.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Did you make it out to
+777?"
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "5 spots for mods?"[0m
+[0m[Miriani] [General Communication] David Arther transmits, "Me."[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I didn't
+actually have a chance to yesterday, but I'm finally in a spot now where I think
+I can start doing some serious work again."
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "3."[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "So I plan to
+take it out this morning."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Awesome!"
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Eng is taken."[0m
+[0m[Miriani] [General Communication] Andreas Fierro transmits, "Eng?"[0m
+[0m[Miriani] [General Communication] Andreas Fierro transmits, "Ha."[0m
+[0m[Miriani] [General Communication] Calyssa Calaway screams, "ENG."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "It is taken."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Put your paws on
+other buttons."[0m
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I know how that goes.
+So don't pressure yourself as that just creates a path to burnout."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Yeah."
+[0m[Miriani] [General Communication] Olivia Cantrell laughs and transmits, "I'm
+guessing no mods since you all wanna be lazy."[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "But I think it
+will be okay, I'm looking forward to it."
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "May as well put a
+bed in the room."[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I think I'll be
+getting into new and exciting stuff now, which is good."
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Yup yup."[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "At least a lot
+of stuff I haven't done before."
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "So, 3 spots?"[0m
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "It sure is!"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Shule is calling it a
+day a little earlier this morning or I know he would something to say."
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Never mind. I'll
+do solos."[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I don't blame
+him, I'm pretty beat myself. I'm itching to get out to 777 though."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Is there any
+place to land out there, or should I always plan to head in when I'm done?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "I know you are but you
+will manage!"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "You can probably take
+your transport out there However, the basic inserter will likely be rather slow
+going."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Oh, does the
+sidereal have a rift drive?"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I meant to ask
+you that."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Yep."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I've never used
+one of those before, maybe I'll pick up that book about it."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Ah well you won't need
+to be over-concerned about how to navigate. Just go to Mir, press the 'TRAVEL'
+button and 777 and you are on your way. Then come back to 777 when you are ready
+to return and press the 'TRAVEL' button again with 776."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Oh, it's as
+easy as that? Is 776 that beacon one west of Mir?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "The nice thing too is
+you don't have to concern yourself about how many sectors you go out. Just Jump
+to 777 when you are ready to go back to the sector."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Whoa, that's
+awesome. How does that work?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "It works with the
+Passive Beacon which is setup in the sector."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Huh,
+interesting."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "This is going
+to be great."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Passive beacons have a
+range of 3 Light-Trade Cycles or roughly 23.22 light-years."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "That's awesome.
+Is that super expensive to set up?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Well hmm about 55 or
+so mil per beacon station and the Rift Accelerators are a bit more pricey."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "We maintain a pretty
+hefty investment to maintain that area but we enjoy making a contribution for
+newer pilots."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "That's
+awesome."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I was telling
+Shule when I helped him deploy the salvage processor out there."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Next time you
+build one I'd like to help you."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Yep, there's more to
+just raking in the credits. It's more rewarding to give back."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "And hopefully
+sometime soon you'll be able to just trust me to do one whenever you don't feel
+like it."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oh I'm sure that will
+happen and trust me, we appreciate all the help we can get!"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Yes!"
+Keying her neon purple metachannel FTL communicator, Lily Kaise laughs.
+Lily Kaise says into her neon purple metachannel FTL communicator, "Oops and
+hello."
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise tunes a neon purple metachannel FTL communicator.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Alright, I'm
+going to grab a quick bite and then maybe take a look at the ships you guys lent
+me keys for."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I haven't had a
+chance to do that yet."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Ok! Enjoy and you
+likely get more keys over time. I couldn't give you a key to the Scout as you
+wouldn't qualify to fly it outright."
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "You actually might not
+yet qualify for the others so I may have to put them up as rentals. Just let me
+know and I'll make the rent reasonable."
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Any missions going
+on?"[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "No no."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Invasion?"[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Not that I know
+of."[0m
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Yeah I see that they
+all require 1000 combat. I know you are close but I will put them up as rentals
+so if you find a suitable crew, you can fly them."
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Five spots mods."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Eng me."[0m
+[0m[Miriani] [General Communication] David Arther transmits, "I will join."[0m
+[0m[Miriani] [General Communication] Willow Actumari transmits, "Sure."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "2 spots."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "2 little spots!!"[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Any luck?"[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Nope."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Come on guys!"[0m
+[0m[Miriani] A high-capacity transparent Lore computer beeps quietly, indicating
+that its TransLink tracking functionality has been activated.[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "If I get one more
+spot we will go under."[0m
+[0m[Miriani] [General Communication] Therman Donaldson sings, "Under the bridge,
+under the floorboards..."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Ok then, who wants
+cruiser easies, for those new pilots, it is one gunner and one eng."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Me for that."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "One more."[0m
+[0m[Miriani] [General Communication] David Arther transmits, "Me."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Ok bay pending."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Anything to
+release the absolution of the salvaging."[0m
+[0m[Miriani] [General Communication] Andreas Fierro transmits, "Break out the
+robo."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "If I had one... I
+would."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "You offering
+andreas to break out the robo in service to your capital?"[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Delta."[0m
+[0m[Miriani] [General Communication] Lili Shannon transmits, "David, you coming?"[0m
+[0m[Miriani] [General Communication] David Arther transmits, "Yesa."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "He said pizza
+while replying."[0m
+[Tactical Communication] Alko Delovega transmits, "Nest, maybe?"
+[Tactical Communication] Sean Sloan transmits, "Sure."
+[0m[Miriani] [General Communication] Lili Shannon transmits, "Delta david."[0m
+[Tactical Communication] Gonzales Bourne transmits, "Sure."
+[0m[Miriani] [General Communication] David Arther transmits, "Ok."[0m
+[Tactical Communication] Alko Delovega transmits, "One more."
+[Tactical Communication] Alko Delovega transmits, "One more, one more!"
+[0m[Miriani] [General Communication] David Arther transmits, "Am sorry I was
+sollowing."[0m
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+57,765,625.00 credits from a xenology submission.
+[Tactical Communication] Alko Delovega transmits, "Still can't find one for a
+nest, will try again later, I hope."
+[0m[Miriani] [General Communication] Michael Calaway transmits, "Soooo I have 4
+spots for mods things."[0m
+[0m[Miriani] [General Communication] Michael Calaway transmits, "3."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "I will go on a mod
+thing with you michael."[0m
+[0m[Miriani] [General Communication] Michael Calaway transmits, "2 more now."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "I would but I am
+on a cruiser about to do an easy, this crew is fine."[0m
+[0m[Miriani] [General Communication] Aaron Blade transmits, "Hmm."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "You might get a
+diff crew though upon our return."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "If we can get
+some more."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Ooh diffs I love."[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m[Miriani] [General Communication] Michael Calaway transmits, "If you all want
+difs, I have no prob!"[0m
+[0m[Miriani] [General Communication] Allen Robinson transmits, "Maybe. What kind of
+diffs?"[0m
+[0m[Miriani] [General Communication] Calyssa Calaway transmits, "Can I fly?"[0m
+[0m[Miriani] [General Communication] Calyssa Calaway transmits, "Just kidding."[0m
+[0m[Miriani] [General Communication] Michael Calaway transmits, "Do you have
+wings?"[0m
+[0m[Miriani] [General Communication] Aaron Blade transmits, "New diffs?"[0m
+[0m[Miriani] [General Communication] Michael Calaway transmits, "Random difs of
+course."[0m
+[0m[Miriani] From a thick black leather utility belt with several loops on it, you
+hear a blue flight control scanner announce, "Zander to Bellerophon flight
+control, I'm getting energy readings consistent with sensor interruption
+technology."[0m
+[0m[Miriani] Lily Torraske no longer trusts you.[0m
+[0m[Miriani] Shelle Sea no longer trusts you.[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "4 spots mods? Bay
+is beta."[0m
+[0m[Miriani] [General Communication] Anny Rain transmits, "Ok."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "3 spots."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "3 spots mods?"[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "I can try back
+later. But I thought late night ones would be fun."[0m
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 1,030,120.11 EAOS credits from a toll payment to League Rift
+Accelerating Battery-Powered Toll Station in Mir.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 176,963.76 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Hey Evangeline,
+remember when you were heading to the bubble, but decided to turn around?"
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Because the flow
+was too awful?"
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "Yes."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "How did you do
+that?"
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "I have a rift
+drive built in. I upgraded my ship."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Yeah, I meant
+how do you stop and turn around."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Can I just hit
+stop and then travel back to where I came from?"
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "Do you have a
+rift drive?"
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Yeah."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I started going
+to 777 but I don't want to sit here for 2 hours."
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "One moment,
+salvaging."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Just press the Rift
+stop button and then travel to 776."
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "Alright, now.
+Yes you can just turn around."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Ah, thanks
+Lily."
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "Stop your travel
+and go back the way you came, though I warn you, it'll take you longer."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Ah thanks."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Well, I just
+started so it will only be a minute or two."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Thanks!"
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "Oh all right.
+Fair enough."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Where did you start to
+travel I hope they set up the accelerators I'll go check."
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "No problem."
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise removes a light blue shipsuit with white trim around the collar and
+cuffs from a small suitcase.
+Lily Kaise steps into a light blue shipsuit with white trim around the collar
+and cuffs and pulls it over her arms.
+Lily Kaise removes a pair of shiny buttercup yellow patent leather clogs from a
+small suitcase.
+Lily Kaise tugs a pair of shiny buttercup yellow patent leather clogs onto her
+feet.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I started from
+Mir."
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise scrambles to her feet.
+Lily Kaise glides out.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Yeah it's right I
+guess flow kinda sucks right now. Sorry Constantine. It's not always this
+terrible. Ok I need to go sleep now. Stay out of trouble you hear?"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Will do, thanks
+Lily."
+Lily Kaise glides in from the north.
+Lily Kaise glides out.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "And have a good
+night."
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+Lily Kaise glides in from the north.
+Lily Kaise removes all of her clothing, placing it carefully on the ground.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise blinks heavily and then dozes off.
+Lily Kaise tunes a neon purple metachannel FTL communicator.
+Lily Kaise tunes a neon purple metachannel FTL communicator.
+Lily Kaise blinks heavily and then dozes off.
+[0m[Miriani] [Newbie] Marvin Marijue: Is it possible to edit and/or rename a
+starship?[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A hairy yellow eight-legged ArachnoPal named Higgins stirs and slowly unfolds
+his eight hairy legs.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[0m[Miriani] [Newbie] Erik Yobi: You can rename your own starships at a renaming
+center. You'll find one on each of the capital planets, I.e. Angelus, Acrylon,
+and Outreach.[0m
+[0m[Miriani] [Newbie] Marvin Marijue: Got ya.[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "The Cat's Meow". The organization has earned
+2,646,294.59 credits.
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders
+in from the north.
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders
+out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "The Cat's Meow". The organization has earned
+1,261,797.29 credits.
+[AEU | 4: Sector Status] Beacon B-24 has gone on alert!
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+who
+There appear to be about 8 pilots recently active.
+The communicator network and Accord QE comm detect:
+Riley Green  (L) [c]
+Nicolette Lawrence  (L)
+Ali Candan  (L)
+%Nissi Valdaire  (L) [a]
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 5 pilots who were active but
+dropped out of communications.
+Additionally, there are 14 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 22 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+get suit
+You remove a small suitcase from a leather briefcase.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Use the SCORE command to quickly see how many points and credits you've
+accumulated!
+**
+get briefs from suit
+get briefs from suit
+You remove a pair of white cotton briefs from a small suitcase.
+You need a free hand to take that.
+wear briefs
+You slide a pair of white cotton briefs on.
+get shipsuit
+You pick up a light blue shipsuit with white trim around the collar and cuffs.
+wear shipsuit
+You step into a light blue shipsuit with white trim around the collar and cuffs
+and pull it over your arms.
+get sneakers
+You remove a pair of gray canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+close suit
+You close a small suitcase.
+put suit in briefcase
+You put a small suitcase in a leather briefcase.
+out
+[Starship "William Dove"; Observation Deck]
+n
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a black plastic tray of spider chow, and a wall-sized bubbling
+coral pink-lit aquarium containing light blue and red aquatic life and coral
+rocks here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a hairy yellow
+eight-legged ArachnoPal named Higgins, and Mischief the large black felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+n
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+You can go south and out.
+You can't go that way.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+and KitCat the humanoid service robot here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+i
+ You are wearing a light blue shipsuit with white trim around the collar and
+cuffs and a pair of gray canvas sneakers. Underneath this, you are wearing a
+pair of white cotton briefs. You are also wearing a keychain, a backpack, a
+metallic gold touch einrophone in a black leather phone holster, a solid silver
+ring engraved with dolphins, and a gold wrist-mounted chronometer. You are
+concealing a metallic silver metachannel FTL communicator, a leather briefcase,
+a flight control scanner, a large expandable telescoping xenology container, a
+scorched metal thigh holster, a golden Feng Wo coin purse, a thick synthleather
+bandolier with large pockets, a camera bag, a black engineering tool case, and a
+black flightbag with a red shooting star on the side. Your head, face, both
+eyes, both wrists, and both hands are left uncovered.
+You are carrying nothing.
+u
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", and the four-person mule "Lion's Den" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+n
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+w
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+b-24
+Beacon B-24 (AEU) [Human Interalliance Space] (Security: Beta-4)
+Coordinate rundown:
+Starships: Wilfredo Landers (n) at (7, 11, 7), Tracy Caldwell (n) at (13, 2,
+19), Keith Emerson (<) at (17, 14, 1), Genaro Mansfield (<) at (11, 7, 4), and
+Regan Matos (n) at (6, 8, 7)
+Beacon Housings: (11, 9, 17)
+Debris: (7, 16, 17), (2, 7, 13), (7, 5, 10), (8, 17, 14), (5, 19, 16), (15, 6,
+3), (17, 10, 19), (7, 5, 9), (4, 20, 1), (19, 19, 16), (10, 6, 2), (7, 9, 8),
+(5, 19, 3), (15, 2, 20), (16, 10, 18), (3, 13, 9), (3, 13, 2), (8, 10, 10), (6,
+16, 2), (6, 8, 2)
+Debris Chunks: (11, 16, 8), (19, 8, 16), (2, 15, 9), (11, 8, 3), (12, 3, 17)
+s
+You can't go that way.
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+who
+There appear to be about 9 pilots recently active.
+The communicator network and Accord QE comm detect:
+Shule Elemmire  (A) [m]
+Riley Green  (L) [c]
+Nicolette Lawrence  (L)
+Ali Candan  (L)
+%Nissi Valdaire  (L) [a]
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 5 pilots who were active but
+dropped out of communications.
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 22 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+s
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+out
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", and the four-person mule "Lion's Den" are landed here.
+You see an automatic teller machine, a small trash can, a sanitation drone, and
+a sanitation drone here.
+You can go north, south, west, and down.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter firestorm
+[Starship "Firestorm"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+sit chair
+You sit down on a black leather captain's chair.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Firestorm, you have clearance to
+launch. Good luck and come back to us safely."
+b-24
+I don't understand that.
+ftl b-24
+yellow
+You lift a small plastic cover and press a yellow button.
+Once a valuable source for raw materials on the edge of Known Space, this area
+is now fully mapped and lined with beacons.
+Via general sector communication, Beacon B-24 transmits in a robotic voice,
+"Detecting vessel 'Firestorm.' Welcome to Beacon B-24."
+ships
+Starships In Sector:
+Keith Emerson...........................(13, 14, 4)
+Genaro Mansfield........................(17, 7, 7)
+Regan Matos.............................(10, 8, 9)
+Wilfredo Landers........................(5, 13, 7)
+Tracy Caldwell..........................(15, 3, 20)
+shipc
+Starships In Sector:
+Keith Emerson...........................ASS-A1 Allied Starships Space
+Superiority Fighter
+Genaro Mansfield........................ASS-A1 Allied Starships Space
+Superiority Fighter
+Wilfredo Landers........................ASS-B1 Allied Starships Deep-Space Scout
+Tracy Caldwell..........................ASS-B1 Allied Starships Deep-Space Scout
+Regan Matos.............................ASS-B1 Allied Starships Deep-Space Scout
+ships
+Starships In Sector:
+Keith Emerson...........................(12, 13, 3)
+Regan Matos.............................(11, 8, 8)
+Genaro Mansfield........................(16, 8, 6)
+Wilfredo Landers........................(6, 12, 6)
+Tracy Caldwell..........................(14, 4, 19)
+move
+AutoStar detects 31 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Beacon Housings:
+[1] Beacon B-24                                             
+   Ships (present location):
+[2] Keith Emerson                                           
+[3] Regan Matos                                             
+[4] Genaro Mansfield                                        
+[5] Wilfredo Landers                                        
+[6] Tracy Caldwell                                          
+   Debris:
+[7] Debris (nearest)                                        
+--
+Enter your destination:
+2
+A destination appears on the ship's navigation controls: Keith Emerson.
+red
+You lift a small plastic cover and press a red button.
+A loud klaxon sounds and red lights flash overhead as the ship enters red alert.
+You hear a low hum as the ship's weapons are powered up.
+track
+There are no valid targets in range.
+track
+Select target:
+[1] Keith Emerson (Allied Pirates)
+Enter your selection:
+1
+[0m09:41:12[0m
+the one-person A.S.S. fighter "Keith Emerson" now being tracked..
+Two Northwest and Down. Keith Emerson
+Northwest and Down. Keith Emerson
+stop
+You press a button to cancel the current autopilot program.
+West and Down. Keith Emerson
+man
+A small light next to the word MANUAL switches on, while a similar light next to
+the word AUTOPILOT switches off.
+-s
+u
+You scramble to your feet.
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/af
+la
+y
+(4 seconds roundtime.)
+South. Keith Emerson
+South and Up. Keith Emerson
+#alias f la
+[0m#OK. {f} NOW ALIASES {la} @ {5}.[0m
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+c
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+tar
+/xr
+f
+y
+(4 seconds roundtime.)
+West and Up. Keith Emerson
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++s
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/ar
+f
+y
+(4 seconds roundtime.)
+West. Keith Emerson
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+q
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/a
+f
+You must wait between shots.
+y
+I don't understand that.
+f
+South. Keith Emerson
+y
+(4 seconds roundtime.)
+tar
+s
+Wait 2 seconds.
+s
+Wait 1 seconds.
+s
+You can't go that way.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+z
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+You must wait between shots.
+y
+I don't understand that.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 7 turrets will
+be fired.
+(4 seconds roundtime.)
+East. Keith Emerson
+tar
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+-d
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+Up. Keith Emerson
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+e
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+You must wait between shots.
+y
+I don't understand that.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+Southwest and Up. Keith Emerson
+tar
+d
+Wait 1 seconds.
+td
+I don't understand that.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+c
+tar
+The computer announces, "Coordinates are now occupied. Diverting course."
+West. Keith Emerson
+The computer reports that the scout "AEU Navy Honour Guard Scout Delta-5" has
+jumped into the sector.
+The computer reports that the one-person flitter "AEU Navy Defense Flitter
+Theta-9" has jumped into the sector.
+[AEU | 4: Sector Status] Defenders are being scrambled to Beacon B-24!
+a
+The starship is already moving.
+a
+There is a ship already occupying that location.
+q
+The computer reports that the one-person A.S.S. fighter "Keith Emerson" has
+performed an emergency jump with heavy wormhole drive damage.
+The computer announces, "Target routed."
+There is a ship already occupying that location.
+z
+Lost track of Keith Emerson.
+track
+The starship shudders violently as a torpedo detonates against the hull.
+Select target:
+[1] Genaro Mansfield (Allied Pirates)
+[2] Regan Matos (Allied Pirates)
+Enter your selection:
+1
+[0m09:42:47[0m
+the one-person A.S.S. fighter "Genaro Mansfield" now being tracked..
+Two Northeast and Down. Genaro Mansfield
+-e
+dam
+Average Starship Damage: 2%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+dam
+East. Genaro Mansfield
+Average Starship Damage: 2%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+e
+s
+The starship is already moving.
+dam
+Average Starship Damage: 2%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+South. Genaro Mansfield
+c
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/x
+f
+y
+(4 seconds roundtime.)
+West. Genaro Mansfield
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+-a
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 7 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+Up. Genaro Mansfield
+d
+Wait 1 seconds.
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+x
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/r
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+North and Up. Genaro Mansfield
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+q
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 3 turrets will
+be fired.
+East and Up. Genaro Mansfield
+(4 seconds roundtime.)
+d
+Wait 2 seconds.
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+d
+d
+The starship is already moving.
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+Up. Genaro Mansfield
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+d
+Wait 3 seconds.
+d
+Wait 2 seconds.
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+w
+w
+The starship is already moving.
+South and Up. Genaro Mansfield
+c
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/xr
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 5 turrets will
+be fired.
+(4 seconds roundtime.)
+West and Up. Genaro Mansfield
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+a
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+Up. Genaro Mansfield
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+w
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/r
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 3 turrets will
+be fired.
+(4 seconds roundtime.)
+South and Up. Genaro Mansfield
+d
+Wait 1 seconds.
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++c
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+WARNING: Insufficient combat energy grid for a full volley. Only 1 turret will
+be fired.
+y
+(4 seconds roundtime.)
+West. Genaro Mansfield
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+z
+There is a ship already occupying that location.
+q
+[0mNumber of weapon hits: 9[0m
+[0m09:44:42[0m
+The computer announces, "Target destroyed."
+Lost track of Genaro Mansfield.
+The computer reports that the one-person A.S.S. fighter "Genaro Mansfield" has
+launched a rescue pod.
+The computer reports that it has collected a portion of a wormhole drive, two of
+an intact hull plate, two of an unidentifiable starship component, and two of an
+interior panel from an exploding starship.
+d
+s
+The starship is already moving.
+so
+[Starship "Firestorm"; Engineering Room]
+You see a large leather chair, an improved temporary wormhole drive, and an
+improved temporary wormhole drive here.
+You can go north and down.
+dam
+Starship Damage:
+Turret 2: 35%.
+Turret 4: 5%.
+Turret 5: 31%.
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+n
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+e
+s
+The starship is already moving.
+so
+[Starship "Firestorm"; Engineering Room]
+You see a large leather chair, an improved temporary wormhole drive, and an
+improved temporary wormhole drive here.
+You can go north and down.
+dam
+Starship Damage:
+Turret 2: 35%.
+Turret 4: 5%.
+Turret 5: 31%.
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+repair 2
+Syntax:
+  REPAIR <component>
+  Such as: repair hull
+  Or:      repair launcher 2
+  Or:      repair stop
+Valid components are: hull, sensors, FTL, launcher, turret, or STOP
+repair laser 2
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #2.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #2."
+n
+Wait 2 seconds.
+n
+Wait 1 seconds.
+n
+Wait 1 seconds.
+n
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+z
+track
+Select target:
+[1] Regan Matos (Allied Pirates)
+Enter your selection:
+The computer announces, "Coordinates are now occupied. Diverting course."
+1
+[0m09:45:19[0m
+the two-person A.S.S. scout "Regan Matos" now being tracked..
+South and Down. Regan Matos
+d
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/xf
+f
+f
+Aborted.
+y
+I don't understand that.
+f
+y
+(4 seconds roundtime.)
+Southwest and Down. Regan Matos
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+-x
+You wince as an extremely loud metallic bang emanates from outside the ship.
+West. Regan Matos
+West and Up. Regan Matos
+a
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/ar
+f
+y
+(4 seconds roundtime.)
+Up. Regan Matos
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+w
+There is a ship already occupying that location.
+e
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+WARNING: Insufficient combat energy grid for a full volley. Only 5 turrets will
+be fired.
+y
+(4 seconds roundtime.)
+Southwest and Up. Regan Matos
+tar
+d
+Wait 1 seconds.
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++x
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+West. Regan Matos
+y
+(4 seconds roundtime.)
+North and Up. Regan Matos
+tar
+d
+Wait 2 seconds.
+d
+Wait 1 seconds.
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++s
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/wr
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 5 turrets will
+be fired.
+(4 seconds roundtime.)
+North. Regan Matos
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+q
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+Small clinks of metal come from the hull of the ship as it's being repaired.
+WARNING: Insufficient combat energy grid for a full volley. Only 1 turret will
+be fired.
+(4 seconds roundtime.)
+tar
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+e
+tar
+East and Up. Regan Matos
+d
+dam
+Average Starship Damage: 5%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+Up. Regan Matos
+Northwest and Up. Regan Matos
++w
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/qr
+f
+WARNING: Insufficient combat energy grid for a full volley. Only 11 turrets will
+be fired.
+y
+(4 seconds roundtime.)
+West. Regan Matos
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+z
+North. Regan Matos
+q
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/w
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 4 turrets will
+be fired.
+(4 seconds roundtime.)
+East. Regan Matos
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++d
+North and Down. Regan Matos
+Two Northwest and Down. Regan Matos
+-w
+s
+The starship is already moving.
+so
+[Starship "Firestorm"; Engineering Room]
+You see a large leather chair, an improved temporary wormhole drive, and an
+improved temporary wormhole drive here.
+You can go north and down.
+dam
+Starship Damage:
+Turret 2: 21%.
+Turret 4: 5%.
+Turret 5: 31%.
+HULL: 12%.
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+repair hull
+You input a series of commands on the damage control computer, entering repair
+orders for the hull.
+(3 seconds roundtime.)
+The damage control computer reports, "Aborting repair of light turret #2 and
+beginning repair of the hull."
+n
+Wait 2 seconds.
+n
+Wait 1 seconds.
+n
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+q
+tar
+Two South and Down. Regan Matos
+-c
+dam
+Average Starship Damage: 6%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+Lost track of Regan Matos.
+track rag
+No such target as "rag" found.
+x
+track
+Select target:
+[1] Wilfredo Landers (Allied Pirates)
+[2] Regan Matos (Allied Pirates)
+[3] AEU Navy Honour Guard Scout Delta-5 (AEU)
+Enter your selection:
+2
+[0m09:47:56[0m
+the two-person A.S.S. scout "Regan Matos" now being tracked..
+Two Southwest. Regan Matos
+Southwest. Regan Matos
+a
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/z
+f
+y
+(4 seconds roundtime.)
+South. Regan Matos
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+z
+West and Up. Regan Matos
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/ar
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 11 turrets will
+be fired.
+(4 seconds roundtime.)
+North and Up. Regan Matos
+d
+Wait 1 seconds.
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+w
+Up. Regan Matos
+tar
+The computer reports that the two-person A.S.S. scout "Regan Matos" has
+performed an emergency jump with heavy wormhole drive damage.
+a
+The computer announces, "Target routed."
+u
+Lost track of Regan Matos.
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+track
+Select target:
+[1] Wilfredo Landers (Allied Pirates)
+[2] AEU Navy Honour Guard Scout Delta-5 (AEU)
+Enter your selection:
+1
+[0m09:48:34[0m
+the two-person A.S.S. scout "Wilfredo Landers" now being tracked..
+Southeast and Down. Wilfredo Landers
+-d
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/cf
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 8 turrets will
+be fired.
+(4 seconds roundtime.)
+South. Wilfredo Landers
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+z
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/x
+f
+Southwest and Up. Wilfredo Landers
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+Up. Wilfredo Landers
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++d
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/r
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 5 turrets will
+be fired.
+(4 seconds roundtime.)
+West. Wilfredo Landers
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+d
+q
+Two Northwest. Wilfredo Landers
+The starship is already moving.
+tar
+The computer reports that the two-person A.S.S. scout "Wilfredo Landers" has
+jumped out of the sector.
+The computer announces, "Target routed."
+d
+track
+The ship reports that its target tracking arrays cannot handle any more targets.
+Lost track of Wilfredo Landers.
+track
+Select target:
+[1] AEU Navy Defense Flitter Theta-9 (AEU)
+[2] AEU Navy Honour Guard Scout Delta-5 (AEU)
+[3] Tracy Caldwell (Allied Pirates)
+Enter your selection:
+3
+[0m09:49:24[0m
+the two-person A.S.S. scout "Tracy Caldwell" now being tracked..
+Two West and Down. Tracy Caldwell
+-a
+dam
+Average Starship Damage: 5%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+West. Tracy Caldwell
+z
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/a
+f
+y
+(4 seconds roundtime.)
+North. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+q
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 4 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+East. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+c
+You wince as an extremely loud metallic bang emanates from outside the ship.
+North. Tracy Caldwell
+-w
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/w
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 4 turrets will
+be fired.
+(4 seconds roundtime.)
+Up. Tracy Caldwell
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+a
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+You must wait between shots.
+I don't understand that.
+East and Up. Tracy Caldwell
+tar
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++s
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/dr
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 5 turrets will
+be fired.
+(4 seconds roundtime.)
+East. Tracy Caldwell
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++s
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+East and Down. Tracy Caldwell
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+-c
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/df
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+North. Tracy Caldwell
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+q
+u
+Two Northeast and Up. Tracy Caldwell
+Lost track of Tracy Caldwell.
+The computer announces, "Target tracking array failed to retain target."
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/w
+ships
+Starships In Sector:
+AEU Navy Honour Guard Scout Delta-5.....(14, 15, 3)
+AEU Navy Defense Flitter Theta-9........(15, 14, 2)
+Tracy Caldwell..........................(15, 15, 4)
+track
+I don't understand that.
+track
+I don't understand that.
+track
+I don't understand that.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+track
+Select target:
+[1] AEU Navy Defense Flitter Theta-9 (AEU)
+[2] Tracy Caldwell (Allied Pirates)
+Enter your selection:
+2
+[0m09:51:03[0m
+the two-person A.S.S. scout "Tracy Caldwell" now being tracked..
+East. Tracy Caldwell
+e
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/d
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 9 turrets will
+be fired.
+(4 seconds roundtime.)
+South. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+-x
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/x
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+West. Tracy Caldwell
+Northwest and Up. Tracy Caldwell
+tar
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++a
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/qr
+f
+Small clinks of metal come from the hull of the ship as it's being repaired.
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 4 turrets will
+be fired.
+(4 seconds roundtime.)
+North. Tracy Caldwell
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+q
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+tar
+East. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++d
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/d
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 5 turrets will
+be fired.
+(4 seconds roundtime.)
+Down. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+-x
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 2 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+Lost track of Tracy Caldwell.
+The computer announces, "Target tracking array failed to retain target."
+-s
+track
+The computer announces, "The target tracking array will recalibrate
+momentarily."
+track
+Select target:
+[1] AEU Navy Defense Flitter Theta-9 (AEU)
+Enter your selection:
+n
+Invalid selection.
+n
+You can't go that way.
+ships
+Starships In Sector:
+Tracy Caldwell..........................(14, 16, 4)
+AEU Navy Honour Guard Scout Delta-5.....(14, 17, 3)
+AEU Navy Defense Flitter Theta-9........(15, 17, 3)
+track
+Select target:
+[1] Tracy Caldwell (Allied Pirates)
+Enter your selection:
+1
+[0m09:52:16[0m
+the two-person A.S.S. scout "Tracy Caldwell" now being tracked..
+Northeast and Up. Tracy Caldwell
+e
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/er
+f
+y
+(4 seconds roundtime.)
+Up. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++d
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 4 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+West. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+z
+North. Tracy Caldwell
++s
+The starship is already moving.
+You wince as an extremely loud metallic bang emanates from outside the ship.
+Two Northeast. Tracy Caldwell
++s
+Two Northeast and Down. Tracy Caldwell
+-e
+North. Tracy Caldwell
+West and Up. Tracy Caldwell
+a
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/ar
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 11 turrets will
+be fired.
+(4 seconds roundtime.)
+Up. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+a
+Northeast and Up. Tracy Caldwell
+Two Northeast and Up. Tracy Caldwell
++e
+There is a ship already occupying that location.
++w
+East. Tracy Caldwell
+Southeast and Down. Tracy Caldwell
+-d
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+/cf
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 8 turrets will
+be fired.
+(4 seconds roundtime.)
+South. Tracy Caldwell
+d
+Wait 1 seconds.
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+-x
+u
+[Starship "Firestorm"; Weapons Room]
+You see a swiveling dark gray leather gunner's chair here.
+You can go down.
+f
+y
+WARNING: Insufficient combat energy grid for a full volley. Only 3 turrets will
+be fired.
+(4 seconds roundtime.)
+tar
+Up. Tracy Caldwell
+d
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
++d
+[0mNumber of weapon hits: 5[0m
+[0m09:53:50[0m
+The computer announces, "Target destroyed."
+Lost track of Tracy Caldwell.
+The computer reports that the two-person A.S.S. scout "Tracy Caldwell" has
+launched a rescue pod.
+The computer reports that it has collected three of an intact hull plate, three
+of an interior panel, two of a hydraulic assembly, three of a landing gear
+strut, and three of an unidentifiable starship component from an exploding
+starship.
+0.00 credits of your income have gone toward your organization.
+You have earned 1,000,000.00 AEU credits for winning a minor skirmish.
+ships
+Starships In Sector:
+AEU Navy Defense Flitter Theta-9........(14, 16, 4)
+AEU Navy Honour Guard Scout Delta-5.....(14, 14, 3)
+[AEU | 4: Sector Status] Beacon B-24 is standing down.
+The computer reports that the scout "AEU Navy Honour Guard Scout Delta-5" has
+jumped out of the sector.
+The computer reports that the one-person flitter "AEU Navy Defense Flitter
+Theta-9" has jumped out of the sector.
+green
+You lift a small plastic cover and press a green button.
+You hear a single beep and glance up to see green lights flick on overhead as
+the ship enters normal status.
+A low hum you had barely noticed until now slowly fades away as weapons are
+powered down.
+dam
+Average Starship Damage: 3%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+rd
+Beacon B-24 (AEU) [Human Interalliance Space] (Security: Beta-4)
+Coordinate rundown:
+Starships: Firestorm (T) at (15, 15, 3)
+Beacon Housings: (11, 9, 17)
+Debris: (7, 16, 17), (2, 7, 13), (7, 5, 10), (8, 17, 14), (5, 19, 16), (15, 6,
+3), (17, 10, 19), (7, 5, 9), (4, 20, 1), (19, 19, 16), (10, 6, 2), (7, 9, 8),
+(5, 19, 3), (15, 2, 20), (16, 10, 18), (3, 13, 9), (3, 13, 2), (8, 10, 10), (6,
+16, 2), (6, 8, 2), (14, 11, 2), (14, 15, 3)
+Debris Chunks: (11, 16, 8), (19, 8, 16), (2, 15, 9), (11, 8, 3), (12, 3, 17)
+dam
+Average Starship Damage: 3%
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+s
+There is a ship already occupying that location.
+so
+[Starship "Firestorm"; Engineering Room]
+You see a large leather chair, an improved temporary wormhole drive, and an
+improved temporary wormhole drive here.
+You can go north and down.
+s
+You can't go that way.
+dam
+Starship Damage:
+Turret 2: 20%.
+Turret 4: 5%.
+Turret 5: 31%.
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+repair laser 5
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #5.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #5."
+n
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+ftl new
+The ship must be on autopilot.
+aut
+I don't understand that.
+auto
+A small light next to the word AUTOPILOT switches on, while a similar light next
+to the word MANUAL switches off.
+ftl new
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                                               
+   Space Stations:
+[2] Space Station Alpha                                     
+   Space Markets:
+[3] Space Market                                            
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: New Earth.
+Via general sector communication, New Earth transmits, "Hello there, Firestorm!
+Welcome to home space!"
+ships
+There are no other ships in the sector.
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "Hello, Firestorm. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+You are credited with 2,000,000.00 AEU credits of bounty.
+0.00 credits of your income have gone toward your organization.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+s
+[Starship "Firestorm"; Engineering Room]
+You see a large leather chair, an improved temporary wormhole drive, and an
+improved temporary wormhole drive here.
+You can go north and down.
+dam
+Starship Damage:
+Turret 2: 20%.
+Turret 4: 5%.
+Turret 5: 21%.
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+n
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+out
+[Starship "Firestorm"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", the four-person mule "Lion's Den", and the three-person
+clipper "Firestorm" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+n
+[New Earth; Spaceport Repair & Rearm]
+You can go south.
+buy 6
+Which ship would you like to service?
+[1] Flight Of Angels (AEU)
+[2] Jack Of All Trades (League)
+[3] Lion's Den (AEU)
+[4] Firestorm (AEU)
+4
+That repair will cost 61,025.00 AEU credits.
+Accept? [Enter `yes' or `no']
+y
+You order a repair. You are informed that it will begin immediately.
+s
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", the four-person mule "Lion's Den", and the three-person
+clipper "Firestorm" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+where
+Your communicator reports that...
+No one is relaxing anywhere in public. Maybe you should!
+enter firestorm
+[Starship "Firestorm"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+s
+[Starship "Firestorm"; Engineering Room]
+You see a large leather chair, an improved temporary wormhole drive, and an
+improved temporary wormhole drive here.
+You can go north and down.
+You hear hammering and the chatter of technicians outside as the spaceport
+repairs the starship.
+dam
+Starship Damage:
+Turret 2: 13%.
+Turret 5: 12%.
+Hull damage failsafes remaining: 25%, 50%, 75%, and 97%
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+The damage control computer reports, "Repair of light turret #5 has been
+completed by the spaceport."
+The damage control computer reports, "Repair of light turret #2 has been
+completed by the spaceport."
+The damage control computer reports, "All spaceport repairs have been
+completed."
+n
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+[Starship "Firestorm"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", the four-person mule "Lion's Den", and the three-person
+clipper "Firestorm" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+[New Earth; Pilot Corps Liaison Office; Corridor]
+n
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+w
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+Your ship 'Firestorm' has been automatically moved into a garage.
+use phone on desk
+Your number: 0010-89705
+What would you like to do with your bright red einrophone?
+[1] Dial
+[2] View Missed Calls (0)
+[3] Listen to Voicemail (0)
+[4] Set Voicemail Greeting
+[5] Nothing
+Enter your selection:
+5
+You do nothing!!
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+8
+You make a selection on your terminal.
+What notice would you like to send to all AEU communicators?
+Greetings pilots. I'd like to first say that it is an honour to serve as your
+Space Defense Captain for this term. If you have any questions regarding space
+combat, whether it be flying, gunning, or engineering, please don't hesitate to
+contact me via comms, by letter addressed to Shule Elemmire, or by calling the
+Space Defense Captain's office at 0010-89705. Just before sending out this
+notice, I battled Allied Pirates in sector B-24. Please help keep our space safe
+and clear of threats by tuning your communicator to 0 and listening for threats
+on channel 4. Upon hearing of sectors going on alert, please either say
+something over the alliance channel or tactical channel. Also, please keep your
+ships powered down on our landing pads to help prevent the spread of bari. Thank
+you all and fly safe.
+Are you sure you want to send: Greetings pilots. I'd like to first say that it
+is an honour to serve as your Space Defense Captain for this term. If you have
+any questions regarding space combat, whether it be flying, gunning, or
+engineering, please don't hesitate to contact me via comms, by letter addressed
+to Shule Elemmire, or by calling the Space Defense Captain's office at
+0010-89705. Just before sending out this notice, I battled Allied Pirates in
+sector B-24. Please help keep our space safe and clear of threats by tuning your
+communicator to 0 and listening for threats on channel 4. Upon hearing of
+sectors going on alert, please either say something over the alliance channel or
+tactical channel. Also, please keep your ships powered down on our landing pads
+to help prevent the spread of bari. Thank you all and fly safe.
+[Enter `yes' or `no']
+y
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+Your message has been sent.
+read comm
+You glance at your communicator's screen.
+Notice from the Space Defense Captain: Greetings pilots. I'd like to first say
+that it is an honour to serve as your Space Defense Captain for this term. If
+you have any questions regarding space combat, whether it be flying, gunning, or
+engineering, please don't hesitate to contact me via comms, by letter addressed
+to Shule Elemmire, or by calling the Space Defense Captain's office at
+0010-89705. Just before sending out this notice, I battled Allied Pirates in
+sector B-24. Please help keep our space safe and clear of threats by tuning your
+communicator to 0 and listening for threats on channel 4. Upon hearing of
+sectors going on alert, please either say something over the alliance channel or
+tactical channel. Also, please keep your ships powered down on our landing pads
+to help prevent the spread of bari. Thank you all and fly safe. [08:10 10 July
+2317 GST]
+s
+You can't go that way.
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+w
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+get report
+You remove the 08:00 10/07 AEU space defense report from a brushed steel desk.
+read report
+In addition, there appears to be some writing on the 08:00 10/07 AEU space
+defense report...
+--
+Hostile Entry
+--
+      Beacon B-24: Allied Pirates ASS-B1 Allied Starships Deep-Space Scout
+"Regan Matos"
+            07:37 10 July 2317 GST
+      Beacon B-24: Allied Pirates ASS-B1 Allied Starships Deep-Space Scout
+"Wilfredo Landers"
+            07:37 10 July 2317 GST
+      Beacon B-24: Allied Pirates ASS-B1 Allied Starships Deep-Space Scout
+"Tracy Caldwell"
+            07:37 10 July 2317 GST
+      Beacon B-24: Allied Pirates ASS-A1 Allied Starships Space Superiority
+Fighter "Keith Emerson"
+            07:37 10 July 2317 GST
+      Beacon B-24: Allied Pirates ASS-A1 Allied Starships Space Superiority
+Fighter "Genaro Mansfield"
+            07:37 10 July 2317 GST
+--
+(You finish reading.)
+stamp report
+You grab a large rubber stamp, pound it onto the 08:00 10/07 AEU space defense
+report, then fling the document into the Outgoing pile.
+get report
+I see no "report" here.
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+s
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+out
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", and the four-person mule "Lion's Den" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+KitCat the humanoid service robot, and Prissy the big violet long-haired felo
+here.
+You can go out and enter into the ship.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+You can go south and out.
+who
+There appear to be about 9 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Nicolette Lawrence  (L)
+Ali Candan  (L)
+Ted Warburton  (F)
+Hakeem Oiadip  (F)
+Your communicator also reports that there are 4 pilots who were active but
+dropped out of communications.
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 24 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+who
+There appear to be about 9 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Nicolette Lawrence  (L)
+Ali Candan  (L)
+Ted Warburton  (F)
+Hakeem Oiadip  (F)
+Your communicator also reports that there are 4 pilots who were active but
+dropped out of communications.
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 24 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Prissy the big violet long-haired felo wanders in from the airlock.
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+A large thickly-shelled creature with a yellow shell and four small claws rears
+up against the glass and snaps its claws at the outside world.
+A long red soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+Prissy the big violet long-haired felo wanders south.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A long red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a plastic flower with red petals.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+orange glowing interior drifts slowly past a plastic shipwreck flying a pirate
+flag.
+A long violet soft-bodied creature with many claw-tipped tentacles swims around
+a small plastic statue of a Jinu.
+Prissy the big violet long-haired felo wanders in from the south.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+get suit
+You remove a small suitcase from a leather briefcase.
+undress into suit
+You remove all of your clothing, placing it carefully in a small suitcase.
+open suit
+You open a small suitcase.
+get briefs from suit
+You remove a pair of white cotton briefs from a small suitcase.
+wear broefs
+Wear what?
+wear briefs
+You slide a pair of white cotton briefs on.
+get trousers
+You remove a stormy pair of trousers from a small suitcase.
+wear trousers
+You pull a stormy pair of trousers on over your legs.
+get polo
+You remove a soft red heather cotton polo from a small suitcase.
+wear polo
+You pull a soft red heather cotton polo on over your head.
+get white socks
+You remove a pair of white socks from a small suitcase.
+wear socks
+You slide a pair of white socks onto your feet.
+close suit
+You close a small suitcase.
+open suit
+You open a small suitcase.
+get sneakers
+You remove a pair of washed light khaki canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of washed light khaki canvas sneakers onto your feet.
+close suit
+You close a small suitcase.
+put suit in briefcase
+You put a small suitcase in a leather briefcase.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, Purr the humanoid service
+robot, and Prissy the big violet long-haired felo here.
+You can go south and out.
+sit sof
+I can't find "sof."
+asit sofa
+I don't understand that.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+who
+There appear to be about 11 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Riley Green  (L) [c]
+Nicolette Lawrence  (L)
+Hakeem Oiadip  (F)
+Nathaniel Owens  (F)
+Ted Warburton  (F)
+Keegan Wantz  (F)
+Your communicator also reports that there are 4 pilots who were active but
+dropped out of communications.
+Additionally, there are 14 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, and a hairy
+yellow eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+gen comm
+You turn general communication on.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, Purr the humanoid service
+robot, and Prissy the big violet long-haired felo here.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+tra gen Hello all
+[General Communication] Shule Elemmire transmits, "Hello all."
+who
+There appear to be about 11 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Riley Green  (L) [c]
+Nicolette Lawrence  (L)
+Hakeem Oiadip  (F)
+Nathaniel Owens  (F)
+Ted Warburton  (F)
+Keegan Wantz  (F)
+Your communicator also reports that there are 4 pilots who were active but
+dropped out of communications.
+Additionally, there are 14 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[General Communication] Ted Warburton transmits, "Hi."
+[General Communication] Ted Warburton transmits, "Hi."
+[General Communication] Ted Warburton transmits, "Buttons."
+tra gen How's it going, Ted?
+[General Communication] Shule Elemmire transmits, "How's it going, Ted?"
+[General Communication] Ted Warburton transmits, "Not so bad, yourself?"
+Prissy the big violet long-haired felo wanders south.
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+A large semi-transparent spherical creature with long dangling tendrils and a
+green glowing interior pulsates gently.
+A large thickly-shelled creature with a red shell and four small claws snaps its
+claws menacingly at a plastic frond of light green sea fern.
+A large thickly-shelled creature with a red shell and four small claws raises
+its claws at a small plastic statue of a Jinu and snaps them menacingly while
+dancing around it.
+A long orange soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+yellow glowing interior drifts slowly past a plastic shipwreck flying a pirate
+flag.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+Mischief the large black felo hums melodically to itself as it wanders south.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior pulsates gently.
+A long gold soft-bodied creature with many claw-tipped tentacles swims around a
+string of light purple plastic kelp.
+A long yellow soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A large semi-transparent spherical creature with long dangling tendrils and a
+green glowing interior drifts slowly past a plastic frond of light green sea
+fern.
+Mischief the large black felo hums melodically to itself as it wanders out.
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly across the tank.
+[AEU | 4: Sector Status] Beacon B-24 has gone on alert!
+Mischief the large black felo hums melodically to itself as it wanders in from
+the airlock.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+orange glowing interior drifts slowly across the tank.
+Mischief the large black felo rubs up against a dark purple leather captain's
+chair, purring softly.
+[AEU | 4: Sector Status] Defenders are being scrambled to Beacon B-24!
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+and KitCat the humanoid service robot here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", and the four-person mule "Lion's Den" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+e
+You can't go that way.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+n
+[New Earth; Pilot Corps Liaison Office; Corridor]
+w
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+use
+Use what?
+use terminal
+You face the Space Defense Captain terminal.
+The screen displays the following options:
+[1] Read Guidelines
+[2] View Starmap
+[3] View Rundown
+[4] Send Message to Fleet
+[5] Toggle Reporting
+[6] Fleet Composition Overview
+[7] View Alliance Blacklist
+[8] Send Communicator Notice
+Enter your selection:
+3
+You make a selection on your terminal.
+Which sector's rundown would you like to view?
+b-24
+Beacon B-24 (AEU) [Human Interalliance Space] (Security: Beta-4)
+Coordinate rundown:
+Starships: AEU Navy Defense Flitter Lambda-8 (>) at (12, 3, 8), AEU Navy Honour
+Guard Scout Tau-2 (8) at (15, 9, 13), and Is It All Worth It? (I) at (12, 3, 12)
+Beacon Housings: (11, 9, 17)
+Debris: (7, 16, 17), (2, 7, 13), (7, 5, 10), (8, 17, 14), (5, 19, 16), (15, 6,
+3), (17, 10, 19), (7, 5, 9), (4, 20, 1), (19, 19, 16), (10, 6, 2), (7, 9, 8),
+(5, 19, 3), (15, 2, 20), (16, 10, 18), (3, 13, 9), (3, 13, 2), (8, 10, 10), (6,
+16, 2), (6, 8, 2), (14, 11, 2), (14, 15, 3)
+Debris Chunks: (11, 16, 8), (19, 8, 16), (2, 15, 9), (11, 8, 3), (12, 3, 17)
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+out
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", and the four-person mule "Lion's Den" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter firestorm
+[Starship "Firestorm"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Firestorm"; Control Room]
+You see a black leather captain's chair, a decoy beacon launcher, a
+bioaugmentation plant in a small pot labeled "Space Invaders", and a wormhole
+drive tracer here.
+You can go south, up, and out.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+who
+There appear to be about 6 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Kim Saunders  (A) [m]
+Ted Warburton  (F)
+Your communicator also reports that there are 3 pilots who were active but
+dropped out of communications.
+Additionally, there are 16 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 22 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A voice comes over the speaker and says, "Firestorm, you have clearance to
+launch. Good luck and come back to us safely."
+tra 1 Hi Kim
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Hi Kim."
+who
+There appear to be about 6 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Kim Saunders  (A) [m]
+Ted Warburton  (F)
+Your communicator also reports that there are 3 pilots who were active but
+dropped out of communications.
+Additionally, there are 16 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 22 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+tra 1 Are you available to help gun?
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Are you available
+to help gun?"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+ftl b-24
+[0m[Miriani] Miriam Valleris leans in toward you and gently kisses your lips.[0m
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Uh? Yeah, sure."
+Once a valuable source for raw materials on the edge of Known Space, this area
+is now fully mapped and lined with beacons.
+stop
+You press a button to cancel the current autopilot program.
+stop
+The computer says, "Jump sequence aborted."
+You press a button to cancel the current autopilot program.
+ftl new
+Via general sector communication, Beacon B-24 transmits in a robotic voice,
+"Detecting vessel 'Firestorm.' Welcome to Beacon B-24."
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+tra 1 Meet me on New Earth?
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Meet me on New
+Earth?"
+move
+1
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                                               
+   Space Stations:
+[2] Space Station Alpha                                     
+   Space Markets:
+[3] Space Market                                            
+--
+Enter your destination:
+A destination appears on the ship's navigation controls: New Earth.
+Via general sector communication, New Earth transmits, "Hello there, Firestorm!
+Welcome to home space!"
+The ship's computer automatically requests landing clearance.
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "I am in the lounge."
+A voice comes over the speaker and says, "Hello, Firestorm. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+power
+You may not power down the ship while it is in flight.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+out
+[Starship "Firestorm"; Airlock]
+You can go out and enter into the ship.
+You exit the ship.
+go lounge
+[New Earth; Spaceport Landing Pad]
+The four-person star liner "Flight Of Angels", the two-person light transport
+"Jack Of All Trades", the four-person mule "Lion's Den", and the three-person
+clipper "Firestorm" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+[New Earth; Pilot Lounge]
+You see a semi-circular bar, a public holovid, a brightly-lit candy vending
+machine, and a shiny chrome trash bin here.
+Kim Saunders is standing here.
+You can go out.
+i
+ You are wearing a soft red heather cotton polo, a stormy pair of trousers, and
+a pair of washed light khaki canvas sneakers. Underneath this, you are wearing a
+pair of white cotton briefs and a pair of white socks. You are also wearing a
+keychain, a backpack, a metallic gold touch einrophone in a black leather phone
+holster, a solid silver ring engraved with dolphins, and a gold wrist-mounted
+chronometer. You are concealing a metallic silver metachannel FTL communicator,
+a leather briefcase, a flight control scanner, a large expandable telescoping
+xenology container, a scorched metal thigh holster, a golden Feng Wo coin purse,
+a thick synthleather bandolier with large pockets, a camera bag, a black
+engineering tool case, and a black flightbag with a red shooting star on the
+side. Your head, face, both eyes, neck, both elbows, both forearms, both wrists,
+and both hands are left uncovered.
+You are carrying nothing.
+hold kim
+You hold Kim Saunders's hand, taking her into your group.
+'thanks
+You say, "Thanks."
+go stair
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+Kim Saunders followed you.
+[0m[Miriani] Miriam Valleris smiles at you.[0m
+[0m[Miriani] Miriam Valleris cuddles you gently.[0m
+enter striking
+[Starship "Striking Distance"; Airlock]
+You can go out and enter into the ship.
+Kim Saunders followed you.
+enter
+[Starship "Striking Distance"; Control Room]
+You see a black leather captain's chair, a wormhole drive tracer, and a decoy
+beacon launcher here.
+You can go up and out.
+Kim Saunders followed you.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+Your ship 'Firestorm' has been automatically moved into a garage.
+A voice comes over the speaker and says, "Striking Distance, you have clearance
+to launch. Good luck and come back to us safely."
+ftl b-24
+The ship is already moving.
+ftl b-24
+Kim Saunders strides up.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Once a valuable source for raw materials on the edge of Known Space, this area
+is now fully mapped and lined with beacons.
+l
+[Starship "Striking Distance"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a black leather captain's chair, a wormhole drive tracer, and a decoy
+beacon launcher here.
+You can go up and out.
+peer u
+You peer up...
+[Starship "Striking Distance"; Weapons Room]
+Unlike the control room, a starship's weapon room has only one tiny viewport.
+The focus of the room is a slightly miniaturized starmap, augmented with
+additional spatial relationship information and various status displays. A
+streamlined control board sits before the starmap, with prominent indicators for
+lock status and weapon readiness. Control boards for the ship's weaponry are off
+to either side, to be pulled into place at a moment's notice. Lights overhead
+indicate that the ship is on green status. Looking through the windows, you see
+that the ship is in space.
+You see a swiveling gray leather gunner's chair, a bioaugmentation plant in a
+small pot labeled "Starseekers", and an improved temporary wormhole drive here.
+Kim Saunders is lying down.
+You can go south and down.
+Via general sector communication, Beacon B-24 transmits in a robotic voice,
+"Detecting vessel 'Striking Distance.' Welcome to Beacon B-24."
+l
+[Starship "Striking Distance"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a black leather captain's chair, a wormhole drive tracer, and a decoy
+beacon launcher here.
+You can go up and out.
+ships
+Starships In Sector:
+Is It All Worth It?.....................(12, 3, 12)
+AEU Navy Honour Guard Scout Tau-2.......(12, 3, 11)
+shipc
+Starships In Sector:
+Is It All Worth It?.....................AS-0A AEU Light Escort Vessel
+AEU Navy Honour Guard Scout Tau-2.......AY-71 AEU Long-Range Scout
+auto
+The nav mode is already on autopilot.
+move
+AutoStar detects 30 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Beacon Housings:
+[1] Beacon B-24                                             
+   Ships (present location):
+[2] AEU Navy Honour Guard Scout Tau-2                       
+[3] Is It All Worth It?                                     
+   Debris:
+[4] Debris (nearest)                                        
+--
+Enter your destination:
+3
+A destination appears on the ship's navigation controls: Is It All Worth It?.
+red
+You lift a small plastic cover and press a red button.
+A loud klaxon sounds and red lights flash overhead as the ship enters red alert.
+You hear a low hum as the ship's weapons are powered up.
+pa Let's party
+You speak into the PA microphone, saying, "Let's party."
+track all
+That target is out of range.
+track all
+The target tracking array is now tracking the three-person light escort "Is It
+All Worth It?".
+Two Southeast and Down. Is It All Worth It?
+man
+A small light next to the word MANUAL switches on, while a similar light next to
+the word AUTOPILOT switches off.
+-c
+Lost track of Is It All Worth It?.
+The computer announces, "Target tracking array failed to retain target."
+track all
+The target tracking array is now tracking the three-person light escort "Is It
+All Worth It?".
+Down. Is It All Worth It?
+West and Down. Is It All Worth It?
+tar
+-s
+West. Is It All Worth It?
+Northwest and Up. Is It All Worth It?
+q
+Up. Is It All Worth It?
+Automatic daily maintenance is complete.
+tar
++d
+Two Up. Is It All Worth It?
+West and Up. Is It All Worth It?
+pa west and up
+You speak into the PA microphone, saying, "West and up."
+pa yeah, that way
+You speak into the PA microphone, saying, "Yeah, that way."
+z
+North and Up. Is It All Worth It?
+Two Northwest and Up. Is It All Worth It?
++s
+There is a ship already occupying that location.
++q
+Up. Is It All Worth It?
+South. Is It All Worth It?
++s
+West and Up. Is It All Worth It?
+West. Is It All Worth It?
+Northwest. Is It All Worth It?
+w
+bolt
+I don't understand that.
+West. Is It All Worth It?
+[0m[Miriani] Miriam Valleris snuggles up to you.[0m
+-a
+Southwest and Down. Is It All Worth It?
+South. Is It All Worth It?
+c
+scan
+Ships in this sector:
+[1] Is It All Worth It? (Allied Pirates)
+[2] AEU Navy Honour Guard Scout Tau-2 (AEU)
+Scan which ship?
+1
+Down. Is It All Worth It?
+A few green lights blink on, then off again a moment later, as another starship
+is scanned.  The computer then displays the following:
+AS-0A AEU Light Escort Vessel "Is It All Worth It?" [a]
+--
+IFF Transponder Code: Allied Pirates
+Model Designation: AS-0A
+Hull damage: 50%
+Average damage: 30%
+Occupancy: Filled
+FTL Capable: No
+Weapons: Powered up
+Power: Charged
+Cargo: Ammunition
+Coordinates: (11, 3, 12)
+Distance: 1
+--
+Northwest and Down. Is It All Worth It?
+thull
+[0m50%[0m
+-w
+-w
+The starship is already moving.
+West. Is It All Worth It?
+pa hull 50
+You speak into the PA microphone, saying, "Hull 50."
+Two Northwest and Up. Is It All Worth It?
++q
+West. Is It All Worth It?
+z
+Southwest. Is It All Worth It?
+The computer announces, "The gunner has caused the enemy's intrasector drive to
+seize."
+The computer announces, "Coordinates are now occupied. Diverting course."
+Southwest and Down. Is It All Worth It?
+tar
+-x
+West. Is It All Worth It?
+South and Up. Is It All Worth It?
++c
+The ship's lights dim briefly as additional energy is shunted into a weapon
+room's combat energy grid.
+The computer reports that the three-person light escort "Is It All Worth It?"
+has performed an emergency jump with heavy wormhole drive damage.
+0.00 credits of your income have gone toward your organization.
+You have earned 375,000.00 AEU credits for winning a minor skirmish.
+Lost track of Is It All Worth It?.
+[AEU | 4: Sector Status] Beacon B-24 is standing down.
+The computer reports that the scout "AEU Navy Honour Guard Scout Tau-2" has
+jumped out of the sector.
+green
+You lift a small plastic cover and press a green button.
+You hear a single beep and glance up to see green lights flick on overhead as
+the ship enters normal status.
+A low hum you had barely noticed until now slowly fades away as weapons are
+powered down.
+[PA] Kim Saunders: "Sweet."
+pa Thanks Kim.
+You speak into the PA microphone, saying, "Thanks Kim."
+rd
+Beacon B-24 (AEU) [Human Interalliance Space] (Security: Beta-4)
+Coordinate rundown:
+Starships: Striking Distance (8) at (12, 2, 14)
+Beacon Housings: (11, 9, 17)
+Debris: (7, 16, 17), (2, 7, 13), (7, 5, 10), (8, 17, 14), (5, 19, 16), (15, 6,
+3), (17, 10, 19), (7, 5, 9), (4, 20, 1), (19, 19, 16), (10, 6, 2), (7, 9, 8),
+(5, 19, 3), (15, 2, 20), (16, 10, 18), (3, 13, 9), (3, 13, 2), (8, 10, 10), (6,
+16, 2), (6, 8, 2), (14, 11, 2), (14, 15, 3)
+Debris Chunks: (11, 16, 8), (19, 8, 16), (2, 15, 9), (11, 8, 3), (12, 3, 17)
+ftl new
+The ship must be on autopilot.
+auto
+A small light next to the word AUTOPILOT switches on, while a similar light next
+to the word MANUAL switches off.
+ftl new
+[PA] Kim Saunders: "Sorry I didn't respond sooner, still a bit sleepy."
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+pa It's ok. I didn't respond as quickly as I could too.
+You speak into the PA microphone, saying, "It's ok. I didn't respond as quickly
+as I could too."
+Via general sector communication, New Earth transmits, "Hello there, Striking
+Distance! Welcome to home space!"
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                                               
+   Space Stations:
+[2] Space Station Alpha                                     
+   Space Markets:
+[3] Space Market                                            
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: New Earth.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "Hello, Striking Distance. We read your
+AEU transponder. You are cleared to land at the city of New Phoenix."
+You are credited with 234,375.00 AEU credits of bounty.
+0.00 credits of your income have gone toward your organization.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+Kim Saunders strides in from above.
+[0m[Miriani] Miriam Valleris gently kisses your neck.[0m
+hug kim
+You hug Kim Saunders.
+'Thanks.
+You say, "Thanks."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Kim Saunders smiles at you. "Well, welcome back as our SDC again."
+Your ship 'Striking Distance' has been automatically moved into a garage.
+Kim Saunders hugs you.
+'Thanks.
+You say, "Thanks."
+grin
+You grin.
+Kim Saunders waves. "See you later."
+wave
+You wave.
+'see ya
+Kim Saunders strides out.
+You say, "See ya."
+out
+[Starship "Striking Distance"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You see a large number of stored starships here.
+Kim Saunders is standing here.
+You can go up.
+Some lights on the scout "White Eagle" flash as Kim Saunders boards it. They
+flash again as the airlock closes.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+and KitCat the humanoid service robot here.
+You can go out and enter into the ship.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+You can go south and out.
+enter
+Board what?
+enter
+Board what?
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+You can go south and out.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a Tardick
+lizard named Asteria, and Mischief the large black felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, and Purr the humanoid service
+robot here.
+You can go south and out.
+sit sofa
+I can't find "sofa."
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior drifts slowly across the tank.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+fuchsia glowing interior drifts slowly past a small plastic statue of a shark.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior drifts slowly past a plastic shipwreck flying a pirate flag.
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior pulsates gently.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+A large semi-transparent spherical creature with long dangling tendrils and a
+green glowing interior drifts slowly past a plastic flower with red petals.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+fuchsia glowing interior drifts slowly across the tank.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at a white plastic undersea castle and clings to it for a moment, then
+jets off.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+yellow glowing interior drifts slowly across the tank.
+Prissy the big violet long-haired felo wanders in from the south.
+Prissy the big violet long-haired felo wanders south.
+[General Communication] Constantine Stone transmits, "Skeleton crew."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+who
+There appear to be about 6 pilots recently active.
+The communicator network detects:
+Constantine Stone  (A)
+Kerry Rodriguez  (L)
+Jada Nelson  (L)
+Caleb Davenport  (L)
+Ted Warburton  (F)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 17 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 23 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[General Communication] Ted Warburton transmits, "It often gets like this at
+this kind of time."
+tr org Hey Constantine.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Hey Constantine."
+[General Communication] Kerry Rodriguez transmits, "This is true. A bit on the
+quiet side, just the way I love it."
+[0m[Miriani] Miriam Valleris smiles at you.[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Hey Shule."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+who
+There appear to be about 7 pilots recently active.
+The communicator network detects:
+Constantine Stone  (A)
+Shule Elemmire  (A) [m]
+Kerry Rodriguez  (L)
+Jada Nelson  (L)
+Caleb Davenport  (L)
+Ted Warburton  (F)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 16 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 23 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[General Communication] Jacob Smitt transmits, "Hey all."
+[General Communication] Ted Warburton transmits, "Hi."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+tra gen Hello
+[General Communication] Shule Elemmire transmits, "Hello."
+[General Communication] Constantine Stone transmits, "Hey."
+[General Communication] Kerry Rodriguez transmits, "HI HI."
+A long red soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+orange glowing interior pulsates gently.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior pulsates gently.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Hey Shule, is
+there some way to gauge how long a rift trip is going to be?"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Without
+committing to it?"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+tr org Not really.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Not really."
+[0m[Miriani] Miriam Valleris smiles.[0m
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+yellow glowing interior drifts slowly past a string of light purple plastic
+kelp.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Johann posted
+about inserters for 777."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[General Communication] Hakeem Oiadip transmits, "Morning."
+tra org Oh good. I didn't see that.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Oh good. I didn't
+see that."
+[General Communication] Ted Warburton transmits, "Hi."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Where do I
+catch those?"
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a string of light purple plastic kelp.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[0m[Miriani] Miriam Valleris nods.[0m
+[0m[Miriani] Miriam Valleris smiles.[0m
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I guess that's
+something I could look at on the org temporary structure terminal."
+tra org They're part of the accelerator. So just go where you normally would go
+and if the inserter is there and you need it, it will work.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "They're part of
+the accelerator. So just go where you normally would go and if the inserter is
+there and you need it, it will work."
+[0m[Miriani] Miriam Valleris asks, "Do you want to stare here or in your ship?"[0m
+tra org Well, usually it's part of the accelerator
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Well, usually it's
+part of the accelerator."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Oh, I guess I
+forgot that those things were different."
+[General Communication] Jacob Smitt transmits, "Afternoon, Hakeem."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "What do
+inserters do?"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+tra org It allows ships that don't have a rift drive to utilize the rift. It
+inserts the ship into the rift since the ship doesn't have a rift drive to do
+it.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "It allows ships
+that don't have a rift drive to utilize the rift. It inserts the ship into the
+rift since the ship doesn't have a rift drive to do it."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Oh, okay, what
+are accelerators, then?"
+[Tactical Communication] Hakeem Oiadip transmits, "Any interest on a nest?"
+[Tactical Communication] Constantine Stone transmits, "I would do a nest, for
+sure."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[Tactical Communication] Jacob Smitt transmits, "I could go."
+[Tactical Communication] Ted Warburton transmits, "So could I."
+[Tactical Communication] Hakeem Oiadip transmits, "What suit you have
+Constantine?"
+A Tardick lizard named Asteria trundles slowly into the area.
+[Tactical Communication] Constantine Stone transmits, "AEU or EAOS 2."
+tra org Accelerators help by putting the ship further into the rift which in
+turn, increases the rift flow and accelerates the ship.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Accelerators help
+by putting the ship further into the rift which in turn, increases the rift flow
+and accelerates the ship."
+[Tactical Communication] Hakeem Oiadip transmits, "Jacob?"
+[Tactical Communication] Jacob Smitt transmits, "I can run anything tier 2, or a
+League 3."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "That makes
+sense."
+[Tactical Communication] Hakeem Oiadip transmits, "One minute."
+[Tactical Communication] Hakeem Oiadip transmits, "OK, Jacob LEague 3,
+Constantine EAOS, I will take a rental 2 and Ted and AEU, chet please in a
+couple of minutes."
+[Tactical Communication] Jacob Smitt transmits, "Copy that, on my way."
+A long violet soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior pulsates gently.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+A Tardick lizard named Asteria trundles slowly south.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Who's this Sol
+Sterling on comms?"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I see him every
+once in a while."
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tail.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+tra org He's been around for a little while... He's interesting... I don't
+really get along with him very well.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "He's been around
+for a little while... He's interesting... I don't really get along with him very
+well."
+tra org But I have to go for now. I'll see you later.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "But I have to go
+for now. I'll see you later."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "He's not part
+of any alliance pilot corps, is that right?"
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Ah okay, have a
+good one."
+tra org He used to be League I believe, but now he's rogued. And thanks.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "He used to be
+League I believe, but now he's rogued. And thanks."
+[General Communication] Constantine Stone transmits, "Is the rift accelerator to
+777 in Mir because Mir is the closest sector with a permanent beacon to 777?"
+[General Communication] Jacob Smitt transmits, "I'm thinking so."
+[General Communication] Constantine Stone transmits, "So it would stand to
+reason that, if I wanted to use my rift drive to get to 777, I would also want
+to start from Mir."
+[General Communication] Ted Warburton transmits, "I can't remember why it was
+moved there, I guess that was the reason."
+[General Communication] Jacob Smitt transmits, "Yes."
+[General Communication] Ted Warburton transmits, "You wouldn't have an
+accelerator then though."
+[General Communication] Jacob Smitt transmits, "Hmm... Good point."
+[General Communication] Constantine Stone transmits, "Oh, so using the inserter
+would be faster?"
+[General Communication] Ted Warburton transmits, "Always."
+[General Communication] Kerry Rodriguez transmits, "Battle of mir? Yeah that's
+where it is, but it took me almost 2 hours to get out here."
+[General Communication] Constantine Stone transmits, "Oh, this is great to
+know."
+[General Communication] Ted Warburton transmits, "No, not Battle of Mir, Mir,
+that's why it took you so long."
+[General Communication] Kerry Rodriguez transmits, "If you come out, I went
+south."
+[General Communication] Kerry Rodriguez laughs.
+[General Communication] Jacob Smitt transmits, "Kerry, the Station is in mir,
+not battle of Mir."
+[General Communication] Ted Warburton transmits, "I just said that."
+[General Communication] Kerry Rodriguez transmits, "Holi smokes."
+[General Communication] Constantine Stone transmits, "Yeah, I made the same
+mistake yesterday Kerry, I tried rifting from Battle of Mir and was frustrated
+with the time and turned around."
+[General Communication] Jacob Smitt transmits, "Well, Rogue and I did it like
+twice before we realized our mistake."
+[General Communication] Ted Warburton transmits, "You guys need to keep up with
+the message boards."
+[General Communication] Kerry Rodriguez transmits, "Was not really listening, I
+was space walking."
+[General Communication] Constantine Stone transmits, "I do read them, I just
+didn't understand the distinction."
+[General Communication] Constantine Stone transmits, "But now I do."
+[General Communication] Ted Warburton transmits, "Ah, fair play."
+A Tardick lizard named Asteria flicks its tongue out.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 1,030,429.01 EAOS credits from a toll payment to League Rift
+Accelerating Battery-Powered Toll Station in Mir.
+[General Communication] Ted Warburton transmits, "And that's how you know."
+A Tardick lizard named Asteria trundles slowly south.
+[General Communication] Kerry Rodriguez transmits, "Heh, scan."
+[General Communication] Kerry Rodriguez transmits, "Urm."
+[General Communication] Jacob Smitt transmits, "Nothing here."
+[General Communication] Jacob Smitt chuckles.
+[General Communication] Kerry Rodriguez laughs.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior pulsates gently.
+A long orange soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "A good morning
+for mods."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Anyone going
+to?"[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Sure."[0m
+[0m[Miriani] [General Communication] Erik Yobi cheers and transmits, "Mods mods
+mods mods!"[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "I can run."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "He volunteers by
+enthusiasm."[0m
+[0m[Miriani] [General Communication] Erik Yobi transmits, "And I can gun!"[0m
+[0m[Miriani] [General Communication] Michael Calaway transmits, "I'll walk."[0m
+[0m[Miriani] [General Communication] Erik Yobi transmits, "I'll talk."[0m
+[0m[Miriani] [General Communication] Erik Yobi cheers and transmits, "And then
+let's do mods together!"[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Yaye."[0m
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior pulsates gently.
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "All bring your
+credit assistants, and collect all the yummy collectables."[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Ok. Let's count, 5
+spots for mods."[0m
+[0m[Miriani] [General Communication] Michael Calaway transmits, "Me."[0m
+[0m[Miriani] [General Communication] Therman Donaldson transmits, "Me."[0m
+[0m[Miriani] [General Communication] Justice Smith transmits, "Me."[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Erik?"[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m[Miriani] [General Communication] Erik Yobi transmits, "Heya Jessipop. Yes, me
+too!"[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "One spot."[0m
+[0m[Miriani] [General Communication] Anton Navarro transmits, "Me too."[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Full."[0m
+[0m[Miriani] [General Communication] Erik Yobi cheers.[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Beta."[0m
+[0m[Miriani] [Short-range Communication] Cria Blur transmits, "Aaaa."[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Justice?"[0m
+[0m[Miriani] [General Communication] Justice Smith transmits, "Sorry, was dropping
+off my courier ship."[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "No problem."[0m
+[0m[Miriani] Miriam Valleris makes a selection on a compact silver Lore computer.[0m
+A short amethyst soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+[0m[Miriani] [Private | Therman Donaldson] Therman Donaldson transmits, "hey hey"[0m
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+A large thickly-shelled creature with a red shell and four small claws grips a
+white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+[AEU | 4: Sector Status] Beacon B-24 has gone on alert!
+[AEU | 4: Sector Status] Defenders are being scrambled to Beacon B-24!
+[0m[Miriani] Miriam Valleris makes a selection on a compact silver Lore computer.[0m
+[0m[Miriani] Miriam Valleris makes a selection on a compact silver Lore computer.[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "2 spots for mods."[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "2 spots."[0m
+[0m[Miriani] [General Communication] Jessica Marin transmits, "Spots for mods."[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 4: Sector Status] Beacon B-24 is standing down.
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly past a plastic frond of light green sea
+fern.
+[0m[Miriani] Miriam Valleris makes a selection on a compact silver Lore computer.[0m
+[0m[Miriani] Miriam Valleris makes a selection on a compact silver Lore computer.[0m
+[0m[Miriani] Miriam Valleris makes a selection on a compact silver Lore computer.[0m
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly past a string of light purple plastic
+kelp.
+A long yellow soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior drifts slowly past a plastic shipwreck flying a pirate flag.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+yellow glowing interior drifts slowly past a string of light purple plastic
+kelp.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A long violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior drifts slowly across the tank.
+A large thickly-shelled creature with a red shell and four small claws creeps
+across the bottom of the tank, snapping its many claws rapidly.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior pulsates gently.
+A short amethyst soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A large thickly-shelled creature with a red shell and four small claws snaps its
+claws menacingly at a plastic flower with red petals.
+[0m[Miriani] [Private | Auction Service] Auction Service transmits, "A new item is
+up for bid: A leather sheath containing a large butcher knife (c20). Bids will
+start at 150,000,000.00 credits and the auction will end in 7 days. Good luck!"[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at a white plastic undersea castle and clings to it for a moment,
+then jets off.
+quit
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m

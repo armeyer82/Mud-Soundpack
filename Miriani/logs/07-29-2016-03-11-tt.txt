@@ -1,0 +1,112 @@
+     @@@@@@@@  @@@    @@@  @@@@@@@@  @@@@@@@    
+     @@@@@@@@  @@@    @@@  @@@@@@@@  @@@@@@@@    
+     @@!       @@@    @@@  @@!       @@!  @@@   
+     !@!       @!@    @!@  !@!       !@!  @!@      Running: MudOS v22.1
+     @!!!:!    @!!    !!@  @!!!:!    @!@!!@!         Admin: Skywise
+     !!!!!:    :@!    !@:  !!!!!:    !!@!@!        Arches: Phoebe, Zack,
+     !!:        !!:  :!!   !!:       !!: :!!          Nameless & Bax 
+     :!:        !:!  !:!   :!:       :!:  !:!      
+     .::.::::     :..:     .::.::::  ::.   :::   
+     :.::.::.      ..      :.::.::.  .:.    :.:  
+                                  @@@@@@@     @@@@    @@@@@@@     @@@    @@@
+                                  @@@@@@@@   @@@@@@   @@@@@@@@    @@@   @@@
+                                  @@!  @@@  @@!  @@@  @@!  @@@    @@!  !@@
+                                  !@!  @!@  @@@  @@@  !@!  @!@    !@!  @!!
+                                  !@!  @!@  @!@  @!@  @!@!!@!     @!@@!@!
+                                  !!!  @!!  @!!@!@@!  !!@!@!      !!@!!!
+                                  !!!  !!@  !!@  !@!  !!: :!!     !!: :!!
+                                  !:!  !:!  :!:  :!:  :!:  !:!    :!:  !:!
+                                  ..:::..:  .:.  .:.  ::.   :::   .::   :::
+                                  ...:.:..  ..:  :..  .:.    :.:  .:.    :::
+                          
+Rest thy weary feet, and be our 'guest'.
+What is your name: shule
+Password: 
+You brush off some marble chips.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please, if you don't mind, check out the ooc board. There is
+a message on it that you might want to know about.
+Join the "Everdark LPmud" Facebook group for status.
+A new suggestion/idea board has been added to the info
+center below the pub. This board is to encourage players
+to share ideas and discussion on ways we could improve the
+realm. Please try to keep the suggestions on a serious note.
+We are looking for ideas on how to improve dynamics to the
+realm or new ways to improve our player base. We love our
+game just as much as you do and want to see it flourish once
+again. Enjoy your adventures and may there be many more.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Clifford tells you: 
+     You have messages in your mailbox.
+Alpertus tells you:
+     You owe BACK TAXES!!  Please pay immediately!
+     Your access to ntell will be restored upon receipt of payment.
+South hall (ne,nw).
+Alphiril Belegor
+<274/147> equip
+You wear electrum ring.
+You wield whip of colors.
+You wear symbol of Aquaris.
+The shield flows around your arm.
+You wear quicksilver shield.
+You wear the gauntlets of Durg.
+You oddly feel more powerful.
+You wear cross of gold.
+You wear thick fur coat.
+You wear ivory bangles.
+You feel your thoughts moving a little quicker.
+You wear electrum boots.
+Done.
+You blink and Alphiril disappears.
+#sc
+#ERROR: #SCAN {} - FILE NOT FOUND.
+Lainor arrives from the northeast.
+#session sc
+#THAT SESSION IS NOT DEFINED.
+Lainor leaves northwest.
+You blink and Alphiril arrives.
+#star
+Eamane arrives from the northwest.
+Alphiril leaves northeast.
+Eamane leaves northwest.
+Alphiril arrives from the northeast.
+You blink and Alphiril disappears.
+Lainor arrives from the northeast.
+You blink and Alphiril arrives.
+Lainor leaves northwest.
+Eamane arrives from the northwest.
+Alphiril leaves northeast.
+Eamane leaves northwest.
+Alphiril arrives from the northeast.
+You blink and Alphiril disappears.
+Lainor arrives from the northeast.
+Lainor leaves northwest.
+You blink and Alphiril arrives.
+Eamane arrives from the northwest.
+Alphiril leaves northeast.
+Eamane leaves northwest.
+Lainor arrives from the northeast.
+Alphiril arrives from the northeast.
+Lainor leaves northwest.
+A rocky globe of brown earth orbits Alphiril like a blur.
+You blink and Alphiril disappears.
+Eamane arrives from the northwest.
+You blink and Alphiril arrives.
+Eamane leaves northwest.
+Alphiril leaves northeast.
+Lainor arrives from the northeast.
+Lainor leaves northwest.
+You blink and Alphiril disappears.
+Eamane arrives from the northwest.
+You blink and Alphiril arrives.
+Eamane leaves northwest.
+An almost invisible circle of elemental air orbits Alphiril.
+Alphiril leaves northeast.
+Lainor arrives from the northeast.
+Lainor leaves northwest.
+Alphiril arrives from the northeast.
+Eamane arrives from the northwest.
+You blink and Alphiril disappears.
+You suddenly feel a little less powerful.
+Nothing dropped.
+Saving Shule.

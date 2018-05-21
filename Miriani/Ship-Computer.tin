@@ -1,0 +1,16 @@
+#CLASS {Ship-Computer} OPEN
+
+#ACTION {presses a complicated looking series of buttons on a navigational console.$}
+{
+	play Ship/Computer/Keyboard13.wav
+}
+{5}
+
+#ACTION {presses a series of buttons on a sensor control board.$}
+{
+	play Ship/Computer/Keyboard15.wav
+}
+{5}
+
+
+#CLASS {Ship-Computer} CLOSE

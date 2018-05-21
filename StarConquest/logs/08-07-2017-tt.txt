@@ -1,0 +1,4448 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+                          C  L  A  S  S  I  C
+Official Website: http://www.squidsoft.net
+-----------------------------------------------------------------------
+Star Conquest is a multiplayer role-playing game set in interstellar
+space, as well as on dozens of planets, space stations, and starships.
+Your goal is what you want it to be.  There are many different ways to
+make a living.  And you won't be alone; all your activities take place
+with your choice of three diverse unions as a backdrop.  And when you
+finally work your way up to one of the greatest powers in interstellar
+space, a fourth alliance of certain humans and some alien species may
+begin trying to recruit you.
+-----------------------------------------------------------------------
+Open to the public since 19 December 1998!
+All original work located in this game is copyright (c) SquidSoft.net 1998-2009,
+unauthorised reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+NOTICE: Star Conquest: Classic is offered mainly for the purposes of nostalgia
+and will receive MINIMAL support. Go to Star Conquest at telnet://squidsoft.net:
+7777 for a more active development experience and to play the game as it is
+meant to be!
+The last server reset was at Tue Apr  4 22:33:21 2017 UTC
+Contact us via email at: starconquest@squidsoft.net
+Please log in now.
+If you do not have a SquidSoft.net account and wish to create one, please send a
+web browser here: http://moo.squidsoft.net:3333/
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Rolando Caganda
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Sandbagger"; Control Room]
+Lights overhead indicate that the ship is on green status.  Looking through the
+windows, you see that the ship is at The Torus; Dock Alpha.
+You see an FTL drive tracer, a sector debris scanner, a large beanbag chair, and
+a large leather lounge couch here.
+Lileah Rose is asleep.
+You can go south and out.
+(You are sitting on a large leather lounge couch.)
+who
+There is 1 player connected:
+Rolando Caganda  (A)                                 
+sleep
+I don't understand that.
+squit
+I don't understand that.
+quit
+I don't understand that.
+quit
+I don't understand that.
+exit
+I don't understand that.
+sleep
+I don't understand that.
+[AEU | Channel 1] Darren Amari transmits, "hello"
+You have been idle for an extended period of time.  Please do something in order
+to avoid being disconnected.
+[General Communication] Darren Amari transmits, "someone should go kill those
+ifs"
+You have been idle too long.  Have a lovely evening.
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+                          C  L  A  S  S  I  C
+Official Website: http://www.squidsoft.net
+-----------------------------------------------------------------------
+Star Conquest is a multiplayer role-playing game set in interstellar
+space, as well as on dozens of planets, space stations, and starships.
+Your goal is what you want it to be.  There are many different ways to
+make a living.  And you won't be alone; all your activities take place
+with your choice of three diverse unions as a backdrop.  And when you
+finally work your way up to one of the greatest powers in interstellar
+space, a fourth alliance of certain humans and some alien species may
+begin trying to recruit you.
+-----------------------------------------------------------------------
+Open to the public since 19 December 1998!
+All original work located in this game is copyright (c) SquidSoft.net 1998-2009,
+unauthorised reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+NOTICE: Star Conquest: Classic is offered mainly for the purposes of nostalgia
+and will receive MINIMAL support. Go to Star Conquest at telnet://squidsoft.net:
+7777 for a more active development experience and to play the game as it is
+meant to be!
+The last server reset was at Tue Apr  4 22:33:21 2017 UTC
+Contact us via email at: starconquest@squidsoft.net
+Please log in now.
+If you do not have a SquidSoft.net account and wish to create one, please send a
+web browser here: http://moo.squidsoft.net:3333/
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Rolando Caganda
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Sandbagger"; Control Room]
+Lights overhead indicate that the ship is on green status.  Looking through the
+windows, you see that the ship is at The Torus; Dock Alpha.
+You see an FTL drive tracer, a sector debris scanner, a large beanbag chair, and
+a large leather lounge couch here.
+Lileah Rose is asleep.
+You can go south and out.
+(You are sitting on a large leather lounge couch.)
+l
+[Starship "Sandbagger"; Control Room]
+Lights overhead indicate that the ship is on green status.  Looking through the
+windows, you see that the ship is at The Torus; Dock Alpha.
+You see an FTL drive tracer, a sector debris scanner, a large beanbag chair, and
+a large leather lounge couch here.
+Lileah Rose is asleep.
+You can go south and out.
+(You are sitting on a large leather lounge couch.)
+peer out
+You peer out...
+[The Torus; Dock Alpha]
+The Torus docking bays consist of sterile silver-colored walls, floor, and
+ceiling. Somehow, even with people coming and going constantly, the floor is
+kept completely clean. An unknown technology allows the docking bay to remain
+open to space while holding air. You see the bright glint of a solitary
+blue-white star outside. Signs indicate that the repair and rearm facility is to
+the east, and the starship supply store is to the west.
+The three-person heavy cruiser "Refracted Reality", the one-person marauder
+"Optic Nerve", the two-person syphon "Mentally Drained", the two-person asteroid
+hauler "Smells Like Cheese", the one-person flitter "Back To Basics", the
+one-person flitter "Typical", and the two-person light freighter "Sandbagger"
+are docked here.
+You see Larry the droid, Erika the droid, a shiny blue medical drone, a
+spherical security drone, a spherical security drone, and a police drone here.
+You can go north, east, west, and down.
+who
+There are 2 players connected:
+Rolando Caganda  (A)      Darren Amari  (A) [n]      
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+
+#config {repeat enter} on
+[0m#CONFIG {REPEAT ENTER} HAS BEEN SET TO {ON}.[0m
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You notify flight control of your desire to launch.
+A voice comes over the speaker and says, "Sandbagger, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+scan
+There are no other ships or debris in this sector.
+ftl
+Would you like to see the FTL map?
+[Enter `yes' or `no']
+y
+__________________________          __________________________
+|    |    |    |    |    |          |    |    |    |    |    |
+|  1 |  2 |  3 |  4 |  5 |          | 31 | 32 | 33 | 34 | 35 |
+|    |    |    |    |    |          |    |    |    |    |    |
+|------------------------|          |------------------------|
+|    |    |    |    |    |          |    |    |    |    |    |
+|  6 |  7 |  8 |  9 | 10 |          | 36 | 37 | 38 | 39 | 40 |
+|    |    |    |    |    |          |    |    |    |    |    |
+|------------------------|          |------------------------|
+|    |    |    |    |    |          |    |    |    |    |    |
+| 11 | 12 | 13 | 14 | 15 |          | 41 | 42 | 43 | 44 | 45 |
+|    |    |    |    |    |          |    |    |    |    |    |
+|------------------------|          |------------------------|
+|    |    |    |    |    |          |    |    |    |    |    |
+| 16 | 17 | 18 | 19 | 20 |          | 46 | 47 | 48 | 49 | 50 |
+|    |    |    |    |    |          |    |    |    |    |    |
+|------------------------|          |------------------------|
+|    |    |    |    |    |          |    |    |    |    |    |
+| 21 | 22 | 23 | 24 | 25 |          | 51 | 52 | 53 | 54 | 55 |
+|    |    |    |    |    |          |    |    |    |    |    |
+|------------------------|          |------------------------|
+|    |    |    |    |    |          |    |    |    |    |    |
+| 26 | 27 | 28 | 29 | 30 |          | 56 | 57 | 58 | 59 | 60 |
+|____|____|____|____|____|          |____|____|____|____|____|
+First Thirty (Human space):
+1 == Mir (neutral)             11 == Empty Space (League)     21 == New Earth*
+(AEU)
+2 == Empty Space (UC)          12 == Shipyards (League)       22 == Bikura (AEU)
+3 == Empty Space (UC)          13 == Old Earth* (League)      23 == Hyperion
+(AEU)
+4 == Empty Space (EAOS)        14 == Capella (EAOS)           24 == Empty Space
+(Fringe)
+5 == Empty Space (EAOS)        15 == Empty Space (EAOS)       25 == Empty Space
+(Fringe)
+6 == Empty Space (UC)          16 == Empty Space (AEU)        26 == Empty Space
+(Fringe)
+7 == Empty Space (League)      17 == Empty Space (AEU)        27 == Tuxtla
+(Fringe)
+8 == Empty Space (League)      18 == Centauri (League)        28 == Chetumal*
+(Fringe)
+9 == The Torus* (EAOS)         19 == Empty Space (UC)         29 == Merida
+(Fringe)
+10 == The Artifacts (EAOS)     20 == Grenwold (neutral)       30 == Campeche
+(Fringe)
+Second Thirty (Jinu space):
+31 == Empty Space (UC)         41 == Empty Space (UC)         51 == Empty Space
+(Jinu)
+32 == Empty Space (UC)         42 == Empty Space (EAOS)       52 == Ssrugef
+(Jinu)
+33 == Empty Space (UC)         43 == Jintragef (EAOS)         53 == Gefu* (Jinu)
+34 == Empty Space (UC)         44 == Unnamed Space (League)   54 == Hrrugef
+(Jinu)
+35 == Jinrougef (Fringe)       45 == New Los Alamos (AEU)     55 == Empty Space
+(Jinu)
+36 == Empty Space (UC)         46 == Empty Space (AEU)        56 == Empty Space
+(Jinu)
+37 == Unnamed Space (Fringe)   47 == Empty Space (AEU)        57 == Ilogef
+(Jinu)
+38 == Kelrogef (Fringe)        48 == Geftra Oh Tra (Jinu)     58 == Jengeftra
+(Jinu)
+39 == Elgef (EAOS)             49 == Unnamed Space (Fringe)   59 == Yurrgef
+(Jinu)
+40 == Coalition Command* (Co.) 50 == Luktebigef (League)      60 == Empty Space
+(Jinu)
+AEU == The Alliance of Extrasolar Unions
+League == The League of Old Earth Democracies
+Fringe == The Confederation of Fringe Worlds
+EAOS == The Egalitarian Alliance of Sentients
+Jinu == The Jinu Species
+Co. == Coalition of Humans, Jinu, and Outsiders
+UC == Unclaimed
+* == Capital Sector
+Enter the number of the sector you wish to travel to.
+28
+You have selected Sector 28: Chetumal.
+y
+move
+   Planets:
+[1] Cardenas                            
+[2] Champoton                           
+[3] Chetumal                            
+   Space Stations:
+[4] Meredith                            
+---------------------------------------------------------
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: Cardenas.
+stop
+You press a button to cancel the current autopilot program.
+move
+   Planets:
+[1] Cardenas                            
+[2] Champoton                           
+[3] Chetumal                            
+   Space Stations:
+[4] Meredith                            
+---------------------------------------------------------
+Enter your destination:
+3
+A destination appears on the ship's navigation controls: Chetumal.
+Lileah Rose suddenly awakens.
+Would you like to request landing clearance at Chetumal?
+[Enter `yes' or `no']
+y
+You notify flight control of your desire to land.
+Lileah Rose wraps her arms around you.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Sandbagger.  The Fringe welcomes you to the city of Chetumal City under the
+non-aggression pact."
+smile lileah
+You smile at Lileah Rose.
+wrap lileah
+You wrap your arms around Lileah Rose.
+Lileah Rose smiles at you.
+Lileah Rose blinks.
+Lileah Rose grins at you.
+Lileah Rose asks, "so what's up?"
+'I wanted to look around Ixtapa more to see if I could figure out where to get
+the stun cannons.
+You say, "I wanted to look around Ixtapa more to see if I could figure out where
+to get the stun cannons."
+Lileah Rose asks, "oh want me to go with you?"
+Lileah Rose asks, "or would you rather i didn't?"
+smile lileah
+You smile at Lileah Rose.
+'You are always welcome to come along.,
+You say, "You are always welcome to come along.,"
+Lileah Rose joins your group.
+stand
+Lileah Rose kisses you.
+You stand up.
+-lileah I have no secrets to hide.
+You say to Lileah Rose, "I have no secrets to hide."
+grin
+You grin.
+Lileah Rose says, "well even if you do, you are entitled to some"
+Lileah Rose smiles at you.
+smile
+You smile.
+out
+[Starship "Sandbagger"; Airlock]
+You can go out and into the ship.
+Lileah Rose followed you.
+out
+[Chetumal; Landing Pad]
+The two-person light freighter "Sandbagger" is landed here.
+You see a standard banana dispenser, a standard milk dispenser, AV telepresence
+sphere SV6M-A, a trash can, a spherical security drone, a shiny blue medical
+drone, a message drone, Andrea the droid, Jackie the droid, a spherical security
+drone, Adriana the droid, Curly the droid, Debbie the droid, a spherical
+security drone, Rel the droid, Aura the droid, a shiny blue medical drone, Ob
+the droid, a shiny blue medical drone, Isaac the droid, a menacing droid called
+Boris, Begawk the droid, Poncho the droid, Kathy the droid, a shiny blue medical
+drone, a spherical security drone, Bob the droid, Xj7 the droid, Don the droid,
+a spherical security drone, a spherical security drone, a spherical security
+drone, Marisa the droid, Jess the droid, Leassa the droid, Tater the droid, a
+shiny blue medical drone, a spherical security drone, Alysa the droid, Lara the
+droid, Mark the droid, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, a shiny blue medical
+drone, and a howler monkey here.
+You see a group of sleeping people here.
+You can go north, east, west, northwest, and down.
+Lileah Rose followed you.
+'ok
+You say, "ok"
+A howler monkey jumps up and down and shrieks, "OK!"
+A howler monkey stands up on his hind legs and shrieks at a spherical security
+drone.
+e
+[Chetumal; Seaview Track]
+You see a snowman, a small mound of soil, a message drone, Delphinia the droid,
+and a police drone here.
+Jeff Smith is asleep.
+You can go north, east, south, and west.
+Lileah Rose followed you.
+'umm, where's the suborbital pod?
+You ask, "umm, where's the suborbital pod?"
+Lileah Rose says, "wrong direciton Love"
+w
+[Chetumal; Landing Pad]
+The two-person light freighter "Sandbagger" is landed here.
+You see a standard banana dispenser, a standard milk dispenser, AV telepresence
+sphere SV6M-A, a trash can, a spherical security drone, a shiny blue medical
+drone, a message drone, Andrea the droid, Jackie the droid, a spherical security
+drone, Adriana the droid, Curly the droid, Debbie the droid, a spherical
+security drone, Rel the droid, Aura the droid, a shiny blue medical drone, Ob
+the droid, a shiny blue medical drone, Isaac the droid, a menacing droid called
+Boris, Begawk the droid, Poncho the droid, Kathy the droid, a shiny blue medical
+drone, a spherical security drone, Bob the droid, Xj7 the droid, Don the droid,
+a spherical security drone, a spherical security drone, a spherical security
+drone, Marisa the droid, Jess the droid, Leassa the droid, Tater the droid, a
+shiny blue medical drone, a spherical security drone, Alysa the droid, Lara the
+droid, Mark the droid, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, a shiny blue medical
+drone, and a howler monkey here.
+You see a group of sleeping people here.
+You can go north, east, west, northwest, and down.
+Lileah Rose followed you.
+grin
+You grin.
+'figured.
+You say, "figured."
+A howler monkey jumps up and down and shrieks, "FIGURED!"
+Lileah Rose laughs.
+laugh
+You laugh.
+nw
+[Chetumal Tesla Branch]
+You see a spherical security drone here.
+Xander Sagato is asleep.
+You can go southeast.
+Lileah Rose followed you.
+A howler monkey ponderously walks in.
+se
+[Chetumal; Landing Pad]
+The two-person light freighter "Sandbagger" is landed here.
+You see a standard banana dispenser, a standard milk dispenser, AV telepresence
+sphere SV6M-A, a trash can, a spherical security drone, a shiny blue medical
+drone, a message drone, Andrea the droid, Jackie the droid, a spherical security
+drone, Adriana the droid, Curly the droid, Debbie the droid, a spherical
+security drone, Rel the droid, Aura the droid, a shiny blue medical drone, Ob
+the droid, a shiny blue medical drone, Isaac the droid, a menacing droid called
+Boris, Begawk the droid, Poncho the droid, Kathy the droid, a shiny blue medical
+drone, a spherical security drone, Bob the droid, Xj7 the droid, Don the droid,
+a spherical security drone, a spherical security drone, a spherical security
+drone, Marisa the droid, Jess the droid, Leassa the droid, Tater the droid, a
+shiny blue medical drone, a spherical security drone, Alysa the droid, Lara the
+droid, Mark the droid, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, and a shiny blue medical
+drone here.
+You see a group of sleeping people here.
+You can go north, east, west, northwest, and down.
+Lileah Rose followed you.
+s
+You can't go that way.
+w
+[Chetumal City Spaceport]
+You see an automatic teller machine here.
+Aslan Akbey and Sarah Tom are asleep.
+You can go north, northeast, east, southeast, south, southwest, west, and up.
+Lileah Rose followed you.
+'so, where?
+You ask, "so, where?"
+laugh
+You laugh.
+peer se
+You peer southeast...
+[Chetumal; Ship Shop]
+This suprisingly cramped office holds one member of personnel sitting at one
+desk. She looks very weary and looks up at you with a taste that says What fresh
+hell is this? Scale models sit on pedastals around the room and open, framed
+brochures hang on the walls. 
+You see Emiline Perillo here.
+You can go northwest.
+Lileah Rose leaves your group.
+Lileah Rose holds your hand, taking you into her group.
+Lileah Rose wraps her arms around you.
+You follow Lileah Rose north.
+[Chetumal; Mail Room]
+You see a message drone here.
+Lileah Rose is here.
+You can go south.
+wrap lileah
+You wrap your arms around Lileah Rose.
+You follow Lileah Rose south.
+[Chetumal City Spaceport]
+You see an automatic teller machine here.
+Aslan Akbey and Sarah Tom are asleep.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, southwest, west, and up.
+Lileah Rose says, "oops"
+You follow Lileah Rose east.
+[Chetumal; Landing Pad]
+The two-person light freighter "Sandbagger" is landed here.
+You see a standard banana dispenser, a standard milk dispenser, AV telepresence
+sphere SV6M-A, a trash can, a spherical security drone, a shiny blue medical
+drone, a message drone, Andrea the droid, Jackie the droid, a spherical security
+drone, Adriana the droid, Curly the droid, Debbie the droid, a spherical
+security drone, Rel the droid, Aura the droid, a shiny blue medical drone, Ob
+the droid, a shiny blue medical drone, Isaac the droid, a menacing droid called
+Boris, Begawk the droid, Poncho the droid, Kathy the droid, a shiny blue medical
+drone, a spherical security drone, Bob the droid, Xj7 the droid, Don the droid,
+a spherical security drone, a spherical security drone, a spherical security
+drone, Marisa the droid, Jess the droid, Leassa the droid, Tater the droid, a
+shiny blue medical drone, a spherical security drone, Alysa the droid, Lara the
+droid, Mark the droid, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, and a shiny blue medical
+drone here.
+You see a group of sleeping people here.
+Lileah Rose is here.
+You can go north, east, west, northwest, and down.
+A howler monkey ponderously walks in.
+You follow Lileah Rose north.
+[Chetumal; Rowan Veer]
+You see Quentin and a spherical security drone here.
+Lileah Rose is here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+You follow Lileah Rose north.
+[Chetumal; Rowan Veer]
+You see an automatic teller machine and a police drone here.
+Lileah Rose is here.
+You can go north, east, southeast, south, southwest, west, and northwest.
+You follow Lileah Rose southeast.
+[Chetumal; Suborbital Pod System]
+Lileah Rose is here.
+You can go northwest.
+'ah, ok
+You say, "ah, ok"
+transport
+Suborbital pod destinations:
+[1] Ixtapa
+Enter your selection.
+Lileah Rose nods.
+1
+Your suborbital pod ride will cost 10000 Fringe credits, in addition to a travel
+tax of 45000.00 Fringe credits.  Do you wish to pay this price?
+[Enter `yes' or `no']
+y
+You pay 55000.00 Fringe credits, and are informed that a suborbital pod will
+arrive within two minutes.
+A police drone enters the area and begins scanning.
+Lileah Rose says, "I wonder if we need to try to communicate with that dude in
+that shop."
+'maybe
+You say, "maybe"
+A police drone turns and goes northwest.
+[Suborbital Pod: Chetumal City to Ixtapa]
+You can go nowhere.
+As soon as you board the pod, it launches from the station, beginning a long arc
+above the surface.
+l
+[Suborbital Pod: Chetumal City to Ixtapa]
+Several rows of cramped seats are arranged along the walls of the pod, facing
+toward the axis. It's obvious that the pod was built for capacity rather than
+comfort.
+You can go nowhere.
+[(Frequency 373.88)] Lileah Rose transmits, "oops we got separated but i'll meet
+up with you when I get there."
+#alias metaf {use transmitter with}
+[0m#OK. {metaf} NOW ALIASES {use transmitter with} @ {5}.[0m
+metaf  Yeah, I see thaqt. ok.
+[(Frequency 373.88)] Rolando Caganda transmits, "Yeah, I see thaqt. ok."
+[(Frequency 373.88)] Lileah Rose transmits, "I suppose there weren't two seats
+available but I don't mind standing. there."
+#action {^[(Frequency} {play General/Comm/Metaf.wav}
+[0m#OK. {^[(Frequency} NOW TRIGGERS {play General/Comm/Metaf.wav} @ {5}.[0m
+The suborbital pod reaches the top of its arc, coming to a gradual stop before
+beginning to plummet back to the surface.
+metaf Maybe. Well, I'll meet you when you get here.
+[(Frequency 373.88)] Rolando Caganda transmits, "Maybe. Well, I'll meet you when
+you get here."
+The pod's braking thrusters suddenly kick in, abruptly slowing the pod as it
+nears the surface.
+The pod settles onto the ground, and you depart.
+[Ixtapa; Suborbital Pod System]
+You can go west.
+A suborbital transport pod arrives and some passengers depart.
+hold lileah
+You hold Lileah Rose's hand, taking her into your group.
+kiss lileah
+You kiss Lileah Rose.
+Lileah Rose smiles at you.
+w
+[Ixtapa; City Apex]
+You see an automatic teller machine here.
+You can go north, east, and southeast.
+Lileah Rose followed you.
+n
+[Ixtapa; City Apex]
+You can go northeast and south.
+Lileah Rose followed you.
+Lileah Rose kisses you.
+ne
+[Ixtapa; City Apex]
+You can go southeast and southwest.
+Lileah Rose followed you.
+se
+[Ixtapa; City Apex]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+e
+[Ixtapa; Ramp]
+You can go west and down.
+Lileah Rose followed you.
+d
+[Ixtapa; Ramp]
+You can go east and up.
+Lileah Rose followed you.
+e
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'Bettie's Pets!' and 'The Ice Cream Factory' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+e
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'All For 99 Credits!' and 'Handley Down's' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+e
+[Ixtapa; Upper Commercial Square]
+You can go north, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'The Porcelain Emporium' here.
+Lileah Rose is here.
+You can go north, south, and west.
+e
+You can't go that way.
+s
+[Ixtapa; Upper Commercial Square]
+You can go north and west.
+Lileah Rose followed you.
+Lileah Rose pounts south
+s
+You can't go that way.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Ixtapa Security Systems, Inc.' here.
+Lileah Rose is here.
+You can go north and west.
+go security
+[Ixtapa Security Systems, Inc.]
+You can go out.
+Lileah Rose followed you.
+l
+[Ixtapa Security Systems, Inc.]
+You see nothing special here. Nothing at all. Everything is as it should be.
+There is nothing out of the ordinary. Really. There is a very ordinary man
+standing behind an ordinary counter, waiting for your ordinary order. Ordinary.
+Lileah Rose is here.
+You can go out.
+talk man
+I don't understand that.
+l
+[Ixtapa Security Systems, Inc.]
+You see nothing special here. Nothing at all. Everything is as it should be.
+There is nothing out of the ordinary. Really. There is a very ordinary man
+standing behind an ordinary counter, waiting for your ordinary order. Ordinary.
+Lileah Rose is here.
+You can go out.
+Lileah Rose says, "hmm"
+list
+    ~|~  Ixtapa Security Systems, Inc.  ~|~
+    [1] Weapon Detector                     7000000.00
+    [2] Stun Trap                           5000000.00
+'hmm
+You say, "hmm"
+l
+[Ixtapa Security Systems, Inc.]
+You see nothing special here. Nothing at all. Everything is as it should be.
+There is nothing out of the ordinary. Really. There is a very ordinary man
+standing behind an ordinary counter, waiting for your ordinary order. Ordinary.
+Lileah Rose is here.
+You can go out.
+Lileah Rose says, "stun cannon"
+go
+Go where?
+Lileah Rose asks, "'where do I find a cannon?"
+go counter
+Go where?
+Lileah Rose searches around the area.
+search
+You search around the area.
+l
+[Ixtapa Security Systems, Inc.]
+You see nothing special here. Nothing at all. Everything is as it should be.
+There is nothing out of the ordinary. Really. There is a very ordinary man
+standing behind an ordinary counter, waiting for your ordinary order. Ordinary.
+Lileah Rose is here.
+You can go out.
+Lileah Rose says, "ordinary"
+Lileah Rose says, "hmm"
+go ordinary
+Go where?
+go counter
+Go where?
+menu
+    ~|~  Ixtapa Security Systems, Inc.  ~|~
+    [1] Weapon Detector                     7000000.00
+    [2] Stun Trap                           5000000.00
+'Hmm, guess we'll have to look where we don't expect it.
+You say, "Hmm, guess we'll have to look where we don't expect it."
+frown
+You frown.
+Lileah Rose says, "yeah"
+out
+[Ixtapa; Upper Commercial Square]
+You can go north and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Ixtapa Security Systems, Inc.' here.
+Lileah Rose is here.
+You can go north and west.
+w
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Sarah's Super Dark Confectionary and Sensual Delights Shop' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+w
+[Ixtapa; Upper Commercial Square]
+You can go north and east.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Crazy Uncle Larry's Furniture and Outfittings' here.
+Lileah Rose is here.
+You can go north and east.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Crazy Uncle Larry's Furniture and Outfittings' here.
+Lileah Rose is here.
+You can go north and east.
+n
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+n
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Bookeroo, Mate' here.
+Lileah Rose is here.
+You can go east, south, and northwest.
+Lileah Rose says, "we've already been there but"
+nod
+You nod.
+e
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'Two O'Clock Posters!' and 'Tricky's Magic Shoppe' here.
+Lileah Rose is here.
+You can go east, south, and west.
+Lileah Rose asks, "guess we need to find a shop which has perhaps a back room?"
+'maybe
+You say, "maybe"
+'question is.... hwere?
+You ask, "question is.... hwere?"
+Lileah Rose says, "no idea Love"
+go magic
+[Tricky's Magic Shoppe]
+You see a magic wand here.
+You can go out.
+Lileah Rose followed you.
+'not here
+You say, "not here"
+list
+    ~|~  Tricky's Magic Shoppe  ~|~
+Magic
+    [1] Top Hat                             40000.00
+    [2] Cape                                40000.00
+    [3] Wand                                10000.00
+    [4] Rabbit                              500.00
+    [5] Dove                                500.00
+Novelties
+    [6] Exploding Candy                     1000.00
+    [7] Fish Candy                          1000.00
+    [8] Fake Doggie Poo                     20000.00
+    [9] Vomit                               20000.00
+    [10] Rattlesnake Eggs                   15000.00
+    [11] Cockroach                          50.00
+    [12] Rubber Chicken                     30000.00
+    [13] Whoopee Cushion                    50000.00
+out
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and west.
+Lileah Rose followed you.
+e
+[Ixtapa; Upper Commercial Square]
+You can go south and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Eye Of The Beholder' here.
+Lileah Rose is here.
+You can go south and west.
+go eye
+[Eye Of The Beholder]
+You see Wilton here.
+You can go east and out.
+Lileah Rose followed you.
+e
+[Eye Of The Beholder; Frames Etc.]
+You can go west.
+Lileah Rose followed you.
+list
+    ~|~  Frames  ~|~
+Standard
+    [1] Black                               100000.00
+    [2] White                               100000.00
+    [3] Grey                                100000.00
+    [4] Red                                 100000.00
+    [5] Blue                                100000.00
+    [6] Green                               100000.00
+Metal
+    [7] Gold                                500000.00
+    [8] Silver                              500000.00
+    [9] Bronze                              500000.00
+    [10] Titanium                           750000.00
+    [11] Rhodium                            750000.00
+Other
+    [12] Heart                              1000000.00
+    [13] Fuzzy                              1000000.00
+    [14] Flower                             1000000.00
+    [15] Elk                                1000000.00
+    [16] Fish                               1000000.00
+    [17] Styrofoam                          1000000.00
+    [18] Bead                               1000000.00
+    [19] Seashell                           1000000.00
+    [20] Skull                              1000000.00
+Photo Albums
+    [21] Simple                             1000.00
+    [22] Elegant                            5000.00
+    [23] Fancy                              6500.00
+w
+[Eye Of The Beholder]
+You see Wilton here.
+You can go east and out.
+Lileah Rose followed you.
+who
+There are 2 players connected:
+Lileah Rose  (A)          Rolando Caganda  (A)       
+l wilton
+Wilton
+You see a metallic silver humanoid robot.
+It is nude.
+talk wilton
+I don't understand that.
+out
+[Ixtapa; Upper Commercial Square]
+You can go south and west.
+Lileah Rose followed you.
+s
+[Ixtapa; Upper Commercial Square]
+You can go north, south, and west.
+Lileah Rose followed you.
+'I wonder if it's up by  the transport pods?
+You ask, "I wonder if it's up by  the transport pods?"
+'or suborbital pod
+You say, "or suborbital pod"
+Lileah Rose says, "I think I looked but can always try"
+w
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+w
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+w
+[Ixtapa; Ramp]
+You can go east and up.
+Lileah Rose followed you.
+u
+[Ixtapa; Ramp]
+You can go west and down.
+Lileah Rose followed you.
+l
+[Ixtapa; Ramp]
+You stand on the upper part of a ramp. You glance uneasily over one side at the
+lower levels below you. The ramp slopes smoothly downwards.
+Lileah Rose is here.
+You can go west and down.
+w
+[Ixtapa; City Apex]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+l
+[Ixtapa; City Apex]
+You stand at the apex of Ixtapa, a city of cement ramps and plasteel towers,
+with a greater height than width. The rails along the edge of the hexagonal apex
+form a rather inadequate windbreak, and the force of the wind continually pushes
+you against other people and into various immobile objects. Teenagers accelerate
+past you on reactionless footjets, braking abruptly in front of stores or
+apartments, or skimming at reckless speeds down ramps leading to lower levels. A
+section of missing rail to the east turns out, upon careful examination, to lead
+to a steep ramp.
+Lileah Rose is here.
+You can go east, south, and northwest.
+l
+[Ixtapa; City Apex]
+You stand at the apex of Ixtapa, a city of cement ramps and plasteel towers,
+with a greater height than width. The rails along the edge of the hexagonal apex
+form a rather inadequate windbreak, and the force of the wind continually pushes
+you against other people and into various immobile objects. Teenagers accelerate
+past you on reactionless footjets, braking abruptly in front of stores or
+apartments, or skimming at reckless speeds down ramps leading to lower levels. A
+section of missing rail to the east turns out, upon careful examination, to lead
+to a steep ramp.
+Lileah Rose is here.
+You can go east, south, and northwest.
+s
+[Ixtapa; City Apex]
+You can go north and southwest.
+Lileah Rose followed you.
+l
+[Ixtapa; City Apex]
+You stand at the apex of Ixtapa, a city of cement ramps and plasteel towers,
+with a greater height than width. The rails along the edge of the hexagonal apex
+form a rather inadequate windbreak, and the force of the wind continually pushes
+you against other people and into various immobile objects. Teenagers accelerate
+past you on reactionless footjets, braking abruptly in front of stores or
+apartments, or skimming at reckless speeds down ramps leading to lower levels.
+Lileah Rose is here.
+You can go north and southwest.
+sw
+[Ixtapa; City Apex]
+You can go northeast and northwest.
+Lileah Rose followed you.
+l
+[Ixtapa; City Apex]
+You stand at the apex of Ixtapa, a city of cement ramps and plasteel towers,
+with a greater height than width. The rails along the edge of the hexagonal apex
+form a rather inadequate windbreak, and the force of the wind continually pushes
+you against other people and into various immobile objects. Teenagers accelerate
+past you on reactionless footjets, braking abruptly in front of stores or
+apartments, or skimming at reckless speeds down ramps leading to lower levels.
+Lileah Rose is here.
+You can go northeast and northwest.
+sw
+You can't go that way.
+nw
+[Ixtapa; City Apex]
+You see an automatic teller machine here.
+You can go north, east, and southeast.
+Lileah Rose followed you.
+n
+[Ixtapa; City Apex]
+You can go northeast and south.
+Lileah Rose followed you.
+l
+[Ixtapa; City Apex]
+You stand at the apex of Ixtapa, a city of cement ramps and plasteel towers,
+with a greater height than width. The rails along the edge of the hexagonal apex
+form a rather inadequate windbreak, and the force of the wind continually pushes
+you against other people and into various immobile objects. Teenagers accelerate
+past you on reactionless footjets, braking abruptly in front of stores or
+apartments, or skimming at reckless speeds down ramps leading to lower levels.
+Lileah Rose is here.
+You can go northeast and south.
+ne
+[Ixtapa; City Apex]
+You can go southeast and southwest.
+Lileah Rose followed you.
+l
+[Ixtapa; City Apex]
+You stand at the apex of Ixtapa, a city of cement ramps and plasteel towers,
+with a greater height than width. The rails along the edge of the hexagonal apex
+form a rather inadequate windbreak, and the force of the wind continually pushes
+you against other people and into various immobile objects. Teenagers accelerate
+past you on reactionless footjets, braking abruptly in front of stores or
+apartments, or skimming at reckless speeds down ramps leading to lower levels.
+Lileah Rose is here.
+You can go southeast and southwest.
+se
+[Ixtapa; City Apex]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+l
+[Ixtapa; City Apex]
+You stand at the apex of Ixtapa, a city of cement ramps and plasteel towers,
+with a greater height than width. The rails along the edge of the hexagonal apex
+form a rather inadequate windbreak, and the force of the wind continually pushes
+you against other people and into various immobile objects. Teenagers accelerate
+past you on reactionless footjets, braking abruptly in front of stores or
+apartments, or skimming at reckless speeds down ramps leading to lower levels. A
+section of missing rail to the east turns out, upon careful examination, to lead
+to a steep ramp.
+Lileah Rose is here.
+You can go east, south, and northwest.
+'ok, not up here
+You say, "ok, not up here"
+d
+You can't go that way.
+e
+[Ixtapa; Ramp]
+You can go west and down.
+Lileah Rose followed you.
+l
+[Ixtapa; Ramp]
+You stand on the upper part of a ramp. You glance uneasily over one side at the
+lower levels below you. The ramp slopes smoothly downwards.
+Lileah Rose is here.
+You can go west and down.
+Lileah Rose nods.
+d
+[Ixtapa; Ramp]
+You can go east and up.
+Lileah Rose followed you.
+l
+[Ixtapa; Ramp]
+You stand on the lower part of a ramp. You glance upwards at the tangled expanse
+of the city's higher points. The ramp slopes smoothly upwards.
+Lileah Rose is here.
+You can go east and up.
+ponder
+You ponder for a moment and reflect.
+'ok, I guess it's time to check out every shop then.
+You say, "ok, I guess it's time to check out every shop then."
+chuckle
+You chuckle.
+Lileah Rose chuckles.
+Lileah Rose exclaims, "yeah good excuse!"
+'This ummm, could get interesting.
+You say, "This ummm, could get interesting."
+laugh
+Lileah Rose tickles you.
+You laugh.
+e
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'Bettie's Pets!' and 'The Ice Cream Factory' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+go bet
+[Bettie's Pets!]
+You see a dead ol' dog, a dead ol' dog, and a fluffy dead stuffed kitten here.
+You can go out.
+Lileah Rose followed you.
+'ugh
+You say, "ugh"
+out
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+Lileah Rose says, "oh god this makes me want to cry"
+'yeah
+You say, "yeah"
+'me too
+You say, "me too"
+go ice
+[The Ice Cream Factory]
+You can go out.
+Lileah Rose followed you.
+list
+    ~|~  The Ice Cream Factory  ~|~
+    [1] Vanilla                             300.00
+    [2] Chocolate                           300.00
+    [3] Strawberry                          300.00
+    [4] Cherry                              300.00
+    [5] Raspberry                           300.00
+    [6] Mint Chip                           300.00
+    [7] Cotton Candy                        300.00
+    [8] Pistachio                           300.00
+    [9] Polish Sausage                      300.00
+    [10] Elk Milk                           300.00
+    [11] Coffee                             300.00
+Lileah Rose says, "im so glad you left that place"
+'Yeah, I didn't want to hang out very long
+You say, "Yeah, I didn't want to hang out very long"
+You fight the urge to cover your ears as Lileah Rose yells, "call the
+authorities on this pet shop"
+out
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+n
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Bookeroo, Mate' here.
+Lileah Rose is here.
+You can go east, south, and northwest.
+'ugh, here goes nothing
+You say, "ugh, here goes nothing"
+go book
+[Bookeroo, Mate]
+You see a discreet trash can here.
+You can go out.
+Lileah Rose followed you.
+Lileah Rose is briefly waylaid by a small midget, then allowed to pass.
+A small midget walks up to you and asks, "May I see some ID? Oh, never mind,
+it's you. You're in here enough so I don't need to check it anymore."
+Lileah Rose laughs.
+laugh
+You laugh.
+list
+    ~|~  'Books'  ~|~
+'Reading' Accessories
+    [1] Fuzzy Pasties                       200000.00
+    [2] Strawberry Edible Panties           300000.00
+    [3] Cotton Candy Panties                400000.00
+    [4] Strap On                            450000.00
+    [5] Flavored lube                       500000.00
+    [6] Butt Plug                           100000.00
+    [7] Cock Ring                           250000.00
+    [8] Inflatable Love Elk                 1000000.00
+'Captivating' Tales
+    [9] Fur-Lined Wrist Restraints          400000.00
+    [10] Fur-Lined Ankle Restraints         400000.00
+    [11] Soft Leather Whip                  250000.00
+'ummm, don't think we need anything here.
+You say, "ummm, don't think we need anything here."
+Lileah Rose orders a pair of strawberry-flavoured edible panties.
+Lileah Rose giggles quietly.
+'oh
+You say, "oh"
+laugh
+You laugh.
+Lileah Rose puts a pair of strawberry-flavoured edible panties in a handbag.
+Lileah Rose orders a pair of cotton candy-flavoured edible panties.
+Lileah Rose puts a pair of cotton candy-flavoured edible panties in a handbag.
+chuckle
+You chuckle.
+grin lileah
+You grin at Lileah Rose.
+Lileah Rose orders some flavored lubricant.
+-lileah I didn't think you'd be the type to buy stuff in here.
+You say to Lileah Rose, "I didn't think you'd be the type to buy stuff in here."
+Lileah Rose says, "uh this other stuff ..."
+nod lileah
+You nod to Lileah Rose.
+Lileah Rose puts some flavored lubricant in a handbag.
+-lileah Love, I refuse to handcuff you.
+You say to Lileah Rose, "Love, I refuse to handcuff you."
+Lileah Rose exclaims, "if you do i'll kill you later!"
+Lileah Rose laughs.
+Lileah Rose kisses you.
+laugh
+You laugh.
+kiss lileah
+You kiss Lileah Rose.
+'ok, we done here?
+You ask, "ok, we done here?"
+Lileah Rose says, "or please no whips and chains. I am not violent"
+Lileah Rose says, "yes"
+kiss lileah
+You kiss Lileah Rose.
+Lileah Rose kisses you.
+-lileah Never even crossed my mind.
+You say to Lileah Rose, "Never even crossed my mind."
+out
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+e
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'Two O'Clock Posters!' and 'Tricky's Magic Shoppe' here.
+Lileah Rose is here.
+You can go east, south, and west.
+go posters
+[Two O'Clock Posters!]
+You can go out.
+Lileah Rose followed you.
+list
+    ~|~  Two O'Clock Posters!  ~|~
+Posters!
+    [1] Powerpuff Girls                     75.00
+    [2] Novelty "Wanted"                    75.00
+    [3] Heavy metal                         75.00
+    [4] ALF                                 75.00
+    [5] Sexy pinup                          75.00
+    [6] Vanilla Ice                         75.00
+    [7] Edward Gorey                        75.00
+    [8] ICP                                 75.00
+    [9] Spice Girls                         75.00
+    [10] Orange                             75.00
+    [11] Elk                                75.00
+    [12] Blacklight responsive              75.00
+Lileah Rose says, "ughl"
+Lileah Rose grins.
+chuckle
+You chuckle.
+grin
+You grin.
+Lileah Rose says, "wow these are depressing"
+'Want anything here?
+You ask, "Want anything here?"
+'Because I don't.
+You say, "Because I don't."
+Lileah Rose exclaims, "uh no!"
+'good
+You say, "good"
+out
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and west.
+Lileah Rose followed you.
+e
+[Ixtapa; Upper Commercial Square]
+You can go south and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Eye Of The Beholder' here.
+Lileah Rose is here.
+You can go south and west.
+'ok, we've been there
+You say, "ok, we've been there"
+s
+[Ixtapa; Upper Commercial Square]
+You can go north, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'The Porcelain Emporium' here.
+Lileah Rose is here.
+You can go north, south, and west.
+'and there
+You say, "and there"
+w
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+Lileah Rose nods.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'All For 99 Credits!' and 'Handley Down's' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+go all
+[All For 99 Credits!]
+You see a thrilling ninja action playset here.
+You can go out.
+Lileah Rose followed you.
+list
+    ~|~  Everything's 99.00!  ~|~
+Useless Junk
+    [1] Neon Fanny Pack                     99.00
+    [2] Irregular Pantyhose                 99.00
+    [3] Space Ranger Playset                99.00
+    [4] Ninja Playset                       99.00
+    [5] Hair Net                            99.00
+    [6] Cheap Plastic Cowboy Pistol         99.00
+    [7] Mr. T Air Freshener                 99.00
+    [8] Cracked Turtle Chia Pet             99.00
+Less Than Fine Apparel
+    [9] Irregular Offwhite T-shirt          99.00
+    [10] White Slip-on Sneakers             99.00
+    [11] Black Slip-on Sneakers             99.00
+    [12] Water-stained Bra                  99.00
+Lileah Rose laughs.
+chuckle
+You chuckle.
+l
+[All For 99 Credits!]
+You've been in a lot of 99 credit stores in your day, but this one clearly takes
+the cake. Untidy stacks of water-stained, fire-damaged and moth-eaten clothes,
+bookworm-infested books, half-melted candles, pop culture throwbacks and various
+Jesus-themed dinnerware litter the entire space. The narrow aisles are hardly
+big enough to accomodate one person at a time, yet the store always seems to be
+filled and busy. A loud kid fights with his sister over who gets the Ninja
+playset and who has to play with the near-sentient can of beets. You're thrilled
+that you came.
+You see a thrilling ninja action playset here.
+Lileah Rose is here.
+You can go out.
+out
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'All For 99 Credits!' and 'Handley Down's' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+Lileah Rose says, "hey they have cheap sneakers"
+'true
+You say, "true"
+'well, maybe we'll go back
+You say, "well, maybe we'll go back"
+go hand
+[Handley Down's]
+You can go out.
+Lileah Rose followed you.
+list
+    ~|~  Handley Down's  ~|~
+T-Shirts
+    [1] Green V-Neck (Lee's Country Restau  290.00
+    [2] Splotchy Tie-Dye (Ixtapastock '58)  290.00
+    [3] XXL Neon Red (Mac's Used Ships)     290.00
+    [4] Ripped White Sleeveless (Chetumal   290.00
+    [5] Black w/Neon Letters (S.P.A.M)      290.00
+    [6] Stained White (Blank)               290.00
+    [7] Black w/Scary Letters (Killer Hams  290.00
+Lileah Rose glances around.
+Lileah Rose laughs.
+'nothing here I want
+You say, "nothing here I want"
+laugh
+You laugh.
+Lileah Rose says, "wow i hope these poor souls can afford more than that"
+nod
+You nod.
+out
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+w
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see stores called 'Bettie's Pets!' and 'The Ice Cream Factory' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+s
+[Ixtapa; Upper Commercial Square]
+You can go north and east.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Crazy Uncle Larry's Furniture and Outfittings' here.
+Lileah Rose is here.
+You can go north and east.
+e
+[Ixtapa; Upper Commercial Square]
+l
+You can go north, east, south, and west.
+Lileah Rose followed you.
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Sarah's Super Dark Confectionary and Sensual Delights Shop' here.
+Lileah Rose is here.
+You can go north, east, south, and west.
+go sarah
+[Sarah's Super Dark Confectionary and Sensual Delights Shop]
+You can go north and out.
+Lileah Rose followed you.
+peer n
+You peer north...
+[Sarah's Super Dark Confectionary and Sensual Room o' Secrets]
+The room is dark, and secret. Oddly shaped boxes are strewn about the small
+room. Some have skull and crossbone labels, others are labeled with a strange
+writing resembling hieroglyphics.
+You can go south.
+list
+    ~|~  Sarah's Super Dark Confectionary and Sensual Delights Shop  ~|~
+Ring Pops
+    [1] Strawberry                          250.00
+    [2] Raspberry                           250.00
+    [3] Grape                               250.00
+Novelty Candy
+    [4] Neon Gummy Worms                    200.00
+    [5] Gummy Jinu                          500.00
+    [6] Chocolate-Coated Juggernaut         10000.00
+    [7] Flitter With Almonds                7000.00
+    [8] Candy Asteroid                      15000.00
+    [9] Penis Hard Candy                    20000.00
+    [10] Candy Asteroid Kit                 50000.00
+    [11] Candy Necklace                     600.00
+Lileah Rose giggles quietly.
+chuckle
+You chuckle.
+Lileah Rose orders a colorful candy necklace.
+Lileah Rose puts a colorful candy necklace in a handbag.
+Lileah Rose orders some penis hard candy.
+Lileah Rose orders some penis hard candy.
+Lileah Rose giggles quietly.
+chuckle
+You chuckle.
+Lileah Rose puts some penis hard candy in a handbag.
+Lileah Rose puts some penis hard candy in a handbag.
+Lileah Rose orders a strawberry ring pop.
+Lileah Rose gives you a strawberry ring pop.
+Lileah Rose orders a strawberry ring pop.
+'Thanks
+You say, "Thanks"
+Lileah Rose says, "sure"
+wear ring
+You put on a strawberry ring pop.
+Lileah Rose takes a bite of a strawberry ring pop.
+eat ring
+You take a bite of a strawberry ring pop.
+n
+[Sarah's Super Dark Confectionary and Sensual Room o' Secrets]
+You can go south.
+Lileah Rose followed you.
+Lileah Rose takes a bite of a strawberry ring pop.
+list
+    ~|~  Sarah's Super Dark Confectionary and Sensual Room o' Secrets  ~|~
+    [1] Fringe pop                          50000.00
+    [2] Poisoned Candy                      100000.00
+Lileah Rose takes a bite of a strawberry ring pop.
+Lileah Rose takes a bite of a strawberry ring pop.
+Lileah Rose says, "hmm"
+s
+[Sarah's Super Dark Confectionary and Sensual Delights Shop]
+You can go north and out.
+Lileah Rose followed you.
+'oh, sorry
+You say, "oh, sorry"
+n
+[Sarah's Super Dark Confectionary and Sensual Room o' Secrets]
+You can go south.
+Lileah Rose followed you.
+Lileah Rose asks, "wow?"
+Lileah Rose takes a bite of a strawberry ring pop.
+chuckle
+You chuckle.
+Lileah Rose chuckles.
+eat ring
+You take a bite of a strawberry ring pop.
+s
+[Sarah's Super Dark Confectionary and Sensual Delights Shop]
+You can go north and out.
+Lileah Rose followed you.
+out
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+e
+[Ixtapa; Upper Commercial Square]
+You can go north and west.
+Lileah Rose followed you.
+l
+[Ixtapa; Upper Commercial Square]
+You stand on a large cement platform, held in place by heavy titanium alloy
+supports. A milling crowd surrounds you, and you find it nearly impossible to
+see anything through all the people around you. Stores and other commercial
+structures have been constructed at random intervals across the platform. You
+see the store 'Ixtapa Security Systems, Inc.' here.
+Lileah Rose is here.
+You can go north and west.
+w
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+s
+[Ixtapa; Ramp]
+You can go north and down.
+Lileah Rose followed you.
+l
+[Ixtapa; Ramp]
+You stand on the upper part of a ramp. You glance uneasily over one side at the
+lower levels below you. The ramp slopes smoothly downwards.
+Lileah Rose is here.
+You can go north and down.
+Lileah Rose takes a bite of a strawberry ring pop.
+Lileah Rose takes a bite of a strawberry ring pop.
+Lileah Rose finishes off a strawberry ring pop.
+d
+[Ixtapa; Ramp]
+You can go south and up.
+Lileah Rose followed you.
+l
+[Ixtapa; Ramp]
+You stand on the lower part of a ramp. You glance upwards at the tangled expanse
+of the city's higher points. The ramp slopes smoothly upwards.
+Lileah Rose is here.
+You can go south and up.
+s
+[Ixtapa; Tunnel Opening]
+You can go north.
+Lileah Rose followed you.
+l
+[Ixtapa; Tunnel Opening]
+You stand upon a small section of concrete, which is completely enclosed by the
+city walls, except for a ramp leading north and a section of rail overlooking
+the city edge to the south. A tunnel extends through the concrete wall to the
+northwest, and people pass in and out of it continually. A pair of guards stand
+near the tunnel opening, and both frown at you as they recognize you as an
+outsider.
+Lileah Rose is here.
+You can go north.
+l
+[Ixtapa; Tunnel Opening]
+You stand upon a small section of concrete, which is completely enclosed by the
+city walls, except for a ramp leading north and a section of rail overlooking
+the city edge to the south. A tunnel extends through the concrete wall to the
+northwest, and people pass in and out of it continually. A pair of guards stand
+near the tunnel opening, and both frown at you as they recognize you as an
+outsider.
+Lileah Rose is here.
+You can go north.
+Lileah Rose says, "hmm"
+'ready to see what's in the tunnel?
+You ask, "ready to see what's in the tunnel?"
+peer n
+You peer north...
+[Ixtapa; Ramp]
+You stand on the lower part of a ramp. You glance upwards at the tangled expanse
+of the city's higher points. The ramp slopes smoothly upwards.
+You can go south and up.
+'ready?
+You ask, "ready?"
+Lileah Rose says, "yes"
+go tunnel
+Go where?
+nw
+You can't go that way.
+go tunnel
+Go where?
+'oh
+You say, "oh"
+'hmmm
+You say, "hmmm"
+enter
+Board what?
+Lileah Rose says, "hmm wait"
+Lileah Rose says, "ok nope"
+Lileah Rose kisses you.
+kiss lileah
+You kiss Lileah Rose.
+'we can't go there/
+You say, "we can't go there/"
+Lileah Rose says, "I was just looking around for another passage"
+'Ah, ok
+You say, "Ah, ok"
+go tunnel
+Go where?
+Lileah Rose says, "no clue though"
+l
+[Ixtapa; Tunnel Opening]
+You stand upon a small section of concrete, which is completely enclosed by the
+city walls, except for a ramp leading north and a section of rail overlooking
+the city edge to the south. A tunnel extends through the concrete wall to the
+northwest, and people pass in and out of it continually. A pair of guards stand
+near the tunnel opening, and both frown at you as they recognize you as an
+outsider.
+Lileah Rose is here.
+You can go north.
+nw
+You can't go that way.
+go nw
+Go where?
+go tunnel
+Go where?
+go wall
+Go where?
+peer tunnel
+That doesn't seem to be a valid direction.
+s
+You can't go that way.
+'hmmm, guess we're not aloud to go there
+You say, "hmmm, guess we're not aloud to go there"
+Lileah Rose nods.
+n
+[Ixtapa; Ramp]
+You can go south and up.
+Lileah Rose followed you.
+u
+[Ixtapa; Ramp]
+You can go north and down.
+Lileah Rose followed you.
+l
+[Ixtapa; Ramp]
+You stand on the upper part of a ramp. You glance uneasily over one side at the
+lower levels below you. The ramp slopes smoothly downwards.
+Lileah Rose is here.
+You can go north and down.
+n
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+n
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+n
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and west.
+Lileah Rose followed you.
+'hmm
+You say, "hmm"
+'I have no idea.
+You say, "I have no idea."
+w
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+'Unless it's somewhere in those tunnels
+You say, "Unless it's somewhere in those tunnels"
+[General Communication] A howler monkey transmits, "OK!"
+who
+There are 2 players connected:
+Lileah Rose  (A)          Rolando Caganda  (A)       
+'ok, brace yourself.
+You say, "ok, brace yourself."
+'ugh
+You say, "ugh"
+Lileah Rose says, "yeah eww"
+nw
+[Ixtapa; Dark Tunnel]
+You can go southeast and west.
+Lileah Rose followed you.
+w
+[Ixtapa; Dark Tunnel]
+You can go east and northwest.
+Lileah Rose followed you.
+nw
+[Ixtapa; Dark Tunnel]
+You can go north and southeast.
+Lileah Rose followed you.
+n
+[Ixtapa; Dark Tunnel]
+You can go south and west.
+Lileah Rose followed you.
+w
+[Ixtapa; Pit]
+You can go east and up.
+Lileah Rose followed you.
+u
+[Ixtapa; Ledge]
+You can go northeast and down.
+Lileah Rose followed you.
+l
+[Ixtapa; Ledge]
+You are standing upon a ledge only a few meters wide, which runs for a short
+distance along Ixtapa's outer wall. You glance over the edge occasionally, but
+your vision is obscured by mist and various city pollutions long before the
+surface becomes visible.
+Lileah Rose is here.
+You can go northeast and down.
+ne
+[Ixtapa; Ledge]
+You can go northeast and southwest.
+Lileah Rose followed you.
+ne
+[Ixtapa; Ledge]
+You can go east and southwest.
+Lileah Rose followed you.
+e
+[Ixtapa; Ledge]
+You can go west.
+Lileah Rose followed you.
+l
+[Ixtapa; Ledge]
+You are standing upon a ledge only a few meters wide, which runs for a short
+distance along Ixtapa's outer wall. You glance over the edge occasionally, but
+your vision is obscured by mist and various city pollutions long before the
+surface becomes visible. The section of ledge ends in a thick wall, which
+extends upward to the top of the city. A nearby dark corner is partially eroded.
+Lileah Rose is here.
+You can go west.
+l corner
+I see no "corner" here.
+l
+[Ixtapa; Ledge]
+You are standing upon a ledge only a few meters wide, which runs for a short
+distance along Ixtapa's outer wall. You glance over the edge occasionally, but
+your vision is obscured by mist and various city pollutions long before the
+surface becomes visible. The section of ledge ends in a thick wall, which
+extends upward to the top of the city. A nearby dark corner is partially eroded.
+Lileah Rose is here.
+You can go west.
+go corner
+[Ixtapa; Dark Corner]
+You can go out.
+Lileah Rose followed you.
+list
+I don't understand that.
+l
+[Ixtapa; Dark Corner]
+You find yourself standing in a corner formed by two of Ixtapa's outer walls,
+which are effectively blocking out all sunlight. Squinting at the eroded
+concrete, you notice more damage than was originally visible. In fact, something
+has eaten a large tunnel through the concrete, and you see a dim light at the
+other end.
+Lileah Rose is here.
+You can go out.
+Lileah Rose says, "wait"
+'ick
+You say, "ick"
+'ok
+You say, "ok"
+l
+[Ixtapa; Dark Corner]
+You find yourself standing in a corner formed by two of Ixtapa's outer walls,
+which are effectively blocking out all sunlight. Squinting at the eroded
+concrete, you notice more damage than was originally visible. In fact, something
+has eaten a large tunnel through the concrete, and you see a dim light at the
+other end.
+Lileah Rose is here.
+You can go out.
+l tunnel
+I see no "tunnel" here.
+Lileah Rose just went into a hole in the concrete.
+go hole
+[Ixtapa; Cramped Tunnel]
+Lileah Rose is here.
+You can go southeast.
+'hi
+You say, "hi"
+hold lilea
+You hold Lileah Rose's hand, taking her into your group.
+Lileah Rose grins at you.
+kiss lileah
+You kiss Lileah Rose.
+list
+I don't understand that.
+se
+[Ixtapa; Artificial Cavern]
+You can go north, south, and northwest.
+Lileah Rose followed you.
+l
+[Ixtapa; Artificial Cavern]
+A miniature city seems to have been built here, deep within Ixtapa. A cluster of
+lights, some of them functional, has been suspended from the ceiling. Groups of
+buildings of various sizes extend toward the back of the cavern, to the east.
+Small, dark people glance at you suspiciously as they go about their obscure
+business. Some barely-recognizable modern version of electronic music blasts
+loudly from somewhere in the northern part of the cavern.
+Lileah Rose is here.
+You can go north, south, and northwest.
+l
+Lileah Rose says, "wow"
+[Ixtapa; Artificial Cavern]
+A miniature city seems to have been built here, deep within Ixtapa. A cluster of
+lights, some of them functional, has been suspended from the ceiling. Groups of
+buildings of various sizes extend toward the back of the cavern, to the east.
+Small, dark people glance at you suspiciously as they go about their obscure
+business. Some barely-recognizable modern version of electronic music blasts
+loudly from somewhere in the northern part of the cavern.
+Lileah Rose is here.
+You can go north, south, and northwest.
+n
+[Ixtapa; Artificial Cavern]
+You can go east and south.
+Lileah Rose followed you.
+l
+[Ixtapa; Artificial Cavern]
+The light is more dim here, and the densely-packed clusters of buildings close
+in on you. Small, poorly-maintained droids carry large boxes of materials back
+and forth among the buildings. You feel constantly watched by the inhabitants of
+the cavern, although they are rarely visible. A small path snakes through the
+buildings to the east.
+Lileah Rose is here.
+You can go east and south.
+e
+[Artificial Cavern; Path]
+You can go southeast and west.
+Lileah Rose followed you.
+list
+I don't understand that.
+l
+[Artificial Cavern; Path]
+This path is almost completely unlit, and you wonder how the inhabitants of the
+cavern manage to navigate among their closely-packed buildings. You suspect that
+you are being avoided, as the dark, flitting shapes you saw from beyond the path
+have now gone. You share the path with only automated droids, which clank
+heavily along the concrete as they move past you.
+Lileah Rose is here.
+You can go southeast and west.
+se
+[Artificial Cavern; Path]
+You can go east and northwest.
+Lileah Rose followed you.
+l
+[Artificial Cavern; Path]
+This path is almost completely unlit, and you wonder how the inhabitants of the
+cavern manage to navigate among their closely-packed buildings. You suspect that
+you are being avoided, as the dark, flitting shapes you saw from beyond the path
+have now gone. You share the path with only automated droids, which clank
+heavily along the concrete as they move past you.
+Lileah Rose is here.
+You can go east and northwest.
+e
+[Artificial Cavern; Path]
+You can go east, southwest, and west.
+Lileah Rose followed you.
+l
+[Artificial Cavern; Path]
+This path is almost completely unlit, and you wonder how the inhabitants of the
+cavern manage to navigate among their closely-packed buildings. You suspect that
+you are being avoided, as the dark, flitting shapes you saw from beyond the path
+have now gone. You share the path with only automated droids, which clank
+heavily along the concrete as they move past you. A shorter path branches off to
+the east, while the main path continues to the southwest.
+Lileah Rose is here.
+You can go east, southwest, and west.
+e
+[Artificial Cavern; Dead End]
+You can go west.
+Lileah Rose followed you.
+l
+[Artificial Cavern; Dead End]
+You guess that this short path is somewhere in the center of this small cavern
+city. You are still being avoided by the cavern's inhabitants, with a single
+exception: a large metal door is slightly ajar, and is the only open door in
+sight.
+Lileah Rose is here.
+You can go west.
+go door
+[Cavern City; Weapons and Armor Shop]
+You see a trash bin here.
+You can go out.
+Lileah Rose followed you.
+list
+    ~|~  Cavern Weapons and Armor  ~|~
+Weapons
+    [1] Stun Gun                            50000.00
+    [2] Stun Rifle                          100000.00
+    [3] Stun Cannon                         300000.00
+    [4] Power Cartridge                     300.00
+    [5] High-Capacity Power Cartridge       500.00
+Stun Armor
+     Standard Armor
+    [6] Upper Body                          20000000.00
+    [7] Lower Body                          20000000.00
+    [8] Gloves                              5000000.00
+    [9] Boots                               5000000.00
+    [10] Helmet                             10000000.00
+     Vacuum-Protected Armor
+    [11] Upper Body                         30000000.00
+    [12] Lower Body                         30000000.00
+    [13] Gloves                             15000000.00
+    [14] Boots                              15000000.00
+    [15] Helmet                             20000000.00
+Holsters and Slings
+    [16] Concealed Hip Holster              10000.00
+    [17] Concealed Shoulder Sling           20000.00
+Specialty Items
+    [18] Stun Turret-Equipped Gloves        40000000.00
+Other Accessories
+    [19] Cartridge Container                200000.00
+Lileah Rose says, "wow"
+\cheer
+You cheer.
+'We found it!
+You exclaim, "We found it!"
+Lileah Rose says, "wow"
+'That was hard to get to!
+You exclaim, "That was hard to get to!"
+Lileah Rose orders a black unmarked stun cannon.
+Lileah Rose gives you a black unmarked stun cannon.
+Lileah Rose orders a black unmarked stun cannon.
+'thanks
+You say, "thanks"
+wear cannon
+You can't wear a black unmarked stun cannon.
+list
+    ~|~  Cavern Weapons and Armor  ~|~
+Weapons
+    [1] Stun Gun                            50000.00
+    [2] Stun Rifle                          100000.00
+    [3] Stun Cannon                         300000.00
+    [4] Power Cartridge                     300.00
+    [5] High-Capacity Power Cartridge       500.00
+Stun Armor
+     Standard Armor
+    [6] Upper Body                          20000000.00
+    [7] Lower Body                          20000000.00
+    [8] Gloves                              5000000.00
+    [9] Boots                               5000000.00
+    [10] Helmet                             10000000.00
+     Vacuum-Protected Armor
+    [11] Upper Body                         30000000.00
+    [12] Lower Body                         30000000.00
+    [13] Gloves                             15000000.00
+    [14] Boots                              15000000.00
+    [15] Helmet                             20000000.00
+Holsters and Slings
+    [16] Concealed Hip Holster              10000.00
+    [17] Concealed Shoulder Sling           20000.00
+Specialty Items
+    [18] Stun Turret-Equipped Gloves        40000000.00
+Other Accessories
+    [19] Cartridge Container                200000.00
+Lileah Rose says, "sure I only have a ocuple mil so we'll have to come back I
+guess"
+put cannon in briefcase
+You put a black unmarked stun cannon in a leather briefcase.
+Lileah Rose orders a stun power cartridge storage container.
+l
+[Cavern City; Weapons and Armor Shop]
+You look about uneasily as the shop's owner, one of the small, dark cavern
+inhabitants, glares at you from behind a counter. Various bits of stun armor and
+illegal-looking weapons are scattered haphazardly about the shop. You feel
+inclined to either make a purchase or quickly leave.
+You see a trash bin here.
+Lileah Rose is here.
+You can go out.
+Lileah Rose gives you a stun power cartridge storage container.
+'Thanks
+You say, "Thanks"
+Lileah Rose says, "hmm already had one"
+'ah, ok
+You say, "ah, ok"
+wear container
+You put on a stun power cartridge storage container.
+Lileah Rose orders a high-capacity stun power cartridge.
+Lileah Rose quickly reloads a black unmarked stun cannon.
+list
+    ~|~  Cavern Weapons and Armor  ~|~
+Weapons
+    [1] Stun Gun                            50000.00
+    [2] Stun Rifle                          100000.00
+    [3] Stun Cannon                         300000.00
+    [4] Power Cartridge                     300.00
+    [5] High-Capacity Power Cartridge       500.00
+Stun Armor
+     Standard Armor
+    [6] Upper Body                          20000000.00
+    [7] Lower Body                          20000000.00
+    [8] Gloves                              5000000.00
+    [9] Boots                               5000000.00
+    [10] Helmet                             10000000.00
+     Vacuum-Protected Armor
+    [11] Upper Body                         30000000.00
+    [12] Lower Body                         30000000.00
+    [13] Gloves                             15000000.00
+    [14] Boots                              15000000.00
+    [15] Helmet                             20000000.00
+Holsters and Slings
+    [16] Concealed Hip Holster              10000.00
+    [17] Concealed Shoulder Sling           20000.00
+Specialty Items
+    [18] Stun Turret-Equipped Gloves        40000000.00
+Other Accessories
+    [19] Cartridge Container                200000.00
+Lileah Rose puts a black unmarked stun cannon in a leather rifle sling.
+Lileah Rose orders a high-capacity stun power cartridge.
+buy 5
+You order a high-capacity stun power cartridge.
+get cannon
+You remove a black unmarked stun cannon from a leather briefcase.
+load cannon
+You quickly reload a black unmarked stun cannon.
+Lileah Rose says, "hmm"
+put cannon in briefcase
+You put a black unmarked stun cannon in a leather briefcase.
+buy 5
+You order a high-capacity stun power cartridge.
+put cartrage in container
+I see no "cartrage".
+Lileah Rose loads a high-capacity stun power cartridge into a stun power
+cartridge storage container.
+Lileah Rose says, "aha"
+put cart in container
+You can't put a high-capacity stun power cartridge in a stun power cartridge
+storage container.
+load container
+You load a high-capacity stun power cartridge into a stun power cartridge
+storage container.
+Lileah Rose orders a high-capacity stun power cartridge.
+grin
+You grin.
+Lileah Rose gives you a high-capacity stun power cartridge.
+Lileah Rose orders a high-capacity stun power cartridge.
+Lileah Rose gives you a high-capacity stun power cartridge.
+'oh, I got one. Thanks
+You say, "oh, I got one. Thanks"
+Lileah Rose orders a high-capacity stun power cartridge.
+load cart
+You can't load a high-capacity stun power cartridge.
+load container
+You load a high-capacity stun power cartridge into a stun power cartridge
+storage container.
+Lileah Rose loads a high-capacity stun power cartridge into a stun power
+cartridge storage container.
+load container
+You load a high-capacity stun power cartridge into a stun power cartridge
+storage container.
+list
+    ~|~  Cavern Weapons and Armor  ~|~
+Weapons
+    [1] Stun Gun                            50000.00
+    [2] Stun Rifle                          100000.00
+    [3] Stun Cannon                         300000.00
+    [4] Power Cartridge                     300.00
+    [5] High-Capacity Power Cartridge       500.00
+Stun Armor
+     Standard Armor
+    [6] Upper Body                          20000000.00
+    [7] Lower Body                          20000000.00
+    [8] Gloves                              5000000.00
+    [9] Boots                               5000000.00
+    [10] Helmet                             10000000.00
+     Vacuum-Protected Armor
+    [11] Upper Body                         30000000.00
+    [12] Lower Body                         30000000.00
+    [13] Gloves                             15000000.00
+    [14] Boots                              15000000.00
+    [15] Helmet                             20000000.00
+Holsters and Slings
+    [16] Concealed Hip Holster              10000.00
+    [17] Concealed Shoulder Sling           20000.00
+Specialty Items
+    [18] Stun Turret-Equipped Gloves        40000000.00
+Other Accessories
+    [19] Cartridge Container                200000.00
+buy 16
+You order a concealed hip holster.
+Lileah Rose says, "I guess when I bought my rifle, I bought ammo too"
+wear holster
+You put on a concealed hip holster.
+get cannon
+You remove a black unmarked stun cannon from a leather briefcase.
+holster cannon
+I don't understand that.
+Try this instead:  holster cannon in
+holster cannon in holster
+You deftly insert a black unmarked stun cannon into a concealed hip holster with
+lightning speed.
+'there
+You say, "there"
+grin
+You grin.
+'Nice.
+You say, "Nice."
+'I grabbed a holster too
+You say, "I grabbed a holster too"
+Lileah Rose exclaims, "wow those gloves look neat!"
+Lileah Rose says, "but i don't have 40 mil fringe right now"
+list
+    ~|~  Cavern Weapons and Armor  ~|~
+Weapons
+    [1] Stun Gun                            50000.00
+    [2] Stun Rifle                          100000.00
+    [3] Stun Cannon                         300000.00
+    [4] Power Cartridge                     300.00
+    [5] High-Capacity Power Cartridge       500.00
+Stun Armor
+     Standard Armor
+    [6] Upper Body                          20000000.00
+    [7] Lower Body                          20000000.00
+    [8] Gloves                              5000000.00
+    [9] Boots                               5000000.00
+    [10] Helmet                             10000000.00
+     Vacuum-Protected Armor
+    [11] Upper Body                         30000000.00
+    [12] Lower Body                         30000000.00
+    [13] Gloves                             15000000.00
+    [14] Boots                              15000000.00
+    [15] Helmet                             20000000.00
+Holsters and Slings
+    [16] Concealed Hip Holster              10000.00
+    [17] Concealed Shoulder Sling           20000.00
+Specialty Items
+    [18] Stun Turret-Equipped Gloves        40000000.00
+Other Accessories
+    [19] Cartridge Container                200000.00
+nod
+You nod.
+Lileah Rose orders a concealed hip holster.
+Lileah Rose puts on a concealed hip holster.
+grin lileah
+You grin at Lileah Rose.
+-lileah Now you're armed and dangerous.
+You say to Lileah Rose, "Now you're armed and dangerous."
+Lileah Rose draws a black unmarked stun cannon from a leather rifle sling with
+lightning speed.
+Lileah Rose opens a concealed hip holster.
+Lileah Rose puts a black unmarked stun cannon in a concealed hip holster.
+Lileah Rose says, "ther"
+Lileah Rose says, "laugh"
+grin
+You grin.
+Lileah Rose laughs.
+laugh
+You laugh.
+'ready?
+You ask, "ready?"
+Lileah Rose says, "well there is other ammo available elsewhere love"
+'ok
+You say, "ok"
+grin
+You grin.
+'are we done here then?
+You ask, "are we done here then?"
+Lileah Rose says, "we'll have to come back sometime though"
+grin
+You grin.
+Lileah Rose grins at you.
+nod lileah
+You nod to Lileah Rose.
+'ready?
+You ask, "ready?"
+Lileah Rose says, "yep"
+out
+[Artificial Cavern; Dead End]
+You can go west.
+Lileah Rose followed you.
+w
+[Artificial Cavern; Path]
+You can go east, southwest, and west.
+Lileah Rose followed you.
+w
+[Artificial Cavern; Path]
+You can go east and northwest.
+Lileah Rose followed you.
+nw
+[Artificial Cavern; Path]
+You can go southeast and west.
+Lileah Rose followed you.
+w
+[Ixtapa; Artificial Cavern]
+You can go east and south.
+Lileah Rose followed you.
+s
+[Ixtapa; Artificial Cavern]
+You can go north, south, and northwest.
+Lileah Rose followed you.
+nw
+[Ixtapa; Cramped Tunnel]
+You can go southeast.
+Lileah Rose followed you.
+go hole
+[Ixtapa; Dark Corner]
+You can go out.
+Lileah Rose followed you.
+out
+[Ixtapa; Ledge]
+You can go west.
+Lileah Rose followed you.
+w
+[Ixtapa; Ledge]
+You can go east and southwest.
+Lileah Rose followed you.
+sw
+[Ixtapa; Ledge]
+You can go northeast and southwest.
+Lileah Rose followed you.
+sw
+[Ixtapa; Ledge]
+You can go northeast and down.
+Lileah Rose followed you.
+d
+[Ixtapa; Pit]
+You can go east and up.
+Lileah Rose followed you.
+e
+[Ixtapa; Dark Tunnel]
+You can go south and west.
+Lileah Rose followed you.
+s
+[Ixtapa; Dark Tunnel]
+You can go north and southeast.
+Lileah Rose followed you.
+se
+[Ixtapa; Dark Tunnel]
+You can go east and northwest.
+Lileah Rose followed you.
+e
+[Ixtapa; Dark Tunnel]
+You can go southeast and west.
+Lileah Rose followed you.
+se
+[Ixtapa; Upper Commercial Square]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+s
+[Ixtapa; Upper Commercial Square]
+You can go north, east, south, and west.
+Lileah Rose followed you.
+w
+[Ixtapa; Ramp]
+You can go east and up.
+Lileah Rose followed you.
+u
+[Ixtapa; Ramp]
+You can go west and down.
+Lileah Rose followed you.
+nw
+You can't go that way.
+w
+[Ixtapa; City Apex]
+You can go east, south, and northwest.
+Lileah Rose followed you.
+nw
+[Ixtapa; City Apex]
+sw
+You can go southeast and southwest.
+Lileah Rose followed you.
+Lileah Rose says, "phew"
+[Ixtapa; City Apex]
+You can go northeast and south.
+Lileah Rose followed you.
+s
+[Ixtapa; City Apex]
+You see an automatic teller machine here.
+You can go north, east, and southeast.
+Lileah Rose followed you.
+e
+[Ixtapa; Suborbital Pod System]
+You can go west.
+Lileah Rose followed you.
+transport
+Suborbital pod destinations:
+[1] Chetumal City
+Enter your selection.
+1
+Your suborbital pod ride will cost 10000 Fringe credits.  Do you wish to pay
+this price?
+[Enter `yes' or `no']
+y
+You pay 10000.00 Fringe credits, and are informed that a suborbital pod will
+arrive within two minutes.
+Lileah Rose says, "sec"
+'oh
+You say, "oh"
+'ok
+You say, "ok"
+'I bought the ticket
+You say, "I bought the ticket"
+Lileah Rose says, "how many give 100000 fringe to rolando"
+Lileah Rose says, "oops"
+Lileah Rose gives you 100000.00 Fringe credits.
+'Thanks
+You say, "Thanks"
+Lileah Rose exclaims, "there we can go home!"
+Lileah Rose laughs.
+laugh
+You laugh.
+'I already bought the ticket
+You say, "I already bought the ticket"
+grin
+You grin.
+credits
+You punch a few commands into your personal credit assistant and receive the
+following display:
+Your credit summary:
+282185003.53 AEU credits
+0.00 League credits
+159000.00 Fringe credits
+19752468.20 EAOS credits
+78 Jinu credits
+Total if all credits were converted: 302280987.32 AEU credits
+Lileah Rose says, "oops"
+Lileah Rose kisses you.
+[Suborbital Pod: Ixtapa to Chetumal City]
+You can go nowhere.
+Lileah Rose followed you.
+As soon as you board the pod, it launches from the station, beginning a long arc
+above the surface.
+Lileah Rose says, "woo"
+Lileah Rose wraps her arms around you.
+kiss lileah
+You kiss Lileah Rose.
+Lileah Rose kisses you.
+wrap lileah
+You wrap your arms around Lileah Rose.
+'We found it though.
+You say, "We found it though."
+grin
+You grin.
+Lileah Rose says, "I'm glad we found those. I don't like weapons but"
+nod
+You nod.
+Lileah Rose says, "things are so desolate"
+nod
+You nod.
+cuddle lileah
+You cuddle up to Lileah Rose.
+Lileah Rose cuddles up to you.
+The suborbital pod reaches the top of its arc, coming to a gradual stop before
+beginning to plummet back to the surface.
+Lileah Rose squeezes you affectionately.
+squeeze lileah
+You squeeze Lileah Rose affectionately.
+The pod's braking thrusters suddenly kick in, abruptly slowing the pod as it
+nears the surface.
+The pod settles onto the ground, and you depart.
+[Chetumal; Suborbital Pod System]
+You can go northwest.
+nw
+[Chetumal; Rowan Veer]
+You see an automatic teller machine here.
+You can go north, east, southeast, south, southwest, west, and northwest.
+Lileah Rose followed you.
+s
+[Chetumal; Rowan Veer]
+You see Quentin, a spherical security drone, and a police drone here.
+You can go north, northeast, east, southeast, south, west, and northwest.
+Lileah Rose followed you.
+s
+[Chetumal; Landing Pad]
+The two-person light freighter "Sandbagger" is landed here.
+You see a standard banana dispenser, a standard milk dispenser, AV telepresence
+sphere SV6M-A, a trash can, a spherical security drone, a shiny blue medical
+drone, a message drone, Andrea the droid, Jackie the droid, a spherical security
+drone, Adriana the droid, Curly the droid, Debbie the droid, a spherical
+security drone, Rel the droid, Aura the droid, a shiny blue medical drone, Ob
+the droid, a shiny blue medical drone, Isaac the droid, a menacing droid called
+Boris, Begawk the droid, Poncho the droid, Kathy the droid, a shiny blue medical
+drone, a spherical security drone, Bob the droid, Xj7 the droid, Don the droid,
+a spherical security drone, a spherical security drone, a spherical security
+drone, Marisa the droid, Jess the droid, Leassa the droid, Tater the droid, a
+shiny blue medical drone, a spherical security drone, Alysa the droid, Lara the
+droid, Mark the droid, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, and a shiny blue medical
+drone here.
+You see a group of sleeping people here.
+You can go north, east, west, northwest, and down.
+Lileah Rose followed you.
+enter sand
+Some lights on the two-person light freighter "Sandbagger" suddenly flash
+several times.
+[Starship "Sandbagger"; Airlock]
+You can go out and into the ship.
+Lileah Rose followed you.
+enter
+[Starship "Sandbagger"; Control Room]
+You see an FTL drive tracer, a sector debris scanner, a large beanbag chair, and
+a large leather lounge couch here.
+You can go south and out.
+Lileah Rose followed you.
+Lileah Rose says to you, "there is a very nice mall here if you need to do any
+shopping sometime."
+'Ah, ok
+You say, "Ah, ok"
+smile
+You smile.
+Lileah Rose says, "just go south on thar road south of Sea view and go into the
+mall"
+Lileah Rose smiles at you.
+smile
+You smile.
+'ok
+You say, "ok"
+Lileah Rose sits down on a large leather lounge couch.
+sit couch
+You sit down on a large leather lounge couch.
+Lileah Rose says, "your call Love I'll ride along"
+Lileah Rose grins.
+grin
+You grin.
+launch
+You notify flight control of your desire to launch.
+A voice comes over the speaker and says, "Sandbagger, you are given launch
+clearance under the AEU-Fringe non-aggression pact."
+storage
+There is nothing in the storage hold.
+Storage capacity: 200000 units
+ftl 16
+move
+Lileah Rose says, "don't be afraid I forgot to look closer at the cannon"
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+Lileah Rose laughs.
+'What?
+You ask, "What?"
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of industrial slag.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+Lileah Rose draws a black unmarked stun cannon from a concealed hip holster with
+lightning speed.
+Lileah Rose quickly examines the power level and setting of a black unmarked
+stun cannon.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+Lileah Rose says, "sec"
+Lileah Rose stands up.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of radium.
+Lileah Rose just went south.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+draw cannon
+I don't understand that.
+Try this instead:  draw cannon from
+draw cannon from holster
+A concealed hip holster isn't open.
+open holster
+You open a concealed hip holster.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+draw annon from holster
+I see no "annon" in a concealed hip holster.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+drifting cloud of tritium.
+draw annon from holster
+I see no "annon" in a concealed hip holster.
+Lileah Rose just arrived.
+draw cannon from holster
+You draw a black unmarked stun cannon from a concealed hip holster with
+lightning speed.
+Lileah Rose says, "ok you might want to adjust its power"
+l cannon
+You are wielding a black unmarked stun cannon for speed.
+You see that the weapon has 9 shots left.
+It is set to low power.
+'oh
+You say, "oh"
+Lileah Rose puts a black unmarked stun cannon in a concealed hip holster.
+adjust cannon
+You can't adjust a black unmarked stun cannon.
+use cannon
+You shift your grip on a black unmarked stun cannon, opting for accuracy over
+speed.
+use cannon
+You shift your grip on a black unmarked stun cannon, making ready to use it at a
+moment's notice.
+Lileah Rose ducks!
+Lileah Rose laughs.
+chuckle
+You chuckle.
+power cannon
+I don't understand that.
+Try this instead:  power
+Lileah Rose says, "I'll bring in the nurse droid and we should try them
+sometime"
+Lileah Rose laughs.
+set cannon to high
+You set a black unmarked stun cannon to the high setting.
+laugh
+You laugh.
+l cannon
+You are wielding a black unmarked stun cannon for speed.
+You see that the weapon has 9 shots left.
+It is set to high power.
+Lileah Rose removes a sleek gray stun rifle from a leather rifle sling.
+Lileah Rose quickly examines the power level and setting of a sleek gray stun
+rifle.
+holster cannon in holster
+You deftly insert a black unmarked stun cannon into a concealed hip holster with
+lightning speed.
+sal
+You instruct the computer to begin scanning for debris.
+Lileah Rose sets a sleek gray stun rifle to the high setting.
+Scanning reveals no nearby debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+Lileah Rose puts a sleek gray stun rifle in a leather rifle sling.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+Lileah Rose says, "i'll get a concealed one for that one later"
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of radium.
+girn
+You grin.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+Lileah Rose says, "concealed"
+A destination appears on the ship's navigation controls: Debris.
+Lileah Rose sits down on a large leather lounge couch.
+sal
+You instruct the computer to begin scanning for debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+The debris is now secured in the ship's hold.  Scanning reveals it to be an
+abandoned storage pod.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be an
+abandoned storage pod.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of titanium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+stray nebular matter.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a ball
+of neutronium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of gold.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of radium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a ball
+of frozen water.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of radium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of titanium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+defunct sector probe.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+defunct sector probe.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of titanium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+drifting cloud of tritium.
+move
+   Space Stations:
+6
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+A destination appears on the ship's navigation controls: Debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+single spacesuit glove.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+stray nebular matter.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a ball
+of frozen water.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of gold.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+drifting cloud of tritium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+detached hull plate.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be an
+abandoned storage pod.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of industrial slag.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+drifting cloud of tritium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a ball
+of neutronium.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+detached sensor component.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of rock and organic materials.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+detached hull plate.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+You're already there.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+defunct sector probe.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+[General Communication] A howler monkey transmits, "FIGURED!"
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be an
+abandoned storage pod.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+salsal
+I don't understand that.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+detached hull plate.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of gold.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+Scanning reveals no nearby debris.
+sal
+You instruct the computer to begin scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+---------------------------------------------------------
+Enter your destination:
+7
+Invalid selection.
+condense
+Autopilot condense off.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris (nearest)                    
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+[26] Debris                             
+[27] Debris                             
+---------------------------------------------------------
+Enter your destination:
+7
+You're already there.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris (nearest)                    
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+[26] Debris                             
+[27] Debris                             
+---------------------------------------------------------
+Enter your destination:
+8
+A destination appears on the ship's navigation controls: Debris.
+storage
+Storage hold contents:
+Name:                                     Units:
+-----                                     ------
+A chunk of industrial slag                12111
+A chunk of radium                         1531
+A drifting cloud of tritium               568
+A chunk of radium                         1696
+An abandoned storage pod                  23
+An abandoned storage pod                  24
+A chunk of titanium                       1254
+Some stray nebular matter                 309
+A ball of neutronium                      71947
+A chunk of gold                           988
+A chunk of radium                         1601
+A ball of frozen water                    1361
+A chunk of radium                         1542
+A chunk of titanium                       1300
+A defunct sector probe                    250
+A defunct sector probe                    206
+A chunk of titanium                       1449
+A drifting cloud of tritium               592
+A single spacesuit glove                  1
+Some stray nebular matter                 338
+A ball of frozen water                    1335
+A chunk of gold                           921
+A drifting cloud of tritium               577
+A detached hull plate                     108
+An abandoned storage pod                  21
+A chunk of industrial slag                10567
+A drifting cloud of tritium               540
+A ball of neutronium                      74813
+A detached sensor component               3925
+A chunk of rock and organic materials     2484
+A detached hull plate                     101
+A defunct sector probe                    218
+An abandoned storage pod                  24
+A detached hull plate                     116
+A chunk of gold                           934
+                                        
+Weight capacity:                          200000
+Total weight:                           - 195775
+                                          ----
+Remaining weight capacity:              = 4225
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be an old
+engine casing.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris                              
+[8] Debris (nearest)                    
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+[26] Debris                             
+[27] Debris                             
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+Lileah Rose cuddles up to you.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+detached hull plate.
+mvoe
+I don't understand that.
+6move
+I don't understand that.
+6move
+I don't understand that.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris                              
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris (nearest)                   
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+[26] Debris                             
+---------------------------------------------------------
+Enter your destination:
+6
+A destination appears on the ship's navigation controls: Debris.
+stop
+You press a button to cancel the current autopilot program.
+Lileah Rose kisses you.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris                              
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris (nearest)                   
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+[26] Debris                             
+[27] Debris                             
+---------------------------------------------------------
+Enter your destination:
+8
+A destination appears on the ship's navigation controls: Debris.
+kiss lileah
+You kiss Lileah Rose.
+cuddle liley
+I can't find "liley."
+Lileah Rose smiles at you.
+Lileah Rose presses a button, calling up a display of the contents of the ship's
+hold.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+stray nebular matter.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris (nearest)                    
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+[26] Debris                             
+---------------------------------------------------------
+Enter your destination:
+8
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a chunk
+of gold.
+storage
+Storage hold contents:
+Name:                                     Units:
+-----                                     ------
+A chunk of industrial slag                12111
+A chunk of radium                         1531
+A drifting cloud of tritium               568
+A chunk of radium                         1696
+An abandoned storage pod                  23
+An abandoned storage pod                  24
+A chunk of titanium                       1254
+Some stray nebular matter                 309
+A ball of neutronium                      71947
+A chunk of gold                           988
+A chunk of radium                         1601
+A ball of frozen water                    1361
+A chunk of radium                         1542
+A chunk of titanium                       1300
+A defunct sector probe                    250
+A defunct sector probe                    206
+A chunk of titanium                       1449
+A drifting cloud of tritium               592
+A single spacesuit glove                  1
+Some stray nebular matter                 338
+A ball of frozen water                    1335
+A chunk of gold                           921
+A drifting cloud of tritium               577
+A detached hull plate                     108
+An abandoned storage pod                  21
+A chunk of industrial slag                10567
+A drifting cloud of tritium               540
+A ball of neutronium                      74813
+A detached sensor component               3925
+A chunk of rock and organic materials     2484
+A detached hull plate                     101
+A defunct sector probe                    218
+An abandoned storage pod                  24
+A detached hull plate                     116
+A chunk of gold                           934
+An old engine casing                      247
+A detached hull plate                     104
+Some stray nebular matter                 334
+A chunk of gold                           968
+                                        
+Weight capacity:                          200000
+Total weight:                           - 197428
+                                          ----
+Remaining weight capacity:              = 2572
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris                              
+[8] Debris (nearest)                    
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+---------------------------------------------------------
+Enter your destination:
+8
+A destination appears on the ship's navigation controls: Debris (nearest).
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be an
+abandoned storage pod.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris                              
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris (nearest)                   
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+---------------------------------------------------------
+Enter your destination:
+8
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+storage
+Storage hold contents:
+Name:                                     Units:
+-----                                     ------
+A chunk of industrial slag                12111
+A chunk of radium                         1531
+A drifting cloud of tritium               568
+A chunk of radium                         1696
+An abandoned storage pod                  23
+An abandoned storage pod                  24
+A chunk of titanium                       1254
+Some stray nebular matter                 309
+A ball of neutronium                      71947
+A chunk of gold                           988
+A chunk of radium                         1601
+A ball of frozen water                    1361
+A chunk of radium                         1542
+A chunk of titanium                       1300
+A defunct sector probe                    250
+A defunct sector probe                    206
+A chunk of titanium                       1449
+A drifting cloud of tritium               592
+A single spacesuit glove                  1
+Some stray nebular matter                 338
+A ball of frozen water                    1335
+A chunk of gold                           921
+A drifting cloud of tritium               577
+A detached hull plate                     108
+An abandoned storage pod                  21
+A chunk of industrial slag                10567
+A drifting cloud of tritium               540
+A ball of neutronium                      74813
+A detached sensor component               3925
+A chunk of rock and organic materials     2484
+A detached hull plate                     101
+A defunct sector probe                    218
+An abandoned storage pod                  24
+A detached hull plate                     116
+A chunk of gold                           934
+An old engine casing                      247
+A detached hull plate                     104
+Some stray nebular matter                 334
+A chunk of gold                           968
+An abandoned storage pod                  25
+                                        
+Weight capacity:                          200000
+Total weight:                           - 197453
+                                          ----
+Remaining weight capacity:              = 2547
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris                              
+[8] Debris (nearest)                    
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+[25] Debris                             
+---------------------------------------------------------
+Enter your destination:
+9
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be a
+carbonaceous chondrite asteroid.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris                              
+[7] Debris                              
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris (nearest)                   
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+---------------------------------------------------------
+Enter your destination:
+9
+A destination appears on the ship's navigation controls: Debris.
+storage
+Storage hold contents:
+Name:                                     Units:
+-----                                     ------
+A chunk of industrial slag                12111
+A chunk of radium                         1531
+A drifting cloud of tritium               568
+A chunk of radium                         1696
+An abandoned storage pod                  23
+An abandoned storage pod                  24
+A chunk of titanium                       1254
+Some stray nebular matter                 309
+A ball of neutronium                      71947
+A chunk of gold                           988
+A chunk of radium                         1601
+A ball of frozen water                    1361
+A chunk of radium                         1542
+A chunk of titanium                       1300
+A defunct sector probe                    250
+A defunct sector probe                    206
+A chunk of titanium                       1449
+A drifting cloud of tritium               592
+A single spacesuit glove                  1
+Some stray nebular matter                 338
+A ball of frozen water                    1335
+A chunk of gold                           921
+A drifting cloud of tritium               577
+A detached hull plate                     108
+An abandoned storage pod                  21
+A chunk of industrial slag                10567
+A drifting cloud of tritium               540
+A ball of neutronium                      74813
+A detached sensor component               3925
+A chunk of rock and organic materials     2484
+A detached hull plate                     101
+A defunct sector probe                    218
+An abandoned storage pod                  24
+A detached hull plate                     116
+A chunk of gold                           934
+An old engine casing                      247
+A detached hull plate                     104
+Some stray nebular matter                 334
+A chunk of gold                           968
+An abandoned storage pod                  25
+A carbonaceous chondrite asteroid         1411
+                                        
+Weight capacity:                          200000
+Total weight:                           - 198864
+                                          ----
+Remaining weight capacity:              = 1136
+sal
+You instruct the computer to begin scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be an old
+engine casing.
+move
+   Space Stations:
+[1] Space Station Alpha                 
+[2] Ameliorate Space Center (Dock Alpha)
+[3] Ameliorate Space Center (Dock Beta) 
+[4] Ameliorate Space Center (Dock Gamma)
+[5] Ameliorate Space Center (Dock Delta)
+   Debris:
+[6] Debris (nearest)                    
+[7] Debris                              
+[8] Debris                              
+[9] Debris                              
+[10] Debris                             
+[11] Debris                             
+[12] Debris                             
+[13] Debris                             
+[14] Debris                             
+[15] Debris                             
+[16] Debris                             
+[17] Debris                             
+[18] Debris                             
+[19] Debris                             
+[20] Debris                             
+[21] Debris                             
+[22] Debris                             
+[23] Debris                             
+[24] Debris                             
+---------------------------------------------------------
+Enter your destination:
+9
+A destination appears on the ship's navigation controls: Debris.
+sal
+You instruct the computer to begin scanning for debris.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+storage
+Storage hold contents:
+Name:                                     Units:
+-----                                     ------
+A chunk of industrial slag                12111
+A chunk of radium                         1531
+A drifting cloud of tritium               568
+A chunk of radium                         1696
+An abandoned storage pod                  23
+An abandoned storage pod                  24
+A chunk of titanium                       1254
+Some stray nebular matter                 309
+A ball of neutronium                      71947
+A chunk of gold                           988
+A chunk of radium                         1601
+A ball of frozen water                    1361
+A chunk of radium                         1542
+A chunk of titanium                       1300
+A defunct sector probe                    250
+A defunct sector probe                    206
+A chunk of titanium                       1449
+A drifting cloud of tritium               592
+A single spacesuit glove                  1
+Some stray nebular matter                 338
+A ball of frozen water                    1335
+A chunk of gold                           921
+A drifting cloud of tritium               577
+A detached hull plate                     108
+An abandoned storage pod                  21
+A chunk of industrial slag                10567
+A drifting cloud of tritium               540
+A ball of neutronium                      74813
+A detached sensor component               3925
+A chunk of rock and organic materials     2484
+A detached hull plate                     101
+A defunct sector probe                    218
+An abandoned storage pod                  24
+A detached hull plate                     116
+A chunk of gold                           934
+An old engine casing                      247
+A detached hull plate                     104
+Some stray nebular matter                 334
+A chunk of gold                           968
+An abandoned storage pod                  25
+A carbonaceous chondrite asteroid         1411
+An old engine casing                      247
+                                        
+Weight capacity:                          200000
+Total weight:                           - 199111
+                                          ----
+Remaining weight capacity:              = 889
+'ok, I hope that ship isn't still there.
+You say, "ok, I hope that ship isn't still there."
+ftl 21
+scan
+Debris in this sector:
+[1] Debris at 6 units
+[2] Debris at 13 units
+[3] Debris at 9 units
+[4] Debris at 1 unit
+[5] Debris at 15 units
+[6] Debris at 11 units
+[7] Debris at 13 units
+[8] Debris at 4 units
+[9] Debris at 8 units
+[10] Debris at 2 units
+[11] Debris at 10 units
+[12] Debris at 6 units
+[13] Debris at 13 units
+[14] Debris at 4 units
+[15] Debris at 11 units
+[16] Debris at 12 units
+[17] Debris at 14 units
+[18] Debris at 13 units
+[19] Debris at 9 units
+Scan which debris?
+n
+Invalid selection.
+scan
+Targets in this sector:
+[1] Battleship 451 (IFS)
+[2] Debris at 15 units
+Scan which target?
+Lileah Rose says, "yeah ..."
+n
+Invalid selection.
+move
+1
+   Planets:
+[1] New Earth                           
+[2] Zion Moonbase                       
+[3] Telex                               
+   Space Stations:
+[4] Space Station Beta                  
+[5] Space Station Alpha                 
+[6] Space Station Gamma                 
+[7] Space Station Delta                 
+[8] Space Station Zeta                  
+   Ships (present location):
+[9] Battleship 451                      
+   Debris:
+[10] Debris (nearest)                   
+---------------------------------------------------------
+Enter your destination:
+A destination appears on the ship's navigation controls: New Earth.
+'crap
+You say, "crap"
+'it's still here.
+You say, "it's still here."
+scan
+Targets in this sector:
+1
+[1] Battleship 451 (IFS)
+[2] Debris at 14 units
+Scan which target?
+A few green lights blink on, then off again a moment later, as another starship
+is scanned.  The computer then displays the following:
+IFS Apollo "Battleship 451"
+---------------------------
+Hull damage: 0%
+Average damage: 0%
+Occupancy: Filled
+FTL Capable: Yes
+Weapons: Powered up
+Power: Charged
+Cargo: Unknown
+Coordinates: (5, 7, 7)
+Distance: 10
+---------------------------
+co
+I don't understand that.
+Lileah Rose says, "hopefully we'll make it"
+nod
+You nod.
+Lileah Rose presses some buttons on the sensor control board.
+A few green lights blink on, then off again a moment later, as another starship
+is scanned.  The computer then displays the following:
+IFS Apollo "Battleship 451"
+---------------------------
+Hull damage: 0%
+Average damage: 0%
+Occupancy: Filled
+FTL Capable: Yes
+Weapons: Powered up
+Power: Charged
+Cargo: Unknown
+Coordinates: (5, 13, 10)
+Distance: 8
+---------------------------
+Lileah Rose says, "ugh"
+'uh oh
+You say, "uh oh"
+Would you like to request landing clearance at New Earth?
+[Enter `yes' or `no']
+Lileah Rose presses a button and brings up the starship's navigation controls.
+y
+You notify flight control of your desire to land.
+A voice comes over the speaker and says, "Hello, Sandbagger.  We read your AEU
+transponder.  You are cleared to land at the city of New Phoenix."
+Lileah Rose says, "thank the stars"
+Lileah Rose cuddles up to you.
+'No kidding!
+You exclaim, "No kidding!"
+transfer
+Storage hold contents:
+[1] a chunk of industrial slag
+[2] a chunk of radium
+[3] a drifting cloud of tritium
+[4] a chunk of radium
+[5] an abandoned storage pod
+[6] an abandoned storage pod
+[7] a chunk of titanium
+[8] some stray nebular matter
+[9] a ball of neutronium
+[10] a chunk of gold
+[11] a chunk of radium
+[12] a ball of frozen water
+[13] a chunk of radium
+[14] a chunk of titanium
+[15] a defunct sector probe
+[16] a defunct sector probe
+[17] a chunk of titanium
+[18] a drifting cloud of tritium
+[19] a single spacesuit glove
+[20] some stray nebular matter
+[21] a ball of frozen water
+[22] a chunk of gold
+[23] a drifting cloud of tritium
+[24] a detached hull plate
+[25] an abandoned storage pod
+[26] a chunk of industrial slag
+[27] a drifting cloud of tritium
+[28] a ball of neutronium
+[29] a detached sensor component
+[30] a chunk of rock and organic materials
+[31] a detached hull plate
+[32] a defunct sector probe
+[33] an abandoned storage pod
+[34] a detached hull plate
+[35] a chunk of gold
+[36] an old engine casing
+[37] a detached hull plate
+[38] some stray nebular matter
+[39] a chunk of gold
+[40] an abandoned storage pod
+[41] a carbonaceous chondrite asteroid
+[42] an old engine casing
+[43] All
+Enter the number of the object you would like to transfer.
+Lileah Rose laughs.
+43
+You hear metallic scraping as the transfer of the cargo begins.
+The sounds from the ship's hold cease as the cargo finishes transferring.
+You have been credited with 1704958.78 AEU credits for your find.
+use point
+You apply your thumb to the thumbprint scanner of a portable point unit, which
+contacts the nearest license points center.
+Current overall point level: 157
+Current combat point level: 0
+'I wish we could go fight that ship up there.
+You say, "I wish we could go fight that ship up there."
+'it's been there for a while.
+You say, "it's been there for a while."
+who
+There are 2 players connected:
+Lileah Rose  (A)          Rolando Caganda  (A)       
+Lileah Rose says, "me too"
+Lileah Rose says, "it's really powerful though"
+'Yeah, I don't doubt that. It says battleship when I scan it...
+You say, "Yeah, I don't doubt that. It says battleship when I scan it..."
+'That sounds powerful!
+You exclaim, "That sounds powerful!"
+Lileah Rose says, "it took out the FTL in the Journeyer in one hit"
+'wow!
+You exclaim, "wow!"
+Lileah Rose says, "yeah"
+Lileah Rose says, "I was jumping out and I am so glad I had a temp drive
+installed"
+'And I have no combat flying experience so... I'm certainly not going to be any
+help!
+You exclaim, "And I have no combat flying experience so... I'm certainly not
+going to be any help!"
+'I'm glad you had a temp drive too
+You say, "I'm glad you had a temp drive too"
+Lileah Rose says, "well mine has only been as a gunner and as an engineer so
+far."
+Lileah Rose says, "and I'm not even the best gunner"
+Lileah Rose laughs.
+'Well, I'm sure you're better than me.
+You say, "Well, I'm sure you're better than me."
+Lileah Rose says, "who knows. I was never the most coordinated human."
+`squeeze lileah
+Say to whom?
+squeeze lileah
+You squeeze Lileah Rose affectionately.
+'Well, you have to have some coordination. You're a starship pilot.
+You say, "Well, you have to have some coordination. You're a starship pilot."
+Lileah Rose says, "well I'm more of an explorer type. I think I barely passed
+combat training"
+Lileah Rose says, "I love the stars"
+grin lileah
+You grin at Lileah Rose.
+Lileah Rose cuddles up to you.
+squeeze lileah
+You squeeze Lileah Rose affectionately.
+Lileah Rose squeezes you affectionately.
+'ok, I think it's time for me to wind down for the day.
+You say, "ok, I think it's time for me to wind down for the day."
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lileah Rose smiles at you.
+Lileah Rose stands up.
+stand
+You stand up.
+hold lileah
+You hold Lileah Rose's hand, taking her into your group.
+out
+[Starship "Sandbagger"; Airlock]
+out
+You can go out and into the ship.
+Lileah Rose followed you.
+[New Earth; Spaceport Landing Pad]
+The one-person cargo hauler "Hauler3", the one-person cargo hauler "The
+Harvina", the one-person supply shuttle "Unreality Programming 584", the
+one-person supply shuttle "Unreality Programming 45", the one-person cargo
+hauler "Debris Monster", the one-person cargo hauler "Sexy", the eight-person
+journeyer "Blueberry", the one-person cargo hauler "Debris Makes Me, And Debris
+Breaks Me", the ten-person battlecruiser "When The Ghostly Dust Of Violence
+Laces Everything", and the two-person light freighter "Sandbagger" are landed
+here.
+You see an acclimated vegetation dispenser, Brooke the droid, a shiny blue
+medical drone, a spherical security drone, a shiny blue medical drone, Jamie the
+droid, a message drone, Liz the droid, Ernest the droid, Nef the droid, Lacey
+the droid, Boe the droid, Hjelp the droid, a small trash can, Nick the droid,
+Athena the droid, Winston the droid, Tarah the droid, a spherical security
+drone, a spherical security drone, Erant the droid, a giant seizure-inducing
+claw machine, a large deluxe tent, Kratos the droid, Nia the droid, Keira the
+droid, Page the droid, Sami the droid, a spherical security drone, a polished
+marble-sized EAOS prototype security drone, a shiny blue medical drone, a shiny
+blue medical drone, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, a spherical security
+drone, a spherical security drone, a spherical security drone, a shiny blue
+medical drone, a spherical security drone, Kim the droid, Ellen the droid, a
+spherical security drone, a spherical security drone, a shiny blue medical
+drone, a shiny blue medical drone, Faith the droid, Toney the droid, a spherical
+security drone, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, a spherical security
+drone, Jenny the droid, a flawlessly reflective spherical sea-green medical
+drone identified as "Adrienne", Chewie the droid, Cherry the droid, Shippy the
+droid, a shiny blue medical drone, and an orangutan here.
+Jack Greenwood and Angelique Waverly are asleep.
+You can go north, west, and down.
+Lileah Rose followed you.
+The two-person light freighter "Sandbagger" is loaded onto an automated flatbed
+and slowly moved into a large garage.
+enter blue
+Some lights on the eight-person journeyer "Blueberry" suddenly flash several
+times.
+[Starship "Blueberry"; Airlock]
+You see a spherical security drone and a shiny blue medical drone here.
+You can go out and into the ship.
+Lileah Rose followed you.
+enter blue
+[Starship "Blueberry"; Corridor Gamma]
+You can go north, northeast, south, up, and down.
+Lileah Rose followed you.
+u
+[Starship "Blueberry"; Corridor Beta]
+u
+You can go east, west, up, and down.
+Lileah Rose followed you.
+u
+[Starship "Blueberry"; Corridor Alpha]
+You can go south, west, up, and down.
+Lileah Rose followed you.
+u
+[Starship "Blueberry"; Control Room]
+You see an AutoVector navigation unit, an oriental rug, a lavender tapestry
+sectional sofa, a glass coffee table, a small trash can, a Galactic map unit, a
+sector debris scanner, a starship simulator, a Galactic anomaly recording unit,
+a Galactic navigation unit, a silver espresso machine, a planetary system
+surveying unit, a temporary structure launcher, a bottle of fine white wine, a
+bottle of fine white wine, a large beanbag chair, a floor lamp, Higgins the
+droid, Daizey the droid, and an advanced FTL drive tracer here.
+You can go southwest and down.
+Lileah Rose followed you.
+You can't go that way.
+sit sofa
+You sit down on a lavender tapestry sectional sofa.
+Lileah Rose asks, "wow did you look out there?"
+peer out
+You peer out...
+[New Earth; Spaceport Landing Pad]
+The Spaceport of New Earth's capital city stands over a breathtaking crystal
+clear bay which lies at the tip of the southern continent. The Landing Pad
+itself is a huge, square sheet of plasteel, suspended by pillars over the water.
+Ships surround you, and the bustle of daily business overwhelms your senses. To
+the west you can see a bridge spanning the gap to the main building of the
+Spaceport.
+The one-person cargo hauler "Hauler3", the one-person cargo hauler "The
+Harvina", the one-person supply shuttle "Unreality Programming 584", the
+one-person supply shuttle "Unreality Programming 45", the one-person cargo
+hauler "Debris Monster", the one-person cargo hauler "Sexy", the eight-person
+journeyer "Blueberry", the one-person cargo hauler "Debris Makes Me, And Debris
+Breaks Me", and the ten-person battlecruiser "When The Ghostly Dust Of Violence
+Laces Everything" are landed here.
+You see an acclimated vegetation dispenser, Brooke the droid, a shiny blue
+medical drone, a spherical security drone, a shiny blue medical drone, Jamie the
+droid, a message drone, Liz the droid, Ernest the droid, Nef the droid, Lacey
+the droid, Boe the droid, Hjelp the droid, a small trash can, Nick the droid,
+Athena the droid, Winston the droid, Tarah the droid, a spherical security
+drone, a spherical security drone, Erant the droid, a giant seizure-inducing
+claw machine, a large deluxe tent, Kratos the droid, Nia the droid, Keira the
+droid, Page the droid, Sami the droid, a spherical security drone, a polished
+marble-sized EAOS prototype security drone, a shiny blue medical drone, a shiny
+blue medical drone, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, a spherical security
+drone, a spherical security drone, a spherical security drone, a shiny blue
+medical drone, a spherical security drone, Kim the droid, Ellen the droid, a
+spherical security drone, a spherical security drone, a shiny blue medical
+drone, a shiny blue medical drone, Faith the droid, Toney the droid, a spherical
+security drone, a spherical security drone, a spherical security drone, a
+spherical security drone, a spherical security drone, a spherical security
+drone, Jenny the droid, a flawlessly reflective spherical sea-green medical
+drone identified as "Adrienne", Chewie the droid, Cherry the droid, Shippy the
+droid, a shiny blue medical drone, and an orangutan here.
+Jack Greenwood and Angelique Waverly are asleep.
+You can go north, west, and down.
+'Yeah, I did.
+You say, "Yeah, I did."
+Lileah Rose says, "wow that battlecruiser"
+Lileah Rose says, "I've never seen it before"
+Lileah Rose sits down on a lavender tapestry sectional sofa.
+Lileah Rose kisses you on the lips.
+Lileah Rose says, "I have only seen one or two battlecruisers over here."
+kiss lileah on lips
+You kiss Lileah Rose on the lips.
+'Yeah, I hadn't seen it before either.
+You say, "Yeah, I hadn't seen it before either."
+Lileah Rose cuddles up to you.
+l
+[Starship "Blueberry"; Control Room]
+A floor lamp is casting a bright halo of light here.  Lights overhead indicate
+that the ship is on fuchsia status.  Looking through the windows, you see that
+the ship is at New Earth; Spaceport Landing Pad.
+You see an AutoVector navigation unit, an oriental rug, a lavender tapestry
+sectional sofa, a glass coffee table, a small trash can, a Galactic map unit, a
+sector debris scanner, a starship simulator, a Galactic anomaly recording unit,
+a Galactic navigation unit, a silver espresso machine, a planetary system
+surveying unit, a temporary structure launcher, a bottle of fine white wine, a
+bottle of fine white wine, a large beanbag chair, a floor lamp, Higgins the
+droid, Daizey the droid, and an advanced FTL drive tracer here.
+Lileah Rose (staring into space) (sitting on a lavender tapestry sectional sofa)
+is here.
+You can go southwest and down.
+(You are sitting on a lavender tapestry sectional sofa.)
+squeeze lileah
+You squeeze Lileah Rose affectionately.
+Lileah Rose cuddles up to you.
+Lileah Rose says to you, "are you ready to go lie down?"
+Lileah Rose stands up.
+Lileah Rose leaves your group.
+Lileah Rose holds your hand, taking you into her group.
+Lileah Rose pulls you to your feet.
+Lileah Rose kisses you.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Alpha]
+Lileah Rose is here.
+You can go south, west, up, and down.
+You follow Lileah Rose down.
+[Starship "Blueberry"; Corridor Beta]
+Lileah Rose is here.
+You can go east, west, up, and down.
+You follow Lileah Rose west.
+[Starship "Blueberry"; Living Quarters Block Alpha]
+Lileah Rose is here.
+You can go north, east, southeast, south, southwest, west, and northwest.
+You follow Lileah Rose north.
+[Starship "Blueberry"; Living Quarters One]
+You see a wooden wardrobe, a wicker rocking chair, a throw rug, a walnut canopy
+bed with a lavender silk bedsheet, a floral pattern silk bedsheet, a lilac silk
+blanket, and a lavender silk pillow on it, a large storage chest, a storage
+container, a yellow storage locker, a pink mirrored vanity, a shaker chair, a
+cedar dresser, and a set of funky asymmetrical shelves here.
+Lileah Rose is here.
+You can go out.
+Lileah Rose disbands her group.
+Lileah Rose removes a pair of white leather sandals from her feet.
+Lileah Rose drops a pair of white leather sandals.
+l
+[Starship "Blueberry"; Living Quarters One]
+Lights overhead indicate that the ship is on fuchsia status.  Looking through
+the windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a wooden wardrobe, a wicker rocking chair, a throw rug, a walnut canopy
+bed with a lavender silk bedsheet, a floral pattern silk bedsheet, a lilac silk
+blanket, and a lavender silk pillow on it, a large storage chest, a storage
+container, a yellow storage locker, a pink mirrored vanity, a shaker chair, a
+cedar dresser, a set of funky asymmetrical shelves, and a pair of white leather
+sandals here.
+Lileah Rose is here.
+You can go out.
+remove boots
+You remove some black leather boots from your feet.
+drop boots
+You drop some black leather boots.
+Lileah Rose tears off a satin bra in a fit of passion.
+Lileah Rose tears off a purple silk blouse in a fit of passion.
+Lileah Rose tears off a pair of skimpy pink lace bikini cut panties in a fit of
+passion.
+Lileah Rose tears off a pair of flared faded denim jeans in a fit of passion.
+Lileah Rose rips off all of her obvious clothing and stands before you,
+positively glowing with near nudity.
+kiss lileah
+You kiss Lileah Rose.
+undress
+You tear off a plaid button down shirt in a fit of passion.
+You tear off a pair of cotton briefs in a fit of passion.
+You tear off a pair of black corduroy jeans in a fit of passion.
+You stand there, glowing with near nudity.
+Lileah Rose glances around.
+lie bed
+You lie down on a small bunk.
+kiss lileah
+You kiss Lileah Rose.
+Lileah Rose kisses you.
+Lileah Rose lies down on a walnut canopy bed.
+stand
+You stand up.
+lie canopy
+You lie down on a walnut canopy bed.
+wrap lileha
+I can't find "lileha."
+wrap lileah
+You wrap your arms around Lileah Rose.
+Lileah Rose wraps her arms around you.
+Lileah Rose says to you, "Nite sweet Love. Rest well and sweet dreams. I love
+you."
+-kiss lileah
+Say to whom?
+-lileah I love you too. Rest well and sweet dreams.
+You say to Lileah Rose, "I love you too. Rest well and sweet dreams."
+Lileah Rose beams at you.
+Lileah Rose cuddles up to you.
+Lileah Rose says to you, "nite"
+-lileah Night.
+You say to Lileah Rose, "Night."
+beam lileah
+You beam at Lileah Rose.
+cuddle lileah
+You cuddle up to Lileah Rose.
+[General Communication] A Jinu transmits, "Yuuijuminlakiltra et jukl yura oh
+Human jukte 'Seven.' Erto yuui uu yuuijuminla."
+You have been idle for an extended period of time.  Please do something in order
+to avoid being disconnected.
+Lileah Rose yawns suddenly, and collapses to the ground, asleep.
+You have been idle too long.  Have a lovely evening.
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m

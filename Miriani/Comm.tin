@@ -1,0 +1,17 @@
+#CLASS {Comm} OPEN
+
+#ACTION {^You press a small button mounted on the wall and}
+{
+	play Ship/Comm/pa.mp3
+}
+{5}
+
+#ACTION {^[Chatter]}
+{
+	play General/Comm/Chatter.wav
+}
+{5}
+
+#SUBSTITUTE       {^You press a small button mounted on the wall and say, "%1"}                                         {%1}  {5}
+
+#CLASS {Comm} CLOSE

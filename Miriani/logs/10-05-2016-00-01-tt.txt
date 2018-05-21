@@ -1,0 +1,1761 @@
+siekanas
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Sep 26 07:13:15 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+l
+[Starship "Zéro Des Cartes"; Living Quarters Six]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. A thick band that stretches across all of the walls at a seven-foot
+height indicates that the ship is on red status. Looking through the windows,
+you see that the ship is in space.
+You see a long plasteel counter, a pair of narrow bunks, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made purple and
+amethyst flower quilt on it, a small oval turquoise rattan table with a glass
+top, a large oval dark purple and light purple cloth rug, a compact red
+refrigerator, a small seashell pink trash can, an insulated green cooler, a
+small red ball containing a realistic Bari horde noisemaker, a glossy gold
+ceramic felo chow bowl, an insulated orange cooler, a black plastic tray of
+spider chow, a Tardick lizard named Asteria, and Nohr the obese black horned
+felo here.
+You can go out.
+(You are sitting on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a large periwinkle
+bed pillow, and a hand-made purple and amethyst flower quilt on it.)
+out
+You scramble to your feet.
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, a black plastic tray of spider
+chow, a wall-sized bubbling coral pink-lit aquarium containing violet and blue
+aquatic life and coral rocks, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, and a wall-sized bubbling
+neon purple-lit aquarium containing fuchsia and cerulean aquatic life and coral
+rocks here.
+You can go north, east, south, west, and up.
+n
+[Starship "Zéro Des Cartes"; Crew Quarters; Mid]
+You see a painting framed in gold gilt of a magnificent sugar maple ablaze with
+the colors of autumn, a pair of narrow bunks, a black plastic tray of spider
+chow, Zorya the hovering dragonfly robot, a glossy midnight blue ceramic felo
+chow bowl, a large bubbling azure blue-lit aquarium containing amber and crimson
+aquatic life and round rocks, a small bubbling white-lit aquarium containing
+crimson and blue aquatic life and round rocks, and a hairy black and purple
+striped eight-legged ArachnoPal named Webster here.
+You can go north, east, south, and west.
+n
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes containing Pierre-Louis Tremblay-du-Lys
+staring with eyes wide and mouth wide open in a silent scream and Keegan Wantz
+cupping his groin protectively, his eyes wide open in horror, a portable hot
+tub, a crudely hammered scrap metal feeding trough, a black plastic tray of
+spider chow, Pierre-Louis Tremblay-du-Lys's locker, and Keegan Wantz's locker
+here.
+You can go north, south, and up.
+n
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, a round saffron orange
+zafu with a white strap, a hairy dark yellow eight-legged ArachnoPal named Tiki,
+and Manx the little calico CatBot here.
+Akemi Bando and Anfisa of Marzore are sitting on a soft square dark blue rug.
+Aisling the Fox is sitting on a round saffron orange zafu.
+You can go east, south, and west.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Use the SCORE command to quickly see how many points and credits you've
+accumulated!
+**
+l lily
+I see no "lily" here.
+l
+[Starship "Zéro Des Cartes"; Forward Observation]
+A thick band that stretches across all of the walls at a seven-foot height
+indicates that the ship is on red status. Looking through the windows, you see
+that the ship is in space.
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, a round saffron orange
+zafu with a white strap, a hairy dark yellow eight-legged ArachnoPal named Tiki,
+and Manx the little calico CatBot here.
+Akemi Bando and Anfisa of Marzore are sitting on a soft square dark blue rug.
+Aisling the Fox is sitting on a round saffron orange zafu.
+You can go east, south, and west.
+s
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes containing Pierre-Louis Tremblay-du-Lys
+staring with eyes wide and mouth wide open in a silent scream and Keegan Wantz
+cupping his groin protectively, his eyes wide open in horror, a portable hot
+tub, a crudely hammered scrap metal feeding trough, a black plastic tray of
+spider chow, Pierre-Louis Tremblay-du-Lys's locker, and Keegan Wantz's locker
+here.
+You can go north, south, and up.
+u
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+u
+You see a crudely hammered scrap metal feeding trough and Pari the small black
+winged felo here.
+You can go east, south, west, up, and down.
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a black plastic tray of spider chow, a glossy silver ceramic
+felo chow bowl, and a small bubbling white-lit aquarium here.
+You can go north, south, and down.
+n
+[Starship "Zéro Des Cartes"; Control Room]
+You see a wormhole drive tracer, a blue velvet sectional sofa, a large secure
+xenology storage container, a small blue bioplastic ship light (casting a soft
+blue glow), a dark brown leather captain's chair, a small square dark brown
+rattan table with a glass top, an interdictor launcher, Nestor the humanoid
+service robot, a cardboard box labeled 'Here be keys', an orange plastic box
+labeled 'Felo Chow', a soft square dark blue rug with a luxuriously deep pile
+and thick gold fringe, a metal container, a crudely hammered scrap metal feeding
+trough, a small natural golden brown trash bin, Magellan the arachnoid security
+robot, and Shasta the big onyx soldier felo here.
+Kim Saunders and Soraya Rhyz are standing here. Klaus Stein, Rogue Romano, and
+Lily Kaise are sitting on a blue velvet sectional sofa.
+You can go south, up, and out.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a mystic purple synthcotton shipsuit and a pair of soft mystic
+purple slippers. She is also wearing an orange and white blessed prayer bracelet
+around her wrist, a slender bracelet of tiny tinkling silver bells around her
+wrist, a neon purple wrist-mounted chronometer, a solid silver ring engraved
+with dragonflies, a delicate ring of silver wire and small purple amethyst
+crystals, a metallic gold touch einrophone in a metallic purple reinforced
+plastic phone holster, a light purple flightbag with a pastel kitten on the
+side, a compact metallic purple camera with a gold fleur-de-lys embossed on the
+front with a glittery pink camera strap, and a soft fuchsia Tardick lizard
+snuggly labeled 'Asteria'. Her head, face, both eyes, both wrists, and both
+hands are left uncovered.
+She is carrying nothing.
+sit sofa
+You sit down on a blue velvet sectional sofa.
+Lily Kaise waves to you.
+Lily Kaise wraps her arms around you, pulling you close.
+Kim Saunders waves to you. "Hi."
+wave
+You wave.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+The planetary surveyor emits a series of quiet beeps, then continues working.
+rd
+Uncharted Sector (Unclaimed) [Planetary System 8813-1870] (Security: Delta-10)
+Coordinate rundown:
+Starships: Zéro Des Cartes (y) at (9, 6, 14)
+Debris: (8, 5, 16), (8, 19, 6), (18, 3, 14), (17, 16, 16), (12, 19, 11), (7, 19,
+8), (4, 15, 16), (17, 7, 18), (16, 12, 17), (5, 3, 19), (16, 6, 2)
+Debris Chunks: (9, 4, 12)
+Asteroids: (15, 1, 13)
+l
+[Starship "Zéro Des Cartes"; Control Room]
+The core of every starship is the control room. Only a handful of tendril-like
+cables snake across the walls, unlike most starships. While nothing visibly
+holds them against the wall, they refuse to move even if you grip them. The
+transparisteel viewport is stretched across the entire fore wall of the room,
+but is thinner than usual. Most pilots will spend their time focusing on the
+large starmap dominating the left side of the room. Beside the starmap is the
+primary control board, providing essential functions like the shipwide power
+lever. Secondary and tertiary control boards are available in a wide semicircle
+around the primary board for greater manipulation of ship systems. The control
+room is rather spacious, but the position of the control panels forming an arc
+around the small central spot leaves little room for others beyond the pilot. A
+thick band that stretches across all of the walls at a seven-foot height
+indicates that the ship is on red status. Looking through the windows, you see
+that the ship is in space.
+You see a wormhole drive tracer, a blue velvet sectional sofa, a large secure
+xenology storage container, a small blue bioplastic ship light (casting a soft
+blue glow), a dark brown leather captain's chair, a small square dark brown
+rattan table with a glass top, an interdictor launcher, Nestor the humanoid
+service robot, a cardboard box labeled 'Here be keys', an orange plastic box
+labeled 'Felo Chow', a soft square dark blue rug with a luxuriously deep pile
+and thick gold fringe, a metal container, a crudely hammered scrap metal feeding
+trough, a small natural golden brown trash bin, Magellan the arachnoid security
+robot, and Shasta the big onyx soldier felo here.
+Kim Saunders and Soraya Rhyz are standing here. Klaus Stein, Rogue Romano, and
+Lily Kaise are sitting on a blue velvet sectional sofa.
+You can go south, up, and out.
+(You are sitting on a blue velvet sectional sofa.)
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+wave kim
+You wave to Kim Saunders.
+Klaus Stein waves.
+: waves to everyone.
+Shule waves to everyone.
+"Oh hi!" Lily Kaise waves to you.
+Lily Kaise grins.
+grin lily
+You grin at Lily Kaise.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+-lily Have I met you before?
+You say to Lily, "Have I met you before?"
+Lily Kaise says in a New Earth accent, "Hmm maybe or you're the stranger in my
+bed while I slept."
+Lily Kaise laughs.
+laugh
+You laugh.
+Shasta the big onyx soldier felo marches out.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+'Go surveyer go!
+You exclaim, "Go surveyer go!"
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+eta
+The ship is not moving.
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+Shasta the big onyx soldier felo marches in from the airlock.
+The planetary surveyor emits a series of quiet beeps, then continues working.
+Lily Kaise cuddles up to you.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+cuddle lily
+You cuddle up to Lily Kaise.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+-shasta Are you staying out of trouble?
+You say to Shasta the big onyx soldier felo, "Are you staying out of trouble?"
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+Lily Kaise says in a New Earth accent, "There better be at least 1 planet for as
+long as this analysis is going on."
+Lily Kaise chuckles.
+chuckle
+You chuckle.
+Kim Saunders giggles. "Yeah, or we put in a complaint to... uhm, to this
+planetary system for not having more planets."
+The planetary surveyor displays a field of moving waves as it searches for
+nearby gravity wells.
+chuckle kim
+You chuckle at Kim Saunders.
+The planetary surveyor emits a series of quiet beeps, then continues working.
+'Yes, I'd like to file a complaint with the universe planetary complaint
+department for not having enough planets in this planetary system.
+You say, "Yes, I'd like to file a complaint with the universe planetary
+complaint department for not having enough planets in this planetary system."
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+Kim Saunders laughs.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+eta
+The ship is not moving.
+grin
+You grin.
+Shasta the big onyx soldier felo marches out.
+Akemi Bando walks in from the south.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+wave akemi
+You wave to Akemi Bando.
+Akemi Bando says in a strange Japanese accent, "Hello."
+Kim Saunders waves to Akemi Bando.
+Lily Kaise waves to Akemi Bando.
+The planetary surveyor displays a field of moving waves as it searches for
+nearby gravity wells.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+The planetary surveyor displays a field of moving waves as it searches for
+nearby gravity wells.
+The planetary surveyor emits a series of quiet beeps, then continues working.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+Shasta the big onyx soldier felo marches in from the airlock.
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+The planetary surveyor emits a series of quiet beeps, then continues working.
+Aisling the Fox prances in from the south.
+Manx the little calico CatBot trots happily in after Aisling the Fox with a
+quiet hiss of hydraulics.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+wave aisling
+You wave to Aisling the Fox.
+Aisling the Fox says in an unusual Irish accent, "Still running. Well maybe it
+will have lots of planets."
+Lily Kaise nods.
+Aisling the Fox waves.
+Lily Kaise waves to Aisling the Fox.
+Aisling the Fox activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Aisling the Fox presses a button, calling up the starmap, and studies it for a
+moment.
+The planetary surveyor displays a field of moving waves as it searches for
+nearby gravity wells.
+Soraya Rhyz yawns.
+Kim Saunders waves to Aisling the Fox. "Hi again."
+Soraya Rhyz says in a Luna accent, "I want ten."
+Shasta the big onyx soldier felo marches south.
+Lily Kaise exclaims in a New Earth accent, "Well hopefully afer this much
+analysis, there's at least two!"
+Lily Kaise says in a New Earth accent, "After that is."
+Aisling the Fox looks at Soraya Rhyz thoughtfully.
+The planetary surveyor emits a series of quiet beeps, then continues working.
+Aisling the Fox says in an unusual Irish accent, "Tell me."
+Aisling the Fox asks in an unusual Irish accent, "How does it feel to want?"
+Aisling the Fox grins.
+Soraya says to Aisling, "Sort of like wanting a delicious falafel."
+Soraya Rhyz nods.
+Aisling the Fox absently bobs her head up and down like a space parakeet.
+The planetary surveyor emits a series of quiet beeps, then continues working.
+Soraya Rhyz says in a Luna accent, "Only planets aren't as crispy and tasty."
+Aisling the Fox says in an unusual Irish accent, "Well we are only about 190
+light-trade cycles to Dolia."
+Lily Kaise says in a New Earth accent, "Woo wish we could go."
+grin
+You grin.
+Akemi Bando says in a strange Japanese accent, "It'd be nice to see Valeriya
+again, but they got their own stuff they're working on."
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+Akemi Bando says in a strange Japanese accent, "We'd just be distracting,
+mainly."
+Lily Kaise nods.
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+Akemi Bando slides a charred tag-shaped amulet covered in scraps of tyrian
+purple fabric brocaded with an unrecognizable pattern off of a keychain adorned
+with a charred tag-shaped amulet covered in scraps of tyrian purple fabric
+brocaded with an unrecognizable pattern.
+Kim Saunders says in a New Bristol accent, "Dolia does not run away. Our charge
+runs out though, eventually."
+Akemi Bando puts a charred tag-shaped amulet covered in scraps of tyrian purple
+fabric brocaded with an unrecognizable pattern in a small black leather zip
+pouch.
+Lily Kaise nods.
+Akemi Bando says in a strange Japanese accent, "Have to burn that."
+Aisling the Fox asks in an unusual Irish accent, "Burn?"
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+Aisling the Fox asks in an unusual Irish accent, "May I see it?"
+Akemi Bando says in a strange Japanese accent, "When they are damaged, or when
+their time of usefulness has ended, they are to be disposed of in a respectful
+way. Burning is acceptable."
+Akemi Bando removes a charred tag-shaped amulet covered in scraps of tyrian
+purple fabric brocaded with an unrecognizable pattern from a small black leather
+zip pouch.
+Akemi Bando gives a charred tag-shaped amulet covered in scraps of tyrian purple
+fabric brocaded with an unrecognizable pattern to Aisling the Fox.
+Aisling the Fox nods.
+Aisling the Fox asks in an unusual Irish accent, "Hum. Was symbol on there
+before?"
+The planetary surveyor emits a series of quiet beeps, then continues working.
+Akemi Bando says in a strange Japanese accent, "Soraya, you have yours handy.
+Please show her."
+Soraya Rhyz slides a tag-shaped amulet covered in tyrian purple fabric brocaded
+with a floral pattern off of a delicate Lunar fern frond keychain adorned with a
+tag-shaped amulet covered in tyrian purple fabric brocaded with a floral
+pattern.
+Soraya Rhyz says in a Luna accent, "It has flowers."
+Aisling the Fox says in an unusual Irish accent, "I have not had chance to see
+one in tact."
+Aisling the Fox puts a cute little plush calico cat with brilliant green eyes in
+a worn and tattered brown leather satchel.
+Soraya Rhyz gives a tag-shaped amulet covered in tyrian purple fabric brocaded
+with a floral pattern to Aisling the Fox.
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+Soraya Rhyz says in a Luna accent, "I haven't seen Akemi's up close since it got
+burnt."
+Aisling the Fox nods.
+Akemi Bando says in a strange Japanese accent, "They are sacred, to be treated
+with respect."
+Aisling the Fox gives a tag-shaped amulet covered in tyrian purple fabric
+brocaded with a floral pattern to Soraya Rhyz.
+Soraya Rhyz strokes a tag-shaped amulet covered in tyrian purple fabric brocaded
+with a floral pattern lovingly.
+Aisling the Fox nods to Akemi Bando. "I was unsure of symbol was original mark
+or made by faerie."
+Aisling the Fox gives a charred tag-shaped amulet covered in scraps of tyrian
+purple fabric brocaded with an unrecognizable pattern to Akemi Bando.
+The planetary surveyor displays a handful of moving points of light which could
+be planets. Text alongside shows probable composition and mass.
+Akemi Bando says in a strange Japanese accent, "Original, and damaged in
+protecting me."
+Aisling the Fox says in an unusual Irish accent, "Thank you for letting me see."
+Akemi Bando puts a charred tag-shaped amulet covered in scraps of tyrian purple
+fabric brocaded with an unrecognizable pattern in a small black leather zip
+pouch.
+Akemi Bando nods.
+Soraya Rhyz slides a tag-shaped amulet covered in tyrian purple fabric brocaded
+with a floral pattern onto a delicate Lunar fern frond keychain.
+The planetary surveyor displays a field of moving waves as it searches for
+nearby gravity wells.
+Aisling the Fox says in an unusual Irish accent, "Seems like necklace would be
+more suitable form or wearing rather than on keyring. But then I have a thing
+for necklaces. I want to make everything into one."
+Aisling the Fox grins.
+Kim Saunders says in a New Bristol accent, "Wow, it's like last night with the
+evolved protosystem, taking forever to scan."
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+Aisling the Fox gets a distant look on her face as she ponders.
+Soraya Rhyz nods.
+Aisling the Fox says in an unusual Irish accent, "I wonder if my sacred tree
+offers any protection like that. Perhaps a thing to test."
+The planetary surveyor displays a comparison of spectrum analyses, searching for
+redshift or blueshift.
+Soraya Rhyz says in a Luna accent, "I like it on my keychain, at least I always
+know it's close by."
+Soraya Rhyz pats a delicate Lunar fern frond keychain adorned with a tag-shaped
+amulet covered in tyrian purple fabric brocaded with a floral pattern lightly.
+eta
+The ship is not moving.
+Akemi Bando says in a strange Japanese accent, "Keychains or in protective case
+are both fine to keep these amulets."
+Soraya Rhyz says in a Luna accent, "Just depends on what the owner wants, after
+all."
+The planetary surveyor displays a field of moving waves as it searches for
+nearby gravity wells.
+Soraya Rhyz says in a Luna accent, "I imagine Jizo doesn't mind as long as it's
+someplace respectful."
+Aisling the Fox says in an unusual Irish accent, "It is special wood from Eire
+on Old Earth, favored by faeries for their homes. Sacred trees."
+The ship's surveying equipment has succeeded in finding five planets in this
+system.
+Lily Kaise applauds sedately.
+cheer
+You cheer.
+Lily Kaise laughs.
+grin
+You grin.
+"Wow, 5 more!" Kim Saunders cheers.
+Klaus Stein smiles.
+Lily Kaise says in a New Earth accent, "Blame me for them."
+Aisling the Fox gives an enthusiastic thumbs up.
+Lily Kaise laughs.
+Aisling the Fox removes a cute little plush calico cat with brilliant green eyes
+from a worn and tattered brown leather satchel.
+Akemi Bando says into the PA microphone, "Five planets."
+grin lily
+You grin at Lily Kaise.
+Kim Saunders says in a New Bristol accent, "Well, planetary system, you will not
+need a complaint for too few planets, you did well."
+Kim Saunders grins.
+Akemi Bando asks in a strange Japanese accent, "That makes fifteen now total?"
+grin kim
+You grin at Kim Saunders.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+-kim I shall retract my complaint.
+Aisling the Fox says in an unusual Irish accent, "Pierre will be pleased."
+You say to Kim, "I shall retract my complaint."
+Kim Saunders giggles at you. "Good idea."
+Aisling the Fox says in an unusual Irish accent, "He was hoping for more
+planets."
+Kim Saunders says in a New Bristol accent, "That brings my personal total to,
+uhm, 14, I think."
+Aisling the Fox says in an unusual Irish accent, "But we all are."
+Lily Kaise says in a New Earth accent, "Seems we're getting them on the way back
+at least."
+Soraya Rhyz says in a Luna accent, "Well, five is half of ten. That works."
+nod and smile
+You nod and smile.
+Lily says to Kim, "So far, we've discovered 21 this trip."
+Aisling the Fox says in an unusual Irish accent, "We can even take different
+route home, unexplored."
+Soraya Rhyz says in a Luna accent, "Should help everyone's coffers, at any
+rate."
+'definitely
+You say, "Definitely."
+Aisling the Fox says in an unusual Irish accent, "Maybe return to Mutuality
+space instead of Coreward."
+Aisling the Fox says in an unusual Irish accent, "Pierre had mentioned it."
+Lily Kaise says in a New Earth accent, "All for that."
+smile lily
+You smile at Lily Kaise.
+Lily Kaise says in a New Earth accent, "No hurry to get back."
+Kim Saunders says in a New Bristol accent, "Let's put it this way, 14 I was
+actually awake for and that I saw. The other ones were found when I was
+sleeping."
+Lily Kaise says in a New Earth accent, "Yeah well you may realize them. Guess
+it's up to the Cartographer's."
+Lily Kaise smiles.
+nod
+You nod.
+Kim Saunders smiles. "I am not complaining, 14 is a lot of money and a nice
+amount of exploration points."
+Klaus Stein says in a German accent, "Yup."
+Aisling the Fox asks in an unusual Irish accent, "Will the exploration point cap
+ever end!?"
+Kim Saunders says in a New Bristol accent, "I don't know, I don't have one yet."
+Lily Kaise asks in a New Earth accent, "Ok guess we should return to the rift?"
+Kim Saunders says in a New Bristol accent, "Correction, I have not reached
+mine."
+nod lily
+You nod to Lily Kaise.
+Aisling the Fox nods to Lily Kaise.
+Lily Kaise laughs.
+Kim Saunders nods. "I think."
+Lily Kaise quickly turns a small wheel on the rift drive control board.
+A number flap display rapidly flips around to show a new heading of 215.0, 0.0.
+Lily Kaise flips a number of failsafe switches on the rift drive control board,
+then pushes a heavy lever forward.
+Something deep inside the starship roars to life as the lights dim sharply.
+Lily Kaise asks in a New Earth accent, "I think that is where it was?"
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+Kim Saunders nods to Lily Kaise.
+'Yeah
+You say, "Yeah."
+The starship has left a unique area of space.
+Lily Kaise asks in a New Earth accent, "The last heading?"
+Klaus Stein nods.
+A fiery cloud of pyroclastic ash roars through the starship, burning the walls
+away. When it passes, the ship is a drifting platform hovering through a barren
+hellscape covered in ash. A volcano spews ash and fire into the blackened sky as
+glowing lava flows down its sides. The scorched remains of trees, animals, and
+humans caught in the blast litter the ground.
+Aisling says to Kim, "I have been capped since last trip. Slowly trickling in.
+But I have over 3250 exploration points. Far more than any other points."
+Aisling the Fox says in an unusual Irish accent, "And so I am capped."
+Klaus Stein says in a German accent, "I think I had around 3300 exploration
+before I left."
+Lily Kaise says in a New Earth accent, "I have capped often with exploration."
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+'I had a cap warning just before I left
+You say, "I had a cap warning just before I left."
+Aisling the Fox says in an unusual Irish accent, "It matters not much. I am so
+far ahead that what is stopping me is industry."
+Lily Kaise exclaims in a New Earth accent, "At 6199, I turned in 92 planets so
+that was a big wallop!"
+Kim Saunders says in a New Bristol accent, "I had 1499 exploration when we
+left."
+Aisling the Fox says in an unusual Irish accent, "I have enough exploration to
+get an Odyssey. But not industry."
+Aisling the Fox grins.
+Lily Kaise grins.
+grin
+You grin.
+Lily Kaise says in a New Earth accent, "You'll get there."
+Soraya Rhyz says in a Luna accent, "That darn industry."
+Aisling the Fox says in an unusual Irish accent, "Do not want one."
+Lily Kaise says in a New Earth accent, "I would have over 20k Industry but I
+have put over 4000 into my org so far."
+Aisling the Fox says in an unusual Irish accent, "Anfisa can have privilege of
+owning possibly only one in fleet."
+Aisling the Fox says in an unusual Irish accent, "The goo pod is not for me."
+Kim Saunders says in a New Bristol accent, "I have heard about that pod, yeah, I
+can imagine not everyone is comfortable with dealing with that and becoming the
+ship's eyes and ears, so to speak."
+Akemi Bando says in a strange Japanese accent, "Few have tried at all."
+Lily Kaise says in a New Earth accent, "Yeah it's different but I imagine you
+learn how to be selective."
+Akemi Bando says in a strange Japanese accent, "Anfisa by far has the most time
+doing so."
+Akemi Bando says in a strange Japanese accent, "Some test subject in the
+Mutuality who were involved in the design phase. Myself. That's it, so far as I
+know."
+Aisling the Fox says in an unusual Irish accent, "I may try at some point if
+Anfisa allows. But idea of spending all that time in pod during trip does not
+appeal to me. I know tolerance can be built, but I saw how drained Anfisa was
+doing it."
+Lily Kaise nods.
+Lily Kaise says in a New Earth accent, "I like moving about and interacting with
+others."
+Aisling the Fox says in an unusual Irish accent, "I am open to experience. But
+probably not adopting it as method of travel."
+Akemi says to Aisling, "Will talk to you later about it."
+Aisling the Fox nods.
+Soraya Rhyz says in a Luna accent, "It does seem like a good exploration trip.
+Just very gooey."
+Soraya Rhyz says in a Luna accent, "Er, ship."
+Aisling the Fox says in an unusual Irish accent, "Well, it does amazing things."
+Aisling the Fox says in an unusual Irish accent, "And you can interact. In a
+way."
+Akemi Bando says in a strange Japanese accent, "I will say, my understanding of
+ship systems has improved a lot since I have been integrated into a ship's
+systems."
+Aisling the Fox absently bobs her head up and down like a space parakeet.
+Aisling the Fox says in an unusual Irish accent, "The experience itself I can
+see as benefiting."
+Aisling the Fox says in an unusual Irish accent, "Give humbling appreciation for
+your ship."
+eta
+The ship's current engine speed is 5079 km/s.
+eta
+The ship's current engine speed is 5079 km/s.
+Kim Saunders nods. "Yeah, that I can imagine."
+Kim Saunders says in a New Bristol accent, "And very few ships can make it all
+the way to Dolia, and back again. Not even sure this Galleon could."
+Aisling the Fox says in an unusual Irish accent, "Certainly could."
+Kim Saunders says in a New Bristol accent, "Yeah, the recharging temp station is
+a big plus."
+Aisling the Fox says in an unusual Irish accent, "With ease."
+Aisling the Fox nods.
+Aisling the Fox says in an unusual Irish accent, "Probably without having to use
+that actually."
+Lily Kaise says in a New Earth accent, "Yeah I should think so and just put down
+a recharge station at some point."
+Aisling the Fox says in an unusual Irish accent, "Furnace can be repaired at
+Dolia if I am not mistaken."
+Kim Saunders says in a New Bristol accent, "Hmm, I did not consider that."
+Akemi Bando says in a strange Japanese accent, "This galleon could make it."
+Akemi Bando says in a strange Japanese accent, "An Imperator could too."
+Lily Kaise nods.
+Akemi Bando says in a strange Japanese accent, "If you flew carefully, a
+tactical platform could make it."
+nod
+You nod.
+Akemi Bando asks in a strange Japanese accent, "The better question is, what
+business do you have at Dolia?"
+Lily Kaise says in a New Earth accent, "Yeah especially with three Long-Range
+Sightseers. I have two and have been lazy about applying for the third."
+Kim Saunders says in a New Bristol accent, "I don't. I don't even know where it
+is. But I was generally speaking."
+Lily Kaise asks in a New Earth accent, "Well business?"
+Lily Kaise looks at Akemi Bando thoughtfully.
+Akemi Bando says in a strange Japanese accent, "The flagships do most of the
+trading for the clans."
+Lily Kaise asks in a New Earth accent, "Why would anyone be interested in
+visiting a different place?"
+Akemi Bando says in a strange Japanese accent, "Tourism is nice."
+Akemi Bando says in a strange Japanese accent, "Dolia's for maintaining the
+flagship though."
+Lily Kaise says in a New Earth accent, "Also, I have heard about the women there
+and I know I would enjoy meeting them."
+Kim Saunders says in a New Bristol accent, "Or, considering Anfisa ever wanted
+to go to Dolia, but not want to be stuck in a goo pod the entire trip, just
+speculating."
+Lily Kaise says in a New Earth accent, "I have great respect for what I have
+heard of their culture."
+Akemi Bando says in a strange Japanese accent, "Tell me what you know of Clan
+Marzore."
+Lily Kaise says in a New Earth accent, "All that I know is that they are strong
+and independent women who have tolerated much and manage to survive."
+Lily Kaise says in a New Earth accent, "I don't know about their beliefs nor
+other aspects."
+Akemi Bando says in a strange Japanese accent, "Ask Anfisa."
+Aisling the Fox says in an unusual Irish accent, "That could get you killed."
+Aisling the Fox grins.
+Lily Kaise says in a New Earth accent, "No I don't htink so."
+Lily Kaise says in a New Earth accent, "If Anfisa wants to share with me she
+will."
+Akemi Bando says in a strange Japanese accent, "Asking her? No. But knowing
+nothing could get you killed if you encounter a clanner who isn't used to
+dealing with regs."
+Lily Kaise says in a New Earth accent, "If not, then I don't intrude."
+Aisling the Fox says in an unusual Irish accent, "Intrude."
+Lily says to Akemi, "So what is your point here? I doubt that anyone of us are
+going to strike out for Dolia."
+Shasta the big onyx soldier felo marches in from the south.
+Lily Kaise says in a New Earth accent, "Not without a proper representative
+aboard."
+Akemi says to Lily, "If you want to know more about them, you have an excellent
+authority about them aboard this very ship."
+Akemi Bando says in a strange Japanese accent, "Just downstairs, in fact."
+Kim Saunders says in a New Bristol accent, "Well, intruding is asking someone
+about their deepest secrets. Or could also be asking at the wrong time, when
+someone's mind is on something else entirely. But learning about other qcultures
+usually only comes when you at least indicate that you wish to learn."
+Aisling the Fox says in an unusual Irish accent, "Never learn if you do not ask.
+And it is not up to Anfisa to go to you and spell it out if you want to know."
+Lily Kaise asks in a New Earth accent, "I am very much aware and I'm sure the
+rest of us are?"
+Lily Kaise grins.
+Lily Kaise says in a New Earth accent, "As I say, I don't pry into Anfisa's
+business."
+Aisling the Fox looks at Akemi Bando and shrugs.
+Lily Kaise says in a New Earth accent, "I believe we all just are eager to be
+enlightened when the opportunity arises though."
+Akemi Bando says in a strange Japanese accent, "An ignorant crew reflects very
+poorly on a clanner who works with regs. Any clanner would not let you go along
+on a trip to clan space if you know nothing at all."
+Lily Kaise says in a New Earth accent, "That is very true."
+Aisling the Fox says in an unusual Irish accent, "I ask Anfisa questions all the
+time when I get to see her."
+Lily Kaise says in a New Earth accent, "I can't demand of Anfisa though and you
+well know that."
+Aisling the Fox says in an unusual Irish accent, "I am still in one piece."
+Lily Kaise smiles.
+Aisling the Fox says in an unusual Irish accent, "She is nice to talk to."
+Lily says to Aisling, "Well there is one aspect and that is that you are
+Mutuality and others of us are not. Anfisa is not fond of AEU."
+Aisling the Fox says in an unusual Irish accent, "So prove her wrong."
+Shasta the big onyx soldier felo marches south.
+Aisling the Fox says in an unusual Irish accent, "She will respect you more for
+it I think."
+Lily Kaise says in a New Earth accent, "Anyway I don't have anything further to
+say about this. Was just responding to your question Akemi."
+`who
+Say to whom?
+who
+There appear to be about 20 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+*Kim Saunders  (A) [m]
+*Lily Kaise  (A)
+*Soraya Rhyz  (L)
+*Akemi Bando  (L)
+*Klaus Stein  (L)
+%Elizabeth Beckman  (L)
+%Melinda Michaels  (L)
+%Seneca Morris  (L)
+%Nicolette of None  (L)
+%Damien Goss  (L)
+%Karasi Valhannon  (L)
+%Morris Corlew  (L)
+%Damien Alexander  (F)
+%Evenia Callseah  (F)
+%Ted Warburton  (F)
+%Blake Madison  (F)
+*Aisling the Fox  (M)
+*Anfisa of Marzore  (M) [v]
+%Liam O'Toole  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 9 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 29 pilots.
+Aisling the Fox absently bobs her head up and down like a space parakeet.
+Soraya Rhyz sits down on a soft square dark blue rug with a luxuriously deep
+pile and thick gold fringe.
+Aisling the Fox says in an unusual Irish accent, "This is why we do not like
+AEU."
+Kim Saunders says in a New Bristol accent, "Hmm, well, maybe not, but when I ask
+her a question, the few times I have, she has never attacked or disliked me for
+it. For other things I said, yeah maybe, but not for wishing to learn from her
+perspective on things."
+Aisling the Fox shrugs.
+Aisling the Fox prances south.
+Manx the little calico CatBot trots happily after Aisling the Fox with a quiet
+hiss of hydraulics.
+Kim Saunders strolls south.
+Lily Kaise says in a New Earth accent, "Well I don't have any dislike for
+anyone. I take everyone including you Aisling on face value."
+eta
+The ship's current engine speed is 5079 km/s.
+Soraya Rhyz says in a Luna accent, "Ah, Aisling left."
+Lily Kaise says in a New Earth accent, "Haha."
+Akemi Bando says in a strange Japanese accent, "I like tomatoes."
+Akemi Bando says in a strange Japanese accent, "They're good, off the vine."
+Akemi Bando says in a strange Japanese accent, "Add some salt."
+Lily Kaise says in a New Earth accent, "Well sad she has such pre-consceived
+notions."
+Soraya Rhyz asks in a Luna accent, "Tomatoes?"
+Akemi Bando says in a strange Japanese accent, "Yes. Delicious."
+Lily Kaise says in a New Earth accent, "'anyway I like kale."
+Lily Kaise laughs.
+Soraya Rhyz says in a Luna accent, "Ferns."
+Soraya Rhyz nods.
+Klaus Stein says in a German accent, "Tomatos are good."
+Lily Kaise exclaims in a New Earth accent, "Ferns are lovely!"
+Akemi Bando asks in a strange Japanese accent, "Aren't ferns poisonous to eat?"
+Lily Kaise says in a New Earth accent, "I believe they are."
+Soraya Rhyz says in a Luna accent, "Not all of them."
+Soraya Rhyz says in a Luna accent, "Fiddleheads are edible."
+Lily Kaise says in a New Earth accent, "Ah I didn't know that."
+Akemi Bando asks in a strange Japanese accent, "Are fiddleheads ferns?"
+Lily Kaise says in a New Earth accent, "I thought they were very poisonous to
+cats."
+Soraya says to Lily, "Well, lots of things we eat are poisionous to animals."
+Lily Kaise says in a New Earth accent, "So never kept ferns around mine although
+I love the texture and different varieties of ferns."
+'This is true.
+You say, "This is true."
+Soraya Rhyz says in a Luna accent, "Like onions and chocolate."
+Lily Kaise says in a New Earth accent, "True."
+The ground below shakes violently as the eruptions from the volcano intensify.
+The platform speeds up to avoid the falling, fiery debris.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Akemi Bando asks in a strange Japanese accent, "Hey Shule, what's your take on
+Rebane?"
+The volcano erupts, sending chunks of half-molten rock flying into the air
+before the fall from the sky, one narrowly misses hitting the platform.
+-akemi Honestly, I'm not sure yet as I really need to find out more information.
+I've been more focusing on work than anything else.
+You say to Akemi, "Honestly, I'm not sure yet as I really need to find out more
+information. I've been more focusing on work than anything else."
+Akemi Bando asks in a strange Japanese accent, "Plenty of time to form opinions.
+You guys have the vote in November, yeah?"
+nod akemi
+You nod to Akemi Bando.
+-akemi I need to sit down and spend some time really getting familiar with all
+of the candidates and their various positions.
+You say to Akemi, "I need to sit down and spend some time really getting
+familiar with all of the candidates and their various positions."
+-akemi Before I form a solid opinion.
+You say to Akemi, "Before I form a solid opinion."
+Soraya Rhyz says in a Luna accent, "Politics are always messy, seems like a good
+plan."
+Lily Kaise nods.
+Akemi says to you in a strange Japanese accent, "Figure out which will need you
+the most. Not just use you as a talking point."
+A hairy black and red striped eight-legged ArachnoPal named Araignée skitters
+into the area.
+nod akemi
+You nod to Akemi Bando.
+A hairy black and red striped eight-legged ArachnoPal named Araignée wiggles his
+hairy palps endearingly.
+You hear tormented cries and wailing off in the distance, but cannot determine
+where they are coming from.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec's voice comes over the
+loudspeaker and says, "Were five planets of highest quality?"
+Lily Kaise says into the PA microphone, "Let's feel assured that they might be."
+Lily Kaise laughs.
+Akemi Bando says into the PA microphone, "In orbit around a dwarf star, not very
+bright."
+Akemi Bando says into the PA microphone, "Not suitable for living places, but
+maybe useful for other things in the future."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec's voice comes over the
+loudspeaker and says, "Well, not all planets are smart."
+Akemi Bando smiles.
+Akemi Bando walks south.
+l
+[Starship "Zéro Des Cartes"; Control Room]
+A barren hellscape covered in ash stretches on for miles in all directions. Off
+on the horizon, a massive volcano is spewing ash and fire into the blackened sky
+from its crater, and glowing lava flows cover the mountain. The scorched remains
+of trees, animals, and humans litter the ground. A thick band that stretches
+across all of the walls at a seven-foot height indicates that the ship is on red
+status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a wormhole drive tracer, a blue velvet sectional sofa, a large secure
+xenology storage container, a small blue bioplastic ship light (casting a soft
+blue glow), a dark brown leather captain's chair, a small square dark brown
+rattan table with a glass top, an interdictor launcher, Nestor the humanoid
+service robot, a cardboard box labeled 'Here be keys', an orange plastic box
+labeled 'Felo Chow', a soft square dark blue rug with a luxuriously deep pile
+and thick gold fringe, a metal container, a crudely hammered scrap metal feeding
+trough, a small natural golden brown trash bin, Magellan the arachnoid security
+robot, and a hairy black and red striped eight-legged ArachnoPal named Araignée
+here.
+Rogue Romano is dozing on a blue velvet sectional sofa. Soraya Rhyz is sitting
+on a soft square dark blue rug. Klaus Stein and Lily Kaise are sitting on a blue
+velvet sectional sofa.
+You can go south, up, and out.
+(You are sitting on a blue velvet sectional sofa.)
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+A hairy black and red striped eight-legged ArachnoPal named Araignée taps his
+claws on the floor.
+The volcano erupts, sending chunks of half-molten rock flying into the air
+before the fall from the sky, one narrowly misses hitting the platform.
+The ground trembles as the volcano erupts violently. The entire mountain is
+blown apart in the distance. You see the pyroclastic blast rushing toward you
+before you even hear the sound of the eruption, and the moment it reaches you,
+it disappears into a swirling mist and the starship is once more whole.
+A door flies open in front of you, and you step through into a cramped, heavily
+decorated Victorian-era room. Something about this place isn't right.
+A hairy black and red striped eight-legged ArachnoPal named Araignée skitters
+south.
+You feel increasingly uneasy. You find yourself stepping more quickly.
+Lily Kaise opens an orange plastic box labeled 'Felo Chow'.
+Lily Kaise closes an orange plastic box labeled 'Felo Chow'.
+Lily Kaise stands up from a blue velvet sectional sofa.
+Lily Kaise says in a New Earth accent, "Magellan follow."
+Magellan the arachnoid security robot says in a synthesized voice, "Caretaking
+task has been canceled."
+Magellan the arachnoid security robot says in a synthesized voice, "Order
+confirmed."
+Magellan the arachnoid security robot begins following Lily Kaise.
+Lily Kaise glides south.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+Lily Kaise glides in from the south.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise says in a New Earth accent, "Magellan feed felo."
+Magellan the arachnoid security robot says in a synthesized voice, "Order
+confirmed."
+Magellan the arachnoid security robot stops following Lily Kaise.
+Magellan the arachnoid security robot skitters south.
+Magellan the arachnoid security robot skitters into the room.
+Magellan the arachnoid security robot says in a synthesized voice, "Assigned
+task complete."
+Magellan the arachnoid security robot begins following Lily Kaise.
+Lily Kaise says in a New Earth accent, "Magellan follow."
+Magellan the arachnoid security robot says in a synthesized voice, "Order
+confirmed."
+Magellan the arachnoid security robot stops following Lily Kaise.
+Lily Kaise says in a New Earth accent, "Magellan feed fish."
+Magellan the arachnoid security robot says in a synthesized voice, "Order
+confirmed."
+Magellan the arachnoid security robot skitters south.
+Lily Kaise says in a New Earth accent, "He was out of chow."
+'oh
+You say, "Oh."
+Lily Kaise says in a New Earth accent, "I had two bags so I gave him what I
+had."
+'I have some too that I can give him.
+You say, "I have some too that I can give him."
+Lily Kaise says in a New Earth accent, "Surprised nobody else bothered though."
+Magellan the arachnoid security robot skitters into the room.
+Magellan the arachnoid security robot skitters up.
+Magellan the arachnoid security robot skitters into the room.
+Magellan the arachnoid security robot skitters south.
+Magellan the arachnoid security robot skitters into the room.
+Magellan the arachnoid security robot says in a synthesized voice, "Assigned
+task complete."
+Lily Kaise says in a New Earth accent, "Well he has two now, it's probably more
+than enough but I'm glad I checked."
+nod
+You nod.
+Lily Kaise says in a New Earth accent, "Magellen caretake."
+Lily Kaise says in a New Earth accent, "Magellan caretake."
+Magellan the arachnoid security robot says in a synthesized voice, "Order
+confirmed."
+Magellan the arachnoid security robot says in a synthesized voice, "I shall
+watch over the living beings on this ship as if they were my own."
+Lily Kaise sits down on a blue velvet sectional sofa.
+Lily Kaise cuddles up to you.
+A hairy black and red striped eight-legged ArachnoPal named Araignée skitters
+into the area.
+cuddle lily
+You cuddle up to Lily Kaise.
+You step forward into another room almost identical to the last. This place
+seems to go on forever.
+A hairy black and red striped eight-legged ArachnoPal named Araignée's
+unblinking eyes stare into the middle distance.
+who
+There appear to be about 21 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A) [m]
+*Kim Saunders  (A) [m]
+*Lily Kaise  (A)
+%Angel Martin  (A)
+*Akemi Bando  (L)
+*Soraya Rhyz  (L)
+*Klaus Stein  (L)
+%Josh Robertson  (L)
+%Emily Ford  (L)
+%Nicolette of None  (L)
+%Melinda Michaels  (L)
+%Seneca Morris  (L)
+%Damien Goss  (L)
+%Damien Alexander  (F)
+%Emmett Lee  (F) [c]
+%Evenia Callseah  (F)
+%Ted Warburton  (F)
+*Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+*Aisling the Fox  (M)
+*Anfisa of Marzore  (M) [v]
+%Liam O'Toole  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 31 pilots.
+A hairy black and red striped eight-legged ArachnoPal named Araignée skitters
+up.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+You step into another room and notice a door left open to the dark night.
+Vaguely unsettled, you hurry to close it.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise leans on you.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise squeezes you affectionately.
+Lily Kaise beams at you.
+Pari the small black winged felo wanders in from the south.
+Soraya Rhyz picks up Pari the small black winged felo.
+Soraya Rhyz scrambles to her feet.
+Soraya Rhyz wanders south.
+You step into another room and notice a door left open to the dark night.
+Vaguely unsettled, you hurry to close it.
+A hairy black and red striped eight-legged ArachnoPal named Araignée skitters
+into the area.
+Keegan Wantz strides in from the south.
+Keegan Wantz strides south.
+You step forward into another room almost identical to the last. This place
+seems to go on forever.
+With a sudden feeling of impending doom, you turn around. The scene abruptly
+fades to formless mist.
+You hear a steady, rhythmic sound. The mist clears, and you gaze out through the
+window at the passing landscape as the train chugs along.
+A hairy black and red striped eight-legged ArachnoPal named Araignée's
+unblinking eyes stare into the middle distance.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+l
+[Starship "Zéro Des Cartes"; Control Room]
+The core of every starship is the control room. Only a handful of tendril-like
+cables snake across the walls, unlike most starships. While nothing visibly
+holds them against the wall, they refuse to move even if you grip them. The
+transparisteel viewport is stretched across the entire fore wall of the room,
+but is thinner than usual. Most pilots will spend their time focusing on the
+large starmap dominating the left side of the room. Beside the starmap is the
+primary control board, providing essential functions like the shipwide power
+lever. Secondary and tertiary control boards are available in a wide semicircle
+around the primary board for greater manipulation of ship systems. The control
+room is rather spacious, but the position of the control panels forming an arc
+around the small central spot leaves little room for others beyond the pilot. A
+thick band that stretches across all of the walls at a seven-foot height
+indicates that the ship is on red status. Looking through the windows, you see
+that the ship is inside the riftflow.
+You see a wormhole drive tracer, a blue velvet sectional sofa, a large secure
+xenology storage container, a small blue bioplastic ship light (casting a soft
+blue glow), a dark brown leather captain's chair, a small square dark brown
+rattan table with a glass top, an interdictor launcher, Nestor the humanoid
+service robot, a cardboard box labeled 'Here be keys', an orange plastic box
+labeled 'Felo Chow', a soft square dark blue rug with a luxuriously deep pile
+and thick gold fringe, a metal container, a crudely hammered scrap metal feeding
+trough, a small natural golden brown trash bin, Magellan the arachnoid security
+robot, and a hairy black and red striped eight-legged ArachnoPal named Araignée
+here.
+Rogue Romano is dozing on a blue velvet sectional sofa. Klaus Stein and Lily
+Kaise are sitting on a blue velvet sectional sofa.
+You can go south, up, and out.
+(You are sitting on a blue velvet sectional sofa.)
+Lily Kaise squeezes you affectionately.
+Lily says to you in a New Earth accent, "I suppose we could go down to the
+observation room. I don't htink everyone there has the same bad attitude."
+Lily Kaise grins.
+grin 
+You grin.
+stand
+You stand up from a blue velvet sectional sofa.
+Lily Kaise stands up from a blue velvet sectional sofa.
+s
+[Starship "Zéro Des Cartes"; Main Deck; Fore]
+You see a long counter with a blue and gold marble laminate top edged with
+grooved chrome, a soft square light blue rug with a luxuriously deep pile and
+thick gold fringe, a black plastic tray of spider chow, a glossy silver ceramic
+felo chow bowl, and a small bubbling white-lit aquarium here.
+You can go north, south, and down.
+Lily Kaise glides in from the north.
+Lily Kaise glides down.
+kiss lily
+I don't see "lily" here.
+kiss lily
+I don't see "lily" here.
+d
+[Starship "Zéro Des Cartes"; Gunnery Deck; Fore]
+You see a crudely hammered scrap metal feeding trough here.
+You can go east, south, west, up, and down.
+d
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes, one containing Kim Saunders beating at the
+hatch of the tube, a portable hot tub, a crudely hammered scrap metal feeding
+trough, and a black plastic tray of spider chow here.
+You can go north, south, and up.
+n
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, a round saffron orange
+zafu with a white strap, Manx the little calico CatBot, a cute little plush
+calico cat with brilliant green eyes, Pari the small black winged felo, and a
+hairy blue and orange striped eight-legged ArachnoPal named Kai Junior here.
+Aisling the Fox is sitting on a round saffron orange zafu. Pierre-Louis
+Tremblay-du-Lys du Nouveau Quebec is sitting on an emerald green armchair.
+Anfisa of Marzore and Akemi Bando are sitting on a soft square dark blue rug.
+Soraya Rhyz is sitting on a large dark purple floor pillow. Keegan Wantz is
+sitting on Soraya Rhyz's lap. Lily Kaise is sitting on a large white and
+turquoise paisley floor pillow.
+You can go east, south, and west.
+Lily Kaise waves and smiles.
+sit white and turquoise
+You sit down on a large white and turquoise paisley floor pillow with thick
+silver fringe.
+wave
+You wave.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Only the finest planets."
+eta
+I don't understand that.
+Soraya Rhyz applauds sedately.
+Keegan Wantz beams.
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters into the area.
+Soraya Rhyz leans on Keegan Wantz.
+A hairy black and purple striped eight-legged ArachnoPal named Webster skitters
+into the area.
+A hairy blue and orange striped eight-legged ArachnoPal named Kai Junior works
+her fangs.
+Pari the small black winged felo stares curiously up at Anfisa of Marzore.
+A hairy dark yellow eight-legged ArachnoPal named Tiki spins webbing, gathering
+it into a ball with her back feet, then eats it.
+Pari the small black winged felo stares curiously up at Lily Kaise.
+Soraya Rhyz says in a Luna accent, "Starei."
+Keegan Wantz stares at Pari the small black winged felo.
+Keegan Wantz strokes the soft fur of Pari the small black winged felo.
+Pari the small black winged felo purrs and rubs its head against Keegan's hand,
+looking up at him adoringly.
+A Tardick lizard named Raissa turns to regard its surroundings from its perch on
+Anfisa of Marzore's shoulder, and its spine ridges flicker blue for a brief
+moment.
+Soraya says to Keegan, "She's just too used to our faces, she's confused."
+Soraya Rhyz strokes the soft fur of Pari the small black winged felo.
+Pari the small black winged felo purrs and rubs its head against Soraya's hand,
+looking up at her adoringly.
+Lily Kaise says in a New Earth accent, "Hmm going to hunt for a little lizard
+who likely needs her daily meal."
+Lily Kaise stands up from a large white and turquoise paisley floor pillow with
+thick silver fringe.
+Lily Kaise glides south.
+nod lily
+I don't see that here.
+A hairy blue and orange striped eight-legged ArachnoPal named Kai Junior
+skitters south.
+Pari the small black winged felo wanders south.
+Lily Kaise glides in from the south.
+Lily Kaise glides east.
+Lily Kaise glides in from the east.
+Lily Kaise sits down on a large white and turquoise paisley floor pillow with
+thick silver fringe.
+smile lily
+You smile at Lily Kaise.
+A hairy black and purple striped eight-legged ArachnoPal named Webster works his
+fangs.
+Lily Kaise smiles at you.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+The train suddenly blows its whistle for no apparent reason.
+A hairy dark yellow eight-legged ArachnoPal named Tiki wiggles her hairy palps
+endearingly.
+A hairy black and purple striped eight-legged ArachnoPal named Webster skitters
+east.
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters east.
+A Tardick lizard named Raissa flicks its tongue out from its perch on Anfisa of
+Marzore's shoulder.
+Soraya Rhyz snuggles up to Keegan Wantz's shoulder.
+Keegan Wantz says in an Asuncionite accent, "Chugging along."
+Soraya Rhyz says in a Luna accent, "Yep, on a train."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+A conductor asks you for your ticket. You search your pockets, and when you
+finally look up to confess you've lost it, he is gone.
+Keegan Wantz says in an Asuncionite accent, "Chooo chooooo."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "For sure."
+A Tardick lizard named Raissa flicks its tongue out from its perch on Anfisa of
+Marzore's shoulder.
+Lily Kaise cuddles up to you.
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters into the area.
+cuddle lily
+You cuddle up to Lily Kaise.
+A hairy dark yellow eight-legged ArachnoPal named Tiki dips her palps into a
+black plastic tray of spider chow and pushes food into her mouth.
+The sound of the train echoes as it passes into a tunnel. A few moments later,
+it emerges again and all is back to normal.
+Soraya Rhyz says in a Luna accent, "Goodbye, train."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "We are back to walking."
+A hairy dark yellow eight-legged ArachnoPal named Tiki works her fangs.
+eta
+I don't understand that.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+A conductor asks you for your ticket. You search your pockets, and when you
+finally look up to confess you've lost it, he is gone.
+Steam billows from the train's engine, obscuring your vision.
+The mist swirls as drops of water begin to fall from above. A moment later, the
+ceiling opens and a deluge of water pours into the room, filling it to the brim.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec gets a distant look on his face
+as he ponders.
+Soraya Rhyz says in a Luna accent, "Well, swimming."
+A hairy dark yellow eight-legged ArachnoPal named Tiki's unblinking eyes stare
+into the middle distance.
+A hairy dark yellow eight-legged ArachnoPal named Tiki skitters south.
+Keegan Wantz says in an Asuncionite accent, "Blub."
+Soraya says to Keegan in a Luna accent, "Keegan the Maxwell."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Keegan waves his arms about.
+Soraya Rhyz grins.
+Soraya Rhyz hugs Keegan Wantz.
+Soraya says to Keegan in a Luna accent, "You're my topless mermaid."
+Keegan Wantz pulls a white cotton dress shirt off over his head.
+Keegan Wantz applauds sedately.
+Keegan Wantz pulls a white cotton dress shirt on over his head.
+Soraya Rhyz beams.
+l kim
+Soraya says to Keegan in a Luna accent, "I would wrestle you, but that's
+probably weird for everybody else."
+I see no "kim" here.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Keegan Wantz says in an Asuncionite accent, "And probably for us."
+Keegan Wantz grins.
+Soraya Rhyz says in a Luna accent, "It's good for private."
+Soraya Rhyz glances around at her surroundings.
+Keegan Wantz says in an Asuncionite accent, "The most exhibitionism we do is
+being rather cuddley."
+Keegan Wantz applauds sedately.
+Soraya Rhyz nods to Keegan Wantz.
+Soraya Rhyz says in a Luna accent, "Well, you flashed everyone your chest."
+Keegan Wantz says in an Asuncionite accent, "Oh no, my unremarkable nipples and
+my totally-not-square breasts."
+Soraya says to Keegan, "They're only vaguely square."
+Keegan Wantz says in an Asuncionite accent, "More like rectangles, I'm not quite
+that thin."
+Keegan Wantz chuckles.
+Lily Kaise cuddles up to you.
+\ecuddle lily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Will the horror ever ends."
+Soraya says to Pierre-Louis in a Luna accent, "I don't know. Squares or
+rectangles?"
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Triangles are good."
+Soraya Rhyz says in a Luna accent, "That is true."
+Soraya says to Keegan, "But whatever shape your breast are is the best shape."
+Soraya Rhyz says in a Luna accent, "Breast shape."
+Soraya Rhyz gets a distant look on her face as she ponders.
+Lily Kaise stands up from a large white and turquoise paisley floor pillow with
+thick silver fringe.
+Lily Kaise glides east.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "Wise words, probably."
+Soraya Rhyz nods.
+Lily Kaise glides in from the east.
+Lily Kaise glides south.
+Soraya Rhyz snuggles up to Keegan Wantz's shoulder.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a large white and turquoise paisley floor pillow with
+thick silver fringe.
+Lily Kaise twists the bottom of a closed cup of spaghetti upward, activating the
+internal self-heating mechanism.
+Lily Kaise quickly opens a can of fizzy cola by yanking on a convenient pull
+tab, ending up with an open can of fizzy brown cola.
+The bottom of a closed cup of spaghetti pops back out as its self-heating is
+completed.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "The aquarium is ever closer. Will alien ship look better? Is exciting
+question."
+Lily Kaise pulls the lid off a hot cup of spaghetti.
+Lily Kaise retrieves a steaming forkful of pasta from a hot cup of spaghetti and
+pops it into her mouth.
+Lily Kaise takes several bites of hot pasta from a hot cup of spaghetti.
+Lily Kaise takes a sip of an open can of fizzy brown cola.
+Soraya Rhyz says in a Luna accent, "I am interested to see. I also wonder if
+there'll be more eggs."
+Lily Kaise takes a sip of an open can of fizzy brown cola.
+Soraya Rhyz says in a Luna accent, "And weird doors that need to be opened
+again."
+Lily Kaise says in a New Earth accent, "I want to see how my eels fared and will
+leave more."
+Lily Kaise looks down into a hot cup of spaghetti, retrieving more flavorful
+bites as she nears the bottom of the cup.
+Lily Kaise takes a sip of an open can of fizzy brown cola.
+Lily Kaise finishes off a hot cup of spaghetti, leaving just a cup of
+heavily-flavored pasta water.
+Lily Kaise takes a sip of an open can of fizzy brown cola.
+Lily Kaise puts a foam cup in a small cinnamon brown trash bin.
+Lily Kaise finishes off an open can of fizzy brown cola.
+Lily Kaise puts an empty can in a small cinnamon brown trash bin.
+The large goldfish idly swims with disinterest.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "I do not know about doors or eggs, usually visits to it are
+significantly more distanced."
+Lily Kaise says in a New Earth accent, "Yeah it would seem it would require
+sometime for new ones to generate."
+Lily Kaise says in a New Earth accent, "I left a dozen or so eels though so I am
+curious to lean if they have survived."
+Lily Kaise says in a New Earth accent, "Learn."
+Soraya Rhyz nods to Pierre-Louis Tremblay-du-Lys du Nouveau Quebec.
+Lily Kaise says in a New Earth accent, "Or if they even hatched, for that
+matter."
+Soraya Rhyz says in a Luna accent, "That's why I'm curious to see how it looks
+when we get back."
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "That is a lot of eels."
+Lily Kaise says in a New Earth accent, "Hmm a few."
+Keegan Wantz says in an Asuncionite accent, "Very exciting."
+Soraya Rhyz applauds sedately.
+Soraya Rhyz says in a Luna accent, "Blub glug."
+stand
+You stand up from a large white and turquoise paisley floor pillow with thick
+silver fringe.
+e
+[Starship "Zéro Des Cartes"; Galley]
+You see the galley vending machine, a stainless steel table, a stainless steel
+bench, a painting framed in gold gilt of a tall sugar maple in spring, a robotic
+chef named Nellie, a compact white refrigerator, and a hairy black and purple
+striped eight-legged ArachnoPal named Webster here.
+You can go west.
+use machine
+You step up to the galley vending machine.
+What product would you like to purchase today from the galley vending machine?
+Soup
+    [1] Chicken Noodle                     
+    [2] Beef Noodle                        
+    [3] Tomato                             
+    [4] Minestrone                         
+    [5] Barley                             
+    [6] Peanut                             
+    [7] Pea                                
+    [8] Hot and Sour                       
+    [9] Clam Chowder                       
+    [10] Beef Stew                         
+    [11] Borscht                           
+    [12] Gazpacho                          
+Sandwiches
+    [13] Ham and Cheese                    
+    [14] Cucumber                          
+    [15] Roast Beef                        
+    [16] BLT                               
+    [17] Cheese and Pickle                 
+    [18] Cuban                             
+    [19] Kebab                             
+    [20] Egg Salad                         
+    [21] Tuna                              
+    [22] PBJ                               
+    [23] PBJ2                              
+    [24] Grilled Cheese                    
+    [25] Meatball                          
+    [26] Bologna                           
+    [27] Turkey                            
+Pasta
+    [28] Chicken Noodles                   
+    [29] Beef Noodles                      
+    [30] Spicy Noodles                     
+    [31] "Oriental" Noodles                
+    [32] Spaghetti                         
+    [33] Penne                             
+    [34] Ravioli                           
+    [35] Linguine                          
+    [36] Pad Thai                          
+Water
+    [37] Water                             
+[Type a line of input or `@abort' to abort the command.]
+31
+You tap a button on the galley vending machine and receive a closed cup of
+Asian-inspired noodles, draining some charge from the ship.
+use machine
+You step up to the galley vending machine.
+What product would you like to purchase today from the galley vending machine?
+Soup
+    [1] Chicken Noodle                     
+    [2] Beef Noodle                        
+    [3] Tomato                             
+    [4] Minestrone                         
+    [5] Barley                             
+    [6] Peanut                             
+    [7] Pea                                
+    [8] Hot and Sour                       
+    [9] Clam Chowder                       
+    [10] Beef Stew                         
+    [11] Borscht                           
+    [12] Gazpacho                          
+Sandwiches
+    [13] Ham and Cheese                    
+    [14] Cucumber                          
+    [15] Roast Beef                        
+    [16] BLT                               
+    [17] Cheese and Pickle                 
+    [18] Cuban                             
+    [19] Kebab                             
+    [20] Egg Salad                         
+    [21] Tuna                              
+    [22] PBJ                               
+    [23] PBJ2                              
+    [24] Grilled Cheese                    
+    [25] Meatball                          
+    [26] Bologna                           
+    [27] Turkey                            
+Pasta
+    [28] Chicken Noodles                   
+    [29] Beef Noodles                      
+    [30] Spicy Noodles                     
+    [31] "Oriental" Noodles                
+    [32] Spaghetti                         
+    [33] Penne                             
+    [34] Ravioli                           
+    [35] Linguine                          
+    [36] Pad Thai                          
+Water
+    [37] Water                             
+[Type a line of input or `@abort' to abort the command.]
+n
+The galley vending machine buzzes alarmingly at you and emits a shower of
+sparks.
+w
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, a round saffron orange
+zafu with a white strap, Manx the little calico CatBot, and a cute little plush
+calico cat with brilliant green eyes here.
+Aisling the Fox is sitting on a round saffron orange zafu. Pierre-Louis
+Tremblay-du-Lys du Nouveau Quebec is sitting on an emerald green armchair.
+Anfisa of Marzore and Akemi Bando are dozing on a soft square dark blue rug.
+Soraya Rhyz is sitting on a large dark purple floor pillow. Keegan Wantz is
+sitting on Soraya Rhyz's lap. Lily Kaise is sitting on a large white and
+turquoise paisley floor pillow.
+You can go east, south, and west.
+sit white and turquoise
+You sit down on a large white and turquoise paisley floor pillow with thick
+silver fringe.
+comm cup
+Commands for a closed cup of Asian-inspired noodles:
+--
+Unique   open cup                                                               
+             use cup
+         put <something> <something> cup                                        
+             close cup
+--
+Common   get cup                                                                
+             drop/throw cup
+         give/hand cup to <something>
+--
+use cup
+You twist the bottom of a closed cup of Asian-inspired noodles upward,
+activating the internal self-heating mechanism.
+The bottom of a closed cup of Asian-inspired noodles pops back out as its
+self-heating is completed.
+open cup
+You pull the lid off a hot cup of Asian-inspired noodles.
+Lily says to you in a New Earth accent, "There's more cola in the mesh bag in
+quarters if you want some."
+eat cup
+You retrieve a steaming forkful of pasta from a hot cup of Asian-inspired
+noodles and pop it into your mouth.
+-lily Oh, thanks.
+You say to Lily, "Oh, thanks."
+Lily Kaise nods and smiles.
+eat cup
+You take several bites of hot pasta from a hot cup of Asian-inspired noodles.
+stand
+You stand up from a large white and turquoise paisley floor pillow with thick
+silver fringe.
+s
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes containing Kim Saunders beating at the hatch
+of the tube and Klaus Stein staring with eyes wide and mouth wide open in a
+silent scream, a portable hot tub, a crudely hammered scrap metal feeding
+trough, a black plastic tray of spider chow, Klaus Stein's locker, a hairy dark
+yellow eight-legged ArachnoPal named Tiki, and a hairy blue and orange striped
+eight-legged ArachnoPal named Kai Junior here.
+You can go north, south, and up.
+s
+[Starship "Zéro Des Cartes"; Crew Quarters; Mid]
+You see a painting framed in gold gilt of a magnificent sugar maple ablaze with
+the colors of autumn, a pair of narrow bunks, a black plastic tray of spider
+chow, Zorya the hovering dragonfly robot, a glossy midnight blue ceramic felo
+chow bowl, a large bubbling azure blue-lit aquarium containing amber and crimson
+aquatic life and round rocks, a small bubbling white-lit aquarium containing
+crimson and blue aquatic life and round rocks, and Angel the old average-sized
+black ridged felo here.
+You can go north, east, south, and west.
+s
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, a black plastic tray of spider
+chow, a wall-sized bubbling coral pink-lit aquarium containing violet and blue
+aquatic life and coral rocks, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, and a wall-sized bubbling
+neon purple-lit aquarium containing fuchsia and cerulean aquatic life and coral
+rocks here.
+You can go north, east, south, west, and up.
+e
+[Starship "Zéro Des Cartes"; Living Quarters Six]
+You see a long plasteel counter, a pair of narrow bunks, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a large
+periwinkle bed pillow, a large periwinkle bed pillow, and a hand-made purple and
+amethyst flower quilt on it, a small oval turquoise rattan table with a glass
+top, a large oval dark purple and light purple cloth rug, a compact red
+refrigerator, a small seashell pink trash can, an insulated green cooler, a
+small red ball containing a realistic Bari horde noisemaker, a glossy gold
+ceramic felo chow bowl, an insulated orange cooler, a black plastic tray of
+spider chow, a purple nylon mesh shopping bag, and Hymn the big blue felo here.
+You can go out.
+l bag
+a camera bag
+You see nothing special.
+It is open.
+Inside it you see a photo of Sassie the sleeping large fuchsia felo and Xavier
+the sleeping big silver soldier felo, a photo of Akemi Bando, Sassie the
+sleeping large fuchsia felo, and Xavier the sleeping big silver soldier felo, a
+seven exposure film cartridge, a seven exposure film cartridge, a seven exposure
+film cartridge, a seven exposure film cartridge, a seven exposure film
+cartridge, a seven exposure film cartridge, a seven exposure film cartridge, a
+seven exposure film cartridge, and a seven exposure film cartridge.
+l mesh
+a purple nylon mesh shopping bag
+This purple shopping bag is made of stretchy nylon mesh. It has a matching
+synthleather band around the top, with two flexible handles for easy carrying.
+Square patches of velcro on the handles keep the bag closed when necessary.
+It is open.
+Inside it you see a Mutuality standard ration box, a Mutuality standard ration
+box, a Mutuality standard ration box, a Mutuality standard ration box, a
+Mutuality standard ration box, a Mutuality standard ration box, a can of tutti
+frutti crunchy dessert, a can of tutti frutti crunchy dessert, a can of tutti
+frutti crunchy dessert, a can of fizzy cola, a can of fizzy cola, a can of fizzy
+cola, a can of spicy red beans and rice, a can of brown rice and vegetables, a
+can of brown rice and vegetables, a can of orange juice, a can of cola, a can of
+cola, a can of Tutti Trutti Crunchy Dessert, a can of Tutti Trutti Crunchy
+Dessert, a can of Tutti Trutti Crunchy Dessert, a can of orange juice, a can of
+orange juice, a can of wheat bread, a can of wheat bread, a can of wheat bread,
+a can of creamy peanut butter, a can of creamy peanut butter, a can of vanilla
+pudding, a can of vanilla pudding, a can of chicken salad, a can of solid white
+tuna, a can of chunk light tuna, a can of pear halves, a can of pineapple
+chunks, a can of fruit cocktail, a can of fruit cocktail, a can of fruit
+cocktail, a can of fruit cocktail, a can of sliced peaches, a can of sliced
+peaches, a can of tuna salad, a can of tuna salad, a can of chicken-flavored
+synthbeef, and a can of chicken-flavored synthbeef.
+take cola from mesh
+You remove a can of fizzy cola from a purple nylon mesh shopping bag.
+open cola
+You quickly open a can of fizzy cola by yanking on a convenient pull tab, ending
+up with an open can of fizzy brown cola.
+out
+[Starship "Zéro Des Cartes"; Crew Quarters; Aft]
+You see a painting framed in gold gilt of a blossoming sugar maple in summer, a
+crudely hammered scrap metal feeding trough, a black plastic tray of spider
+chow, a wall-sized bubbling coral pink-lit aquarium containing violet and blue
+aquatic life and coral rocks, a small bubbling neon blue-lit toroidal aquarium
+containing red and blue aquatic life and round rocks, and a wall-sized bubbling
+neon purple-lit aquarium containing fuchsia and cerulean aquatic life and coral
+rocks here.
+You can go north, east, south, west, and up.
+n
+[Starship "Zéro Des Cartes"; Crew Quarters; Mid]
+You see a painting framed in gold gilt of a magnificent sugar maple ablaze with
+the colors of autumn, a pair of narrow bunks, a black plastic tray of spider
+chow, Zorya the hovering dragonfly robot, a glossy midnight blue ceramic felo
+chow bowl, a large bubbling azure blue-lit aquarium containing amber and crimson
+aquatic life and round rocks, a small bubbling white-lit aquarium containing
+crimson and blue aquatic life and round rocks, and Angel the old average-sized
+black ridged felo here.
+You can go north, east, south, and west.
+n
+[Starship "Zéro Des Cartes"; Cryosuspension; Fore]
+n
+You see a painting framed in gold gilt of a solitary sugar maple on a snowy
+hill, a row of cryosuspension tubes containing Kim Saunders beating at the hatch
+of the tube and Klaus Stein staring with eyes wide and mouth wide open in a
+silent scream, a portable hot tub, a crudely hammered scrap metal feeding
+trough, a black plastic tray of spider chow, Klaus Stein's locker, a hairy dark
+yellow eight-legged ArachnoPal named Tiki, and a hairy blue and orange striped
+eight-legged ArachnoPal named Kai Junior here.
+You can go north, south, and up.
+[Starship "Zéro Des Cartes"; Forward Observation]
+You see a large dark purple floor pillow, an overstuffed sofa upholstered in
+brilliantly colored patchwork fabric, an emerald green armchair with a hand-made
+purple and sapphire star quilt on it, a long table dressed with a fancy white
+cloth decorated with an overall gold fleur-de-lys design, a very large glossy
+poster of Nouveau Quebec Premier Maxime Roberge giving two thumbs up, a small
+cinnamon brown trash bin, a large bubbling royal blue-lit aquarium containing
+white round rocks, a sleek metal quantum entanglement communication device, a
+side table dressed with a fancy white cloth decorated with gold fleur-de-lis, a
+black plastic tray of spider chow, a glossy dark violet ceramic felo chow bowl,
+a soft square brown floor cushion, a large purple and lavender paisley floor
+pillow with thick silver fringe, a large white and turquoise paisley floor
+pillow with thick silver fringe, a soft square dark blue rug with a luxuriously
+deep pile and thick gold fringe, a transparisteel plaque engraved with the
+phrase ""Is good to expect nothing." -Pierre-Louis Tremblay-du-Lys", a small
+orange ball containing a realistic Bari horde noisemaker, a round saffron orange
+zafu with a white strap, Manx the little calico CatBot, and a cute little plush
+calico cat with brilliant green eyes here.
+Aisling the Fox is sitting on a round saffron orange zafu. Pierre-Louis
+Tremblay-du-Lys du Nouveau Quebec is sitting on an emerald green armchair.
+Anfisa of Marzore and Akemi Bando are dozing on a soft square dark blue rug.
+Soraya Rhyz is sitting on a large dark purple floor pillow. Keegan Wantz is
+sitting on Soraya Rhyz's lap. Lily Kaise is sitting on a large white and
+turquoise paisley floor pillow.
+You can go east, south, and west.
+sit white and turquoise
+You sit down on a large white and turquoise paisley floor pillow with thick
+silver fringe.
+eat cup
+You look down into a hot cup of Asian-inspired noodles, retrieving more
+flavorful bites as you near the bottom of the cup.
+eat cup
+You finish off a hot cup of Asian-inspired noodles, leaving just a cup of
+heavily-flavored pasta water.
+put cup in trash
+You put a foam cup in a small cinnamon brown trash bin.
+drink cola
+You take a sip of an open can of fizzy brown cola.
+The large goldfish floats nearby, its large mouth rhythmically opening and
+closing. It then abruptly swims off.
+drink cola
+You take a sip of an open can of fizzy brown cola.
+drink cola
+You take a sip of an open can of fizzy brown cola.
+drink cola
+You take a sip of an open can of fizzy brown cola.
+drink cola
+You finish off an open can of fizzy brown cola.
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec says in a Frenchified Rimward
+accent, "I hope to one cycle manage to obtain lost treasure guarded by plastic
+diver."
+hands
+You are carrying an empty can in your left hand.
+put can in trash
+You put an empty can in a small cinnamon brown trash bin.
+Aisling the Fox grins at Pierre-Louis Tremblay-du-Lys du Nouveau Quebec.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Soraya Rhyz says in a Luna accent, "Dare to dream."
+#SESSION 'star' DIED.

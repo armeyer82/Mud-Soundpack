@@ -1,0 +1,2869 @@
+siekanas
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Sep 26 07:13:15 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, Desiree the little black and
+white spotted CatBot, a glossy purple ceramic felo chow bowl, a round white
+rattan coffee table with a glass top, a small yellow ball containing a realistic
+Bari horde noisemaker, Meow the little calico CatBot, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and violet aquatic life and coral rocks, a
+robotic chef named Nellie, an insulated orange cooler, Magellan the arachnoid
+security robot, and an insulated purple cooler here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Trading is the best way to make credits, if you can find the right route.
+**
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[General Communication] Sakura Arakida transmits, "Don't mind me, but the vents
+on tandem echo quite nicely. Think my belch bounced back about 10 times."
+[General Communication] Morris Corlew transmits, "Oh my..."
+A hairy yellow eight-legged ArachnoPal named Higgins works his fangs.
+[General Communication] Sakura Arakida transmits, "Yay Acoustics."
+Lily Kaise says in a New Earth accent, "Wow what the heck is she talking about."
+Lily Kaise wraps her arms around you, pulling you close.
+'She's bragging about how loud her burps are.
+You say, "She's bragging about how loud her burps are."
+Lily Kaise says in a New Earth accent, "She's talking like a ten-year-old boy
+who is still obsessed with bodily stuff."
+Lily Kaise laughs.
+chuckle
+You chuckle.
+'Yeah, she is.
+You say, "Yeah, she is."
+Lily Kaise says in a New Earth accent, "Seriously."
+'I know.
+You say, "I know."
+'I was going to ask you if you wanted to go over there and socialize.
+You say, "I was going to ask you if you wanted to go over there and socialize."
+Lily Kaise asks in a New Earth accent, "Sure we could but if they're into a
+drinking, burping and vomiting contest, can we leave?"
+Lily Kaise laughs.
+laugh 'Definitely.
+You laugh. "Definitely."
+'In fact, please!
+You exclaim, "In fact, please!"
+A hairy yellow eight-legged ArachnoPal named Higgins works his fangs.
+'If they're into that kind of contst, I'll be begging you to leave.
+You say, "If they're into that kind of contst, I'll be begging you to leave."
+'contest
+You say, "Contest."
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly across the tank.
+Lily Kaise says in a New Earth accent, "All right."
+Lily Kaise says in a New Earth accent, "Sec."
+Lily Kaise scrambles to her feet.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+launch
+The navigation systems are nonfunctional until their power is restored.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "William Dove, you have clearance to
+launch. Good luck and come back to us safely."
+ftl tandem
+The ship is already moving.
+ftl tandem
+Which sector did you mean?
+[1] Tandem Territories (Mutuality)
+[2] Tandem Station (Mutuality)
+[3] Tandem Corridor (Mutuality)
+Enter your selection:
+2
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Via general sector communication, Space Station "Tandem" transmits, "William
+Dove, be advised that the Free Port Doctrine is in effect here."
+move
+AutoStar detects 23 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] Space Station "Tandem" (Alpha)      
+[2] Space Station "Tandem" (Beta)       
+   Debris:
+[3] Debris (nearest)                    
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Space Station "Tandem"
+(Alpha).
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+Would you like to request docking clearance for Space Station "Tandem" (Alpha)?
+[Enter `yes' or `no']
+y
+You notify flight control of your desire to dock.
+A voice comes over the speaker and says, "Greetings, William Dove. The Mutuality
+welcome you to this free port."
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+Lily Kaise joins your group.
+grin lily
+You grin at Lily Kaise.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy seashell pink ceramic felo chow bowl, an early warning space defense
+device, and Buddy the hefty blue soldier felo here.
+You can go out and enter into the ship.
+Lily Kaise followed you.
+out
+You exit the ship.
+[Space Station "Tandem"; Docking Bay Alpha]
+The five-person A.S.S. tactical platform "William Dove" is landed here.
+You see an automatic teller machine and a personal hoverpallet here.
+You can go east and down.
+Lily Kaise followed you.
+e
+[Space Station "Tandem"; Accessway]
+You can go north, east, south, west, and up.
+Lily Kaise followed you.
+Lily Kaise grins at you.
+e
+[Space Station "Tandem"; Outring]
+You can go north, south, west, and down.
+Lily Kaise followed you.
+go hatch
+[Space Station "Tandem"; Throughway]
+You can go east and out.
+Lily Kaise followed you.
+e
+[Space Station "Tandem"; Throughway]
+You can go north, east, south, and west.
+Lily Kaise followed you.
+e
+[Space Station "Tandem"; Throughway]
+You can go east and west.
+Lily Kaise followed you.
+Your ship 'William Dove' has been automatically moved into a garage.
+e
+[Space Station "Tandem"; Hub]
+You see an automatic teller machine and an AISSF station cleanliness droid here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+up, and down.
+Lily Kaise followed you.
+sw
+[Space Station "Tandem"; Bright's Bar]
+You see a battered holovid, a trash can, and a dark red and black payshoes
+interface here.
+Karasi Valhannon, Sakura Arakida, Morris Corlew, and Zandria Marschaund are
+sitting on a padded bar stool.
+You can go northeast.
+Lily Kaise followed you.
+Morris Corlew waves to Lily Kaise.
+Lily Kaise waves.
+wave
+Morris Corlew waves to you.
+You wave.
+sit stool
+You sit down on a padded bar stool.
+The aroma of freshly roasted peanuts wafts out of the peanut roasting machine on
+the bar.
+Karasi Valhannon says, OOCly, "Sorry... need a minute..."
+menu
+    ~|~  Bright's Bar  ~|~
+Brews                                              
+   [1]  Novabrew Light   10.00                     
+   [2]  Novabrew Dark    15.00                     
+By The Shot                                        
+   [3]  Sploders         20.00   (Color options)   
+Eats                                               
+   [4]  Pork Rind        5.00                      
+   [5]  Peanuts          5.00                      
+5
+I don't understand that.
+buy 5
+You order a handful of roasted peanuts.
+Lily Kaise sits down on a padded bar stool.
+Lily Kaise orders a handful of roasted peanuts.
+Lily Kaise dangles a handful of roasted peanuts in front of a Tardick lizard
+named Asteria. The lizard's tongue flicks out once, then its head lunges
+forward, snapping up the food in a sudden blur and immediately swallowing it
+whole.
+eat peanuts
+You take a bite of a handful of roasted peanuts.
+Sakura Arakida waves.
+Karasi Valhannon selects "I've got the peeing in a bottle, and someone later
+drinks it thinking that it's lemonade blues."; Sakura Arakida wins the round!
+Sakura Arakida: 5
+Morris Corlew: 3
+Zandria Marschaund: 5
+Karasi Valhannon: 3
+It will now be Sakura Arakida's time to choose.
+Karasi Valhannon giggles uncontrollably.
+Karasi Valhannon exclaims in a Martian accent, "Wow!"
+An AISSF station cleanliness droid lumbers into the area.
+Sakura Arakida draws a black card and reads it aloud: "I would gladly trade
+BLANK for some potato wedges."
+Morris Corlew says in an Appalachian accent, "Just...wow."
+Sakura Arakida smirks.
+Morris Corlew has chosen his response.
+Sakura Arakida says in a Japanese accent, "It was a grose prank a friend played
+on another friend when we were younger."
+Zandria Marschaund has chosen her response.
+Lily Kaise orders a handful of roasted peanuts.
+Morris Corlew says in an Appalachian accent, "Aww. The card I just got would
+have worked better."
+Lily Kaise takes a bite of a handful of roasted peanuts.
+An AISSF station cleanliness droid turns and slowly plods northeast.
+An elderly man moves slowly around the room, collecting empty mugs and wiping
+down unoccupied tables.
+Zandria Marschaund says in an Old Earth accent, "I hate that."
+Morris says to Sakura, "One looks nothing like the other."
+Zandria Marschaund orders a shot of glittery sploder.
+Lily Kaise takes a bite of a handful of roasted peanuts.
+eat peanuts
+You take a bite of a handful of roasted peanuts.
+Morris Corlew finishes off a serving of creamy macaroni and cheese with bits of
+real ham.
+A security guard in a black jacket steps into the bar, takes a close look
+around, then goes back out.
+eat peanuts
+You take a bite of a handful of roasted peanuts.
+eat peanuts
+You take a bite of a handful of roasted peanuts.
+eat peanuts
+You finish off a handful of roasted peanuts.
+Morris Corlew removes some pineapple space dots in a waffle cup from a clear
+plastic food storage container.
+Karasi Valhannon has chosen her response.
+All players have played their cards! It is time for Sakura Arakida to judge!
+Lily Kaise takes a bite of a handful of roasted peanuts.
+Morris Corlew gives you some pineapple space dots in a waffle cup.
+Morris Corlew removes some cherry space dots in a waffle cup from a clear
+plastic food storage container.
+Morris Corlew gives some cherry space dots in a waffle cup to Lily Kaise.
+Lily Kaise takes a bite of a handful of roasted peanuts.
+Lily Kaise finishes off a handful of roasted peanuts.
+thank morris
+I don't understand that.
+-morris Thanks.
+You say to Morris, "Thanks."
+Sakura Arakida selects "I would gladly trade Corin Shea in a sparkly pink tank
+top for some potato wedges."; Zandria Marschaund wins the round!
+Sakura Arakida: 5
+Morris Corlew: 3
+Zandria Marschaund: 6
+Karasi Valhannon: 3
+It will now be Morris Corlew's time to choose.
+Sakura Arakida smirks.
+Morris Corlew nods to you.
+Lily Kaise says in a New Earth accent, "Be right back I want some of that mac 'n
+cheese."
+Morris Corlew says in an Appalachian accent, "Oh my."
+Sakura Arakida says in a Japanese accent, "Sorry you AEU folks."
+Lily Kaise stands up from a padded bar stool.
+Lily Kaise glides northeast.
+Zandria Marschaund grins.
+Morris Corlew draws a black card and reads it aloud: "The first thing to be
+expelled from my storage hold is always BLANK."
+Sakura Arakida says in a Japanese accent, "Wait that's not AEU that's AEOS."
+Zandria Marschaund has chosen her response.
+laugh
+You laugh.
+Zandria Marschaund laughs.
+Morris Corlew says in an Appalachian accent, "This could be good..."
+Zandria Marschaund says in an Old Earth accent, "Indeed."
+Several women at a table near the door start singing a ditty about lonely
+spacers. At the end of the first verse, they stop, toast themselves, and down
+their drinks.
+Sakura Arakida has chosen her response.
+hands
+You are carrying some pineapple space dots in a waffle cup in your right hand.
+eta cup
+I don't understand that.
+eat cup
+You take a bite of some pineapple space dots in a waffle cup.
+eat cup
+You take a bite of some pineapple space dots in a waffle cup.
+Morris Corlew takes a bite of a chicken-flavored synthbeef sandwich layered with
+real guacamole and red peppers on grilled flatbread.
+eat cup
+You take a bite of some pineapple space dots in a waffle cup.
+eat cup
+You take a bite of some pineapple space dots in a waffle cup.
+eat cup
+You finish off some pineapple space dots in a waffle cup.
+Lily Kaise glides in from the northeast.
+hands
+You are carrying a cup in your right hand.
+put cup in trash
+You put a cup in a trash can.
+Lily Kaise asks in a New Earth accent, "Who gave me the dots?"
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Morris Corlew says in an Appalachian accent, "I did."
+Lily Kaise grins.
+Several spacers come in and seat themselves at the bar.
+Karasi Valhannon says, OOCly, "I'm sorry. I just found out that someone I knew
+but wasn't close to died this morning. I'm sorry to just stop roleplaying like
+that. Just kind of shaken."
+Karasi Valhannon has chosen her response.
+All players have played their cards! It is time for Morris Corlew to judge!
+Lily Kaise sits down on a padded bar stool.
+Karasi Valhannon says in a Martian accent, "Oh dear."
+Karasi Valhannon says in a Martian accent, "This is getting bad."
+Morris Corlew selects "The first thing to be expelled from my storage hold is
+always betakezamine."; Sakura Arakida wins the round!
+Sakura Arakida: 6
+Morris Corlew: 3
+Zandria Marschaund: 6
+Karasi Valhannon: 3
+It will now be Zandria Marschaund's time to choose.
+Morris Corlew glances around at his surroundings.
+Morris Corlew glances wildly about in a paranoid manner.
+Zandria Marschaund draws a black card and reads it aloud: "BLANK was the first
+in line at Icy's. They got evaporated."
+The aroma of freshly roasted peanuts wafts out of the peanut roasting machine on
+the bar.
+Morris Corlew snickers.
+Lily Kaise takes a bite of a serving of creamy macaroni and cheese with bits of
+real ham.
+Lily Kaise takes a bite of a serving of creamy macaroni and cheese with bits of
+real ham.
+Morris Corlew has chosen his response.
+Sakura Arakida has chosen her response.
+Morris Corlew takes a bite of a chicken-flavored synthbeef sandwich layered with
+real guacamole and red peppers on grilled flatbread.
+Morris says to Lily, "I think I gave you the last of my dots."
+Morris pretends to sob.
+Lily Kaise gives some cherry space dots in a waffle cup to Morris Corlew.
+Lily Kaise laughs.
+Morris Corlew grins at Lily Kaise.
+A disheveled man pushes himself away from the bar, stumbles across the room, and
+finally finds his way out the door.
+Morris Corlew exclaims in an Appalachian accent, "Thanks!"
+Karasi Valhannon says in a Martian accent, "Dots. All the dots."
+Lily Kaise says in a New Earth accent, "Good I can get something to drink."
+Lily Kaise laughs.
+Lily Kaise stands up from a padded bar stool.
+Morris Corlew chuckles.
+Lily Kaise glides northeast.
+Karasi Valhannon has chosen her response.
+All players have played their cards! It is time for Zandria Marschaund to judge!
+Lily Kaise glides in from the northeast.
+Lily Kaise sits down on a padded bar stool.
+Lily Kaise takes a sip of a bottle of sweet iced tea flavored with lemon.
+Lily Kaise takes a bite of a serving of creamy macaroni and cheese with bits of
+real ham.
+Over the murmur of conversation here, you hear someone cursing entertaining
+paper-bound books.
+Morris Corlew takes a bite of a chicken-flavored synthbeef sandwich layered with
+real guacamole and red peppers on grilled flatbread.
+Lily Kaise takes a sip of a bottle of sweet iced tea flavored with lemon.
+Lily Kaise takes a bite of a serving of creamy macaroni and cheese with bits of
+real ham.
+Lily Kaise finishes off a serving of creamy macaroni and cheese with bits of
+real ham.
+Morris Corlew finishes off a chicken-flavored synthbeef sandwich layered with
+real guacamole and red peppers on grilled flatbread.
+Lily Kaise takes a sip of a bottle of sweet iced tea flavored with lemon.
+Morris Corlew puts a clear plastic food storage container in a small black
+leather backpack.
+Lily Kaise takes a sip of a bottle of sweet iced tea flavored with lemon.
+Morris Corlew takes a bite of some cherry space dots in a waffle cup.
+menu
+    ~|~  Bright's Bar  ~|~
+Brews                                              
+   [1]  Novabrew Light   10.00                     
+   [2]  Novabrew Dark    15.00                     
+By The Shot                                        
+   [3]  Sploders         20.00   (Color options)   
+Eats                                               
+   [4]  Pork Rind        5.00                      
+   [5]  Peanuts          5.00                      
+Lily Kaise finishes off a bottle of sweet iced tea flavored with lemon.
+n
+You can't go that way.
+Lily Kaise puts a bottle in a trash can.
+'be right back
+You say, "Be right back."
+ne
+You scramble to your feet.
+[Space Station "Tandem"; Hub]
+You see an automatic teller machine here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+up, and down.
+peer
+You peer around...
+Crossway is to the north.
+Souvenirs is to the northeast.
+Throughway is to the east.
+Spacers is to the southeast.
+Crossway is to the south.
+Bright's Bar is to the southwest.
+Throughway is to the west.
+Shipsuits is to the northwest.
+Conference Area Lobby is up.
+Lower Hub is down.
+se
+[Space Station "Tandem"; Spacers]
+You see a trash can here.
+You can go northwest.
+menu
+    ~|~  Spacers  ~|~
+Appetizers                                                                   
+   [1]  Gelatin Soup                            20.00   (Color options)      
+Entrees                                                                      
+   [2]  Macaroni and Cheese                     15.00                        
+   [3]  Succotash and Ham                       15.00                        
+Sandwiches                                                                   
+   [4]  Synthbeef Bacon Cheeseburger            20.00                        
+   [5]  Chicken-Guacamole Sandwich              18.00                        
+   [6]  Peppery Pepperoni and Cheese Sandwich   20.00                        
+   [7]  Bacon and Cheese Sandwich               17.00                        
+Desserts                                                                     
+   [8]  Space Dots                              20.00   (Flavor options)     
+Beverages                                                                    
+   [9]  Hot Coffee and Tea                      5.00    (Beverage options)   
+   [10] Fizzy Soda                              10.00   (Color options)      
+   [11] Iced Tea                                10.00                        
+buy 6
+You order a pepperoni-flavored synthbeef sandwich heaped with chopped jalapeno
+peppers and melted cheese product between two thick slices of grilled flatbread.
+sw
+You can't go that way.
+nw
+[Space Station "Tandem"; Hub]
+You see an automatic teller machine here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+up, and down.
+sw
+[Space Station "Tandem"; Bright's Bar]
+You see a battered holovid, a trash can, and a dark red and black payshoes
+interface here.
+Karasi Valhannon, Sakura Arakida, Morris Corlew, Zandria Marschaund, and Lily
+Kaise are sitting on a padded bar stool.
+You can go northeast.
+sit stool
+You sit down on a padded bar stool.
+Zandria Marschaund pokes Sakura Arakida in the ribs!
+eat sandwich
+You take a bite of a pepperoni-flavored synthbeef sandwich heaped with chopped
+jalapeno peppers and melted cheese product between two thick slices of grilled
+flatbread.
+Sakura Arakida smirks.
+Sakura Arakida sighs.
+Morris Corlew says in an Appalachian accent, "Oh my."
+eat sandwich
+You take a bite of a pepperoni-flavored synthbeef sandwich heaped with chopped
+jalapeno peppers and melted cheese product between two thick slices of grilled
+flatbread.
+Sakura says to Zandria, "Mind if you drag me to crash in your ship. Think I need
+a head sooner than later."
+A security guard in a black jacket steps into the bar, takes a close look
+around, then goes back out.
+Sakura Arakida smirks.
+[General Communication] Alko Delovega transmits, "Let's do a camp!"
+Zandria says to Sakura, "You want to just jump out of the game now?"
+Karasi Valhannon says in a Martian accent, "Awww."
+Sakura Arakida says in a Japanese accent, "Nice game... but think sploders want
+to revisit me."
+Karasi Valhannon says in a Martian accent, "Cards. I need more cards."
+[General Communication] Liam O'Toole transmits, "I'll get my tent!"
+Karasi Valhannon says in a Martian accent, "Uh-oh."
+Karasi Valhannon pats Sakura Arakida on the back.
+Zandria Marschaund says in an Old Earth accent, "Oh all right then."
+Karasi Valhannon says in a Martian accent, "I need more dots."
+Karasi Valhannon stands up from a padded bar stool.
+Morris Corlew speaks into his metallic blue metachannel FTL communicator and
+watch:
+[General Communication] Morris Corlew transmits, "Not that one, Liam."
+[General Communication] Alko Delovega transmits, "Don't you have it on you?"
+Karasi Valhannon finishes off a large crispy crunchy pork rind.
+Karasi Valhannon meanders northeast.
+Sakura Arakida puts a deck of Horrible People cards in a small violet heather
+leather zip pouch.
+Morris Corlew removes a metallic silver touch einrophone from a black leather
+phone holster.
+Morris Corlew taps at his metallic silver touch einrophone and a tiny
+holoemitter comes to life.
+Sakura says to Zandria, "If I passout..."
+Karasi Valhannon meanders in from the northeast.
+Over the murmur of conversation here, you hear someone cursing entertaining
+paper-bound books.
+Karasi Valhannon sits down on a padded bar stool.
+Karasi Valhannon takes a bite of some chocolate space dots in a waffle cup.
+Sakura Arakida slumps in a padded bar stool and goes to sleep.
+Morris Corlew takes a bite of some cherry space dots in a waffle cup.
+Zandria Marschaund says in an Old Earth accent, "Okay..."
+Morris Corlew gasps at Sakura Arakida.
+Karasi Valhannon takes a bite of some chocolate space dots in a waffle cup.
+Morris Corlew grumbles. "Eyeliner."
+Morris Corlew turns a phone-based holoemitter off.
+Morris Corlew places a metallic silver touch einrophone into a black leather
+phone holster.
+Lily Kaise says to you in a New Earth accent, "That looks good."
+Morris Corlew takes a bite of some cherry space dots in a waffle cup.
+Lily Kaise says in a New Earth accent, "But I like the guacamole one."
+Morris says to Lily, "That one is very good."
+Some of the neon signs on the wall suddenly go dark. The bartender glances
+around, bangs on the wall with his fist, and the signs flicker back to life.
+Lily Kaise nods.
+Zandria Marschaund says in an Old Earth accent, "Well looks like I need to take
+someone back to the ship."
+Zandria Marschaund laughs.
+Morris Corlew removes a copy of "Temporary Station Information Booklet I" from a
+metallic silver messenger bag.
+Lily Kaise nods.
+Zandria Marschaund holds Sakura Arakida's hand, taking her into her group.
+Zandria Marschaund waves.
+Morris Corlew begins reading in a copy of "Temporary Station Information Booklet
+I".
+Zandria Marschaund scrambles to her feet.
+Zandria Marschaund lopes northeast.
+Morris Corlew mutters. "Hyperwave, core, battery, and charger."
+Morris Corlew puts a copy of "Temporary Station Information Booklet I" in a
+metallic silver messenger bag.
+l sakura
+Sakura Arakida (asleep)
+She appears to be 29 years old. She is about five feet and six inches tall and
+has fair skin. Her body is athletic with muscled hips and strong calves. She has
+narrow shoulders and somewhat small breasts. Her face is heart-shaped and
+girlish, with a delicate nose and sharp chin. Her lips are lovely and rosebud
+pink and occasionally part to reveal a set of pretty teeth. Beneath a set of
+expressive eyebrows, her eyes are pale blue and round. Her shoulder-length, wavy
+hair is blue-black with silver highlights and drawn back in a ponytail. She has
+oval rosy fingernails. She has a flame red rhinestone ponytail holder in her
+hair.
+ She is wearing a black leather jacket decorated with jeweled lavender swirls, a
+very tight lavender tank top with 'BEE STINGS' printed in silver across the
+chest, a pair of skinny black jeans with amethyst and azure blue jeweled
+starbursts on the front pockets, and a pair of black leather boots with stiletto
+heels and overall star-shaped rhinestone designs. She is also wearing a dark
+metallic pink touch einrophone in a dark gray leather phone holster, a
+shimmering pink and gold cherry blossom keychain, and a compact metallic saffron
+camera with a gold fleur-de-lys embossed on the front with a glittery cobalt
+blue camera strap. Her head, face, both eyes, neck, both wrists, and both hands
+are left uncovered.
+She is carrying nothing.
+Karasi Valhannon says into her metallic gold orange metachannel FTL
+communicator, "Zandria? You left someone."
+Morris Corlew glances down at his watch momentarily.
+Karasi Valhannon takes a bite of some chocolate space dots in a waffle cup.
+tra gen Zandria, you didn't grab Sakura.
+[General Communication] Shule Elemmire transmits, "Zandria, you didn't grab
+Sakura."
+[General Communication] Zandria Marschaund transmits, "Damn!"
+Zandria Marschaund lopes in from the northeast.
+Zandria Marschaund holds Sakura Arakida's hand, taking her into her group.
+Some of the neon signs on the wall suddenly go dark. The bartender glances
+around, bangs on the wall with his fist, and the signs flicker back to life.
+Zandria Marschaund says in an Old Earth accent, "Take care all of you."
+Morris Corlew waves to Zandria Marschaund.
+Zandria Marschaund waves to Morris Corlew.
+wave zandria
+You wave to Zandria Marschaund.
+Karasi Valhannon smiles at Zandria Marschaund.
+Karasi Valhannon takes a bite of some chocolate space dots in a waffle cup.
+Zandria Marschaund smiles at Karasi Valhannon.
+Zandria Marschaund waves to you.
+Zandria Marschaund lopes northeast.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+l sakura
+Sakura Arakida (asleep)
+She appears to be 29 years old. She is about five feet and six inches tall and
+has fair skin. Her body is athletic with muscled hips and strong calves. She has
+narrow shoulders and somewhat small breasts. Her face is heart-shaped and
+girlish, with a delicate nose and sharp chin. Her lips are lovely and rosebud
+pink and occasionally part to reveal a set of pretty teeth. Beneath a set of
+expressive eyebrows, her eyes are pale blue and round. Her shoulder-length, wavy
+hair is blue-black with silver highlights and drawn back in a ponytail. She has
+oval rosy fingernails. She has a flame red rhinestone ponytail holder in her
+hair.
+ She is wearing a black leather jacket decorated with jeweled lavender swirls, a
+very tight lavender tank top with 'BEE STINGS' printed in silver across the
+chest, a pair of skinny black jeans with amethyst and azure blue jeweled
+starbursts on the front pockets, and a pair of black leather boots with stiletto
+heels and overall star-shaped rhinestone designs. She is also wearing a dark
+metallic pink touch einrophone in a dark gray leather phone holster, a
+shimmering pink and gold cherry blossom keychain, and a compact metallic saffron
+camera with a gold fleur-de-lys embossed on the front with a glittery cobalt
+blue camera strap. Her head, face, both eyes, neck, both wrists, and both hands
+are left uncovered.
+She is carrying nothing.
+Morris Corlew takes Sakura Arakida into his group.
+Morris Corlew pulls Sakura Arakida towards him.
+Morris Corlew scrambles to his feet.
+Morris Corlew mosies northeast.
+Zandria Marschaund lopes in from the northeast.
+Morris Corlew mosies in from the northeast.
+Karasi Valhannon holds Sakura Arakida's hand, taking her into her group.
+Karasi Valhannon scrambles to her feet.
+Karasi Valhannon meanders northeast.
+tra gen Zandria, you need to pull her to her feet.
+[General Communication] Shule Elemmire transmits, "Zandria, you need to pull her
+to her feet."
+Morris Corlew takes Sakura Arakida into his group.
+Karasi Valhannon meanders in from the northeast.
+'oops
+You say, "Oops."
+Morris Corlew pulls Sakura Arakida to her feet.
+Zandria Marschaund says in an Old Earth accent, "Just a moment."
+Zandria Marschaund pulls Sakura Arakida towards her.
+A man across the room raises his mug, roaring a toast to asteroids. His friends
+at the table with him laugh, drain their mugs, and yell for more.
+Morris Corlew disbands his group.
+Morris Corlew nods to Zandria Marschaund.
+Zandria Marschaund pulls Sakura Arakida towards her.
+Zandria Marschaund holds Sakura Arakida's hand, taking her into her group.
+Zandria Marschaund's group lopes northeast.
+Morris Corlew sits down on a padded bar stool.
+Karasi Valhannon sits down on a padded bar stool.
+smile 'There we go.
+You smile. "There we go."
+Lily Kaise smiles.
+A young man carrying a large tray full of overflowing mugs rushes around the
+room, delivering beer to the customers.
+Morris Corlew takes a bite of some cherry space dots in a waffle cup.
+Morris Corlew finishes off some cherry space dots in a waffle cup.
+Morris Corlew forcefully hurls a cup at a trash can.
+It falls inside.
+Chairs scrape across the bare floor as several people get up to leave.
+eat sandwich
+You take a bite of a pepperoni-flavored synthbeef sandwich heaped with chopped
+jalapeno peppers and melted cheese product between two thick slices of grilled
+flatbread.
+eat sandwich
+You take a bite of a pepperoni-flavored synthbeef sandwich heaped with chopped
+jalapeno peppers and melted cheese product between two thick slices of grilled
+flatbread.
+Over the murmur of conversation here, you hear someone cursing entertaining
+paper-bound books.
+eat sandwich
+You finish off a pepperoni-flavored synthbeef sandwich heaped with chopped
+jalapeno peppers and melted cheese product between two thick slices of grilled
+flatbread.
+Morris Corlew gets a distant look on his face as he ponders.
+A tall spacer in dark clothing comes in and seats himself with a group at a
+table, yelling for a brew.
+A man across the room raises his mug, roaring a toast to asteroids. His friends
+at the table with him laugh, drain their mugs, and yell for more.
+A man across the room raises his mug, roaring a toast to asteroids. His friends
+at the table with him laugh, drain their mugs, and yell for more.
+who
+There appear to be about 17 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Soraya Rhyz  (L)
+Zandria Marschaund  (L)
+Johann Rowan  (L)
+Morris Corlew  (L)
+Nicolette of None  (L)
+Corey Matthews  (L)
+Karasi Valhannon  (L)
+Alko Delovega  (F)
+Tabi Canis  (F) [a]
+Evenia Callseah  (F)
+Ted Warburton  (F)
+Liam O'Toole  (M)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Your communicator also reports that there are 2 pilots who were active but
+dropped out of communications.
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 32 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+where
+Your communicator reports that...
+At least four recently active pilots are relaxing at Space Station "Tandem";
+Bright's Bar.
+Morris Corlew says in an Appalachian accent, "I might go start gathing station
+parts. I'm tired and not sure I can stay up until that thing goes down, so it
+might go up a few hours early."
+-morris Which station?
+You say to Morris, "Which station?"
+Morris says to you in an Appalachian accent, "Recharge at the Bubble. Joel is
+MIA again."
+The bartender finishes filling an order, pulls a cloth from his shoulder, and
+wearily wipes off the bar.
+'Ah, ok
+You say, "Ah, ok."
+Morris says to you in an Appalachian accent, "Did the beacon last night...with
+no accelerator or beacon. Fun times."
+-morris I know. I was listening to you on General.
+You say to Morris, "I know. I was listening to you on General."
+Several asteroid miners at a nearby table exchange stories about 'roid dogs,
+laughing all the while.
+Morris Corlew nods. "Yeah...I was bored stiff."
+Lily says to Morris, "We'll take care of 285 for now."
+Morris says to Lily, "I think the next thing to go down out there is the
+accelerator...but need to check."
+Lily Kaise says in a New Earth accent, "Nope."
+Morris Corlew asks in an Appalachian accent, "Which one?"
+Lily Kaise says in a New Earth accent, "It's the asteroid processor on
+Wednesday. We were out there yesterday morning and I noted everything."
+Morris Corlew says in an Appalachian accent, "Ah."
+An elderly man moves slowly around the room, collecting empty mugs and wiping
+down unoccupied tables.
+Lily Kaise says in a New Earth accent, "Actually later in the day."
+Morris Corlew asks in an Appalachian accent, "Ok...well I check the range office
+and make plans from there. When does the accelerator go down?"
+Lily Kaise says in a New Earth accent, "Sec."
+Morris Corlew nods.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Over the murmur of conversation here, you hear someone cursing entertaining
+paper-bound books.
+A disheveled man pushes himself away from the bar, stumbles across the room, and
+finally finds his way out the door.
+Lily Kaise says in a New Earth accent, "T had 4 days as of 0400AM yesterday like
+4 days and 7 hours."
+Lily Kaise says in a New Earth accent, "So sometime on Thursday."
+Morris Corlew nods to Lily Kaise. "Ok."
+A man wearing a neon orange smock over his clothes gets up from a table and
+wanders out.
+Morris Corlew says in an Appalachian accent, "Needs to go up by 1030 or 1100
+then."
+Major Change:
+Blast Furnace Overhaul!
+For a long time it's been noted that the blast furnace is better than all other
+power source options, and we agree! One big reason for that is that it recharges
+a ship practically instantaneously, and that any debris can be used with equal
+gains!
+Well, no more! Debris now has a specific fusion value, where materials such as
+hydrogen are far superior to materials such as iron or starship components,
+whereas water is somewhere in the middle, so oort clouds and stellar nurseries
+suddenly got a lot more appealing to visit!
+Additionally, recharging now takes time after you finish shovelling debris, and
+this is a much quicker process if the debris that has been salvaged is more
+fusible. However, during the recharging period, your ship cannot enter the rift.
+However, you can move normally in realspace during this time - the ship will be
+rather vulnerable, but not completely helpless.
+Finally, shovelling debris is now a continuous action, instead of one that you
+have to mash as vigorously as possible. Also, we have added some additional
+touches for realism.
+Not to worry, the overall endurance from a blast furnace remains unchanged -
+even if you're forced to use poorly fusible materials in a pinch, you'll get the
+same overall range... but recharging stops will take much longer and you'll need
+much more debris!
+Note: Currently extant debris doesn't have its proper recharge value, this new
+change only applies to newly-salvaged debris.
+Someone comes in from the hub, takes a quick look around, and leaves again.
+Lily Kaise says in a New Earth accent, "Yup that's about right and you'd be able
+to get there prior to when the emergency power is spent."
+Several asteroid miners at a nearby table exchange stories about 'roid dogs,
+laughing all the while.
+'Are we going to take care of it or are you going to, Morris?
+You ask, "Are we going to take care of it or are you going to, Morris?"
+Morris says to you in an Appalachian accent, "Up to you. I took over when
+everyone else was away."
+The aroma of freshly roasted peanuts wafts out of the peanut roasting machine on
+the bar.
+-morris We'll take care of 285 for now.
+You say to Morris, "We'll take care of 285 for now."
+Morris says to you in an Appalachian accent, "But if you guys have it, I can
+talk to Melinda about taking over the Bubble full-time."
+Lily Kaise says in a New Earth accent, "Well I probably won't be available when
+it goes down so if you would do that one, it would be appreciated."
+Morris Corlew nods. "That works."
+Morris Corlew nods to Lily Kaise. "Yeah, I can."
+Lily Kaise says in a New Earth accent, "We'll do the Asteroid processor."
+Morris Corlew nods. "That works."
+\e'oh, I could probably do the accelerator.
+I don't understand that.
+'Oh, I could probably do the accelerator, but ok.
+You say, "Oh, I could probably do the accelerator, but ok."
+shrug
+You shrug.
+Morris says to you in an Appalachian accent, "If you want to, that's fine."
+Morris Corlew gets a distant look on his face as he ponders. "Thursday...I would
+be available then...but it's up to you two."
+Over the murmur of conversation here, you hear someone cursing entertaining
+paper-bound books.
+Lily Kaise says in a New Earth accent, "I know I can't that time frame."
+Lily Kaise says in a New Earth accent, "But can handle the Asteroid Processor."
+Morris Corlew nods to Lily Kaise.
+-morris I'll take care of it.
+You say to Morris, "I'll take care of it."
+Morris Corlew nods to you. "Ok."
+Morris says to you in an Appalachian accent, "I might keep the constructor
+rented, since I don't have a mod transport of my own. I need to do that
+eventually, but it's not exactly top on my list of ships I need to purchase."
+Lily Kaise says in a New Earth accent, "Ok long as there's coordination and it
+gets done, that's cool."
+Lily Kaise grins.
+Morris Corlew nods to Lily Kaise. "Yep."
+Several asteroid miners at a nearby table exchange stories about 'roid dogs,
+laughing all the while.
+-morris It's fine. I have access to other ships including my own constructor.
+You say to Morris, "It's fine. I have access to other ships including my own
+constructor."
+Morris Corlew nods to you. "Ok."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Morris Corlew stands up from a padded bar stool.
+The aroma of freshly roasted peanuts wafts out of the peanut roasting machine on
+the bar.
+Morris Corlew says in an Appalachian accent, "Be right back."
+Morris Corlew mosies northeast.
+Morris Corlew mosies in from the northeast.
+Morris Corlew sits down on a padded bar stool.
+Morris Corlew takes a sip of a bottle of sweet iced tea flavored with lemon.
+Morris Corlew says to Karasi Valhannon in an Appalachian accent, "You about
+ready to head back?"
+Chairs scrape across the bare floor as several people get up to leave.
+Morris Corlew takes a sip of a bottle of sweet iced tea flavored with lemon.
+Lily Kaise exclaims in a New Earth accent, "Ok I have to try this and I hope I
+don't embarrass myself!"
+Morris Corlew raises an eyebrow at Lily Kaise.
+Karasi Valhannon nods to Morris Corlew.
+Morris Corlew stands up from a padded bar stool.
+Lily Kaise orders a shot of neon purple sploder.
+Morris Corlew says in an Appalachian accent, "I'll drop you off."
+Morris Corlew takes Karasi Valhannon into his group.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise takes a sip of a shot of neon purple sploder.
+Morris Corlew pulls Karasi Valhannon to her feet.
+A young man carrying a large tray full of overflowing mugs rushes around the
+room, delivering beer to the customers.
+Morris Corlew grins at Lily Kaise. "It's mostly sugar."
+Lily Kaise says in a New Earth accent, "Oh ok I hope."
+laugh
+Morris Corlew chuckles.
+You laugh.
+Lily Kaise says in a New Earth accent, "I just like bright pretty colors."
+Morris Corlew nods to Lily Kaise.
+Morris Corlew waves.
+Lily Kaise waves to Morris Corlew.
+Morris Corlew's group mosies northeast.
+The aroma of freshly roasted peanuts wafts out of the peanut roasting machine on
+the bar.
+Lily says to you in a New Earth accent, "So you about ready to go Love?"
+nod and smile lily
+You nod and smile at Lily Kaise.
+Lily Kaise stands up from a padded bar stool.
+stand
+You stand up from a padded bar stool.
+Lily Kaise joins your group.
+grin lily
+You grin at Lily Kaise.
+ne
+[Space Station "Tandem"; Hub]
+You see an automatic teller machine here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+up, and down.
+Lily Kaise followed you.
+w
+[Space Station "Tandem"; Throughway]
+You can go east and west.
+Lily Kaise followed you.
+w
+[Space Station "Tandem"; Throughway]
+You can go north, east, south, and west.
+Lily Kaise followed you.
+go hatch
+Go where?
+w
+[Space Station "Tandem"; Throughway]
+You can go east and out.
+Lily Kaise followed you.
+out
+[Space Station "Tandem"; Outring]
+You see an AISSF station cleanliness droid here.
+You can go north, south, west, and down.
+Lily Kaise followed you.
+w
+[Space Station "Tandem"; Accessway]
+You can go north, east, south, west, and up.
+Lily Kaise followed you.
+w
+[Space Station "Tandem"; Docking Bay Alpha]
+The two-person Accord gemini "Onyx Fire" is landed here.
+You see an automatic teller machine and a personal hoverpallet here.
+You can go east and down.
+Lily Kaise followed you.
+enter dove
+You key in a transport of William Dove to your location.
+The five-person A.S.S. tactical platform "William Dove" is slowly brought in
+aboard an automated flatbed, then lowered to the floor.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy seashell pink ceramic felo chow bowl, an early warning space defense
+device, and Buddy the hefty blue soldier felo here.
+You can go out and enter into the ship.
+Lily Kaise followed you.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, Desiree the little black and
+white spotted CatBot, a glossy purple ceramic felo chow bowl, a round white
+rattan coffee table with a glass top, a small yellow ball containing a realistic
+Bari horde noisemaker, Meow the little calico CatBot, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and violet aquatic life and coral rocks, a
+robotic chef named Nellie, an insulated orange cooler, Magellan the arachnoid
+security robot, an insulated purple cooler, and Samantha the old large violet
+felo here.
+You can go south and out.
+Lily Kaise followed you.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+launch
+The navigation systems are nonfunctional until their power is restored.
+laugh
+You laugh.
+Lily Kaise says in a New Earth accent, "Oops."
+'oops
+You say, "Oops."
+Lily Kaise laughs.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise says in a New Earth accent, "Go for it."
+launch
+You use the ship's radio to ask flight control for launch clearance.
+Buddy the hefty blue soldier felo marches in from the airlock.
+A voice comes over the speaker and says, "William Dove, you have been given
+clearance to launch.
+Lily Kaise strokes the soft fur of Buddy the hefty blue soldier felo.
+Buddy the hefty blue soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise looks at you thoughtfully.
+Lily Kaise presses a button and brings up the FTL flight control board.
+Lily Kaise grins.
+The computer reports that the two-person hardened asteroid hauler "Let Me Rock
+Your World" has jumped out of the sector.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+Lily Kaise exclaims in a New Earth accent, "Team effort!"
+The computer reports that the two-person medium transport "Registered Merchant
+174" has jumped out of the sector.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+Via general sector communication, New Earth transmits, "Hello there, William
+Dove! Welcome to home space!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                           
+   Space Stations:
+[2] Space Station Alpha                 
+   Space Markets:
+[3] Space Market                        
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: New Earth.
+Lily says to you in a New Earth accent, "Do you know then where invaders puts
+their parts?"
+Would you like to request landing clearance at New Earth?
+[Enter `yes' or `no']
+'Yeah, I do
+Aborted.
+'Yeah, I do
+You say, "Yeah, I do."
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+1
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                           
+   Space Stations:
+[2] Space Station Alpha                 
+   Space Markets:
+[3] Space Market                        
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+Would you like to request landing clearance at New Earth?
+[Enter `yes' or `no']
+'And I have the key to their ship.
+Aborted.
+'And I have the key to their ship.
+You say, "And I have the key to their ship."
+land
+Would you like to request landing clearance at New Earth?
+[Enter `yes' or `no']
+y
+You notify flight control of your desire to land.
+A voice comes over the speaker and says, "Hello, William Dove. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+Samantha the old large violet felo hums melodically to itself as it wanders
+south.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise says in a New Earth accent, "Ok then 'we'll need an ejecter, a
+stealth sheathing from Joel and a fission breeder reactor put on Herding Cats."
+'Hold on. I'll get you a key.
+You say, "Hold on. I'll get you a key."
+Your ship 'William Dove' has been automatically moved into a garage.
+Lily Kaise nods.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at a white plastic undersea castle and clings to it for a moment, then
+jets off.
+Lily Kaise says in a New Earth accent, "Need cats too."
+'be right back
+You say, "Be right back."
+'ok
+You say, "Ok."
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy seashell pink ceramic felo chow bowl, and an early warning space defense
+device here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+w
+[New Earth; Spaceport East]
+You can go northeast, east, southeast, south, southwest, and west.
+w
+[New Earth; Spaceport East]
+You see a trash can, a sanitation drone, a sanitation drone, and a sanitation
+drone here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+w
+[New Earth; Spaceport East]
+You can go north, east, south, and west.
+sw
+You can't go that way.
+w
+[New Earth; Spaceport Central]
+You see a giant seizure-inducing claw machine here.
+You can go north, east, south, west, and up.
+e
+[New Earth; Spaceport East]
+You can go north, east, south, and west.
+e
+[New Earth; Spaceport East]
+You see a trash can, a sanitation drone, a sanitation drone, and a sanitation
+drone here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+sw
+[New Earth; Ship Sales]
+You see a trash can and a friendly cadet orientation assistant here.
+You can go northeast and south.
+remove cats from keychain
+You can't remove a keychain.
+get cats form keychain
+I see no "cats form keychain" here.
+take cats from keychain
+You slide a "Herding Cats" key off of a keychain.
+put key on keychain
+You slide a "Herding Cats" key onto a keychain.
+get business from keychain
+I see no "business" in a keychain.
+l keychain
+a keychain
+It covers nothing.
+On the keyring, you see a "Trademaker" key, a "Dealmaker" key, a "Unreality
+Programming 812" key, a "Revenge" key, a "Dealbreaker" key, a "Shooting Star"
+key, a "Draconis" key, a "Seeker's Wrath" key, a "Treasure Seeker" key, a
+"William Dove" key, an "Supernova" key, a "Triple Action Faction!" key, a "Star
+Of Destiny" key, a "Probable Solution" key, a "Meteor Shower" key, a "Israel
+Hope" key, a "Seventh Star" key, a "Profitable Cause" key, a "Flash" key, a
+"Triple Trouble" key, a "Fearless" key, a "Lidia's Pride" key, a "Fait Accompli"
+key, a "Flying Cat" key, a "Kalliste" key, a "Firestorm" key, a "Kitten
+Overdrive!" key, a "Capricious" key, a "Temp Station Condensation" key, a "Stars
+Wanderer" key, a "The Best Way To Travel" key, a "Bari Smasher!" key, a "Daisy
+May" key, a "Starlight Express" key, a "Celestial Explorer" key, a "Star
+Kittens" key, a "Money Maker" key, a "RockIt!" key, a "Davion James" key, a
+"Starshine 1" key, a "Starshine 2" key, a "Starshine 3" key, a "Star Creations"
+key, a "Vengeance" key, a "Courageous" key, a "Striking Distance" key, a
+"Starseekers' Defender" key, a "Chemeketa" key, a "Troubleshooter's Rescue" key,
+a "Starseekers' Gem" key, a "Double Trouble" key, a "Star Shooter" key, a
+"Seeker's Wrath" key, a "Critical Strike" key, a "No Mercy" key, an "Asteroid
+King" key, a "Roid Seeker" key, a "Rockahaulic" key, a "Starseeker's Beacon"
+key, a "Hellcat" key, a "Kalina" key, a "Devilcat" key, a "Demoncat" key, a
+"Blanche Schroeder" key, a "Cats Spare Parts" key, a "Invaders Spare Parts" key,
+a "Just Dropping In" key, a "The Annexation Of Barnham's Redoubt" key, a "Star
+Constructor" key, a "Under Construction" key, a "Starseekers Spare Parts" key, a
+"Starseekers Spare Parts" key, a "Unicorn" key, an "Zéro Des Cartes" key, and a
+"Herding Cats" key.
+get cats spare form keychain
+I see no "cats spare form keychain" here.
+take cats spare from keychain
+You slide a "Cats Spare Parts" key off of a keychain.
+duplicate key
+You insert a "Cats Spare Parts" key and 5000.0 AEU credits into the key
+duplicating machine.  After a moment, two keys topple into a tray:  yours, and
+its copy.  You retrieve them both.
+put key on keychain
+You slide a "Cats Spare Parts" key onto a keychain.
+put key on keychain
+You slide a "Cats Spare Parts" key onto a keychain.
+get invaders form keychain
+I see no "invaders form keychain" here.
+take invaders from keychain
+You slide a "Invaders Spare Parts" key off of a keychain.
+duplicate keychain
+That isn't a ship key or a control key.
+duplicate key
+You insert a "Invaders Spare Parts" key and 5000.0 AEU credits into the key
+duplicating machine.  After a moment, two keys topple into a tray:  yours, and
+its copy.  You retrieve them both.
+put key on keychain
+You slide a "Invaders Spare Parts" key onto a keychain.
+remove cats spare from keychain
+You can't remove a keychain.
+get cats spare fromo keychain
+I see no "cats spare fromo keychain" here.
+take cats spare from keychain
+You slide a "Cats Spare Parts" key off of a keychain.
+ne
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+e
+[New Earth; Spaceport East]
+e
+You see a sanitation drone here.
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+e
+[New Earth; Spaceport Landing Pad]
+e
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+You can't go that way.
+e
+You can't go that way.
+e
+You can't go that way.
+e
+You can't go that way.
+e
+You can't go that way.
+e
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+d
+You can't go that way.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy seashell pink ceramic felo chow bowl, and an early warning space defense
+device here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, Desiree the little black and
+white spotted CatBot, a glossy purple ceramic felo chow bowl, a round white
+rattan coffee table with a glass top, a small yellow ball containing a realistic
+Bari horde noisemaker, Meow the little calico CatBot, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and violet aquatic life and coral rocks, a
+robotic chef named Nellie, an insulated orange cooler, Magellan the arachnoid
+security robot, and an insulated purple cooler here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+give ky to lily
+I see no "ky".
+give key to lily
+You give a "Cats Spare Parts" key to Lily Kaise.
+give key to lily
+Lily Kaise doesn't seem to have a free hand.
+Lily Kaise puts a shot of neon purple sploder on a round white rattan coffee
+table with a glass top.
+Lily Kaise opens a lavender silk backpack embroidered with brightly hued
+butterflies.
+Lily Kaise removes a sparkly purple plastic paper dispenser from a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise slides a "Cats Spare Parts" key onto an enameled purple space cat
+keyring.
+Lily Kaise grins at you.
+give key to lily
+You give a "Invaders Spare Parts" key to Lily Kaise.
+'There you go
+You say, "There you go."
+Lily Kaise slides a "Invaders Spare Parts" key onto an enameled purple space cat
+keyring.
+Lily Kaise says in a New Earth accent, "Ironically, that isn't Ather's ship.
+They just named it that."
+Lily Kaise says in a New Earth accent, "I have Joels, Libs, Morn and probably
+all of them now."
+'probably
+Lily Kaise asks in a New Earth accent, "Including Keegan's do you have his?"
+You say, "Probably."
+Lily Kaise examines a sparkly purple plastic paper dispenser for a moment.
+'i don't have Keegan's.
+You say, "I don't have Keegan's."
+Lily Kaise makes a selection on a sparkly purple plastic paper dispenser, and a
+sheet of green paper slides out of the slot at the bottom into her waiting hand.
+Lily Kaise puts a sparkly purple plastic paper dispenser in a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise gives you a sheet of green paper.
+read paper
+Lily Kaise says in a New Earth accent, "There you go."
+--
+Asteroid Cluster 285 Status
+10/17/2316 around 0410AM
+asteroid processor
+3 days 12 hours plus 1 HR emergency
+Rift Accelerator
+4 days, 7 hours, 46 minutes, and 30 seconds plus 1 HR emergency
+Salvage processor
+7 days 18 hours plus 1 HR emergency
+Fusion powered Beacon
+21 days, 20 hours, 30 minutes, and 31 seconds plus 1 HR emergency
+--
+'Thanks
+You say, "Thanks."
+Lily Kaise says in a New Earth accent, "Sure."
+Lily Kaise says in a New Earth accent, "Sure will be nice when I get the Range
+Office but won't be long."
+Lily Kaise says in a New Earth accent, "I won't see everything though."
+put pape rin briefcase
+I don't understand that.
+Try this instead:  put pape rin briefcase in
+put paper in briefase
+I see no "briefase" here.
+put paper in briefcase
+You put a sheet of green paper in a leather briefcase.
+nod lily
+You nod to Lily Kaise.
+Lily Kaise says in a New Earth accent, "I used a different color so you would
+spot it more easily."
+Lily Kaise grins.
+grin
+You grin.
+'And I don't have Keegan's key.
+You say, "And I don't have Keegan's key."
+Lily Kaise says in a New Earth accent, "I think we should stay on top of this
+while we're in comms and if we go on Melinda's Expedition, then I'm sure Morris
+would stand in for us."
+nod lily
+You nod to Lily Kaise.
+'Can you get me a copy of Keegan's key?
+You ask, "Can you get me a copy of Keegan's key?"
+Lily Kaise says in a New Earth accent, "Sure."
+Thanks.
+I don't understand that.
+Lily Kaise asks in a New Earth accent, "Do you have Joel's and Johann's?"
+Lily Kaise says in a New Earth accent, "Joel's is Just Dropping In."
+Lily Kaise says in a New Earth accent, "In."
+'I know I haveJoel's I think I have Johann's. I just nave names, I don't
+remember who's is who's.
+You say, "I know I haveJoel's I think I have Johann's. I just nave names, I
+don't remember who's is who's."
+Lily Kaise says in a New Earth accent, "Ok be right back then."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise gives you a "Segue" key.
+Lily Kaise says in a New Earth accent, "He will usually have tops for us."
+Lily Kaise says in a New Earth accent, "I'll generally supply the cores so that
+we can monitor when those go down."
+[General Communication] Morris Corlew transmits, "Anyone know who contributes
+they hypercaster top for the Bubble recharge station?"
+[General Communication] Morris Corlew transmits, "Ug...tired and can't talk."
+[General Communication] Morris Corlew laughs.
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Cattr gen I think Starseekers I
+or whomever."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Wow that made lotsa sense."
+[General Communication] Morris Corlew transmits, "I've got your core...I can get
+a battery from other places...so that would work. I'll grab it then. Only other
+thing I need is the charger."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Starseekers does batteries and
+power-related."
+[General Communication] Morris Corlew transmits, "Oh wait...is it the hyperwave
+autorelayer module?"
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "No."
+[General Communication] Morris Corlew transmits, "Hmm. Ok then I still need that
+one. I didn't think that sounded right."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "I can't remember I think it's
+maybe the Medium level one."
+[General Communication] Morris Corlew transmits, "No...improved."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Look at the range on those. It
+needs to be about 3 LTC at least."
+A medium-sized semi-transparent spherical creature with long dangling tendrils
+and a cerulean glowing interior pulsates gently.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Lily Kaise says in a New Earth accent, "I'd have to look at the terminal as it's
+been a long time since I've bought transmitters."
+[General Communication] Morris Corlew transmits, "I'm looking at the tops, and I
+don't see distances on them."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "It's not just a top."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Look under Hyperwave."
+Lily Kaise grumbles.
+Lily Kaise laughs.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "William Dove, you have clearance to
+launch. Good luck and come back to us safely."
+[General Communication] Morris Corlew transmits, "Well, going by the book, which
+is what I have to go buy, it's listing an improved hyperwave broadcaster top,
+the core, the battery, and the basic starship charger."
+Lily Kaise says in a New Earth accent, "I better go look before he buys wrong
+one."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Yeah be right there."
+[General Communication] Morris Corlew transmits, "Thanks."
+Lily Kaise presses a button and brings up the FTL flight control board.
+A handful of lonely beacons watch over this area of space, their lights glowing
+palely in the dark, surrounded by tendrils of drifting dust and debris.
+A planet once existed here, until it was destroyed by the Outsiders. Now only
+large chunks of the planet remain, still drifting slowly away from each other,
+with clouds of debris filling the sector.
+[General Communication] Emmett Lee transmits, "Well I've now got a glowing
+personality."
+A circular space station dominates this sector, made of darkened metal
+reinforced against attack. By the look of it, this is probably the most heavily
+armored station in human space, excepting The Torus. This is the heart of the
+Accord of Free Worlds.
+Via general sector communication, Accord of Free Worlds Command transmits,
+"Hello, William Dove. Welcome to Accord space."
+[General Communication] Evenia Callseah transmits, "What, now?"
+[General Communication] Morris Corlew transmits, "Good on you, Emmett!"
+[General Communication] Emmett Lee transmits, "I'm wearing four glowing rings."
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: AFW Command (Dock
+Four).
+[General Communication] Morris Corlew transmits, "I expect you to be very
+friendly all the time."
+[General Communication] Morris Corlew chuckles.
+You notice Lily Kaise using the radio to ask for docking clearance.
+Lily Kaise squeezes you affectionately.
+A voice says over the speaker, "Roger, cleared to land at this Accord of Free
+Worlds port."
+[General Communication] Emmett Lee transmits, "No not all the time morris. Just
+most of the time."
+Lily Kaise kisses you.
+Lily Kaise says in a New Earth accent, "Be right back."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+[General Communication] Morris Corlew transmits, "You'll have to take the rings
+off then."
+[General Communication] Emmett Lee transmits, "No! No! No! I refuse!!"
+[General Communication] Morris Corlew transmits, "If they make you have a
+glowing personality, then logic would dictate if you are wearing them, your
+personality would be glowing...and if it isn't, then they are either
+malfunctioning, or you should take them off because all the laws of physics have
+been broken."
+A medium-sized semi-transparent bell-shaped creature with long dangling tendrils
+and a chartreuse glowing interior drifts slowly past a plastic frond of light
+green sea fern.
+[General Communication] Emmett Lee transmits, "You've got an exilent point. But
+I shall wear them as long as they remain glowing."
+[General Communication] Emmett Lee transmits, "I'm actually thinking about
+getting more of these."
+[General Communication] Morris Corlew transmits, "Don't glow too much, you'll be
+too bright and everyone will have to wear shades."
+[General Communication] Emmett Lee transmits, "That isn't my problem."
+[General Communication] Emmett Lee laughs.
+[General Communication] Morris Corlew transmits, "You won't be able to look at
+yourself..."
+[General Communication] Emmett Lee transmits, "I hate looking at myself. So that
+solves that problem."
+[Notification from Starseekers] Morris Corlew has used 8 member-designated
+megacredits on an improved hyperwave broadcaster module and placed it aboard the
+four-person space constructor "Star Constructor".
+[Notification from Starseekers] Morris Corlew has used 8 member-designated
+megacredits on a large precharged battery module and placed it aboard the
+four-person space constructor "Star Constructor".
+wrap lily
+I don't see that here.
+[General Communication] Emmett Lee transmits, "If my ship were any slower, I'd
+have time to take a nap before I reached the set Destination."
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise shrugs.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+Flight control gives the ship launch clearance.
+Lily Kaise says in a New Earth accent, "At least there will be a better charger
+out there."
+The computer reports that the four-person Accord space module transport
+"Starseekers Spare Parts" has docked with AFW Command (Dock Four).
+Lily Kaise presses a button and brings up the FTL flight control board.
+Lily Kaise squeezes you affectionately.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+Via general sector communication, New Earth transmits, "Hello there, William
+Dove! Welcome to home space!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: New Earth.
+You notice Lily Kaise using the radio to ask for landing clearance.
+A voice comes over the speaker and says, "Hello, William Dove. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Xavier the big silver soldier felo marches in from the south.
+Lily Kaise wraps her arms around you, pulling you close.
+A medium-sized semi-transparent spherical creature with long dangling tendrils
+and a cerulean glowing interior drifts slowly across the tank.
+Lily Kaise says in a New Earth accent, "Going to look for kitties."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/Trading.
+Lily Kaise glides in from the south.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (14/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+7
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] AEU
+  [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] General
+* [2] Trading
+  [3] Battle Reports
+  [4] Exploration
+* [5] Philosophy
+* [6] Name Changes
+  [7] Common Knowledge
+--
+  [8] Return
+  [9] Quit
+--
+Enter your selection:
+Lily Kaise strokes the soft fur of Samantha the old large violet felo.
+Samantha the old large violet felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+2
+--
+FTL Interalliance Communications Network
+--
+  [1] Re: Want To Buy: Horsehead Mask                                           
+     ('Doc' Anatolius of Stavros)
+  [2] Re: Want To Buy: Horsehead Mask                                           
+     (Akemi Bando)
+  [3] Digital Felo Challenge                                                    
+     (Berry Melons)
+  [4] list of upgrades                                                          
+     (Sakura Arakida)
+  [5] Re: list of upgrades                                                      
+     (Jason Rat)
+  [6] Re: list of upgrades                                                      
+     (Lily Kaise)
+  [7] Seeking Charting Instructor                                               
+     (Tatiana Krupin)
+  [8] Re: New Book! "Handy Hints: Antispinward Trading"                         
+     (Akemi Bando)
+  [9] Wanted Snapper Eggs (Dark Gray variety)                                   
+     (Lily Kaise)
+  [10] Trading for a Blue Glyph                                                 
+     (Soraya Rhyz)
+  [11] Wanted Eggs and Eggs for Trade                                           
+     (Lily Kaise)
+  [12] Asteroid scaner!                                                         
+     (Sean Sloan)
+  [13] Want to Buy Craft Parts                                                  
+     (Aisling the Fox)
+  [14] Re: Want to Buy Craft Parts                                              
+     (Joel Kringle)
+  [15] Re: Want to Buy Craft Parts                                              
+     (Aisling the Fox)
+  [16] Re: Want to Buy Craft Parts                                              
+     (Aisling the Fox)
+  [17] Looking for aquapede with dodecahedral shell                             
+     (Damien Alexander)
+  [18] Looking to buy lenses                                                    
+     (Cilah Silverthorn)
+  [19] Wanted a Feathered Felo                                                  
+     (Lily Kaise)
+  [20] Improved Engineering Technique Toolset available                         
+     (Akemi Bando)
+  [21] Mining Book                                                              
+     (Cilah Silverthorn)
+  [22] Want to buy Artifact Detector                                            
+     (Luja Garland)
+  [23] beacon craftings?                                                        
+     (Sakura Arakida)
+  [24] Artifact detecter.                                                       
+     (Nathaniel Owens)
+  [25] Artifact Detector                                                        
+     (Michael Winters)
+  [26] Re: Improved Engineering Technique Toolset available                     
+     (Akemi Bando)
+  [27] Seeking optical lenses                                                   
+     (Shule Elemmire)
+  [28] looking to buy another artifact detecter                                 
+     (Nathaniel Owens)
+  [29] Big Octarine Hummer Felo - Would make a good pet                         
+     (Lily Kaise)
+  [30] Re: Big Octarine Hummer Felo - Would make a good pet                     
+     (Morris Corlew)
+  [31] Re: Big Octarine Hummer Felo - Would make a good pet                     
+     (Lily Kaise)
+  [32] Beacon Signal Amplifier                                                  
+     (Michael Winters)
+  [33] Seeking a beacon autostop for my Gemini                                  
+     (Corey Matthews)
+  [34] Seeking Humanoid Service Robot Blueprint                                 
+     (Klaus Stein)
+  [35] Needing a few crafted items                                              
+     (Morris Corlew)
+  [36] Artifact detector wanted please                                          
+     (Ted Warburton)
+  [37] Snapper (Dark Gray) egg - a medium-sized shelled creature with a yellow
+shell  (Lily Kaise)
+  [38] A Pilot's Guide to Preparation                                           
+     (Ather Jammoa)
+  [39] Beacon autostop wanted                                                   
+     (Kirk Waltham)
+  [40] Exerpts From The Diary of a GSL is up at the space market                
+     (Melinda Michaels)
+  [41] Temporary Station Informational Booklet                                  
+     (Damien Goss)
+  [42] Re: Exerpts From The Diary of a GSL is up at the space market            
+     (Melinda Michaels)
+  [43] Wanted Semi-Transparent Egg with red Jellybulb                           
+     (Lily Kaise)
+  [44] looking for a spherical Jellybulb.                                       
+     (Evenia Callseah)
+  [45] Artifact detector                                                        
+     (Morris Corlew)
+  [46] Blue Hummer Felo and Violet Long-Haired Felo up for Adoption             
+     (Lily Kaise)
+  [47] SWF seeking WMM                                                          
+     (Elizabeth Beckman)
+  [48] Re: SWF seeking WMM                                                      
+     (Liam O'Toole)
+* [49] New Exploration Book on the Market                                       
+     (Morris Corlew)
+* [50] Seeking Orange Egg & More                                                
+     (Soraya Rhyz)
+--
+  [51] Return
+  [52] Post
+  [53] Quit
+--
+Enter your selection:
+Lily Kaise hugs Samantha the old large violet felo.
+Lily Kaise puts down Samantha the old large violet felo.
+49
+--
+FTL Interalliance Communications Network
+--
+Subject: New Exploration Book on the Market
+Author: Morris Corlew
+Posted: 06:25 16 October 2316 GST
+--
+Howdy, folks.
+There is a new exploration book available on the market. Short version of the
+story is that I had an encounter with someone in the rift, who dropped a journal
+when she was startled by seeing me. Hold off on the jokes about my face, please.
+I have painstakingly copied everything ftom said journal into a book with a
+short explanation about what took place. It is available for sale on the space
+market to even the poorest among you for only 1 single lonely credit.
+Happy reading and explorering...I mean exploring.
+--
+[1] Next
+[2] Previous
+[3] Return
+[4] Reply
+[5] Quit
+--
+Enter your selection:
+Samantha the old large violet felo hums melodically to itself as it wanders out.
+1
+--
+FTL Interalliance Communications Network
+--
+Subject: Seeking Orange Egg & More
+Author: Soraya Rhyz
+Posted: 03:17 18 October 2316 GST
+--
+I'm looking to buy an orange egg of any size, color, etc.
+Also seeking to trade some dark purple eggs with red-skinned and violet maxwells
+for any other color combos.
+And lastly, giving away a large aquarium. It comes with a neon red light, plus
+bubbler though the light color can probably be changed. Free to anyone who wants
+to start raising their own fish.
+Get in touch with me on comms, send mail or call me at 0002-33443 if you're
+interested in any of the above, thanks!
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+4
+Logged out of FTL Message Board Net.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise slumps in a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it and goes to sleep.
+Lily Kaise suddenly awakens.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+Lily Kaise says in a New Earth accent, "No extra orange eggs right now and you
+probably should hold onto your extra ones."
+Lily Kaise grins at you. "I am curious to know what colors you have though."
+Lily Kaise opens a coral pink silk handbag embroidered with pastel dragonflies.
+Lily Kaise removes a small silver genetic tester from a coral pink silk handbag
+embroidered with pastel dragonflies.
+Lily Kaise puts a small silver genetic tester on a round white rattan coffee
+table with a glass top.
+Lily Kaise runs a small silver genetic tester slowly over a wall-sized bubbling
+neon purple-lit aquarium containing yellow and violet aquatic life and coral
+rocks as the device blinks a light and beeps softly.
+Lily Kaise studies a small screen on the device.
+Lily Kaise says in a New Earth accent, "Oh cool."
+Lily Kaise says in a New Earth accent, "I can just leave it on the table."
+grin lily
+You grin at Lily Kaise.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Lily Kaise carefully removes a Tardick lizard named Asteria from her shoulder.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+Lily Kaise puts down a Tardick lizard named Asteria.
+pet asteria
+You stroke a Tardick lizard named Asteria's warm scaly skin.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+Samantha the old large violet felo hums melodically to itself as it wanders in
+from the airlock.
+Xavier the big silver soldier felo marches out.
+Lily Kaise strokes the soft fur of Samantha the old large violet felo.
+Samantha the old large violet felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet samantha
+You stroke the soft fur of Samantha the old large violet felo.
+Samantha the old large violet felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+A Tardick lizard named Asteria settles down, curling its limbs inward. Its eyes
+close slowly and it appears to sleep.
+Lily Kaise says in a New Earth accent, "Aww."
+Lily Kaise says in a New Earth accent, "I should have waited until we went to
+bed."
+'aww
+You say, "Aww."
+"speaking of which, I should go to sleep around 0500.
+You say, "Speaking of which, I should go to sleep around 0500."
+Samantha the old large violet felo hums melodically to itself as it wanders out.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise laughs.
+Lily Kaise says in a New Earth accent, "What."
+Lily Kaise laughs.
+'Kiss attack!!!
+You exclaim, "Kiss attack!!!"
+Lily Kaise kisses you on the lips.
+Lily Kaise kisses you on the lips.
+Lily Kaise kisses you on the lips.
+laugh
+You laugh.
+Samantha the old large violet felo hums melodically to itself as it wanders in
+from the airlock.
+Xavier the big silver soldier felo marches in from the airlock.
+'eek! Kiss attack back!
+You exclaim, "Eek! Kiss attack back!"
+-lily I love you.
+You say to Lily, "I love you."
+-lily I was making sure you were awake.
+You say to Lily, "I was making sure you were awake."
+Lily says to you in a New Earth accent, "I love you too Hun."
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, Desiree the little black and
+white spotted CatBot, a glossy purple ceramic felo chow bowl, a round white
+rattan coffee table with a glass top, a small yellow ball containing a realistic
+Bari horde noisemaker, Meow the little calico CatBot, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and violet aquatic life and coral rocks, a
+robotic chef named Nellie, an insulated orange cooler, Magellan the arachnoid
+security robot, an insulated purple cooler, a Tardick lizard named Asteria,
+Samantha the old large violet felo, and Xavier the big silver soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+Lily Kaise speaks into her metachannel FTL communicator:
+cuddle lily
+[General Communication] Lily Kaise transmits, "Oh Morris, could probably do with
+the Basic charger in the future. I was thinking of the Maintainer which is
+worthless."
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+[General Communication] Morris Corlew transmits, "Oh. Ok."
+[General Communication] Morris Corlew laughs. "Oh well."
+[General Communication] Morris Corlew transmits, "That's the one that goes out
+at GMG isn't it?"
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "It takes less power so the
+station won't last as long but not the end of the universe."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "I mean the Accelerated requires
+more so put basic on next time."
+[General Communication] Morris Corlew transmits, "Nope. So all you bubblers,
+enjoy the faster charging on this station for...what, maybe 11 days or so?"
+Samantha the old large violet felo seems to be hungry.
+Samantha the old large violet felo approaches a glossy purple ceramic felo chow
+bowl, glances around, then begins shoveling low-grade dry Felo Chow into its
+mouth.
+Xavier the big silver soldier felo rubs up against a rare black EAOSian
+contoured couch with a hand-made white and sapphire star quilt on it, purring
+softly.
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Yeah and it's just worthless."
+[General Communication] Morris Corlew chuckles.
+pet xvier
+I don't see that here.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+[General Communication] Morris Corlew transmits, "Lily, I just realized...I
+handed you my station book in the requisitions place and forgot to get it back.
+So if you need one, just hold on to it...I can get another easily enough."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Haha nope i'll send it over."
+[General Communication] Morris Corlew transmits, "Costs more to mail it than to
+buy a new one."
+Lily Kaise says in a New Earth accent, "Be right back."
+Lily Kaise scrambles to her feet.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a plastic shipwreck flying a pirate
+flag.
+Samantha the old large violet felo hums melodically to itself as it wanders out.
+Xavier the big silver soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+[General Communication] Lily Kaise transmits, "There's a key in tehre too for my
+constructor."
+[General Communication] Morris Corlew transmits, "Ah, cool. Thanks. I'll get it
+when I get back."
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+caress lily on back
+You gently caress Lily Kaise's back.
+Lily Kaise gently massages your shoulders.
+-lily Ready to go cuddle in bed?
+You say to Lily, "Ready to go cuddle in bed?"
+Lily Kaise says in a New Earth accent, "Sure."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides south.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a white
+microwave oven, a small dusky pink trash bin, a glossy slate blue ceramic felo
+chow bowl, a small purple ball containing a dingling bell, and a black plastic
+tray of spider chow here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a textured plasteel floor
+lamp with a cream shade (casting a white-colored glow), a glossy pale pink
+ceramic felo chow bowl, a small purple trash bin, a small yellow ball containing
+a realistic Bari horde noisemaker, a wall-sized bubbling coral pink-lit aquarium
+containing violet and blue aquatic life and coral rocks, a small bubbling neon
+blue-lit toroidal aquarium containing red and blue aquatic life and round rocks,
+a wall-sized bubbling neon purple-lit aquarium containing teal and crimson
+aquatic life and coral rocks, a black plastic tray of spider chow, Shasta the
+big onyx soldier felo, Jewel the large violet glowing felo, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+Lily Kaise is standing here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a glossy sapphire blue ceramic felo chow bowl, a dusky pink rattan
+cabinet, a white four poster rattan bed with a heart-shaped headboard and filmy
+deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it, a large oval dark purple
+and light purple cloth rug, a small oval turquoise rattan table with a glass
+top, a small seashell pink trash can, a soft fuchsia Tardick lizard snuggly
+labeled 'Asteria', and Prissy the big violet long-haired felo here.
+You can go out.
+s
+You can't go that way.
+undress into suitcase
+You remove all of your clothing, placing it carefully in a small suitcase.
+pet prissy
+You stroke the soft fur of Prissy the big violet long-haired felo.
+Prissy the big violet long-haired felo purrs softly.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a large periwinkle bed pillow,
+and a hand-made purple and amethyst flower quilt on it.
+Prissy the big violet long-haired felo stares curiously up at you.
+pet prissy
+You stroke the soft fur of Prissy the big violet long-haired felo.
+Prissy the big violet long-haired felo purrs softly.
+peer out
+You peer out...
+[Starship "William Dove"; Living Quarters Block]
+This room leads to the living quarters, and contains some additional amenities,
+notably a tiny alcove containing a shower. A small keypad controls access to the
+living quarters. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at New Earth; Spaceport
+Landing Pad.
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a textured plasteel floor
+lamp with a cream shade (casting a white-colored glow), a glossy pale pink
+ceramic felo chow bowl, a small purple trash bin, a small yellow ball containing
+a realistic Bari horde noisemaker, a wall-sized bubbling coral pink-lit aquarium
+containing violet and blue aquatic life and coral rocks, a small bubbling neon
+blue-lit toroidal aquarium containing red and blue aquatic life and round rocks,
+a wall-sized bubbling neon purple-lit aquarium containing teal and crimson
+aquatic life and coral rocks, a black plastic tray of spider chow, Shasta the
+big onyx soldier felo, Jewel the large violet glowing felo, and a hairy yellow
+eight-legged ArachnoPal named Higgins here.
+Lily Kaise is standing here.
+You can go north, east, south, west, up, and down.
+Lily Kaise glides in from the north.
+Lily Kaise says in a New Earth accent, "Sorry had to deal with a dearly departed
+eel."
+Lily Kaise laughs.
+Lily Kaise opens a lavender silk backpack embroidered with brightly hued
+butterflies.
+chuckle
+You chuckle.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a large
+periwinkle bed pillow, and a hand-made purple and amethyst flower quilt on it.
+cudle lily
+I don't understand that.
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise smiles at you.
+smile 
+You smile.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+Lily Kaise kisses you softly on the neck.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+caress lily on back
+You gently caress Lily Kaise's back.
+Lily Kaise squeezes you affectionately.
+Prissy the big violet long-haired felo stares curiously up at you.
+caress lily on hair, back and waist
+You gently caress Lily Kaise's hair, back and waist.
+pet prissy
+You stroke the soft fur of Prissy the big violet long-haired felo.
+Prissy the big violet long-haired felo purrs softly.
+Lily Kaise strokes the soft fur of Prissy the big violet long-haired felo.
+Prissy the big violet long-haired felo purrs and rubs its head against Lily's
+hand.
+kiss lily on chest
+You kiss Lily Kaise on the smooth skin above her breasts.
+Lily Kaise leans close to you and kisses you softly on the chest.
+caress lily on chest and tummy
+You gently caress Lily Kaise's chest and tummy.
+Prissy the big violet long-haired felo rubs up against Lily Kaise's ankle,
+purring softly.
+Lily Kaise gently caresses your chest and tummy.
+Lily Kaise grins.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+pet prissy
+You stroke the soft fur of Prissy the big violet long-haired felo.
+Prissy the big violet long-haired felo purrs softly.
+Lily Kaise smooches you.
+Lily Kaise grins.
+grin lily
+You grin at Lily Kaise.
+smooch lily
+You smooch Lily Kaise.
+Lily Kaise smiles.
+kiss lily on nipple
+You kiss Lily Kaise on one nipple.
+Lily Kaise kisses you on one nipple.
+grin
+You grin.
+Lily Kaise smiles.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on tummy
+"Tummy," hmm?  Well, better luck next time.
+kiss lily on stomach
+You kiss Lily Kaise softly on the stomach.
+Lily shooches you on your tummy!
+Lily Kaise chuckles.
+chuckle
+You chuckle.
+Lily smooches you on your tummy!
+grin lily
+You grin at Lily Kaise.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+Lily Kaise grins at you.
+'I hope we get our payment for our images soon.
+You say, "I hope we get our payment for our images soon."
+Lily Kaise says in a New Earth accent, "Yeah I am curious."
+Lily Kaise asks in a New Earth accent, "Has your warning gone away?"
+'Oh, yeah. It was gone when we got back.
+You say, "Oh, yeah. It was gone when we got back."
+Lily Kaise says in a New Earth accent, "Oh good."
+smile
+You smile.
+Lily Kaise says in a New Earth accent, "Still you may cap with the images
+alone."
+'Yeah
+You say, "Yeah."
+[General Communication] Liam O'Toole transmits, "It's nice to see so many folks
+on comm."
+tra gen Hi Liam.
+[General Communication] Shule Elemmire transmits, "Hi Liam."
+[General Communication] Liam O'Toole transmits, "Hey, Shule. How are you?"
+[General Communication] Morris Corlew transmits, "All the quiet folks."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Hey Liam."
+tra gen Doing quite well, thank you.
+[General Communication] Shule Elemmire transmits, "Doing quite well, thank you."
+tra gen And how are you, Liam?
+[General Communication] Shule Elemmire transmits, "And how are you, Liam?"
+[General Communication] Emmett Lee transmits, "Hey liam."
+[General Communication] Liam O'Toole transmits, "Oh, not too shabby! Just
+enjoying the view my apartment affords me and relaxing a bit."
+tra gen Nice.
+[General Communication] Shule Elemmire transmits, "Nice."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+: caresses your tummy and slides his hand farther down.
+Shule caresses your tummy and slides his hand farther down.
+Prissy the big violet long-haired felo wanders out.
+Lily Kaise says in a New Earth accent, "I think I'm up to jsut cuddling this
+morning Love."
+Lily Kaise says in a New Earth accent, "Just."
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise grins at you.
+Lily Kaise cuddles up to you.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise says in a New Earth accent, "I am a bit tired from all of that crazy
+grappling."
+nod lily 'That's understandable. Sorry.
+You nod to Lily Kaise. "That's understandable. Sorry."
+Lily Kaise says in a New Earth accent, "It's ok."
+[General Communication] Melinda Michaels transmits, "Hi."
+[General Communication] Morris Corlew transmits, "Hey, Mel."
+[General Communication] Corey Matthews transmits, "Heya Mel."
+tra gen Hi Mel.
+[General Communication] Shule Elemmire transmits, "Hi Mel."
+[General Communication] Evenia Callseah transmits, "Heya Mel."
+Lily Kaise says in a New Earth accent, "You wouldn't think working controls like
+that could be tiring but repetitively for a few hours does take some energy I
+guess."
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise squeezes you affectionately.
+kiss lily
+You kiss Lily Kaise.
+[General Communication] Morris Corlew transmits, "What if I don't want my milk
+to be subjugated?"
+kiss lily on breast
+You kiss Lily Kaise on one of her breasts.
+[General Communication] Karasi Valhannon transmits, "Huh?"
+[General Communication] Liam O'Toole transmits, "Sounds like you have bigger
+problems."
+[General Communication] Morris Corlew laughs. "It's a commercial on the
+holovid...Outsider Puffs cereal. They'll make all the little vassals strong, not
+need sonic toothbrushes...and subjugate the milk."
+caress lily on back and hair.
+You gently caress Lily Kaise's back and hair..
+[General Communication] Keegan Wantz assaults your ears with a burst of static
+and screeching feedback as he transmits at the top of his lungs, "SUBJUGATE YOUR
+MILK, MORRIS CORLEW!"
+[General Communication] Morris Corlew transmits, "No thank you. I like my milk
+just the way it is, unsubjugated...and my ears unassaulted."
+[General Communication] Morris Corlew laughs.
+tra gen chuckle
+[General Communication] Shule Elemmire chuckles.
+[General Communication] Karasi Valhannon transmits, "Oi. I need workers who are
+more productive than these."
+squeeze lily
+You squeeze Lily Kaise affectionately.
+[General Communication] Morris Corlew transmits, "Check who applies every
+day...only hire above your goal number, and weed out the lower ones. Then start
+with a higher goal number. That's how I got mine as productive as they are."
+Lily Kaise says in a New Earth accent, "What."
+Lily Kaise asks in a New Earth accent, "What's morris going on about?"
+[General Communication] Karasi Valhannon transmits, "I keep getting very poor
+workers applying to work for me."
+'Just ignore him. I have no idea.
+You say, "Just ignore him. I have no idea."
+[General Communication] Morris Corlew transmits, "Don't hire them. They can look
+elsewhere."
+'Oh, now he's talking about belt managgement employee.s
+You say, "Oh, now he's talking about belt managgement employee.s."
+[General Communication] Karasi Valhannon transmits, "True. I do not hire them."
+[General Communication] Nicolette of None transmits, "It's alright with Morris
+if they starve to death from lack of employment."
+[General Communication] Morris Corlew transmits, "The very good ones don't come
+along all that often, but if you keep an eye out for them, they do show up."
+Lily Kaise squeezes you affectionately.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+Lily Kaise kisses you on the lips.
+[General Communication] Morris Corlew transmits, "No...it's not. There are folks
+who would hire them, I'm sure. But if Karasi is trying to increase productivity,
+then she has to hire only certain employees."
+smile lily 'I love you so so much.
+You smile at Lily Kaise. "I love you so so much."
+[General Communication] Morris Corlew transmits, "Do you hire every employee
+that applies, Nicolette?"
+"I love you so so much too!" Lily Kaise beams at you.
+grin lily
+You grin at Lily Kaise.
+[General Communication] Morris Corlew transmits, "If not, then you have nothing
+to say."
+[General Communication] Nicolette of None transmits, "Well of course not. But I
+used to hire a lot of people with less-than-stellar work histories and tried to
+help them to get better before I sent them along to the next person."
+[General Communication] Karasi Valhannon transmits, "I have done that as well,
+for a long time now."
+[General Communication] Nicolette of None transmits, "I'm sure they're
+grateful."
+[General Communication] Morris Corlew transmits, "And she's done that, too. As
+have I. But now she's trying to get more productive workers. I don't see how
+what I'm recommending she does is any different from what you do."
+[General Communication] Nicolette of None transmits, "I'm sure it is but I don't
+have time at the moment to figure it out."
+[General Communication] Nicolette of None transmits, "I'll get back to you."
+[General Communication] Morris Corlew transmits, "Then you have nothing to say
+to me about it."
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+[General Communication] Nicolette of None transmits, "Sure I do."
+[General Communication] Melinda Michaels transmits, "I think the only thing she
+is really trying to do is get a rise out of you and has done it, yet again."
+[General Communication] Nicolette of None laughs.
+[General Communication] Morris Corlew transmits, "She hasn't gotten a rise out
+of me. I enjoy telling her she's a hypocrite."
+[General Communication] Melinda Michaels transmits, "Oh she has, you are
+defending yourself."
+Lily Kaise glances around at her surroundings.
+Lily Kaise exclaims in a New Earth accent, "Sounds personal!"
+Lily Kaise laughs.
+'Now children, play nice and get along.
+You say, "Now children, play nice and get along."
+Lily Kaise says in a New Earth accent, "Yeah seriously."
+[General Communication] Morris Corlew transmits, "I don't need defending...but
+she does apparently need to realize how hypocritical she is."
+Lily Kaise asks in a New Earth accent, "Whoah is he serious now?"
+'I guess.
+You say, "I guess."
+Lily Kaise says in a New Earth accent, "I'm also a bit confused."
+'Me too.
+You say, "Me too."
+[General Communication] Keegan Wantz transmits, "I hire all of the employees,
+then promptly fire them if they are great at breaking components and being
+lazy."
+[General Communication] Morris Corlew laughs.
+A hairy yellow eight-legged ArachnoPal named Higgins taps his claws on the
+floor.
+Lily Kaise says in a New Earth accent, "Surprises me that Morris would ever get
+that seious."
+Lily Kaise says in a New Earth accent, "Serious."
+[General Communication] Keegan Wantz transmits, "Except I don't."
+nod lily
+You nod to Lily Kaise.
+[General Communication] Keegan Wantz transmits, "I only hire people who don't
+suck at doing their job."
+[General Communication] "You are missing the point." Melinda Michaels laughs.
+"I'd bet a hundred million credits that she is doing that on purpose, not
+because she is being hypocritical."
+'my goodness, kiss and make up already.
+You say, "My goodness, kiss and make up already."
+chuckle
+You chuckle.
+[General Communication] Morris Corlew transmits, "Doesn't matter. If she wants
+to look like a hypocrite, that's on her."
+[General Communication] Melinda Michaels laughs.
+cuddle lily
+You cuddle up to Lily Kaise.
+[General Communication] Melinda Michaels transmits, "Morris, my dear boy. The
+best way to beat somebody who likes to engage you in this, whatever it is that
+you two do, is to just carry on."
+[General Communication] Morris Corlew transmits, "I don't have anything else
+better to do. I'm sitting out at the Bubble waiting for either the recharge
+station to go down, or to be too tired to wait any more...whichever comes
+first."
+[General Communication] Melinda Michaels transmits, "So, she can tell me I am
+wrong in what she is doing and admit to being hypocritical. Or she can admit
+that she enjoys this play argue or whatever it is that she gets you to engage
+in."
+[General Communication] Melinda Michaels laughs.
+[General Communication] Morris Corlew laughs.
+tra gen chuckle
+[General Communication] Shule Elemmire chuckles.
+[General Communication] Morris Corlew transmits, "So...admit to being childish
+or to behing a hypocrite...would be a tough choice, I'd imagine..."
+'Wow Morris, chill.
+You say, "Wow Morris, chill."
+[General Communication] Karasi Valhannon transmits, "I find it interesting that
+as soon as Melinda spoke up, Nicolette became very quiet."
+[General Communication] Melinda Michaels transmits, "Na, not childish, amusing.
+Cause she gets you going every time and it is quite funny."
+[General Communication] Pierre-Louis Tremblay-du-Lys du Nouveau Quebec
+transmits, "All fear the Melinda."
+[General Communication] Keegan Wantz transmits, "Implying arguing is childish."
+[General Communication] Morris Corlew transmits, "Yep...I noticed that too."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Morris how much time is left on
+that station?"
+[General Communication] Keegan Wantz transmits, "Is to imply that all pilots are
+childish."
+[General Communication] Morris Corlew transmits, "A bit over 2 hours, Lily."
+[General Communication] Morris Corlew transmits, "Plus emergency power."
+[General Communication] Karasi Valhannon transmits, "Hmm..."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Good grief, go build it and go
+home."
+Lily Kaise laughs.
+laugh
+You laugh.
+[General Communication] Karasi Valhannon chuckles.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[General Communication] Morris Corlew transmits, "Arguing with no need is
+childish."
+[General Communication] Melinda Michaels transmits, "No it isn't, it is fun."
+tra gen laugh mel
+[General Communication] Shule Elemmire laughs at Melinda Michaels.
+[General Communication] Karasi Valhannon transmits, "I disagree."
+[General Communication] Melinda Michaels transmits, "Especially when there is no
+real ill will behind it."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Still go build that sucker and go
+home!"
+grin lily
+You grin at Lily Kaise.
+[General Communication] Keegan Wantz transmits, "Arguing with no need is -fun-."
+[General Communication] Morris Corlew transmits, "Push it out and go home...I
+think Lily is telling me in this roundabout way she has to shut up."
+[General Communication] Keegan Wantz transmits, "Mostly because poking bears is
+hialrious."
+[General Communication] Morris Corlew laughs.
+[General Communication] Keegan Wantz transmits, "Hilarious, that is."
+cuddle lily
+You cuddle up to Lily Kaise.
+[General Communication] Melinda Michaels transmits, "See, Keegan agrees with me,
+oh god we're all doomed."
+[General Communication] Morris Corlew chuckles.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise keys her metachannel FTL communicator:
+[General Communication] Lily Kaise chuckles.
+Lily Kaise cuddles up to you.
+-lily You getting sleepy?
+You say to Lily, "You getting sleepy?"
+Lily Kaise says in a New Earth accent, "A little."
+'ok, I'll let you get osme sleep.
+You say, "Ok, I'll let you get osme sleep."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+[General Communication] Melinda Michaels transmits, "Anyway, I'd like to thankt
+he lovely couple for this morning's entertainment. You were both great."
+Lily Kaise says in a New Earth accent, "The only critical stations really are
+the accelerator and the beacon but if you have to sleep and the asteroid or
+salvage stations are going down then, then take care of them when you're awake."
+[General Communication] Morris Corlew groans.
+'I will.
+You say, "I will."
+Lily Kaise says in a New Earth accent, "It might make some people grumble but
+we're human."
+[General Communication] Morris Corlew transmits, "My name is not, and will never
+be, Michelle."
+[General Communication] Keegan Wantz transmits, "Sure it's not, Michelle."
+'Did you already start building the asteroid processor?
+You ask, "Did you already start building the asteroid processor?"
+Lily Kaise says in a New Earth accent, "No."
+'oh, ok
+You say, "Oh, ok."
+[General Communication] Morris Corlew grumbles.
+read green paper
+--
+Asteroid Cluster 285 Status
+10/17/2316 around 0410AM
+asteroid processor
+3 days 12 hours plus 1 HR emergency
+Rift Accelerator
+4 days, 7 hours, 46 minutes, and 30 seconds plus 1 HR emergency
+Salvage processor
+7 days 18 hours plus 1 HR emergency
+Fusion powered Beacon
+21 days, 20 hours, 30 minutes, and 31 seconds plus 1 HR emergency
+--
+[General Communication] Morris Corlew transmits, "Besides, I already have
+somone..."
+Lily Kaise says in a New Earth accent, "I'll try to put it together later today
+so it's jsut ready to be pushed out. That way if either of us gets into a time
+crunch, it's only going to take about half hour of time max if the flow is bad."
+'ok
+You say, "Ok."
+[General Communication] Keegan Wantz transmits, "Sure you do, Michelle."
+[General Communication] Melinda Michaels transmits, "Well, there is always room
+for three I am told."
+Lily Kaise says in a New Earth accent, "More than likely half that. Just
+saying."
+nod
+You nod.
+[General Communication] Soraya Rhyz transmits, "I believe it's three's a crowd."
+[General Communication] Morris Corlew transmits, "Karasi would tend to disagree
+with that, as would I."
+[General Communication] Morris Corlew transmits, "Thanks, Soraya!"
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[General Communication] Soraya Rhyz transmits, "I've just heard that, I'm not an
+expert. Carry on."
+Lily Kaise wraps her arms around you, pulling you close.
+[General Communication] Morris Corlew laughs.
+[General Communication] Karasi Valhannon transmits, "Yuck."
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+[General Communication] Melinda Michaels transmits, "Well, I've heard it the
+other way. So, Michelle Morris will find out and tell us. All in the name of,
+science?"
+[General Communication] Morris Corlew transmits, "Nicolette, did you hear that?
+Keegan has apparently found your Michelle! Be happy!"
+-lily Well, I'll let you get osme sleep then.
+You say to Lily, "Well, I'll let you get osme sleep then."
+[General Communication] Morris Corlew transmits, "No."
+[General Communication] Morris Corlew transmits, "Forgive my language, but hell
+no."
+Lily Kaise says in a New Earth accent, "I'll be awake 10 or 15ish yet."
+[General Communication] Karasi Valhannon transmits, "Enough said, I think. Three
+is not and never will be acceptible to me."
+[General Communication] Morris Corlew transmits, "Not in the name of science or
+anything else."
+'oh ok
+You say, "Oh ok."
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+caress lily on back
+You gently caress Lily Kaise's back.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+[General Communication] Soraya Rhyz transmits, "Try and stuff three people in
+the head."
+[General Communication] Karasi Valhannon transmits, "Messy."
+[General Communication] Morris Corlew transmits, "I am not polyamorous, and
+while I do not have a huge dislike for Nicolette, I am certainly not in love
+with her."
+Lily says to a hairy yellow eight-legged ArachnoPal named Higgins in a New Earth
+accent, "Know what you are weird!"
+[General Communication] Melinda Michaels laughs.
+chuckle lily
+Lily Kaise laughs.
+You chuckle at Lily Kaise.
+Lily Kaise says in a New Earth accent, "Wow."
+[General Communication] Soraya Rhyz transmits, "I have heard from sources it is
+a good place to smoke haze."
+Lily Kaise says in a New Earth accent, "I'm pretty surprised."
+'Yeah, no kidding.
+You say, "Yeah, no kidding."
+[General Communication] Melinda Michaels transmits, "Who said anything about
+love."
+[General Communication] Emily Ford grumbles.
+[General Communication] Morris Corlew transmits, "I must have love to be in a
+relationship. Do you love Lillian?"
+[General Communication] Emily Ford transmits, "What am I waking up to?"
+squeeze lily
+You squeeze Lily Kaise affectionately.
+[General Communication] Keegan Wantz transmits, "Ooh lah lah."
+tra gen Hi Emily!
+[General Communication] Shule Elemmire transmits, "Hi Emily!"
+[General Communication] Melinda Michaels transmits, "I did not love Lillian when
+we began dating."
+Lily Kaise says in a New Earth accent, "I sure hope never to get on his bad
+side. I'm not generally nor ever will be that open, especially on the General
+channel about my thoughts concerning others."
+Lily Kaise laughs.
+'Neither will I.
+You say, "Neither will I."
+[General Communication] Soraya Rhyz transmits, "I don't think anyone is wanting
+to listen to me talk about how to hotbox a starship."
+laugh
+You laugh.
+[General Communication] Melinda Michaels transmits, "Just as I am sure Lily did
+not love Shule when they first began dating."
+Lily Kaise says in a New Earth accent, "I'll tell you but that's about as far as
+it goes unless I discuss it in private with someone."
+[General Communication] Morris Corlew transmits, "Point taken. However, I
+already care very deeply for someone. I am not throwing someone I have fun
+bantering with into the mix."
+nod lily
+You nod to Lily Kaise.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+Lily Kaise exclaims in a New Earth accent, "Oops hope he wasn't insulted!"
+[General Communication] Emily Ford transmits, "Hi Shule."
+Lily Kaise laughs.
+[General Communication] Keegan Wantz transmits, "Caring deeply for someone after
+a mere month or two, ooh lah lah."
+laugh lily
+You laugh at Lily Kaise.
+[General Communication] Karasi Valhannon transmits, "Oh hush you."
+[General Communication] Morris Corlew transmits, "And?"
+[General Communication] Karasi Valhannon chuckles.
+Lily Kaise says in a New Earth accent, "Yeah Morris how well do you truly know
+how you feel only after a few weeks."
+[General Communication] Melinda Michaels giggles. "Careful Keegan, I will not
+defend you from Soraya."
+[General Communication] Morris Corlew laughs.
+[General Communication] Soraya Rhyz transmits, "It's alright. I know his
+secrets."
+[General Communication] Melinda Michaels transmits, "Woo."
+-lily So I take it you don't believe in love at first sight?
+You say to Lily, "So I take it you don't believe in love at first sight?"
+grin lily
+You grin at Lily Kaise.
+[General Communication] Keegan Wantz transmits, "Soraya is a hero."
+[General Communication] Melinda Michaels transmits, "Hi Ford, you woke up to
+love, bliss and a discussion of having three or two involved."
+Lily Kaise says in a New Earth accent, "I guess it's possible but it doesn't
+make rational sense to me."
+[General Communication] Melinda Michaels transmits, "Or is it lust and bliss?"
+tra gen chuckle mel
+[General Communication] Shule Elemmire chuckles at Melinda Michaels.
+[General Communication] Keegan Wantz transmits, "Ford? Where?"
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Yeah something like that."
+'And some would argue that love isn't always rational.
+You say, "And some would argue that love isn't always rational."
+[General Communication] Emily Ford transmits, "Right here, just waking up to
+some conversation about love, apparently."
+[General Communication] Melinda Michaels transmits, "Well, love or lust. We have
+not quite decided."
+Lily Kaise says in a New Earth accent, "Well It should have that component or
+it's likely to fail as there's more than just emotions involved."
+tra gen Love and lust.
+[General Communication] Shule Elemmire transmits, "Love and lust."
+[General Communication] Emily Ford transmits, "Does it matter if you're having a
+good time?"
+[General Communication] Melinda Michaels transmits, "Actually, it can."
+[General Communication] Morris Corlew transmits, "Makes all the difference in
+the universe."
+[General Communication] Soraya Rhyz transmits, "I always figure what a person
+feels in their heart and or their loins is their business."
+[General Communication] Emily Ford transmits, "I was talking in reference to a
+good time."
+nod lily 'I gree, but there are those who would argue with you.
+You nod to Lily Kaise. "I gree, but there are those who would argue with you."
+[General Communication] Melinda Michaels transmits, "I mean, if you love
+somebody, you want to have a good time with them for a long time. If it's just
+lust, you can toss them awway and look for the next funt ime easily."
+Lily Kaise says in a New Earth accent, "Just having a good time is not true
+love."
+[General Communication] Morris Corlew transmits, "Depends on what your
+definition of 'a good time' is."
+[General Communication] Soraya Rhyz transmits, "It involves falafels."
+'True.
+You say, "True."
+[General Communication] Melinda Michaels giggles.
+Lily Kaise says in a New Earth accent, "Yup she's right about that."
+[General Communication] Morris Corlew transmits, "Delicious!"
+[General Communication] Emily Ford transmits, "But at the point of having a good
+time, love or lust, if you're having a good time, at that moment."
+[General Communication] Soraya Rhyz transmits, "Very!"
+[General Communication] Emily Ford transmits, "Falafels! Now I lust after
+falafels."
+kiss lily
+You kiss Lily Kaise.
+[General Communication] Soraya Rhyz transmits, "Falafels are very lust worthy.
+I'm considering if I should risk getting lasered by Icy to ask for both a tattoo
+and a falafel machine."
+Lily Kaise says in a New Earth accent, "Like for us, it's lots of things."
+[General Communication] Pierre-Louis Tremblay-du-Lys du Nouveau Quebec
+transmits, "Simply obtain tattoo of falafel."
+[General Communication] Melinda Michaels transmits, "Well, Morris said he can't
+have a relationship without love. I pointed out that I was not in love when I
+began my relationship. I don't believe in that love at first sight bull."
+[General Communication] Soraya Rhyz transmits, "Hm. I could get the stars, but
+the stars are actually falafels."
+[General Communication] Morris Corlew transmits, "Ok...let me clarify...a
+committed relationship."
+[General Communication] Emily Ford transmits, "Go all the way and ask for a
+falafel launcher with a tattoo of a 'warning, fresh falafel' sign on the side."
+[General Communication] Melinda Michaels transmits, "Wait, you won't commit till
+you are in love?"
+Lily Kaise laughs.
+[General Communication] Morris Corlew laughs.
+laugh
+You laugh.
+[General Communication] Morris Corlew grumbles at Melinda Michaels.
+Lily Kaise cuddles up to you.
+[General Communication] Melinda Michaels transmits, "Karasi may have an issue."
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise kisses you on the lips.
+[General Communication] Morris Corlew transmits, "What if I already love her?
+Then it's a non-issue."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+[General Communication] Soraya Rhyz transmits, "I will have to ponder this."
+[General Communication] Melinda Michaels transmits, "You were in love before you
+commited to a relationship?"
+Lily gently rubs your back and strokes your hair.
+caress lily on back and hair
+You gently caress Lily Kaise's back and hair.
+Lily Kaise smiles.
+[General Communication] Morris Corlew transmits, "Well, to be honest, previous,
+I was commited to not being in one to start with. But...I couldn't help it...I
+did fall in love."
+[General Communication] Melinda Michaels transmits, "Hmm."
+yawn
+You yawn.
+[General Communication] Emily Ford transmits, "I love some people as friends, if
+that leads to something else, maybe it's possible?"
+Lily Kaise yawns.
+-lily Think I'm going to try to get some sleep.
+You say to Lily, "Think I'm going to try to get some sleep."
+[General Communication] Emily Ford transmits, "Different type of love but."
+[General Communication] Melinda Michaels transmits, "Yes Ford, that is how it
+works."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Good day and goodnight to you
+lovely ponderers on love and all that."
+[General Communication] Emily Ford transmits, "So it can be love from the
+start."
+Lily Kaise laughs.
+[General Communication] Melinda Michaels transmits, "I mean, if you can't be
+friends, you sure as fuck aren't gonna work as more."
+laugh
+You laugh.
+[General Communication] Morris Corlew laughs. "Night, Lily."
+Lily Kaise speaks into her metachannel FTL communicator:
+[General Communication] Lily Kaise transmits, "Exactly Melinda."
+tra gen Good night and I want to know the result of this debate when I wake up.
+[General Communication] Shule Elemmire transmits, "Good night and I want to know
+the result of this debate when I wake up."
+[General Communication] Emily Ford transmits, "So you're now supporting Morris'
+position."
+[General Communication] Morris Corlew transmits, "Yep. And Karasi and I were
+friends already. I cared for her in that way."
+[General Communication] Melinda Michaels transmits, "No no."
+[General Communication] Melinda Michaels transmits, "They are different types of
+love."
+[General Communication] Emily Ford transmits, "Yes yes."
+[General Communication] Melinda Michaels transmits, "So, no."
+[General Communication] Morris Corlew transmits, "One leads to the other...I
+cared for her as a friend, then as my...partner."
+[General Communication] Emily Ford transmits, "Oh, so what you're saying is that
+you can only have love at first sight if it's a certain variety or manufacturer
+label of love?"
+[General Communication] Melinda Michaels transmits, "Like, you are my friend, I
+care deeply and hold you in high regard. Am I in love with you in that sort of
+way, no."
+Lily Kaise cuddles up to you.
+tra gen Night all.
+[General Communication] Shule Elemmire transmits, "Night all."
+[General Communication] Morris Corlew laughs. "Night, Shule."
+cuddle lily
+You cuddle up to Lily Kaise.
+tra gen Night Morris.
+[General Communication] Shule Elemmire transmits, "Night Morris."
+[General Communication] Melinda Michaels transmits, "So there is a difference."
+[General Communication] Soraya Rhyz transmits, "I've sort of lost where this is
+all going."
+[General Communication] Morris Corlew transmits, "If only Lillian were here..."
+[General Communication] Emily Ford transmits, "Did you make clear the type of
+love you were talking about when lall this started?"
+gen comm
+You turn general communication off.
+Lily Kaise says in a New Earth accent, "Ok I'd like to hear the end of this but
+I have to turn this channel down."
+Lily Kaise laughs.
+'Me too.
+You say, "Me too."
+laugh
+You laugh.
+Lily Kaise tunes a metachannel FTL communicator.
+Lily Kaise wraps her arms around you, pulling you close.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise snuggles up to your shoulder.
+-lily So, I love you not lust after you.
+You say to Lily, "So, I love you not lust after you."
+Lily Kaise says in a New Earth accent, "Hey."
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise says in a New Earth accent, "Yeah I know which makes it so special."
+Lily Kaise kisses you on the lips.
+smile lily
+You smile at Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise says in a New Earth accent, "I don't easily lust after someone."
+grin lily 'Don't get me wrong, I'm very physically attracted to you and think
+you're super sexy, but I love you too.
+You grin at Lily Kaise. "Don't get me wrong, I'm very physically attracted to
+you and think you're super sexy, but I love you too."
+Lily Kaise says in a New Earth accent, "I can't say that I've never had a little
+fantassy about someone I've met and considered what it would be like with them.
+That's as far as it goes though the majority of the time."
+Lily Kaise says in a New Earth accent, "Fantasy."
+nod and grin lily
+You nod and grin at Lily Kaise.
+'I won't ask who.
+You say, "I won't ask who."
+Lily Kaise smiles at you.
+Shasta the big onyx soldier felo marches in from the north.
+chuckle
+You chuckle.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+-lily I think we all do that at times.
+You say to Lily, "I think we all do that at times."
+Lily Kaise squeezes you affectionately.
+squeeze lily 'Night.
+I don't see that here.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+'Night babe.
+You say, "Night babe."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+-lily I love you. Rest well and sweet dreams.
+You say to Lily, "I love you. Rest well and sweet dreams."
+Shasta the big onyx soldier felo marches out.
+Lily Kaise cuddles up to you.
+[Starseekers] Morris Corlew transmits, "Something like that."
+[AEU | 4: Sector Status] AEU Recharging Battery-Powered Transmitter at Artifact
+Beacon Beta 287 is now online!
+[Notification from Starseekers] The organization has contributed to a new AEU
+Recharging Battery-Powered Transmitter in Artifact Beacon Beta 287.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 621,599.18 credits.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 399,394.55 credits.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 644,948.68 credits.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 549,198.42 credits and 2 megacredits.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 328,707.65 credits and 1 megacredit.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 425,484.48 credits and 2 megacredits.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 391,759.58 credits.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 328,341.52 credits and 2 megacredits.
+[Notification from Starseekers] An asteroid has been received at League Asteroid
+Processing Nuclear Temporary Station from the two-person isotope "Yankin' Ya
+Rocks". The organization has earned 242,179.18 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Prissy the big violet long-haired felo wanders in from the north.
+Prissy the big violet long-haired felo stares curiously up at you.
+Prissy the big violet long-haired felo wanders out.
+Samantha the old large violet felo hums melodically to itself as it wanders in
+from the north.
+Samantha the old large violet felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+Samantha the old large violet felo rubs up against your leg with a quiet
+"Mrrp.".

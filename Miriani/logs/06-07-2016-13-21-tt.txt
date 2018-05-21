@@ -1,0 +1,2436 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu May 26 15:50:17 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "We Strive To Live In Peace"; Living Quarters Seven]
+Rippling colours dance and wave along this long rainbow road, their motion
+dizzying and endless. The scintillating pathway curves and dips smoothly through
+the air, stretching off into distant clouds. The clouds drift around placidly,
+their laziness a stark contrast to the fervent activity of the pathway.
+Sparkling jewel-studded blackness is revealed behind the fluffy clouds wherever
+they part. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is inside the riftflow.
+You see a long plasteel counter, a pair of narrow bunks with a set of cream
+cotton sheets, a soft white cashmere blanket, a soft golden brown satin pillow
+with thick gold fringe, and a soft white satin pillow with thick gold fringe on
+it, a small yellow bioplastic ship light, a woven cream wool rug with a yellow
+border, Magellan the arachnoid security robot, Kiska the humanoid service robot,
+a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a hand-made purple and amethyst flower
+quilt, and a large periwinkle bed pillow on it, a clear plastic food storage
+container, a small white trash can, a compact red refrigerator, a white
+microwave oven, and a blue plastic food storage container here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go east.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a large periwinkle bed pillow on it.)
+l
+[Starship "We Strive To Live In Peace"; Living Quarters Seven]
+Rippling colours dance and wave along this long rainbow road, their motion
+dizzying and endless. The scintillating pathway curves and dips smoothly through
+the air, stretching off into distant clouds. The clouds drift around placidly,
+their laziness a stark contrast to the fervent activity of the pathway.
+Sparkling jewel-studded blackness is revealed behind the fluffy clouds wherever
+they part. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is inside the riftflow.
+You see a long plasteel counter, a pair of narrow bunks with a set of cream
+cotton sheets, a soft white cashmere blanket, a soft golden brown satin pillow
+with thick gold fringe, and a soft white satin pillow with thick gold fringe on
+it, a small yellow bioplastic ship light, a woven cream wool rug with a yellow
+border, Magellan the arachnoid security robot, Kiska the humanoid service robot,
+a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a hand-made purple and amethyst flower
+quilt, and a large periwinkle bed pillow on it, a clear plastic food storage
+container, a small white trash can, a compact red refrigerator, a white
+microwave oven, and a blue plastic food storage container here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go east.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a large periwinkle bed pillow on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Check your local space market for crafting supplies and informative books!
+**
+glance
+You glance around at your surroundings.
+cuddle lily
+You cuddle up to Lily Kaise.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (15/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Read Message Boards
+[6] Clear Unread Message Board Posts
+[7] Space Station Reference
+[8] Silence
+[9] Nothing
+Enter your selection:
+5
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] AEU
+  [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] Common Knowledge
+--
+  [2] Return
+  [3] Quit
+--
+Enter your selection:
+n
+Invalid selection.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (15/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Read Message Boards
+[6] Clear Unread Message Board Posts
+[7] Space Station Reference
+[8] Silence
+[9] Nothing
+Enter your selection:
+4
+You glance at your metallic gold touch einrophone and check your missed calls.
+You have no missed calls.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (15/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Read Message Boards
+[6] Clear Unread Message Board Posts
+[7] Space Station Reference
+[8] Silence
+[9] Nothing
+Enter your selection:
+5
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] AEU
+  [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+4
+--
+FTL Interalliance Communications Network
+--
+* [1] We Strive To Live In Peace
+--
+  [2] Return
+  [3] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] Announcements
+* [2] General
+--
+  [3] Return
+  [4] Quit
+--
+Enter your selection:
+2
+--
+FTL Interalliance Communications Network
+--
+  [1] Repairs at 13.25 LTC                                                      
+     (Akemi Bando)
+  [2] Nebular Signature 6466-9001                                               
+     (Kim Saunders)
+  [3] Pre-Stellar Object 6633-8706                                              
+     (Akemi Bando)
+  [4] Rift drive repairs                                                        
+     (Kim Saunders)
+  [5] Rift drive repairs 2                                                      
+     (Akemi Bando)
+  [6] Rift drive repairs 3                                                      
+     (Akemi Bando)
+  [7] Rift drive repairs 4                                                      
+     (Akemi Bando)
+  [8] Don't forget to put things back                                           
+     (Akemi Bando)
+  [9] More repairs and hopefully out of the storm now                           
+     (Kim Saunders)
+  [10] Chamber of Dust                                                          
+     (Akemi Bando)
+  [11] Pre-Stellar Object 8423-3084                                             
+     (Kim Saunders)
+  [12] Re: Pre-Stellar Object 8423-3084                                         
+     (Kim Saunders)
+  [13] Rift drive repairs 6                                                     
+     (Akemi Bando)
+  [14] the final dust                                                           
+     (Kim Saunders)
+  [15] the final memories                                                       
+     (Nathaniel Owens)
+  [16] the final memories                                                       
+     (Nathaniel Owens)
+  [17] rift drive repairs 7                                                     
+     (Kim Saunders)
+  [18] Pre-Stellar Object 2114-9398                                             
+     (Kim Saunders)
+  [19] Planetary System 5813-8638                                               
+     (Kim Saunders)
+* [20] Planetary System 8611-8765                                               
+     (Kim Saunders)
+--
+  [21] Return
+  [22] Post
+  [23] Quit
+--
+Enter your selection:
+20
+--
+FTL Interalliance Communications Network
+--
+Subject: Planetary System 8611-8765
+Author: Kim Saunders
+Posted: 10:04  7 June 2316 GST
+--
+1JIKJ.OGA
+Rather much later than when we found it, but here the report.
+Planetary System 8611-8765, spotted after we had traveled roughly 9.5 ltc on
+heading 90 15 from where we found the previous planetary system. Michael
+navigated the ship there. we took an image, the luminosity was slightly less
+than sol-equivalent. we found 1 chunk per sector, grade 60 asteroid is what we
+saw. the survey turned up 1 planet. charge was down to 20 percent so we
+recharged and filled up on debris.
+then continued on heading 0 15.
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+n
+Invalid selection.
+l
+[Starship "We Strive To Live In Peace"; Living Quarters Seven]
+Rippling colours dance and wave along this long rainbow road, their motion
+dizzying and endless. The scintillating pathway curves and dips smoothly through
+the air, stretching off into distant clouds. The clouds drift around placidly,
+their laziness a stark contrast to the fervent activity of the pathway.
+Sparkling jewel-studded blackness is revealed behind the fluffy clouds wherever
+they part. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is inside the riftflow.
+You see a long plasteel counter, a pair of narrow bunks with a set of cream
+cotton sheets, a soft white cashmere blanket, a soft golden brown satin pillow
+with thick gold fringe, and a soft white satin pillow with thick gold fringe on
+it, a small yellow bioplastic ship light, a woven cream wool rug with a yellow
+border, Magellan the arachnoid security robot, Kiska the humanoid service robot,
+a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a hand-made purple and amethyst flower
+quilt, and a large periwinkle bed pillow on it, a clear plastic food storage
+container, a small white trash can, a compact red refrigerator, a white
+microwave oven, and a blue plastic food storage container here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go east.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a large periwinkle bed pillow on it.)
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A sudden light flares in the darkness behind the clouds.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+mid-back length, straight hair is pale honey blonde and swept up into a thick
+fall of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+She seems to have a bruise on her forehead. 
+She is wearing a flowing lilac satin chemise.
+She is also wearing an orange and white blessed prayer bracelet around her
+wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a neon
+purple wrist-mounted chronometer, a solid silver ring engraved with dragonflies,
+a delicate ring of silver wire and small purple amethyst crystals, a metallic
+gold touch einrophone in a metallic purple reinforced plastic phone holster, a
+soft fuchsia Tardick lizard snuggly labeled 'Asteria', and a light purple linen
+bag.
+Her head, face, both eyes, neck, both biceps, both elbows, both forearms, both
+wrists, both hands, both ankles, and both feet are left uncovered.
+She is carrying nothing.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a large periwinkle bed pillow on it.
+e
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, and a
+glossy sea green ceramic felo chow bowl here.
+You can go north, east, and west.
+go shower
+[Starship "We Strive To Live In Peace"; Shower]
+You see a yellow plastic shower caddy and a small yellow shower mat here.
+You can go out.
+take suitcase
+I see no "suitcase" here.
+open briefcase
+You open a leather briefcase.
+take suitcase
+You remove a small suitcase from a leather briefcase.
+drop suitcase
+You put down a small suitcase.
+undress into suitcase
+You remove all of your clothing, placing it carefully in a small suitcase.
+drop suitcase
+You don't have a small suitcase.
+drop suitcase
+You don't have a small suitcase.
+start
+You push a small button, starting the shower. Hot water begins to pour over your
+skin. You feel cleaner already.
+Hot, steaming water continues to bathe every inch of your skin, cleansing you as
+it invigorates your senses.
+take last vinyl
+You remove a small black vinyl case from a leather briefcase.
+open vinyl
+You open a small black vinyl case.
+take green soap
+You remove a bar of clean-smelling light green soap from a small black vinyl
+case.
+use soap
+You carefully wash your body with a bar of clean-smelling light green soap.
+put soap in vinyl
+You put a bar of clean-smelling light green soap in a small black vinyl case.
+stop
+You push a small button, turning the shower off. You stand, dripping, completely
+relaxed. Steam floats lazily in the enclosed space.
+take oversized
+You remove an oversized white towel from a small black vinyl case.
+dry me with towel
+You dry yourself off with an oversized white towel.
+put towel in vinyl
+You put an oversized white towel in a small black vinyl case.
+open suitcase
+You open a small suitcase.
+take shipsuit
+You remove a white shipsuit with gold trim around the collar and cuffs from a
+small suitcase.
+put vinyl in briefcase
+You put a small black vinyl case in a leather briefcase.
+take briefs
+You remove a pair of white cotton briefs from a small suitcase.
+wear briefs
+You slide a pair of white cotton briefs on.
+wear shipsuit
+You step into a white shipsuit with gold trim around the collar and cuffs and
+pull it over your arms.
+take sneakers
+You remove a pair of washed light khaki canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of washed light khaki canvas sneakers onto your feet.
+close suitcase
+You close a small suitcase.
+take suitcase
+You pick up a small suitcase.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+out
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, a glossy
+sea green ceramic felo chow bowl, and a Tardick lizard named Asteria here.
+You can go north, east, and west.
+out
+You can't go that way.
+w
+[Starship "We Strive To Live In Peace"; Living Quarters Seven]
+You see a long plasteel counter, a pair of narrow bunks with a set of cream
+cotton sheets, a soft white cashmere blanket, a soft golden brown satin pillow
+with thick gold fringe, and a soft white satin pillow with thick gold fringe on
+it, a small yellow bioplastic ship light, a woven cream wool rug with a yellow
+border, Magellan the arachnoid security robot, Kiska the humanoid service robot,
+a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a hand-made purple and amethyst flower
+quilt, and a large periwinkle bed pillow on it, a clear plastic food storage
+container, a small white trash can, a compact red refrigerator, a white
+microwave oven, and a blue plastic food storage container here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go east.
+kiss lily
+You kiss Lily Kaise.
+who
+There appear to be about 9 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A)
+*Lily Kaise  (A)
+*Kim Saunders  (A) [m]
+*Morris Corlew  (L)
+%Simon Privorda  (L)
+%Evenia Callseah  (F) [c]
+%Rogue Romano  (F)
+%Eugene Silverlance  (F)
+%Ted Warburton  (F)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 24 pilots.
+e
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, a glossy
+sea green ceramic felo chow bowl, and a Tardick lizard named Asteria here.
+You can go north, east, and west.
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid B]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and
+coral rocks, a small bubbling neon blue-lit toroidal aquarium containing red and
+blue aquatic life and round rocks, a glossy gold ceramic felo chow bowl, and a
+Tardick lizard named Raissa here.
+You can go north, east, south, and west.
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid A]
+n
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing ivory and onyx aquatic life and sea
+green and neon blue round rocks, a small bubbling white-lit aquarium containing
+blue and crimson aquatic life and round rocks, and a glossy seashell pink
+ceramic felo chow bowl here.
+You can go north, east, south, and west.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+n
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, and a glossy gold ceramic felo chow bowl
+here.
+You can go east, south, west, up, and down.
+You can't go that way.
+u
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, a glossy lavender ceramic felo
+chow bowl, and Sassie the large fuchsia felo here.
+You can go northeast, northwest, and down.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, a red plastic food storage container, and a Tardick
+lizard named Freyja here.
+You can go southwest and northwest.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Simon Collins is sleeping on a black leather sectional sofa.
+Anfisa of Marzore and Akemi Bando are dozing on a modern white pod chair. Blake
+Madison, Melinda Michaels, and Michael Winters are dozing on a rare black
+EAOSian contoured couch. Morris Corlew and Kim Saunders are sitting on a black
+leather sectional sofa.
+You can go southeast, southwest, and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+se
+You scramble to your feet.
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, a red plastic food storage container, and a Tardick
+lizard named Freyja here.
+You can go southwest and northwest.
+sw
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, a glossy lavender ceramic felo
+chow bowl, and Sassie the large fuchsia felo here.
+You can go northeast, northwest, and down.
+d
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, and a glossy gold ceramic felo chow bowl
+here.
+You can go east, south, west, up, and down.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid A]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing ivory and onyx aquatic life and sea
+green and neon blue round rocks, a small bubbling white-lit aquarium containing
+blue and crimson aquatic life and round rocks, and a glossy seashell pink
+ceramic felo chow bowl here.
+You can go north, east, south, and west.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid B]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and
+coral rocks, a small bubbling neon blue-lit toroidal aquarium containing red and
+blue aquatic life and round rocks, a glossy gold ceramic felo chow bowl, and a
+Tardick lizard named Raissa here.
+You can go north, east, south, and west.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, a glossy
+sea green ceramic felo chow bowl, and a Tardick lizard named Asteria here.
+You can go north, east, and west.
+s
+You can't go that way.
+go shower
+[Starship "We Strive To Live In Peace"; Shower]
+You see a yellow plastic shower caddy and a small yellow shower mat here.
+You can go out.
+i
+You are wearing a white shipsuit with gold trim around the collar and cuffs and
+a pair of washed light khaki canvas sneakers.
+Underneath this, you are wearing a pair of white cotton briefs.
+You are also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a solid silver ring engraved with dolphins, and a
+black guitar case.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a black
+flightbag with a red shooting star on the side, a camera bag, an asteroid
+hauling supply kit, a flight control scanner, a large expandable telescoping
+xenology container, a black engineering tool case, a thick synthleather
+bandolier with large pockets, and a scorched metal thigh holster.
+Your head, face, both eyes, both wrists, and both hands are left uncovered.
+You are carrying nothing.
+out
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, a glossy
+sea green ceramic felo chow bowl, and a Tardick lizard named Asteria here.
+You can go north, east, and west.
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid B]
+n
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and
+coral rocks, a small bubbling neon blue-lit toroidal aquarium containing red and
+blue aquatic life and round rocks, a glossy gold ceramic felo chow bowl, and a
+Tardick lizard named Raissa here.
+You can go north, east, south, and west.
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid A]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing ivory and onyx aquatic life and sea
+green and neon blue round rocks, a small bubbling white-lit aquarium containing
+blue and crimson aquatic life and round rocks, and a glossy seashell pink
+ceramic felo chow bowl here.
+You can go north, east, south, and west.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, and a glossy gold ceramic felo chow bowl
+here.
+You can go east, south, west, up, and down.
+u
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, a glossy lavender ceramic felo
+chow bowl, and Sassie the large fuchsia felo here.
+You can go northeast, northwest, and down.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, a red plastic food storage container, and a Tardick
+lizard named Freyja here.
+You can go southwest and northwest.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Simon Collins is sleeping on a black leather sectional sofa.
+Anfisa of Marzore and Akemi Bando are dozing on a modern white pod chair. Blake
+Madison, Melinda Michaels, and Michael Winters are dozing on a rare black
+EAOSian contoured couch. Morris Corlew and Kim Saunders are sitting on a black
+leather sectional sofa.
+You can go southeast, southwest, and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+wave
+You wave.
+Michael yawns.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3597 light-mincycles per seccycle
+Direction:          Galactic East and Very Slightly Up (0.0, 15.0)
+Riftflow:           4811 light-mincycles per seccycle from Galactic North and
+Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity and direction.
+Time in Riftflow:   0.F52
+Distance Traveled:  3.3 light-trade cycles
+Apparent Region:    Local Space
+--
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+Morris waves.
+Michael Winters activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Flashes of light pulsate from the rainbow pathways.
+Melinda stretches.
+Kim Saunders smiles at you.
+smile kim
+You smile at Kim.
+Flashes of light pulsate from the rainbow pathways.
+A Tardick lizard named Zeus curls its tail loosely around Melinda Michaels's
+neck.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the southwest.
+pet sassi
+You stroke the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+Kim Saunders takes a bite of a tuna salad sandwich.
+Sakura Arakida strides in from the southeast.
+Sakura Arakida grins.
+Blake waves to Sakura.
+Sakura waves.
+Michael waves to Sakura.
+Sakura says, "I love waking up to rainbows."
+Sakura grins.
+Michael Winters strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Michael's hand.
+Kim smiles at Sakura.
+Kim Saunders takes a sip of a mug of steaming hot chocolate.
+Michael Winters glances down at his watch momentarily.
+wave sakura
+You wave to Sakura.
+Sassie the large fuchsia felo stares up at Kim Saunders for a moment, then says,
+"Mrr" and wanders away.
+Sakura waves and waves and waves.
+Sakura Arakida navigates her rosebud pink touch einrophone to a text-heavy
+application and peers at the screen.
+Flashes of light pulsate from the rainbow pathways.
+The rainbow pathway sparkles as the clouds rush away, leaving behind shimmering
+blackness and finally regular space.
+You mentally sigh in relief as you return to the starship.
+A Tardick lizard named Zeus flicks its tongue out from its perch on Melinda
+Michaels's shoulder.
+Sakura Arakida sits down on a cream oriental rug with an intricate yellow flower
+pattern.
+Sakura randomly drags a cream oriental rug with an intricate yellow flower
+pattern over against a wall and uses said wall as a backrest while stretching
+her legs out on a cream oriental rug with an intricate yellow flower pattern.
+Sassie the large fuchsia felo hums melodically to itself as it wanders
+southwest.
+Morris Corlew scrambles to his feet.
+Morris Corlew meanders southeast.
+Morris Corlew meanders in from the southeast.
+Morris Corlew sits down on a black leather sectional sofa.
+Morris Corlew takes a sip of a cup of hot Colombian coffee with cream.
+A Tardick lizard named Zeus, perched on Melinda Michaels's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Morris Corlew takes a sip of a cup of hot Colombian coffee with cream.
+Morris Corlew takes a sip of a cup of hot Colombian coffee with cream.
+Kim Saunders takes a sip of a mug of steaming hot chocolate.
+[Newbie Help] Brad Pinkett transmits, "How do I remove my ammunission storage
+box from my ship? It ways too much for the ship."
+tra newb Expel it when you're in space.
+[Newbie Help] Shule Elemmire transmits, "Expel it when you're in space."
+[Newbie Help] Brad Pinkett transmits, "I cant launch."
+tra new Hmmm, I'm not sure then. I've never had that problem...
+[Newbie Help] Shule Elemmire transmits, "Hmmm, I'm not sure then. I've never had
+that problem..."
+[Newbie Help] Michael Winters transmits, "Uh, I've never heard of that
+happening."
+[Newbie Help] Morris Corlew transmits, "I didn't even know that was possible. I
+thought the spaceport only gave you enough to fill the ship...do you have other
+stuff in your storage room?"
+Morris Corlew quickly drains a cup of hot Colombian coffee with cream.
+Morris Corlew puts a cup in a shiny yellow trash bin.
+Morris Corlew stretches.
+[Newbie Help] Brad Pinkett transmits, "I converted one of my ships to another
+ship, and the cargo storage went down from 8000 to 6000. The ammo box has 31
+torps weighing 7500."
+Sakura Arakida takes a sip of a deluxe double vanilla milkshake in a tall glass.
+Sakura Arakida takes a bite of a hot cheeseburger with the works.
+[Newbie Help] Morris Corlew transmits, "Sorry, no ideas at this point. Hopefully
+others do."
+Morris Corlew stands up from a black leather sectional sofa.
+"Gonna go read for a bit and stretch my legs," Morris says in an Old Earth
+accent.
+Morris waves.
+Morris Corlew meanders southeast.
+Michael waves.
+[Newbie Help] Michael Winters transmits, "I didn't even know you could convert
+ships."
+[Newbie Help] Brad Pinkett transmits, "Its an AEU thing. I converted my scout to
+an advanced scout."
+[Newbie Help] Evenia Callseah transmits, "Part of me thinks you may have to
+support about it."
+[Newbie Help] Brad Pinkett transmits, "And, I removed it, I used my tugboat to
+get the ship to space and then expeled the ammo box."
+Kim Saunders takes a bite of a tuna salad sandwich.
+tra new I was just about to suggest that. Glad you got it worked out.
+[Newbie Help] Shule Elemmire transmits, "I was just about to suggest that. Glad
+you got it worked out."
+[Newbie Help] Evenia Callseah transmits, "Nicely done."
+[Newbie Help] Ted Warburton transmits, "I'll have to remember not to convert my
+ship, which is a new one on me too, when it is full of amo."
+[Newbie Help] Brad Pinkett transmits, "Yeah, I thought that the ammo box would
+be removed."
+Something tickles the back of your neck.
+Sakura snickers. "Stupid rift entities. Don't tickle me..."
+Blake chuckles at Sakura.
+Michael says to Sakura in a Candelaria accent, "Want Blake to tickle you?"
+Blake says, "I think she'd kill me."
+Michael chuckles.
+Kim giggles.
+Kim Saunders finishes off a tuna salad sandwich.
+Sakura snickers. "No I wouldn't, zandria might though."
+chuckle
+You chuckle.
+Blake nods. "One of you would."
+Michael says to Blake in a Candelaria accent, "You can tickle Kim."
+Kim laughs. "Yeah, I might tickle back."
+Blake says, "No, Kim is nice."
+Michael says to Blake in a Candelaria accent, "That she is."
+l
+[Starship "We Strive To Live In Peace"; Control Room]
+The arc of the starship's command ring meets gracefully here in a sweeping,
+curved control room. An extraordinarily large viewport dominates the entire
+front of the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status. A
+large navigation terminal has a direct hookup to the onboard navigation
+mainframe. Secondary control boards can be pulled up and folded back to provide
+a working surface, or pulled down from recesses overhead as needed. A half-deck
+behind this control area allows other crew members to gather and observe. Every
+surface is a pristine cream color. Lights overhead indicate that the ship is on
+green status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Simon Collins is sleeping on a black leather sectional sofa.
+Anfisa of Marzore and Akemi Bando are dozing on a modern white pod chair. Blake
+Madison, Melinda Michaels, and Michael Winters are sitting on a rare black
+EAOSian contoured couch. Kim Saunders is sitting on a black leather sectional
+sofa. Sakura Arakida is sitting on a cream oriental rug.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+The room grows a bit more chill.
+Michael yawns violently.
+You hear something fall in the next room.
+You see a figure walk past the open doorway out of the corner of your eye.
+Jasmin the small red glowing felo wanders in from the southwest.
+Kim Saunders takes a sip of a mug of steaming hot chocolate.
+For a brief moment, everything seems to be normal.
+The mist turns to black smoke that soon drifts away, and you find that the ship
+is on a conveyor belt, moving rapidly through a factory.
+l
+[Starship "We Strive To Live In Peace"; Control Room]
+The arc of the starship's command ring meets gracefully here in a sweeping,
+curved control room. An extraordinarily large viewport dominates the entire
+front of the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status. A
+large navigation terminal has a direct hookup to the onboard navigation
+mainframe. Secondary control boards can be pulled up and folded back to provide
+a working surface, or pulled down from recesses overhead as needed. A half-deck
+behind this control area allows other crew members to gather and observe. Every
+surface is a pristine cream color. Lights overhead indicate that the ship is on
+green status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', Kosmo the humanoid service robot, and Jasmin the small red glowing felo
+here.
+Simon Collins is sleeping on a black leather sectional sofa.
+Melinda Michaels is dozing on a rare black EAOSian contoured couch. Anfisa of
+Marzore and Akemi Bando are dozing on a modern white pod chair. Blake Madison
+and Michael Winters are sitting on a rare black EAOSian contoured couch. Kim
+Saunders is sitting on a black leather sectional sofa. Sakura Arakida is sitting
+on a cream oriental rug.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+who
+There appear to be about 10 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A)
+*Lily Kaise  (A)
+*Kim Saunders  (A) [m]
+*Sakura Arakida  (L)
+%Simon Privorda  (L)
+%Caleb Davenport  (L)
+*Michael Winters  (F)
+%Evenia Callseah  (F) [c]
+%Eugene Silverlance  (F)
+%Ted Warburton  (F)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 25 pilots.
+se
+You scramble to your feet.
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+sw
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+d
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, a glossy gold ceramic felo chow bowl,
+Sassie the large fuchsia felo, and a Tardick lizard named Freyja here.
+You can go east, south, west, up, and down.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid A]
+s
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing ivory and onyx aquatic life and sea
+green and neon blue round rocks, a small bubbling white-lit aquarium containing
+blue and crimson aquatic life and round rocks, a glossy seashell pink ceramic
+felo chow bowl, Nekomata the medium-sized blue twin tailed felo, and Cindy the
+old small red sabre-toothed felo here.
+You can go north, east, south, and west.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid B]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and
+coral rocks, a small bubbling neon blue-lit toroidal aquarium containing red and
+blue aquatic life and round rocks, a glossy gold ceramic felo chow bowl, and a
+Tardick lizard named Raissa here.
+You can go north, east, south, and west.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+s
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, and a
+glossy sea green ceramic felo chow bowl here.
+You can go north, east, and west.
+s
+You can't go that way.
+You can't go that way.
+w
+[Starship "We Strive To Live In Peace"; Living Quarters Seven]
+You see a long plasteel counter, a pair of narrow bunks with a set of cream
+cotton sheets, a soft white cashmere blanket, a soft golden brown satin pillow
+with thick gold fringe, and a soft white satin pillow with thick gold fringe on
+it, a small yellow bioplastic ship light, a woven cream wool rug with a yellow
+border, Magellan the arachnoid security robot, Kiska the humanoid service robot,
+a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a hand-made purple and amethyst flower
+quilt, and a large periwinkle bed pillow on it, a clear plastic food storage
+container, a small white trash can, a compact red refrigerator, a white
+microwave oven, and a blue plastic food storage container here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go east.
+remove sneakers
+You pull a pair of washed light khaki canvas sneakers off of your feet.
+drop sneakers
+You put down a pair of washed light khaki canvas sneakers.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a hand-made purple and amethyst
+flower quilt, and a large periwinkle bed pillow on it.
+cudle lily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily
+You kiss Lily Kaise.
+A gigantic hand suddenly picks up the ship, turns it from one side to the other,
+then places it back on the conveyor belt.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Various ships of fantastical design are dropped onto the conveyor belt along
+with yours.
+A Tardick lizard named Raissa trundles slowly into the area.
+l raiss
+a Tardick lizard named Raissa
+This is one of the famed Tardick lizards. It has four legs: a thick, strong back
+pair and a foreshortened front pair. It seems to go on all fours most of the
+time, but it also stands up occasionally, using its front paws as somewhat
+awkward hands. Its toes have short but sharp talons. Its skin is dark gray and
+spotted with dark green, and parallel rows of silver-colored ridges run down its
+back to the tip of its long tail. Its yellow eyes betray little in the way of
+curiosity. A slim dark pink tongue flicks out every few seconds. It is wearing a
+slim leather collar with a tag reading RAISSA. Its ribs are showing through its
+scaly skin.
+A Tardick lizard named Raissa flicks its tongue out.
+A gigantic hand suddenly picks up the ship, turns it from one side to the other,
+then places it back on the conveyor belt.
+The deck suddenly jumps under your feet as you hear a heavy thud from deep
+inside the starship.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+Kim Saunders's voice comes over the loudspeaker and says, "No one else helping
+with these reps?"
+Morris Corlew's voice comes over the loudspeaker and says, "I'm in engineering.
+Can't do outside repairs."
+Morris Corlew's voice comes over the loudspeaker and says, "About to get going."
+Kim Saunders's voice comes over the loudspeaker and says, "Ok."
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a large periwinkle bed pillow on it.
+e
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, and a
+glossy sea green ceramic felo chow bowl here.
+You can go north, east, and west.
+n
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid B]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and
+coral rocks, a small bubbling neon blue-lit toroidal aquarium containing red and
+blue aquatic life and round rocks, a glossy gold ceramic felo chow bowl, and
+Cindy the old small red sabre-toothed felo here.
+You can go north, east, south, and west.
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid A]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing ivory and onyx aquatic life and sea
+green and neon blue round rocks, a small bubbling white-lit aquarium containing
+blue and crimson aquatic life and round rocks, a glossy seashell pink ceramic
+felo chow bowl, and a Tardick lizard named Asteria here.
+You can go north, east, south, and west.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, and a glossy gold ceramic felo chow bowl
+here.
+You can go east, south, west, up, and down.
+u
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+n
+You can't go that way.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', Kosmo the humanoid service robot, Jasmin the small red glowing felo,
+and a Tardick lizard named Freyja here.
+Simon Collins is sleeping on a black leather sectional sofa.
+Anfisa of Marzore and Akemi Bando are dozing on a modern white pod chair. Sakura
+Arakida is dozing on a cream oriental rug.
+You can go southeast, southwest, and out.
+out
+You must cycle the airlock before entering it.
+cycle
+You press a large button on the airlock door, beginning the cycling process.
+use shooting
+You are not currently wearing a spacesuit. Do you wish to suit up now?
+[Enter `yes' or `no']
+A small light on the airlock door turns from red to yellow.
+y
+You remove spacesuit components from a black flightbag with a red shooting star
+on the side and quickly don them.
+out
+You must cycle the airlock before entering it.
+A small light on the airlock door turns from yellow to green.
+out
+[Starship "We Strive To Live In Peace"; Airlock]
+You see a row of flightlockers, a large secure xenology storage container, a
+shiny yellow trash bin, and a sturdy brown plastic crate here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+take hyper
+You remove a hyperspanner from a black engineering tool case.
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+take manyal
+I see no "manyal" here.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+take manual
+You remove a manual zero-point energy receptacle charger from a black
+engineering tool case.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+The airlock hatch chimes quietly.
+Michael Winters just boarded the ship.
+y
+[Outside We Strive To Live In Peace]
+Blake Madison, Melinda Michaels, and Kim Saunders are standing here.
+You can go in any direction using a spacejet, or return to We Strive To Live In
+Peace.
+You are weightless here.
+You carefully open the hatch and float outside.
+repair
+There seems to be nothing else requiring repairs outside of the ship.
+enter
+[Starship "We Strive To Live In Peace"; Airlock]
+You see a row of flightlockers, a large secure xenology storage container, a
+shiny yellow trash bin, and a sturdy brown plastic crate here.
+Michael Winters is standing here.
+You can go enter into the ship.
+You float close to the science vessel "We Strive To Live In Peace", open the
+hatch, and carefully float inside, orienting yourself so that your feet hit the
+floor as you enter the ship's artificial gravity field.
+The airlock hatch chimes quietly.
+Melinda Michaels just boarded the ship.
+The airlock hatch chimes quietly.
+Blake Madison just boarded the ship.
+Melinda Michaels carefully opens the hatch and floats outside, into deep space.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+Kim Saunders just boarded the ship.
+The airlock hatch chimes quietly.
+Melinda Michaels just boarded the ship.
+Melinda Michaels presses a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+remove shooting
+You need a free hand to remove a black flightbag with a red shooting star on the
+side.
+Melinda Michaels just entered the ship.
+The computer announces, "Cycling complete."
+Michael Winters just entered the ship.
+Blake Madison just entered the ship.
+e
+You can't go that way.
+Kim Saunders just entered the ship.
+enter
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', Kosmo the humanoid service robot, Jasmin the small red glowing felo,
+and a Tardick lizard named Freyja here.
+Simon Collins is sleeping on a black leather sectional sofa.
+Anfisa of Marzore and Akemi Bando are dozing on a modern white pod chair. Sakura
+Arakida is dozing on a cream oriental rug. Melinda Michaels and Kim Saunders are
+standing here.
+You can go southeast, southwest, and out.
+se
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+sw
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+d
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, and a glossy gold ceramic felo chow bowl
+here.
+You can go east, south, west, up, and down.
+d
+[Starship "We Strive To Live In Peace"; Engineering Deck; Fore]
+You see a crudely hammered scrap metal feeding trough and Sassie the large
+fuchsia felo here.
+You can go north, south, and up.
+s
+[Starship "We Strive To Live In Peace"; Engineering Room]
+You see a cream improved temporary wormhole drive, a modern white pod chair with
+a cream leather interior, a wall-sized bubbling coral pink-lit aquarium
+containing yellow and blue aquatic life and multicolored round rocks, a glossy
+blue ceramic felo chow bowl, and Akemi Bando's workbench here.
+Morris Corlew, Blake Madison, and Michael Winters are standing here.
+You can go north, east, south, and west.
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Kim Saunders strolls in from the north.
+repair
+Kim Saunders moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with her hyperspanner.
+Wait 6 seconds.
+Melinda Michaels strolls in from the north.
+repair
+Wait 3 seconds.
+Melinda Michaels moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 2 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 2 seconds.
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Morris Corlew moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Kim Saunders moves some wires aside to locate the problem component, then begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 2 seconds.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 4 seconds.
+Melinda Michaels moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with her hyperspanner.
+Michael Winters moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Wait 2 seconds.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then begin
+discharging energy to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Kim Saunders moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with her hyperspanner.
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 22 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 21 seconds.
+repair
+Melinda Michaels moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with her hyperspanner.
+Wait 19 seconds.
+repair
+Wait 18 seconds.
+Kim Saunders moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with her hyperspanner.
+repair
+Wait 11 seconds.
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Melinda Michaels moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 8 seconds.
+Kim Saunders moves some wires aside to locate the problem component, then begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 4 seconds.
+repair
+Wait 3 seconds.
+repair
+Wait 2 seconds.
+repair
+With everything arranged, you settle into the damage control station.
+Wait 1 seconds.
+repair
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Morris Corlew moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Wait 2 seconds.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 4 seconds.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Melinda Michaels moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Kim Saunders moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with her hyperspanner.
+repair
+Wait 4 seconds.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then begin
+discharging energy to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Kim Saunders moves some wires aside to locate the problem component, then begins
+discharging energy to prime a zero-point energy receptacle.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Wait 16 seconds.
+Morris Corlew moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Wait 15 seconds.
+Melinda Michaels moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 7 seconds.
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 4 seconds.
+repair
+Wait 3 seconds.
+repair
+Wait 2 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Kim Saunders moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with her hyperspanner.
+repair
+Wait 4 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+You move some wires aside to locate the problem component, then begin
+discharging energy to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+repair
+Wait 27 seconds.
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Kim Saunders moves some wires aside to locate the problem component, then begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 22 seconds.
+repair
+Wait 21 seconds.
+Melinda Michaels moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 12 seconds.
+repair
+Wait 11 seconds.
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Internal repairs appear to be complete!
+The rift drive ought to be operational again!
+repair
+Wait 9 seconds.
+repair
+Wait 6 seconds.
+Michael Winters strides north.
+Kim Saunders says something, but the sound is muffled by your spacesuit helmet
+and you can't quite make it out.
+put manual in case
+You put a manual zero-point energy receptacle charger in a black engineering
+tool case.
+use shooting
+You are currently wearing portions of a spacesuit. Do you wish to unsuit now?
+[Enter `yes' or `no']
+y
+You remove the components of your spacesuit and place them neatly into a black
+flightbag with a red shooting star on the side.
+Kim Saunders puts a hyperspanner in a red engineering tool case.
+Kim Saunders removes a hyperspanner from a red engineering tool case.
+Kim Saunders returns a hyperspanner to a red engineering tool case.
+Melinda Michaels puts a hyperspanner in a black canvas gear bag.
+put hyper in case
+You put a hyperspanner in a black engineering tool case.
+rd
+Uncharted Sector (Unclaimed) [Local Space] (Security: Delta-10)
+Coordinate rundown:
+Starships: We Strive To Live In Peace (H) at (3, 6, 14)
+Melinda Michaels puts a manual zero-point energy receptacle charger in a black
+canvas gear bag.
+Blake Madison removes the components of his spacesuit and places them neatly
+into a white flightbag.
+Melinda Michaels strolls north.
+Kim Saunders removes a hyperspanner from a red engineering tool case.
+Kim Saunders puts a hyperspanner in a red engineering tool case.
+Morris Corlew puts a hyperspanner in a small cloth sack.
+Blake Madison walks north.
+Morris Corlew puts a manual zero-point energy receptacle charger in a small
+cloth sack.
+Kim Saunders puts a manual zero-point energy receptacle charger in a red
+engineering tool case.
+Blake Madison's voice comes over the loudspeaker and says, "Start it up?"
+Kim Saunders strolls north.
+n
+[Starship "We Strive To Live In Peace"; Engineering Deck; Fore]
+You see a crudely hammered scrap metal feeding trough here.
+Kim Saunders is standing here.
+You can go north, south, and up.
+u
+Kim Saunders strolls up.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, a glossy gold ceramic felo chow bowl, and
+Sassie the large fuchsia felo here.
+Kim Saunders is standing here.
+You can go east, south, west, up, and down.
+Kim Saunders strolls up.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid A]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing ivory and onyx aquatic life and sea
+green and neon blue round rocks, a small bubbling white-lit aquarium containing
+blue and crimson aquatic life and round rocks, a glossy seashell pink ceramic
+felo chow bowl, a Tardick lizard named Asteria, and Cindy the old small red
+sabre-toothed felo here.
+You can go north, east, south, and west.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid B]
+s
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and
+coral rocks, a small bubbling neon blue-lit toroidal aquarium containing red and
+blue aquatic life and round rocks, and a glossy gold ceramic felo chow bowl
+here.
+You can go north, east, south, and west.
+s
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, and a
+glossy sea green ceramic felo chow bowl here.
+You can go north, east, and west.
+You can't go that way.
+w
+[Starship "We Strive To Live In Peace"; Living Quarters Seven]
+You see a long plasteel counter, a pair of narrow bunks with a set of cream
+cotton sheets, a soft white cashmere blanket, a soft golden brown satin pillow
+with thick gold fringe, and a soft white satin pillow with thick gold fringe on
+it, a small yellow bioplastic ship light, a woven cream wool rug with a yellow
+border, Magellan the arachnoid security robot, Kiska the humanoid service robot,
+a white four poster rattan bed with a heart-shaped headboard and filmy deep
+purple hangings with a set of lavender silk sheets, a soft periwinkle cashmere
+blanket, a large periwinkle bed pillow, a hand-made purple and amethyst flower
+quilt, and a large periwinkle bed pillow on it, a clear plastic food storage
+container, a small white trash can, a compact red refrigerator, a white
+microwave oven, a blue plastic food storage container, a pair of washed light
+khaki canvas sneakers, and a Tardick lizard named Raissa here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go east.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a set of lavender silk sheets, a soft periwinkle
+cashmere blanket, a large periwinkle bed pillow, a hand-made purple and amethyst
+flower quilt, and a large periwinkle bed pillow on it.
+Something deep inside the starship roars to life as the lights dim sharply.
+cuddle lily
+You cuddle up to Lily Kaise.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+The walls whip away at high speed, carried into the far distance as the floor
+carries on without them. A darkened hoverfreeway rises from below.
+A Tardick lizard named Raissa blinks its yellow eyes slowly, utterly indifferent
+to its surroundings.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in Local Ship Message Board/We Strive To Live In Peace/General.
+Lily Kaise yawns.
+Lily cuddles up to you.
+Lily says, "Wow akemi never fed thie poor thing."
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made
+purple and amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise opens a compact red refrigerator and the light inside clicks on.
+Lily Kaise helps herself to a slice of New Phoenician pizza from a compact red
+refrigerator.
+Lily Kaise dangles a day old slice of New Phoenician pizza in front of a Tardick
+lizard named Raissa. The lizard's tongue flicks out once, then its head lunges
+forward, snapping up the food in a sudden blur and immediately swallowing it
+whole.
+Lily Kaise helps herself to a slice of New Phoenician pizza from a compact red
+refrigerator.
+Lily Kaise dangles a day old slice of New Phoenician pizza in front of a Tardick
+lizard named Raissa. The lizard's tongue flicks out once, then its head lunges
+forward, snapping up the food in a sudden blur and immediately swallowing it
+whole.
+A Tardick lizard named Raissa trundles slowly east.
+cuddle lily
+You cuddle up to Lily.
+smile lily
+You smile at Lily.
+Lily smiles at you.
+'Sorry, didn't mean to fall asleep in the control room
+"Sorry," you say in a New Phoenician accent, "didn't mean to fall asleep in the
+control room."
+Lily Kaise helps herself to a slice of New Phoenician pizza from a compact red
+refrigerator.
+Lily Kaise glides east.
+Lily Kaise glides in from the east.
+Lily Kaise closes a compact red refrigerator.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made
+purple and amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise says in a New Earth accent, "There it will be ok for three days at
+least."
+nod
+You nod.
+'Sorry, didn't mean to fall asleep in the control room
+"Sorry," you say, "didn't mean to fall asleep in the control room."
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+"I don't know how long they will live once they are at that stage but i'm not
+willing to find out," Lily says.
+'Yeah, no kidding.
+You say, "Yeah, no kidding."
+wrap lily
+You wrap your arms around Lily, pulling her close.
+Lily wraps her arms around you, pulling you close.
+'Sorry, didn't mean to fall asleep in the control room
+"Sorry," you say, "didn't mean to fall asleep in the control room."
+"It's ok," says Lily.
+"I think you missed out on another planet," Lily says.
+"I hope you are ok with my bringing you to bed," Lily says. "There were already
+two sleepers in there."
+'Thanks for doing that.
+You say, "Thanks for doing that."
+'And yeah, I missed out on a planet.
+"And yeah," you say, "I missed out on a planet."
+Lily smiles. "Ok."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+Lily cuddles up to you.
+cuddle lily
+You cuddle up to Lily.
+'But I did manage to get in on the tail end of repairs.
+You say, "But I did manage to get in on the tail end of repairs."
+Lily says, "Ah good I'm sorry I slept through those."
+'It's fine. We had plenty of help.
+"It's fine," you say. "We had plenty of help."
+squeeze lily
+You squeeze Lily affectionately.
+Lily Kaise says, OOCly, "Need a few here."
+ooc no problem
+You say, OOCly, "No problem."
+A giant spider dashes up to the hovertruck bed, coming from behind at terrible
+speed. It crawls over you quickly and disappears into the distance.
+shiver
+You shiver.
+The hoverfreeway goes dark. Only reflectors on the surface below act as guides
+to your driver.
+Lily exclaims, "Ugh spiders no thanks!"
+'Yeah, I don't really care for spiders.
+"Yeah," you say, "I don't really care for spiders."
+Lily grins.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you.
+caress lily on back
+You gently caress Lily Kaise's back.
+Lily gently rubs your back.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+-lily I love you.
+You say to Lily, "I love you."
+Lily Kaise leans close to you and kisses you softly on the chest.
+The hovertrailer carrying you fishtails briefly.
+Lily Kaise glances down at her neon purple wrist-mounted chronometer
+momentarily.
+Lily stretches.
+Lily cuddles up to you.
+cuddle lily
+You cuddle up to Lily.
+-lily Love you babe.
+You say to Lily, "Love you babe."
+Lily says to you in a New Earth accent, "I love you Hun."
+Lily smiles.
+Lily wraps her arms around you, pulling you close.
+Lily says, "I probably should get dressed and up to the control room soon."
+'Heh, maybe. I came back here to cuddle with you till you woke up.
+"Heh, maybe," you say. "I came back here to cuddle with you till you woke up."
+grin lily
+You grin at Lily.
+Lily grins at you.
+kiss lily on neck
+You kiss Lily Kaise softly on the neck.
+The hovertruck spends several minutes overtaking a hovercar. Nobody appears to
+be in its driver's seat.
+The hovertruck turns rapidly and careens off the highway, gliding through the
+air before evaporating into the darkness.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+mid-back length, straight hair is pale honey blonde and swept up into a thick
+fall of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+She seems to have a bruise on her forehead. 
+She is wearing a flowing lilac satin chemise.
+She is also wearing an orange and white blessed prayer bracelet around her
+wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a neon
+purple wrist-mounted chronometer, a solid silver ring engraved with dragonflies,
+a delicate ring of silver wire and small purple amethyst crystals, a metallic
+gold touch einrophone in a metallic purple reinforced plastic phone holster, a
+soft fuchsia Tardick lizard snuggly labeled 'Asteria', and a light purple linen
+bag.
+Her head, face, both eyes, neck, both biceps, both elbows, both forearms, both
+wrists, both hands, both ankles, and both feet are left uncovered.
+She is carrying nothing.
+The formless mists suddenly resolve into a dust-laden wind. After a moment the
+dust settles, and one of the horses in front of you lets out a quiet whicker as
+the carriage's wheels creak ceaselessly below.
+l chemise on lily
+a flowing lilac satin chemise
+This lilac satin of this calf-length chemise is ultra smooth and shimmers in the
+light. The straps are thin and the hem and deeply rounded neckline are trimmed
+in matching lace.
+: pulling one of your straps down, @ kisses you on one of your breasts.
+Pulling one of your straps down, Shule kisses you on one of your breasts.
+Lily cuddles up to you.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+Lily wraps her arms around you, pulling you close.
+Lily Kaise kisses you on the lips.
+emote kisses your lips and neck and runs his fingers through your hair.
+Shule kisses your lips and neck and runs his fingers through your hair.
+Lily smiles at you.
+smile lily
+You smile at Lily.
+Lily smiles at you.
+emote slips his hand down the front of your chemise and plays with your breasts.
+Shule slips his hand down the front of your chemise and plays with your breasts.
+Lily grins at you.
+emote places gentle kisses on your neck as he continues to play with your
+breasts.
+Shule places gentle kisses on your neck as he continues to play with your
+breasts.
+A white bird flashes by over the plain.
+kiss lily
+You kiss Lily Kaise.
+A small stand of trees passes by on the left of the carriage.
+Lily Kaise kisses you on the lips.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+Lily wraps her arms around you, pulling you close.
+emote plays with the straps of your chemise.
+Shule plays with the straps of your chemise.
+Lily grins at you.
+Lily asks, "I know you want... but we probably should go be helpful up there?"
+Lily grins at you.
+Lily Kaise sits up onto a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made
+purple and amethyst flower quilt, and a large periwinkle bed pillow on it.
+emote nods sadly, "Yeah, probably.
+Shule nods sadly, "Yeah, probably.
+Lily smiles.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made
+purple and amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise glides east.
+take sneakers
+You pick up a pair of washed light khaki canvas sneakers.
+wear sneakers
+You pull a pair of washed light khaki canvas sneakers onto your feet.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a large periwinkle bed pillow, a hand-made purple
+and amethyst flower quilt, and a large periwinkle bed pillow on it.
+e
+[Starship "We Strive To Live In Peace"; Quarters Deck; Aft]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a large bubbling
+luminescent peach-lit aquarium containing yellow and orange aquatic life and
+gold round rocks, a small bubbling shimmering passion pink-lit aquarium
+containing onyx and black aquatic life and multicolored round rocks, and a
+glossy sea green ceramic felo chow bowl here.
+You can go north, east, and west.
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid B]
+n
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing yellow and red aquatic life and
+coral rocks, a small bubbling neon blue-lit toroidal aquarium containing red and
+blue aquatic life and round rocks, and a glossy gold ceramic felo chow bowl
+here.
+You can go north, east, south, and west.
+n
+[Starship "We Strive To Live In Peace"; Quarters Deck; Mid A]
+You see a small round white nightlight (casting a soft white glow), a sturdy
+yellow plastic shelf, a tall mirror framed in white rattan, a wall-sized
+bubbling neon purple-lit aquarium containing ivory and onyx aquatic life and sea
+green and neon blue round rocks, a small bubbling white-lit aquarium containing
+blue and crimson aquatic life and round rocks, a glossy seashell pink ceramic
+felo chow bowl, a Tardick lizard named Asteria, and Sassie the large fuchsia
+felo here.
+You can go north, east, south, and west.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight, a sturdy yellow plastic shelf, a tall mirror framed in
+white rattan, a large bubbling azure blue-lit aquarium containing amber and
+violet aquatic life and round rocks, a glossy gold ceramic felo chow bowl,
+Jasmin the sleeping small red glowing felo, and Cindy the old small red
+sabre-toothed felo here.
+You can go east, south, west, up, and down.
+u
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Anfisa of Marzore is dozing on a modern white pod chair. Sakura Arakida is
+sitting on a cream oriental rug. Michael Winters is dozing on a rare black
+EAOSian contoured couch. Blake Madison and Melinda Michaels are sitting on a
+rare black EAOSian contoured couch. Kim Saunders is standing here. Simon Collins
+and Morris Corlew are sitting on a black leather sectional sofa.
+You can go southeast, southwest, and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+Kim waves to you.
+A readout shows Asteroid Cluster 0012-3584 about 20.6 light-grand cycles toward
+Galactic Westnorthwest and Slightly Down.
+wave kim
+You wave to Kim.
+An orange digital felo game beeps plaintively for food.
+A small stand of trees passes by on the left of the carriage.
+Morris Corlew scrambles to his feet.
+Morris Corlew meanders southeast.
+A white bird flashes by over the plain.
+A sudden cloud of dust is kicked up, obscuring your vision.
+Mist swirls through the air, coalescing into intricate silken webs that coat
+every surface.
+"Oh wo," says Kim, "look at the rift status where we are."
+"Where?" asks Michael.
+Blake says, "Unknown."
+Sakura whistles.
+Blake says, "Woo."
+Michael cheers.
+"Ow," says Melinda.
+"Interesting," says Sakura in a Japanese accent. "We'll find tons of interesting
+stuff now."
+"Somebody woke me up," says Melinda in a Bedford accent.
+"Good," says Michael.
+"I have never been this far out," says Kim, "certainly not in what the computer
+labels as unknown."
+Blake says, "Or we won't."
+"Once we got past the 200 ly mark," says Simon Collins in an English accent,
+"that was new terratory for me."
+Michael says to Blake in a Candelaria accent, "You never know."
+Kim smiles at Melinda. "We have reached the unknown."
+Melinda says, "Wee."
+Blake says in a Candelarian accent, "Be excited."
+Simon says, "Hell yes."
+Kim cheers.
+wave mel
+You wave to Melinda.
+wave blake
+You wave to Blake.
+wave simon
+You wave to Simon.
+wave sakura
+You wave to Sakura.
+"Now," says Blake, "we just gotta remember how we get back."
+Michael asks, "Um, that way?"
+A Tardick lizard named Zeus flicks its tongue out from its perch on Melinda
+Michaels's shoulder.
+Melinda says, "Southwest and very slightly down."
+l lily
+I see no "lily" here.
+Kim nods. "Yeah, if we take the course that we had for the biggest part of our
+trip, we should eventually get near enough to home to chart it."
+Michael nods.
+wave winters
+You wave to Michael.
+"Well," says Kim, "not we, since I have no idea how to to chart."
+Kim giggles.
+"Me either," says Michael.
+Akemi Bando moves in from the southeast.
+Akemi Bando sits down on a dark yellow leather captain's chair.
+Michael waves to Akemi Bando.
+Melinda says, "We have entered the great unknown."
+Akemi Bando exclaims in a Japanese accent, "Finally!"
+Michael grins.
+Kim waves to Akemi.
+Kim exclaims, "Yes, we have reached the unknown!"
+Lily Kaise glides in from the southeast.
+wave akemi
+You wave to Akemi.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+Akemi taps a copy of "QE Codes Pre-publication Copy".
+Lily waves and smiles.
+Akemi asks, "Who wants to look this over?"
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Melinda says, "Me."
+Akemi says, "It's really boring and long."
+Akemi Bando gives a copy of "QE Codes Pre-publication Copy" to Melinda Michaels.
+Kim says, "This part ofd the unknown will not be the unknown anymore once we
+return home."
+Melinda Michaels opens a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Kim says to Akemi, "Not sure you were awake and attentive, we did pass by an
+asteroid cluster."
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Kim says, "And patched up the drive after a rude breakdown."
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+A Tardick lizard named Zeus curls its tail loosely around Melinda Michaels's
+neck.
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Akemi says to Kim in a Japanese accent, "I noticed that we were passing it by
+when I got up earlier."
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+"Ok. I hope you rested well?" Kim nods to Akemi.
+"Well enough," says Akemi, "for having dozed off in a chair."
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda says to Akemi, "Move page 10 to page 3 and slide the others back a page.
+That's probably going to be one of the more important pages."
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels reads in a copy of "QE Codes Pre-publication Copy".
+Melinda Michaels turns a page in a copy of "QE Codes Pre-publication Copy".
+Melinda considers a copy of "QE Codes Pre-publication Copy" thoughtfully.
+Melinda Michaels closes a copy of "QE Codes Pre-publication Copy".
+Kim smiles. "Chairs are not really comfortable sleeping places, even couches and
+sofa's migh be better."
+Melinda says to Akemi, "I did not give a good glance for spelling or grammar
+errors but the book looks good as far as all the information in it."
+A Tardick lizard named Zeus turns to regard its surroundings from its perch on
+Melinda Michaels's shoulder, and its spine ridges flicker blue for a brief
+moment.
+Akemi says to Melinda, "I'll shuffle the pages around and see how it works in
+practice next, then."
+Kim says to Akemi, "What are you working on, if I may ask?"
+Melinda Michaels gives a copy of "QE Codes Pre-publication Copy" to Akemi Bando.
+Akemi Bando gives a copy of "QE Codes Pre-publication Copy" to Kim Saunders.
+Akemi says to Kim in a Japanese accent, "Take a look."
+Kim says, "Hmm, interesting."
+Kim Saunders opens a copy of "QE Codes Pre-publication Copy".
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+A metallic scratching sound echoes through the hull as it catches on something
+hidden inside the endless webbing.
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+l
+[Starship "We Strive To Live In Peace"; Control Room]
+Slender threads glitter in diffuse light that filters from an indistinct source,
+woven together into elaborate webs that stretch across everything. The walls of
+the starship are obscured by the curtains of silk, a twisting infinity of webs
+draped over rock visible through the windows. The air is cool and moist,
+smelling of rock and decay. The silence is occasionally broken by a brief gust
+of wind or the sound of numerous legs skittering across a rock surface. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is inside the riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Anfisa of Marzore is dozing on a modern white pod chair. Simon Collins is
+sitting on a black leather sectional sofa. Sakura Arakida is sitting on a cream
+oriental rug. Kim Saunders is standing here. Akemi Bando is sitting on a dark
+yellow leather captain's chair. Michael Winters, Blake Madison, Melinda
+Michaels, and Lily Kaise are sitting on a rare black EAOSian contoured couch.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+A Tardick lizard named Zeus turns to regard its surroundings from its perch on
+Melinda Michaels's shoulder, and its spine ridges flicker blue for a brief
+moment.
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+A gust of wind blows through the ship, blowing strands of sticky silk like
+streamers.
+Michael Winters stands up from a rare black EAOSian contoured couch.
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+"I'm going to go rest a bit," Michael says in a Candelaria accent.
+Michael waves.
+Melinda absently bobs her head up and down like a space parakeet.
+Akemi waves to Michael.
+"Bah sleep," says Melinda.
+Michael says to Melinda, "Go to sleep."
+Michael grins.
+wave winters
+You wave to Michael.
+Michael Winters strides southeast.
+Lily waves to Melinda.
+Kim Saunders says into the PA microphone, "Sleep well, michael."
+Michael Winters's voice comes over the loudspeaker and says, "Thanks."
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+A Tardick lizard named Zeus, perched on Melinda Michaels's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Lily looks down at her hands and 'oh! yeah.
+Lily Kaise takes a bite of a B.L.T. sandwich.
+Lily Kaise takes a sip of a cup of hot cafe mocha.
+Lily Kaise takes a sip of a cup of hot cafe mocha.
+Lily Kaise takes a bite of a B.L.T. sandwich.
+Lily Kaise takes a bite of a B.L.T. sandwich.
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Lily Kaise takes a bite of a B.L.T. sandwich.
+A cluster of eyes suddenly opens inside the webbing. They stare hungrily through
+the window before disappearing.
+Sakura blinks.
+Lily Kaise finishes off a B.L.T. sandwich.
+Simon says, "Go away."
+Sakura says, "That's always going to be creepy."
+stand
+You stand up from a rare black EAOSian contoured couch.
+se
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+sw
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+use rice
+You examine a shiny red deluxe rice cooker with a golden dragon on top for a
+moment.
+What would you like?
+[1] White Rice
+[2] Chicken Rice
+[3] Beef Rice
+[4] Pork Rice
+[5] Vegetable Rice
+Enter your selection:
+2
+You press a button on the front of a shiny red deluxe rice cooker with a golden
+dragon on top. The device grinds for a moment, simultaneously emitting a burst
+of aromatic steam, and a mound of hot chicken-flavored rice in a small bowl
+drops into the dispensing area, which you promptly retrieve.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Anfisa of Marzore is dozing on a modern white pod chair. Simon Collins is
+sitting on a black leather sectional sofa. Sakura Arakida is sitting on a cream
+oriental rug. Kim Saunders is standing here. Akemi Bando is sitting on a dark
+yellow leather captain's chair. Blake Madison, Melinda Michaels, and Lily Kaise
+are sitting on a rare black EAOSian contoured couch.
+You can go southeast, southwest, and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+eat bowl
+You take a bite of a mound of hot chicken-flavored rice in a small bowl.
+Lily Kaise takes a sip of a cup of hot cafe mocha.
+Lily Kaise takes a sip of a cup of hot cafe mocha.
+Kim laughs.
+eat bowl
+You take a bite of a mound of hot chicken-flavored rice in a small bowl.
+eat bowl
+You take a bite of a mound of hot chicken-flavored rice in a small bowl.
+"Right," says Kim.
+Lily Kaise finishes off a cup of hot cafe mocha.
+Kim says in a New Bristol accent, "New earth orbit is SANE, never knew before."
+Lily Kaise puts a cup in a shiny yellow trash bin.
+Akemi laughs.
+eat bowl
+You take a bite of a mound of hot chicken-flavored rice in a small bowl.
+eat bowl
+You finish off a mound of hot chicken-flavored rice in a small bowl.
+put bowl in trahs
+I see no "trahs" here.
+put bowl in trash
+You put a bowl in a shiny yellow trash bin.
+Kim Saunders turns to a particular page of her book.
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders reads in a copy of "QE Codes Pre-publication Copy".
+Kim Saunders closes a copy of "QE Codes Pre-publication Copy".
+Kim Saunders gives a copy of "QE Codes Pre-publication Copy" to Akemi Bando.
+Kim says to Akemi, "Interesting. I could not have come up with all that."
+se
+You scramble to your feet.
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+sw
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+use vending
+You examine a large silver vending machine for a moment.
+What would you like?
+[1] Cheese and Cheese Biscuit with Cheese
+[2] Cheeseburger with the Works
+[3] B.L.T. Sandwich
+[4] Tuna Salad Sandwich
+[5] Peanut Butter Sandwich
+[6] Ice Cream Sandwich
+Enter your selection:
+3
+You press a button on a large silver vending machine, and after several noisy
+clicks, thumps, and hisses from inside it, a small dispensing door opens in the
+front of it, and a B.L.T. sandwich slides out, straight into your waiting hand.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, a
+compact white refrigerator, and a red plastic food storage container here.
+You can go southwest and northwest.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Anfisa of Marzore is dozing on a modern white pod chair. Simon Collins is
+sitting on a black leather sectional sofa. Sakura Arakida is sitting on a cream
+oriental rug. Kim Saunders is standing here. Akemi Bando is sitting on a dark
+yellow leather captain's chair. Blake Madison, Melinda Michaels, and Lily Kaise
+are sitting on a rare black EAOSian contoured couch.
+You can go southeast, southwest, and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+eat blt
+Eat what?
+eat sandwich
+You take a bite of a B.L.T. sandwich.
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Lily Kaise glides southeast.
+Kim says to Akemi, "And, I have seen a few little mistakes, in the table of
+contents the word messages has a few too many letters and I found that same
+mistake in the title of the chapter it refered to."
+Lily Kaise glides in from the southeast.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Lily Kaise takes a sip of a cup of hot cafe mocha.
+Kim says, "Not seen any mistakes in the contents of the book but it's rather a
+lot of information."
+A Tardick lizard named Zeus flicks its tongue out from its perch on Melinda
+Michaels's shoulder.
+Akemi says to Kim, "Thanks! I'll fix that too."
+Akemi Bando opens a copy of "QE Codes Pre-publication Copy".
+Akemi Bando reads in a copy of "QE Codes Pre-publication Copy".
+"Oh," says Akemi, "yes, there's an extra 's' in there."
+Kim says, "It's definitely the kind of book someone should carry on their person
+or to be posted where qe devices are so people can reference it when needed."
+A gust of wind blows through the ship, blowing strands of sticky silk like
+streamers.
+The intricate webbing gradually loses cohesion, eventually falling apart into
+quickly evaporating smoke.
+You hear a steady, rhythmic sound. The mist clears, and you gaze out through the
+window at the passing landscape as the train chugs along.
+l
+[Starship "We Strive To Live In Peace"; Control Room]
+The arc of the starship's command ring meets gracefully here in a sweeping,
+curved control room. An extraordinarily large viewport dominates the entire
+front of the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status. A
+large navigation terminal has a direct hookup to the onboard navigation
+mainframe. Secondary control boards can be pulled up and folded back to provide
+a working surface, or pulled down from recesses overhead as needed. A half-deck
+behind this control area allows other crew members to gather and observe. Every
+surface is a pristine cream color. Lights overhead indicate that the ship is on
+green status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Anfisa of Marzore is dozing on a modern white pod chair. Simon Collins is
+sitting on a black leather sectional sofa. Sakura Arakida is sitting on a cream
+oriental rug. Blake Madison is dozing on a rare black EAOSian contoured couch.
+Kim Saunders is standing here. Akemi Bando is sitting on a dark yellow leather
+captain's chair. Melinda Michaels and Lily Kaise are sitting on a rare black
+EAOSian contoured couch.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+Lily Kaise takes a sip of a cup of hot cafe mocha.
+Zandria Marschaund lopes in from the southwest.
+Kim waves to Zandria Marschaund.
+Sakura waves to Zandria Marschaund.
+Zandria Marschaund waves.
+Zandria Marschaund sits down on a cream oriental rug with an intricate yellow
+flower pattern.
+Sakura says to Zandria in a Japanese accent, "Welcome to the great unknown."
+Zandria says to Sakura in an Old Earth accent, "Thanks."
+Zandria says to Sakura in an Old Earth accent, "You too."
+Zandria laughs.
+Kim smiles. "Yes, we are really in uncharted now."
+"Or at least," says Kim, "well, maybe someone did chart this place but it's
+unknown to us."
+Lily Kaise takes a sip of a cup of hot cafe mocha.
+wave zandria
+You wave to Zandria.
+l
+[Starship "We Strive To Live In Peace"; Control Room]
+The arc of the starship's command ring meets gracefully here in a sweeping,
+curved control room. An extraordinarily large viewport dominates the entire
+front of the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status. A
+large navigation terminal has a direct hookup to the onboard navigation
+mainframe. Secondary control boards can be pulled up and folded back to provide
+a working surface, or pulled down from recesses overhead as needed. A half-deck
+behind this control area allows other crew members to gather and observe. Every
+surface is a pristine cream color. Lights overhead indicate that the ship is on
+green status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small blue insulated cooler, a small black cooler, a
+bottle of peach schnapps, a bottle of expensive cognac, a clear plastic food
+storage container, a white time meter, a cream plastic box labeled 'Space Imager
+Photos', and Kosmo the humanoid service robot here.
+Anfisa of Marzore is dozing on a modern white pod chair. Simon Collins is
+sitting on a black leather sectional sofa. Blake Madison is dozing on a rare
+black EAOSian contoured couch. Kim Saunders is standing here. Akemi Bando is
+sitting on a dark yellow leather captain's chair. Melinda Michaels and Lily
+Kaise are sitting on a rare black EAOSian contoured couch. Sakura Arakida and
+Zandria Marschaund are sitting on a cream oriental rug.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+Zandria waves to you.
+Nissi Valdaire walks in from the southeast.
+Melinda says to Nissi Valdaire in a Bedford accent, "Hey."
+Lily Kaise waves to Nissi Valdaire.
+"Welcome to the great unknown!" Kim waves to Nissi Valdaire.
+Nissi Valdaire waves.
+Nissi Valdaire sits down on a rare black EAOSian contoured couch.
+Zandria waves to Nissi.
+"Heya nissy!" Sakura grins at Nissi.
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Akemi waves.
+Lily Kaise glides southeast.
+Akemi points at a cream time meter. "That one is still ahead."
+"Look at all those minutes!" Nissi exclaims. "You're doing so GOOD."
+The train suddenly blows its whistle for no apparent reason.
+Kim asks, "Since when has that time meter been counting?"
+Simon whistles.
+Lily Kaise glides in from the southeast.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Lily Kaise settles a Tardick lizard named Asteria on her shoulder, its tail
+curled loosely around her.
+A Tardick lizard named Zeus curls its tail loosely around Melinda Michaels's
+neck.
+wave nissi
+You wave to Nissi.
+Akemi says, "Since 868 minutes ago."
+Kim laughs.
+"Yeah," says Kim, "maybe you can count off the top of your head how many days
+that is."
+"Less than a day," says Akemi.
+Simon says in an English accent, "But that's just like 14 hours hnot even a full
+day."
+"Nearly 15 hours," says Lily Kaise in a New Earth accent. "Something like 14.8
+hours."
+Kim says, "Ah, right."
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+The train suddenly blows its whistle for no apparent reason.
+l
+l
+#end
+#SESSION 'star' DIED.

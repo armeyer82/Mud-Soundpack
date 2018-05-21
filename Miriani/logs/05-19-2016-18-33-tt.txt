@@ -1,0 +1,1912 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu May 12 23:37:26 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a long plasteel counter, a pair of narrow bunks, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a small seashell pink trash can, a glossy dark
+violet ceramic felo chow bowl, a turquoise rattan dresser with brass handles and
+a glass-covered top, a large oval dark purple and light purple cloth rug, and a
+pair of light brown leather boots decorated with silver stars here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt, a
+large periwinkle bed pillow, and a large periwinkle bed pillow on it.)
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a long plasteel counter, a pair of narrow bunks, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a small seashell pink trash can, a glossy dark
+violet ceramic felo chow bowl, a turquoise rattan dresser with brass handles and
+a glass-covered top, a large oval dark purple and light purple cloth rug, and a
+pair of light brown leather boots decorated with silver stars here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt, a
+large periwinkle bed pillow, and a large periwinkle bed pillow on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: You can type WHO to see which other pilots are around.
+**
+[General Communication] Akemi Bando transmits, "Horrible People cards on SSN."
+[Tactical Communication] Damien Alexander transmits, "Want some help, Mel?"
+who
+There appear to be about 15 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Lily Kaise  (A)
+Kim Saunders  (A) [m]
+Lillian Hudson  (L)
+Joel Kringle  (L)
+Zandria Marschaund  (L)
+Sakura Arakida  (L)
+Emily Ford  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Akemi Bando  (L)
+Lilianne Nickles  (F) [c]
+Damien Alexander  (F)
+Your communicator also reports that there are 2 pilots who were active but
+dropped out of communications.
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 26 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[Tactical Communication] Melinda Michaels transmits, "Gone in a fighter, up to
+you."
+tra 1 Hello AEU.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Hello AEU."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Hey Shule!"
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Hi Shule, welcome
+home."
+[Tactical Communication] Melinda Michaels transmits, "Orion is clear."
+tra 1 Hi Lily, hi Kim and thanks Kim.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Hi Lily, hi Kim and
+thanks Kim."
+[Tactical Communication] Joel Kringle transmits, "My hero."
+tra gen Hello all.
+[General Communication] Shule Elemmire transmits, "Hello all."
+[General Communication] Joel Kringle transmits, "Hi."
+[General Communication] Melinda Michaels transmits, "Hi."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Shule I bought
+spacesuits and put them in the box."
+tra 1 Oh, thanks.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Oh, thanks."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I was over there and I
+just wanted to get that out of the way."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Space suits, in a
+box?"
+[AEU | 1: Alliance Communication] Lily Kaise laughs.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I keep a box of felo
+spacesuits and we were 1 short."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Ah, right!"
+l comm
+a metallic silver metachannel FTL communicator
+A small device with analog tuning and transmission wheels, a small built-in
+microphone, and a miniature loudspeaker.
+Notice from Kim Saunders on behalf of Starseekers: Hi Starseekers! A quick
+expedition update. We will have to postpone until the 1st of June to allow akemi
+time to finish her starchart. We will be taking her science vessel, which can
+hold a crew of 16. I will give you until tomorrow at midnight to express your
+interest. You are welcome to bring 1 friend as long as I know about it. After
+this deadline expires, I will post the expedition on the exploration board and
+fill remaining spots with whoever comes first. I am excited and hoping you will
+join us. [14:44 19 May 2316 GST]
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I just wanted to give
+Shule heads up so he wouldn't buy more."
+[AEU | 1: Alliance Communication] Jonathan Gray transmits, "Eh?"
+[AEU | 1: Alliance Communication] Jonathan Gray transmits, "Like people care
+that much?"
+[AEU | 1: Alliance Communication] Jonathan Gray transmits, "I am not a pet fan,
+eh..."
+[General Communication] Jonathan Gray transmits, "Ford!"
+[General Communication] Emily Ford transmits, "Perhaps so."
+[General Communication] Jonathan Gray transmits, "You are not on old earth? This
+is a shame."
+[General Communication] Emily Ford transmits, "I am, actually."
+[General Communication] Jonathan Gray transmits, "I'm waggling my fingerat you,
+though ya can't see it. Oh, well, I'll cease my finger waggling then."
+[General Communication] Emily Ford transmits, "Don't tell me that's because you
+left your finger unlocked and it bolted?"
+[General Communication] Emily Ford coughs.
+[General Communication] Lilianne Nickles transmits, "Hi."
+[General Communication] Emily Ford transmits, "Hello."
+[General Communication] Joel Kringle transmits, "Yo."
+[General Communication] Emily Ford transmits, "So what are you doing, besides
+finger waggling?"
+[General Communication] Jonathan Gray transmits, "Absolutely nothing."
+[General Communication] Emily Ford transmits, "That sounds like the sort of high
+energy activity I get involved with."
+[General Communication] Jonathan Gray transmits, "Most of what I do these days.
+Though I need to go grab some artifacts eventually..."
+[General Communication] Emily Ford transmits, "I hear there are some out there
+in space."
+[General Communication] Akemi Bando transmits, "Aiming for a particular
+upgrade?"
+[General Communication] Jonathan Gray transmits, "Not really, just 'av to
+maintain my phone plan and shit."
+[General Communication] Emily Ford transmits, "I guess you could mine a roid."
+[General Communication] Akemi Bando transmits, "Haul some asteroids?"
+[General Communication] Emily Ford transmits, "Yeah, there is an out of comms
+roid station up at the moment."
+[General Communication] Akemi Bando transmits, "Nicolette put up the
+out-of-comms asteroid processor again."
+[General Communication] Nicolette Lawrence transmits, "We've got the
+out-of-comms processor back up, at least for a while. Use it."
+[General Communication] Jonathan Gray transmits, "Oh, maybe I'll do that."
+[General Communication] Nicolette Lawrence transmits, "Make sure you've got a
+rift drive on your hauler, there's no inserter."
+[General Communication] Akemi Bando transmits, "If you have any lenses, I'll buy
+them from you Gray."
+[General Communication] Akemi Bando transmits, "I can't get enough of those
+things."
+[General Communication] Jonathan Gray transmits, "I don't think I do actually.
+Never thought it was worth putting it on there, since I don't haul often."
+[General Communication] Nicolette Lawrence transmits, "Well I let people talk me
+out of using the inserter, even though it had been in the past."
+[General Communication] Jonathan Gray transmits, "Let me check since I've
+managed not to 'av my work bench stolen along with my ship."
+[General Communication] Jonathan Gray transmits, "I've got 13 of 'em."
+[General Communication] Akemi Bando transmits, "Alright, let me meet up with
+you. Still on Old Earth?"
+[General Communication] Jonathan Gray transmits, "Yeah."
+[General Communication] Joel Kringle transmits, "God damn."
+[General Communication] Jonathan Gray transmits, "I used to 'av 40 or so."
+[General Communication] Damien Alexander transmits, "That's a lotta lenses."
+[General Communication] Jonathan Gray transmits, "I also got 11 quicksynth."
+[General Communication] Corey Matthews transmits, "Heya all."
+[General Communication] Tamra Swenson transmits, "Hi there, I'm tamra, good t
+hear you all."
+[General Communication] Corey Matthews transmits, "Hi Tamra, I'm Corey."
+[General Communication] Simon Collins transmits, "Good to hear you to. Simon's
+the name."
+[General Communication] Jonathan Gray transmits, "Ello."
+[General Communication] Joel Kringle transmits, "Word. How is the felo?"
+[General Communication] Tamra Swenson transmits, "Oh kringle! Thanks, one popped
+otu a soldier that must be good I take it."
+[General Communication] Joel Kringle transmits, "It is a good thing."
+[General Communication] Melinda Michaels transmits, "Hi Tamra and Corey."
+[General Communication] Tamra Swenson transmits, "I wish I could take a picture
+of this felo somehow."
+[General Communication] Simon Collins transmits, "Just get a camra."
+[General Communication] Corey Matthews transmits, "Heya Mel."
+[General Communication] Tamra Swenson transmits, "I shall!"
+[General Communication] Lillian Hudson transmits, "Damn tiny felo appearing."
+[General Communication] Tamra Swenson transmits, "Hi there, ummm I forgot your
+name, the blunt one, we had a good time all chattingat old earth last night."
+Lily Kaise glides in from the north.
+Lily Kaise smiles at you.
+Lily Kaise sits down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt,
+a large periwinkle bed pillow, and a large periwinkle bed pillow on it.
+[General Communication] Joel Kringle chuckles.
+Lily Kaise kisses you.
+Lily says, "Ok back otu to courier some more."
+Lily says, "Out."
+[General Communication] Melinda Michaels transmits, "I am not sure if we have
+blunt pilots."
+[General Communication] Sakura Arakida transmits, "Tiny felo are cute, small
+ones and tiny ones, but puny and runtish, uh not so cute."
+[General Communication] Lillian Hudson transmits, "This one's even smaller..."
+[General Communication] Akemi Bando transmits, "What about obese ones?"
+[General Communication] Sakura Arakida transmits, "Squishy! Squishy is cute!"
+[General Communication] Lillian Hudson transmits, "It looks sickly. I think I'll
+have to go to the sanctuary... Again."
+"Gray is so damned self-centered as if he never says anything that everyone else
+could care less about hearing," Lily says.
+[General Communication] Melinda Michaels transmits, "I am sure we have obese
+pilots."
+[General Communication] Nicolette Lawrence transmits, "I'm about as blunt as
+they come."
+Lily laughs.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a set of lavender silk sheets, a
+soft periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt,
+a large periwinkle bed pillow, and a large periwinkle bed pillow on it.
+[General Communication] Melinda Michaels transmits, "Oh wait, you are talking
+felo."
+Lily leans down and kisses you again and waves.
+[General Communication] Lillian Hudson giggles.
+Lily Kaise glides out.
+[General Communication] Nicolette Lawrence transmits, "Blunt felo?"
+[General Communication] Melinda Michaels transmits, "Hell if I know."
+[General Communication] Tamra Swenson transmits, "Yeah that is it if they make a
+sound it is with meaning I bet! *chuckles*."
+[General Communication] Joel Kringle transmits, "Yeah, those are called
+bobtailed."
+[General Communication] Damien Alexander transmits, "Bobtails are the best."
+[General Communication] Simon Collins transmits, "I have so many of those..."
+[General Communication] Tamra Swenson transmits, "Awesome, I didn't know there
+was such biodiversity!"
+[General Communication] Sakura Arakida transmits, "Nooo feathered are the best!"
+[General Communication] Lillian Hudson transmits, "Indeed there is."
+[General Communication] Melinda Michaels transmits, "Feathers rule."
+[General Communication] Simon Collins transmits, "I like the saphron coloured
+once the most."
+[General Communication] Sakura Arakida transmits, "Fucking feathers are fucking
+epic."
+[General Communication] Lillian Hudson transmits, "I like my golden ridged,
+thanks."
+[General Communication] Simon Collins transmits, "Oh the ridged ones are nice
+too."
+[General Communication] Corey Matthews transmits, "I loved ridged ones."
+[General Communication] Joel Kringle transmits, "I bet one of my old armored
+ones would've kicked the shit out of any of your feathered."
+[General Communication] Lillian Hudson transmits, "Oh look, a big saffron
+soldier kitten."
+[General Communication] Lillian Hudson transmits, "That's new."
+[General Communication] Sakura Arakida transmits, "Though the albino are
+adorible!"
+[General Communication] Tamra Swenson transmits, "I was wondering if eventually
+I can breed them, and if that's the case, may I have one free felo that's
+healthy and not onyx?"
+[General Communication] Simon Collins transmits, "I'm considering giving the
+lames ones I have a new home... but I kind of don't want to part with them...
+Though I think the sanctuary would ultimately be a better place for them."
+[General Communication] Lillian Hudson transmits, "Sure. I've got plenty."
+[General Communication] Joel Kringle transmits, "They do it like mad, and all I
+have a black."
+[General Communication] Lillian Hudson transmits, "Keep in mind that they take
+your credits."
+[General Communication] Sakura Arakida transmits, "I have one for breeding, and
+my stalwart and corvette since once I get tracers for them, those two will also
+be my bari hunting ships."
+[General Communication] Tamra Swenson transmits, "That's great! I will meet you
+at manhattan then lillian, and I will be only taking care of two or so for now."
+[General Communication] Simon Collins transmits, "Well the thing is they breed
+quite fast if you let them."
+[General Communication] Lillian Hudson transmits, "I'm aboard my mule at the
+spaceport. Give me a shout when you're on the pad and I'll let you in."
+[General Communication] Damien Alexander transmits, "Man, almost all mine have
+gone black."
+[General Communication] Akemi Bando transmits, "Like, "they can fill a ship in a
+week" fast."
+[General Communication] Simon Collins transmits, "Yeah well I've got a felo nest
+in allmost all of my rooms."
+[General Communication] Simon Collins transmits, "My mule at least."
+[General Communication] Tamra Swenson transmits, "At least you will be protected
+from bari."
+[General Communication] Lillian Hudson transmits, "Huh, a dark albino. Never
+seen something like this before."
+[General Communication] Simon Collins transmits, "That is true. Even though I'm
+not really a bari hunter especially since I don't really know where to look for
+them."
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/Trading.
+[General Communication] Tamra Swenson transmits, "Tepower."
+[General Communication] Joel Kringle transmits, "They sorta find you."
+[General Communication] Tamra Swenson transmits, "Miscom erm sorry."
+[General Communication] Tamra Swenson transmits, "Here."
+[General Communication] Sakura Arakida transmits, "I'm not too sure how you can
+have a dark albino that. Doesn't make sense, but then again they're felo.
+Although a glowing albino felo would be epicly cute."
+[General Communication] Lillian Hudson transmits, "Used to be there was a
+breeding ground for bari, but the spreaders took off and we've got no idea where
+they went. They show up from time to time."
+[General Communication] Simon Collins transmits, "What would that even look
+like?"
+[General Communication] Lillian Hudson transmits, "Moment."
+[General Communication] Tamra Swenson transmits, "I'll be n the lounge."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+who
+There appear to be about 19 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Lily Kaise  (A)
+Kim Saunders  (A) [m]
+Tanny Hill  (L)
+Simon Collins  (L)
+Corey Matthews  (L)
+Lillian Hudson  (L)
+Joel Kringle  (L)
+Zandria Marschaund  (L)
+Sakura Arakida  (L)
+Melinda Michaels  (L)
+Nicolette Lawrence  (L)
+Akemi Bando  (L)
+Tamra Swenson  (F) [c]
+Gregory Bentham  (F) [c]
+Damien Alexander  (F)
+Your communicator also reports that there are 3 pilots who were active but
+dropped out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 29 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[General Communication] Tanny Hill transmits, "Sup."
+[General Communication] Lillian Hudson transmits, "Hey Tanny."
+[General Communication] Joel Kringle transmits, "Yo."
+[General Communication] Sakura Arakida transmits, "Not much tanny."
+[General Communication] Simon Collins transmits, "Yo tanny."
+[General Communication] Sakura Arakida transmits, "Sup with the tanny."
+[General Communication] Damien Alexander cackles! "Mighty grapple five."
+[General Communication] Lillian Hudson transmits, "No. More. Bobtails."
+[General Communication] Tanny Hill transmits, "Not much, and yay."
+[General Communication] Damien Alexander transmits, "Hurray bobtails."
+[General Communication] Damien Alexander transmits, "You got spare bobtails,
+Lillian?"
+[General Communication] Lillian Hudson transmits, "Not anymore."
+[General Communication] Damien Alexander transmits, "Mine keep dying out. Can't
+keep 'em on my ships any more."
+[General Communication] Damien Alexander transmits, "Woulda taken 'em."
+[General Communication] Tanny Hill laughs. "You could have just kept these, you
+know, Damien."
+[General Communication] Lillian Hudson transmits, "I was already on hyperion, so
+I just dropped them off."
+[General Communication] Damien Alexander chuckles. "I don't think I'd have a
+lotta use for 'em Tanny."
+[General Communication] Tanny Hill transmits, "You need to keep practicing!"
+[General Communication] Damien Alexander laughs. "I don't think so."
+[General Communication] Tanny Hill transmits, "You do. It's a vital skill."
+[General Communication] Tanny Hill transmits, "It'll save your life someday
+Damien."
+[General Communication] Lillian Hudson transmits, "Tamra."
+[General Communication] Damien Alexander transmits, "Weird question: is there a
+jewelry place that sells charm bracelets?"
+[General Communication] Akemi Bando transmits, "There is but for the life of me
+I can't remember where it is."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Doesn't the one in
+Chetumal Mall sell them?"
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Oops."
+[General Communication] Lily Kaise transmits, "Doesn't the one in Chetumal Mall
+sell them?"
+[General Communication] "Lily you guys made it home!" Sakura Arakida cheers.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+[General Communication] Damien Alexander transmits, "Galaxy Jewelers in the
+ChetuMall sells 'em, an' there's some in Freneza on New Earth too. But are there
+any shops we have access to where you could get a bracelet an' then get a few
+different kinds of charms ta put on it? My sister has one like that, which made
+me think maybe Pais would like one."
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+out
+You scramble to your feet.
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a glossy scarlet ceramic felo chow bowl, a wall-sized bubbling coral pink-lit
+aquarium containing blue and yellow aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+amethyst and ivory aquatic life and sea green and neon blue round rocks, a high
+tech silver star print holovid, a dusky pink rattan cabinet, Xavier the big
+silver soldier felo, Samantha the large violet felo, and Jewel the large violet
+glowing felo here.
+You can go north, east, south, west, up, and down.
+out
+You can't go that way.
+n
+[Starship "William Dove"; Base Block]
+You see a blueberry rattan pantry cabinet, a soft round ocean blue rug with a
+design of coral and turquoise seashells, a blueberry rattan bench with a long
+white and coral pink flowered cushion on it, a round white rattan dining table
+with a glass top, a blueberry rattan bench with a long white and coral pink
+flowered cushion on it, a rattan floor lamp with a coral lotus shade, a small
+dusky pink trash bin, a glossy teal blue ceramic felo chow bowl, a white
+microwave oven, and a shiny red deluxe ramen cooker with a golden dragon on top
+here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, a clear plastic food storage container, and a Tardick lizard
+named Asteria here.
+Lily Kaise is standing here.
+You can go south and out.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, a clear plastic food storage container, and a Tardick lizard
+named Asteria here.
+Lily Kaise is standing here.
+You can go south and out.
+hug lily
+You hug Lily Kaise.
+peer out
+Not much to see out there.
+'Going to go take a shower really quick
+You say, "Going to go take a shower really quick."
+s
+[Starship "William Dove"; Base Block]
+You see a blueberry rattan pantry cabinet, a soft round ocean blue rug with a
+design of coral and turquoise seashells, a blueberry rattan bench with a long
+white and coral pink flowered cushion on it, a round white rattan dining table
+with a glass top, a blueberry rattan bench with a long white and coral pink
+flowered cushion on it, a rattan floor lamp with a coral lotus shade, a small
+dusky pink trash bin, a glossy teal blue ceramic felo chow bowl, a white
+microwave oven, and a shiny red deluxe ramen cooker with a golden dragon on top
+here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a glossy scarlet ceramic felo chow bowl, a wall-sized bubbling coral pink-lit
+aquarium containing blue and yellow aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+amethyst and ivory aquatic life and sea green and neon blue round rocks, a high
+tech silver star print holovid, a dusky pink rattan cabinet, Xavier the big
+silver soldier felo, Samantha the large violet felo, and Jewel the large violet
+glowing felo here.
+You can go north, east, south, west, up, and down.
+Samantha the large violet felo hums melodically to itself as it wanders down.
+go 
+Go where?
+s
+[Starship "William Dove"; Living Quarters One]
+You see a long plasteel counter, a pair of narrow bunks, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a small seashell pink trash can, a glossy dark
+violet ceramic felo chow bowl, a turquoise rattan dresser with brass handles and
+a glass-covered top, a large oval dark purple and light purple cloth rug, and a
+pair of light brown leather boots decorated with silver stars here.
+You can go out.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a glossy scarlet ceramic felo chow bowl, a wall-sized bubbling coral pink-lit
+aquarium containing blue and yellow aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+amethyst and ivory aquatic life and sea green and neon blue round rocks, a high
+tech silver star print holovid, a dusky pink rattan cabinet, Xavier the big
+silver soldier felo, and Jewel the large violet glowing felo here.
+You can go north, east, south, west, up, and down.
+go shower
+[Starship "William Dove"; Shower]
+You can go out.
+take suitcase
+You remove a small suitcase from a leather briefcase.
+open suitcase
+You open a small suitcase.
+undress into suitcase
+You remove all of your clothing, placing it carefully in a small suitcase.
+start
+You push a small button, starting the shower. Hot water begins to pour over your
+skin. You feel cleaner already.
+Hot, steaming water continues to bathe every inch of your skin, cleansing you as
+it invigorates your senses.
+take green soap
+You need a free hand to take that.
+i
+You are wearing nothing.
+You are also wearing a keychain, a gold wrist-mounted chronometer, a metallic
+silver metachannel FTL communicator, and a solid silver ring engraved with
+dolphins.
+You are concealing a leather briefcase, a golden Feng Wo coin purse, a camera
+bag, an asteroid hauling supply kit, a flight control scanner, a large
+expandable telescoping xenology container, a black engineering tool case, a
+thick synthleather bandolier with large pockets, a metallic gold touch
+einrophone, and a black flightbag with a red shooting star on the side.
+Your head, face, both eyes, neck, both shoulders, chest, back, both biceps, both
+elbows, abdomen, both forearms, both wrists, both hands, waist, both hips,
+groin, both thighs, both knees, both calves, both ankles, and both feet are left
+uncovered.
+You are carrying twenty of a circuit board in your right hand, and a small
+suitcase in your left hand.
+put circuit in briefcase
+You put twenty of a circuit board in a leather briefcase.
+take green soap
+You remove a bar of clean-smelling light green soap from a small suitcase.
+use soap
+You carefully wash your body with a bar of clean-smelling light green soap.
+put soap in suitcase
+You put a bar of clean-smelling light green soap in a small suitcase.
+stop
+You push a small button, turning the shower off. You stand, dripping, completely
+relaxed. Steam floats lazily in the enclosed space.
+take towel
+You remove a brown beach towel from a small suitcase.
+put towel in suitcase
+You put a brown beach towel in a small suitcase.
+take towel
+You remove an oversized white towel from a small suitcase.
+dry me with towel
+You dry yourself off with an oversized white towel.
+put towel in suitcase
+You put an oversized white towel in a small suitcase.
+take briefs
+You remove a pair of white cotton briefs from a small suitcase.
+wear briefs
+You slide a pair of white cotton briefs on.
+take trousers
+You remove a pair of slim blue stone linen trousers from a small suitcase.
+wear trousers
+You pull a pair of slim blue stone linen trousers on over your legs.
+take shirt
+You remove a slightly too big light brown dress shirt with the sleeves rolled up
+from a small suitcase.
+put shirt in suitcase
+You put a slightly too big light brown dress shirt with the sleeves rolled up in
+a small suitcase.
+l suitcase
+a small suitcase
+You see nothing special.
+It is open.
+Inside it you see a glossy red gift box, a small yellow ball containing a
+realistic Bari horde noisemaker, a bar of white milk and honey soap, a bar of
+clean-smelling light green soap, a pair of black patent leather oxfords, a pair
+of black swim trunks, a lightweight navy wool suit jacket, a pair of pleated
+front slim fit navy wool dress pants, a pair of blue corduroy jeans, a
+long-sleeved white cotton dress shirt, a short-sleeved oceanside blue linen
+shirt, a pair of light khaki cotton twill chinos, a slim navy blue leather belt,
+a slim natural white cotton-linen blend jacket with notched lapels, a slim
+Bahama blue cotton-linen blend jacket with notched lapels, a pair of navy blue
+cotton twill chinos, a short-sleeved white linen shirt, a short-sleeved
+oceanside blue linen shirt, a slim natural white cotton-linen blend jacket with
+notched lapels, a black t-shirt with a colorful map of local space on the front,
+a long-sleeved dark green tee appliqued with small silver stars, a navy blue
+silk tie with narrow diagonal light blue and pale gray stripes, a white Panama
+hat with a Bahama blue grosgrain ribbon, a soft Bahama blue cotton polo, a pair
+of slim Sahara sand linen trousers, a pair of slim black linen trousers, a
+long-sleeved blue and white shadow-striped cotton shirt, a pair of navy blue
+leather boat shoes, a short-sleeved blue and white shadow-striped cotton shirt,
+a pair of white cotton pajama bottoms, a blue cotton pajama top, a blue shipsuit
+with cobalt blue trim around the collar and cuffs, a pair of blue cotton pajama
+bottoms, a pair of red cotton pajama bottoms, a red cotton pajama top, a pair of
+navy blue and red plaid cotton boxers, a pair of black silk socks, a pair of
+gray canvas sneakers, a red shipsuit with white trim around the collar and
+cuffs, a pair of white spandex underwear, a pair of slim navy blue linen
+trousers, a pair of washed light khaki canvas sneakers, a pair of black socks, a
+casually loose-fitting black t-shirt with a bright red dragon embroidered on the
+front, a pair of relaxed fit light khaki cargo pants, a pair of Bahama blue silk
+satin boxers, a green silk pajama top, a short-sleeved navy and white madras
+plaid cotton shirt, a pair of plaid cotton pajama bottoms, a plaid cotton pajama
+top, a pair of jungle camouflage print brushed cotton boxers, a brown beach
+towel, an oversized white towel, and a slightly too big light brown dress shirt
+with the sleeves rolled up.
+take plaid cotton
+You remove a pair of navy blue and red plaid cotton boxers from a small
+suitcase.
+put boxers in suitcase
+You put a pair of navy blue and red plaid cotton boxers in a small suitcase.
+take plaid cotton shirt
+You remove a short-sleeved navy and white madras plaid cotton shirt from a small
+suitcase.
+wear shirt
+You put on a short-sleeved navy and white madras plaid cotton shirt.
+take black socks
+You remove a pair of black socks from a small suitcase.
+wear socks
+You slide a pair of black socks onto your feet.
+take sneakers
+You remove a pair of gray canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+close suitcase
+You close a small suitcase.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+l me
+Shule Elemmire
+He appears to be 26 years old. He is about six feet and two inches tall and has
+olive skin. His body is athletic with muscled hips and strong calves. He has
+average-sized shoulders and a wide chest. His face is average-shaped and
+handsome, with a broad nose and strong chin. His lips are thin and tan and
+occasionally part to reveal a set of fairly white teeth. Beneath a set of arched
+eyebrows, his eyes are blue-grey and round. His chin-length, straight hair is
+blonde and neatly trimmed over the ears and parted on the side. He has large
+brownish fingernails.
+He is wearing a short-sleeved navy and white madras plaid cotton shirt, a pair
+of slim blue stone linen trousers, and a pair of gray canvas sneakers.
+He is also wearing a keychain, a metallic gold touch einrophone in a black
+leather phone holster, a gold wrist-mounted chronometer, a metallic silver
+metachannel FTL communicator, a black flightbag with a red shooting star on the
+side, and a solid silver ring engraved with dolphins.
+His head, face, both eyes, neck, both elbows, both forearms, both wrists, and
+both hands are left uncovered.
+He is carrying nothing.
+take hair
+You remove a black hair care kit from a leather briefcase.
+cut hair with kit
+Cut your hair to what length?
+[1] Close-cropped
+[2] Very short
+[3] Short
+[4] Ear-length
+Enter your selection:
+4
+You remove a tiny laser cutter from a black hair care kit, reach up, and
+carefully snip at your chin-length blonde hair until it is ear-length.
+put kit in briefcase
+You put a black hair care kit in a leather briefcase.
+take hair
+You pick up a clump of blonde hair.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a glossy scarlet ceramic felo chow bowl, a wall-sized bubbling coral pink-lit
+aquarium containing blue and yellow aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+amethyst and ivory aquatic life and sea green and neon blue round rocks, a high
+tech silver star print holovid, a dusky pink rattan cabinet, Xavier the big
+silver soldier felo, and Samantha the large violet felo here.
+You can go north, east, south, west, up, and down.
+put hair in trash
+You put a clump of blonde hair in a small purple trash bin.
+take circuit
+You remove twenty of a circuit board from a leather briefcase.
+take work bench
+I see no "work bench" here.
+n
+[Starship "William Dove"; Base Block]
+You see a blueberry rattan pantry cabinet, a soft round ocean blue rug with a
+design of coral and turquoise seashells, a blueberry rattan bench with a long
+white and coral pink flowered cushion on it, a round white rattan dining table
+with a glass top, a blueberry rattan bench with a long white and coral pink
+flowered cushion on it, a rattan floor lamp with a coral lotus shade, a small
+dusky pink trash bin, a glossy teal blue ceramic felo chow bowl, a white
+microwave oven, a shiny red deluxe ramen cooker with a golden dragon on top, and
+Sassie the large fuchsia felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, a clear plastic food storage container, a Tardick lizard named
+Asteria, and Bert the hefty blue soldier felo here.
+You can go south and out.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, Shule Elemmire's
+workbench, and a glossy sky blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+take work
+You pick up Shule Elemmire's workbench.
+put circuit on work
+You put twenty of a circuit board on Shule Elemmire's workbench.
+You add twenty of a circuit board to the workbench's supplies, for a total of
+three hundred forty-three.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, a clear plastic food storage container, a Tardick lizard named
+Asteria, and Bert the hefty blue soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+s
+[Starship "William Dove"; Base Block]
+You see a blueberry rattan pantry cabinet, a soft round ocean blue rug with a
+design of coral and turquoise seashells, a blueberry rattan bench with a long
+white and coral pink flowered cushion on it, a round white rattan dining table
+with a glass top, a blueberry rattan bench with a long white and coral pink
+flowered cushion on it, a rattan floor lamp with a coral lotus shade, a small
+dusky pink trash bin, a glossy teal blue ceramic felo chow bowl, a white
+microwave oven, a shiny red deluxe ramen cooker with a golden dragon on top, and
+Sassie the large fuchsia felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a glossy scarlet ceramic felo chow bowl, a wall-sized bubbling coral pink-lit
+aquarium containing blue and yellow aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+amethyst and ivory aquatic life and sea green and neon blue round rocks, a high
+tech silver star print holovid, a dusky pink rattan cabinet, Xavier the big
+silver soldier felo, and Samantha the large violet felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a long plasteel counter, a pair of narrow bunks, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a small seashell pink trash can, a glossy dark
+violet ceramic felo chow bowl, a turquoise rattan dresser with brass handles and
+a glass-covered top, a large oval dark purple and light purple cloth rug, a pair
+of light brown leather boots decorated with silver stars, and Jewel the large
+violet glowing felo here.
+You can go out.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a glossy scarlet ceramic felo chow bowl, a wall-sized bubbling coral pink-lit
+aquarium containing blue and yellow aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+amethyst and ivory aquatic life and sea green and neon blue round rocks, a high
+tech silver star print holovid, a dusky pink rattan cabinet, Xavier the big
+silver soldier felo, and Samantha the large violet felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a long plasteel counter, a pair of narrow bunks, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+set of lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made
+purple and amethyst flower quilt, a large periwinkle bed pillow, and a large
+periwinkle bed pillow on it, a small seashell pink trash can, a glossy dark
+violet ceramic felo chow bowl, a turquoise rattan dresser with brass handles and
+a glass-covered top, a large oval dark purple and light purple cloth rug, a pair
+of light brown leather boots decorated with silver stars, and Jewel the large
+violet glowing felo here.
+You can go out.
+take boots
+You pick up a pair of light brown leather boots decorated with silver stars.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a small purple trash bin, a
+textured plasteel floor lamp with a cream shade (casting a white-colored glow),
+a glossy scarlet ceramic felo chow bowl, a wall-sized bubbling coral pink-lit
+aquarium containing blue and yellow aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+amethyst and ivory aquatic life and sea green and neon blue round rocks, a high
+tech silver star print holovid, a dusky pink rattan cabinet, Xavier the big
+silver soldier felo, and Samantha the large violet felo here.
+You can go north, east, south, west, up, and down.
+put boots in suitcase
+You open a small suitcase for a moment.
+You remove a small suitcase from a leather briefcase for a moment.
+You put a pair of light brown leather boots decorated with silver stars in a
+small suitcase.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a blueberry rattan pantry cabinet, a soft round ocean blue rug with a
+design of coral and turquoise seashells, a blueberry rattan bench with a long
+white and coral pink flowered cushion on it, a round white rattan dining table
+with a glass top, a blueberry rattan bench with a long white and coral pink
+flowered cushion on it, a rattan floor lamp with a coral lotus shade, a small
+dusky pink trash bin, a glossy teal blue ceramic felo chow bowl, a white
+microwave oven, a shiny red deluxe ramen cooker with a golden dragon on top, and
+Sassie the large fuchsia felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, a clear plastic food storage container, a Tardick lizard named
+Asteria, and Bert the hefty blue soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+take sneakers
+You already have a pair of gray canvas sneakers.
+take second sneakers
+You already have a pair of gray canvas sneakers.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, and a glossy sky
+blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, and a glossy sky
+blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, a clear plastic food storage container, a Tardick lizard named
+Asteria, and Bert the hefty blue soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+boot
+Onboard sensors detect the presence of the following people somewhere aboard the
+ship: Lily Kaise and Shule Elemmire.
+Eject? [Enter `yes' or `no']
+n
+Not ejected.
+Lily Kaise hugs you.
+s
+[Starship "William Dove"; Base Block]
+You see a blueberry rattan pantry cabinet, a soft round ocean blue rug with a
+design of coral and turquoise seashells, a blueberry rattan bench with a long
+white and coral pink flowered cushion on it, a round white rattan dining table
+with a glass top, a blueberry rattan bench with a long white and coral pink
+flowered cushion on it, a rattan floor lamp with a coral lotus shade, a small
+dusky pink trash bin, a glossy teal blue ceramic felo chow bowl, a white
+microwave oven, a shiny red deluxe ramen cooker with a golden dragon on top, and
+Sassie the large fuchsia felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, a clear plastic food storage container, a Tardick lizard named
+Asteria, and Bert the hefty blue soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+hug lily
+You hug Lily.
+Lily laughs.
+laugh
+You laugh.
+Bert the hefty blue soldier felo rubs up against your ankle, purring softly.
+pet bert
+You stroke the soft fur of Bert the hefty blue soldier felo.
+Bert the hefty blue soldier felo purrs and rubs its head against your hand.
+Lily asks, "Were you getting some exercise?"
+Lily grins at you.
+grin
+You grin.
+Lily says, "I got a little food."
+Lily points at a clear plastic food storage container.
+Lily points at a compact red refrigerator.
+Lily Kaise opens a clear plastic food storage container and the light inside
+clicks on.
+'oh, cool
+"Oh, cool," you say.
+Lily grins.
+grin 'Thanks
+You grin. "Thanks."
+Lily says, "Sure."
+l clear
+a clear plastic food storage container
+A small label imprinted on the bottom of this clear food storage container
+informs you that this container will preserve any food or drink, and that it has
+a capacity of about twenty items.
+It is open.
+Inside it you see a large wedge of fresh coffee cake topped with apple streusel,
+a large wedge of fresh coffee cake topped with apple streusel, a generous wedge
+of chocolate cheesecake, a generous wedge of chocolate cheesecake, a freshly
+baked Danish filled with vanilla custard and topped with sweet white icing and
+flaked almonds, a freshly baked Danish filled with vanilla custard and topped
+with sweet white icing and flaked almonds, a cup of hot French vanilla coffee, a
+cup of hot French vanilla coffee, a cup of hot French vanilla coffee, a cup of
+hot French vanilla coffee, a cup of hot French vanilla coffee, and a cup of hot
+French vanilla coffee.
+Lily says, "I didn't buy a lot for now but thought you might want something."
+Lily Kaise removes a large wedge of fresh coffee cake topped with apple streusel
+from a clear plastic food storage container.
+Lily Kaise removes a cup of hot French vanilla coffee from a clear plastic food
+storage container.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Lily Kaise gives you a cup of hot French vanilla coffee.
+smile lily
+You smile at Lily.
+Lily Kaise seems to want to give you something, but you don't have a free hand.
+put work in briefcase
+You put Shule Elemmire's workbench in a leather briefcase.
+Lily says, "Oh I gave you the circuit boards."
+'I know. Thanks. I put them on my workbench
+"I know," you say. "Thanks. I put them on my workbench."
+Lily Kaise gives you a large wedge of fresh coffee cake topped with apple
+streusel.
+smile
+You smile.
+Lily Kaise removes a large wedge of fresh coffee cake topped with apple streusel
+from a clear plastic food storage container.
+Lily Kaise removes a cup of hot French vanilla coffee from a clear plastic food
+storage container.
+eat cake
+You take a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+A Tardick lizard named Asteria trundles slowly south.
+Lily Kaise takes a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+eat cake
+You take a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+drink coffee
+You take a sip of a cup of hot French vanilla coffee.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+Lily says to you in a New Earth accent, "Oh grin shule."
+Lily laughs.
+laugh
+You laugh.
+Lily Kaise kisses you.
+drink coffee
+You take a sip of a cup of hot French vanilla coffee.
+drink coffee
+You take a sip of a cup of hot French vanilla coffee.
+drink coffee
+You take a sip of a cup of hot French vanilla coffee.
+eat cake
+You take a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+Lily says, "Oh did you mean you have 2219 exploration or 2119 as you should have
+received 3 per artifact."
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+grips a plastic wrecked EAOS Defender firmly in its claws, then gives up when it
+can't break the toy.
+points
+Point Totals:
+  Industry:           3538.2 
+  Space Combat:       3449.6 
+  Ground Combat:      863.8 
+  Exploration:        2192.1 
+  Aggregate:          10043
+  Teslapoints:        800
+  Org Contribution:   5.0%
+For a more detailed breakdown of your license points, visit any point center and
+get a summary!
+'2192
+You say, "2192."
+"Oh 2192," says Lily.
+Lily says, "Ah make sense."
+eat cake
+You take a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+eat cake
+You finish off a large wedge of fresh coffee cake topped with apple streusel.
+Lily Kaise takes a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+drink coffee
+You finish off a cup of hot French vanilla coffee.
+put cup in trash
+You put a cup in a small white trash bin.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+Lily Kaise takes a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+Lily Kaise takes a bite of a large wedge of fresh coffee cake topped with apple
+streusel.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+Lily Kaise finishes off a large wedge of fresh coffee cake topped with apple
+streusel.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+Lily Kaise finishes off a cup of hot French vanilla coffee.
+'So the Starseeker's expedition is postponed until the first of June. You still
+want to come with us?
+"So the Starseeker's expedition is postponed until the first of June," you say.
+"You still want to come with us?"
+"Depends on where it's going and how long," Lily says. "I agreed to go on
+Keegan's."
+'Ah, ok
+You say, "Ah, ok."
+'I'll ask Kim.
+"I'll ask Kim," you say.
+Bert the hefty blue soldier felo seems to be hungry.
+Bert the hefty blue soldier felo approaches a glossy pale pink ceramic felo chow
+bowl, glances around, then begins shoveling low-grade dry Felo Chow into its
+mouth.
+"So where is it going and how long d'ok," Lily says.
+Lily Kaise says, OOCly, "Oops."
+"Ok," says Lily.
+who
+There appear to be about 15 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Lily Kaise  (A)
+Caleb Davenport  (L)
+Simon Collins  (L)
+Joel Kringle  (L)
+Zandria Marschaund  (L)
+Sakura Arakida  (L)
+Nicolette Lawrence  (L)
+Akemi Bando  (L)
+Nathaniel Owens  (F)
+Lilianne Nickles  (F) [c]
+Steve Miller  (F) [c]
+Elizabeth Johnson  (F) [c]
+Damien Alexander  (F)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 12 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 27 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+points
+Point Totals:
+  Industry:           3538.2 
+  Space Combat:       3449.6 
+  Ground Combat:      863.8 
+  Exploration:        2192.1 
+  Aggregate:          10043
+  Teslapoints:        800
+  Org Contribution:   5.0%
+For a more detailed breakdown of your license points, visit any point center and
+get a summary!
+"It's funny," says Lily in a New Earth accent. "Part of me is glad to be back
+and I also wish we were still out exploring and things."
+Lily laughs.
+laugh
+You laugh.
+'I know.
+You say, "I know."
+"I'm sure you're eager to do some combat," Lily says.
+Lily grins.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+'Yeah, I'd like to at some point here.
+"Yeah," you say, "I'd like to at some point here."
+#unaction {^The computer announces, "%1"}
+#OK. {^The computer announces, "%1"} IS NO LONGER AN ACTION.
+who
+There appear to be about 14 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A)
+Lily Kaise  (A)
+Caleb Davenport  (L)
+Simon Collins  (L)
+Joel Kringle  (L)
+Zandria Marschaund  (L)
+Sakura Arakida  (L)
+Nicolette Lawrence  (L)
+Akemi Bando  (L)
+Nathaniel Owens  (F)
+Steve Miller  (F) [c]
+Elizabeth Johnson  (F) [c]
+Damien Alexander  (F)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 27 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+l phone
+a metallic gold touch einrophone
+This is an Einstein-Rosen telephone. It has a clever touch screen, saving your
+fingertips from the wear and tear that comes with pressing buttons on a keypad.
+This phone has a Full Service plan with Caller ID, Message Board Reader,
+Temporary Space Station Reference, and Newsreader.
+It is not currently connected to anyone.
+A metallic gold touch einrophone also reports that there are unread messages in
+General/Name Changes, OOC/Messages To The Staff, and General/Trading.
+'be right back
+You say in a New Phoenician accent, "Be right back."
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, and a glossy sky
+blue ceramic felo chow bowl here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter kalina
+[Starship "Kalina"; Airlock]
+You can go out and enter into the ship.
+enter kalina
+[Starship "Kalina"; Control Room]
+You see a tiger stripe leather sofa, a soft rectangular white rug with a design
+of black and cinnamon brown cats, and a black leather captain's chair here.
+You can go south and out.
+s
+[Starship "Kalina"; Main Deck]
+You can go north, east, south, west, and down.
+s
+[Starship "Kalina"; Engineering Room]
+You see a large leather chair here.
+You can go north and south.
+status
+General Starship status:
+HULL PLATING:                                                                   
+    EAOS Plasma Resistant Plating (225 damage absorption points) (modified to
+100% by hull size and rated at 100% of nominal) (Moderate resistance to
+minicannons)
+REACTIONLESS DRIVE:                                                             
+    EAOS Dual Reactionless Mk III (Instantaneous velocity: 6000km/s, Maximum
+velocity: 24000 km/s, Acceleration Rating: 25.0, Complete Deceleration in 5
+seconds) (Running at 100% rated efficiency and 0% rated maximum velocity)
+MAIN SENSORS:                                                                   
+    EAOS Superstring Perturbation Sensor (Hull Lockon Rate: 25% Wormhole Drive
+Lockon Rate: 50% Cloak Resolution Distance: 1 unit)
+WEAPONS (Turrets):                                                              
+    Coalition Super-Heavy Laser Mk II is operating at 30 damage per turret (100%
+of rated) and is operating at 100% of rated efficiency (Hull Accuracy Added: 0%
+Time To Fire: 5s)
+STORAGE:                                                                        
+    Zero-G Cargo Netting (100% of standard)
+MAIN BATTERY:                                                                   
+    Revo Applied Technology Sink (Overall Efficiency: 100% Combat Grid Usage:
+100% Wormhole Drive Usage: 100% Max Engine Speed: 6000km/s) (Maximum Charge:
+100% of standard) (Drain Rate: n/a)
+COMBAT ENERGY GRID:                                                             
+    Telex Defense "Jackrabbit" Combat Accelerator (Capacity: 1100 Time To
+Recharge: 200 seconds)  (modified to 100% by hull size)
+TARGET TRACKING ARRAY:                                                          
+    Luna Improved TT Array (Maximum Targets: 1 Range: 2 units Near Target
+Retention: 100% Far Target Retention: 50%)
+LIFE SUPPORT:                                                                   
+    Inactive
+SALVAGING EQUIPMENT:
+  Salvage range:                                                                
+    Normal
+  Sensor:                                                                       
+    stock salvage sensor (Range: 1)
+  EMM:                                                                          
+    stock salvage electromagnetic manipulator (Response Time: 3.0s)
+  Grapple:                                                                      
+    stock salvage grapple (Grade: 0 Strength: 4 Bonus Grade: 0)
+LONG-RANGE POINT OF INTEREST SENSORS:
+  Standard (115% of nominal)
+MISCELLANEOUS ADD-ONS:
+  Airlock chime:                                                                
+    Functional
+  AutoVector navigation unit:                                                   
+    Functional
+  Rift drive:                                                                   
+    Ready
+  Standard-Grade Long-Range Detection Array:                                    
+    Functional
+  Scientific sensor rigging:                                                    
+    Functional
+  Communications Range Safety System:                                           
+    DISABLED
+  Docking bay remote status uplink:                                             
+    Functional
+  Airlock cycle time:                                                           
+    Improved
+  Spacesuit radio network:                                                      
+    Online
+  Internal Timekeeping Display:                                                 
+    Installed
+  WARNING: Nonstandard starship computer firmware upgrades detected!
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+With everything arranged, you settle into the damage control station.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/General.
+n
+[Starship "Kalina"; Main Deck]
+You can go north, east, south, west, and down.
+n
+[Starship "Kalina"; Control Room]
+You see a tiger stripe leather sofa, a soft rectangular white rug with a design
+of black and cinnamon brown cats, and a black leather captain's chair here.
+You can go south and out.
+out
+[Starship "Kalina"; Airlock]
+out
+You can go out and enter into the ship.
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+enter dove
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a glossy sky blue
+ceramic felo chow bowl, and Bert the hefty blue soldier felo here.
+You can go out and enter into the ship.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, and a clear plastic food storage container here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+sit couch
+You're already sitting.
+Lily smiles at you.
+ooc Need a few
+You say, OOCly, "Need a few."
+Lily Kaise says, OOCly, "All righty."
+Lily Kaise removes a cup of hot French vanilla coffee from a clear plastic food
+storage container.
+Lily Kaise closes a clear plastic food storage container.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+Lily Kaise puts a cup of hot French vanilla coffee on a round white rattan
+coffee table with a glass top.
+Lily Kaise removes a sparkly purple plastic paper dispenser from a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise examines a sparkly purple plastic paper dispenser for a moment.
+Lily Kaise makes a selection on a sparkly purple plastic paper dispenser, and a
+sheet of purple paper slides out of the slot at the bottom into her waiting
+hand.
+Lily Kaise puts a sparkly purple plastic paper dispenser in a lavender silk
+backpack embroidered with brightly hued butterflies.
+[General Communication] Akemi Bando transmits, "Curses! I need three more
+wormhole microprocessor modules."
+[General Communication] Nathaniel Owens transmits, "I can give 2."
+[General Communication] Akemi Bando transmits, "Okay."
+tra gen And I can probably offer one.
+[General Communication] Shule Elemmire transmits, "And I can probably offer
+one."
+[General Communication] Akemi Bando transmits, "Where can I meet you two?"
+[General Communication] Damien Alexander transmits, "What do ya make with
+those?"
+[General Communication] Nathaniel Owens transmits, "Earth."
+tra gen I'm on New Earth
+[General Communication] Shule Elemmire transmits, "I'm on New Earth."
+[General Communication] Akemi Bando transmits, "There's a couple of things you
+can make with them, but mostly they go into sonic disruption calculation units."
+take work
+You remove Shule Elemmire's workbench from a leather briefcase.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in one Earth hour!"
+tkae wormhole micro from work
+I don't understand that.
+take wormhole micro from work
+There are 25 of those. How many do you want to take?
+[Type a line of input or `@abort' to abort the command.]
+1
+You take a wormhole microprocessor module from Shule Elemmire's workbench.
+put work in briefcase
+You put Shule Elemmire's workbench in a leather briefcase.
+tra gen I can mail it to you.
+[General Communication] Shule Elemmire transmits, "I can mail it to you."
+A long gold soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+[General Communication] Akemi Bando transmits, "Okay. What did you want for it?"
+'What's the going price for wormhole microprocessor units?
+You ask, "What's the going price for wormhole microprocessor units?"
+tra gen Hmmm, not even sure what the going price is for those...
+[General Communication] Shule Elemmire transmits, "Hmmm, not even sure what the
+going price is for those..."
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a glossy sky blue
+ceramic felo chow bowl, and Bert the hefty blue soldier felo here.
+You can go out and enter into the ship.
+out
+[General Communication] Akemi Bando transmits, "They list on the market for 2.5
+million the last time I checked."
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+tra gen Ok, 2 mill then?
+[General Communication] Shule Elemmire transmits, "Ok, 2 mill then?"
+u
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+w
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+w
+[New Earth; Spaceport East]
+You can go northeast, east, southeast, south, southwest, and west.
+w
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+[New Earth; Spaceport East]
+You can go north, east, south, and west.
+se
+You can't go that way.
+w
+[New Earth; Spaceport Central]
+You see a giant seizure-inducing claw machine and a sanitation drone here.
+You can go north, east, south, west, and up.
+se
+You can't go that way.
+e
+[General Communication] Akemi Bando transmits, "Sounds okay to me Shule."
+[New Earth; Spaceport East]
+You can go north, east, south, and west.
+e
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+se
+[New Earth; Spaceport Mail Room]
+You can go northwest and down.
+list
+    ~|~  Mail Room  ~|~
+     [1] Letter                5,000.00    
+     [2] One-Item Package      6,000.00    
+     [3] Three-Item Package    8,000.00    
+     [4] Five-Item Package     9,000.00    
+     [5] Ten-Item Package      10,000.00   
+     [6] Credit Chip           7,500.00    
+     [7] Letter Portfolio      50,000.00   
+2
+I don't understand that.
+buy 2buy 2
+Sorry, the menu doesn't have a number 2buy 2.
+buy 2
+You order a small package.
+put wormhole in package
+You put a wormhole microprocessor module in a small package.
+close package
+You close a small package.
+l package
+a small package
+This is a package. It is not addressed.
+It is closed.
+close briefcase
+You close a leather briefcase.
+send package
+Please enter the name of who you want to send your package to:
+[Type a line of input or `@abort' to abort the command.]
+akemi
+Your package is being sent to: Akemi Bando.
+Is this okay? [Enter `yes' or `no']
+y
+You slide the package into the postal machine.
+tra gen In the mail.
+[General Communication] Shule Elemmire transmits, "In the mail."
+nw
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+e
+[New Earth; Spaceport East]
+e
+You see a sanitation drone and a sanitation drone here.
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport Bridge]
+e
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+e
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a glossy sky blue
+ceramic felo chow bowl, and Bert the hefty blue soldier felo here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, and a clear plastic food storage container here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+A metallic silver metachannel FTL communicator chirps quietly as it receives a
+new notice.
+[General Communication] Akemi Bando transmits, "And the credit chip is send."
+[General Communication] Akemi Bando transmits, "Sent off."
+tra gen Thanks
+[General Communication] Shule Elemmire transmits, "Thanks."
+l comm
+a metallic silver metachannel FTL communicator
+A small device with analog tuning and transmission wheels, a small built-in
+microphone, and a miniature loudspeaker.
+You have one mail message.
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a glossy sky blue
+ceramic felo chow bowl, and Bert the hefty blue soldier felo here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+w
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+w
+[New Earth; Spaceport East]
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+se
+[New Earth; Spaceport Mail Room]
+You can go northwest and down.
+[General Communication] Akemi Bando transmits, "Thank you, you saved me some
+trouble."
+check
+The postal machine informs you that you have mail waiting.  After some movements
+coming from the back room, the conveyor belt coming from the wall swiftly brings
+forth a credit chip. You quickly grab it off the belt.
+tra gen No problem
+[General Communication] Shule Elemmire transmits, "No problem."
+drain chip
+You drain 2,000,000.00 EAOS credits from a credit chip and discard it in a
+nearby waste disposal unit.
+nw
+[New Earth; Spaceport East]
+You see a trash can and a sanitation drone here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+e
+[New Earth; Spaceport East]
+e
+You see a sanitation drone and a sanitation drone here.
+You can go northeast, east, southeast, south, southwest, and west.
+e
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+[New Earth; Spaceport Landing Pad]
+e
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+e
+You can't go that way.
+You can't go that way.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a rug
+woven of large dark green fern fronds, a personal hoverpallet, a glossy sky blue
+ceramic felo chow bowl, and Bert the hefty blue soldier felo here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a glossy
+pale pink ceramic felo chow bowl, a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a round white rattan
+coffee table with a glass top, a rare black EAOSian contoured couch with a
+hand-made white and sapphire star quilt on it, a wall-sized bubbling neon
+purple-lit aquarium containing yellow and red aquatic life and coral rocks, a
+small white trash bin, a white shipsuit with gold trim around the collar and
+cuffs, Purr the humanoid service robot, a compact red refrigerator, an insulated
+purple cooler, and a clear plastic food storage container here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and
+an amber glowing interior pulsates gently.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the south.
+Bert the hefty blue soldier felo marches in from the airlock.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+"Be right back," says Lily.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise removes a cup of hot French vanilla coffee from a round white rattan
+coffee table with a glass top.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+A medium-sized semi-transparent cylindrical creature with long dangling tendrils
+and a chartreuse glowing interior drifts slowly across the tank.
+Bert the hefty blue soldier felo marches out.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Sassie the large fuchsia felo jumps into Lily Kaise's lap and settles in,
+purring.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in fifteen Earth
+minutes!"
+Bert the hefty blue soldier felo marches in from the airlock.
+Lily Kaise cuddles up to you.
+Bert the hefty blue soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Lily Kaise strokes the soft fur of Bert the hefty blue soldier felo.
+Bert the hefty blue soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Sassie the large fuchsia felo slides to the floor.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise glides south.
+Bert the hefty blue soldier felo marches out.
+Sassie the large fuchsia felo jumps into your lap and settles in, purring.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now departing at Space Station "Foxtrot"! All aboooooaaaaaaard!"
+[General Communication] Akemi Bando transmits, "Beep beep!"
+[General Communication] Sakura Arakida transmits, "Bip bip?"
+[General Communication] Akemi Bando transmits, "It's the sound of a bus horn."
+[General Communication] Sakura Arakida transmits, "I know. I was just being,
+random."
+Lily Kaise opens a lavender silk backpack embroidered with brightly hued
+butterflies.
+Lily Kaise removes Lily Kaise's workbench from a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise puts down Lily Kaise's workbench.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a beaconed sector autostop unit.
+A long orange soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a small self-sustaining power source.
+Lily Kaise arranges a small self-sustaining power source among the workbench's
+supplies.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a small self-sustaining power source.
+Lily Kaise adds a small self-sustaining power source to the workbench's
+supplies, for a total of two.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a small self-sustaining power source.
+Lily Kaise adds a small self-sustaining power source to the workbench's
+supplies, for a total of three.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a small self-sustaining power source.
+Lily Kaise adds a small self-sustaining power source to the workbench's
+supplies, for a total of four.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a proximal beacon directional locator.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a beacon signal amplifier.
+Lily Kaise stands before Lily Kaise's workbench and gathers various supplies,
+then skillfully assembles them into a beacon signal amplifier.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "William Dove, you have clearance to
+launch. Good luck and come back to us safely."
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Space Market.
+Lily Kaise takes a sip of a cup of hot French vanilla coffee.
+Lily Kaise finishes off a cup of hot French vanilla coffee.
+Lily Kaise puts a cup in a small white trash bin.
+Lily Kaise picks up Lily Kaise's workbench.
+Lily Kaise begins the docking sequence.
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise scrambles to her feet.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+Bert the hefty blue soldier felo marches in from the airlock.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise begins the launch sequence.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: New Earth.
+You notice Lily Kaise using the radio to ask for landing clearance.
+A voice comes over the speaker and says, "Hello, William Dove. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+Bert the hefty blue soldier felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a violet glowing interior drifts slowly across the tank.
+Bert the hefty blue soldier felo marches out.
+[General Communication] Tanny Hill transmits, "Sup."
+[General Communication] Sakura Arakida transmits, "Not much what is up with you
+tanny."
+[General Communication] Tanny Hill transmits, "Namuch."
+[Newbie Help] Sakura Arakida transmits, "300 years from now, would pilots even
+say sup, or yo like I've heard some do? Just seems, like slang to me."
+[Newbie Help] Morris Corlew transmits, "Maybe it'll be even more prevalent..."
+[Newbie Help] Morris Corlew transmits, "...just sayin'"
+Sassie the large fuchsia felo jumps down from your lap.
+[Newbie Help] Sakura Arakida transmits, "I mean if we can't say words like mehh,
+or other words that aren't widly known, or what not, why sup. I mean sup is just
+a slang cheap way of saying what's up."
+[Newbie Help] Sakura Arakida transmits, "Just seems lazy to me to do that."
+A large semi-transparent bell-shaped creature with medium-length dangling
+tendrils and a cerulean glowing interior drifts slowly across the tank.
+[Newbie Help] Aisling the Fox transmits, "You aren't speaking English. Remember
+that too. So effectively, consider it the slang greeting for Esperanto."
+[Newbie Help] Morris Corlew transmits, "Reminds me of the book 1984...with
+"NewSpeak." Vocabulary very lazy and shortened."
+[Newbie Help] Zandria Marschaund transmits, "No kidding."
+[Newbie Help] Ather Jammoa transmits, "You're going to have to show a little bit
+of flexibility. Enforcing speaking guidelines is a gray area that is almost as
+close to enforcing stuff like mandatory eating and drinking to quench
+hunger/thirst."
+[Newbie Help] Morris Corlew transmits, "I guess we could all go around saying
+"Saluton""
+A short violet soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+[Newbie Help] Tanny Hill transmits, "In my opinion, social trends should be set
+by players rather than rules."
+[Newbie Help] Zandria Marschaund transmits, "There's a happy medium."
+[Newbie Help] Akemi Bando transmits, "I think we should all learn actual
+Esperanto and just use that."
+[Newbie Help] Ather Jammoa transmits, "Basically, the hapy medium is if you want
+to talk in a different way, then feel free. It can always be attributed to the
+particular dialect of esperanto which developed in the region you were raised."
+[Newbie Help] Morris Corlew transmits, "Like I said..."Saluton""
+Sassie the large fuchsia felo jumps into Lily Kaise's lap and settles in,
+purring.
+[Newbie Help] Aisling the Fox transmits, "Attend! Hallooo!"
+[Newbie Help] Tanny Hill transmits, "The most notable and saddest part is that
+puns don't really work."
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a string of light purple plastic kelp.
+[Newbie Help] Sakura Arakida transmits, "Fair point ather. I just know I tried
+speaking differently once and was warned against it by another player was why I
+bought it up."
+Bert the hefty blue soldier felo marches in from the airlock.
+[Newbie Help] Ather Jammoa transmits, "That is rather strange, because I have
+heard some really weird accents many a time."
+A short yellow soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[Newbie Help] Ather Jammoa transmits, "I'm sure you have as well if you're tuned
+into gen comms."
+[Newbie Help] Sakura Arakida transmits, "True. Very true. I guess this is where
+my ooc morals should go take a hike I think."
+[Newbie Help] Damien Alexander transmits, "I dunno what yer talkin' about."
+[Newbie Help] Damien Alexander chuckles.
+[Newbie Help] Sakura Arakida transmits, "You're different, but as I said wher
+slang is concerned I guess I just need to squish my ooc morals."
+Bert the hefty blue soldier felo marches south.
+[Newbie Help] Aisling the Fox transmits, "My understanding is that the type of
+dialect where you type out words with abbreviations and such is what's frowned
+upon. Like trying to type with a Cockney British accent where you butcher words
+to make it phonetically spelled the way it sounds with that accent."
+[Newbie Help] Aisling the Fox transmits, "Anyway! This might be a better
+discussion for the OOC boards as opposed to the newbie channel if you want to
+get different perspectives on it."
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise says to Sassie the large fuchsia felo in a New Earth accent, "You are
+certainly purr sistent."
+Lily Kaise laughs.
+A medium-sized semi-transparent bell-shaped creature with long dangling tendrils
+and a blue glowing interior drifts slowly over a white plastic undersea castle.
+A firmly rooted animal with dozens of smooth yellow tendrils slowly waves its
+many tendrils.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[General Communication] Akemi Bando transmits, "Ah, AFW soap."
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a string of light purple plastic kelp.
+A short yellow soft-bodied creature with many claw-tipped tentacles swims around
+a plastic flower with red petals.
+[General Communication] Melinda Michaels transmits, "Mail."
+A medium-sized thickly-shelled creature with a yellow shell and four small claws
+snaps its claws menacingly at a plastic flower with red petals.
+Bert the hefty blue soldier felo marches in from the south.
+Lily Kaise removes a can of black paint from a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise puts a can of black paint in a small white trash bin.
+A short violet soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+Xavier the big silver soldier felo marches in from the south.
+sit couch
+sit couch
+sit couch
+sit couch
+#end
+#SESSION 'star' DIED.

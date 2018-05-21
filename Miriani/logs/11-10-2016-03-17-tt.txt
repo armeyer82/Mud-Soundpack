@@ -1,0 +1,480 @@
+siekanas
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Tue Oct 25 06:22:14 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Queen Brynn II"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. An extraordinarily large viewport dominates the entire front of
+the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status.
+Secondary control boards can be pulled up and folded back to provide a working
+surface, or pulled down from recesses overhead as needed. Though the controls
+are arranged for the benefit of a singular pilot, there is enough space in the
+rear of the room for others to sit or stand. Lights overhead indicate that the
+ship is on green status. Looking through the windows, you see that the ship is
+inside the riftflow.
+You see a wormhole drive tracer, a black leather captain's chair, a mahogany
+coffee table, a large bubbling aquarium containing green and black aquatic life
+and round rocks, a glossy black ceramic felo chow bowl, a black plastic tray of
+spider chow, Ciera the humanoid service robot, a black upholstered sofa, a very
+large and extraordinarily soft black shamak fur, a small blueberry trash bin,
+Desiree the little black and white spotted CatBot, Kiwi the little calico
+CatBot, Mischief the large black felo kitten, and a small red ball containing a
+realistic Bari horde noisemaker here.
+Lily Kaise and Johann Rowan are sitting on a black upholstered sofa.
+You can go south and out.
+(You are sitting on a black upholstered sofa.)
+Johann Rowan nods to you.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: New pilots: Don't forget to talk to your liaison officer! He can give you
+a lot of early points and credits!
+**
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily Kaise.
+Lily says to you in a New Earth accent, "Was that a power nap?"
+Lily Kaise grins.
+A clear expanse of open highway illuminates itself. The hovertruck speeds up.
+grin
+You grin.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Mainsail Trim:      91%
+Ship's Speed:       2086 light-mincycles per seccycle
+Direction:          Galactic South (270.0, -1.0)
+Riftflow:           5854 light-mincycles per seccycle from Galactic
+Southsoutheast and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to increase
+in intensity, and flow from Galactic Southsoutheast and Down.
+Time in Riftflow:   0.9NI
+Distance Traveled:  1.21 light-trade cycles
+Apparent Region:    Human Interalliance Space
+--
+lrscan
+--
+Passive Long-Range Scan
+--
+Targets detected passively or via active ping returns:
+   A medium-sized energy signature presently detected 143.1 light-cycles toward
+Galactic South
+Johann Rowan exclaims in a German accent, "We've gone a whole eight or so
+lightyears!"
+'Yep
+You say, "Yep."
+Lily says to Johann, "Sorry for those salvaging missions earlier. I would have
+just dropped them but we were very close to meeting both goals and seems after I
+turned them in, it put us over the top."
+Johann Rowan nods.
+Johann Rowan says in a German accent, "We weren't in any hurry."
+Lily Kaise says in a New Earth accent, "I tend to do mine later in the day
+because of how caps stall out when yo uwork."
+Johann Rowan says in a German accent, "I don't know. I have never come close to
+a cap."
+Lily Kaise exclaims in a New Earth accent, "Lucky you!"
+Johann Rowan grins.
+'Heh, I'm still capped.
+You say, "Heh, I'm still capped."
+Lily Kaise laughs.
+Johann Rowan says in a German accent, "But yeah, we weren't in a hurry, we just
+had nothing better to do, so we figured if we can leave earlier the sooner we'll
+get there, and the farther we'll get before we need to sleep."
+Lily Kaise says in a New Earth accent, "The only cap issue I have is with
+Exploration. Fortunately with the others I've been ok for awhile."
+Mischief the large black felo kitten hums melodically to itself as it wanders
+out.
+eta
+The ship's current engine speed is 5079 km/s.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+A long black soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+lag
+There is minimal processing lag at the moment.
+There is no significant network lag at the moment.
+Lily Kaise stands up from a black upholstered sofa.
+Lily Kaise glides south.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a black upholstered sofa.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise says in a New Earth accent, "The general channel was at the beyond
+tolerable stage."
+nod lily
+You nod to Lily Kaise.
+Johann Rowan says in a German accent, "Oh, I turned my comm off a while ago."
+Lily Kaise says in a New Earth accent, "I tend to leave it on but turn off
+General."
+Johann Rowan nods.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Johann Rowan says in a German accent, "I do that a lot, but I figure I'm going
+out of comms, so it's kind of useless for it to be on anyway."
+'Asteria has an opinion.
+You say, "Asteria has an opinion."
+Johann Rowan grins.
+Johann Rowan activates the long-range scanner and searches for passive
+detections and recent ping returns.
+The computer beeps in an imperative manner and informs you that the starship's
+sensors have detected a new location of interest in the riftflow.
+lrscan
+--
+Passive Long-Range Scan
+--
+Targets detected passively or via active ping returns:
+   A medium-sized energy signature presently detected 133.27 light-cycles toward
+Galactic South
+A massive sphere looms ahead of the hovertruck, soon becoming evident as a
+slow-rolling ball of tentacles. The truck moves around it smoothly.
+Johann Rowan says in a German accent, "Well, that's not creepy."
+chuckle
+You chuckle.
+Lily Kaise says in a New Earth accent, "Heh right."
+s
+You scramble to your feet.
+[Starship "Queen Brynn II"; Main Deck; Fore]
+You see a crudely hammered scrap metal feeding trough and a small bubbling neon
+blue-lit toroidal aquarium containing red and blue aquatic life and round rocks
+here.
+You can go north, south, and down.
+Desiree the little black and white spotted CatBot trots happily in after you
+with a quiet hiss of hydraulics.
+turn comm
+You turn on a metallic silver metachannel FTL communicator.
+gen comm
+You turn general communication off.
+n
+[Starship "Queen Brynn II"; Control Room]
+You see a wormhole drive tracer, a black leather captain's chair, a mahogany
+coffee table, a large bubbling aquarium containing green and black aquatic life
+and round rocks, a glossy black ceramic felo chow bowl, a black plastic tray of
+spider chow, Ciera the humanoid service robot, a black upholstered sofa, a very
+large and extraordinarily soft black shamak fur, a small blueberry trash bin,
+Kiwi the little calico CatBot, and a small red ball containing a realistic Bari
+horde noisemaker here.
+Johann Rowan and Lily Kaise are sitting on a black upholstered sofa.
+You can go south and out.
+Desiree the little black and white spotted CatBot trots happily in after you
+with a quiet hiss of hydraulics.
+sit couch
+I can't find "couch."
+sit sofa
+You sit down on a black upholstered sofa.
+A tiny startlingly humanoid creature with yellow skin and blue split wings
+stares out of the tank with wide eyes and a gaping mouth.
+The hovertruck turns rapidly and careens off the highway, gliding through the
+air before evaporating into the darkness.
+Listen. You need to be careful.
+Mischief the large black felo kitten hums melodically to itself as it wanders in
+from the airlock.
+Johann Rowan says in a German accent, "That felo sure likes it up here."
+'Yep
+You say, "Yep."
+grin
+You grin.
+title
+[1] Status: Pilot
+[2] Honorary Rank: None
+[3] Shule Elemmire, citoyen d'honneur du Nouveau Quebec
+[4] Combat Pilot
+[5] Top Gun
+[6] Expert Engineer
+[7] Space Defense Captain
+[8] None
+Enter your selection:
+n
+Invalid selection.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+Mischief the large black felo kitten jumps into your lap and settles in,
+purring.
+grin
+Lily Kaise says in a New Earth accent, "Aww."
+You grin.
+Johann Rowan grins.
+pet mischief
+You stroke the soft fur of Mischief the large black felo kitten.
+Mischief the large black felo kitten purrs and rubs its head against your hand.
+-mischief Let's go get into mischief together.
+You say to Mischief the large black felo kitten, "Let's go get into mischief
+together."
+Lily Kaise glances wildly about in a paranoid manner.
+Lily Kaise laughs.
+Johann Rowan grins.
+laugh
+You laugh.
+Lily says to you in a New Earth accent, "... wow?"
+Lily Kaise smirks at you.
+grin
+You grin.
+-mischief Shhhh, don't tell anyone.
+You say to Mischief the large black felo kitten, "Shhhh, don't tell anyone."
+Johann Rowan stands up from a black upholstered sofa.
+Johann Rowan grins.
+Johann Rowan walks south.
+Kiwi the little calico CatBot trots happily after Johann Rowan with a quiet hiss
+of hydraulics.
+Johann Rowan walks in from the south.
+Kiwi the little calico CatBot trots happily in after Johann Rowan with a quiet
+hiss of hydraulics.
+Johann Rowan gives you a closed used-looking mason jar of Sugar Whiskey.
+Johann Rowan sits down on a black upholstered sofa.
+Lily Kaise chuckles.
+Johann Rowan says in a German accent, "That will get you into mischief."
+chuckle
+You chuckle.
+'I'm sure it will.
+You say, "I'm sure it will."
+Lily Kaise stands up from a black upholstered sofa.
+Lily Kaise glides south.
+Johann Rowan exclaims in a German accent, "Morris gives that to people who make
+the top three in conquest. I'm proud to report that only happened once!"
+grin
+You grin.
+Lily Kaise glides in from the south.
+Lily Kaise puts down an insulated green cooler.
+Lily Kaise removes an elegant crystal decanter from a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise puts an elegant crystal decanter on a mahogany coffee table.
+Johann Rowan opens an insulated green cooler and the light inside clicks on.
+Lily Kaise sits down on a black upholstered sofa.
+l cooler
+an insulated green cooler
+With a lid on the top for easy access to the goodies within, this cooler is
+insulated to preserve all the food and drinks packed inside.
+It is open.
+Inside it you see a neon purple sploderpop, a neon pink sploderpop, a neon red
+sploderpop, a cool glass of bubbly golden tea, a cool glass of bubbly golden
+tea, a frosted mug of Feng Wo bubbly rice beer, a frosted mug of Feng Wo bubbly
+rice beer, a frosted mug of Feng Wo bubbly rice beer, a frosted mug of Feng Wo
+bubbly rice beer, a frosted mug of Feng Wo bubbly rice beer, a frosted mug of
+Feng Wo bubbly rice beer, a cool glass of bubbly golden tea, a cool glass of
+bubbly golden tea, a cool glass of bubbly golden tea, a cool glass of bubbly
+golden tea, a cool glass of bubbly golden tea, a pina colada in a frosty glass
+goblet, a mango margarita, a strawberry margarita, a peach margarita, a glass of
+chianti, a glass of chianti, a glass of chianti, a frosted mug of Feng Wo bubbly
+rice beer, a closed used-looking mason jar of Apple Pie City Gin, a frosted
+square glass of sweet red caribou, a frosted square glass of sweet red caribou,
+a frosted square glass of sweet red caribou, a frosted square glass of sweet red
+caribou, a frosted square glass of sweet red caribou, a frosted square glass of
+sweet red caribou, a frosted square glass of sweet red caribou, a small glass of
+maple wine, a small glass of maple wine, a small glass of maple wine, a frosted
+square glass of sweet red caribou, a small glass of maple wine, a small bag of
+Chippy's Chips, a small bag of Chippy's Chips, a small bag of Chippy's Chips, a
+small bag of Chippy's Chips, a frosted glass of very cold maple ice cider, a
+frosted glass of very cold maple ice cider, a small glass of maple wine, a small
+glass of maple wine, a small glass of maple wine, a small glass of maple wine,
+and a small glass of maple wine.
+Johann Rowan exclaims in a German accent, "Oh beer!"
+Lily Kaise says in a New Earth accent, "There's wine in the decanter and help
+yourselves to whatever you want in the cooler."
+Johann Rowan removes a frosted mug of Feng Wo bubbly rice beer from an insulated
+green cooler.
+Johann Rowan closes an insulated green cooler.
+grin
+You grin.
+Lily Kaise grins.
+Johann Rowan takes a sip of a frosted mug of Feng Wo bubbly rice beer.
+Lily Kaise stands up from a black upholstered sofa.
+Lily Kaise glides south.
+open cooler
+You open an insulated green cooler and the light inside clicks on.
+Johann Rowan glances at a frosted mug of Feng Wo bubbly rice beer.
+take hips
+I see no "hips" here.
+take chips
+You need a free hand to take that.
+hand
+What do you want to give?
+shands
+I don't understand that.
+hands
+You are carrying Mischief the large black felo kitten in your right hand, and a
+closed used-looking mason jar of Sugar Whiskey in your left hand.
+Johann Rowan says in a German accent, "Rice beer. It has an interesting flavor."
+put jar on table
+You put a closed used-looking mason jar of Sugar Whiskey on a mahogany coffee
+table.
+Lily Kaise glides in from the south.
+nod and grin
+You nod and grin.
+Lily Kaise puts down a compact white refrigerator.
+Lily Kaise sits down on a black upholstered sofa.
+Johann Rowan takes a sip of a frosted mug of Feng Wo bubbly rice beer.
+Lily Kaise exclaims in a New Earth accent, "Now we can just eat and be fat and
+lazy!"
+Lily Kaise laughs.
+'Woo!
+Johann Rowan says in a German accent, "I'm a big fan."
+You exclaim, "Woo!"
+Johann Rowan opens a compact white refrigerator and the light inside clicks on.
+l white refrig
+a compact white refrigerator
+This compact white refrigerator is made tall and narrow to fit into the often
+cramped spaces aboard a starship or space station. Because of its excellent
+insulation, food and drink stored in it will not spoil.
+It is open.
+Inside it you see a meat trio pizza, a sausage and roasted pepper pizza, a
+cheesesteak pizza, a New Phoenician pizza, a Pinwheel pizza, an order of
+breadsticks, an order of breadsticks, a frosty mug filled with mixed orange and
+cream sodas, a frosty mug filled with mixed orange and cream sodas, a frosty mug
+filled with mixed orange and cream sodas, a frosty mug filled with mixed orange
+and cream sodas, a frosty mug filled with mixed orange and cream sodas, a frosty
+mug filled with mixed orange and cream sodas, a frosty mug full of root beer, a
+frosty mug full of root beer, a frosty mug filled with mixed orange and cream
+sodas, a frosty mug full of root beer, a frosty mug full of root beer, a frosty
+mug full of root beer, a generous wedge of chocolate cheesecake, a generous
+wedge of chocolate cheesecake, a generous wedge of chocolate cheesecake, a
+generous wedge of chocolate cheesecake, a generous slice of German chocolate
+cake topped with coconut-pecan frosting, a generous slice of German chocolate
+cake topped with coconut-pecan frosting, a generous slice of German chocolate
+cake topped with coconut-pecan frosting, a generous slice of German chocolate
+cake topped with coconut-pecan frosting, a basket of homemade corn chips and
+spicy salsa, a basket of homemade corn chips and spicy salsa, a basket of
+homemade corn chips and spicy salsa, a basket of homemade corn chips and spicy
+salsa, a basket of breaded fried mozarella sticks with dipping sauce, a basket
+of breaded fried mozarella sticks with dipping sauce, a basket of breaded fried
+mozarella sticks with dipping sauce, and a basket of breaded fried mozarella
+sticks with dipping sauce.
+Lily Kaise says in a New Earth accent, "Oh I forgot the BBQ. I'll be back."
+Johann Rowan removes a basket of breaded fried mozarella sticks with dipping
+sauce from a compact white refrigerator.
+Johann Rowan closes a compact white refrigerator.
+Lily Kaise stands up from a black upholstered sofa.
+Lily Kaise glides south.
+Johann Rowan takes a sip of a frosted mug of Feng Wo bubbly rice beer.
+Johann Rowan activates the long-range scanner and searches for passive
+detections and recent ping returns.
+open refrig
+You open a compact white refrigerator and the light inside clicks on.
+take bread
+You help yourself to a breadstick sprinkled with parmesan and romano cheeses.
+close refrig
+You close a compact white refrigerator.
+eat bread
+You take a bite of a breadstick sprinkled with parmesan and romano cheeses.
+eat bread
+You take a bite of a breadstick sprinkled with parmesan and romano cheeses.
+Johann Rowan takes a bite of a basket of breaded fried mozarella sticks with
+dipping sauce.
+eat bread
+You take a bite of a breadstick sprinkled with parmesan and romano cheeses.
+Johann Rowan exclaims, OOCly, "This basket tastes delicious!"
+Johann Rowan takes a bite of a basket of breaded fried mozarella sticks with
+dipping sauce.
+ooc heh
+You say, OOCly, "Heh."
+Johann Rowan says in a German accent, "I love mozarella sticks."
+'Yeah, they're yummy
+You say, "Yeah, they're yummy."
+eat bread
+You take a bite of a breadstick sprinkled with parmesan and romano cheeses.
+eat bread
+You finish off a breadstick sprinkled with parmesan and romano cheeses.
+Johann Rowan activates the long-range scanner and searches for passive
+detections and recent ping returns.
+It's the journey, not the destination, that matters.
+Johann Rowan takes a bite of a basket of breaded fried mozarella sticks with
+dipping sauce.
+Johann Rowan takes a sip of a frosted mug of Feng Wo bubbly rice beer.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+green glowing interior drifts slowly past a plastic frond of light green sea
+fern.

@@ -1,0 +1,6 @@
+#CLASS {Settings} OPEN
+
+#VARIABLE         {Volume}  {{ComputerVoice}{0.25}{GameSounds}{0.15}}
+#VARIABLE         {soundpath}  {./StarConquest/Sounds/}
+
+#CLASS {Settings} CLOSE

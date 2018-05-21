@@ -1,0 +1,781 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Sat Nov 18 10:47:24 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small white trash bin, a black plastic
+tray of spider chow, a small purple ball containing a dingling bell, Purr the
+humanoid service robot, a wall-sized bubbling neon purple-lit aquarium
+containing red and amber aquatic life and coral rocks, and a robotic chef named
+Nellie here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: If you see a strange person, see if you can TALK to them.
+**
+#unaction {^The computer announces, "%*"}
+[0m#OK. {^The computer announces, "%*"} IS NO LONGER AN ACTION.[0m
+who
+There appear to be 3 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Damien Alexander  (F)
+Ridhme Red  (F) [c]
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small white trash bin, a black plastic
+tray of spider chow, a small purple ball containing a dingling bell, Purr the
+humanoid service robot, a wall-sized bubbling neon purple-lit aquarium
+containing red and amber aquatic life and coral rocks, and a robotic chef named
+Nellie here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+who
+There appear to be 4 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Wendy Arroyo  (L)
+Damien Alexander  (F)
+Ridhme Red  (F) [c]
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A large semi-transparent cylindrical creature with medium-length dangling
+tendrils and a fuchsia glowing interior drifts slowly over a white plastic
+undersea castle.
+A large thickly-shelled creature with a red shell and four small claws grips a
+plastic shipwreck flying a pirate flag firmly in its claws, then gives up when
+it can't break the toy.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] Pierre-Louis
+Tremblay-du-Lys has deposited a passive sector beacon module into an advanced
+module storage unit.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+2,611,111.11 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Brick Oven Pizza".
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in General/General.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+sienna glowing interior drifts slowly past a plastic shipwreck flying a pirate
+flag.
+A large thickly-shelled creature with a yellow shell and four small claws beats
+its claws together.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+2,611,111.11 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Brick Oven Pizza".
+quit
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Sat Nov 18 10:47:24 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+1
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small white trash bin, a black plastic
+tray of spider chow, a small purple ball containing a dingling bell, Purr the
+humanoid service robot, a wall-sized bubbling neon purple-lit aquarium
+containing red and amber aquatic life and coral rocks, and a robotic chef named
+Nellie here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small white trash bin, a black plastic
+tray of spider chow, a small purple ball containing a dingling bell, Purr the
+humanoid service robot, a wall-sized bubbling neon purple-lit aquarium
+containing red and amber aquatic life and coral rocks, and a robotic chef named
+Nellie here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: As a pilot you want both license points and credits, but most activities
+focus on one or the other.
+**
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small white trash bin, a black plastic
+tray of spider chow, a small purple ball containing a dingling bell, Purr the
+humanoid service robot, a wall-sized bubbling neon purple-lit aquarium
+containing red and amber aquatic life and coral rocks, and a robotic chef named
+Nellie here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+who
+There appear to be about 21 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Ather Jammoa  (A) [am]
+Eli Grey  (A)
+Tanny Hill  (L)
+Nissi Valdaire  (L) [a]
+Bryan Stout  (L)
+Melinda Michaels  (L)
+Erik Goodwin  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Jada Nelson  (L)
+Nicolette Lawrence  (L)
+Wendy Arroyo  (L)
+Lexie Amarras  (F)
+Kani Kahakai  (F) [c]
+Evenia Callseah  (F)
+Alko Delovega  (F)
+Elaine Moreau  (F)
+Damien Alexander  (F)
+Your communicator also reports that there are 2 pilots who were active but
+dropped out of communications.
+Additionally, there is 1 pilot who appears to have their communicator on but has
+not recently been active.
+Final total: 22 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+where
+Your communicator reports that...
+No one is relaxing anywhere in public. Maybe you should!
+i
+ You are wearing a soft red heather cotton polo, a pair of blue corduroy jeans,
+and a pair of gray canvas sneakers. Underneath this, you are wearing a pair of
+white cotton briefs and a pair of white socks. You are also wearing a keychain,
+a solid silver ring engraved with dolphins, a metallic gold touch einrophone in
+a black leather phone holster, a backpack, and a gold wrist-mounted chronometer.
+You are concealing a metallic silver metachannel FTL communicator, a black
+flightbag with a red shooting star on the side, a leather briefcase, a large
+expandable telescoping xenology container, a scorched metal thigh holster, a
+golden Feng Wo coin purse, a camera bag, a flight control scanner, and a black
+engineering tool case. Your head, face, both eyes, neck, both elbows, both
+forearms, both wrists, and both hands are left uncovered.
+You are carrying nothing.
+kiss lily
+You kiss Lily Kaise.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at New Earth; Spaceport Landing Pad.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small white trash bin, a black plastic
+tray of spider chow, a small purple ball containing a dingling bell, Purr the
+humanoid service robot, a wall-sized bubbling neon purple-lit aquarium
+containing red and amber aquatic life and coral rocks, and a robotic chef named
+Nellie here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Hey guys.. I found this
+Pete guy sleeping on the landing pad.. his head is bleeding pretty bad. I got
+him to medical,  will they look after him if I just leave him here or what?"
+A short red soft-bodied creature with many claw-tipped tentacles swims around a
+plastic frond of light green sea fern.
+tra 1 Yeah, that's a safe place for him.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Yeah, that's a safe
+place for him."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Trying to get the
+attention of some medical staff but yeah..."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "For who?"
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a black
+plastic tray of spider chow, Shine the big white glowing felo, and a hairy
+yellow eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders
+in from below.
+gen comm
+You turn general communication on.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small white trash bin, a black plastic
+tray of spider chow, a small purple ball containing a dingling bell, Purr the
+humanoid service robot, a wall-sized bubbling neon purple-lit aquarium
+containing red and amber aquatic life and coral rocks, and a robotic chef named
+Nellie here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+sit sofa
+I can't find "sofa."
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "This guy,  I think it's
+tha Pete Storm guy."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "What'd he do?"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "He was unconcious on the
+landing pad with a pretty bad head wound."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "No idea."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Well.. There's doctor's
+around, I'm sure he'll be fine here."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Grab a cup of water
+and toss it into his face. Try to wake him."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "The water, that is.
+Not the cup."
+A large thickly-shelled creature with a red shell and four small claws grips a
+white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Ignis Aurum Probat". The organization has earned
+735,150.59 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the six-person pincer
+"Cassowary Rising".
+A long violet soft-bodied creature with many claw-tipped tentacles swims around
+a plastic frond of light green sea fern.
+[Tactical Communication] Melinda Michaels transmits, "One for beacons?"
+[General Communication] Melinda Michaels transmits, "We need one for beacons."
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[General Communication] Ather Jammoa transmits, "Man, Accord really needs a
+garage. All someone really needs to do to accidentally fuck things up is land a
+bari-infested starship there."
+[General Communication] Elaine Moreau transmits, "What... is the comfiest
+seat... for two-person jobs like geminis and asteroid haulers? I want
+pro-quality comfy here."
+[General Communication] Evenia Callseah transmits, "Wait, who did what now?
+Bari? Accord?"
+[General Communication] Ather Jammoa transmits, "Disclaimer: don't fucking land
+a bari-infested starship on Accord Command!"
+[General Communication] Damien Alexander transmits, "Don't give anybody ideas."
+[General Communication] Ather Jammoa transmits, "No, no. You are clearly hard of
+hearing."
+[General Communication] Damien Alexander chuckles.
+[General Communication] Tanny Hill transmits, "The best seating is found at the
+Chetumall."
+Shine the big white glowing felo wanders in from the south.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+[General Communication] Eli Grey transmits, "Is it one of those artificial
+laps?"
+[General Communication] Elaine Moreau transmits, "Maximum comfy?"
+[General Communication] Tanny Hill transmits, "Antiques."
+[General Communication] Elaine Moreau transmits, "Oh geeze, those are
+expensive."
+[General Communication] Evenia Callseah transmits, "The chairs are super comfy.
+In the antique shop."
+[General Communication] Morris Corlew transmits, "Elaine, remind me we need to
+do beacons on my crusier."
+[General Communication] Tanny Hill transmits, "Worth every single credit."
+[General Communication] Elaine Moreau transmits, "Lots of things to remind you!"
+[General Communication] Ather Jammoa transmits, "Might I recommend foregoing the
+chairs and buying inflatable love elks?"
+[General Communication] Morris Corlew transmits, "I know."
+[General Communication] Tanny Hill transmits, "Inflatable love elks are pretty
+great."
+[General Communication] Elaine Moreau transmits, "Inflatable love elks sound
+like seating for one, not two."
+[General Communication] Ather Jammoa transmits, "At only a billion or so credits
+(last I checked years ago)."
+[General Communication] Tanny Hill transmits, "What a narrow minded thing to
+say, Elaine."
+[General Communication] Morris Corlew transmits, "Wait...no way them things are
+a billion credits."
+kiss lily
+You kiss Lily Kaise.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+[General Communication] Ather Jammoa transmits, "I did say years ago! They may
+hvae finally brought the price down. I don't know how long it's been since I've
+been to Ixtapa."
+[General Communication] Ather Jammoa transmits, "Kind-hearted people who I pay
+very well usually buy me film cartridges."
+Lily Kaise suddenly awakens.
+[General Communication] Morris Corlew transmits, "I can't believe they sold 'em
+for that much years ago."
+[General Communication] Morris Corlew transmits, "That's just nuts."
+[General Communication] Melinda Michaels transmits, "Me neither."
+smile lily
+You smile at Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+-lily Hi my love.
+[General Communication] Elaine Moreau transmits, "Maybe they love you long
+time."
+You say to Lily Kaise, "Hi my love."
+[General Communication] Ather Jammoa transmits, "They're not a billion now?"
+Lily Kaise wraps her arms around you, pulling you close.
+[General Communication] Morris Corlew transmits, "Nope."
+[General Communication] Melinda Michaels transmits, "I have no idea."
+[General Communication] Morris Corlew transmits, "They sell 'em on SSN."
+[General Communication] Ather Jammoa transmits, "Oh, SSN is different."
+-lily Hi my love.
+You say to Lily, "Hi my love."
+[General Communication] Morris Corlew transmits, "Not sure how much they are,
+but I'd be surprised if they were over a mill."
+Lily says to you, "Hey love."
+smile lily
+You smile at Lily Kaise.
+[General Communication] Morris Corlew transmits, "Otherwise I'd pawn the ones I
+gotten in the mail instead of just tossin 'em in the trash."
+Shine the big white glowing felo wanders out.
+Lily Kaise asks, "What was ather and them talking about that sells on SSN?"
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior pulsates gently.
+'I have no idea. I wasn't paying attention.
+You say, "I have no idea. I wasn't paying attention."
+'sorry
+You say, "Sorry."
+Lily Kaise says, "Oh ok."
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior drifts slowly past a plastic frond of light green
+sea fern.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+'Oh, I think he was talking about Inflatable Love Elks?
+You ask, "Oh, I think he was talking about Inflatable Love Elks?"
+Shine the big white glowing felo wanders in from the airlock.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 436,855.00 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in Home Beacon Gamma 001.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+squeeze kitty
+I don't see that here.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise cuddles up to you.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a plastic frond of light green sea fern.
+cuddle lily
+You cuddle up to Lily Kaise.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+-lily I loveyou.
+You say to Lily, "I loveyou."
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the five-person hammerhead
+"The Storm Petrel".
+Shine the big white glowing felo wanders out.
+[General Communication] Evenia Callseah transmits, "Still love that ship name."
+A firmly rooted animal with dozens of rough yellow tendrils slowly waves its
+many tendrils.
+Lily Kaise says, "Wow we only need 3 command to 1400."
+smile lily
+You smile at Lily Kaise.
+-lily I love you.
+You say to Lily, "I love you."
+"I love you too!" Lily Kaise smiles at you.
+Lily Kaise kisses you.
+A long amber soft-bodied creature with many claw-tipped tentacles swims around a
+small plastic statue of a Jinu.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise asks, "So how was your day? Anything interesting happen?"
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+Lily Kaise strokes the soft fur of Mischief the large black felo.
+Mischief the large black felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise wraps her arms around Mischief the large black felo.
+Lily Kaise strokes the soft fur of Mischief the large black felo.
+Mischief the large black felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+A large thickly-shelled creature with a yellow shell and four small claws beats
+its claws together.
+pet mischief
+You stroke the soft fur of Mischief the large black felo.
+Mischief the large black felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+'Not that I'm aware of. It was pretty uneventful.
+You say, "Not that I'm aware of. It was pretty uneventful."
+smile
+You smile.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+Shine the big white glowing felo wanders in from the airlock.
+Lily Kaise says, "Be right back."
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+Lily Kaise glides out.
+A large thickly-shelled creature with a red shell and four small claws grips a
+plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+[General Communication] Morris Corlew transmits, "Anybody wanna come help with
+this beacon chain?"
+[General Communication] Elaine Moreau transmits, "No Rift for me today, sorry."
+[General Communication] Ather Jammoa transmits, "Now which beacon chain is being
+set up?"
+[General Communication] Morris Corlew transmits, "THE beacon chain."
+[General Communication] Evenia Callseah transmits, "I can't do rift again, not
+this soon. Sorry Morris."
+[General Communication] Tanny Hill transmits, "I should probably come."
+[General Communication] Morris Corlew transmits, "I thought y'all were leavin
+soon's I got 270 put up."
+[General Communication] Bryan Stout transmits, "Real definitive answer there
+mooseboy."
+[General Communication] Morris Corlew transmits, "It's the only one we got
+Bryan."
+[General Communication] Evenia Callseah transmits, "The beacon chain is
+just...the beacon chain. it's the only chain we keep up."
+Mischief the large black felo hums melodically to itself as it wanders out.
+[General Communication] Ather Jammoa transmits, "The one heading towards
+Andy's?"
+[General Communication] Morris Corlew transmits, "That be the one."
+[General Communication] Evenia Callseah transmits, "Mmhmm."
+A large thickly-shelled creature with a red shell and four small claws raises
+its claws at a small plastic statue of a Jinu and snaps them menacingly while
+dancing around it.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise kisses you.
+Lily Kaise wraps her arms around you, pulling you close.
+caress lily on back and waist
+caress lily on back and waist
+caress lily on back and waist
+#zap
+[0m#ZZZZZZZAAAAAAAAPPPP!!!!!!!!! LET'S GET OUTTA HERE!!!!!!!![0m
+[0m#SESSION 'StarConquest' DIED.[0m

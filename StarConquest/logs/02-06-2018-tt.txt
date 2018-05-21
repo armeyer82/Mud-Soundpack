@@ -1,0 +1,613 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Mon Feb  5 23:20:12 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+sit chair
+You sit down on an overstuffed dark green chair.
+**
+ Welcome back to Star Conquest!
+**
+ There are new Conquest results! Type CONQUEST to see them.
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: As a pilot you want both license points and credits, but most activities
+focus on one or the other.
+**
+who
+There appear to be about 28 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Ather Jammoa  (A) [am]
+Alisandra Fifer  (L) [c]
+Erik Goodwin  (L)
+Sean Sloan  (L)
+Kert On'Marr  (L)
+Jada Nelson  (L)
+Tanny Hill  (L)
+Arielle Night  (L)
+Lorenah Mayfield  (F) [c]
+Marcellus Freeman  (F) [c]
+Hank Marvelstine  (F)
+Cheri Lindbergh  (M)
+Your communicator also reports that there are 14 pilots who were active but
+dropped out of communications.
+Additionally, there are 2 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+who
+There appear to be about 28 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Ather Jammoa  (A) [am]
+Alisandra Fifer  (L) [c]
+Erik Goodwin  (L)
+Sean Sloan  (L)
+Kert On'Marr  (L)
+Jada Nelson  (L)
+Tanny Hill  (L)
+Arielle Night  (L)
+Lorenah Mayfield  (F) [c]
+Marcellus Freeman  (F) [c]
+Hank Marvelstine  (F)
+Cheri Lindbergh  (M)
+Your communicator also reports that there are 14 pilots who were active but
+dropped out of communications.
+Additionally, there are 2 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+Board what?
+enter dove
+Board what?
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+l
+[Starship "Deadly Strike"; Airlock]
+You see a large PANEL of environmental controls here. The status lights overhead
+are currently not receiving power. Looking through the windows, you see that the
+ship is in a garage. The hatch appears to be locked. A small light near the
+hatch is dark and unpowered.
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+peer out
+You peer out...
+[New Earth; Spaceport Landing Pad]
+The busy landing pad of New Earth's capital city's spaceport sits over a large
+bay at the tip of the southern continent. The pad itself is a huge square sheet
+of white plasteel surrounded by gleaming new starship service structures. On the
+southern side of the pad is a circular structure with wide transparisteel
+windows affording a fabulous view of the ocean. A softly lit sign over the
+transparisteel doorway reads, 'Pilot Lounge,' and a separate doorway is marked
+'Liaison Office.' It looks like you can GO into either of those places. To the
+west, a bridge spans the gap between the landing pad and the rest of the
+spaceport.
+The one-person cargo hauler "Oblivion" and the two-person flare "Deadly Strike"
+are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+A voice comes over the speaker and says, "Deadly Strike, you have clearance to
+launch. Good luck and come back to us safely."
+sit chair
+You sit down on an overstuffed dark green chair.
+ftl the torus
+The ship is already moving.
+The computer reports that the one-person cargo hauler "Oblivion" has launched
+from New Earth.
+ftl the torus
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, The Torus transmits, "Greetings, Deadly
+Strike! Welcome to The Torus!"
+move
+AutoStar detects 2 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Space Stations:
+[1] The Torus (Dock Alpha)                                  
+[2] The Torus (Dock Beta)                                   
+[3] The Torus (Dock Gamma)                                  
+[4] The Torus (Dock Delta)                                  
+   Space Markets:
+[5] Space Market                                            
+--
+Enter your destination:
+1
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+#var Volume[ComputerVoice] 0.33
+[0m#OK. VARIABLE {Volume[ComputerVoice]} HAS BEEN SET TO {0.33}.[0m
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Deadly Strike. The EAOS welcomes you under the non-aggression pact."
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Dock Alpha]
+The two-person flare "Deadly Strike" is landed here.
+You see an automatic teller machine here.
+You can go north and down.
+d
+[The Torus; Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, and
+an early warning space defense device here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and red
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders and a gold ornament etched with the year 2317, a black plastic
+tray of spider chow, a small dusky pink trash bin, Magellan the arachnoid
+security robot, and Purr the humanoid service robot here.
+Lily Kaise is standing here.
+You can go south and out.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+A long gold soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at a white plastic undersea castle and clings to it for a moment, then
+jets off.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+A firmly rooted animal with dozens of smooth green tendrils slowly waves its
+many tendrils.
+read comm
+You can't read a secondary pilot command access unit.
+put secondary in briefcase
+You put a secondary pilot command access unit in a leather briefcase.
+read comm
+You glance at your communicator's screen.
+1,852,161.80 AEU credits from your trust fund have been released to you. [00:00 
+6 February 2318 GST]
+There is one board post.
+A long orange soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A large thickly-shelled creature with a red shell and four small claws raises
+its claws at a small plastic statue of a Jinu and snaps them menacingly while
+dancing around it.
+Lily Kaise sits down on your lap.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily says to you, "Thanks for the present!"
+Lily Kaise chuckles.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+A large semi-transparent spherical creature with narrow dangling tendrils and an
+orange glowing interior drifts slowly past a plastic frond of light green sea
+fern.
+laugh
+You laugh.
+kiss lily
+You kiss Lily Kaise.
+-lily No problem.
+You say to Lily, "No problem."
+Lily Kaise kisses you.
+'sorry I didn't have more of them.
+You say, "Sorry I didn't have more of them."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+beam lily
+You beam at Lily Kaise.
+Lily Kaise exclaims, "Hey it's ok I have a good number of circuit boards at the
+moment so it's all good!"
+Lily Kaise beams at you.
+A medium-sized shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a plastic flower with red petals.
+smile lily 'oh good
+You smile at Lily Kaise. "Oh good."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+A short gold soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+A large semi-transparent ovoid creature with long dangling tendrils and a blue
+glowing interior drifts slowly past a plastic shipwreck flying a pirate flag.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+[Tactical Communication] Hank Marvelstine transmits, "Can I get some for shallow
+assault?"
+[Tactical Communication] Morris Corlew transmits, "I can help if ya need
+somebody, just need a couple minutes to chill."
+[Tactical Communication] Hank Marvelstine transmits, "Tr tac I need 3 more."
+[Tactical Communication] Morris Corlew transmits, "Oh."
+[Tactical Communication] Ted Warburton transmits, "Sorry, I'm done."
+[Tactical Communication] Kert On'Marr transmits, "Two."
+[Tactical Communication] Hank Marvelstine transmits, "I remember ather said he'd
+join for the shallow. I am not sure if he's still around."
+A large semi-transparent spherical creature with narrow dangling tendrils and an
+orange glowing interior drifts slowly past a small plastic statue of a shark.
+A long red soft-bodied creature with many claw-tipped tentacles swims around a
+small plastic statue of a shark.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+A short red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+A large semi-transparent bell-shaped creature with narrow dangling tendrils and
+a red glowing interior drifts slowly past a small plastic statue of a shark.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+[Tactical Communication] Alko Delovega transmits, "Who jumped in."
+[Tactical Communication] Hank Marvelstine transmits, "That was my mistake. It
+said west so I went northwestgen sorry."
+A medium-sized shelled creature with a yellow shell and four small claws grips a
+plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+A medium-sized shelled creature with a yellow shell and four small claws rears
+up against the glass and snaps its claws at the outside world.
+[Tactical Communication] Alko Delovega transmits, "I need help west of the BAS."
+[Tactical Communication] Melinda Michaels transmits, "What happened?"
+[Tactical Communication] Lorenah Mayfield transmits, "Hank!"
+[Tactical Communication] Kert On'Marr transmits, "Overblown beacon."
+[Tactical Communication] Melinda Michaels transmits, "What strength?"
+[Tactical Communication] Hank Marvelstine transmits, "I accidentally screwed up
+his beacon."
+[Tactical Communication] Evenia Callseah transmits, "Hank went through his
+beacon earlier."
+[Tactical Communication] Alko Delovega transmits, "2 corvettes."
+[Tactical Communication] Alko Delovega transmits, "This is not the case."
+[Tactical Communication] Melinda Michaels transmits, "If we come in, more ships
+will follow."
+[Tactical Communication] Alko Delovega transmits, "They didn't come."
+[Tactical Communication] Kert On'Marr transmits, "Hm."
+[Tactical Communication] Alko Delovega transmits, "It is my fault something
+wrong."
+[Tactical Communication] Nissi Valdaire transmits, "If Hank stumbled into it, he
+should stay and fight it. Only decent way to handle that."
+A long violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+[Tactical Communication] Melinda Michaels transmits, "Yes because if one of us
+come, so will more ships."
+[Tactical Communication] Melinda Michaels transmits, "But we can if you want."
+[Tactical Communication] Alko Delovega transmits, "Nothing came to the sector,
+it is my beacon here."
+[Tactical Communication] Melinda Michaels transmits, "Then why do you need help?
+I am confused."
+[Tactical Communication] Alko Delovega transmits, "Beacause I am damaged so
+bad."
+[Tactical Communication] Melinda Michaels transmits, "You in a fighter?"
+[Tactical Communication] Alko Delovega transmits, "Yeah, bastille."
+[Tactical Communication] Melinda Michaels transmits, "Warpers?"
+[Tactical Communication] Marcellus Freeman transmits, "I can bring you drives."
+[Tactical Communication] Morris Corlew transmits, "Drives won't help a
+bastille."
+[Tactical Communication] Morris Corlew transmits, "Lose your sensors?"
+A large semi-transparent cylindrical creature with medium-length dangling
+tendrils and a fuchsia glowing interior pulsates gently.
+[Tactical Communication] Melinda Michaels transmits, "Coming."
+[Tactical Communication] Melinda Michaels transmits, "What has you chained?"
+A large semi-transparent perfectly round creature with long dangling tendrils
+and a cerulean glowing interior drifts slowly past a string of light purple
+plastic kelp.
+[Tactical Communication] Melinda Michaels transmits, "Alko, you still in the
+sector?"
+[Tactical Communication] Alko Delovega transmits, "Yes."
+[Tactical Communication] Melinda Michaels transmits, "Warpers?"
+[Tactical Communication] Alko Delovega transmits, "No."
+A long chartreuse soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+[Tactical Communication] Alko Delovega transmits, "Out now."
+[Tactical Communication] Alko Delovega transmits, "Getting reps and coming to
+you guys."
+[Tactical Communication] Alko Delovega transmits, "Coming now."
+[Tactical Communication] Melinda Michaels transmits, "You're welcome Alko."
+A long chartreuse soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+A long chartreuse soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[Tactical Communication] Hank Marvelstine transmits, "Ok so I got, Kert, morris,
+and myself. 2 for a shallow please."
+[Tactical Communication] Sean Sloan transmits, "Sure if you need help."
+[Tactical Communication] Hank Marvelstine transmits, "K."
+[Tactical Communication] Melinda Michaels transmits, "Anyone need a shallow
+pod?"
+[Tactical Communication] Hank Marvelstine transmits, "Sean, where are you?"
+stand
+You stand up from a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.
+Lily Kaise falls from your lap.
+hold lily
+You hold Lily Kaise's hand, taking her into your group.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, and a black
+plastic tray of spider chow here.
+You can go north, east, south, west, up, and down.
+It sure takes a lot of time to drag unconscious people around!
+(5 seconds roundtime.)
+Lily Kaise followed you.
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: Need some background information about the game that isn't in a help file?
+Does your character have an interest that means they would know something you
+don't? Ask the staff with the SUPPORT command, we're happy to help and we enjoy
+any excuse to expand on theme information!
+**
+s
+Wait 4 seconds.
+s
+Wait 2 seconds.
+s
+Wait 1 second.
+s
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, and a hairy yellow eight-legged ArachnoPal named Higgins
+here.
+You can go north, east, south, west, up, and down.
+It sure takes a lot of time to drag unconscious people around!
+(6 seconds roundtime.)
+Lily Kaise followed you.
+s
+Wait 4 seconds.
+s
+Wait 3 seconds.
+s
+Wait 2 seconds.
+s
+Wait 1 second.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it, and a black
+plastic tray of spider chow here.
+You can go out.
+It sure takes a lot of time to drag unconscious people around!
+(5 seconds roundtime.)
+Lily Kaise followed you.
+s
+Wait 3 seconds.
+s
+Wait 1 second.
+s
+You can't go that way.
+undress into suit
+You remove all of your clothing, placing it carefully in a small suitcase.
+put lily on bed
+You place Lily Kaise on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise glances around at her surroundings.
+Lily Kaise laughs.
+Lily Kaise carefully removes a Tardick lizard named Asteria from her shoulder.
+Lily Kaise puts down a Tardick lizard named Asteria.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+laugh lily
+You laugh at Lily Kaise.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+-lily Just taking you to bed my love.
+You say to Lily, "Just taking you to bed my love."
+Lily Kaise cuddles up to you.
+cuddle lily
+You cuddle up to Lily Kaise.
+A Tardick lizard named Asteria settles down, curling its limbs inward. Its eyes
+close slowly and it appears to sleep.
+-lily Good night. Rest well and sweet dreams. I love you.
+You say to Lily, "Good night. Rest well and sweet dreams. I love you."
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+Lily says to you, "Nite Hun. I love you. Rest well and sweet dreams."
+smile lily 'Night.
+You smile at Lily Kaise. "Night."
+Lily Kaise smiles at you. "Nite Love."
+A hairy yellow eight-legged ArachnoPal named Higgins wiggles his hairy palps
+endearingly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+Shine the big white glowing felo wanders in from the north.
+Shine the big white glowing felo rubs up against a white four poster rattan bed
+with a heart-shaped headboard and filmy deep purple hangings with a soft
+periwinkle cashmere blanket, a set of lavender silk sheets, a large periwinkle
+bed pillow, a hand-made purple and amethyst flower quilt, and a large periwinkle
+bed pillow on it, purring softly.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Shine the big white glowing felo wanders out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A hairy yellow eight-legged ArachnoPal named Higgins dips his palps into a black
+plastic tray of spider chow and pushes food into his mouth.
+A hairy yellow eight-legged ArachnoPal named Higgins jerks his limbs, springing
+into the air briefly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "No one is
+doing anything? Someone must have an idea!"
+A Tardick lizard named Asteria shifts and then wakes, opening its yellow eyes
+slowly.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Hello? Anyone
+there?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "No one is
+doing anything? Someone must have an idea!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "No one is
+doing anything? Someone must have an idea!"
+Lily Kaise lies back in a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it and goes to sleep.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on,
+we're not even on the board! Let's do some piloting!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "No one is
+doing anything? Someone must have an idea!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "No one is
+doing anything? Someone must have an idea!"
+#end
+[0m#SESSION 'StarConquest' DIED.[0m

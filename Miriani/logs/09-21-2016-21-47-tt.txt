@@ -1,0 +1,3128 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Aug 25 17:51:20 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is at New Earth; Spaceport
+Landing Pad.
+You see a glossy sapphire blue ceramic felo chow bowl, a small yellow ball
+containing a realistic Bari horde noisemaker, a white four poster rattan bed
+with a heart-shaped headboard and filmy deep purple hangings with a set of
+lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made purple and
+amethyst flower quilt, a large periwinkle bed pillow, and a large periwinkle bed
+pillow on it, a large oval dark purple and light purple cloth rug, a small
+seashell pink trash can, a dusky pink rattan cabinet, and a small oval turquoise
+rattan table with a glass top here.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt, a
+large periwinkle bed pillow, and a large periwinkle bed pillow on it.)
+l lily
+I see no "lily" here.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a set of lavender silk sheets, a soft
+periwinkle cashmere blanket, a hand-made purple and amethyst flower quilt, a
+large periwinkle bed pillow, and a large periwinkle bed pillow on it.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a textured plasteel floor
+lamp with a cream shade (casting a white-colored glow), a small orange ball
+containing a realistic Bari horde noisemaker, a glossy pale pink ceramic felo
+chow bowl, a small purple trash bin, a wall-sized bubbling coral pink-lit
+aquarium containing violet and blue aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+fuchsia and cerulean aquatic life and sea green and neon blue round rocks, a
+faux cedar library case, and Buddy the hefty blue soldier felo here.
+You can go north, east, south, west, up, and down.
+take suitcase
+You remove a small suitcase from a leather briefcase.
+take briefs
+A small suitcase isn't open.
+out
+You can't go that way.
+s
+[Starship "William Dove"; Living Quarters One]
+You see a glossy sapphire blue ceramic felo chow bowl, a small yellow ball
+containing a realistic Bari horde noisemaker, a white four poster rattan bed
+with a heart-shaped headboard and filmy deep purple hangings with a set of
+lavender silk sheets, a soft periwinkle cashmere blanket, a hand-made purple and
+amethyst flower quilt, a large periwinkle bed pillow, and a large periwinkle bed
+pillow on it, a large oval dark purple and light purple cloth rug, a small
+seashell pink trash can, a dusky pink rattan cabinet, and a small oval turquoise
+rattan table with a glass top here.
+You can go out.
+open suitcase
+You open a small suitcase.
+take underwear
+You remove a pair of white spandex underwear from a small suitcase.
+wear underwear
+You step into a pair of white spandex underwear and pull them up.
+take cargo
+You remove a pair of relaxed fit light khaki cargo pants from a small suitcase.
+wear cargo
+You pull a pair of relaxed fit light khaki cargo pants on over your legs.
+take tee
+You remove a long-sleeved dark green tee appliqued with small silver stars from
+a small suitcase.
+wear tee
+You pull a long-sleeved dark green tee appliqued with small silver stars on over
+your head.
+take sneakers
+You remove a pair of washed light khaki canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of washed light khaki canvas sneakers onto your feet.
+put suitcase in breifcas
+I see no "breifcas" here.
+eput suitcase in briefcase
+I don't understand that.
+put suitcase in briefcase
+You put a small suitcase in a leather briefcase.
+out
+[Starship "William Dove"; Living Quarters Block]
+You see a large round light purple and dark purple cloth rug, a violet leather
+sectional sofa, an antique oak table from Old Earth, a textured plasteel floor
+lamp with a cream shade (casting a white-colored glow), a small orange ball
+containing a realistic Bari horde noisemaker, a glossy pale pink ceramic felo
+chow bowl, a small purple trash bin, a wall-sized bubbling coral pink-lit
+aquarium containing violet and blue aquatic life and multicolored round rocks, a
+small bubbling neon blue-lit toroidal aquarium containing red and blue aquatic
+life and round rocks, a wall-sized bubbling neon purple-lit aquarium containing
+fuchsia and cerulean aquatic life and sea green and neon blue round rocks, a
+faux cedar library case, and Buddy the hefty blue soldier felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench, a rattan floor lamp with a coral lotus shade, a blueberry rattan
+pantry cabinet, a white microwave oven, a small purple ball containing a
+dingling bell, a small dusky pink trash bin, a black plastic tray of spider
+chow, a glossy slate blue ceramic felo chow bowl, a long white and coral pink
+flowered cushion, Samantha the old large violet felo, and Jewel the large violet
+glowing felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, Desiree the little black and
+white spotted CatBot, a glossy purple ceramic felo chow bowl, a round white
+rattan coffee table with a glass top, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and amethyst aquatic life and coral rocks, an
+insulated green cooler, a robotic chef named Nellie, a space imaging photograph
+of Nouveau Quebec Station, Magellan the arachnoid security robot, a small yellow
+ball containing a realistic Bari horde noisemaker, an insulated yellow cooler, a
+clear plastic food storage container, and Shasta the big onyx soldier felo here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+You can't go that way.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a long-sleeved dark purple tee with a large neon purple dragon
+appliqued on the front, a pair of blue stonewashed denim jeans with a small dark
+red 'XX' embroidered on the left front pocket, and a pair of mystic purple suede
+clogs. She is also wearing an orange and white blessed prayer bracelet around
+her wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a
+neon purple wrist-mounted chronometer, a solid silver ring engraved with
+dragonflies, a delicate ring of silver wire and small purple amethyst crystals,
+a metallic gold touch einrophone in a metallic purple reinforced plastic phone
+holster, and a soft fuchsia Tardick lizard snuggly labeled 'Asteria'. Her head,
+face, both eyes, neck, both wrists, and both hands are left uncovered.
+She is carrying Sassie the old sleeping large fuchsia felo in her right hand.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Shasta the big onyx soldier felo bats at a small yellow ball containing a
+realistic Bari horde noisemaker.
+pet shasta
+You stroke the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+[Notification from Starseekers] A load of salvage has been received at AEU
+Salvage Processing Nuclear Temporary Station from the two-person medium
+transport "Red Tape Is No Joke". The organization has earned 489,713.50 credits.
+Shasta the big onyx soldier felo marches out.
+[Tactical Communication] Ali Candan transmits, "Any interests for some beacons?"
+[General Communication] Sakura Arakida transmits, "I must be tired. I looked at
+my ship for a moment. And thought it's name was death kitsune. It's not, but I
+could of sworn my eyes saw death kitsune. Not iridescent kitsune."
+tra tac Sure.
+[Tactical Communication] Shule Elemmire transmits, "Sure."
+[Tactical Communication] Rose Lennex transmits, "Oh yes."
+[Tactical Communication] Morris Corlew transmits, "Possibly..."
+[Tactical Communication] Ali Candan transmits, "If you want to practice flying,
+it's perfectly acceptalbe."
+[Tactical Communication] Ali Candan transmits, "Acceptable."
+[General Communication] Morris Corlew transmits, "That's worse than my seeing
+indescent kitsune...."
+[General Communication] Sakura Arakida transmits, "I'll say."
+[Tactical Communication] Rose Lennex transmits, "I need to bring in this roid,
+then I can be on my way back. How would that be?"
+[Tactical Communication] Ali Candan transmits, "Need one more."
+[Tactical Communication] Ted Warburton transmits, "Can do."
+[Tactical Communication] Ali Candan transmits, "Alright, Earth Lounge."
+kiss lily
+You kiss Lily Kaise.
+'sorry babe.
+You say, "Sorry babe."
+out
+You scramble to your feet.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy seashell pink ceramic felo chow bowl, a small mystic purple bioplastic
+crate, an overstuffed sofa upholstered in brilliantly colored patchwork fabric,
+and Shasta the big onyx soldier felo here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Spaceport Landing Pad]
+The five-person A.S.S. tactical platform "William Dove" is landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+[Tactical Communication] Morris Corlew transmits, "Be there in under 2 minutes."
+enter shooting
+You key in a transport of Shooting Star to your location.
+The vostok-class capsule "Shooting Star" is slowly brought in aboard an
+automated flatbed, then lowered to the floor.
+[Starship "Shooting Star"; Control Capsule]
+You see an improved temporary wormhole drive here.
+You can go out.
+ist
+I don't understand that.
+[Notification from Starseekers] A load of salvage has been received at AEU
+Salvage Processing Nuclear Temporary Station from the two-person medium
+transport "Starsinger". The organization has earned 753,424.66 credits.
+sit
+You sit down.
+You carefully buckle your seatbelt.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+[Tactical Communication] Alonzo Davis transmits, "I'm in the middle of a ground
+low deployment at the moment or I'd come."
+A voice comes over the speaker and says, "Shooting Star, you have clearance to
+launch. Good luck and come back to us safely."
+[General Communication] Damien Alexander transmits, "What's up?"
+Your ship 'William Dove' has been automatically moved into a garage.
+ftl old
+"old" does not match any known sector.
+ftl old earth
+The motion of the ship throws your body from side to side, but your seatbelt
+holds you in place.
+[General Communication] Morris Corlew transmits, "Ali, if Rose is going to be a
+bit longer, I might just run to my office for a few and meet you all. That ok?"
+Earthgate Station dominates space here, acting as a watchpost for the approach
+to Old Earth.
+Old Earth turns below you, blue and green and brown and white. The planet
+elicits a feeling of "home" in almost all who view it, even if they have never
+actually set foot on it.
+Via general sector communication, Old Earth transmits, "Greetings, Shooting
+Star! Welcome to Old Earth Orbit!"
+[General Communication] Ali Candan transmits, "Yup."
+The computer reports that the two-person Accord gemini "Götür Beni Gittiðin
+Yere" has landed on the planet Old Earth.
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] Old Earth                           
+   Space Stations:
+[2] Earth Orbital                       
+   Space Markets:
+[3] Space Market                        
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Old Earth.
+The computer reports that the two-person Accord gemini "TwinBake" has jumped
+into the sector.
+Via general sector communication, Old Earth transmits, "Hello, TwinBake! Welcome
+to League space! Make yourself at home!"
+Would you like to request landing clearance at Old Earth?
+[Enter `yes' or `no']
+y
+You notify flight control of your desire to land.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Shooting Star. The League welcomes you under the non-aggression pact."
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now departing at Space Station "Foxtrot"! All aboooooaaaaaaard!"
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+out
+You scramble to your feet.
+You exit the capsule.
+[Old Earth; Manhattan Spaceport]
+The one-person supply shuttle "Shangri-la Terraform Group 836", the one-person
+cargo hauler "Tony's Delivery Shuttle", the two-person Accord gemini "Götür Beni
+Gittiðin Yere", and the vostok-class capsule "Shooting Star" are landed here.
+You see an asteroid-shaped steel trash bin here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+The vostok-class capsule "Shooting Star" is loaded onto an automated flatbed and
+slowly moved into a large garage.
+You can't go that way.
+go lounge
+[Manhattan Spaceport; Pilot Lounge]
+You see a lacquered wooden bar, a public holovid, a small red trash can, a
+brightly-lit candy vending machine, and a salt lick here.
+You can go out.
+Your ship 'Shooting Star' has been automatically moved into a garage.
+[General Communication] Damien Alexander transmits, "Somebody need help?"
+[General Communication] Damien Alexander transmits, "I just woke up to chatter
+on tac."
+A bit of movement out of the corner of your eye draws your attention to the
+nearest holovid, where the image of a ship can be seen landing on the outside
+landing pad. An informative bit of text below it identifies it as the two-person
+medium transport "Red Tape Is No Joke".
+[General Communication] Alonzo Davis transmits, "Just setting up beacons."
+A bit of movement out of the corner of your eye draws your attention to the
+nearest holovid, where the image of a ship can be seen landing on the outside
+landing pad. An informative bit of text below it identifies it as the two-person
+Accord gemini "TwinBake".
+[General Communication] Morris Corlew transmits, "No, we're about todo beacons."
+[General Communication] Damien Alexander transmits, "Oh, okay."
+Ted Warburton just arrived.
+wave ted
+You wave to Ted Warburton.
+Ted Warburton waves.
+Ted Warburton asks in a Candelarian accent, "How you doing?"
+'doing great! You?
+You ask, "Doing great! You?"
+Ted Warburton says in a Candelarian accent, "Not bad at all, first week as GSL."
+grin
+You grin.
+Ted Warburton says in a Candelarian accent, "It's a lot of fun so far."
+smile
+You smile.
+'The only office I've never held.
+You say, "The only office I've never held."
+Ted Warburton says in a Candelarian accent, "My first, but I've not been here 4
+months yet."
+nod
+You nod.
+[Tactical Communication] Rose Lennex transmits, "Sorry Ali, this roid was
+further out than I thought it would be. I'm 3 sectors out, then I need to rift
+home. I don't want to hold you up too much though so if anybody else wants to go
+and is closer, don't wait on me."
+who
+There appear to be about 22 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Rose Lennex  (L)
+Soraya Rhyz  (L)
+Morris Corlew  (L)
+Lillian Hudson  (L)
+Zandria Marschaund  (L)
+Melinda Michaels  (L)
+Sakura Arakida  (L)
+Seneca Morris  (L)
+Ali Candan  (L)
+Nissi Valdaire  (L) [a]
+Damien Goss  (L)
+Klaus Stein  (L)
+Damien Alexander  (F)
+Alonzo Davis  (F)
+Rogue Romano  (F)
+Emmett Lee  (F) [c]
+Ted Warburton  (F)
+Keegan Wantz  (F)
+Aisling the Fox  (M)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 9 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+sit couch
+I can't find "couch."
+sit booth
+You sit down on a cushy booth seat.
+Ted Warburton says in a Candelarian accent, "We could almost have done another
+one before she gets back if we had the right ship."
+Ted Warburton smiles.
+nod
+You nod.
+-ted You going to practice flying?
+You say to Ted, "You going to practice flying?"
+Ted Warburton says in a Candelarian accent, "Not today I'm not, but it is on my
+agenda."
+Ted Warburton says in a Candelarian accent, "Eve and I are both going to do it."
+grin 'Yeah, I should practice the new tactic of evading.
+You grin. "Yeah, I should practice the new tactic of evading."
+[Notification from Starseekers] An asteroid has been received at AEU Asteroid
+Processing Nuclear Temporary Station from the two-person hardened asteroid
+hauler "Strength In Perseverance". The organization has earned 631,433.59
+credits.
+Ted Warburton says in a Candelarian accent, "You did OK at that when I was
+watching."
+'or maybe the new and improved tactic of not evading?
+You ask, "Or maybe the new and improved tactic of not evading?"
+chuckle
+You chuckle.
+Ted Warburton says in a Candelarian accent, "To be honest, you're one of the
+best, you never seem to get hit, and you get right in close so we can hit them."
+'oh, I get hit.
+You say, "Oh, I get hit."
+Ted Warburton says in a Candelarian accent, "Not often though."
+'I try not too.
+You say, "I try not too."
+'er, to
+You say, "Er, to."
+Ted Warburton says in a Candelarian accent, "Of course, but you get in closer
+than many do, and still manage."
+Ted Warburton says into his neon green metachannel FTL communicator, "Hi."
+'but when they chain you from opposite directions, it gets a little interesting.
+You say, "But when they chain you from opposite directions, it gets a little
+interesting."
+Ted Warburton says in a Candelarian accent, "Yep, I hate it when I have
+multiples to deal with."
+nod
+You nod.
+Ted Warburton says in a Candelarian accent, "That's the bit I find stressful."
+Ted Warburton says into his neon green metachannel FTL communicator, "So far it
+has."
+'That's understandable. The key is to stay relaxed.
+You say, "That's understandable. The key is to stay relaxed."
+'and focused.
+You say, "And focused."
+Ted Warburton says in a Candelarian accent, "Yeah, easier said than done, but I
+know that's what I need to learn."
+Ted Warburton says in a Candelarian accent, "I can do it when I gun or eng, no
+problem."
+grin 'This is ture. It is easier said than done. But experience is a great
+teacher.
+"This is ture." You grin. "It is easier said than done. But experience is a
+great teacher."
+'er, true
+You say, "Er, true."
+Ted Warburton laughs.
+Ted Warburton says in a Candelarian accent, "I thought that was what you meant."
+laugh
+You laugh.
+'sorry, still waking up.
+You say, "Sorry, still waking up."
+Morris Corlew just arrived.
+Morris Corlew waves to you.
+Morris Corlew waves to Ted Warburton.
+Ted Warburton waves.
+Morris Corlew sits down on a cushy booth seat.
+Ted Warburton says in a Candelarian accent, "No worries."
+'oh no! It's a moose!
+You exclaim, "Oh no! It's a moose!"
+Morris Corlew orders a warm League-iced cookie.
+Morris Corlew gives you a warm League-iced cookie.
+'Everybody run and hide!
+You exclaim, "Everybody run and hide!"
+Morris Corlew smirks at you.
+Ted Warburton says in a Candelarian accent, "We will all die, Morris and I are
+such awful gunners."
+grin morris
+You grin at Morris Corlew.
+[Tactical Communication] Lily Kaise transmits, "Are you full then?"
+'I shall use my finest water pistol
+You say, "I shall use my finest water pistol."
+Morris makes a swatting motion toward Ted.
+Ted Warburton says into his neon green metachannel FTL communicator, "I can't at
+the moment, I don't have the parts."
+Ted Warburton laughs.
+eat cookie
+You take a bite of a warm League-iced cookie.
+Morris says to Ted, "What do you need parts for?"
+Morris Corlew orders a warm League-iced cookie.
+Morris Corlew gives a warm League-iced cookie to Ted Warburton.
+Ted Warburton says in a Candelarian accent, "Gaseus exchange pump, but somebody
+else is going to make it."
+[Tactical Communication] Ali Candan transmits, "Currently, yup."
+eat cookie
+You take a bite of a warm League-iced cookie.
+Morris Corlew nods to Ted Warburton. "Ok."
+Ali Candan just arrived.
+Memati the arachnoid security robot skitters in after Ali Candan.
+Ali Candan takes Ted Warburton into his group.
+Morris Corlew waves to Ali Candan.
+Ted Warburton waves to Ali Candan.
+Ali Candan takes you into his group.
+wave ali
+You wave to Ali Candan.
+Ali Candan takes Morris Corlew into his group.
+l work
+This workbench's supplies include aerogel block: 6, alien maintenance tools: 23,
+antigravity emitter: 17, articulated robotic hand: 51, capacitor: 4708,
+chemiluminesent: 4, circuit board: 142, electromagnetic nozzle: 1, electronic
+interrupt: 6, enclosed negmatter sphere: 13, force multiplier: 41, glyph
+replicator: 509, glyph energy source: 706, handful of metal scales: 10, handful
+of metal screws: 25, handful of metal bolts: 15, helmet assembly: 5, hoverbot
+chassis: 1, hydraulic fluid ampoule: 988, hydraulic piston: 1470, instasteel
+caulk: 5, instamold plastic brick: 22, large battery: 6, liquid crystal ampoule:
+247, long metal tube: 50, medium battery: 5, medium metal frame: 34, medium
+metal chassis: 90, metal thread: 100, metal gripper: 1263, metal head: 1, metal
+arm: 4, metal torso: 1, metal cylinder: 390, metal ingot: 55640, miniaturized
+computer chip: 1832, nylon thread: 100, nysteel fabric: 1, nysteel thread: 10,
+optical lens: 2, plastic panel: 50, plastic bead: 14205, power amplifier: 10,
+quantum attunement pod: 24, RATS quicksynth: 26, RATS nanite capacitor: 20,
+robotic eye: 1, signal amplifier: 53, small plastic chassis: 25, small battery:
+13, small self-sustaining power source: 1, small metal chassis: 75, sonic
+disruption calculation unit: 10, spread-spectrum metafrequency transmitter
+module: 1, superacid mixture: 139, superconducting webbing: 16, superconducting
+thread: 15, tiny plastic chassis: 98, transistor: 4289, transparisteel plate:
+98, wiring: 14490, wormhole microprocessor module: 26, wormhole sensor: 42, and
+wormhole drive core: 555.
+It has Basic Space Preparedness, Basic Communications, Basic Starship
+Furnishings, Basic Circuitry, Logic Systems, Basic Metal Fabrication, Metal
+Starship Decorations, Basic Metalwork, Advanced Metal Fabrication, Advanced
+Metalwork, Advanced Starship Furnishings, Starship Enhancement Modules, Advanced
+Communications, Advanced Space Preparedness, Advanced Circuitry, Basic
+Engineering Technique, Basic Chemical Etching, Basic Chemical Synthesis,
+Advanced Chemical Etching, Advanced Chemical Synthesis, Expert Metalwork, Expert
+Communications, Expert Circuitry, Basic Plastic Molds, Expert Plastic Molds,
+Basic Synthetic Fibers, Advanced Synthetic Fibers, Advanced Plastic Molds,
+Expert Synthetic Fibers, Starship Decals, Basic Sonics, Advanced Sonics, Expert
+Sonics, Advanced Engineering Technique, Expert Engineering Technique,
+Augmentation Technique, Basic Space Assault, Expert Space Assault, Advanced
+Space Assault, Starship Service Robots, Improved Engineering Technique, Rifle,
+Hand Gun, Archaic Rifle Adaptation, Hand Cannon, and Archaic Pistol Adaptation
+installed.
+It has blueprints for salvaged temporary wormhole drive, hatch repair kit,
+wormhole drive tracer, charge booster, dual band metafrequency transmitter
+tuner, spread-spectrum metafrequency transmitter module, basic einrophone memory
+expansion, solid pilot's crib, nylon sleeping harness, storage netting, nylon
+relaxation hammock, circuit board, small battery, stun cartridge, low-quality
+fractal tuner, motion sensor, makeshift standard sensor array, makeshift
+extradimensional sensor array, handful of metal bolts, handful of metal screws,
+metal thread, small metal tube, curiously moulded widget, small metal pole,
+small metal spike, large metal spike, set of small metal spikes, small
+decorative chain, spiky decorative chain, length of barbed wire, metal spoiler,
+tailfin, satellite dish, antenna, metal grille, exhaust vent, metal table, metal
+container, small metal chassis, small metal frame, handful of metal scales,
+small metal plate, medium metal plate, long metal tube, helmet assembly, metal
+plate, metal sphere, medium metal chassis, medium metal frame, nylon-netted
+chair, transparisteel storage case, vacuum-hardened transparisteel storage case,
+reinforced optics unit, enhanced starship gaseous exchange pump unit, starship
+timekeeping display, triple band metafrequency transmitter tuner, improved
+einrophone memory expansion, improved temporary wormhole drive, sonic ship
+cleanliness enforcer, hyperspanner, manual zero-point energy receptacle charger,
+medium battery, aquarium light, aquarium bubbler, basic quickpatch, basic battle
+restoration, basic energy dump, basic battle recharge, etched plastic board,
+cheap plastic plaque, steel plaque, space-age epoxy, instasteel caulk, nylon
+thread, instamold plastic brick, standard acid mixture, instaetch compound,
+plasteel plaque, transparisteel plaque, nysteel thread, plasteel plate,
+transparisteel plate, transparisteel sphere, superacid mixture, aerogel block,
+chemiluminesent, large metal chassis, large metal frame, quadruple band
+metafrequency transmitter tuner, advanced einrophone memory expansion, large
+battery, tiny plastic chassis, small plastic chassis, handgun assembly, small
+plastic board, pair of plastic testicles, small plastic tube, small fishbowl,
+small aquarium, large plastic chassis, hand cannon assembly, sample container,
+large aquarium, small nylon strap, medium nylon strap, nylon fabric, large nylon
+strap, reinforced nylon fiber, medium plastic chassis, rifle assembly, plastic
+panel, stun turret assembly, medium aquarium, nysteel fabric, small nysteel
+strap, medium nysteel strap, large nysteel strap, racing stripe, gout of flames,
+EAOS logo, AEU logo, League logo, Fringe logo, Mutuality logo, stylized Jinu
+decal, stylized heart pierced by a dagger decal, stylized kitten decal, stylized
+apparently dead Outsider decal, stylized rocketship decal, stylized planet
+decal, stylized torus decal, stylized bomb decal, gigantically oversized pair of
+sunglasses, small sonic emitter, sonic disruption calculation unit, low-quality
+small sonic emitter, medium sonic emitter, low-quality medium sonic emitter,
+hypersonic transducer, large sonic emitter, low-quality large sonic emitter,
+advanced quickpatch, advanced battle restoration, advanced energy dump, advanced
+battle recharge, expert quickpatch, expert battle restoration, expert energy
+dump, expert battle recharge, hatch cracker, scorched metal thigh holster,
+battered metal chest holster, wrist-mounted chronometer, gleaming set of
+handcuffs, pitted set of handcuffs, hardened hatch cracker, battered set of
+mercenary's manacles, improved hatch cracker, stun trap, set of nysteel-reinforc
+ed bounty hunter's restraints, vibro-baton, improved quickpatch, improved battle
+restoration, improved energy dump, improved battle recharge, stun rifle,
+surplus-design stun rifle, stun gun, surplus-design stun gun, stun musket, stun
+carbine, bolt action stun rifle, stun crossbow, stun cannon, surplus-design stun
+cannon, stun revolver, snub stun pistol, stun pistol, stun slingshot, basic
+damage output boost, force amplifier, electromagnetic nozzle, portable
+battlesuit refurbishment tool, chaingun resistance boost, expert damage output
+boost, advanced engineering technique toolset, improved engineering technique
+toolset, expert engineering technique toolset, humanoid service robot, arachnoid
+security robot, security hoverbot, beacon signal amplifier, humanoid security
+robot, autopilot override, metal arm, metal head, electromagnetic plate,
+arachnoid robot chassis, torpedo resistance boost, passive quantum foam sensor,
+minicannon resistance boost, metal torso, improved damage output boost, robotic
+stun turret, robotic eye, electromagnetic projector, humanoid robot chassis,
+advanced damage output boost, kinetic weapon resistance boost, energy weapon
+resistance boost, superconducting webbing, robot controller, power amplifier,
+metal leg, small self-sustaining power source, hoverbot chassis, storage
+compressor, artifact detector, laser resistance boost, antigravity emitter,
+robotic hand stunner attachment, and beaconed sector autostop unit.
+You see an antenna, an antenna, an antenna, an antenna, an antenna, a stun
+cartridge, and an improved temporary wormhole drive on top of it.
+Type LIST WORKBENCH to see what you can make, and USE WORKBENCH to make things.
+Ted says to Morris in a Candelarian accent, "Thanks."
+Ted Warburton takes a bite of a warm League-iced cookie.
+Morris Corlew smirks at Ted Warburton.
+Morris says to Ted, "That's a 'bite me' Cookie."
+Ted says to Morris in a Candelarian accent, "Shut it you."
+[General Communication] Ather Jammoa transmits, "Wow. I do not know how I am in
+the top three performers of my alliance when all I did last conquest cycle was a
+high-tier nest."
+A bit of movement out of the corner of your eye draws your attention to the
+nearest holovid, where the image of a ship can be seen landing on the outside
+landing pad. An informative bit of text below it identifies it as the two-person
+hardened asteroid hauler "Angel's Flight".
+Morris Corlew shrugs.
+Ted Warburton smiles.
+eat cookie
+You take a bite of a warm League-iced cookie.
+eat cookie
+You take a bite of a warm League-iced cookie.
+eat cookie
+You finish off a warm League-iced cookie.
+Morris Corlew speaks into his metallic blue metachannel FTL communicator and
+watch:
+[General Communication] Morris Corlew transmits, "Because no one in your
+alliance is doing anything either?"
+[General Communication] Sakura Arakida snorts. "Shows how active your alliance
+must be then."
+[General Communication] Ather Jammoa transmits, "I guess not!"
+[General Communication] Lily Kaise transmits, "Well I'm definitely not towing it
+this time as I have so many other times."
+Ted Warburton takes a bite of a warm League-iced cookie.
+Keying his metallic blue metachannel FTL communicator and watch, Morris Corlew
+laughs.
+suitinfo
+Battlesuit Information:
+Active Battlesuit: League Templar (Tier 4) [New Earth; Spaceport Landing Pad]
+Stored:            Fringe Huscarl (Tier 4) [New Earth]
+                   AEU Combat Auxiliary (Tier 2) [New Earth]
+                   EAOS Conjurer (Tier 4) [New Earth]
+                   AEU Combat Universalist (Tier 5) [New Earth]
+You have a total of four battlesuit slots.
+Group Battlesuit Status
+Ali Candan: Mutuality Junkbot (Tier 5)
+Ted Warburton: AEU Combat Auxiliary (Tier 2)
+Morris Corlew: AEU Tactical Combatant (Tier 1.5)
+Morris Corlew says into his metallic blue metachannel FTL communicator and
+watch, "But...it's cozy in there?"
+[General Communication] Ather Jammoa transmits, "We do really only have like, 3
+active pilots for the most part."
+[Notification from Starseekers] The organization has received 1,560,211.08 EAOS
+credits from a toll payment to League Rift Accelerating Solar Toll Station in
+The Belt of Orion.
+Morris Corlew glances down at his watch momentarily.
+Morris Corlew says in an Appalachian accent, "Oh...Ali. I'll be back."
+Morris Corlew stands up from a cushy booth seat.
+Morris Corlew mosies out.
+Ted Warburton says in a Candelarian accent, "Oo, mail."
+[General Communication] Sakura Arakida transmits, "Then get some more."
+[General Communication] Lily Kaise transmits, "We also generally manage to get
+in at least one goal and we achieved both last conquest."
+[General Communication] Emmett Lee transmits, "Sorry I didn't notice you Rogue.
+I was reading."
+[General Communication] Aisling the Fox transmits, "Good luck with that."
+Ali Candan glances down at his watch momentarily.
+Ted Warburton takes a bite of a warm League-iced cookie.
+[General Communication] Ather Jammoa transmits, "Screw all that. I am very happy
+that thing passed not letting in most people who might apply for the corps."
+'no one ever sends me mail. Nobody likes me except insurance.
+You say, "No one ever sends me mail. Nobody likes me except insurance."
+[General Communication] Morris Corlew transmits, "They can't."
+[General Communication] Rogue Romano transmits, "Its alright, Emmett."
+Ted Warburton says in a Candelarian accent, "I bet it's SSN."
+[General Communication] Morris Corlew transmits, "Hey, Rogue...I actually like
+these. Thanks."
+[General Communication] Sakura Arakida snorts. "Well too bad for the AEU then."
+[General Communication] Morris Corlew transmits, "They look kinda dressy but not
+too dressy."
+[General Communication] Ather Jammoa transmits, "Na, it's not. Best thing ever
+to implement."
+[General Communication] Rogue Romano transmits, "Oh, the trousers?"
+[General Communication] Aisling the Fox transmits, "Is stepping stone to get rid
+of corps altogether. Will you be happy then?"
+[General Communication] Morris Corlew transmits, "Yep."
+[General Communication] Rogue Romano transmits, "I'm glad you like."
+[General Communication] Aisling the Fox transmits, "Clearly is Garner's plan."
+Morris Corlew just arrived.
+[General Communication] Rogue Romano transmits, "You is welcome."
+Ted says to Morris Corlew in a Candelarian accent, "SSN?"
+Morris Corlew nods to Ted Warburton.
+Morris Corlew removes a pair of close-fitting trousers of silky navy blue
+synthcotton from a small black leather backpack.
+Morris Corlew shows a pair of close-fitting trousers of silky navy blue
+synthcotton to Ted Warburton.
+Ted says to Morris in a Candelarian accent, "Bet mine is too."
+Ali Candan takes Morris Corlew into his group.
+[General Communication] Ather Jammoa transmits, "I have a few things in place
+should that become an eventual thing."
+Morris Corlew puts a pair of close-fitting trousers of silky navy blue
+synthcotton in a small black leather backpack.
+[General Communication] Emmett Lee transmits, "I should really pay more atention
+to my surroundings."
+[General Communication] Aisling the Fox transmits, "Like what?"
+[General Communication] Emmett Lee laughs.
+Morris Corlew speaks into his metallic blue metachannel FTL communicator and
+watch:
+[General Communication] Morris Corlew transmits, "Retire and run for President?"
+[General Communication] Rogue Romano transmits, "Hey Ather, have you got any
+more of them speed plants for sale?"
+[General Communication] Ather Jammoa transmits, "Well, if I told you what I had
+in place, precautions could be taken to thwart my pain-staking efforts."
+[General Communication] Ather Jammoa transmits, "And yes I do, Rogue."
+[General Communication] Rogue Romano transmits, "I like one when you have a
+chance please."
+Ted Warburton says into his neon green metachannel FTL communicator, "That's
+what I'm short of as well, for making those, I'll see if I can pick any up on
+this beacon."
+[General Communication] Ather Jammoa transmits, "Sure, come to New Earth."
+-ted What parts do you need/
+You say to Ted, "What parts do you need?"
+Ted Warburton says in a Candelarian accent, "Oh, nothing urgently, but for when
+I need to make a pump next, I need the pistons."
+Ted Warburton says into his neon green metachannel FTL communicator, "Hi Corey."
+ponder 'I don't remember how many it requires.
+You get a distant look on your face as you ponder. "I don't remember how many it
+requires."
+Ted Warburton says in a Candelarian accent, "24, and I have 14."
+Morris says to Ted, "I'll sell 'em to ya."
+Ted Warburton says into his neon green metachannel FTL communicator, "Good
+thanks, you?"
+Morris Corlew says in an Appalachian accent, "I have exactly 14."
+take piston from work
+There are 1470 of those. How many do you want to take?
+[Type a line of input or `@abort' to abort the command.]
+10
+You take ten of a hydraulic piston from Shule Elemmire's workbench.
+give piston to ted
+You give ten of a hydraulic piston to Ted Warburton.
+Ted Warburton says in a Candelarian accent, "It's not urgent, oh, wow, thanks."
+Morris Corlew chuckles.
+Ted Warburton takes a bite of a warm League-iced cookie.
+The image on the nearest holovid trembles minutely as the image of the
+one-person runabout "Hawthorne's Peregrine Falcon" launches from the outside
+landing pad and rises into space.
+Ted Warburton finishes off a warm League-iced cookie.
+Morris says to Ted, "I was gonna say 1 fringe credit."
+Ted Warburton laughs.
+Ted Warburton laughs.
+-ted i only have 1460 now of those.
+Ted says to you in a Candelarian accent, "What's your price?"
+You say to Ted, "I only have 1460 now of those."
+Ted Warburton says in a Candelarian accent, "That's a few."
+Ted Warburton removes Ted Warburton's workbench from a black leather gadget bag.
+Morris says to you in an Appalachian accent, "Well hell, give him 4 more!"
+nod 'Keep them.
+You nod. "Keep them."
+Ted Warburton puts ten of a hydraulic piston on Ted Warburton's workbench.
+Morris Corlew chuckles.
+Ted Warburton adds ten of a hydraulic piston to the workbench's supplies, for a
+total of twenty-four.
+Ted Warburton says in a Candelarian accent, "Thanks."
+Ted Warburton puts Ted Warburton's workbench in a black leather gadget bag.
+-ted Don't worry about the price. Like I said, I've got plenty.
+You say to Ted, "Don't worry about the price. Like I said, I've got plenty."
+Morris Corlew gives you 1.00 Fringe credit.
+Morris says to you in an Appalachian accent, "Give him four more?"
+Morris Corlew laughs.
+Ted Warburton says in a Candelarian accent, "You have all the beacon parts."
+laugh morris
+You laugh at Morris Corlew.
+'I thought he only needed 10 more.
+You say, "I thought he only needed 10 more."
+Morris Corlew snickers.
+Morris Corlew says in an Appalachian accent, "He said 145."
+Morris Corlew says in an Appalachian accent, "Uhm."
+Morris Corlew says in an Appalachian accent, "14."
+Ted Warburton says in a Candelarian accent, "He's being his usual self."
+A bit of movement out of the corner of your eye draws your attention to the
+nearest holovid, where the image of a ship can be seen landing on the outside
+landing pad. An informative bit of text below it identifies it as the two-person
+medium transport "Determination From A Distance".
+Morris Corlew grins at Ted Warburton.
+A bit of movement out of the corner of your eye draws your attention to the
+nearest holovid, where the image of a ship can be seen landing on the outside
+landing pad. An informative bit of text below it identifies it as the two-person
+hardened asteroid hauler "Strength In Perseverance".
+'I thought he said he had 14 and needed 24.
+You say, "I thought he said he had 14 and needed 24."
+Morris Corlew says in an Appalachian accent, "I spy a Rose coming in..."
+Ted says to Morris in a Candelarian accent, "No, listen, it helps, I said I had
+14."
+Rose Lennex just arrived.
+Ted Warburton smiles at Morris Corlew.
+Nissi Valdaire just arrived.
+Rose Lennex waves.
+Ted Warburton waves to Rose Lennex.
+wave rose
+You wave to Rose Lennex.
+Rose says to Ali Candan in a Centaurian accent, "Thanks for waiting for me."
+Ali Candan takes Rose Lennex into his group.
+Morris Corlew says in an Appalachian accent, "Oh! Ok...I'm deaf today. I thought
+you said you had 24 and needed 14..."
+stand
+You stand up from a cushy booth seat.
+hop
+Morris Corlew sighs.
+You hop in place.
+Ted Warburton laughs.
+hop
+You hop in place.
+hop
+You hop in place.
+'let's go!!!!!!
+You exclaim, "Let's go!!!!!!"
+Rose Lennex laughs at you.
+Ali Candan says to you in a Turkish accent, "Rabbit again?"
+nod ali
+You nod to Ali Candan.
+grin
+You grin.
+Morris says to Ali Candan in an Appalachian accent, "Ants in his pants."
+Ted Warburton laughs.
+Ali Candan asks in a Turkish accent, "Who wants to fly this round?"
+-morris No rabbit.
+You say to Morris, "No rabbit."
+Rose Lennex exclaims in a Centaurian accent, "Ooh, I will!"
+Ali Candan nods.
+Rose Lennex says in a Centaurian accent, "I need the practice."
+cheer rose
+You cheer for Rose Lennex!
+Morris Corlew says in an Appalachian accent, "She beat me to it."
+Ali Candan says in a Turkish accent, "Yep. Let's go."
+Memati the arachnoid security robot skitters after Ali Candan.
+You follow Ali Candan out.
+[Old Earth; Manhattan Spaceport]
+The one-person cargo hauler "Tony's Delivery Shuttle", the five-person strike
+gunboat "Kartal", the two-person hardened asteroid hauler "Angel's Flight", the
+two-person light transport "Angel's Wings", and the two-person medium transport
+"Determination From A Distance" are landed here.
+You see an asteroid-shaped steel trash bin and Memati the arachnoid security
+robot here.
+Aisling the Fox, Ali Candan, and Ted Warburton are standing here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+Memati the arachnoid security robot skitters in after Ali Candan.
+Rose Lennex grins at Morris Corlew.
+Memati the arachnoid security robot skitters after Ali Candan.
+You follow Ali Candan aboard the five-person strike gunboat "Kartal".
+[Starship "Kartal"; Airlock]
+You see Memati the arachnoid security robot here.
+Ali Candan and Ted Warburton are standing here.
+You can go out and enter into the ship.
+Memati the arachnoid security robot skitters in after Ali Candan.
+Memati the arachnoid security robot skitters after Ali Candan.
+You follow Ali Candan into the ship.
+[Starship "Kartal"; Control Room]
+You see a decoy beacon launcher, a black leather captain's chair, a large
+leather couch, a wormhole drive tracer, and Memati the arachnoid security robot
+here.
+Ali Candan and Ted Warburton are standing here.
+You can go south and out.
+Memati the arachnoid security robot skitters in after Ali Candan.
+-ali I'd like to learn how to not evade.
+You say to Ali Candan, "I'd like to learn how to not evade."
+Ali Candan disbands his group.
+Ted Warburton wanders south.
+s
+[Starship "Kartal"; Corridor]
+Ted Warburton is standing here.
+You can go north, east, south, west, up, and down.
+u
+Ted Warburton wanders up.
+[Starship "Kartal"; Weapons Room Three]
+You see a swiveling black leather gunner's chair here.
+Ted Warburton is standing here.
+You can go south and down.
+s
+[Starship "Kartal"; Engineering Room]
+You see a large leather chair and an improved temporary wormhole drive here.
+You can go north and south.
+Ali Candan's voice comes over the loudspeaker and says, "Shule you already know
+that bro."
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+pa heh
+You speak into the microphone.
+pa I need practice with non evasion.
+You speak into the microphone.
+Ali Candan strides in from the north.
+Memati the arachnoid security robot skitters in after Ali Candan.
+Ali Candan strides south.
+Memati the arachnoid security robot skitters after Ali Candan.
+Ali Candan strides in from the south.
+Memati the arachnoid security robot skitters in after Ali Candan.
+Ali Candan asks in a Turkish accent, "Why don't you gun lazy bones?"
+Ali Candan laughs.
+laugh
+You laugh.
+With everything arranged, you settle into the damage control station.
+Ali Candan pats you on the back.
+Ali Candan strides north.
+Memati the arachnoid security robot skitters after Ali Candan.
+pa Because being lazy is fun.
+You speak into the microphone.
+sit chair
+You sit down on a large leather chair.
+Morris Corlew's voice comes over the loudspeaker and says, "Pfft!"
+The starship transitions into another sector.
+pa Hmmm, hope I remember how to use engineering tools. Wait, what does this
+button do again?
+You speak into the microphone.
+The starship transitions into another sector.
+Morris Corlew's voice comes over the loudspeaker and says, "Don't hit that
+button, Shule."
+The starship transitions into another sector.
+Ted Warburton's voice comes over the loudspeaker and says, "Or we'll all go
+boom."
+Morris Corlew's voice comes over the loudspeaker and says, "That's the button
+that dumps a big bowl of cold spaghetti on your head."
+Rose Lennex's voice comes over the loudspeaker and says, "Mmm. Spaghetti."
+pa Darn, I need that button for my ship.
+You speak into the microphone.
+[General Communication] Ather Jammoa transmits, "I have grand news for anyone
+looking for a space imager! It looks like the one on the market has finally
+dropped to below 3 billion."
+Morris Corlew's voice comes over the loudspeaker and says, "Ha!"
+[General Communication] Emmett Lee transmits, "Hey Damien glad you liked my
+shirt. Again, I got lost in my book. Sorry."
+[General Communication] Keegan Wantz transmits, "How much is it now?"
+[General Communication] Ather Jammoa transmits, "Like 2996000000."
+[General Communication] Morris Corlew laughs.
+tra gen Has anyone bought the wormhole drive tracer yet that priced at the
+everyday low price of 1 billion credits?
+[General Communication] Shule Elemmire transmits, "Has anyone bought the
+wormhole drive tracer yet that priced at the everyday low price of 1 billion
+credits?"
+[General Communication] Damien Goss transmits, "Must be the exchange rate."
+[General Communication] Aisling the Fox transmits, "Black wormhole drive tracer
+is better deal. Much cheaper."
+[General Communication] Ather Jammoa transmits, "Eh, call it 2998000000."
+A loud klaxon sounds and red lights flash overhead as the ship enters red alert.
+You hear a low hum as the ship's weapons are powered up.
+ships
+I don't understand that.
+The viewport glows brightly for a split second before a blast of minicannon
+energy impacts the starship. The impact seems slightly lessened by the ship's
+ablative armor.
+The computer announces, "This ship has been hit by Outsider starship 'Rapid
+Assault Sigma Zzormk.'"
+You hear the sudden metallic complaints of the hull as a minicannon hit leaves
+several hull plates glowing white hot. The impact seems slightly lessened by the
+ship's ablative armor.
+The computer announces, "This ship has been hit by Outsider starship 'Rapid
+Assault Sigma Zzormk.'"
+use mini
+You prepare to use a minicannon resistance boost.
+(3 seconds roundtime.)
+damage
+Starship Damage:
+Turret 9: 26%.
+Turret 11: 8%.
+Armor: 17%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+You hear energy crackle over the hull of the ship as the engineer projects a
+mild electromagnetic shield to reduce damage from minicannon weapons.
+A minicannon resistance boost appears to have sixteen uses left.
+damage
+Starship Damage:
+Turret 9: 26%.
+Turret 11: 8%.
+Armor: 17%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+repair laser 9
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #9.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #9."
+Rose Lennex's voice comes over the loudspeaker and says, "Not fast enough. Here
+we go."
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+damage
+Starship Damage:
+Turret 9: 23%.
+Turret 11: 8%.
+Armor: 17%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+[General Communication] Ather Jammoa transmits, "The really really sad thing is
+I swear I would totally buy that thing if I came across a new type of
+exploration vessel which I needed to outfit."
+[General Communication] Ather Jammoa transmits, "The imager, that is."
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+[General Communication] Keegan Wantz transmits, "Delicious lenses."
+[General Communication] Keegan Wantz transmits, "I'm in the 'I can't really
+afford to buy it at the moment' boat."
+[General Communication] Keegan Wantz chuckles.
+You hear a loud bang above you somewhere as ship systems are repaired outside.
+[General Communication] Ather Jammoa transmits, "Yeah. It's a lot fucking easier
+to make back the 3 billion than it is to get six lenses."
+gen comm
+You turn general communication off.
+damage
+Starship Damage:
+Turret 9: 15%.
+Turret 11: 8%.
+Armor: 17%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "The gunner in Weapons Room Two has delivered a critical
+hit."
+You hear a loud bang above you somewhere as ship systems are repaired outside.
+damage
+Starship Damage:
+Turret 9: 11%.
+Turret 11: 8%.
+Armor: 17%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+use mini
+You prepare to use a minicannon resistance boost.
+(3 seconds roundtime.)
+You hear energy crackle over the hull of the ship as the engineer projects a
+mild electromagnetic shield to reduce damage from minicannon weapons.
+A minicannon resistance boost appears to have fifteen uses left.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    770/1100
+ Weapons Room Two        Morris Corlew                 934/1100
+ Weapons Room Three      Ted Warburton                 911/1100
+--
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+2
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have four uses left.
+The viewport glows brightly for a split second before a blast of minicannon
+energy impacts the starship. The impact seems slightly lessened by the ship's
+ablative armor.
+The computer announces, "This ship has been hit by Outsider starship 'Rapid
+Assault Sigma Zzormk.'"
+The hull creaks with too-rapid temperature changes as laser fire plays upon it.
+The impact seems slightly lessened by the ship's ablative armor.
+The computer announces, "This ship has been hit by Outsider starship 'Rapid
+Assault Sigma Zzormk.'"
+You hear the strange sizzling noise of laser fire on the hull. The impact seems
+slightly lessened by the ship's ablative armor.
+The computer announces, "This ship has been hit by Outsider starship 'Rapid
+Assault Sigma Zzormk.'"
+damage
+Starship Damage:
+Turret 9: 7%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 39%.
+HULL: 14%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+You wince as an extremely loud metallic bang emanates from outside the ship.
+repair hull
+You input a series of commands on the damage control computer, entering repair
+orders for the hull.
+(3 seconds roundtime.)
+The damage control computer reports, "Aborting repair of light turret #9 and
+beginning repair of the hull."
+use quick
+You prepare to use an expert quickpatch.
+(3 seconds roundtime.)
+Rose Lennex's voice comes over the loudspeaker and says, "That thing is a pain."
+Use that on which component?
+[Type a line of input or `@abort' to abort the command.]
+hull
+You hear a brief high-pitched hum as the engineer effects swift repair of a
+component.
+An expert quickpatch appears to have five uses left.
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 39%.
+HULL: 10%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+A ball of minicannon energy suddenly flashes by the window, then slams into the
+starship. The impact seems slightly lessened by the ship's ablative armor.
+The computer announces, "This ship has been hit by Outsider starship 'Rapid
+Assault Sigma Zzormk.'"
+damage
+Starship Damage:
+Turret 6: 22%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+HULL: 10%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    912/1100
+ Weapons Room Two        Morris Corlew                 777/1100
+ Weapons Room Three      Ted Warburton                 1097/1100
+--
+use damage
+You cannot use any ability of this type on the starship for another 11 seconds.
+use damage
+You cannot use any ability of this type on the starship for another 7 seconds.
+use damage
+You cannot use any ability of this type on the starship for another 5 seconds.
+damage
+Starship Damage:
+Turret 6: 22%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+HULL: 8%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    710/1100
+ Weapons Room Two        Morris Corlew                 626/1100
+ Weapons Room Three      Ted Warburton                 987/1100
+--
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+3
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have three uses left.
+You wince as an extremely loud metallic bang emanates from outside the ship.
+recharge
+You cannot use any special abilities on the starship for another 4 seconds.
+recharge
+You cannot use any special abilities on the starship for another 1 seconds.
+recharge
+You cannot use any special abilities on the starship for another 1 seconds.
+recharge
+You prepare to use an expert battle recharge.
+(3 seconds roundtime.)
+The ship's lights dim briefly as additional energy is shunted into the
+starship's weapon rooms.
+An expert battle recharge appears to have nineteen uses left.
+damage
+Starship Damage:
+Turret 6: 22%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+HULL: 6%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    766/1100
+ Weapons Room Two        Morris Corlew                 665/1100
+ Weapons Room Three      Ted Warburton                 1070/1100
+--
+recharge
+You cannot use any ability of this type on the starship for another 42 seconds.
+damage
+Starship Damage:
+Turret 6: 22%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+HULL: 4%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    615/1100
+ Weapons Room Two        Morris Corlew                 695/1100
+ Weapons Room Three      Ted Warburton                 862/1100
+--
+The computer announces, "Gunnery report: Top gun: Morris Corlew with 36.4% of
+confirmed hits. Other gunners: Ali Candan with 33.3% of confirmed hits and Ted
+Warburton with 30.3% of confirmed hits."
+The computer reports that the squire-class rapid assault ship "Rapid Assault
+Sigma Zzormk" has launched a rescue pod.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    715/1100
+ Weapons Room Two        Morris Corlew                 795/1100
+ Weapons Room Three      Ted Warburton                 762/1100
+--
+recharge
+You cannot use any ability of this type on the starship for another 17 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 10 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 2 seconds.
+recharge
+You prepare to use an expert battle recharge.
+(3 seconds roundtime.)
+The ship's lights dim briefly as additional energy is shunted into the
+starship's weapon rooms.
+An expert battle recharge appears to have eighteen uses left.
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+The computer announces, "The gunner in Weapons Room Three has caused the enemy's
+intrasector drive to seize."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    1041/1100
+ Weapons Room Two        Morris Corlew                 1100/1100
+ Weapons Room Three      Ted Warburton                 1063/1100
+--
+The computer announces, "Gunnery report: Ali Candan with 50.0% of confirmed hits
+and Morris Corlew with 50.0% of confirmed hits."
+The computer reports that the adapa "Fighter Psi Phi Upsilon" has launched a
+rescue pod.
+pa Wow1
+You speak into the microphone.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    1006/1100
+ Weapons Room Two        Morris Corlew                 1100/1100
+ Weapons Room Three      Ted Warburton                 1096/1100
+--
+The damage control computer reports, "Repair of the hull has been completed."
+damage
+Starship Damage:
+Turret 6: 22%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Rose Lennex's voice comes over the loudspeaker and says, "That was cool, do that
+all the time."
+damage
+Starship Damage:
+Turret 6: 22%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Morris Corlew's voice comes over the loudspeaker and says, "Ha!"
+repair laser 6
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #6.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #6."
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    911/1100
+ Weapons Room Two        Morris Corlew                 978/1100
+ Weapons Room Three      Ted Warburton                 949/1100
+--
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+2
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have two uses left.
+The computer announces, "The gunner in Weapons Room One has caused the enemy's
+intrasector drive to seize."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    897/1100
+ Weapons Room Two        Morris Corlew                 945/1100
+ Weapons Room Three      Ted Warburton                 983/1100
+--
+You hear a loud bang above you somewhere as ship systems are repaired outside.
+The computer announces, "Gunnery report: Top gun: Ali Candan with 50.0% of
+confirmed hits. Other gunners: Morris Corlew with 30.0% of confirmed hits and
+Ted Warburton with 20.0% of confirmed hits."
+The computer reports that the adapa "Fighter Beta Lambda Omicron" has launched a
+rescue pod.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    887/1100
+ Weapons Room Two        Morris Corlew                 922/1100
+ Weapons Room Three      Ted Warburton                 943/1100
+--
+damage
+Starship Damage:
+Turret 6: 16%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    909/1100
+ Weapons Room Two        Morris Corlew                 974/1100
+ Weapons Room Three      Ted Warburton                 995/1100
+--
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+The computer announces, "The gunner in Weapons Room Two has delivered a critical
+hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    846/1100
+ Weapons Room Two        Morris Corlew                 883/1100
+ Weapons Room Three      Ted Warburton                 901/1100
+--
+The computer announces, "Gunnery report: Ali Candan with 38.5% of confirmed
+hits, Morris Corlew with 38.5% of confirmed hits, and Ted Warburton with 23.1%
+of confirmed hits."
+The computer reports that the adapa "Fighter Delta Pi Chi" has launched a rescue
+pod.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    837/1100
+ Weapons Room Two        Morris Corlew                 842/1100
+ Weapons Room Three      Ted Warburton                 881/1100
+--
+Morris Corlew's voice comes over the loudspeaker and says, "Take that, Debris."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    911/1100
+ Weapons Room Two        Morris Corlew                 916/1100
+ Weapons Room Three      Ted Warburton                 956/1100
+--
+damage
+Starship Damage:
+Turret 6: 4%.
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 14%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+You wince as an extremely loud metallic bang emanates from outside the ship.
+The damage control computer reports, "Repair of light turret #6 has been
+completed."
+The computer announces, "The gunner in Weapons Room Two has delivered a glancing
+hit."
+The computer announces, "Gunnery report: Top gun: Ali Candan with 40.0% of
+confirmed hits. Other gunners: Morris Corlew with 30.0% of confirmed hits and
+Ted Warburton with 30.0% of confirmed hits."
+The computer reports that the adapa "Fighter Xi Gamma Epsilon" has launched a
+rescue pod.
+repair laser 12
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #12.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #12."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    896/1100
+ Weapons Room Two        Morris Corlew                 905/1100
+ Weapons Room Three      Ted Warburton                 990/1100
+--
+The computer announces, "The gunner in Weapons Room Two has delivered a critical
+hit."
+Small clinks of metal come from the hull of the ship as it's being repaired.
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    782/1100
+ Weapons Room Two        Morris Corlew                 812/1100
+ Weapons Room Three      Ted Warburton                 944/1100
+--
+The computer announces, "Gunnery report: Ali Candan with 37.5% of confirmed
+hits, Morris Corlew with 37.5% of confirmed hits, and Ted Warburton with 25.0%
+of confirmed hits."
+The computer reports that the adapa "Fighter Lambda Pi Tau" has launched a
+rescue pod.
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+3
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have one use left.
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Turret 12: 7%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+You wince as an extremely loud metallic bang emanates from outside the ship.
+The computer announces, "Gunnery report: Top gun: Ali Candan with 50.0% of
+confirmed hits. Other gunners: Morris Corlew with 25.0% of confirmed hits and
+Ted Warburton with 25.0% of confirmed hits."
+The computer reports that the adapa "Fighter Mu Phi Kappa" has launched a rescue
+pod.
+The computer announces, "The gunner in Weapons Room Two has caused the enemy's
+intrasector drive to seize."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    849/1100
+ Weapons Room Two        Morris Corlew                 903/1100
+ Weapons Room Three      Ted Warburton                 893/1100
+--
+ships
+I don't understand that.
+rd
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-2)
+Coordinate rundown:
+Starships: Corvette Xi Omicron Theta (S) at (12, 10, 10), Kartal (H) at (12, 11,
+11), and Fighter Upsilon Epsilon Eta (F) at (12, 11, 10)
+Debris: (10, 11, 10), (11, 11, 11)
+Small clinks of metal come from the hull of the ship as it's being repaired.
+The damage control computer reports, "Repair of light turret #12 has been
+completed."
+The computer announces, "The gunner in Weapons Room Three has delivered a
+glancing hit."
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    871/1100
+ Weapons Room Two        Morris Corlew                 887/1100
+ Weapons Room Three      Ted Warburton                 934/1100
+--
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "Gunnery report: Top gun: Morris Corlew with 57.1% of
+confirmed hits. Other gunners: Ali Candan with 28.6% of confirmed hits and Ted
+Warburton with 14.3% of confirmed hits."
+The computer reports that the adapa "Fighter Upsilon Epsilon Eta" has launched a
+rescue pod.
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+1
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost has been used up!
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    844/1100
+ Weapons Room Two        Morris Corlew                 864/1100
+ Weapons Room Three      Ted Warburton                 989/1100
+--
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-2)
+Coordinate rundown:
+Starships: Corvette Xi Omicron Theta (S) at (11, 11, 11) and Kartal (H) at (11,
+12, 11)
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "Gunnery report: Top gun: Ali Candan with 40.0% of
+confirmed hits. Other gunners: Ted Warburton with 30.0% of confirmed hits and
+Morris Corlew with 30.0% of confirmed hits."
+The computer reports that the enkidu "Corvette Xi Omicron Theta" has launched a
+rescue pod.
+You earn 5,000,000.00 AEU credits for a successful beacon drop, plus a kill
+bonus of 3,375,000.00 AEU credits, plus an enemy magnitude bonus of 1,000,000.00
+AEU credits.
+You earn a bonus of 3,671,875.00 AEU credits for submitting information to a
+battle analysis scanner on a temporary space station.
+468,750.00 credits of your income have gone toward your organization.
+[Notification from Starseekers] The organization has gained 6,889,040.47 credits
+for a submission from a battle analysis scanner on League Battle-Scanning
+Nuclear Temporary Station involving the five-person strike gunboat "Kartal".
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Morris Corlew's voice comes over the loudspeaker and says, "Wooooo!"
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Rose Lennex's voice comes over the loudspeaker and says, "Yay!"
+Ted Warburton's voice comes over the loudspeaker and says, "Nice work."
+Rose Lennex's voice comes over the loudspeaker and says, "How's our damage?"
+pa Just minor damage that I can fix except armor is at 50 percent.
+You speak into the microphone.
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Rose Lennex's voice comes over the loudspeaker and says, "Should we go back and
+repair, do you think, or are we good for another? If everyone wants another, of
+course."
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 8%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Ali Candan's voice comes over the loudspeaker and says, "Still good."
+Morris Corlew's voice comes over the loudspeaker and says, "I can do another."
+pa We're good for another.
+Ted Warburton's voice comes over the loudspeaker and says, "I can do more."
+You speak into the microphone.
+repair laser 11
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #11.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #11."
+Rose Lennex's voice comes over the loudspeaker and says, "Want to fly one
+Morris? I took the last one from you."
+You wince as an extremely loud metallic bang emanates from outside the ship.
+damage
+Starship Damage:
+Turret 9: 5%.
+Turret 11: 2%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+weapons
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    1100/1100
+ Weapons Room Two        Morris Corlew                 1100/1100
+ Weapons Room Three      Ted Warburton                 1100/1100
+--
+The damage control computer reports, "Repair of light turret #11 has been
+completed."
+repair laser 9
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #9.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #9."
+damage
+Starship Damage:
+Turret 9: 5%.
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Morris Corlew's voice comes over the loudspeaker and says, "Nah, Not unless we
+fix the armor."
+Ali Candan's voice comes over the loudspeaker and says, "Armor's good bro. Just
+yell if you need help."
+Small clinks of metal come from the hull of the ship as it's being repaired.
+Rose Lennex's voice comes over the loudspeaker and says, "If I ask very nicely?"
+pa You'll be fine.
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "Uh...I took Johann's
+to 100 the other day..."
+pa offer him a cookie.
+You speak into the microphone.
+The damage control computer reports, "Repair of light turret #9 has been
+completed."
+Morris Corlew's voice comes over the loudspeaker and says, "Pfft."
+Rose Lennex's voice comes over the loudspeaker and says, "I'll buy you a cookie.
+Also liquor."
+Morris Corlew's voice comes over the loudspeaker and says, "I've got liquor."
+pa You forgot the cherry on top.
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "And can get
+cookies."
+Ali Candan's voice comes over the loudspeaker and says, "Armor is meant to get
+to 100. I get it blown up all the time."
+Morris Corlew's voice comes over the loudspeaker and says, "Ok, ok ok."
+Rose Lennex's voice comes over the loudspeaker and says, "Yeeees!"
+Rose Lennex's voice comes over the loudspeaker and says, "I am excited."
+A low hum you had barely noticed until now slowly fades away as weapons are
+powered down.
+Morris Corlew's voice comes over the loudspeaker and says, "Standard out."
+pa In terms of armor, so do I on my ships. 'Oh wait, I don't have armor on my
+ships.
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "Ha...Shule you are
+funny."
+Ted Warburton's voice comes over the loudspeaker and says, "Nor do I, we shoot
+them first."
+Rose Lennex's voice comes over the loudspeaker and says, "Heh."
+Ted Warburton's voice comes over the loudspeaker and says, "16 chains in one
+room on a Phanta."
+pa rock on!
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "Imagine if that were
+lasers. Can you see the strain on that grid? Oy."
+pa Still love my pulsar!
+You speak into the microphone.
+Ali Candan's voice comes over the loudspeaker and says, "Just one shot."
+Ted Warburton's voice comes over the loudspeaker and says, "It's bad enough with
+chains."
+Ted Warburton's voice comes over the loudspeaker and says, "Yeah, nice ship."
+weapons
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    1100/1100
+ Weapons Room Two        Rose Lennex                   1100/1100
+ Weapons Room Three      Ted Warburton                 1100/1100
+--
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A loud klaxon sounds and red lights flash overhead as the ship enters red alert.
+You hear a low hum as the ship's weapons are powered up.
+ships
+I don't understand that.
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-2)
+Coordinate rundown:
+Starships: Warship Omega Lambda Pi (G) at (14, 13, 9), Fighter Lambda Mu Delta
+(F) at (7, 18, 1), Fighter Xi Xi Pi (F) at (15, 17, 4), Fighter Kappa Iota Gamma
+(F) at (11, 14, 5), Fighter Alpha Lambda Phi (F) at (20, 9, 12), Fighter Omega
+Pi Eta (F) at (18, 8, 17), and Kartal (H) at (6, 6, 6)
+pa Woo! No rapid!
+You speak into the microphone.
+Rose Lennex's voice comes over the loudspeaker and says, "Yay!"
+Ted Warburton's voice comes over the loudspeaker and says, "Standard."
+Rose Lennex's voice comes over the loudspeaker and says, "Oh yeah, I forgot."
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+pa Think I've actually gotten a rapid on a standard in my pulsar.
+You speak into the microphone.
+The computer announces, "Gunnery report: Top gun: Ali Candan with 44.4% of
+confirmed hits. Other gunners: Rose Lennex with 33.3% of confirmed hits and Ted
+Warburton with 22.2% of confirmed hits."
+The computer reports that the adapa "Fighter Omega Pi Eta" has launched a rescue
+pod.
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+daage
+I don't understand that.
+damage
+Starship Damage:
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+damage
+Starship Damage:
+Armor: 50%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    913/1100
+ Weapons Room Two        Rose Lennex                   993/1100
+ Weapons Room Three      Ted Warburton                 924/1100
+--
+The deck jumps underneath your feet as a torpedo explodes against the hull. The
+impact seems slightly lessened by the ship's ablative armor.
+The computer announces, "This ship has been hit by Outsider Thrall starship
+'Fighter Alpha Lambda Phi.'"
+use torpedo
+You prepare to use a torpedo resistance boost.
+(3 seconds roundtime.)
+You hear energy crackle over the hull of the ship as the engineer projects a
+mild electromagnetic shield to reduce damage from torpedo weapons.
+A torpedo resistance boost appears to have fifty-five uses left.
+damage
+Starship Damage:
+Turret 4: 18%.
+Armor: 59%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "Gunnery report: Top gun: Ali Candan with 44.4% of
+confirmed hits. Other gunners: Ted Warburton with 33.3% of confirmed hits and
+Rose Lennex with 22.2% of confirmed hits."
+The computer reports that the adapa "Fighter Alpha Lambda Phi" has launched a
+rescue pod.
+repair laser 4
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #4.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #4."
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+damage
+Starship Damage:
+Turret 4: 14%.
+Armor: 59%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+You wince as an extremely loud metallic bang emanates from outside the ship.
+The computer announces, "The gunner in Weapons Room One has delivered a critical
+hit."
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+damage
+Starship Damage:
+Turret 4: 10%.
+Armor: 59%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    770/1100
+ Weapons Room Two        Rose Lennex                   891/1100
+ Weapons Room Three      Ted Warburton                 785/1100
+--
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+Small clinks of metal come from the hull of the ship as it's being repaired.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    699/1100
+ Weapons Room Two        Rose Lennex                   805/1100
+ Weapons Room Three      Ted Warburton                 712/1100
+--
+recharge
+You prepare to use an expert battle recharge.
+(3 seconds roundtime.)
+A number of coherent beams of weaponized light flash by the window as the
+starship shudders under laser fire. The impact seems slightly lessened by the
+ship's ablative armor.
+The computer announces, "This ship has been hit by Outsider Thrall starship
+'Warship Omega Lambda Pi.'"
+The ship's lights dim briefly as additional energy is shunted into the
+starship's weapon rooms.
+An expert battle recharge appears to have seventeen uses left.
+You hear the strange sizzling noise of laser fire on the hull. The impact seems
+slightly lessened by the ship's ablative armor.
+The computer announces, "This ship has been hit by Outsider Thrall starship
+'Warship Omega Lambda Pi.'"
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+use mini
+You prepare to use a minicannon resistance boost.
+(3 seconds roundtime.)
+You hear energy crackle over the hull of the ship as the engineer projects a
+mild electromagnetic shield to reduce damage from minicannon weapons.
+A minicannon resistance boost appears to have fourteen uses left.
+damage
+Starship Damage:
+Turret 4: 4%.
+Turret 11: 2%.
+Armor: 64%.
+HULL: 4%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+repair hull
+You input a series of commands on the damage control computer, entering repair
+orders for the hull.
+(3 seconds roundtime.)
+The damage control computer reports, "Aborting repair of light turret #4 and
+beginning repair of the hull."
+You wince as an extremely loud metallic bang emanates from outside the ship.
+damage
+Starship Damage:
+Turret 4: 4%.
+Turret 11: 2%.
+Armor: 64%.
+HULL: 4%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    825/1100
+ Weapons Room Two        Rose Lennex                   912/1100
+ Weapons Room Three      Ted Warburton                 888/1100
+--
+The computer announces, "The gunner in Weapons Room Two has delivered a glancing
+hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    675/1100
+ Weapons Room Two        Rose Lennex                   936/1100
+ Weapons Room Three      Ted Warburton                 738/1100
+--
+recharge
+You cannot use any ability of this type on the starship for another 14 seconds.
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+2
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have twenty-nine uses left.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    462/1100
+ Weapons Room Two        Rose Lennex                   722/1100
+ Weapons Room Three      Ted Warburton                 725/1100
+--
+The computer announces, "The gunner in Weapons Room Two has delivered a glancing
+hit."
+You hear a loud bang above you somewhere as ship systems are repaired outside.
+recharge
+You cannot use any special abilities on the starship for another 1 seconds.
+recharge
+You prepare to use an expert battle recharge.
+(3 seconds roundtime.)
+The ship's lights dim briefly as additional energy is shunted into the
+starship's weapon rooms.
+An expert battle recharge appears to have sixteen uses left.
+use laser
+You cannot use any special abilities on the starship for another 5 seconds.
+use laser
+You cannot use any special abilities on the starship for another 3 seconds.
+The computer announces, "The gunner in Weapons Room One has delivered a glancing
+hit."
+use laser
+You cannot use any special abilities on the starship for another 1 seconds.
+The computer announces, "The gunner in Weapons Room Two has delivered a glancing
+hit."
+use laser
+You prepare to use a laser resistance boost.
+(3 seconds roundtime.)
+You hear energy crackle over the hull of the ship as the engineer projects a
+mild electromagnetic shield to reduce damage from laser weapons.
+A laser resistance boost appears to have fifty-nine uses left.
+The damage control computer reports, "Repair of the hull has been completed."
+damage
+Starship Damage:
+Turret 4: 4%.
+Turret 11: 2%.
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+repair laser 4
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #4.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #4."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    362/1100
+ Weapons Room Two        Rose Lennex                   880/1100
+ Weapons Room Three      Ted Warburton                 800/1100
+--
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+use dump
+You cannot use any ability of this type on the starship for another 20 seconds.
+The computer announces, "The gunner in Weapons Room Two has delivered a glancing
+hit."
+pa 20 seconds, Ali.
+You speak into the microphone.
+The damage control computer reports, "Repair of light turret #4 has been
+completed."
+repair laser 11
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #11.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of light turret #11."
+use dump
+Morris Corlew's voice comes over the loudspeaker and says, "Damn chains."
+Wait 1 seconds.
+use dump
+You cannot use any ability of this type on the starship for another 3 seconds.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    304/1100
+ Weapons Room Two        Rose Lennex                   836/1100
+ Weapons Room Three      Ted Warburton                 774/1100
+--
+use dump
+You prepare to use an expert energy dump.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+1
+The ship's lights dim briefly as additional energy is shunted into a weapon
+room's combat energy grid.
+An expert energy dump appears to have eighteen uses left.
+The damage control computer reports, "Repair of light turret #11 has been
+completed."
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+use laser
+You prepare to use a laser resistance boost.
+(3 seconds roundtime.)
+You hear energy crackle over the hull of the ship as the engineer projects a
+mild electromagnetic shield to reduce damage from laser weapons.
+A laser resistance boost appears to have fifty-eight uses left.
+The computer announces, "Gunnery report: Top gun: Ali Candan with 37.5% of
+confirmed hits. Other gunners: Ted Warburton with 32.5% of confirmed hits and
+Rose Lennex with 30.0% of confirmed hits."
+The computer reports that the nanshe "Warship Omega Lambda Pi" has launched a
+rescue pod.
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    579/1100
+ Weapons Room Two        Rose Lennex                   891/1100
+ Weapons Room Three      Ted Warburton                 860/1100
+--
+recharge
+You cannot use any ability of this type on the starship for another 17 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 6 seconds.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    780/1100
+ Weapons Room Two        Rose Lennex                   949/1100
+ Weapons Room Three      Ted Warburton                 902/1100
+--
+use dump
+You prepare to use an expert energy dump.
+(3 seconds roundtime.)
+n
+Wait 1 seconds.
+n
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+Invalid weapon room.
+The computer announces, "The gunner in Weapons Room One has delivered a critical
+hit."
+The computer announces, "Gunnery report: Ali Candan with 33.3% of confirmed
+hits, Rose Lennex with 33.3% of confirmed hits, and Ted Warburton with 33.3% of
+confirmed hits."
+The computer reports that the adapa "Fighter Xi Xi Pi" has launched a rescue
+pod.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    834/1100
+ Weapons Room Two        Rose Lennex                   891/1100
+ Weapons Room Three      Ted Warburton                 923/1100
+--
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-2)
+Coordinate rundown:
+Starships: Fighter Kappa Iota Gamma (F) at (13, 8, 9), Kartal (H) at (13, 9, 8),
+and Fighter Lambda Mu Delta (F) at (12, 9, 8)
+Debris: (14, 6, 13), (13, 6, 11), (13, 10, 8)
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    873/1100
+ Weapons Room Two        Rose Lennex                   957/1100
+ Weapons Room Three      Ted Warburton                 990/1100
+--
+The computer announces, "The gunner in Weapons Room One has delivered a glancing
+hit."
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "Gunnery report: Ali Candan with 37.5% of confirmed
+hits, Ted Warburton with 37.5% of confirmed hits, and Rose Lennex with 25.0% of
+confirmed hits."
+The computer reports that the adapa "Fighter Kappa Iota Gamma" has launched a
+rescue pod.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Ali Candan                    855/1100
+ Weapons Room Two        Rose Lennex                   928/1100
+ Weapons Room Three      Ted Warburton                 943/1100
+--
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-2)
+Coordinate rundown:
+Starships: Fighter Lambda Mu Delta (F) at (13, 8, 8) and Kartal (H) at (13, 10,
+9)
+Debris: (14, 6, 13), (13, 6, 11), (13, 10, 8)
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+The computer announces, "The gunner in Weapons Room Two has delivered a glancing
+hit."
+The computer announces, "The gunner in Weapons Room Three has caused the enemy's
+intrasector drive to seize."
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "Gunnery report: Top gun: Ali Candan with 40.0% of
+confirmed hits. Other gunners: Rose Lennex with 30.0% of confirmed hits and Ted
+Warburton with 30.0% of confirmed hits."
+The computer reports that the adapa "Fighter Lambda Mu Delta" has launched a
+rescue pod.
+You earn 3,000,000.00 AEU credits for a successful beacon drop, plus a kill
+bonus of 2,250,000.00 AEU credits, plus an enemy magnitude bonus of 600,000.00
+AEU credits.
+You earn a bonus of 2,291,250.00 AEU credits for submitting information to a
+battle analysis scanner on a temporary space station.
+292,500.00 credits of your income have gone toward your organization.
+[Notification from Starseekers] The organization has gained 4,133,424.28 credits
+for a submission from a battle analysis scanner on League Battle-Scanning
+Nuclear Temporary Station involving the five-person strike gunboat "Kartal".
+Morris Corlew's voice comes over the loudspeaker and says, "Woo!"
+pa Just armor at 64 percent.
+You speak into the microphone.
+Rose Lennex's voice comes over the loudspeaker and says, "Yay!"
+Ted Warburton's voice comes over the loudspeaker and says, "Nice."
+pa You did just fine!
+Morris Corlew's voice comes over the loudspeaker and says, "That's all?"
+You speak into the microphone.
+pa That's all she  wrote.
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "Woo!"
+Ali Candan's voice comes over the loudspeaker and says, "You twice moved in
+where you just got departed, however. Just keep them in your mind and you can
+fly very highs."
+pa Heh, I think he'd like to try a high before a very high, Ali.
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "Shoot south and
+down."
+Ali Candan's voice comes over the loudspeaker and says, "Run an overdriven
+Shuly."
+Morris Corlew's voice comes over the loudspeaker and says, "Someone shoot down
+and south?"
+pa hehehe
+You speak into the microphone.
+Ted Warburton's voice comes over the loudspeaker and says, "Can't."
+Rose Lennex's voice comes over the loudspeaker and says, "There's nothing
+there...?"
+Ali Candan's voice comes over the loudspeaker and says, "North and down guys,
+not south."
+Morris Corlew's voice comes over the loudspeaker and says, "North and down,
+sorry."
+Rose Lennex's voice comes over the loudspeaker and says, "Ooooh."
+pa I  shall do it in your cruiser, Ali.
+You speak into the microphone.
+Ali Candan's voice comes over the loudspeaker and says, "Done."
+Morris Corlew's voice comes over the loudspeaker and says, "Thanks."
+You hear a single beep and glance up to see green lights flick on overhead as
+the ship enters normal status.
+A low hum you had barely noticed until now slowly fades away as weapons are
+powered down.
+The starship transitions into another sector.
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-1)
+Coordinate rundown:
+Starships: Kartal (H) at (8, 9, 9)
+peer s
+You peer south...
+[Starship "Kartal"; Storage Room]
+Lights overhead indicate that the ship is on green status. Looking through the
+windows, you see that the ship is in space.
+You see an ammunition storage box, twelve of a fractured processing unit, nine
+of a landing gear strut, forty-five of an interior panel, forty-four of an
+unidentifiable starship component, forty-five of an intact hull plate, some
+starship debris, fourteen of a part of a ship-to-ship chain, most of a sensor
+component, some starship debris, three of a portion of a wormhole drive, some
+starship debris, some starship debris, some starship debris, some starship
+debris, some starship debris, six of a hydraulic assembly, some starship debris,
+and some starship debris here.
+You can go north.
+The starship transitions into another sector.
+Morris Corlew's voice comes over the loudspeaker and says, "Gonna go feed the
+beast."
+Ali Candan's voice comes over the loudspeaker and says, "Help we're surrounded
+by sectors."
+The starship transitions into another sector.
+Rose Lennex's voice comes over the loudspeaker and says, "Oh no!"
+Morris Corlew's voice comes over the loudspeaker and says, "Ha!"
+Rose Lennex's voice comes over the loudspeaker and says, "Ali, can I have a
+snoop in the storage room? I'm after a component."
+pa Frightening!
+You speak into the microphone.
+Ali Candan's voice comes over the loudspeaker and says, "Get whatever."
+Rose Lennex's voice comes over the loudspeaker and says, "Thanks."
+Rose Lennex lopes in from the north.
+Rose Lennex lopes south.
+per s
+I don't understand that ("s" is an ambiguous name).
+peer s
+You peer south...
+[Starship "Kartal"; Storage Room]
+Lights overhead indicate that the ship is on green status. Looking through the
+windows, you see that the ship is in space.
+You see an ammunition storage box, twelve of a fractured processing unit, nine
+of a landing gear strut, forty-five of an interior panel, forty-four of an
+unidentifiable starship component, forty-five of an intact hull plate, some
+starship debris, fourteen of a part of a ship-to-ship chain, most of a sensor
+component, some starship debris, three of a portion of a wormhole drive, some
+starship debris, some starship debris, some starship debris, some starship
+debris, some starship debris, six of a hydraulic assembly, some starship debris,
+and some starship debris here.
+Rose Lennex is standing here.
+You can go north.
+Ted Warburton's voice comes over the loudspeaker and says, "Are we done, or
+doing more?"
+Ali Candan's voice comes over the loudspeaker and says, "I'm up for more."
+Morris Corlew's voice comes over the loudspeaker and says, "That's up to you
+folks. I could do another."
+Rose Lennex's voice comes over the loudspeaker and says, "Me too."
+Morris Corlew's voice comes over the loudspeaker and says, "Ok. Let me feed the
+beast and then Ted can fly."
+Rose Lennex lopes in from the south.
+Rose Lennex lopes north.
+Ted Warburton's voice comes over the loudspeaker and says, "Not in this thing."
+Morris Corlew's voice comes over the loudspeaker and says, "Fly a low."
+Ted Warburton's voice comes over the loudspeaker and says, "Not yet anyway."
+[Notification from Starseekers] A load of salvage has been received at League
+Xenological Salvage Processing Debris-Burning Message Beacon from the
+five-person strike gunboat "Kartal". The organization has earned 641,877.99
+credits.
+Ted Warburton's voice comes over the loudspeaker and says, "Nah, I want smaller
+ships first."
+Morris Corlew's voice comes over the loudspeaker and says, "Fly a very low. You
+can do it."
+Morris Corlew's voice comes over the loudspeaker and says, "They will be."
+Morris Corlew's voice comes over the loudspeaker and says, "That was a standard.
+All fighters and one warship."
+pa Ted, I'll take you in my corvette if you want.
+You speak into the microphone.
+pa Some time.
+You speak into the microphone.
+Ali Candan's voice comes over the loudspeaker and says, "Is that what they call
+it nowadays, Shule?"
+Morris Corlew's voice comes over the loudspeaker and says, "Ha!"
+Ted Warburton's voice comes over the loudspeaker and says, "Oi."
+pa hahaha
+You speak into the microphone.
+Rose Lennex's voice comes over the loudspeaker and says, "*whistles*."
+Morris Corlew's voice comes over the loudspeaker and says, "Ok, so who's
+flying?"
+Ali Candan's voice comes over the loudspeaker and says, "I'll get the helm this
+round."
+The starship transitions into another sector.
+pa Overdriven, Ali.
+You speak into the microphone.
+The starship transitions into another sector.
+Ali Candan's voice comes over the loudspeaker and says, "Those veterans kick ass
+hard."
+Ted Warburton's voice comes over the loudspeaker and says, "Dare ya, no not
+really."
+Ali Candan's voice comes over the loudspeaker and says, "With their modified
+stupid ships."
+pa I bet they do.
+You speak into the microphone.
+Rose Lennex's voice comes over the loudspeaker and says, "What did you put out?"
+Ali Candan's voice comes over the loudspeaker and says, "Overdriven."
+Morris Corlew's voice comes over the loudspeaker and says, "Pffffft!"
+Ali Candan's voice comes over the loudspeaker and says, "I've ran a very high in
+this thing. It was challenging enough."
+Rose Lennex's voice comes over the loudspeaker and says, "Nice."
+Ali Candan's voice comes over the loudspeaker and says, "Besides it's almost a
+billion and 200 million credits, no need in destroying my love."
+pa We did a very high in Blake's cruiser with Keegan flying the other day.
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "Yeah, I don't
+exactly feel like going home in a pod twice in one week..."
+pa Well, we attempted it.
+You speak into the microphone.
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+Morris Corlew's voice comes over the loudspeaker and says, "Yeah...Also, we
+don't need to lose any League ships this conquest...just sayin'"
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-1)
+Coordinate rundown:
+Starships: Warship Theta Sigma Lambda (G) at (13, 8, 11), Fighter Epsilon
+Zzormui (F) at (9, 19, 5), Fighter Phi Zzormt (F) at (3, 13, 3), Fighter Beta
+Alpha Eta (F) at (4, 18, 9), Fighter Beta Omega Delta (F) at (13, 11, 20),
+Fighter Epsilon Lambda Eta (F) at (18, 14, 2), Fighter Psi Tau Nu (F) at (8, 4,
+12), Fighter Epsilon Pi Lambda (F) at (7, 18, 5), Fighter Delta Eta Delta (F) at
+(16, 12, 15), and Kartal (H) at (9, 10, 10)
+Rose Lennex's voice comes over the loudspeaker and says, "True."
+Ali Candan's voice comes over the loudspeaker and says, "What do you think?
+Would you do any better flying it? Or just chance."
+A loud klaxon sounds and red lights flash overhead as the ship enters red alert.
+You hear a low hum as the ship's weapons are powered up.
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+Ali Candan's voice comes over the loudspeaker and says, "Minis."
+Ali Candan's voice comes over the loudspeaker and says, "Warship Shule."
+Morris Corlew's voice comes over the loudspeaker and says, "Copy that."
+pa Damn, are all those thrawls?
+You speak into the microphone.
+Ali Candan's voice comes over the loudspeaker and says, "Yup."
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+3
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have twenty-eight uses left.
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "The gunner in Weapons Room Two has temporarily reduced
+the enemy's weapon effectiveness."
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Ali Candan's voice comes over the loudspeaker and says, "Pretty annoying."
+pa Yeah
+You speak into the microphone.
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 803/1100
+ Weapons Room Two        Rose Lennex                   853/1100
+ Weapons Room Three      Ted Warburton                 928/1100
+--
+use damage
+You cannot use any ability of this type on the starship for another 15 seconds.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 777/1100
+ Weapons Room Two        Rose Lennex                   826/1100
+ Weapons Room Three      Ted Warburton                 858/1100
+--
+recharge
+You prepare to use an expert battle recharge.
+(3 seconds roundtime.)
+The computer announces, "The gunner in Weapons Room Two has delivered a critical
+hit."
+The ship's lights dim briefly as additional energy is shunted into the
+starship's weapon rooms.
+An expert battle recharge appears to have fifteen uses left.
+Ali Candan's voice comes over the loudspeaker and says, "50 30."
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 879/1100
+ Weapons Room Two        Rose Lennex                   800/1100
+ Weapons Room Three      Ted Warburton                 830/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 740/1100
+ Weapons Room Two        Rose Lennex                   673/1100
+ Weapons Room Three      Ted Warburton                 705/1100
+--
+recharge
+You cannot use any ability of this type on the starship for another 17 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 14 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 12 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 10 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 8 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 6 seconds.
+recharge
+You cannot use any ability of this type on the starship for another 4 seconds.
+Ali Candan's voice comes over the loudspeaker and says, "70 60."
+recharge
+You cannot use any ability of this type on the starship for another 1 seconds.
+recharge
+You prepare to use an expert battle recharge.
+(3 seconds roundtime.)
+The ship's lights dim briefly as additional energy is shunted into the
+starship's weapon rooms.
+An expert battle recharge appears to have fourteen uses left.
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 863/1100
+ Weapons Room Two        Rose Lennex                   609/1100
+ Weapons Room Three      Ted Warburton                 833/1100
+--
+use damage
+You cannot use any special abilities on the starship for another 2 seconds.
+The computer announces, "Gunnery report: Top gun: Morris Corlew with 40.7% of
+confirmed hits. Other gunners: Ted Warburton with 29.6% of confirmed hits and
+Rose Lennex with 29.6% of confirmed hits."
+use damage
+The computer reports that the nanshe "Warship Theta Sigma Lambda" has launched a
+rescue pod.
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+n
+Wait 1 seconds.
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+n
+Invalid weapon room.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 625/1100
+ Weapons Room Two        Rose Lennex                   571/1100
+ Weapons Room Three      Ted Warburton                 796/1100
+--
+recharge
+You cannot use any ability of this type on the starship for another 36 seconds.
+Ali Candan's voice comes over the loudspeaker and says, "East and up."
+Ali Candan's voice comes over the loudspeaker and says, "Chains."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 780/1100
+ Weapons Room Two        Rose Lennex                   842/1100
+ Weapons Room Three      Ted Warburton                 893/1100
+--
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 805/1100
+ Weapons Room Two        Rose Lennex                   854/1100
+ Weapons Room Three      Ted Warburton                 905/1100
+--
+The computer announces, "Gunnery report: Morris Corlew with 37.5% of confirmed
+hits, Rose Lennex with 37.5% of confirmed hits, and Ted Warburton with 25.0% of
+confirmed hits."
+The computer reports that the adapa "Fighter Psi Tau Nu" has launched a rescue
+pod.
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-1)
+Coordinate rundown:
+Starships: Fighter Delta Eta Delta (F) at (13, 9, 12), Fighter Epsilon Lambda
+Eta (F) at (12, 9, 8), Fighter Phi Zzormt (F) at (9, 9, 10), Fighter Beta Omega
+Delta (F) at (10, 8, 13), Fighter Epsilon Pi Lambda (F) at (10, 11, 10), Fighter
+Epsilon Zzormui (F) at (10, 9, 10), Fighter Beta Alpha Eta (F) at (10, 11, 9),
+and Kartal (H) at (9, 8, 9)
+Debris: (10, 8, 11)
+sm
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-1)
+(1, 20, z)  (20, 20, z)      (1, y, 20)   (20, y, 20)
+           --
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |  ^     |                    |  ^
+|                    |  |     |         F          |  |
+|                    |Y-axis  |            F       |Z-axis
+|         F          |        |         ~          |
+|                    |        |        FF          |
+|        FF FF       |        |         F          |
+|         F          |        |           F        |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+|                    |        |                    |
+           --
+       X-axis ->                     X-axis ->
+(1, 1, z)    (20, 1, z)      (1, y, 1)     (20, y, 1)
+League: Kartal (X)
+Outsider: Fighter Phi Zzormt (F) and Fighter Epsilon Zzormui (F)
+Outsider Thrall: Fighter Delta Eta Delta (F), Fighter Epsilon Lambda Eta (F),
+Fighter Beta Omega Delta (F), Fighter Epsilon Pi Lambda (F), and Fighter Beta
+Alpha Eta (F)
+Current Coordinates: (10, 9, 9)
+Ali Candan's voice comes over the loudspeaker and says, "Northwest."
+grid
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 935/1100
+ Weapons Room Two        Rose Lennex                   958/1100
+ Weapons Room Three      Ted Warburton                 956/1100
+--
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 881/1100
+ Weapons Room Two        Rose Lennex                   827/1100
+ Weapons Room Three      Ted Warburton                 893/1100
+--
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "The gunner in Weapons Room Three has temporarily
+reduced the enemy's weapon effectiveness."
+The computer announces, "Gunnery report: Top gun: Rose Lennex with 40.0% of
+confirmed hits. Other gunners: Morris Corlew with 30.0% of confirmed hits and
+Ted Warburton with 30.0% of confirmed hits."
+The computer reports that the adapa "Fighter Beta Alpha Eta" has launched a
+rescue pod.
+The computer announces, "Gunnery report: Morris Corlew with 50.0% of confirmed
+hits and Rose Lennex with 50.0% of confirmed hits."
+The computer reports that the adapa "Fighter Epsilon Lambda Eta" has launched a
+rescue pod.
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+The computer announces, "Gunnery report: Ted Warburton had all confirmed hits."
+The computer reports that the adapa "Fighter Beta Omega Delta" has launched a
+rescue pod.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 857/1100
+ Weapons Room Two        Rose Lennex                   917/1100
+ Weapons Room Three      Ted Warburton                 899/1100
+--
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+gen comm
+You turn general communication on.
+who
+There appear to be 22 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Johann Rowan  (L)
+Jada Nelson  (L)
+Nicolette of None  (L)
+Rose Lennex  (L)
+Morris Corlew  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Sakura Arakida  (L)
+Seneca Morris  (L)
+Ali Candan  (L)
+Nissi Valdaire  (L) [a]
+Dominique Henderson  (F)
+Damien Alexander  (F)
+Rogue Romano  (F)
+Emmett Lee  (F) [c]
+Ted Warburton  (F)
+Evenia Callseah  (F)
+Keegan Wantz  (F)
+Aisling the Fox  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 35 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+The ship jerks suddenly as a loud clang is heard, followed by an unsettling
+rattling noise against the hull.
+tra gen Hi Eve.
+[General Communication] Shule Elemmire transmits, "Hi Eve."
+The computer announces, "The gunner in Weapons Room Two has delivered a glancing
+hit."
+The computer announces, "The gunner in Weapons Room Two has delivered a critical
+hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 882/1100
+ Weapons Room Two        Rose Lennex                   1023/1100
+ Weapons Room Three      Ted Warburton                 871/1100
+--
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+The computer announces, "Gunnery report: Top gun: Morris Corlew with 42.9% of
+confirmed hits. Other gunners: Ted Warburton with 28.6% of confirmed hits and
+Rose Lennex with 28.6% of confirmed hits."
+The computer reports that the adapa "Fighter Delta Eta Delta" has launched a
+rescue pod.
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 840/1100
+ Weapons Room Two        Rose Lennex                   933/1100
+ Weapons Room Three      Ted Warburton                 831/1100
+--
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+2
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have twenty-seven uses left.
+The computer announces, "The gunner in Weapons Room Three has caused the enemy's
+intrasector drive to seize."
+The computer announces, "Gunnery report: Rose Lennex with 40.0% of confirmed
+hits, Ted Warburton with 40.0% of confirmed hits, and Morris Corlew with 20.0%
+of confirmed hits."
+The computer reports that the adapa "Fighter Epsilon Pi Lambda" has launched a
+rescue pod.
+The computer announces, "The gunner in Weapons Room Three has delivered a
+glancing hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 867/1100
+ Weapons Room Two        Rose Lennex                   902/1100
+ Weapons Room Three      Ted Warburton                 857/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 867/1100
+ Weapons Room Two        Rose Lennex                   873/1100
+ Weapons Room Three      Ted Warburton                 842/1100
+--
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-1)
+Coordinate rundown:
+Starships: Fighter Epsilon Zzormui (F) at (11, 10, 11), Fighter Phi Zzormt (F)
+at (10, 11, 11), and Kartal (H) at (10, 10, 11)
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-1)
+Coordinate rundown:
+Starships: Fighter Epsilon Zzormui (F) at (11, 10, 11), Fighter Phi Zzormt (F)
+at (10, 11, 11), and Kartal (H) at (10, 10, 11)
+The computer announces, "Gunnery report: Top gun: Ted Warburton with 44.4% of
+confirmed hits. Other gunners: Morris Corlew with 33.3% of confirmed hits and
+Rose Lennex with 22.2% of confirmed hits."
+The computer reports that the villein-class light fighter "Fighter Epsilon
+Zzormui" has launched a rescue pod.
+The computer announces, "The gunner in Weapons Room Three has delivered a
+critical hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 719/1100
+ Weapons Room Two        Rose Lennex                   889/1100
+ Weapons Room Three      Ted Warburton                 820/1100
+--
+[Notification from Starseekers] A load of salvage has been received at League
+Xenological Salvage Processing Debris-Burning Message Beacon from the one-person
+cargo hauler "Fireball". The organization has earned 56,622.04 credits.
+use damage
+You prepare to use an expert damage output boost.
+(3 seconds roundtime.)
+Which weapon room?
+[Type a line of input or `@abort' to abort the command.]
+2
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An expert damage output boost appears to have twenty-six uses left.
+The computer announces, "The gunner in Weapons Room One has temporarily reduced
+the enemy's weapon effectiveness."
+You hear a cascade of light clinking sounds as the chainguns are reloaded.
+You hear a single beep and glance up to see green lights flick on overhead as
+the ship enters normal status.
+A low hum you had barely noticed until now slowly fades away as weapons are
+powered down.
+The computer announces, "Gunnery report: Top gun: Morris Corlew with 38.5% of
+confirmed hits. Other gunners: Ted Warburton with 30.8% of confirmed hits and
+Rose Lennex with 30.8% of confirmed hits."
+The computer reports that the villein-class light fighter "Fighter Phi Zzormt"
+has launched a rescue pod.
+You earn 5,000,000.00 AEU credits for a successful beacon drop, plus a kill
+bonus of 3,375,000.00 AEU credits, plus an enemy magnitude bonus of 1,000,000.00
+AEU credits.
+You earn a bonus of 3,671,875.00 AEU credits for submitting information to a
+battle analysis scanner on a temporary space station.
+468,750.00 credits of your income have gone toward your organization.
+[Notification from Starseekers] The organization has gained 6,889,040.47 credits
+for a submission from a battle analysis scanner on League Battle-Scanning
+Nuclear Temporary Station involving the five-person strike gunboat "Kartal".
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room One        Morris Corlew                 840/1100
+ Weapons Room Two        Rose Lennex                   857/1100
+ Weapons Room Three      Ted Warburton                 842/1100
+--
+Morris Corlew's voice comes over the loudspeaker and says, "Woo!!!"
+damage
+Starship Damage:
+Armor: 64%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Ted Warburton's voice comes over the loudspeaker and says, "Wow."
+Rose Lennex's voice comes over the loudspeaker and says, "Nice."
+pa still just armor at 64 percent.
+You speak into the microphone.
+Ali Candan's voice comes over the loudspeaker and says, "More?"
+Ted Warburton's voice comes over the loudspeaker and says, "Can do."
+pa I actually need to bail.
+You speak into the microphone.
+Morris Corlew's voice comes over the loudspeaker and says, "I do too,
+unfortunately."
+Ali Candan's voice comes over the loudspeaker and says, "Laters then."
+Rose Lennex's voice comes over the loudspeaker and says, "Thanks for these, Ali.
+I always like them."
+The starship transitions into another sector.
+Rose Lennex lopes in from the north.
+Morris Corlew's voice comes over the loudspeaker and says, "Ali, may I raid
+storage?"
+Rose Lennex lopes south.
+Ted Warburton's voice comes over the loudspeaker and says, "Yeah, same."
+Ted Warburton wanders in from the north.
+s
+Ted Warburton wanders south.
+You scramble to your feet.
+[Starship "Kartal"; Storage Room]
+You see an ammunition storage box, sixteen of a fractured processing unit,
+sixteen of a landing gear strut, sixty-eight of an interior panel, sixty-seven
+of an unidentifiable starship component, sixty-nine of an intact hull plate,
+twenty-one of a part of a ship-to-ship chain, two of most of a sensor component,
+six of a portion of a wormhole drive, twelve of a hydraulic assembly, a damaged
+alien computer system, a damaged alien computer system, some starship debris,
+some starship debris, some starship debris, some starship debris, some starship
+debris, and some starship debris here.
+Rose Lennex and Ted Warburton are standing here.
+You can go north.
+Ali Candan's voice comes over the loudspeaker and says, "Go ahead."
+[General Communication] Aisling the Fox transmits, "Melinda asked me to plug
+into her stomach. What do I do? This sounds weird."
+Ted Warburton picks up sixteen of a landing gear strut.
+Ted Warburton puts sixteen of a landing gear strut in a small black leather
+backpack.
+Morris Corlew mosies in from the north.
+The starship transitions into another sector.
+n
+Rose Lennex puts on a bulky asteroid supply cannon.
+[Starship "Kartal"; Engineering Room]
+You see a large leather chair and an improved temporary wormhole drive here.
+You can go north and south.
+[General Communication] Ali Candan transmits, "Stick a finger."
+[General Communication] Melinda Michaels laughs.
+smile rose
+I don't see that here.
+peer s
+You peer south...
+[Starship "Kartal"; Storage Room]
+Lights overhead indicate that the ship is on green status. Looking through the
+windows, you see that the ship is in space.
+You see an ammunition storage box, sixteen of a fractured processing unit,
+sixty-eight of an interior panel, sixty-seven of an unidentifiable starship
+component, sixty-nine of an intact hull plate, twenty-one of a part of a
+ship-to-ship chain, two of most of a sensor component, six of a portion of a
+wormhole drive, a damaged alien computer system, some starship debris, some
+starship debris, some starship debris, some starship debris, some starship
+debris, and some starship debris here.
+Rose Lennex, Ted Warburton, and Morris Corlew are standing here.
+You can go north.
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+[General Communication] Ather Jammoa transmits, "I would do it and see what
+happens."
+Morris Corlew mosies in from the south.
+Morris Corlew mosies north.
+[General Communication] Lily Kaise transmits, "Enjoy the power!"
+Ted Warburton wanders in from the south.
+Ted Warburton wanders north.
+smile rose
+I don't see that here.
+smile rose
+I don't see that here.
+s
+[Starship "Kartal"; Storage Room]
+You see an ammunition storage box, sixty-seven of an unidentifiable starship
+component, sixty-nine of an intact hull plate, twenty-one of a part of a
+ship-to-ship chain, two of most of a sensor component, six of a portion of a
+wormhole drive, some starship debris, some starship debris, some starship
+debris, some starship debris, some starship debris, and some starship debris
+here.
+Rose Lennex is standing here.
+You can go north.
+smile rose
+You smile at Rose Lennex.
+n
+[Starship "Kartal"; Engineering Room]
+You see a large leather chair and an improved temporary wormhole drive here.
+You can go north and south.
+d
+You can't go that way.
+n
+[Starship "Kartal"; Weapons Room Three]
+You see a swiveling black leather gunner's chair here.
+You can go south and down.
+n
+You can't go that way.
+d
+[Starship "Kartal"; Corridor]
+You can go north, east, south, west, up, and down.
+n
+[Starship "Kartal"; Control Room]
+You see a decoy beacon launcher, a black leather captain's chair, a large
+leather couch, a wormhole drive tracer, and Memati the arachnoid security robot
+here.
+Ali Candan and Morris Corlew are sitting on a large leather couch. Ted Warburton
+is standing here.
+You can go south and out.
+Rose Lennex lopes in from the south.
+Ali Candan begins the docking sequence.
+Morris Corlew exclaims, OOCly, "Ali, boot me and take me in the lounge please?
+Sorry!"
+'Nice work everyone. Including the flying.
+You say, "Nice work everyone. Including the flying."
+Ali Candan brings up the controls to transfer cargo.
+You hear metallic scraping as the transfer of the cargo begins.
+Ali Candan says, OOCly, "It's fine."
+[Notification from Starseekers] A load of salvage has been received at League
+Xenological Salvage Processing Debris-Burning Message Beacon from the
+five-person strike gunboat "Kartal". The organization has earned 328,040.01
+credits.
+The sounds from the ship's hold cease as the cargo finishes transferring.
+Ali Candan begins the launch sequence.
+Rose Lennex says to you in a Centaurian accent, "Thanks."
+Ali Candan presses a button, calling up a display of the contents of the ship's
+hold.
+Ali Candan presses a button and brings up the FTL flight control board.
+grin rose
+You grin at Rose Lennex.
+Ted Warburton stumbles, then falls heavily to the floor.
+Earthgate Station dominates space here, acting as a watchpost for the approach
+to Old Earth.
+Old Earth turns below you, blue and green and brown and white. The planet
+elicits a feeling of "home" in almost all who view it, even if they have never
+actually set foot on it.
+Ali Candan presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Old Earth.
+Ted Warburton stands up.
+Via general sector communication, Old Earth transmits, "Hello there, Kartal!
+Welcome to home space!"
+Ali Candan points at Ted Warburton and laughs and laughs and laughs.
+Ted Warburton says in a Candelarian accent, "Thanks guys."
+Ali Candan grins at Ted Warburton.
+Rose Lennex chuckles.
+Ted Warburton says in a Candelarian accent, "What."
+You notice Ali Candan using the radio to ask for landing clearance.
+Rose Lennex waves.
+Ali Candan waves to Rose Lennex.
+A voice comes over the speaker and says, "Hello, Kartal. We read your League
+transponder. You are cleared to land."
+Rose Lennex says in a Centaurian accent, "Take care, y'all."
+wave
+You wave.
+Rose Lennex lopes out.
+Ali Candan says into the PA microphone, "Woo money bounty woo."
+You are credited with 8,388,031.81 League credits of bounty.
+419,401.59 credits of your income have gone toward your organization.
+out
+[Starship "Kartal"; Airlock]
+Rose Lennex is standing here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[Old Earth; Manhattan Spaceport]
+The one-person cargo hauler "Tony's Delivery Shuttle", the two-person hardened
+asteroid hauler "Angel's Flight", the one-person runabout "Duality", and the
+five-person strike gunboat "Kartal" are landed here.
+You see an asteroid-shaped steel trash bin here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+d
+[Manhattan Spaceport; Garage]
+You can go up.
+enter shooting
+[Starship "Shooting Star"; Control Capsule]
+You see an improved temporary wormhole drive here.
+You can go out.
+sit
+You sit down.
+You carefully buckle your seatbelt.
+power
+You grasp a large lever on the control board and push it slowly away from you.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+launch
+You use the ship's radio to ask flight control for launch clearance.
+who
+There appear to be 21 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Johann Rowan  (L)
+Nicolette of None  (L)
+Rose Lennex  (L)
+Morris Corlew  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Sakura Arakida  (L)
+Seneca Morris  (L)
+Ali Candan  (L)
+Nissi Valdaire  (L) [a]
+Dominique Henderson  (F)
+Damien Alexander  (F)
+Rogue Romano  (F)
+Emmett Lee  (F) [c]
+Ted Warburton  (F)
+Evenia Callseah  (F)
+Keegan Wantz  (F)
+Aisling the Fox  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 34 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A voice comes over the speaker and says, "Shooting Star, you are given launch
+clearance under the AEU-League non-aggression pact."
+ftl new
+who
+There appear to be 21 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Johann Rowan  (L)
+Nicolette of None  (L)
+Rose Lennex  (L)
+Morris Corlew  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Sakura Arakida  (L)
+Seneca Morris  (L)
+Ali Candan  (L)
+Nissi Valdaire  (L) [a]
+Dominique Henderson  (F)
+Damien Alexander  (F)
+Rogue Romano  (F)
+Emmett Lee  (F) [c]
+Ted Warburton  (F)
+Evenia Callseah  (F)
+Keegan Wantz  (F)
+Aisling the Fox  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 34 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+Via general sector communication, New Earth transmits, "Hello there, Shooting
+Star! Welcome to home space!"
+move
+AutoStar detects 3 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Planets:
+[1] New Earth                           
+   Space Stations:
+[2] Space Station Alpha                 
+   Space Markets:
+[3] Space Market                        
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: New Earth.
+Would you like to request landing clearance at New Earth?
+[Enter `yes' or `no']
+y
+You notify flight control of your desire to land.
+A voice comes over the speaker and says, "Hello, Shooting Star. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+out
+You scramble to your feet.
+d
+You exit the capsule.
+[New Earth; Spaceport Landing Pad]
+The bolt "Invocation" and the vostok-class capsule "Shooting Star" are landed
+here.
+You see an automatic teller machine and a small trash can here.
+Ather Jammoa is standing here.
+You can go north, south, west, and down.
+The vostok-class capsule "Shooting Star" is loaded onto an automated flatbed and
+slowly moved into a large garage.
+The bolt "Invocation" is loaded onto an automated flatbed and slowly moved into
+a large garage.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+Your ship 'Shooting Star' has been automatically moved into a garage.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, a
+glossy seashell pink ceramic felo chow bowl, a small mystic purple bioplastic
+crate, and an overstuffed sofa upholstered in brilliantly colored patchwork
+fabric here.
+You can go out and enter into the ship.
+enter dove
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a small white trash bin, Desiree the little black and
+white spotted CatBot, a glossy purple ceramic felo chow bowl, a round white
+rattan coffee table with a glass top, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and amethyst aquatic life and coral rocks, an
+insulated green cooler, a robotic chef named Nellie, a space imaging photograph
+of Nouveau Quebec Station, Magellan the arachnoid security robot, a small yellow
+ball containing a realistic Bari horde noisemaker, an insulated yellow cooler,
+and a clear plastic food storage container here.
+You can go south and out.
+boot
+Onboard sensors detect the presence of the following people somewhere aboard the
+ship: Shule Elemmire.
+Eject? [Enter `yes' or `no']
+n
+Not ejected.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+who
+There appear to be 21 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Shule Elemmire  (A) [m]
+Lily Kaise  (A)
+Johann Rowan  (L)
+Nicolette of None  (L)
+Rose Lennex  (L)
+Morris Corlew  (L)
+Lillian Hudson  (L)
+Melinda Michaels  (L)
+Sakura Arakida  (L)
+Seneca Morris  (L)
+Ali Candan  (L)
+Nissi Valdaire  (L) [a]
+Dominique Henderson  (F)
+Damien Alexander  (F)
+Rogue Romano  (F)
+Emmett Lee  (F) [c]
+Ted Warburton  (F)
+Evenia Callseah  (F)
+Keegan Wantz  (F)
+Aisling the Fox  (M)
+Additionally, there are 13 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 34 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[Notification from Starseekers] The organization has gained 1,866,966.61 credits
+from a xenology submission.
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+chartreuse glowing interior drifts slowly across the tank.
+quit
+    * You have been disconnected. Please come back soon. *
+#SESSION 'star' DIED.

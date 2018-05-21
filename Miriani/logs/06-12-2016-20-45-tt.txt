@@ -1,0 +1,2650 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu May 26 15:50:17 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "We Strive To Live In Peace"; Control Room]
+The arc of the starship's command ring meets gracefully here in a sweeping,
+curved control room. An extraordinarily large viewport dominates the entire
+front of the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status. A
+large navigation terminal has a direct hookup to the onboard navigation
+mainframe. Secondary control boards can be pulled up and folded back to provide
+a working surface, or pulled down from recesses overhead as needed. A half-deck
+behind this control area allows other crew members to gather and observe. Every
+surface is a pristine cream color. Lights overhead indicate that the ship is on
+green status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small black cooler, a bottle of peach schnapps, a
+bottle of expensive cognac, a white time meter, a cream plastic box labeled
+'Space Imager Photos', Kosmo the humanoid service robot, and a space imaging
+photograph of a large gas giant orbiting close to a star here.
+Simon Collins and Melinda Michaels are sleeping on a black leather sectional
+sofa. Liam O'Toole and Nathaniel Owens are sleeping on a rare black EAOSian
+contoured couch.
+Nissi Valdaire, Blake Madison, and Lily Kaise are sitting on a rare black
+EAOSian contoured couch. Sakura Arakida, Michael Winters, Kim Saunders, and
+Zandria Marschaund are sitting on a black leather sectional sofa. Morris Corlew
+is sitting with his legs crossed.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Did you know that you can use audible social commands on your
+communicator? Try typing TRANSMIT LAUGH!
+**
+Lily Kaise grins at you.
+grin
+You grin.
+You hear a wet tearing sound.
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Lily Kaise glides southeast.
+Xavier the big silver soldier felo marches in from the southwest.
+Sweat pours down your face in rivulets as the stage lights shine on you.
+Lily Kaise glides in from the southeast.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Xavier the big silver soldier felo marches southeast.
+l
+[Starship "We Strive To Live In Peace"; Control Room]
+The arc of the starship's command ring meets gracefully here in a sweeping,
+curved control room. An extraordinarily large viewport dominates the entire
+front of the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status. A
+large navigation terminal has a direct hookup to the onboard navigation
+mainframe. Secondary control boards can be pulled up and folded back to provide
+a working surface, or pulled down from recesses overhead as needed. A half-deck
+behind this control area allows other crew members to gather and observe. Every
+surface is a pristine cream color. Lights overhead indicate that the ship is on
+green status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small black cooler, a bottle of peach schnapps, a
+bottle of expensive cognac, a white time meter, a cream plastic box labeled
+'Space Imager Photos', Kosmo the humanoid service robot, and a space imaging
+photograph of a large gas giant orbiting close to a star here.
+Simon Collins and Melinda Michaels are sleeping on a black leather sectional
+sofa. Liam O'Toole and Nathaniel Owens are sleeping on a rare black EAOSian
+contoured couch.
+Nissi Valdaire is dozing on a rare black EAOSian contoured couch. Sakura
+Arakida, Michael Winters, Kim Saunders, and Zandria Marschaund are sitting on a
+black leather sectional sofa. Morris Corlew is sitting with his legs crossed.
+Blake Madison and Lily Kaise are sitting on a rare black EAOSian contoured
+couch.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+Lily Kaise takes a sip of a cup of tart red cranberry juice.
+Lily Kaise takes a sip of a cup of tart red cranberry juice.
+A member of the audience's lack of face suddenly twists into itself, forming
+countless mouths, gasping for relief.
+Morris Corlew quickly drains a cup of hot chai tea.
+Morris Corlew puts a cup in a shiny yellow trash bin.
+Lily Kaise says in a New Earth accent, "Ok we've traveled about 30 LTC so far
+with unofficially 28 to go give or take drift."
+nod lily
+You nod to Lily Kaise.
+Lily Kaise says in a New Earth accent, "We have been slowing down though due to
+the flow and let's keep our fingers cross but we're likely due for a drive
+breakdown."
+You cough out a small globule of thick, viscuous sludge.
+Morris Corlew pats a small cloth sack lightly. "Ready when it does."
+Lily Kaise grins.
+nod and grin
+You nod and grin.
+Lily says to Morris in a New Earth accent, "You might want a more substantial
+container for your tools. If you ever drop that sack, it won't hold up."
+Lily Kaise removes a scorched metal thigh holster from a lavender silk backpack
+embroidered with brightly hued butterflies.
+"I will get one when we get home." Morris Corlew nods to Lily Kaise. "In the
+meantime..."
+Morris Corlew removes a small cloth sack.
+Morris Corlew opens a small black leather backpack for a moment.
+Morris Corlew puts a small cloth sack in a small black leather backpack.
+Lily Kaise gives a scorched metal thigh holster to Morris Corlew.
+Blake Madison says in a Candelarian accent, "Now you don't have to."
+grin
+You grin.
+Morris Corlew raises an eyebrow at Lily Kaise. "Thanks..."
+Morris Corlew puts on a scorched metal thigh holster.
+Lily Kaise says in a New Earth accent, "Sure."
+Blake Madison says in a Candelarian accent, "Though I use."
+Blake Madison taps a black engineering tool case.
+Blake Madison says in a Candelarian accent, "This."
+Lily Kaise says in a New Earth accent, "Mine won't fit in my engineering case."
+Blake Madison asks in a Candelarian accent, "What are you putting in there?"
+Morris Corlew nods. "Mine won't either."
+The stage lights flicker briefly.
+Morris Corlew opens a small black leather backpack.
+Lily Kaise says in a New Earth accent, "So for some reason some engineering
+cases won't fit everything."
+Morris Corlew removes a small cloth sack from a small black leather backpack.
+Morris Corlew puts a glass in a shiny yellow trash bin.
+Morris Corlew removes a hyperspanner from a small cloth sack.
+Morris Corlew opens a scorched metal thigh holster for a moment.
+Morris Corlew puts a hyperspanner in a scorched metal thigh holster.
+Blake Madison says in a Candelarian accent, "That."
+Blake Madison says in a Candelarian accent, "Should fit in the case."
+Morris Corlew removes a manual zero-point energy receptacle charger from a small
+cloth sack.
+Blake Madison says in a Candelarian accent, "That too."
+Morris Corlew opens a scorched metal thigh holster for a moment.
+Morris Corlew puts a manual zero-point energy receptacle charger in a scorched
+metal thigh holster.
+Morris Corlew says in an Old Earth accent, "Yeah, but they won't for some
+reason."
+Morris Corlew puts a small cloth sack in a small black leather backpack.
+Morris Corlew closes a small black leather backpack.
+Lily Kaise takes a sip of a cup of tart red cranberry juice.
+Lily Kaise takes a sip of a cup of tart red cranberry juice.
+Lily Kaise finishes off a cup of tart red cranberry juice.
+Lily Kaise puts a cup in a shiny yellow trash bin.
+Lily Kaise removes a pair of sparkly glass dice from a coral pink silk handbag
+embroidered with pastel dragonflies.
+Lily Kaise puts a pair of sparkly glass dice in a coral pink silk handbag
+embroidered with pastel dragonflies.
+Zandria Marschaund removes a bright orange Space Shopping Network t-shirt from a
+silver canvas League gear bag.
+Zandria Marschaund puts a bright orange Space Shopping Network t-shirt in a
+silver canvas League gear bag.
+Zandria Marschaund removes a copy of "In The Shop" from a black suede handbag
+covered with abstractly patterned silver studs.
+Zandria Marschaund turns a page in a copy of "In The Shop".
+Zandria Marschaund reads in a copy of "In The Shop".
+Zandria Marschaund turns a page in a copy of "In The Shop".
+Zandria Marschaund reads in a copy of "In The Shop".
+Zandria Marschaund turns a page in a copy of "In The Shop".
+Zandria Marschaund reads in a copy of "In The Shop".
+The curtains close, to no applause.
+You mentally sigh in relief as you return to the starship.
+Zandria Marschaund turns a page in a copy of "In The Shop".
+Zandria Marschaund reads in a copy of "In The Shop".
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+Zandria Marschaund puts a copy of "In The Shop" in a black suede handbag covered
+with abstractly patterned silver studs.
+Zandria Marschaund opens a silver silk backpack embroidered with cerulean blue
+dragons.
+Zandria Marschaund turns a hand-held black holovid on.
+Zandria Marschaund removes a hand-held black holovid from a silver silk backpack
+embroidered with cerulean blue dragons.
+Zandria Marschaund turns a hand-held black holovid off.
+Zandria Marschaund puts a hand-held black holovid in a silver silk backpack
+embroidered with cerulean blue dragons.
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Lily Kaise glides southeast.
+Lily Kaise glides in from the southwest.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+per se
+I don't understand that ("se" is an ambiguous name).
+peer se
+You peer southeast...
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+Lights overhead indicate that the ship is on green status. Looking through the
+windows, you see that the ship is inside the riftflow.
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, and
+Xavier the big silver soldier felo here.
+You can go southwest and northwest.
+se
+You scramble to your feet.
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, and
+Xavier the big silver soldier felo here.
+You can go southwest and northwest.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+use beverage
+You examine a sleek stainless steel beverage machine with purple accents for a
+moment.
+What would you like?
+[1] Deluxe Double Vanilla Milkshake
+[2] Orange Juice
+[3] Lemonade
+[4] Cola
+[5] Colombian Coffee with Cream
+[6] Cafe Mocha
+[7] Jasmine Tea
+[8] Hot Chocolate
+[9] Merlot
+[10] Brandy
+[11] Martini
+[12] Margarita
+[13] Whiskey
+[14] Vodka
+[15] Tequila
+[16] Marzore Dark
+Enter your selection:
+1
+You make a selection on a sleek stainless steel beverage machine with purple
+accents. It emits a quiet humming sound, and a moment later the dispenser door
+rolls up to display a deluxe double vanilla milkshake in a tall glass, which you
+promptly retrieve.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small black cooler, a bottle of peach schnapps, a
+bottle of expensive cognac, a white time meter, a cream plastic box labeled
+'Space Imager Photos', Kosmo the humanoid service robot, and a space imaging
+photograph of a large gas giant orbiting close to a star here.
+Simon Collins and Melinda Michaels are sleeping on a black leather sectional
+sofa. Liam O'Toole and Nathaniel Owens are sleeping on a rare black EAOSian
+contoured couch.
+Nissi Valdaire is dozing on a rare black EAOSian contoured couch. Sakura Arakida
+and Michael Winters are dozing on a black leather sectional sofa. Kim Saunders
+and Zandria Marschaund are sitting on a black leather sectional sofa. Morris
+Corlew is sitting with his legs crossed. Blake Madison and Lily Kaise are
+sitting on a rare black EAOSian contoured couch.
+You can go southeast, southwest, and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+drink milkshake
+You take a sip of a deluxe double vanilla milkshake in a tall glass.
+drink milkshake
+You take a sip of a deluxe double vanilla milkshake in a tall glass.
+drink milkshake
+You take a sip of a deluxe double vanilla milkshake in a tall glass.
+You hear what sounds like voices in another part of the ship, but you don't
+recognize them and you can't hear what they're saying.
+drink milkshake
+You take a sip of a deluxe double vanilla milkshake in a tall glass.
+drink milkshake
+You finish off a deluxe double vanilla milkshake in a tall glass.
+i
+ You are wearing a black t-shirt with a colorful map of local space on the
+front, a pair of blue corduroy jeans, and a pair of washed light khaki canvas
+sneakers. Underneath this, you are wearing a pair of white cotton briefs and a
+pair of black socks. You are also wearing a keychain, a metallic gold touch
+einrophone in a black leather phone holster, a gold wrist-mounted chronometer, a
+metallic silver metachannel FTL communicator, a solid silver ring engraved with
+dolphins, and a black guitar case. You are concealing a leather briefcase, a
+golden Feng Wo coin purse, a black flightbag with a red shooting star on the
+side, a camera bag, an asteroid hauling supply kit, a flight control scanner, a
+large expandable telescoping xenology container, a black engineering tool case,
+a thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster. Your head, face, both eyes, neck, both elbows, both forearms, both
+wrists, and both hands are left uncovered.
+You are carrying a glass in your right hand.
+put glass in trash
+You put a glass in a shiny yellow trash bin.
+Goosebumps suddenly rise on your skin.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3717 light-mincycles per seccycle
+Direction:          Galactic Southsouthwest and Very Slightly Down (250.0,
+-20.0)
+Riftflow:           4973 light-mincycles per seccycle from Galactic Northwest
+and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to increase
+in intensity, and turn towards Galactic Westnorthwest and Slightly Down.
+Time in Riftflow:   2.OD4
+Distance Traveled:  20.93 light-trade cycles
+Apparent Region:    Known Space
+--
+You see a figure walk past the open doorway out of the corner of your eye.
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+locate
+You listen for a moment to the NDB pings from Earthgate. They seem very faint.
+The signal strength meter reads: 16%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem fairly loud. The signal strength meter reads: 75%.
+Lily Kaise glides southeast.
+Kim Saunders yawns.
+Lily Kaise glides in from the southeast.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Lily Kaise says to you in a New Earth accent, "I guess Asteria is having a long
+visit with someone."
+Kim Saunders says in a New Bristol accent, "Might be sleeping somewhere then."
+You hear what sounds like voices in another part of the ship, but you don't
+recognize them and you can't hear what they're saying.
+For a brief moment, everything seems to be normal.
+The walls whip away at high speed, carried into the far distance as the floor
+carries on without them. A darkened hoverfreeway rises from below.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+Anfisa of Marzore trudges in from the southeast.
+Anfisa of Marzore sits down on a modern white pod chair with a cream leather
+interior.
+Lily Kaise waves to Anfisa of Marzore.
+Kim Saunders waves to Anfisa of Marzore.
+Anfisa of Marzore says in a Spinward accent, "Might as well see where position
+is."
+Lily Kaise nods.
+Anfisa of Marzore removes a tyrian purple slipcloth embroidered with a nested
+Apollonian gasket from a midnight blue backpack for a moment.
+Anfisa of Marzore removes a slightly scratched and pitted tablet of transparent
+plastic material dotted with points of various colour from a tyrian purple
+slipcloth embroidered with a nested Apollonian gasket.
+Kim Saunders nods. "Good idea."
+Anfisa of Marzore presses a button on the rift drive control board, and the
+starship begins dropping out of the riftflow.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+Anfisa of Marzore looks out a viewport while occasionally glancing down at a
+slightly scratched and pitted tablet of transparent plastic material dotted with
+points of various colour.
+Anfisa of Marzore notes the current location of the ship on a slightly scratched
+and pitted tablet of transparent plastic material dotted with points of various
+colour.
+Anfisa of Marzore traces her finger between two points on a slightly scratched
+and pitted tablet of transparent plastic material dotted with points of various
+colour.
+Anfisa of Marzore quickly turns a small wheel on the rift drive control board.
+A number flap display rapidly flips around to show a new heading of 240.0,
+-20.0.
+Anfisa of Marzore flips a number of failsafe switches on the rift drive control
+board, then pushes a heavy lever forward.
+Something deep inside the starship roars to life as the lights dim sharply.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+The curtains open, and countless faceless humanoids stare at you from their
+seats.
+Anfisa of Marzore says in a Spinward accent, "Thirty light-trade cycles."
+Anfisa of Marzore removes a tyrian purple slipcloth embroidered with a nested
+Apollonian gasket from a midnight blue backpack for a moment.
+Anfisa of Marzore puts a slightly scratched and pitted tablet of transparent
+plastic material dotted with points of various colour in a tyrian purple
+slipcloth embroidered with a nested Apollonian gasket.
+Lily Kaise says in a New Earth accent, "Ok and thank you."
+Lily Kaise says in a New Earth accent, "We did drift some it seems."
+Morris says to Anfisa of Marzore, "Thank you."
+Kim Saunders says in a New Bristol accent, "We made good progress then."
+Lily Kaise says in a New Earth accent, "We did inspite of the drift."
+Kim Saunders smiles at Anfisa of Marzore. "Thanks."
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Lily Kaise glides southeast.
+l
+[Starship "We Strive To Live In Peace"; Control Room]
+The arc of the starship's command ring meets gracefully here in a sweeping,
+curved control room. An extraordinarily large viewport dominates the entire
+front of the room, a thin tracery of webbing revealing the window's built-in
+reinforcement. Standing before this massive viewport is the main control board,
+providing essential functions like the shipwide power lever and alert status. A
+large navigation terminal has a direct hookup to the onboard navigation
+mainframe. Secondary control boards can be pulled up and folded back to provide
+a working surface, or pulled down from recesses overhead as needed. A half-deck
+behind this control area allows other crew members to gather and observe. Every
+surface is a pristine cream color. Lights overhead indicate that the ship is on
+green status. Looking through the windows, you see that the ship is inside the
+riftflow.
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small black cooler, a bottle of peach schnapps, a
+bottle of expensive cognac, a white time meter, a cream plastic box labeled
+'Space Imager Photos', Kosmo the humanoid service robot, and a space imaging
+photograph of a large gas giant orbiting close to a star here.
+Simon Collins and Melinda Michaels are sleeping on a black leather sectional
+sofa. Liam O'Toole and Nathaniel Owens are sleeping on a rare black EAOSian
+contoured couch.
+Nissi Valdaire and Blake Madison are dozing on a rare black EAOSian contoured
+couch. Sakura Arakida and Kim Saunders are sitting on a black leather sectional
+sofa. Michael Winters and Zandria Marschaund are dozing on a black leather
+sectional sofa. Morris Corlew is sitting with his legs crossed. Anfisa of
+Marzore is sitting on a modern white pod chair.
+You can go southeast, southwest, and out.
+(You are sitting on a rare black EAOSian contoured couch.)
+Lily Kaise glides in from the southeast.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Lily Kaise takes a bite of a tuna salad sandwich.
+Lily Kaise takes a sip of a deluxe double vanilla milkshake in a tall glass.
+Lily Kaise takes a bite of a tuna salad sandwich.
+Lily Kaise takes a sip of a deluxe double vanilla milkshake in a tall glass.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3671 light-mincycles per seccycle
+Direction:          Galactic Southsouthwest and Very Slightly Down (240.0,
+-20.0)
+Riftflow:           5251 light-mincycles per seccycle from Galactic
+Westnorthwest and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to increase
+in intensity.
+Time in Riftflow:   0.0L4
+Distance Traveled:  4.93 light-grand cycles
+Apparent Region:    Known Space
+--
+Lily Kaise takes a sip of a deluxe double vanilla milkshake in a tall glass.
+Lily Kaise takes a bite of a tuna salad sandwich.
+Lily Kaise takes a sip of a deluxe double vanilla milkshake in a tall glass.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+Lily Kaise takes a bite of a tuna salad sandwich.
+Nathaniel Owens suddenly awakens.
+Lily Kaise finishes off a tuna salad sandwich.
+Lily Kaise finishes off a deluxe double vanilla milkshake in a tall glass.
+Lily Kaise puts a glass in a shiny yellow trash bin.
+Nathaniel Owens navigates his neon orange touch einrophone to a text-heavy
+application and peers at the screen.
+Morris Corlew switches a message board reader on and peers at the screen.
+Morris Corlew switches a message board reader off.
+Nathaniel Owens slumps in a rare black EAOSian contoured couch and goes to
+sleep.
+Morris Corlew scrambles to his feet.
+Morris Corlew meanders southeast.
+Xavier the big silver soldier felo marches in from the southeast.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Morris Corlew meanders in from the southeast.
+Morris Corlew sits down on a black leather sectional sofa.
+Morris Corlew takes a sip of a glass of cold fizzy cola.
+Morris Corlew takes a bite of a hot cheeseburger with the works.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Sweat pours down your face in rivulets as the stage lights shine on you.
+Xavier the big silver soldier felo stares curiously up at Nissi Valdaire.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+An orange digital felo game beeps plaintively for food.
+Morris Corlew presses a button on an orange digital felo game.
+An orange digital felo game beeps hungrily as the felo rapidly empties its food
+bowl.
+Xavier the big silver soldier felo marches southwest.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+There appears to be nothing unique in the nearby riftflow. In realspace, there's
+nothing but vacuum all around.
+Morris Corlew takes a bite of a hot cheeseburger with the works.
+Morris Corlew takes a sip of a glass of cold fizzy cola.
+A member of the audience's lack of face suddenly twists into itself, forming
+countless mouths, gasping for relief.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Kim Saunders stands up from a black leather sectional sofa.
+Kim Saunders says in a New Bristol accent, "Sorry people, I am more falling
+asleep here than anything else."
+Lily Kaise says to Kim in a New Earth accent, "Have a good sleep cycle and see
+you later!"
+Kim Saunders says in a New Bristol accent, "Thanks, stay safe and see you in the
+morning."
+Morris Corlew says to Kim, "Sleep well."
+Kim Saunders waves.
+A high-pitched whine fills your senses.
+Lily Kaise nods and waves.
+Kim Saunders strolls southeast.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Xavier the big silver soldier felo marches in from the southwest.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the southwest.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+The crowd emits a low, keening drone at you.
+The curtains close, to no applause.
+The mist turns to black smoke that soon drifts away, and you find that the ship
+is on a conveyor belt, moving rapidly through a factory.
+Xavier the big silver soldier felo jumps onto a dark yellow leather captain's
+chair and immediately settles in.
+Xavier the big silver soldier felo lies down and curls up into a tight ball,
+closes its eyes, and appears to sleep.
+Lily Kaise grins at you.
+Lily says to you in a New Earth accent, "Your boy there has asperations I see."
+Lily Kaise laughs.
+Sassie the large fuchsia felo hums melodically to itself as it wanders
+southeast.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+[Newbie Help] Robert O'Malley transmits, "Is that a bug? I joined her group, and
+she left me behind when trying to board her ship."
+[Newbie Help] Akemi Bando transmits, "She need to group you."
+[Newbie Help] Ali Candan transmits, "No, that is a feature."
+[Newbie Help] Damien Alexander transmits, "No. She has to group you for you to
+go aboard her ship."
+[Newbie Help] Evangeline Adaire transmits, "Sorry, forgot."
+Akemi Bando moves in from the southeast.
+Akemi Bando waves.
+Lily Kaise waves to Akemi Bando.
+Blake Madison waves.
+Akemi Bando asks in a Japanese accent, "What's with the photo on the floor?"
+Steam billows and gears rattle loudly as the conveyor belt picks up speed.
+Lily Kaise says in a New Earth accent, "It's just an extra from when I navigated
+to that planetary system."
+Akemi Bando nods.
+Morris Corlew says to Akemi, "Sleep well?"
+Cindy the old small red sabre-toothed felo wanders in from the southwest.
+Lily Kaise says in a New Earth accent, "The original is in the box."
+Nathaniel Owens suddenly awakens.
+Akemi says to Morris Corlew in a Japanese accent, "I slept okay. Overslept, if
+anything."
+Morris Corlew says to Akemi, "We all need to once in awhile."
+Nathaniel Owens nods to Morris Corlew.
+Akemi Bando sits down on a dark yellow leather captain's chair with Xavier the
+sleeping big silver soldier felo on it.
+Lily Kaise picks up a space imaging photograph of a large gas giant orbiting
+close to a star.
+Akemi Bando says in a Japanese accent, "No arguing that."
+Nathaniel Owens says in a Candelarian accent, "We all do it."
+Akemi Bando navigates her metallic gray touch einrophone to a text-heavy
+application and peers at the screen.
+Akemi Bando asks in a Japanese accent, "Did we stop for repairs or to check our
+position?"
+Morris Corlew says in an Old Earth accent, "Anfisa just checked position a
+little while ago."
+Sakura Arakida says in a Japanese accent, "Sleep is good. Oversleep. As long as
+you're not due somewhere while oversleeping, is still good, there's days I don't
+want to get out of bed myself."
+Lily Kaise says in a New Earth accent, "We stopped to check position a little
+over an hour ago and we had 30 to go."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Nathaniel Owens says in a Candelarian accent, "There are days where I just want
+to sleep. But something always gets me up."
+Lily Kaise puts a space imaging photograph of a large gas giant orbiting close
+to a star on a reflective oval coffee table with a transparent yellow plastic
+top and spindly chrome-plated legs.
+Sakura says to Akemi, "We're roughly 28 ltcs from home."
+Lily Kaise shakes her head.
+Sakura says to Lily, "You said roughly."
+Zandria Marschaund says in an Old Earth accent, "I am going to loo forward to
+that but I did thinkk the exxpeditiinas we."
+Zandria Marschaund says in an Old Earth accent, "Look."
+Cindy the old small red sabre-toothed felo stares curiously up at Blake Madison.
+Lily says to Sakura, "Anfisa checked our position about an hour ago and we were
+at 30 so a little more than that."
+Akemi says to Zandria in a Japanese accent, "Pardon?"
+Sakura says to Zandria in a Japanese accent, "It was fun, it was an experience,
+and you're going to be the ritchest, newest pilot."
+Zandria Marschaund says in an Old Earth accent, "I am going to look forward to
+going home but I did thinkk the exxpeditiinas we."
+Zandria Marschaund says in an Old Earth accent, "I thought the expedition was
+cool."
+Sakura says to Lily, "She checked us an hour ago and we were at 30, you said,
+we've traveled almost 2 ltcs, that's where I got the roughly 28 from."
+Zandria Marschaund smiles.
+Nathaniel Owens says in a Candelarian accent, "It was fun."
+Sakura says to Lily, "Since we started from that checkpoint."
+Zandria says to Sakura, "No kidding but I'm still gonna work my butt of."
+Nathaniel Owens says in a Candelarian accent, "I'd deffinatly go on more
+expiditions."
+Zandria says to Sakura, "Off rather."
+Sakura Arakida says in a Japanese accent, "So would I. And yay, I can get my
+last buyable crafting lisence that I want when we get home."
+Zandria Marschaund nods to Nathaniel Owens.
+Lily Kaise says in a New Earth accent, "Well you guys will certainl realize some
+good money. When you achieve the necessary points, planets themselves pay 250
+mil."
+Zandria says to Sakura, "Tht was my thought too, electronics at least, then
+starship synthesis will be my last."
+Morris Corlew exclaims in an Old Earth accent, "Whoa, nice!"
+Zandria Marschaund smiles.
+Nathaniel Owens says in a Candelarian accent, "Well, when I get home, I'm gonna
+go looking to buy more arti detecters and get out there some more to get
+artifacts. Also, I'm going to upgrade all my salvaging equipment and do
+salvaging, do some combat rilated stuff, get points for stuff like teh rift
+drive. That's my few months planned out."
+Nathaniel Owens says in a Candelarian accent, "Oh, and GMG. Don't forget GMG."
+Lily Kaise smiles.
+Akemi says to Nathaniel in a Japanese accent, "That'll keep you busy for
+months."
+Lily Kaise nods.
+Nathaniel says to Akemi, "Sure will."
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the southeast.
+Morris Corlew says in an Old Earth accent, "This is the first time I've ever
+done anything exploration related. Of course, we left when I'd been a pilot for
+barely two weeks and had just graduated a few days before. I guess jumping in
+feet first is a good way to do it sometimes."
+Nathaniel Owens says in a Candelarian accent, "My first time in the rift I did
+something so stupid I just couldn't believe how idiotic I was."
+Akemi says to Morris, "I'd been a full pilot for three weeks or so before I went
+on my first trip, but it was a pretty good one."
+Nathaniel Owens says in a Candelarian accent, "Basicly, I was using an inserter,
+needed some charge, so what did I do. Killed navigational systems."
+Zandria Marschaund says in an Old Earth accent, "Blah."
+Morris says to Nathaniel, "Yikes."
+Akemi says to Nathaniel, "So, did someone come pick you up?"
+Nathaniel Owens nods.
+Nathaniel Owens says in a Candelarian accent, "I wasn't out of comms thank god."
+Akemi Bando says in a Japanese accent, "I don't think we have inserters pointing
+out of comms anymore."
+Nathaniel Owens asks in a Candelarian accent, "Isn't the bubble out of comms?"
+Lily Kaise shakes her head.
+Nathaniel Owens asks in a Candelarian accent, "Why is the bubble even called the
+bubble?"
+Lily Kaise says in a New Earth accent, "Because it has some unique qualities."
+Akemi Bando says in a Japanese accent, "It's a bubble of space where there's no
+radio signals."
+Akemi Bando says in a Japanese accent, "Whatever civilization lived there, they
+somehow blanked out their radio signatures when they vanished."
+Lily Kaise nods.
+Akemi Bando says in a Japanese accent, "All that's left are some bits and
+pieces. Weird things we pick up and have our scientists look at."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Nathaniel Owens asks in a Candelarian accent, "Wow? And noone knows yet what it
+is? At all?"
+Cindy the old small red sabre-toothed felo rubs up against Sassie the large
+fuchsia felo, and both animals purr softly.
+Lily says to Akemi, "I guess you noticed your co-captain there."
+Lily Kaise grins.
+A gigantic hand suddenly picks up the ship, turns it from one side to the other,
+then places it back on the conveyor belt.
+Lily Kaise points at Xavier the sleeping big silver soldier felo.
+Akemi Bando strokes the soft fur of Xavier the sleeping big silver soldier felo.
+Xavier the sleeping big silver soldier felo takes a deep breath, then promptly
+continues to sleep.
+Akemi says to Nathaniel, "There's commonality in some of the things we find
+there and in things we find at other sites. Superficially, anyway."
+Morris Corlew grins. "Ah...cute."
+Sassie the large fuchsia felo hums melodically to itself as it wanders
+southeast.
+Akemi says to Nathaniel, "Maybe the people who lived in the Radio Bubble were
+very spread out. Whatever happened to them at the Radio Bubble might have just
+been part of their decline as an interstellar civilization."
+Akemi Bando says in a Japanese accent, "Or maybe it was the capper, the last
+thing."
+Akemi Bando asks in a Japanese accent, "Or it could have been what started their
+decline. Who knows?"
+Lily Kaise nods.
+Morris Corlew says in an Old Earth accent, "What if it was something intentional
+that just survived after they were gone? Maybe they were xenophobic like...well,
+like the Outsiders."
+Cindy the old small red sabre-toothed felo wanders out.
+Lily says to Nathaniel, "Not sure but the artifacts are Alien type which we find
+in other areas of shipwrecks farther out."
+Nathaniel Owens asks in a Candelarian accent, "Wonder if they're still out there
+somewhere, and they left the bubble because humanity expanded to far?"
+Akemi Bando says in a Japanese accent, "I kind of doubt that. We haven't been
+around all that long."
+Morris Corlew asks in an Old Earth accent, "Do we have any idea how old the
+stuff we find is?"
+Cindy the old small red sabre-toothed felo wanders in from the airlock.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+Akemi Bando says in a Japanese accent, "I asked my brother about that once.
+Getting accurate ages on objects that have been out in deep space for so long is
+one of those things they have trouble with. Cosmic rays irradiate material, and
+if we didn't have a good idea of where it came from in the first place then
+usual dating techniques just aren't any good."
+"That makes sense." Morris Corlew nods. "Even one of our ships that has spent
+time in numerous areas of space would be hard to date using the same techniques
+we'd have to use with this stuff."
+Morris Corlew says in an Old Earth accent, "Or I mean to say traditional
+techniques."
+An annoying, rhythmic clanging gradually grows in volume until you pass a
+high-powered compressor on an adjacent conveyor belt.
+Nathaniel Owens slumps in a rare black EAOSian contoured couch and goes to
+sleep.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the southeast.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet sassi
+You stroke the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+pet xavier
+You stroke the soft fur of Xavier the sleeping big silver soldier felo.
+Xavier the sleeping big silver soldier felo takes a deep breath, then promptly
+continues to sleep.
+Cindy the old small red sabre-toothed felo wanders southwest.
+Sassie the large fuchsia felo hums melodically to itself as it wanders
+southeast.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       3966 light-mincycles per seccycle
+Direction:          Galactic Southsouthwest and Very Slightly Down (240.0,
+-20.0)
+Riftflow:           6078 light-mincycles per seccycle from Galactic
+Westnorthwest and Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to increase
+in intensity, and turn towards Galactic Westnorthwest and Very Slightly Down.
+Time in Riftflow:   0.AED
+Distance Traveled:  2.48 light-trade cycles
+Apparent Region:    Known Space
+--
+A gigantic hand suddenly picks up the ship, turns it from one side to the other,
+then places it back on the conveyor belt.
+wkho
+I don't understand that.
+who
+There appear to be about 16 pilots recently active.
+The starship's computer and QE comm detect:
+*Shule Elemmire  (A)
+*Lily Kaise  (A)
+%Evangeline Adaire  (A)
+*Zandria Marschaund  (L)
+*Sakura Arakida  (L)
+*Morris Corlew  (L)
+*Akemi Bando  (L)
+%Soraya Rhyz  (L)
+%Melissa Cantrelle  (L)
+%Robert O'Malley  (L)
+%Ali Candan  (L)
+%Nicolette Lawrence  (L)
+%Damien Goss  (L)
+%Rogue Romano  (F)
+%Keegan Wantz  (F)
+%Aisling the Fox  (M)
+* == Out of communications range
+% == Detected via Quantum Entanglement comm
+Additionally, there are 16 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 32 pilots.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+org
+You are out of communications range.
+The computer beeps in an imperative manner and informs you that the starship's
+sensors have detected a new location of interest in the riftflow.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 2.12 light-trade cycles away toward
+Galactic Southwest and Slightly Down.
+Blake Madison says in a Candelarian accent, "Oh boy."
+Lily Kaise says in a New Earth accent, "Lovely."
+Blake says to Xavier the sleeping big silver soldier felo in a Candelarian
+accent, "Save us."
+'Fantastic.
+You say, "Fantastic."
+Blake says to Xavier the sleeping big silver soldier felo in a Candelarian
+accent, "And wake up while you're at it."
+Cindy the old small red sabre-toothed felo wanders in from the southwest.
+pet cindy
+You stroke the soft fur of Cindy the old small red sabre-toothed felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+Morris Corlew frowns. "Nice."
+Lily Kaise says in a New Earth accent, "We're pretty far from it but hope we can
+get around it as tht's the type which will be very unkind to the rift drive."
+nod lily
+You nod to Lily Kaise.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the southeast.
+pet sassi
+You stroke the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+Blake says to Sassie the large fuchsia felo in a Candelarian accent, "Mrrp?"
+Lily Kaise laughs.
+chcukle
+I don't understand that.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+chuckle
+You chuckle.
+credits
+You punch a few commands into your personal credit assistant and receive the
+following display:
+Your credit summary:
+  305,129,327.44 EAOS credits
+  1,473,113,062.12 AEU credits
+  902,256,048.83 League credits
+  86,428,464.92 Fringe credits
+  102,131,271.69 Mutuality credits
+  373 Teslabucks
+Total if all credits were converted: 2,870,608,673.61 AEU credits
+Cindy the old small red sabre-toothed felo rubs up against Sassie the large
+fuchsia felo, and both animals purr softly.
+Lily Kaise strokes the soft fur of Cindy the old small red sabre-toothed felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+Blake Madison says in a Candelarian accent, "All the love for the felos."
+grin
+You grin.
+Akemi Bando says in a Japanese accent, "We could divert south once the flow
+shifts. Get around the storm that way."
+Akemi Bando says in a Japanese accent, "Provided it looks like we'll end up
+hitting it. Might not."
+Lily says to Akemi, "Yeah I was thinking just that."
+Lily Kaise grins.
+Sassie the large fuchsia felo rubs up against a black leather sectional sofa,
+purring softly.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4010 light-mincycles per seccycle
+Direction:          Galactic Southsouthwest and Very Slightly Down (240.0,
+-20.0)
+Riftflow:           6165 light-mincycles per seccycle from Galactic
+Westnorthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to increase
+in intensity, and turn towards Galactic West and Very Slightly Down.
+Time in Riftflow:   0.BE6
+Distance Traveled:  2.73 light-trade cycles
+Apparent Region:    Known Space
+--
+A gigantic hand suddenly picks up the ship, turns it from one side to the other,
+then places it back on the conveyor belt.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 2.02 light-trade cycles away toward
+Galactic Southwest and Slightly Down.
+Your vision is obscured by a sudden burst of black smoke, which gradually fades
+to mist.
+The formless mists suddenly resolve into a dust-laden wind. After a moment the
+dust settles, and one of the horses in front of you lets out a quiet whicker as
+the carriage's wheels creak ceaselessly below.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+The carriage shakes slightly as the horses pick up their pace.
+Sassie the large fuchsia felo gazes at Cindy the old small red sabre-toothed
+felo for a moment, then asks, "Mrrp?"
+Morris Corlew finishes off a hot cheeseburger with the works.
+Morris Corlew quickly drains a glass of cold fizzy cola.
+Morris Corlew puts a glass in a shiny yellow trash bin.
+Morris Corlew stretches.
+Morris Corlew stands up from a black leather sectional sofa.
+Morris Corlew says in an Old Earth accent, "Gonna go for a walk. Hollar over the
+PA if we need repairs, but I shouldn't be gone long."
+Morris Corlew meanders southeast.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Sassie the large fuchsia felo rubs up against a rare black EAOSian contoured
+couch, purring softly.
+Cindy the old small red sabre-toothed felo wanders southwest.
+Morris Corlew meanders in from the southeast.
+Morris Corlew sits down on a black leather sectional sofa.
+Sassie the large fuchsia felo jumps onto a dark yellow leather captain's chair
+with Xavier the sleeping big silver soldier felo on it and immediately settles
+in.
+Sassie the large fuchsia felo lies down and curls up into a tight ball, closes
+its eyes, and appears to sleep.
+Lily Kaise says in a New Earth accent, "Oh my."
+Lily Kaise pushes a button on her camera, and the flash goes off.
+Akemi Bando laughs.
+Lily Kaise opens a camera bag.
+Lily Kaise laughs.
+"Getting a little crowded over there?" Morris Corlew grins at Akemi Bando.
+Lily Kaise removes a purple photocopier from a camera bag.
+Lily Kaise puts down a photo of Sassie the sleeping large fuchsia felo and
+Xavier the sleeping big silver soldier felo.
+Lily Kaise picks up a photo of Sassie the sleeping large fuchsia felo and Xavier
+the sleeping big silver soldier felo.
+Lily Kaise puts down a purple photocopier.
+Lily Kaise runs a photo of Sassie the sleeping large fuchsia felo and Xavier the
+sleeping big silver soldier felo through a purple photocopier, duplicating it
+exactly.
+Cindy the old small red sabre-toothed felo wanders in from the southwest.
+Lily Kaise gives you a photo of Sassie the sleeping large fuchsia felo and
+Xavier the sleeping big silver soldier felo.
+Lily Kaise puts a photo of Sassie the sleeping large fuchsia felo and Xavier the
+sleeping big silver soldier felo in a coral pink silk handbag embroidered with
+pastel dragonflies.
+Lily Kaise picks up a purple photocopier.
+Morris Corlew chuckles. "Now if Cindy gets up there too, it'll be a real crowd."
+Morris Corlew opens a small black leather backpack.
+Lily Kaise puts a purple photocopier in a camera bag.
+Lily Kaise closes a camera bag.
+Morris Corlew closes a small black leather backpack.
+`grin lily
+Say to whom?
+grin lily
+You grin at Lily Kaise.
+Lily Kaise opens a camera bag.
+Lily Kaise removes a seven exposure film cartridge from a camera bag.
+Lily Kaise carefully loads a clear camera with a saucy strap with a seven
+exposure film cartridge.
+put photo in camera
+You open a camera bag for a moment.
+You put a photo of Sassie the sleeping large fuchsia felo and Xavier the
+sleeping big silver soldier felo in a camera bag.
+Lily Kaise pushes a button on her camera, and the flash goes off.
+l backpack
+Look at what?
+Lily Kaise removes a purple photocopier from a camera bag.
+Lily Kaise puts down a purple photocopier.
+Lily Kaise runs a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo through a purple photocopier,
+duplicating it exactly.
+Lily Kaise gives a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo to Akemi Bando.
+l akemi
+Lily Kaise runs a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo through a purple photocopier,
+duplicating it exactly.
+Akemi Bando
+She appears to be 32 years old. She is about five feet and two inches tall and
+has pale skin. Her body is petite with bony hips and thin calves. She has thin
+shoulders and small breasts. Her face is oval and girlish, with a straight nose
+and sharp chin. Her lips are pouty and reddish pink and occasionally part to
+reveal a set of white teeth. Beneath a set of thin eyebrows, her eyes are dark
+brown and almond-shaped. Her waist-length, straight hair is jet black and in a
+bun. She has neatly trimmed light pink fingernails.
+ She is wearing an indigo synthcotton shipsuit with a cluster of stars printed
+on the collar, a black utility belt, and a pair of soft black boots. She is also
+wearing a keychain adorned with a tag-shaped amulet covered in tyrian purple
+fabric brocaded with a floral pattern, a smooth black velvet handbag, a black
+wrist-mounted chronometer, a personal filing computer, a metallic gray touch
+einrophone in a dark gray leather phone holster, and an orange and white blessed
+prayer bracelet around her wrist. Her head, face, both eyes, both wrists, and
+both hands are left uncovered.
+She is carrying a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo in her right hand.
+Lily Kaise gives you a photo of Akemi Bando, Sassie the sleeping large fuchsia
+felo, and Xavier the sleeping big silver soldier felo.
+Cindy the old small red sabre-toothed felo stares curiously up at Akemi Bando.
+Lily Kaise says in a New Earth accent, "There."
+Lily Kaise puts a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo in a coral pink silk handbag
+embroidered with pastel dragonflies.
+grin
+You grin.
+Akemi Bando laughs.
+Lily Kaise laughs.
+smile lily 'thanks
+You smile at Lily Kaise. "Thanks."
+Lily Kaise says in a New Earth accent, "Oh better yet."
+Akemi Bando strokes the soft fur of Cindy the old small red sabre-toothed felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Lily Kaise glides southwest.
+put photo in camera
+You open a camera bag for a moment.
+You put a photo of Akemi Bando, Sassie the sleeping large fuchsia felo, and
+Xavier the sleeping big silver soldier felo in a camera bag.
+Akemi Bando puts a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo in a camera bag.
+l akemi
+Akemi Bando
+She appears to be 32 years old. She is about five feet and two inches tall and
+has pale skin. Her body is petite with bony hips and thin calves. She has thin
+shoulders and small breasts. Her face is oval and girlish, with a straight nose
+and sharp chin. Her lips are pouty and reddish pink and occasionally part to
+reveal a set of white teeth. Beneath a set of thin eyebrows, her eyes are dark
+brown and almond-shaped. Her waist-length, straight hair is jet black and in a
+bun. She has neatly trimmed light pink fingernails.
+ She is wearing an indigo synthcotton shipsuit with a cluster of stars printed
+on the collar, a black utility belt, and a pair of soft black boots. She is also
+wearing a keychain adorned with a tag-shaped amulet covered in tyrian purple
+fabric brocaded with a floral pattern, a smooth black velvet handbag, a black
+wrist-mounted chronometer, a personal filing computer, a metallic gray touch
+einrophone in a dark gray leather phone holster, and an orange and white blessed
+prayer bracelet around her wrist. Her head, face, both eyes, both wrists, and
+both hands are left uncovered.
+She is carrying nothing.
+Lily Kaise glides in from the southwest.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+mid-back length, straight hair is pale honey blonde and swept up into a thick
+fall of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+She seems to have a bruise on her forehead. 
+ She is wearing a black t-shirt with an image of the Floating Buddha on the
+front, a pair of white capri pants, and a pair of sparkly white leather clogs.
+She is also wearing an orange and white blessed prayer bracelet around her
+wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a neon
+purple wrist-mounted chronometer, a solid silver ring engraved with dragonflies,
+a delicate ring of silver wire and small purple amethyst crystals, a metallic
+gold touch einrophone in a metallic purple reinforced plastic phone holster, a
+soft fuchsia Tardick lizard snuggly labeled 'Asteria', a clear camera with a
+saucy strap, and a Tardick lizard named Asteria perched on her shoulder. Her
+head, face, both eyes, neck, both elbows, both forearms, both wrists, both
+hands, both knees, both calves, and both ankles are left uncovered.
+She is carrying a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo in her right hand, and a glossy
+full color poster of Akemi Bando, Sassie the sleeping large fuchsia felo, and
+Xavier the sleeping big silver soldier felo in her left hand.
+Lily Kaise puts a photo of Akemi Bando, Sassie the sleeping large fuchsia felo,
+and Xavier the sleeping big silver soldier felo in a coral pink silk handbag
+embroidered with pastel dragonflies.
+Lily Kaise puts a glossy full color poster of Akemi Bando, Sassie the sleeping
+large fuchsia felo, and Xavier the sleeping big silver soldier felo on a
+reflective oval coffee table with a transparent yellow plastic top and spindly
+chrome-plated legs.
+Lily Kaise says in a New Earth accent, "Good it's farther down now."
+Cindy the old small red sabre-toothed felo stares curiously up at Nissi
+Valdaire.
+Lily frowns at the rift forecaster.
+l chair
+a dark yellow leather captain's chair with Xavier the sleeping big silver
+soldier felo and Sassie the sleeping large fuchsia felo on it
+This state of the art starship captain's chair is upholstered in dark yellow
+leather and has a polished steel frame. The high back, seat, and armrests are
+firmly but deeply padded to mitigate the vibrations, shaking, and sudden changes
+of velocity of both normal starship operations and combat. The chair swivels
+smoothly from side to side to provide an extended reach of control room
+instrument panels.
+On top of it you see Xavier the sleeping big silver soldier felo and Sassie the
+sleeping large fuchsia felo.
+A small stand of trees passes by on the right of the carriage.
+rift status
+--
+Fienstein Rift Drive Mk2
+--
+Status:             ACTIVE
+Riftsail Trim:      100%
+Ship's Speed:       4173 light-mincycles per seccycle
+Direction:          Galactic Southsouthwest and Very Slightly Down (240.0,
+-20.0)
+Riftflow:           6431 light-mincycles per seccycle from Galactic
+Westnorthwest and Very Slightly Down
+Forecast:           Within the next 0.500, the riftflow is predicted to remain
+the same intensity, but turn towards Galactic Westnorthwest.
+Time in Riftflow:   0.EIC
+Distance Traveled:  3.54 light-trade cycles
+Apparent Region:    Known Space
+--
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 1.71 light-trade cycles away toward
+Galactic Southwest and Down.
+Xavier the big silver soldier felo jumps down from a dark yellow leather
+captain's chair with Sassie the sleeping large fuchsia felo on it.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Cindy the old small red sabre-toothed felo wanders southwest.
+Cindy the old small red sabre-toothed felo wanders in from the southwest.
+Xavier the big silver soldier felo stares curiously up at Sakura Arakida.
+The carriage shakes slightly as the horses pick up their pace.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Lily Kaise glides southeast.
+Lily Kaise glides in from the southeast.
+Lily Kaise puts a glass of cold fizzy cola on a reflective oval coffee table
+with a transparent yellow plastic top and spindly chrome-plated legs.
+Lily Kaise dangles a hot cheeseburger with the works in front of a Tardick
+lizard named Asteria. The lizard's tongue flicks out once, then its head lunges
+forward, snapping up the food in a sudden blur and immediately swallowing it
+whole.
+Lily Kaise glides southeast.
+Lily Kaise glides in from the southeast.
+Lily Kaise removes a glass of cold fizzy cola from a reflective oval coffee
+table with a transparent yellow plastic top and spindly chrome-plated legs.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Lily Kaise takes a bite of a hot cheeseburger with the works.
+Cindy the old small red sabre-toothed felo wanders southwest.
+Xavier the big silver soldier felo marches out.
+Lily Kaise takes a sip of a glass of cold fizzy cola.
+Lily Kaise takes a bite of a hot cheeseburger with the works.
+Lily Kaise takes a bite of a hot cheeseburger with the works.
+Lily Kaise takes a sip of a glass of cold fizzy cola.
+Lily Kaise takes a bite of a hot cheeseburger with the works.
+Lily Kaise finishes off a hot cheeseburger with the works.
+Lily Kaise takes a sip of a glass of cold fizzy cola.
+Lily Kaise takes a sip of a glass of cold fizzy cola.
+Lily Kaise finishes off a glass of cold fizzy cola.
+Lily Kaise puts a glass in a shiny yellow trash bin.
+Xavier the big silver soldier felo marches in from the airlock.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+A single bison studies your passing carriage from the side of the road.
+Cindy the old small red sabre-toothed felo wanders in from the southwest.
+Xavier the big silver soldier felo marches out.
+Morris Corlew presses a button on an orange digital felo game.
+An orange digital felo game beeps repeatedly as the felo chases around a tiny
+digital ball!
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Xavier the big silver soldier felo marches in from the airlock.
+Cindy the old small red sabre-toothed felo stares curiously up at Anfisa of
+Marzore.
+Xavier the big silver soldier felo marches southwest.
+A single bison studies your passing carriage from the side of the road.
+A sudden cloud of dust is kicked up, obscuring your vision.
+You mentally sigh in relief as you return to the starship.
+Cindy the old small red sabre-toothed felo stares curiously up at Akemi Bando.
+Akemi Bando strokes the soft fur of Cindy the old small red sabre-toothed felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Cindy the old small red sabre-toothed felo stares curiously up at Zandria
+Marschaund.
+Morris Corlew presses a button on an orange digital felo game.
+An orange digital felo game beeps hungrily as the felo rapidly empties its food
+bowl.
+The room grows a bit more chill.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Lily Kaise carefully removes a Tardick lizard named Asteria from her shoulder.
+Lily Kaise puts down a Tardick lizard named Asteria.
+pet asteria
+You stroke a Tardick lizard named Asteria lovingly.
+Cindy the old small red sabre-toothed felo rubs up against a black leather
+sectional sofa, purring softly.
+Morris Corlew strokes the soft fur of Cindy the old small red sabre-toothed
+felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+Michael Winters glances down at his watch momentarily.
+Zandria Marschaund strokes the soft fur of Cindy the old small red sabre-toothed
+felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+Michael Winters strokes the soft fur of Cindy the old small red sabre-toothed
+felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+Xavier the big silver soldier felo marches in from the southwest.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise smiles at you.
+Sakura Arakida says in a Japanese accent, "Oh. Lovely a rift storm."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 1.44 light-trade cycles away toward
+Galactic West and Down.
+Zandria Marschaund says in an Old Earth accent, "Yeah really."
+A Tardick lizard named Asteria flicks its tail.
+Sakura Arakida says in a Japanese accent, "Doesn't look like we'll hit it
+though, thankfully."
+Michael Winters navigates his silver touch einrophone to a text-heavy
+application and peers at the screen.
+Michael Winters switches a silver touch einrophone off.
+Cindy the old small red sabre-toothed felo stares curiously up at Morris Corlew.
+Lily Kaise strokes the soft fur of Cindy the old small red sabre-toothed felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+Morris Corlew strokes the soft fur of Cindy the old small red sabre-toothed
+felo.
+Cindy the old small red sabre-toothed felo purrs softly.
+A Tardick lizard named Asteria trundles slowly southwest.
+You hear what sounds like voices in another part of the ship, but you don't
+recognize them and you can't hear what they're saying.
+The deck suddenly jumps under your feet as you hear a heavy thud from deep
+inside the starship.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+Lily Kaise says in a New Earth accent, "Oh there we go."
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+stand
+You stand up from a rare black EAOSian contoured couch.
+Michael Winters stands up from a black leather sectional sofa.
+out
+[Starship "We Strive To Live In Peace"; Airlock]
+You see a row of flightlockers, a large secure xenology storage container, a
+shiny yellow trash bin, and a sturdy brown plastic crate here.
+You can go enter into the ship.
+use shooting
+You are not currently wearing a spacesuit. Do you wish to suit up now?
+[Enter `yes' or `no']
+y
+You remove spacesuit components from a black flightbag with a red shooting star
+on the side and quickly don them.
+take hyper
+You remove a hyperspanner from a black engineering tool case.
+take manual
+You remove a manual zero-point energy receptacle charger from a black
+engineering tool case.
+Lily Kaise glides in.
+Lily Kaise removes a space imaging photograph of Hyperion from a camera bag.
+Michael Winters strides in.
+Lily Kaise puts a space imaging photograph of Hyperion in a camera bag.
+Lily Kaise closes a camera bag.
+Lily Kaise removes a hyperspanner from a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise removes a manual zero-point energy receptacle charger from a lavender
+silk backpack embroidered with brightly hued butterflies.
+Michael Winters presses a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+Michael Winters carefully opens the hatch and floats outside, into deep space.
+The airlock hatch chimes quietly.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside We Strive To Live In Peace]
+Michael Winters is standing here.
+You can go in any direction using a spacejet, or return to We Strive To Live In
+Peace.
+You are weightless here.
+You carefully open the hatch and float outside.
+Lily Kaise emerges from the science vessel "We Strive To Live In Peace".
+repair
+You float over to a small exterior panel, lift it, and adjust a riftsail
+alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Lily Kaise floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+l winters
+Michael Winters
+He appears to be 23 years old. He is about six feet and two inches tall and has
+light brown skin. His body is athletic with narrow hips and strong calves. He
+has broad shoulders and a muscular chest. His face is oval and handsome, with a
+pointed nose and sharp chin. His lips are full and dark brown and occasionally
+part to reveal a set of white teeth. Beneath a set of thin eyebrows, his eyes
+are green and almond-shaped. His shoulder-length, straight hair is jet black and
+neatly combed.
+ He is wearing a plain black spacesuit helmet, a plain black spacesuit top, a
+pair of plain black spacesuit gloves, a plain black spacesuit bottom, and a pair
+of plain black spacesuit boots. He is also wearing a shaggy black backpack, an
+alliance information assistant, a silver touch einrophone in a black leather
+phone holster, a metachannel FTL communicator and watch, a large expandable
+telescoping xenology container, a thick synthleather bandolier with large
+pockets, a spacesuit navaid, and a reactionless spacesuit jet. His face, both
+eyes, and neck are left uncovered.
+He is carrying a hyperspanner in his right hand, and a manual zero-point energy
+receptacle charger in his left hand.
+repair
+You float over to a small exterior panel, lift it, and adjust a riftsail
+alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Michael Winters floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+You float over to a small exterior panel, lift it, and begin discharging energy
+to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Lily Kaise floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 23 seconds.
+repair
+Wait 18 seconds.
+radio ship
+Wait 10 seconds.
+radio ship
+Wait 6 seconds.
+radio ship
+Wait 5 seconds.
+radio ship
+Wait 3 seconds.
+radio ship
+Wait 2 seconds.
+radio ship
+Wait 1 seconds.
+Michael Winters floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with his hyperspanner.
+radio ship
+Your spacesuit radio is already toggled to SHIP.
+repair
+You float over to a small exterior panel, lift it, and begin discharging energy
+to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Lily Kaise floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with her hyperspanner.
+Michael Winters floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 22 seconds.
+repair
+Wait 15 seconds.
+Lily Kaise floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 8 seconds.
+repair
+Wait 3 seconds.
+repair
+Wait 2 seconds.
+repair
+Wait 1 seconds.
+repair
+You float over to a small exterior panel, lift it, and adjust a riftsail
+alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Michael Winters floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with his hyperspanner.
+repair
+Your suit radio crackles briefly, then:
+Lily Kaise says in a New Earth accent, "All of the times I thought that silly
+drive was breaking down, it didn't."
+Wait 1 seconds.
+repair
+You float over to a small exterior panel, lift it, and begin discharging energy
+to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Michael Winters floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with his hyperspanner.
+'heh
+You say, "Heh."
+repair
+Wait 21 seconds.
+Lily Kaise floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with her hyperspanner.
+Michael Winters floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with his hyperspanner.
+'Figured it was due to breakt soon though
+You say, "Figured it was due to breakt soon though."
+repair
+Lily Kaise floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+Wait 6 seconds.
+Michael Winters floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+You float over to a small exterior panel, lift it, and begin discharging energy
+to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Your suit radio crackles briefly, then:
+Michael Winters says in a Candelaria accent, "Well it broke."
+repair
+Wait 17 seconds.
+Your suit radio crackles briefly, then:
+Lily Kaise says in a New Earth accent, "Yeah but no warning and I don't
+recommend waiting until this point but it didn't forewarn us."
+repair
+Wait 9 seconds.
+repair
+Wait 8 seconds.
+Your suit radio crackles briefly, then:
+Michael Winters says in a Candelaria accent, "Sometimes it won't."
+'I know
+You say, "I know."
+repair
+Wait 4 seconds.
+Michael Winters floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Lily Kaise floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+Wait 2 seconds.
+repair
+Wait 1 seconds.
+repair
+You float over to a small exterior panel, lift it, and begin discharging energy
+to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+repair
+Wait 19 seconds.
+repair
+Wait 11 seconds.
+repair
+Wait 6 seconds.
+Michael Winters floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with his hyperspanner.
+Lily Kaise floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+You float over to a small exterior panel, lift it, and begin discharging energy
+to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Michael Winters floats over to a small exterior panel, lifts it, and adjusts a
+riftsail alignment node with his hyperspanner.
+repair
+Wait 23 seconds.
+repair
+Wait 17 seconds.
+repair
+Wait 17 seconds.
+Michael Winters floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 10 seconds.
+repair
+Wait 4 seconds.
+repair
+Wait 2 seconds.
+repair
+Wait 1 seconds.
+repair
+Wait 1 seconds.
+Lily Kaise floats over to a small exterior panel, lifts it, and begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+You float over to a small exterior panel, lift it, and adjust a riftsail
+alignment node with your hyperspanner.
+External repairs appear to be complete!
+(10 seconds roundtime.)
+enter
+Wait 2 seconds.
+enter
+[Starship "We Strive To Live In Peace"; Airlock]
+You see a row of flightlockers, a large secure xenology storage container, a
+shiny yellow trash bin, and a sturdy brown plastic crate here.
+You can go enter into the ship.
+You float close to the science vessel "We Strive To Live In Peace", open the
+hatch, and carefully float inside, orienting yourself so that your feet hit the
+floor as you enter the ship's artificial gravity field.
+The airlock hatch chimes quietly.
+Michael Winters just boarded the ship.
+The airlock hatch chimes quietly.
+Lily Kaise just boarded the ship.
+Michael Winters presses a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+Michael Winters just entered the ship.
+use shooting
+You are currently wearing portions of a spacesuit. Do you wish to unsuit now?
+[Enter `yes' or `no']
+Lily Kaise just entered the ship.
+y
+The computer announces, "Cycling complete."
+You remove the components of your spacesuit and place them neatly into a black
+flightbag with a red shooting star on the side.
+enter
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair with Sassie the sleeping large fuchsia felo on
+it, a reflective oval coffee table with a transparent yellow plastic top and
+spindly chrome-plated legs, a small yellow battery-operated fan, a shiny yellow
+trash bin, a rare black EAOSian contoured couch, a black leather sectional sofa,
+a modern white pod chair with a cream leather interior, a sleek metal quantum
+entanglement communication device, an elegant crystal decanter, a small black
+cooler, a bottle of peach schnapps, a bottle of expensive cognac, a white time
+meter, a cream plastic box labeled 'Space Imager Photos', Kosmo the humanoid
+service robot, a purple photocopier, and Xavier the big silver soldier felo
+here.
+Simon Collins and Melinda Michaels are sleeping on a black leather sectional
+sofa. Liam O'Toole and Nathaniel Owens are sleeping on a rare black EAOSian
+contoured couch.
+Nissi Valdaire is dozing on a rare black EAOSian contoured couch. Blake Madison
+is sitting on a rare black EAOSian contoured couch. Sakura Arakida and Zandria
+Marschaund are sitting on a black leather sectional sofa. Anfisa of Marzore is
+dozing on a modern white pod chair. Akemi Bando is sitting on a dark yellow
+leather captain's chair. Lily Kaise is standing here.
+You can go southeast, southwest, and out.
+se
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, and a sleek stainless steel beverage machine with purple accents
+here.
+You can go southwest and northwest.
+Lily Kaise glides in from the northwest.
+sw
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+d
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight (casting a soft white glow), a sturdy yellow plastic
+shelf, a tall mirror framed in white rattan, a large bubbling azure blue-lit
+aquarium containing amber and violet aquatic life and round rocks, a glossy gold
+ceramic felo chow bowl, Nekomata the medium-sized blue twin tailed felo, and a
+Tardick lizard named Raissa here.
+You can go east, south, west, up, and down.
+d
+[Starship "We Strive To Live In Peace"; Engineering Deck; Fore]
+s
+You see a crudely hammered scrap metal feeding trough here.
+You can go north, south, and up.
+[Starship "We Strive To Live In Peace"; Engineering Room]
+You see a cream improved temporary wormhole drive, a modern white pod chair with
+a cream leather interior, a wall-sized bubbling coral pink-lit aquarium
+containing yellow and blue aquatic life and multicolored round rocks, a glossy
+blue ceramic felo chow bowl, and Jasmin the small red glowing felo here.
+Morris Corlew and Michael Winters are standing here.
+You can go north, east, south, and west.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Blake Madison walks in from the north.
+Blake Madison opens a black engineering tool case.
+Lily Kaise glides in from the north.
+repair
+Wait 5 seconds.
+Blake Madison removes a hyperspanner from a black engineering tool case.
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 4 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 3 seconds.
+Blake Madison removes a manual zero-point energy receptacle charger from a black
+engineering tool case.
+repair
+Wait 1 seconds.
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Lily Kaise removes the components of her spacesuit and places them neatly into a
+light purple flightbag with a pastel kitten on the side.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Lily Kaise moves some wires aside to locate the problem component, then adjusts
+a riftsail alignment node with her hyperspanner.
+repair
+Wait 5 seconds.
+repair
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then begin
+discharging energy to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Lily Kaise moves some wires aside to locate the problem component, then adjusts
+a riftsail alignment node with her hyperspanner.
+repair
+Wait 25 seconds.
+repair
+Wait 21 seconds.
+repair
+Wait 16 seconds.
+repair
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Wait 14 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Lily Kaise moves some wires aside to locate the problem component, then begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 10 seconds.
+repair
+Wait 8 seconds.
+repair
+Wait 6 seconds.
+repair
+Wait 5 seconds.
+repair
+Wait 4 seconds.
+repair
+Wait 3 seconds.
+repair
+Wait 2 seconds.
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+repair
+Wait 3 seconds.
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Morris Corlew moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Lily Kaise moves some wires aside to locate the problem component, then adjusts
+a riftsail alignment node with her hyperspanner.
+Wait 2 seconds.
+With everything arranged, you settle into the damage control station.
+repair
+Wait 1 seconds.
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Lily Kaise moves some wires aside to locate the problem component, then adjusts
+a riftsail alignment node with her hyperspanner.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then begin
+discharging energy to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Lily Kaise moves some wires aside to locate the problem component, then begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 21 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Wait 13 seconds.
+repair
+Wait 12 seconds.
+repair
+Wait 8 seconds.
+repair
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Wait 5 seconds.
+repair
+Wait 4 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Wait 3 seconds.
+repair
+Wait 2 seconds.
+repair
+Blake Madison moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Wait 2 seconds.
+repair
+You move some wires aside to locate the problem component, then begin
+discharging energy to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+repair
+Wait 24 seconds.
+Lily Kaise moves some wires aside to locate the problem component, then adjusts
+a riftsail alignment node with her hyperspanner.
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Michael Winters says in a Candelaria accent, "Good thing is, the heading is
+still thye same."
+Michael Winters says in a Candelaria accent, "The."
+repair
+Wait 16 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+'Yeah
+You say, "Yeah."
+repair
+Wait 12 seconds.
+repair
+Wait 8 seconds.
+repair
+Morris Corlew moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Wait 5 seconds.
+repair
+Wait 4 seconds.
+Lily Kaise moves some wires aside to locate the problem component, then begins
+discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 3 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+repair
+Wait 2 seconds.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+repair
+Wait 3 seconds.
+repair
+Wait 2 seconds.
+Michael Winters moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then adjust a
+riftsail alignment node with your hyperspanner.
+(10 seconds roundtime.)
+repair
+Wait 1 seconds.
+repair
+You move some wires aside to locate the problem component, then begin
+discharging energy to prime a zero-point energy receptacle.
+(30 seconds roundtime.)
+Blake Madison moves some wires aside to locate the problem component, then
+begins discharging energy to prime a zero-point energy receptacle.
+Morris Corlew moves some wires aside to locate the problem component, then
+adjusts a riftsail alignment node with his hyperspanner.
+Internal repairs appear to be complete!
+The rift drive ought to be operational again!
+Lily Kaise glides north.
+put hyper in case
+Wait 17 seconds.
+put hyper in case
+Wait 13 seconds.
+Michael Winters strides north.
+Morris Corlew meanders north.
+put hyper in case
+Wait 9 seconds.
+put hyper in case
+Wait 5 seconds.
+put hyper in case
+Wait 4 seconds.
+Something deep inside the starship roars to life as the lights dim sharply.
+put hyper in case
+Wait 3 seconds.
+put hyper in case
+Wait 2 seconds.
+put hyper in case
+Wait 1 seconds.
+put hyper in case
+You put a hyperspanner in a black engineering tool case.
+Blake Madison walks north.
+put manual in case
+You put a manual zero-point energy receptacle charger in a black engineering
+tool case.
+n
+[Starship "We Strive To Live In Peace"; Engineering Deck; Fore]
+u
+u
+You see a crudely hammered scrap metal feeding trough here.
+You can go north, south, and up.
+[Starship "We Strive To Live In Peace"; Quarters Deck; Fore]
+You see a bioaugmentation plant in a small pot labeled "Space Invaders", a small
+round white nightlight (casting a soft white glow), a sturdy yellow plastic
+shelf, a tall mirror framed in white rattan, a large bubbling azure blue-lit
+aquarium containing amber and violet aquatic life and round rocks, a glossy gold
+ceramic felo chow bowl, Nekomata the medium-sized blue twin tailed felo, and a
+Tardick lizard named Raissa here.
+You can go east, south, west, up, and down.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, and a glossy lavender ceramic
+felo chow bowl here.
+You can go northeast, northwest, and down.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+nw
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, and a sleek stainless steel beverage machine with purple accents
+here.
+You can go southwest and northwest.
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair with Sassie the sleeping large fuchsia felo on
+it, a reflective oval coffee table with a transparent yellow plastic top and
+spindly chrome-plated legs, a small yellow battery-operated fan, a shiny yellow
+trash bin, a rare black EAOSian contoured couch, a black leather sectional sofa,
+a modern white pod chair with a cream leather interior, a sleek metal quantum
+entanglement communication device, an elegant crystal decanter, a small black
+cooler, a bottle of peach schnapps, a bottle of expensive cognac, a white time
+meter, a cream plastic box labeled 'Space Imager Photos', Kosmo the humanoid
+service robot, a purple photocopier, and Xavier the big silver soldier felo
+here.
+Simon Collins and Melinda Michaels are sleeping on a black leather sectional
+sofa. Liam O'Toole and Nathaniel Owens are sleeping on a rare black EAOSian
+contoured couch.
+Nissi Valdaire is dozing on a rare black EAOSian contoured couch. Anfisa of
+Marzore is dozing on a modern white pod chair. Akemi Bando is sitting on a dark
+yellow leather captain's chair. Michael Winters and Lily Kaise are standing
+here. Sakura Arakida, Zandria Marschaund, and Morris Corlew are sitting on a
+black leather sectional sofa. Blake Madison is sitting on a rare black EAOSian
+contoured couch.
+You can go southeast, southwest, and out.
+The computer beeps in an imperative manner and informs you that the starship's
+sensors have detected a new location of interest in the riftflow.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+Blake Madison puts a hyperspanner in a black engineering tool case.
+You hear a loud call in front of you, and the flock shifts as one, finding a new
+updraft.
+Blake Madison puts a manual zero-point energy receptacle charger in a black
+engineering tool case.
+Blake Madison closes a black engineering tool case.
+Morris Corlew puts a hyperspanner in a scorched metal thigh holster.
+Michael Winters removes the components of his spacesuit and places them neatly
+into a black flightbag.
+Morris Corlew puts a manual zero-point energy receptacle charger in a scorched
+metal thigh holster.
+Morris Corlew closes a scorched metal thigh holster.
+Michael Winters puts a hyperspanner in a shaggy black backpack.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Michael Winters puts a manual zero-point energy receptacle charger in a shaggy
+black backpack.
+Michael Winters closes a shaggy black backpack.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Michael Winters sits down on a rare black EAOSian contoured couch.
+Lily Kaise says in a New Earth accent, "We gained a little more distance from
+the storm as well."
+nod
+You nod.
+Xavier the big silver soldier felo marches southwest.
+Lily Kaise says in a New Earth accent, "So we were over 4.6 LTC out but I didn't
+get a last look before we dropped out."
+Lily Kaise blinks heavily and then dozes off.
+Morris Corlew says in an Old Earth accent, "Last I saw was we'd gone 4.89LTC, so
+probably 4.9."
+Sassie the large fuchsia felo jumps down from a dark yellow leather captain's
+chair.
+Morris Corlew switches a message board reader on and peers at the screen.
+Morris Corlew switches a message board reader off.
+Sassie the large fuchsia felo hums melodically to itself as it wanders
+southeast.
+Xavier the big silver soldier felo marches in from the southwest.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Xavier the big silver soldier felo stares curiously up at Nissi Valdaire.
+Blake Madison says to Xavier the big silver soldier felo in a Candelarian
+accent, "Don't stare. It's rude."
+Morris Corlew chuckles.
+chuckle
+You chuckle.
+-xavier Ignore him.
+Zandria Marschaund strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs softly.
+You say to Xavier the big silver soldier felo, "Ignore him."
+Zandria Marschaund grins.
+Blake Madison says to Xavier the big silver soldier felo in a Candelarian
+accent, "Nooooooooooooooooooo. Don't ignore me."
+grin zandria
+You grin at Zandria Marschaund.
+Michael Winters snickers.
+Blake Madison strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs softly.
+Michael Winters strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs softly.
+Akemi Bando slumps in a dark yellow leather captain's chair and goes to sleep.
+Lily Kaise glances around at her surroundings.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise says in a New Earth accent, "I heard something about 4.9 in my sleep
+so we'll go with that."
+Lily Kaise laughs.
+laugh
+You laugh.
+Lily Kaise cuddles up to you.
+Morris Corlew smiles. "It's close as I can get."
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise says in a New Earth accent, "It's fine."
+Xavier the big silver soldier felo marches southwest.
+Lily Kaise says in a New Earth accent, "Pretty relative as we're on the final
+stretch anyway. I'm sure someone will check our location along the way."
+nod
+You nod.
+Morris Corlew nods.
+Lily Kaise says in a New Earth accent, "Hopefully we'll out run this storm
+before we're pushed down too far but we're still a good distance away so no need
+to be over-concerned."
+nod
+You nod.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 1.51 light-trade cycles away toward
+Galactic Westnorthwest and Down.
+Morris Corlew says in an Old Earth accent, "It looks like we're passing it ok.
+It keeps being further below us and is now more to our north than before. I
+think it started out SSW, but could be off on that."
+The flock's leader retires to another part of the V formation, and another bird
+replaces it.
+Lily Kaise says in a New Earth accent, "It did so we're fine."
+Sakura Arakida nods.
+Sakura Arakida says in a Japanese accent, "Looks like we're past rifty."
+Sakura Arakida says in a Japanese accent, "Uh stormy."
+Morris Corlew chuckles at Sakura Arakida.
+Lily Kaise nods.
+Sakura Arakida says in a Japanese accent, "Uh. Think I need food."
+Blake Madison scrambles to his feet.
+Blake Madison walks southeast.
+Sakura Arakida blinks and blinks and blinks.
+Sakura Arakida stands up from a black leather sectional sofa.
+Sakura Arakida strides southwest.
+Blake Madison walks in from the southeast.
+Blake Madison asks in a Candelarian accent, "Where'd she go?"
+Morris says to Blake, "To get food."
+Michael Winters says in a Candelaria accent, "Away, far far away."
+Blake Madison gives you a shot of whiskey.
+Blake Madison sits down on a rare black EAOSian contoured couch.
+The flock finds a large updraft and rapidly gains altitude.
+grin
+You grin.
+Michael Winters says in a Candelaria accent, "Whhiskey isn't food."
+drink whiskey
+You take a sip of a shot of whiskey.
+Lily Kaise chuckles.
+drink wiskey
+Lily says to you in a New Earth accent, "Wow."
+Drink what?
+Lily Kaise laughs.
+drink shot
+You take a sip of a shot of whiskey.
+chuckle
+You chuckle.
+drain shot
+You quickly drain a shot of whiskey.
+i
+ You are wearing a black t-shirt with a colorful map of local space on the
+front, a pair of blue corduroy jeans, and a pair of washed light khaki canvas
+sneakers. Underneath this, you are wearing a pair of white cotton briefs and a
+pair of black socks. You are also wearing a keychain, a metallic gold touch
+einrophone in a black leather phone holster, a gold wrist-mounted chronometer, a
+metallic silver metachannel FTL communicator, a solid silver ring engraved with
+dolphins, and a black guitar case. You are concealing a leather briefcase, a
+golden Feng Wo coin purse, a black flightbag with a red shooting star on the
+side, a camera bag, an asteroid hauling supply kit, a flight control scanner, a
+large expandable telescoping xenology container, a black engineering tool case,
+a thick synthleather bandolier with large pockets, and a scorched metal thigh
+holster. Your head, face, both eyes, neck, both elbows, both forearms, both
+wrists, and both hands are left uncovered.
+You are carrying a shot glass in your right hand.
+put glass in trash
+You put a shot glass in a shiny yellow trash bin.
+Lily Kaise blinks at you.
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+Xavier the big silver soldier felo marches in from the southwest.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Michael says to Xavier the big silver soldier felo in a Candelaria accent, "Bite
+him."
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in Local Ship Message Board/We Strive To Live In Peace/General.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (15/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Read Message Boards
+[6] Clear Unread Message Board Posts
+[7] Space Station Reference
+[8] Silence
+[9] Nothing
+Enter your selection:
+5
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] AEU
+  [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+4
+--
+FTL Interalliance Communications Network
+--
+* [1] We Strive To Live In Peace
+--
+  [2] Return
+  [3] Quit
+--
+Enter your selection:
+Morris Corlew switches a message board reader on and peers at the screen.
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] Announcements
+* [2] General
+--
+  [3] Return
+  [4] Quit
+--
+Enter your selection:
+2
+--
+FTL Interalliance Communications Network
+--
+  [1] Repairs at 13.25 LTC                                                      
+     (Akemi Bando)
+  [2] Nebular Signature 6466-9001                                               
+     (Kim Saunders)
+  [3] Pre-Stellar Object 6633-8706                                              
+     (Akemi Bando)
+  [4] Rift drive repairs                                                        
+     (Kim Saunders)
+  [5] Rift drive repairs 2                                                      
+     (Akemi Bando)
+  [6] Rift drive repairs 3                                                      
+     (Akemi Bando)
+  [7] Rift drive repairs 4                                                      
+     (Akemi Bando)
+  [8] Don't forget to put things back                                           
+     (Akemi Bando)
+  [9] More repairs and hopefully out of the storm now                           
+     (Kim Saunders)
+  [10] Chamber of Dust                                                          
+     (Akemi Bando)
+  [11] Pre-Stellar Object 8423-3084                                             
+     (Kim Saunders)
+  [12] Re: Pre-Stellar Object 8423-3084                                         
+     (Kim Saunders)
+  [13] Rift drive repairs 6                                                     
+     (Akemi Bando)
+  [14] the final dust                                                           
+     (Kim Saunders)
+  [15] the final memories                                                       
+     (Nathaniel Owens)
+  [16] the final memories                                                       
+     (Nathaniel Owens)
+  [17] rift drive repairs 7                                                     
+     (Kim Saunders)
+  [18] Pre-Stellar Object 2114-9398                                             
+     (Kim Saunders)
+  [19] Planetary System 5813-8638                                               
+     (Kim Saunders)
+  [20] Planetary System 8611-8765                                               
+     (Kim Saunders)
+  [21] rift drive repairs 8                                                     
+     (Kim Saunders)
+  [22] Pulsar 8164-9195                                                         
+     (Kim Saunders)
+  [23] zapped                                                                   
+     (Melinda Michaels)
+  [24] Returning home                                                           
+     (Akemi Bando)
+  [25] Re: Returning home                                                       
+     (Akemi Bando)
+  [26] Re: Returning home                                                       
+     (Blake Madison)
+  [27] Re: Returning home                                                       
+     (Akemi Bando)
+  [28] Nebular Signature 2623-0935                                              
+     (Kim Saunders)
+  [29] Pre-Stellar Object 6712-6277                                             
+     (Kim Saunders)
+  [30] Opik-Oort Signature 3747-3454                                            
+     (Lily Kaise)
+  [31] Nebular Signature 0742-0149                                              
+     (Kim Saunders)
+  [32] Planetary System 2552-4914                                               
+     (Lily Kaise)
+* [33] Drive Repairs                                                            
+     (Lily Kaise)
+--
+  [34] Return
+  [35] Post
+  [36] Quit
+--
+Enter your selection:
+33
+--
+FTL Interalliance Communications Network
+--
+Subject: Drive Repairs
+Author: Lily Kaise
+Posted: 01:16 13 June 2316 GST
+--
+After Anfisa charter around 2050 and indicated we were 30 LTC from Comms, we
+traveled approximately 4.9 lTC and dropped to repair the drive.
+We're also leaving an energetic riftstorm behind as it was West Northwest of us
+so life is grande!
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+Morris Corlew switches a message board reader off.
+The sound of wind and flapping wings fills your ears.
+Lily Kaise says in a New Earth accent, "Woo 79 from Torus."
+4
+A Tardick lizard named Raissa trundles slowly into the area.
+Logged out of FTL Message Board Net.
+grin
+You grin.
+Michael Winters navigates his silver touch einrophone to a text-heavy
+application and peers at the screen.
+Morris Corlew says in an Old Earth accent, "Nice! And 27 from Earthgate. Home,
+here we come."
+Michael Winters switches a silver touch einrophone off.
+locate
+You listen for a moment to the NDB pings from Earthgate. They seem fairly faint.
+The signal strength meter reads: 27%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem fairly loud. The signal strength meter reads: 79%.
+A Tardick lizard named Raissa flicks its tail.
+Lily Kaise says in a New Earth accent, "Yeah see we've been pushed down some so
+I'm glad we're on our way from that storm."
+nod 'Me too
+You nod. "Me too."
+Morris Corlew nods.
+Xavier the big silver soldier felo marches southeast.
+Lily Kaise puts a hyperspanner in a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise puts a manual zero-point energy receptacle charger in a lavender silk
+backpack embroidered with brightly hued butterflies.
+Sakura Arakida strides in from the southeast.
+Peaches the little white CatBot trots happily in after Sakura Arakida with a
+quiet hiss of hydraulics.
+Sakura Arakida sits down on a cream oriental rug with an intricate yellow flower
+pattern.
+Sakura Arakida grins at Zandria Marschaund.
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Lily Kaise glides southeast.
+Morris Corlew scrambles to his feet.
+Morris Corlew meanders southeast.
+Morris Corlew meanders in from the southeast.
+Morris Corlew sits down on a black leather sectional sofa.
+Morris Corlew takes a sip of a cup of hot apricot tea.
+A bird grows tired and falls behind the V formation. You take its place.
+peer se
+You peer southeast...
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+Objects and walls inside the ship seem faintly translucent, and when in your
+periphery seem to disappear completely, replaced with perfect blue sky and puffy
+white clouds. The ship flies as part of a flock, birds stretching off into the
+distance. Lights overhead indicate that the ship is on green status. Looking
+through the windows, you see that the ship is inside the riftflow.
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, and
+Xavier the big silver soldier felo here.
+You can go southwest and northwest.
+se
+You scramble to your feet.
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, and
+Xavier the big silver soldier felo here.
+You can go southwest and northwest.
+sw
+[Starship "We Strive To Live In Peace"; Command Ring; Aft]
+You see a large silver vending machine, a large red popcorn popper with chrome
+accents, an emerald green ice cream dispenser, a glossy lavender ceramic felo
+chow bowl, and Cindy the old small red sabre-toothed felo here.
+Lily Kaise is standing here.
+You can go northeast, northwest, and down.
+hug lily
+You hug Lily Kaise.
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says in a New Earth accent, "I was looking for asteria."
+'Ah
+You say, "Ah."
+grin
+You grin.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+mid-back length, straight hair is pale honey blonde and swept up into a thick
+fall of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+She seems to have a bruise on her forehead. 
+ She is wearing a black t-shirt with an image of the Floating Buddha on the
+front, a pair of white capri pants, and a pair of sparkly white leather clogs.
+She is also wearing an orange and white blessed prayer bracelet around her
+wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a neon
+purple wrist-mounted chronometer, a solid silver ring engraved with dragonflies,
+a delicate ring of silver wire and small purple amethyst crystals, a metallic
+gold touch einrophone in a metallic purple reinforced plastic phone holster, a
+soft fuchsia Tardick lizard snuggly labeled 'Asteria', and a clear camera with a
+saucy strap. Her head, face, both eyes, neck, both elbows, both forearms, both
+wrists, both hands, both knees, both calves, and both ankles are left uncovered.
+She is carrying nothing.
+Lily Kaise says in a New Earth accent, "I didn't find her so guess she's in
+someone's room."
+nod 'Probably
+You nod. "Probably."
+Cindy the old small red sabre-toothed felo wanders northwest.
+Lily Kaise glides northeast.
+ne
+[Starship "We Strive To Live In Peace"; Command Ring; Starboard]
+You see a shiny yellow trash bin, a large stainless steel refrigerator, a
+folding metal-framed chair, a stainless steel microwave oven, a stainless steel
+kitchen table, a sleek stainless steel beverage machine with purple accents, and
+Xavier the big silver soldier felo here.
+Lily Kaise is standing here.
+You can go southwest and northwest.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+mid-back length, straight hair is pale honey blonde and swept up into a thick
+fall of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+She seems to have a bruise on her forehead. 
+ She is wearing a black t-shirt with an image of the Floating Buddha on the
+front, a pair of white capri pants, and a pair of sparkly white leather clogs.
+She is also wearing an orange and white blessed prayer bracelet around her
+wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a neon
+purple wrist-mounted chronometer, a solid silver ring engraved with dragonflies,
+a delicate ring of silver wire and small purple amethyst crystals, a metallic
+gold touch einrophone in a metallic purple reinforced plastic phone holster, a
+soft fuchsia Tardick lizard snuggly labeled 'Asteria', and a clear camera with a
+saucy strap. Her head, face, both eyes, neck, both elbows, both forearms, both
+wrists, both hands, both knees, both calves, and both ankles are left uncovered.
+She is carrying nothing.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Lily Kaise glides northwest.
+nw
+[Starship "We Strive To Live In Peace"; Control Room]
+You see a cream wormhole drive tracer, a cream destination finder, a cream time
+meter, a cream oriental rug with an intricate yellow flower pattern, a dark
+yellow leather captain's chair, a reflective oval coffee table with a
+transparent yellow plastic top and spindly chrome-plated legs, a small yellow
+battery-operated fan, a shiny yellow trash bin, a rare black EAOSian contoured
+couch, a black leather sectional sofa, a modern white pod chair with a cream
+leather interior, a sleek metal quantum entanglement communication device, an
+elegant crystal decanter, a small black cooler, a bottle of peach schnapps, a
+bottle of expensive cognac, a white time meter, a cream plastic box labeled
+'Space Imager Photos', Kosmo the humanoid service robot, a purple photocopier, a
+Tardick lizard named Raissa, and Peaches the little white CatBot here.
+Simon Collins and Melinda Michaels are sleeping on a black leather sectional
+sofa. Liam O'Toole and Nathaniel Owens are sleeping on a rare black EAOSian
+contoured couch. Akemi Bando is sleeping on a dark yellow leather captain's
+chair.
+Anfisa of Marzore is dozing on a modern white pod chair. Nissi Valdaire, Michael
+Winters, and Blake Madison are sitting on a rare black EAOSian contoured couch.
+Sakura Arakida is sitting on a cream oriental rug. Zandria Marschaund and Morris
+Corlew are sitting on a black leather sectional sofa. Lily Kaise is standing
+here.
+You can go southeast, southwest, and out.
+sit couch
+You sit down on a rare black EAOSian contoured couch.
+Lily Kaise nods to you.
+Lily Kaise sits down on a rare black EAOSian contoured couch.
+Lily Kaise picks up a purple photocopier.
+A Tardick lizard named Raissa flicks its tail.
+Sakura runs a hand through her hair. I think. I'm going to rest, for a bit.
+Lily Kaise opens a camera bag.
+Lily Kaise puts a purple photocopier in a camera bag.
+Lily Kaise closes a camera bag.
+Zandria Marschaund says in an Old Earth accent, "Good idea."
+Sakura Arakida waves.
+Sakura Arakida stands up from a cream oriental rug with an intricate yellow
+flower pattern.
+Sakura Arakida strides southeast.
+Peaches the little white CatBot trots happily after Sakura Arakida with a quiet
+hiss of hydraulics.
+Zandria Marschaund waves.
+Zandria Marschaund stands up from a black leather sectional sofa.
+Zandria Marschaund lopes southwest.
+Lily Kaise says into the PA microphone, "Please let me know if Asteria is in
+your room?"
+Morris Corlew takes a sip of a cup of hot apricot tea.
+Zandria Marschaund's voice comes over the loudspeaker and says, "She's down
+here."
+Lily Kaise says into the PA microphone, "Ah ok."
+Lily Kaise stands up from a rare black EAOSian contoured couch.
+Lily Kaise glides southeast.
+Zandria Marschaund's voice comes over the loudspeaker and says, "Night night
+everyone."
+Morris Corlew says into the PA microphone, "Sleep well Zandria."
+Lily Kaise's voice comes over the loudspeaker and says, "Nite and found that
+wandering lizard."
+Zandria Marschaund's voice comes over the loudspeaker and says, "Yay! And sleep
+well."
+Lily Kaise glides in from the southeast.
+Lily Kaise says to you in a New Earth accent, "Do you wat to hold asteria or
+doyou plan to go to sleep soon?"
+Lily Kaise grins.
+grin 'Sure, I'll be awake for a while longer still.
+You grin. "Sure, I'll be awake for a while longer still."
+Lily Kaise says in a New Earth accent, "Ah ok."
+Lily Kaise gives you a Tardick lizard named Asteria.
+grin lily
+You grin at Lily Kaise.
+pet asteria
+You stroke a Tardick lizard named Asteria lovingly.
+wear asteria
+Lily Kaise says in a New Earth accent, "You haven't gotten to hold her much
+lately so."
+You settle a Tardick lizard named Asteria on your shoulder, its tail curled
+loosely around you.
+Lily Kaise says in a New Earth accent, "More like let her perch on you."
+Lily Kaise laughs.
+A Tardick lizard named Raissa trundles slowly southeast.
+laugh
+You laugh.
+"What's the story with the lizards anyway?" Morris Corlew grins. "I know how
+people started keeping felo as pets, but have never heard much about the
+lizards."
+sit couch
+You're already sitting.
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+Lily Kaise says in a New Earth accent, "We traded for them out in the Feng Wo
+Trading Collective."
+The flock banks suddenly, and you turn to follow, but no other bird is in sight.
+The scene abruptly fades.
+Morris Corlew nods. "Ah ok."
+Bursts of multicolored light suddenly blind you as they slice across your view,
+forming winding pathways through billowing clouds.
+Lily Kaise says in a New Earth accent, "One was auctioned off for a project for
+League and Cesar traded for one and sold it but I traded for mine."
+Morris Corlew says in an Old Earth accent, "They must be pretty rare."
+Lily Kaise says in a New Earth accent, "They are. There's something like 8 I
+think amongst pilots."
+Morris Corlew asks in an Old Earth accent, "Do they ever...uh...reproduce?"
+Lily Kaise says in a New Earth accent, "That... we uh don't know but we've had
+them on trips all trundling around and so far, no preggo lizards. They were
+likely neutered but who knows how they breed them."
+nod
+You nod.
+Morris Corlew grins. "They don't seem to notice each other the way the felo do."
+Lily Kaise says in a New Earth accent, "You'll some of the traders with them on
+their shoulders as well but other than feeding and care, the little letter we
+get in their cage is pretty brief."
+Xavier the big silver soldier felo marches in from the southeast.
+Lily Kaise says in a New Earth accent, "I'meant to say you'll see."
+Morris Corlew nods to Lily Kaise.
+Morris Corlew says in an Old Earth accent, "Wish I knew more about them. They're
+pretty cool."
+Lily Kaise says in a New Earth accent, "They are."
+'They are cool.
+You say, "They are cool."
+'I want one of my own
+You say, "I want one of my own."
+'Then I won't have to kidnap  Lily's.
+You say, "Then I won't have to kidnap Lily's."
+Lily Kaise removes a small purple ball containing a dingling bell from a
+lavender silk backpack embroidered with brightly hued butterflies.
+Morris Corlew grins at you.
+Lily Kaise laughs.
+Lily Kaise puts a small purple ball containing a dingling bell in a coral pink
+silk handbag embroidered with pastel dragonflies.
+grin
+You grin.
+Lily Kaise removes a sparkly purple canvas photo album with a gold star print
+from a coral pink silk handbag embroidered with pastel dragonflies.
+Lily Kaise puts a sparkly purple canvas photo album with a gold star print in a
+coral pink silk handbag embroidered with pastel dragonflies.
+Lily Kaise closes a coral pink silk handbag embroidered with pastel dragonflies.
+Lily Kaise removes a sparkly purple plastic paper dispenser from a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise opens a coral pink silk handbag embroidered with pastel dragonflies.
+Lily Kaise puts a sparkly purple plastic paper dispenser in a coral pink silk
+handbag embroidered with pastel dragonflies.
+Lily Kaise closes a coral pink silk handbag embroidered with pastel dragonflies.
+Lily Kaise removes a small sparkly light purple portfolio from a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise puts a small sparkly light purple portfolio in a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise removes a red lacquered letter box decorated with carvings of flowers
+and dragonflies from a lavender silk backpack embroidered with brightly hued
+butterflies.
+Lily Kaise removes a lizard-scented informative note from a red lacquered letter
+box decorated with carvings of flowers and dragonflies.
+Lily Kaise puts a red lacquered letter box decorated with carvings of flowers
+and dragonflies in a lavender silk backpack embroidered with brightly hued
+butterflies.
+Lily Kaise removes a letter from a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise puts down a letter.
+read letter
+--
+Lily,
+Please, I said I was sorry. I waited to see if Kim would volunteer and when she
+did, I figured we wouldn’t be able to get the crew together to clear Old
+Frontier as we’d have to find someone else to replace her or wait anyways. If
+it makes you feel better, then fine, call me selfish. Maybe I am, but I’ve
+looked the other way plenty of times when I’ve been left out of beacons or
+activities because I had to doze for a few minutes. I didn't know it was going
+to be such a big deal. You probably have seen me go on beacons even though I've
+done all of mine just to let someone else complete theirs and of course, I would
+do the same for you. If a slot had opened up on this beacon, I would have
+suggested you immediately. Unfortunately, no slots opened up. If other beacons
+are called for while I'm asleep, then go for it.
+Guess I'm not as perfect as you so claimed I was last night. I do hope you find
+that perfect someone someday, but apparently it's not me.
+With a sad and broken heart,
+Shule
+--
+Lily Kaise picks up a letter.
+read letter
+Read what?
+Lily Kaise puts a letter in a lavender silk backpack embroidered with brightly
+hued butterflies.
+Lily Kaise puts down a lizard-scented informative note.
+Lily Kaise says in a New Earth accent, "These are the instructions haha."
+read note
+--
+Congratulation on new friend of Tardick lizard from famous Tardick sun of Feng
+Wo!
+Care of Tardick lizard is simple! It eat! And eat! And eat and then slowly
+digest for long time, almost forty cycle!
+Hardly ever need to remember to feed! Just fill it up yum and all done!
+Tardick lizard is good friend! Care about nothing if tummy is full! Put on
+shoulder to show off to friends! Tardick lizard not care!
+Enjoy new friend! Please travel to Tardick Station if question!
+--
+Lily Kaise picks up a lizard-scented informative note.
+Morris Corlew laughs and laughs.
+Lily Kaise removes a red lacquered letter box decorated with carvings of flowers
+and dragonflies from a lavender silk backpack embroidered with brightly hued
+butterflies for a moment.
+Lily Kaise puts a lizard-scented informative note in a red lacquered letter box
+decorated with carvings of flowers and dragonflies.
+Lily Kaise says in a New Earth accent, "Yeah pretty funny."
+grin
+You grin.
+Lily Kaise says in a New Earth accent, "I laugh everytime I read that."
+Morris says to Lily, "I can see why."
+Lily Kaise says in a New Earth accent, "40 cycles is a week."
+Morris Corlew nods.
+Lily Kaise says in a New Earth accent, "But I tend to keep mine full in case I
+am unable to tend to it."
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on your shoulder, and its spine ridges flicker blue for a brief moment.
+Morris Corlew says in an Old Earth accent, "Thank the stars they don't overeat,
+or knowing me, I'd overfeed one."
+Lily Kaise says in a New Earth accent, "Haha I know."
+chuckle and grin
+You chuckle and grin.
+Lily Kaise says in a New Earth accent, "I'll be honest. The first time I saw
+Ather's whose lizard is the first one amongst pilots, I thought it a little
+weird for someone to walk around with a lizard on their shoulder. They are
+pretty novel though and after awhile I knew I wanted one."
+"I doubt I could afford one for quite some time." Morris Corlew nods.
+"Also...don't you need a rift drive to get to Feng Wo?"
+Lily Kaise says in a New Earth accent, "Ather doesn't do that though but Nissi
+was the first pilot I saw with one on her shoulder and that was cool."
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+An energetic riftstorm appears to be 1.74 light-trade cycles away toward
+Galactic Westnorthwest and Slightly Down.
+Lily Kaise says in a New Earth accent, "I love it when they put their tail
+around your neck although they're not supposed to have any emotions, I feel like
+it's a form of affection haha."
+Morris Corlew says in an Old Earth accent, "Nice speed there."
+nod and grin
+You nod and grin.
+A Tardick lizard named Raissa trundles slowly into the area.
+Morris Corlew nods to Lily Kaise. "That's what it seems like."
+Morris Corlew strokes a Tardick lizard named Raissa lovingly.
+Lily Kaise exclaims in a New Earth accent, "Yeah we are moving!"
+A Tardick lizard named Raissa flicks its tongue out.
+Lily Kaise strokes a Tardick lizard named Raissa lovingly.
+pet asteria
+You stroke a Tardick lizard named Asteria lovingly.
+Xavier the big silver soldier felo stares curiously up at Nissi Valdaire.
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+Lily Kaise strokes the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet xavier
+You stroke the soft fur of Xavier the big silver soldier felo.
+Xavier the big silver soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+locate
+You listen for a moment to the NDB pings from Earthgate. They seem fairly faint.
+The signal strength meter reads: 29%.
+You listen for a moment to the extra long-range NDB pings from The Torus. They
+seem fairly loud. The signal strength meter reads: 79%.
+The computer beeps in an imperative manner and informs you that the starship's
+sensors have detected a new location of interest in the riftflow.
+rift loc
+You have the computer scan the riftflow for nearby things of interest.
+A readout shows Nebular Signature 5696-1195 about 19.11 light-grand cycles
+toward Galactic West and Slightly Down.
+An energetic riftstorm appears to be 1.81 light-trade cycles away toward
+Galactic Northwest and Slightly Down.
+'Are we going to stop for that?
+You ask, "Are we going to stop for that?"
+Lily Kaise says in a New Earth accent, "Well."
+Michael Winters says in a Candelaria accent, "Probably not."
+Lily Kaise says in a New Earth accent, "It's not that far from the rift storm."
+Blake Madison says in a Candelarian accent, "It's not that far off track."
+Morris Corlew says in an Old Earth accent, "I'd be worried we'd get caught up in
+the storm if we did."
+Lily Kaise says in a New Earth accent, "Let's see if we've discovered it
+already."
+nod lily
+You nod to Lily Kaise.
+nod lily
+nod lily
+#end
+#SESSION 'star' DIED.

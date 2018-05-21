@@ -1,0 +1,226 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Tue Jul 18 12:11:18 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+Miriani
+I don't understand that.
+#Miriani
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Trading is the best way to make credits, if you can find the right route.
+**
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m#SNOOPING SESSION 'StarConquest'[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a high tech silver star print holovid, Purr the humanoid service
+robot, and a compact white refrigerator here.
+Lily Kaise is sleeping on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+who
+There appear to be 10 pilots recently active.
+The communicator network detects:
+Shule Elemmire  (A) [m]
+Eli Grey  (A)
+Vernos Bailey  (A)
+Johann Schraft  (L)
+Nissi Valdaire  (L) [a]
+Ali Candan  (L)
+Rogue Romano  (F)
+Evenia an Eachtrannach  (F)
+Cheri Lindbergh  (M)
+Aisling an Eachtrannach  (M)
+Additionally, there are 8 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 18 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Rsessions
+I don't understand that.
+#session
+[0m#THESE SESSIONS HAVE BEEN DEFINED:[0m
+[0m  5 Miriani             toastsoft.net:1234           (snooped)[0m
+[0m  6 StarConquest      104.181.170.164:7777  (active) (snooped) (logging)[0m
+#Miriani
+A large semi-transparent spherical creature with long dangling tendrils and a
+green glowing interior drifts slowly across the tank.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Yo Shule."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Are we
+responsible for the 777 salvage processor?"
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Hey there. And
+yes, we are."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Ah, okay, I
+flew out there earlier and saw that it was down. Let me know if you want help
+deploying it."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Also I crushed
+a high beacon earlier."
+[Space Explorers Amidst The Stars] Constantine Stone cheers.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "10 more points
+for a clipper!"
+[Space Explorers Amidst The Stars] Shule Elemmire cheers for Constantine Stone!
+[General Communication] Lexie Amarras transmits, "I have returned, not rested,
+but restored unto all and sundry, especially sundry."
+[General Communication] Morris Corlew transmits, "Ok."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Shule, are you busy at
+the moment?"
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Ok, how about
+constantine? Vernos?"
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+17,091,796.88 credits from a xenology submission.
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "What's up?"
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior pulsates gently.
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 1,037,884.99 EAOS credits from a toll payment to League Rift
+Accelerating Battery-Powered Toll Station in Mir.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a plastic flower with red petals.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+fuchsia glowing interior pulsates gently.
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Salvage Processing Nuclear Rest Station in Artifact
+Beacon Alpha 777.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+chartreuse glowing interior pulsates gently.
+A hairy yellow eight-legged ArachnoPal named Higgins taps his claws on the
+floor.
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at a white plastic undersea castle and clings to it for a moment,
+then jets off.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 1,037,884.99 EAOS credits from a toll payment to League Rift
+Accelerating Battery-Powered Toll Station in Mir.
+A long yellow soft-bodied creature with many claw-tipped tentacles swims around
+a small plastic statue of a shark.
+A large thickly-shelled creature with a red shell and four small claws rears up
+against the glass and snaps its claws at the outside world.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior drifts slowly across the tank.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+chartreuse glowing interior drifts slowly across the tank.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 373,763.80 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in Home Beacon Gamma 001.
+A large thickly-shelled creature with a yellow shell and four small claws creeps
+across the bottom of the tank, snapping its many claws rapidly.

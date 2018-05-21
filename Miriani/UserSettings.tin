@@ -1,0 +1,5 @@
+#CLASS {UserSettings} OPEN
+
+#VARIABLE         {Logging}  {{Enabled}{Yes}{Timestamps}{Yes}}
+
+#CLASS {UserSettings} CLOSE

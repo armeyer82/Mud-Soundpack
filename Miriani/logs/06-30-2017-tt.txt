@@ -1,0 +1,1822 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Tue Jun 13 20:55:14 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+[0m#SNOOPING SESSION 'StarConquest'[0m
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+and Purr the humanoid service robot here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: If you see a strange person, see if you can TALK to them.
+**
+connect-miriani
+[0m#TRYING TO CONNECT 'Miriani' TO 'toastsoft.net' PORT '1234'.[0m
+A large semi-transparent spherical creature with long dangling tendrils and a
+green glowing interior drifts slowly past a small plastic statue of a Jinu.
+A firmly rooted animal with dozens of smooth yellow tendrils slowly waves its
+many tendrils.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the airlock.
+Mischief the large black felo hums melodically to itself as it wanders south.
+A firmly rooted animal with dozens of smooth yellow tendrils slowly waves its
+many tendrils.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+A long gold soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a plastic flower with red petals.
+Mischief the large black felo rubs up against your leg with a quiet "Mrrp.".
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+yellow glowing interior drifts slowly across the tank.
+Mischief the large black felo hums melodically to itself as it wanders south.
+A long yellow soft-bodied creature with many claw-tipped tentacles swims around
+a string of light purple plastic kelp.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We've met our
+first tier performance goal! Let's keep pushing for the second!"
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[General Communication] Jacob Smitt transmits, "Hey Shule?"
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+who
+There appear to be 16 pilots recently active.
+The communicator network detects:
+Vernos Bailey  (A)
+Shule Elemmire  (A) [m]
+Kerry Rodriguez  (L)
+Mark Washington  (L)
+Jada Nelson  (L)
+James Seiko  (L) [c]
+Damien Goss  (L)
+Jacob Smitt  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Ali Candan  (L)
+Nathaniel Owens  (F)
+Hakeem Oiadip  (F)
+Gonzales Bourne  (F)
+Aisling the Fox  (M)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+tra gen Hello all.
+[General Communication] Shule Elemmire transmits, "Hello all."
+[General Communication] Melinda Michaels transmits, "Hi."
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+Purr the humanoid service robot, and a hairy yellow eight-legged ArachnoPal
+named Higgins here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+[General Communication] Hakeem Oiadip transmits, "Yo."
+sit couch
+You're already sitting.
+who
+There appear to be 16 pilots recently active.
+The communicator network detects:
+Vernos Bailey  (A)
+Shule Elemmire  (A) [m]
+Kerry Rodriguez  (L)
+Mark Washington  (L)
+Jada Nelson  (L)
+James Seiko  (L) [c]
+Damien Goss  (L)
+Jacob Smitt  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Ali Candan  (L)
+Nathaniel Owens  (F)
+Hakeem Oiadip  (F)
+Gonzales Bourne  (F)
+Aisling the Fox  (M)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[General Communication] Jacob Smitt transmits, "Hey Shule, If you get a chance.
+Can you ask Lily if we were going to be putting up a toll station out of Mir?"
+tra gen Ok. I will ask her this evening when I see her.
+[General Communication] Shule Elemmire transmits, "Ok. I will ask her this
+evening when I see her."
+[General Communication] Jacob Smitt transmits, "Just when you see her, if I
+should forget."
+who
+There appear to be 16 pilots recently active.
+The communicator network detects:
+Vernos Bailey  (A)
+Shule Elemmire  (A) [m]
+Kerry Rodriguez  (L)
+Mark Washington  (L)
+Jada Nelson  (L)
+James Seiko  (L) [c]
+Damien Goss  (L)
+Jacob Smitt  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Ali Candan  (L)
+Nathaniel Owens  (F)
+Hakeem Oiadip  (F)
+Gonzales Bourne  (F)
+Aisling the Fox  (M)
+Pierre-Louis Tremblay-du-Lys du Nouveau Quebec  (M)
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 31 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[General Communication] Jacob Smitt transmits, "Yeah, am in the rift with a hour
+and change to 777."
+tra gen Ah, ok
+[General Communication] Shule Elemmire transmits, "Ah, ok."
+tra gen But yeah, no problem. I'll ask her.
+[General Communication] Shule Elemmire transmits, "But yeah, no problem. I'll
+ask her."
+[General Communication] Jacob Smitt transmits, "Thanks man."
+tra gen No problem.
+[General Communication] Shule Elemmire transmits, "No problem."
+i
+ You are wearing a soft red heather cotton polo, a pair of blue corduroy jeans,
+and a pair of gray canvas sneakers. Underneath this, you are wearing a pair of
+white cotton briefs and a pair of white socks. You are also wearing a keychain,
+a backpack, a metallic gold touch einrophone in a black leather phone holster, a
+solid silver ring engraved with dolphins, and a gold wrist-mounted chronometer.
+You are concealing a black flightbag with a red shooting star on the side, a
+metallic silver metachannel FTL communicator, a leather briefcase, a flight
+control scanner, a large expandable telescoping xenology container, a scorched
+metal thigh holster, a golden Feng Wo coin purse, a thick synthleather bandolier
+with large pockets, a camera bag, and a black engineering tool case. Your head,
+face, both eyes, neck, both elbows, both forearms, both wrists, and both hands
+are left uncovered.
+You are carrying nothing.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+409,765.62 credits from a xenology submission.
+[Tactical Communication] Hakeem Oiadip transmits, "Beacons or nests?"
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+[Tactical Communication] Lexie Amarras transmits, "I can do one or the other if
+it's relatively soon. But I only have a tier 1 suit."
+A hairy yellow eight-legged ArachnoPal named Higgins skitters south.
+[Tactical Communication] Hakeem Oiadip transmits, "Lets try beacons, two more?"
+[Tactical Communication] Hakeem Oiadip transmits, "Lexie, Chetumal please,
+phanta beacons."
+[Tactical Communication] Lexie Amarras transmits, "On my way need to drop this
+package off on the way."
+[Tactical Communication] Hakeem Oiadip transmits, "Ok."
+Mischief the large black felo hums melodically to itself as it wanders south.
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Rift Accelerating Battery-Powered Toll Station in
+Home Beacon Gamma 001.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 353,811.89 EAOS credits from a toll payment to League Rift Accelerating
+Battery-Powered Toll Station in Home Beacon Gamma 001.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+orange glowing interior pulsates gently.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in one Earth hour!"
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior drifts slowly past a plastic frond of light green
+sea fern.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Debris-Burning Temporary Station involving the three-person
+flying wing "Stormy Skies".
+A large thickly-shelled creature with a yellow shell and four small claws raises
+its claws at a small plastic statue of a Jinu and snaps them menacingly while
+dancing around it.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+orange glowing interior drifts slowly across the tank.
+[General Communication] Luja Garland transmits, "Hello."
+[General Communication] Hakeem Oiadip transmits, "Hi luja."
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Debris-Burning Temporary Station involving the three-person
+flying wing "Stormy Skies".
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 1,009,012.83 EAOS credits from a toll payment to League Rift
+Accelerating Battery-Powered Toll Station in Mir.
+A long violet soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Charge-Maintaining Battery-Powered Broadcast
+Facility in Artifact Beacon Gamma 002.
+A long orange soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in fifteen Earth
+minutes!"
+Prissy the big violet long-haired felo wanders in from the south.
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Rift Accelerating Battery-Powered Temporary Station
+in Artifact Beacon Gamma 002.
+Prissy the big violet long-haired felo jumps into your lap and settles in,
+purring.
+A short amethyst soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic shipwreck flying a pirate flag and wraps its
+tentacles around it as if trying to drag it into the deep.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+870,370.37 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Debris-Burning Temporary Station involving the two-person light
+corvette "Catchin' Flies With Vinegar".
+[MTTS] Jacob has joined the channel.
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now departing at Space Station "Foxtrot"! All aboooooaaaaaaard!"
+[General Communication] Eli Grey transmits, "How's everybody doing?"
+[General Communication] Morris Corlew transmits, "Fine, fine."
+A large semi-transparent spherical creature with long dangling tendrils and a
+blue glowing interior drifts slowly across the tank.
+[General Communication] Luja Garland transmits, "I'm also fine. How are you?"
+[General Communication] Eli Grey transmits, "I'm doing alright. Got plenty of
+rest despite being up past my bedtime."
+[General Communication] Eli Grey transmits, "And my new sandlas came in today."
+[General Communication] Eli Grey transmits, "Er.. sandals."
+[General Communication] Luja Garland transmits, "Nice and nice!"
+[General Communication] Eli Grey transmits, "Hey Mel? Can I send you some things
+so you can make a thing for me?"
+[General Communication] Jacob Smitt transmits, "Wow."
+[General Communication] Melinda Michaels transmits, "Yeah."
+[General Communication] Eli Grey transmits, "Awesome, thanks."
+[General Communication] Eli Grey transmits, "See? She knew what I meant."
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+1,740,740.74 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Debris-Burning Temporary Station involving the two-person light
+corvette "Catchin' Flies With Vinegar".
+[General Communication] Jacob Smitt transmits, "Does anyone know of a blueprint
+that takes two storage rebots to craft? Someone was mentioning it a few days
+ago, but I can't remember what it was they were crafting."
+[General Communication] Morris Corlew transmits, "Umm. Packer bots, I think
+that's what you're talkin about, are a finished product. Not somethin you use to
+make somethin else."
+[General Communication] Jacob Smitt transmits, "Maybe, I'm not sure. I'm
+wondering if I'm thinking of that compressor or if there was something that can
+be added to it for storage. I can't remember."
+[General Communication] Jacob Smitt transmits, "Not a clue."
+[General Communication] Morris Corlew transmits, "There is a compressor. It
+grinds down your debris so you can fit more in, but devalues it a bit."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "One
+performance goal down! One to go!"
+[General Communication] Jacob Smitt transmits, "Hey Vernos?"
+[General Communication] Vernos Bailey transmits, "Yes Smitty?"
+[General Communication] Morris Corlew laughs.
+[General Communication] Jacob Smitt transmits, "Did you go south from 777? And
+that's Mister Smitty."
+[General Communication] Vernos Bailey transmits, "I did and no, I believe the
+official title for you is Misses Smitty."
+[General Communication] Jacob Smitt transmits, "Come over here a little closer."
+[General Communication] Vernos Bailey transmits, "I'm over 200 sectors away,
+lets meet in the middle and see what happens."
+[General Communication] Vernos Bailey laughs.
+[General Communication] Jacob Smitt transmits, "Yeah, I see you on long range."
+[General Communication] Vernos Bailey transmits, "Nothing my way though so
+heading back toward the stations."
+[General Communication] Morris Corlew transmits, "Hey guys, guys."
+[General Communication] Morris Corlew transmits, "Guess what?"
+[General Communication] Jacob Smitt transmits, "Hmm?"
+[General Communication] Jason Rat transmits, "What if I wasn't a guy?"
+[General Communication] Katina Faye transmits, "Chicken butt?"
+[General Communication] Morris Corlew transmits, "We gots us a telepath in the
+corps."
+[General Communication] James Seiko transmits, "We do?"
+[General Communication] Jacob Smitt transmits, "A what?"
+[General Communication] Eli Grey transmits, "Oh my god someone totally beat me
+to saying chicken butt."
+[General Communication] Morris Corlew transmits, "A telepath. Somebody who can
+read minds...or at least thinks he can."
+[General Communication] Jacob Smitt transmits, "Oh god, who."
+[General Communication] Eli Grey transmits, "Hmm."
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly across the tank.
+[General Communication] Eli Grey transmits, "Like.. for real? Or are you being
+sarcastic."
+[General Communication] Morris Corlew transmits, "I was bein sarcastic. He
+informed me I was thinkin somethin."
+[General Communication] Morris Corlew transmits, "Incidentally, he was wrong,
+but ehh..."
+[General Communication] James Seiko transmits, "It tok him that long to ask
+that?"
+[General Communication] Eli Grey chuckles.
+[General Communication] James Seiko transmits, "Took."
+[General Communication] Eli Grey transmits, "I thought he would expand further
+without being asked."
+Prissy the big violet long-haired felo jumps down from your lap.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+orange glowing interior drifts slowly across the tank.
+Shasta the old big onyx soldier felo marches in from the south.
+[General Communication] Eli Grey transmits, "Let me know if you need anything
+else Mel."
+Prissy the big violet long-haired felo jumps into your lap and settles in,
+purring.
+Shasta the old big onyx soldier felo jumps into your lap and settles in,
+purring.
+Shasta the old big onyx soldier felo jumps down from your lap.
+Shasta the old big onyx soldier felo seems to be hungry.
+Shasta the old big onyx soldier felo approaches a glossy silver ceramic felo
+chow bowl, glances around, then begins shoveling low-grade dry Felo Chow into
+its mouth.
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "League."
+A metallic silver metachannel FTL communicator dings politely as it receives a
+new notice.
+Shasta the old big onyx soldier felo rubs up against a rare black EAOSian
+contoured couch with a hand-made white and sapphire star quilt on it, purring
+softly.
+Shasta the old big onyx soldier felo marches south.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Excellent
+work on our first performance goal! Let's go for the second!"
+A long red soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+[General Communication] Sarah Zenovas transmits, "What're you guys doing? I'm
+going to do something and take care of some felo, I also need to go to helious."
+[General Communication] Morris Corlew transmits, "Just sittin in the lounge."
+[General Communication] Michael Kennedy transmits, "Being lazy for a change over
+here."
+[General Communication] Sarah Zenovas transmits, "Haha! Well be lazy then."
+[General Communication] Morris Corlew transmits, "I've earned the right to be
+lazy."
+[General Communication] Sarah Zenovas transmits, "A question, what planet is
+that with the way to a bunker from a cylo maintnance shaft?"
+[General Communication] Morris Corlew transmits, "Mars?"
+[General Communication] Sarah Zenovas transmits, "A farm planet."
+[General Communication] Morris Corlew transmits, "Umm."
+[General Communication] Morris Corlew transmits, "That I don't know."
+[General Communication] Sarah Zenovas transmits, "Not tikul or ticarl, I already
+looked."
+[General Communication] Morris Corlew transmits, "Maybe Champoton?"
+[General Communication] Morris Corlew transmits, "However ya say that?"
+[General Communication] Sarah Zenovas transmits, "Oh no, I was just there."
+[General Communication] Sarah Zenovas transmits, "Champoton that's how you say
+it."
+[General Communication] Morris Corlew transmits, "I know they're big into farmin
+over there. Hyperion's got ranchlands, but...don't recognize the silo part."
+[General Communication] Sarah Zenovas transmits, "Not escuintler that's just
+ruines not ars magna that's destroyed that's just ruined scorched metal."
+[General Communication] Morris Corlew transmits, "I dunno. Only place I know
+with a bunker's Mars."
+[General Communication] Sarah Zenovas transmits, "Mars? Maybee where at? There
+was something down there."
+[General Communication] Eli Grey transmits, "Maybe Vesta?"
+[General Communication] Morris Corlew transmits, "Ain't Vesta the water world?"
+[General Communication] Eli Grey transmits, "I know the place that they're
+talking about, just can't remmeber exactly."
+[General Communication] Sarah Zenovas transmits, "Vesta? I cant even head down
+anywhere notable there yet, not cardenas I cant get to any the cities down
+there."
+[General Communication] Morris Corlew transmits, "Somethin specific you're tryin
+to find?"
+[General Communication] Eli Grey transmits, "Pretty sure there's a starship
+upgrades place."
+[General Communication] Eli Grey transmits, "Or perhaps a ship shop."
+[General Communication] Morris Corlew transmits, "There's a ton of them."
+[General Communication] Morris Corlew transmits, "In all the alliances."
+[General Communication] Eli Grey transmits, "On,  I mean down in the bunker that
+they're looking for."
+[General Communication] Morris Corlew transmits, "That might be Mars then."
+[General Communication] Sarah Zenovas transmits, "Where is the bunker?"
+[General Communication] Eli Grey transmits, "Nah, I don't think so, pretty sure
+it's a Fringe world."
+[General Communication] Sarah Zenovas transmits, "The bunker I mean, if theres
+one on mars, is it publicly accessable?"
+[General Communication] Morris Corlew transmits, "It is."
+[General Communication] Morris Corlew transmits, "There's not much down there
+though."
+[General Communication] Sarah Zenovas transmits, "Where is it, then, and what is
+in it?"
+[General Communication] Eli Grey transmits, "There's a couple of entrances to
+the one they're looking for, one is in a silo but there's other entracnes."
+[General Communication] Morris Corlew transmits, "Ship upgrades, rations, few
+other things. There's an entrance near the pad."
+[General Communication] Sarah Zenovas transmits, "Oh I must've missed it."
+[General Communication] Sarah Zenovas transmits, "In the city or somewhere
+else?"
+[General Communication] Morris Corlew transmits, "The entrance is right near the
+pad."
+A short amethyst soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at a white plastic undersea castle and clings to it for a moment,
+then jets off.
+A long red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+A large semi-transparent spherical creature with long dangling tendrils and a
+cerulean glowing interior drifts slowly over a white plastic undersea castle.
+A long red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+and Purr the humanoid service robot here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: Like someone's dress? You can type LOOK [clothing] ON [person] to see more
+detail.
+**
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+[General Communication] Sarah Zenovas transmits, "I."
+[General Communication] Sarah Zenovas transmits, "I'm going to sleep."
+[General Communication] Morris Corlew transmits, "Rest well."
+[General Communication] Lexie Amarras transmits, "Good night."
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+and Purr the humanoid service robot here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+A large thickly-shelled creature with a red shell and four small claws grips a
+white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has launched from Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has left the sector.[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+one-person cargo hauler "Non Serviam". The organization has earned 92,768.61
+credits.
+Prissy the big violet long-haired felo jumps down from your lap.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[General Communication] Evenia Callseah transmits, "Heya Peoples."
+[General Communication] Mark Washington transmits, "Hello."
+[General Communication] Michael Kennedy transmits, "Heya."
+[General Communication] Lexie Amarras transmits, "Hiya."
+[General Communication] Jacob Smitt transmits, "_ey Eveni\""
+[General Communication] Vernos Bailey transmits, "Hello."
+[General Communication] Evenia Callseah transmits, "What trouble are people
+getting into?"
+[General Communication] Michael Kennedy transmits, "Being lazy."
+[General Communication] Vernos Bailey transmits, "I got chased by an Ares
+|arlier."
+[General Communication] Lexie Amarras transmits, "Heh I'm just running mail
+right now."
+[General Communication] Evenia Callseah transmits, "Oh, getting chased by those
+is always fun."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has jumped into the sector.[0m
+[General Communication] Nathaniel Owens transmits, "Just bubbleing. Want to come
+back now."
+[General Communication] Evenia Callseah transmits, "Unless you're in a capsule
+or void piercer. Then it blows."
+[General Communication] Vernos Bailey transmits, "Blo=s...hmmm."
+[General Communication] Evenia Callseah laughs.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has initiated an intrasector subwarp.[0m
+Prissy the big violet long-haired felo wanders out.
+[General Communication] Jacob Smitt transmits, "O$e t!acked mi>d."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has landed on the moon Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has launched from Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has left the sector.[0m
+A large thickly-shelled creature with a red shell and four small claws grips a
+white plastic undersea castle firmly in its claws, then gives up when it can't
+break the toy.
+[General Communication] Rogue Romano transmits, "Yo hello."
+[General Communication] Michael Kennedy transmits, "Heya."
+[General Communication] Evenia Callseah transmits, "Heya."
+[General Communication] Sarah Bellamy transmits, "Hi Rogue."
+[General Communication] Lexie Amarras transmits, "Hi and stuff."
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+and Purr the humanoid service robot here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+Prissy the big violet long-haired felo wanders in from the airlock.
+[General Communication] Vernos Bailey transmits, ""o@jacob."
+[General Communication] Jacob Smitt transmits, "~hat's up."
+[General Communication] Vernos Bailey transmits, "Got <irates f=r`you to de_(
+w{th in?777."
+[General Communication] Vernos Bailey transmits, "I know y\u li:e pirates/"
+[General Communication] Jacob Smitt transmits, "Be r>%ht _here."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has jumped into the sector.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has landed on the moon Rolukssica.[0m
+Prissy the big violet long-haired felo wanders out.
+[General Communication] Vernos Bailey transmits, "Ok-y alrea,y"using !he
+w+|chtower on [hem?"
+who
+There appear to be about 20 pilots recently active.
+The communicator network detects:
+Ather Jammoa  (A) [am]
+Eli Grey  (A)
+Vernos Bailey  (A)
+Shule Elemmire  (A) [m]
+Sarah Bellamy  (L)
+Kerry Rodriguez  (L)
+Katina Faye  (L) [c]
+Johann Schraft  (L)
+Jacob Smitt  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Hakeem Oiadip  (F)
+Lexie Amarras  (F) [c]
+Michael Kennedy  (F)
+Nathaniel Owens  (F)
+Rogue Romano  (F)
+Gonzales Bourne  (F)
+Evenia Callseah  (F)
+Aisling the Fox  (M)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 12 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 32 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Prissy the big violet long-haired felo wanders in from the airlock.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+expediter "Emerald" has jumped into the sector.[0m
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+expediter "Emerald" has initiated an intrasector subwarp.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+expediter "Emerald" has landed on the moon Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Temperance" has launched from Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Temperance" has left the sector.[0m
+Prissy the big violet long-haired felo jumps into your lap and settles in,
+purring.
+pet prissy
+You stroke the soft fur of Prissy the big violet long-haired felo.
+Prissy the big violet long-haired felo purrs and rubs its head against your
+hand, looking up at you adoringly.
+A large thickly-shelled creature with a yellow shell and four small claws snaps
+its claws menacingly at a plastic frond of light green sea fern.
+A large thickly-shelled creature with a red shell and four small claws grips a
+plastic wrecked EAOS Defender firmly in its claws, then gives up when it can't
+break the toy.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+and Purr the humanoid service robot here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+and Purr the humanoid service robot here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+out
+You scramble to your feet.
+Prissy the big violet long-haired felo slides to the floor.
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+and KitCat the humanoid service robot here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+The one-person cargo hauler "The Gimbled Ghost" is landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+who marion
+I can't find someone with the name 'marion'.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a glossy sky blue ceramic felo chow bowl,
+and KitCat the humanoid service robot here.
+You can go out and enter into the ship.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+Purr the humanoid service robot, and Prissy the big violet long-haired felo
+here.
+You can go south and out.
+pet prissy
+You stroke the soft fur of Prissy the big violet long-haired felo.
+Prissy the big violet long-haired felo purrs and rubs its head against your
+hand, looking up at you adoringly.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a black
+plastic tray of spider chow, and Shasta the old big onyx soldier felo here.
+You can go north, east, south, west, up, and down.
+s
+[Starship "William Dove"; Observation Deck]
+s
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a black plastic tray of spider chow, a wall-sized bubbling coral
+pink-lit aquarium containing red and light green aquatic life and coral rocks, a
+personal hoverpallet, and Mischief the large black felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow,
+a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow
+on it, a small oval turquoise rattan table with a glass top, a pair of skinny
+stonewashed purple lowrise jeans with amethyst and deep purple jeweled seashells
+on the front pockets, a crisp short-sleeved hot pink cotton shirt, a pair of
+mystic purple suede clogs, a lilac satin push-up bra, a pair of soft lilac satin
+bikini panties, and a Tardick lizard named Asteria here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go out.
+s
+You can't go that way.
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "Then either a battery or a core for the other one."
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+gen comm
+You turn general communication off.
+gen comm
+You turn general communication on.
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow,
+a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow
+on it, a small oval turquoise rattan table with a glass top, a pair of skinny
+stonewashed purple lowrise jeans with amethyst and deep purple jeweled seashells
+on the front pockets, a crisp short-sleeved hot pink cotton shirt, a pair of
+mystic purple suede clogs, a lilac satin push-up bra, a pair of soft lilac satin
+bikini panties, and a Tardick lizard named Asteria here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go out.
+lie bed
+You lie down on a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "Well either part then."
+[0m[Miriani] [Newbie] Emily Mcmanomy: How do I use the door bell at my housse.[0m
+[0m[Miriani] [Newbie] Emily Mcmanomy: House.[0m
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "There's no income derrived form either station so wasn't sure
+if she wanted to participate."
+cuddle lily
+You cuddle up to Lily Kaise.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "I like putting the cores on though as I can't easily tell when
+they go on emergency power."
+read comm
+You glance at your communicator's screen.
+There is one headline.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (18/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+=======================
+Recent League Headlines
+=======================
+* Police Reveal Note Delivered to New Scotland Yard Prior to Museum Theft:
+'Sorry for all the trouble, but it will look so good next to my cruiser I
+couldn't resist. -K' [30 June 2317] (ENN)
+Return to the category menu? [Enter `yes' or `no']
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "Ok well I will use her cores then but I may miss when they go
+down."
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "We get the notification on our status channel when we have our
+cores on them."
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "Ok."
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "Maybe you guys can put up the next ones."
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "I'll always put the transmitter and things onto Building
+Capital which you both have keys for."
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "Ok."
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise says, "I jsut did this round because you all put them up while we
+were away."
+Lily Kaise speaks into her metallic gold touch einrophone:
+Lily Kaise exclaims, "Ok then and we appreciated it too. Thanks and seeya
+later!"
+Lily Kaise places a metallic gold touch einrophone into a metallic purple
+reinforced plastic phone holster.
+Lily Kaise cuddles up to you.
+Lily Kaise says nothing to a bulky high-energy plasma explosive.
+Lily Kaise laughs.
+Lily Kaise says, "Hi."
+Lily Kaise says, "Guess I need to go build a couple of stations in 777."
+Lily Kaise squeezes you affectionately.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise picks up a pair of soft lilac satin bikini panties.
+stand
+You return your metallic gold touch einrophone to the main screen.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise picks up a lilac satin push-up bra.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise pulls on a lilac satin push-up bra and clasps it in the back.
+Lily Kaise slides a pair of soft lilac satin bikini panties on.
+A Tardick lizard named Asteria wakes abruptly.
+Lily Kaise settles a Tardick lizard named Asteria on her shoulder, its tail
+curled loosely around her.
+Lily Kaise pulls a pair of mystic purple suede clogs onto her feet.
+Lily Kaise puts on a crisp short-sleeved hot pink cotton shirt.
+Lily Kaise pulls a pair of skinny stonewashed purple lowrise jeans with amethyst
+and deep purple jeweled seashells on the front pockets on over her legs and
+wiggles furiously, tugging them into place.
+Lily Kaise says, "Oops."
+smile lily
+You smile at Lily Kaise.
+Lily Kaise says, "Aww poor lizie."
+l lily
+Lily Kaise
+She appears to be 28 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back. She has oval pink fingernails.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+ She is wearing a crisp short-sleeved hot pink cotton shirt, a pair of skinny
+stonewashed purple lowrise jeans with amethyst and deep purple jeweled seashells
+on the front pockets, and a pair of mystic purple suede clogs. She is also
+wearing an orange and white blessed prayer bracelet around her wrist, a slender
+bracelet of tiny tinkling silver bells around her wrist, a neon purple
+wrist-mounted chronometer, a solid silver ring engraved with dragonflies, a
+delicate ring of silver wire and small purple amethyst crystals, a light purple
+flightbag with a pastel kitten on the side, a metallic gold touch einrophone in
+a metallic purple reinforced plastic phone holster, an elegant white gold ring
+inset with a perfect solitaire diamond, a soft fuchsia Tardick lizard snuggly
+labeled 'Asteria', and a Tardick lizard named Asteria perched on her shoulder.
+Her head, face, both eyes, neck, both elbows, both forearms, both wrists, both
+hands, and waist are left uncovered.
+She is carrying nothing.
+Lily Kaise says, "Ok need to go look in on the range office."
+Lily Kaise glides out.
+'oops
+You say, "Oops."
+out
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a black plastic tray of spider chow, a wall-sized bubbling coral
+pink-lit aquarium containing red and light green aquatic life and coral rocks, a
+personal hoverpallet, and Mischief the large black felo here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a black
+plastic tray of spider chow, and Shasta the old big onyx soldier felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+Purr the humanoid service robot, and Prissy the big violet long-haired felo
+here.
+Lily Kaise is standing here.
+You can go south and out.
+n
+You can't go that way.
+sit couch
+You sit down on a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it.
+Lily Kaise glides out.
+Prissy the big violet long-haired felo wanders south.
+A long yellow soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+A short amethyst soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Sharp Retort" has launched from Rolukssica.[0m
+[General Communication] Melinda Michaels transmits, "Eve."
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+red glowing interior pulsates gently.
+[General Communication] Evenia Callseah transmits, "Mel?"
+[General Communication] Jacob Smitt transmits, "Da[n."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Sharp Retort" has initiated an intrasector slip.[0m
+[General Communication] Melinda Michaels transmits, "Is that why you hide from
+me? Because you are secretly shy?"
+[General Communication] Melinda Michaels laughs.
+[General Communication] Evenia Callseah transmits, "Um."
+[General Communication] Melinda Michaels giggles.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Sharp Retort" has entered Mission Jumpgate.[0m
+[General Communication] Melinda Michaels transmits, "And thank you very much."
+Prissy the big violet long-haired felo wanders in from the south.
+[General Communication] Melinda Michaels transmits, "It was a very nice
+package."
+[General Communication] Evenia Callseah transmits, "You're very welcome. Enjoy
+them."
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has used 2
+megacredits on a lounge module and placed it aboard the four-person space
+constructor "Herding Cats".
+[General Communication] Evenia Callseah transmits, "I have 2 nice packages."
+[General Communication] Evenia Callseah giggles.
+[General Communication] Melinda Michaels transmits, "You do."
+[General Communication] Melinda Michaels laughs.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has used 6
+megacredits on a hyperwave broadcaster module and placed it aboard the
+four-person space constructor "Herding Cats".
+[General Communication] Ather Jammoa transmits, "Please note: I am still buying
+omnilocks! Up to 20 total. I will pay double the SSN cost."
+[General Communication] Rogue Romano transmits, "I'v['been wa{chin' for them."
+A long yellow soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+[General Communication] Evenia Callseah transmits, "I love that one I gave you
+with the cute tiny claws."
+[General Communication] Evenia Callseah transmits, "I'll keep an eye out. 20 you
+said, Ather?"
+[General Communication] Ather Jammoa transmits, "20!"
+[General Communication] Rogue Romano transmits, "Oka&."
+[General Communication] Evenia Callseah transmits, "Right on. I'll be watching."
+Prissy the big violet long-haired felo wanders out.
+A large semi-transparent bell-shaped creature with long dangling tendrils and an
+orange glowing interior drifts slowly past a string of light purple plastic
+kelp.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Sharp Retort" has exited from Mission Jumpgate.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Sharp Retort" has landed on the moon Rolukssica.[0m
+[General Communication] Lily Kaise transmits, "Hey who was calling? I was
+burried in hoses and wiring and a helmet!"
+[General Communication] Johann Schraft transmits, "Me!"
+[General Communication] Melinda Michaels transmits, "Lily, it wasn't me but I'll
+get the part later."
+[General Communication] Lily Kaise transmits, "Now whacha want!"
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+[General Communication] Evenia Callseah transmits, "Uh, now that's an image. All
+wrapped up in hoses like tentacles."
+[General Communication] Johann Schraft laughs.
+[General Communication] Lily Kaise laughs.
+[General Communication] Johann Schraft transmits, "I was just calling to see
+about your schedule on putting up those stations since there are people out
+there who probably could use those stations."
+[General Communication] Lily Kaise transmits, "Well I was just finishing up
+building them and was going to head out."
+[General Communication] Johann Schraft transmits, "Awesome!"
+[General Communication] Lily Kaise transmits, "I had to stop and buy some parts
+and things but i'm working as fast as I can here."
+[General Communication] Melinda Michaels transmits, "Work that bootie Kaise."
+[General Communication] Johann Schraft transmits, "Thanks Lily."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Shule are you up to
+going out to 777 with me Love?"
+[Space Explorers Amidst The Stars] Lily Kaise chuckles.
+[General Communication] Lily Kaise chuckles.
+[General Communication] Evenia Callseah transmits, "Work it Lily, work it!"
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I'm sure shakin' it
+around here heh."
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Wow damn I can't even
+press the right buttons."
+Prissy the big violet long-haired felo wanders in from the airlock.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) A Proboscis Monkey
+walks in from the north.[0m
+A long amber soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) a Proboscis Monkey
+walks north.[0m
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Ok Love I can wait a
+few more moments but you can see they're anxious for me to get these stations
+put up out in 777."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Thought we could at
+least have some time to hangout while going out and back."
+[0m[Miriani] A red message board reader beeps quietly, indicating to you that there
+is a new message in OOC / Suggestions/Ideas. It was posted by Jason Harkness
+with the subject "Re: Starship Sensors".[0m
+Prissy the big violet long-haired felo wanders out.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The ten-person
+battlecruiser "Imaginary Friend" has jumped into the sector.[0m
+A long yellow soft-bodied creature with many claw-tipped tentacles abruptly
+flings itself at the side of the tank, its tentacles tapping at the glass, then
+it withdraws.
+[Space Explorers Amidst The Stars] Lily says sadly oh well. I guess I'll see you
+in an hour or two depending on the flow. Please let me know in a couple of
+minutes though as I wish you would come along with.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The ten-person
+battlecruiser "Imaginary Friend" has left the sector.[0m
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 1,009,136.32 EAOS credits from a toll payment to League Rift
+Accelerating Battery-Powered Toll Station in Mir.
+Prissy the big violet long-haired felo wanders in from the airlock.
+Prissy the big violet long-haired felo wanders south.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) A Proboscis Monkey
+walks in from the north.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) a Proboscis Monkey
+walks north.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) A Proboscis Monkey
+walks in from the north.[0m
+[Notification from Space Explorers Amidst The Stars] 160,000,000.00 credits have
+been deducted from the starship support fund.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "The results
+are in!"
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+0.00 credits of your income have gone toward your organization.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We achieved
+our first tier performance goal! Good job! Let's go for all of them next time!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Our
+performance was down 47.0% from the last Conquest period."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) a Proboscis Monkey
+walks north.[0m
+tra org Aww, did you leave already?
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Aww, did you leave
+already?"
+A long red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at a white plastic undersea castle and clings to it for a moment, then
+jets off.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) A Proboscis Monkey
+walks in from the north.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) a Proboscis Monkey
+walks north.[0m
+A long amber soft-bodied creature with many claw-tipped tentacles rears up
+suddenly from behind a plastic wrecked EAOS Defender and wraps its tentacles
+around it as if trying to drag it into the deep.
+A large thickly-shelled creature with a red shell and four small claws rears up
+against the glass and snaps its claws at the outside world.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) A Proboscis Monkey
+walks in from the north.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) a Proboscis Monkey
+walks north.[0m
+Mischief the large black felo hums melodically to itself as it wanders in from
+the south.
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Battery-Powered Transmitter in Artifact Beacon Alpha
+777.
+[General Communication] Lily Kaise transmits, "This transmitter will be up for a
+month and 4 days."
+tra org cheer
+[Space Explorers Amidst The Stars] Shule Elemmire cheers.
+[General Communication] Jacob Smitt transmits, "Thanks Lily."
+[General Communication] Elissa Rosales transmits, "Any spots for beacons?"
+[Notification from Space Explorers Amidst The Stars] The organization has
+contributed to a new League Recharging Battery-Powered Rest Station in Artifact
+Beacon Alpha 777.
+[General Communication] Lily Kaise transmits, "26 days on the recharging station
+as that accelerated charger sucks it on power consumption. Still beats every two
+weeks."
+[General Communication] Johann Schraft transmits, "Nice."
+tra org Yay!
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Yay!"
+[General Communication] Lily Kaise transmits, "So now you know why I did this.
+With that On my way back."
+tra org Ok.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Ok."
+Mischief the large black felo seems to be hungry.
+Mischief the large black felo approaches a glossy silver ceramic felo chow bowl,
+glances around, then begins shoveling low-grade dry Felo Chow into its mouth.
+Mischief the large black felo hums melodically to itself as it wanders south.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Hey wait this is not
+fair! It will take 46 minutes to get back."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+tra org Awww.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Awww."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oh well at least these
+bloody stations are taken care of for awhile."
+tra org Yeah, sorry I didn't make it out there with you.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Yeah, sorry I
+didn't make it out there with you."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Yeah me too! Pretty
+lonely traveling this long but I do have a lizie to keep me company."
+tra org Yeah, at least you have Asteria.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Yeah, at least you
+have Asteria."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Not as nice as you!
+But glad I brought her along."
+tra org Awww, I'll give you a big hug and kiss when you get back.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Awww, I'll give
+you a big hug and kiss when you get back."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Yay!"
+tra org Oh, I already put in my nomination for SDC.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Oh, I already put
+in my nomination for SDC."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Cool. I'll go nominate
+myself for GSL then as I'll forget it if I don't go'ahead and do so."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Oops out of range."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Hmm t]ought I was
+hehe."
+[Space Explorers Amidst The Stars] Lily Kaise laughs.
+tra org Heh, nope I heard you loud and  clear. And yeah, you should.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "Heh, nope I heard
+you loud and clear. And yeah, you should."
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Yeah kind of broken up
+a& this poi^t; Talk to you soon Love."
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+one-person cargo hauler "Non Serviam". The organization has earned 215,460.26
+credits.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+2,611,111.11 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Debris-Burning Temporary Station involving the three-person
+flying wing "Acinonyx Jubatus".
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Alpha Magnetic" has jumped into the sector.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Alpha Magnetic" has initiated an intrasector subwarp.[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Who wants mods?"[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Alpha Magnetic" has landed on the moon Rolukssica.[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Got 5 spots."[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Alright then.
+Doing solos."[0m
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A large semi-transparent bell-shaped creature with long dangling tendrils and a
+yellow glowing interior drifts slowly across the tank.
+[0m[Miriani] [Newbie] Olivia Cantrell: I'm tryin g to launch a ship out of another
+but the ship says emmergency abort for launching. What do I do?[0m
+[0m[Miriani] [Newbie] Michael Calaway: You have to expel it.[0m
+[0m[Miriani] [Newbie] Olivia Cantrell: Oh thanks.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Alpha Magnetic" has launched from Rolukssica.[0m
+[0m[Miriani] [Newbie] Michael Calaway: Ship-expel in the control room of the bigger
+ship, will expel the docked ship on the landing pad, if you were wondering.[0m
+[0m[Miriani] [Newbie] Olivia Cantrell: Thank you.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Alpha Magnetic" has landed on the moon Rolukssica.[0m
+A hairy yellow eight-legged ArachnoPal named Higgins crouches down for a moment.
+[Tactical Communication] Gonzales Bourne transmits, "Can I get one for beacons?"
+[General Communication] Ather Jammoa transmits, "Michael Kennedy!"
+[General Communication] Michael Kennedy transmits, "I think I know that guy."
+[General Communication] Ather Jammoa transmits, "Do you have a relative named
+James!?"
+[General Communication] Michael Kennedy transmits, "No, I don't sadly."
+[General Communication] Ather Jammoa transmits, "Alas."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has launched from Rolukssica.[0m
+A firmly rooted animal with dozens of rough green tendrils slowly waves its many
+tendrils.
+[General Communication] Michael Kennedy transmits, "Did he die, and leave like a
+few bil for me? If so, yes I know him!"
+A hairy yellow eight-legged ArachnoPal named Higgins folds his legs inward and
+goes very still.
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+2,611,111.11 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Debris-Burning Temporary Station involving the one-person
+missile skiff "Midgaard".
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has landed on the moon Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has launched from Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has initiated an intrasector slip.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has entered Mission Jumpgate.[0m
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit
+aquarium containing yellow and red aquatic life and coral rocks, a small white
+trash bin, a compact white refrigerator, a clear plastic food storage container,
+Purr the humanoid service robot, and a hairy yellow eight-legged ArachnoPal
+named Higgins here.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has exited from Mission Jumpgate.[0m
+A long orange soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a shark, then loses interest
+and jets off.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has landed on the moon Rolukssica.[0m
+[0m[Miriani] [General Communication] Olivia Cantrell transmits, "Can I get 5 spots
+for mods?"[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Salvage Regent". The organization has earned
+2,700,999.07 credits.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily
+I don't see "lily" here.
+A long amber soft-bodied creature with many claw-tipped tentacles swims around a
+string of light purple plastic kelp.
+Lily Kaise just entered the ship.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+Lily Kaise smiles at you.
+hug lily
+You hug Lily Kaise.
+Prissy the big violet long-haired felo wanders in from the south.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+kiss lily
+You kiss Lily Kaise.
+kiss lily
+You kiss Lily Kaise.
+kiss lily
+Lily Kaise wraps her arms around you, pulling you close.
+You kiss Lily Kaise.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise kisses you.
+Lily Kaise cuddles up to you.
+-lily Hi love!
+You say to Lily, "Hi love!"
+Lily says to you, "Hey Love!"
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has launched from Rolukssica.[0m
+smile
+You smile.
+A large semi-transparent ovoid creature with long dangling tendrils and a yellow
+glowing interior drifts slowly across the tank.
+Lily Kaise says, "Wow my time to do much of anything is almost exhausted."
+nod 'Unfortunately.
+You nod. "Unfortunately."
+-lily did you nominate yourself for GSL?
+You say to Lily, "Did you nominate yourself for GSL?"
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has initiated an intrasector slip.[0m
+Lily Kaise exclaims, "Oh be right back... dammit one more thing to do!"
+Lily Kaise sighs.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has entered Mission Jumpgate.[0m
+Lily Kaise stands up from a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+'Aww
+You say, "Aww."
+'Sorry
+You say, "Sorry."
+Lily Kaise squeezes you affectionately.
+Lily Kaise glides out.
+[Space Explorers Amidst The Stars] Lily Kaise transmits, "Hmm how were you able
+to nominate yourself? The machine seems to be inactive."
+tra org I don't know. It let me nominate myself.
+[Space Explorers Amidst The Stars] Shule Elemmire transmits, "I don't know. It
+let me nominate myself."
+Lily Kaise just entered the ship.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+Lily Kaise says, "Oh haha it says that nominations will begin soon. That's odd.
+Maybe Ather resigned early? Now that's a first as generally, we have to wait
+until the end of the term."
+ponder
+You get a distant look on your face as you ponder.
+Lily Kaise asks, "Read the post on the board?"
+Lily Kaise sits down on a rare black EAOSian contoured couch with a hand-made
+white and sapphire star quilt on it.
+'No, I don't think he did. Maybe it let me nominate myself since I already hold
+an office?
+You ask, "No, I don't think he did. Maybe it let me nominate myself since I
+already hold an office?"
+Lily Kaise navigates her metallic gold touch einrophone to a text-heavy
+application and peers at the screen.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (18/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+7
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+* [2] AEU
+  [3] Organizations
+* [4] Local Ship Message Board
+* [5] OOC
+--
+  [6] Quit
+--
+Enter your selection:
+2
+--
+FTL Interalliance Communications Network
+--
+  [1] General
+  [2] Trading
+  [3] Battle Reports
+  [4] Debate
+  [5] Strategy
+* [6] Common Knowledge
+--
+  [7] Return
+  [8] Quit
+--
+Enter your selection:
+4
+--
+FTL Interalliance Communications Network
+--
+  [1] Voting for Fifty-seventh Term Beg  (AEU Pilot Liaison Office)
+  [2] Re: Voting for Fifty-seventh Term  (AEU Pilot Liaison Office)
+  [3] Fifty-seventh Term Voting Results  (AEU Pilot Liaison Office)
+  [4] The Fifty-seventh Term Has Begun   (AEU Pilot Liaison Office)
+  [5] Nominations for Fifty-eighth Term  (AEU Pilot Liaison Office)
+  [6] Re: Nominations for Fifty-eighth   (AEU Pilot Liaison Office)
+  [7] Voting for Fifty-eighth Term Begi  (AEU Pilot Liaison Office)
+  [8] Fifty-eighth Term Voting Results   (AEU Pilot Liaison Office)
+  [9] The Fifty-eighth Term Has Begun    (AEU Pilot Liaison Office)
+  [10] Nominations for Fifty-ninth Term  (AEU Pilot Liaison Office)
+--
+  [11] Return
+  [12] Post
+  [13] Quit
+--
+Enter your selection:
+10
+--
+FTL Interalliance Communications Network
+--
+Subject: Nominations for Fifty-ninth Term
+Author: AEU Pilot Liaison Office
+Posted: 00:04 30 June 2317 GST
+--
+The current civilian liaison term will end in ten days. Nominations for the
+fifty-ninth civilian liaison term will begin soon.
+Please begin to consider whether you wish to pursue a position, or if you
+already have one, whether you wish to run again.
+The Office of the Civilian Pilot Corps Liaison
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+Lily Kaise says, "Yeah."
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+n
+Invalid selection.
+read comm
+You glance at your communicator's screen.
+33,750,385.35 AEU credits from your trust fund have been released to you. [00:00
+ 1 July 2317 GST]
+Lily Kaise says, "'yet voting is already available for you."
+Lily Kaise laughs.
+'Heh
+You say, "Heh."
+Lily says to you, "You pPrivileged Character!"
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+Lily Kaise chuckles.
+'Heh, not sure what I did to be privileged.
+You say, "Heh, not sure what I did to be privileged."
+Lily Kaise kisses you.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise says, "It's ok I would vote for you anyway I can."
+Lily Kaise giggles.
+smile lily
+You smile at Lily Kaise.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+cuddle lily
+You cuddle up to Lily Kaise.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Salvage Regent". The organization has earned
+1,376,666.51 credits.
+-lily Did Jacob Smith ever talk to you? He wanted to ask you something about
+toll stations and 777.
+You say to Lily, "Did Jacob Smith ever talk to you? He wanted to ask you
+something about toll stations and 777."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has exited from Mission Jumpgate.[0m
+A long red soft-bodied creature with many claw-tipped tentacles propels itself
+through the tank, stirring up tiny particles.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Prissy the big violet long-haired felo wanders out.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The ten-person
+battlecruiser "Killin' For Cash" has jumped into the sector.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has landed on the moon Rolukssica.[0m
+A long violet soft-bodied creature with many claw-tipped tentacles wraps its
+tentacles tightly around a small plastic statue of a Jinu, then loses interest
+and jets off.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has launched from Rolukssica.[0m
+-lily I love you.
+You say to Lily, "I love you."
+Prissy the big violet long-haired felo wanders in from the airlock.
+Lily Kaise kisses you.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has initiated an intrasector slip.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has entered Mission Jumpgate.[0m
+kiss lily
+You kiss Lily Kaise.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise squeezes you affectionately.
+Lily Kaise kisses you.
+Prissy the big violet long-haired felo wanders south.
+Lily Kaise cuddles up to you.
+Shasta the old big onyx soldier felo marches in from the south.
+caress lily on back
+You gently caress Lily Kaise's back.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The ten-person
+battlecruiser "Killin' For Cash" has left the sector.[0m
+Lily Kaise strokes the soft fur of Shasta the old big onyx soldier felo.
+Shasta the old big onyx soldier felo purrs and rubs its head against Lily's
+hand, looking up at her adoringly.
+Lily Kaise hugs Shasta the old big onyx soldier felo.
+Lily says to Shasta the old big onyx soldier felo, "So glad you are still here
+little friend."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has exited from Mission Jumpgate.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has landed on the moon Rolukssica.[0m
+Shasta the old big onyx soldier felo marches out.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has launched from Rolukssica.[0m
+pet shasta
+I don't see that here.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has initiated an intrasector slip.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has entered Mission Jumpgate.[0m
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+A large thickly-shelled creature with a red shell and four small claws raises
+its claws at a small plastic statue of a shark and snaps them menacingly while
+dancing around it.
+-aquarium Yeah little snapper, go get it.
+You say to a wall-sized bubbling neon purple-lit aquarium containing yellow and
+red aquatic life and coral rocks, "Yeah little snapper, go get it."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The five-person
+transverser "Frost Fire" has launched from Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The five-person
+transverser "Frost Fire" has left the sector.[0m
+Lily Kaise cuddles up to you.
+A long yellow soft-bodied creature with many claw-tipped tentacles swims around
+a small plastic statue of a shark.
+caress lily on back and waist.
+You gently caress Lily Kaise's back and waist..
+Shasta the old big onyx soldier felo marches in from the airlock.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Salvage Regent". The organization has earned
+2,660,467.43 credits.
+A large thickly-shelled creature with a yellow shell and four small claws rears
+up against the glass and snaps its claws at the outside world.
+Shasta the old big onyx soldier felo marches south.
+Lily Kaise squeezes you affectionately.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has exited from Mission Jumpgate.[0m
+[0m[Miriani] From a thick black leather utility belt with several loops on it, you
+hear a blue flight control scanner announce, "Flight control in Infinitus
+Astrum, I'm showing a disruption in my controls. It must be an EM weapon."[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has landed on the moon Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has launched from Rolukssica.[0m
+squeee lily
+I don't understand that.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+pet shasta
+I don't see that here.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise kisses you.
+Shasta the old big onyx soldier felo marches in from the south.
+kiss lily
+You kiss Lily Kaise.
+-lily I love you.
+You say to Lily, "I love you."
+Lily says to you, "I love you too."
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has jumped into the sector.[0m
+Lily Kaise strokes the soft fur of Shasta the old big onyx soldier felo.
+Shasta the old big onyx soldier felo purrs and rubs its head against Lily's
+hand, looking up at her adoringly.
+Lily Kaise cuddles up to you.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The four-person
+roborant "Twist of Fate" has left the sector.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has initiated an intrasector slip.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has entered Mission Jumpgate.[0m
+cuddle lily
+You cuddle up to Lily Kaise.
+A large semi-transparent ovoid creature with medium-length dangling tendrils and
+an amethyst glowing interior drifts close to a large semi-transparent
+bell-shaped creature with long dangling tendrils and a fuchsia glowing interior,
+and the creatures appear to merge for a few moments.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+A large semi-transparent bell-shaped creature with short dangling tendrils and a
+chartreuse glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+Shasta the old big onyx soldier felo marches out.
+A large thickly-shelled creature with a yellow shell and four small claws grips
+a plastic shipwreck flying a pirate flag firmly in its claws, then gives up when
+it can't break the toy.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Salvage Regent". The organization has earned
+1,462,869.34 credits.
+Shasta the old big onyx soldier felo marches in from the airlock.
+pet shasta
+You stroke the soft fur of Shasta the old big onyx soldier felo.
+Shasta the old big onyx soldier felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Shasta the old big onyx soldier felo marches south.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has exited from Mission Jumpgate.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The one-person
+fighter "Snakes And Arrows" has landed on the moon Rolukssica.[0m
+Lily Kaise cuddles up to you.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+cuddle lily
+You cuddle up to Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Tales of Symphonia" has launched from Rolukssica.[0m
+[0m[Miriani] (Alliance High Guard Command; Observation Lounge) The eight-person
+gunship "Tales of Symphonia" has left the sector.[0m
+*** Redirecting connection to new port ***
+[0m#SESSION 'StarConquest' DIED.[0m

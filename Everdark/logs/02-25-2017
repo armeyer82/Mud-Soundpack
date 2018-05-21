@@ -1,0 +1,410 @@
+Katra tells you [14m]: I'm good, thanks. Sorry, afk a lot. Just training
+   some languages in preparation for some quest areas. :)
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+reply
+Awesome! And no problem, I definitely understand.
+You tell Katra [busy]: Awesome! And no problem, I definitely understand.
+stop
+What?
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+theast.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+ll
+West hall (ne,se,w).
+twho
+4 players: Katra Mouser* Shule Silk*
+se
+South hall (ne,nw).
+spl
+You spin the southwest pillar to the left.
+Behind the pillar a passage becomes visible.
+sw
+You step around the pillar and enter the passage.
+Large icy nest (-).
+ke
+You kneel before the egg.
+Blue flames shoot out from the egg and engulf you!
+Phoenix egg (-).
+Blue flames roar all around you with great intensity!
+ep 1
+You enter the portal.
+Rolling plains (s,se,e,nw,n,ne).
+s
+Rolling plains (n,ne,e,w,s,sw,se).
+
+
+
+Katra arrives from the south.
+Katra leaves north.
+#config {repeat enter} on
+[0m#CONFIG {REPEAT ENTER} HAS BEEN SET TO {ON}.[0m
+s
+You walk a ways to the Western Highway.
+Sloping Meadow along the Western Highway (n,ne,e,s,sw,w,nw).
+jackrabbit
+e
+Edge of the Forest (n,ne,e,w,nw).
+wolf pack
+e
+Large Clearing (n,e,w).
+e
+Northern Fringe of a Forest (e,w,n).
+e
+Western Highway (e,w).
+grey ground squirrel
+e
+A Humpbacked Bridge (e,w).
+25 gold coins
+stick
+e
+Western Highway (e,w).
+e
+Outside a Fortified Town (e,w).
+herd of bison
+e
+You pass through the gatehouse and enter the town.
+A cobblestone road (n,s,w,e).
+e
+Foyer (n,w,e,u).
+A young lad
+Grenier the Elite Tracker
+n
+The local pub (w,e,n,s).
+sack
+Melvin the Waiter
+You are completely sober.
+twho
+4 players: Katra Mouser* Shule Silk*
+about
+What?
+   stopped coming to town.
+target katra
+Target set to: katra
+track
+An image of Katra's surroundings come to mind...
+----------------------------------------------------------------------
+This is a dim little room hidden behind Namius' healing shop.  There is a
+sign tacked up on the wall.  A curtain covers the doorway to the east.
+   The only obvious exit is east.
+----------------------------------------------------------------------
+You lose the image momentarily...
+OK, no longer tracking.
+w
+A cobblestone road (n,s,e).
+n
+A cobblestone road (e,s).
+Contessa Lupe'
+e
+A cobblestone road (s,e,n,w).
+e
+A cobblestone road (n,e,w).
+s
+You enter a narrow street.
+A narrow cobblestone street (n,e,s).
+Willy the Weasel
+Spiked club
+Spiked club
+s
+A dead end (n,w,e).
+e
+Ivory Village Library (s,w).
+s
+A small open office (n).
+Ashlyn the assistant librarian
+ask ashlyn about katra
+Ashlyn whispers to you: Katra is a level 25 cleric.
+She is a Superior Experienced Quester.
+She is currently adventuring around Everdark.
+n
+Ivory Village Library (s,w).
+w
+A dead end (n,w,e).
+n
+A narrow cobblestone street (n,e,s).
+Willy the Weasel
+Spiked club
+Spiked club
+n
+A cobblestone road (n,e,w).
+w
+A cobblestone road (s,e,n,w).
+Adamiir, a village foot soldier
+w
+A cobblestone road (e,s).
+Contessa Lupe'
+s
+A cobblestone road (n,s,e).
+e
+The local pub (w,e,n,s).
+sack
+Melvin the Waiter
+You are completely sober.
+[0m[StarConquest] [Notification from Space Explorers Amidst The Stars] The
+organization has received 65,129.15 EAOS credits from a toll payment to League
+Rift Accelerating Solar Toll Station in The Belt of Orion.[0m
+w
+A cobblestone road (n,s,e).
+n
+A cobblestone road (e,s).
+Vaymoor, a village foot soldier
+w
+You can't go that way.
+s
+A cobblestone road (n,s,e).
+s
+A cobblestone road (n,s,w,e).
+w
+You pass through the gates.
+Outside a Fortified Town (e,w).
+manor
+You black out for a moment, but nothing else happens.
+manor
+You are too disoriented.
+manor
+You are too disoriented.
+You manage to get your bearings.
+manor
+You begin concentrating on a manor...
+Your surroundings spin madly!
+The cave is octagonal in shape and made of a smooth granite.  There are
+several statues sitting in front of the north and west walls.  In the
+center of the room there are nine busts sitting on pedestals.  A large
+mural has been painted on the south wall.  In the middle of the east wall
+there is a door, with a large phoenix resting above it.  Several banners
+seem to float throughout the room.
+   There are no obvious exits.
+Knight Rykeir
+You feel disoriented!
+Rykeir bows before Shule.
+Rykeir says: Hail my commander!
+e
+The phoenix releases its grip on the door to the east.
+You open the east door.
+South hall (ne,nw).
+The west door closes.
+spl
+You manage to get your bearings.
+You spin the southwest pillar to the left.
+Behind the pillar a passage becomes visible.
+sw
+You step around the pillar and enter the passage.
+Large icy nest (-).
+ke
+You kneel before the egg.
+Blue flames shoot out from the egg and engulf you!
+Phoenix egg (-).
+Blue flames roar all around you with great intensity!
+ep 6
+You enter the portal.
+Snowy trail (w,e).
+w
+w
+East gate of Dragonmount (w,e).
+Town square of Dragonmount (n,e,s,w).
+n
+North alley (n,e,s,w).
+w
+A small shop (e).
+Namius the healer
+heal
+Namius relieves you of the 372 gold fee.
+Namius makes a magical gesture.  You are healed completely!
+cheek katra
+Cheek kiss who?
+manor
+You begin concentrating on a manor...
+Your surroundings spin madly!
+The cave is octagonal in shape and made of a smooth granite.  There are
+several statues sitting in front of the north and west walls.  In the
+center of the room there are nine busts sitting on pedestals.  A large
+mural has been painted on the south wall.  In the middle of the east wall
+there is a door, with a large phoenix resting above it.  Several banners
+seem to float throughout the room.
+   There are no obvious exits.
+Knight Rykeir
+You feel disoriented!
+Rykeir bows before Shule.
+Rykeir says: Hail my commander!
+A glowing ball of blue elemental water orbits Rykeir slowly.
+You manage to get your bearings.
+e
+The phoenix releases its grip on the door to the east.
+You open the east door.
+South hall (ne,nw).
+The west door closes.
+You blink and Alphiril arrives.
+A slow grinding noise can be heard within the room.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+A rocky globe of brown earth orbits Alphiril like a blur.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+A fire orb and an air orb create smoke in orbit around Alphiril.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+Alphiril arrives from the northeast.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+An almost invisible circle of elemental air orbits Alphiril.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+An almost invisible circle of elemental air orbits Alphiril.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+With a blazing tail, a fiery sphere orbits Alphiril.
+You blink and Alphiril disappears.
+You blink and Alphiril arrives.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+ll
+South hall (ne,nw).
+ne
+East hall (nw,sw,e).
+e
+Sitting room (w).
+Wormwood and Wormwood are lying on the floor.
+twho
+3 players: Mouser* Shule Silk*
+A fire orb and an air orb create smoke in orbit around Alphiril.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+ll
+Sitting room (w).
+Wormwood and Wormwood are lying on the floor.
+twho
+3 players: Mouser* Shule Silk*
+With a blazing tail, a fiery sphere orbits Alphiril.
+A fire orb almost burns an earth orb in orbit around Alphiril.
+A fire orb and an air orb create smoke in orbit around Alphiril.
+A fire orb almost burns an earth orb in orbit around Alphiril.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+Alphiril leaves west.
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+ll
+Sitting room (w).
+Wormwood and Wormwood are lying on the floor.
+A fire orb and an air orb create smoke in orbit around Alphiril.
+An almost invisible circle of elemental air orbits Alphiril.
+With a blazing tail, a fiery sphere orbits Alphiril.
+A rocky globe of brown earth orbits Alphiril like a blur.
+A fire orb and an air orb create smoke in orbit around Alphiril.
+A terrifying Arcanodaemon streaks across the sky from east to west!
+A glorious dragon, the color of sapphire, streaks across the sky from north
+to south.
+A guttural, troll-like voice echoes through rolling thunder:  The ignoble
+monarchy dares to organize against me?  Your pathetic peerage is no match
+for my chivalry.  Allow me to introduce to you a new breed of nobility. 
+Minions, descend upon Silverspire and transform it into a mausoleum!
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+Troll bugling sweeps across the realm announcing an attack.
+[0m#UNSNOOPING SESSION 'Everdark'[0m
+Baroness Karolyn ntells: Help!  Grey troll is attacking!
+Thane Anatius ntells: Help!  Grey troll is attacking!
+Troll bugles blare in celebration of the death of Guard!
+Baroness Karolyn ntells: Help!  Grey troll is attacking!
+Troll bugles blare in celebration of the death of Anatius!
+Troll bugles blare in celebration of the death of Karolyn!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Khirsanth!
+Troll bugles blare in celebration of the death of Clarendon!
+Troll bugles blare in celebration of the death of Khadious!
+A fire orb almost burns an earth orb in orbit around Alphiril.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+Troll bugles blare in celebration of the death of Khirsanth!
+Troll bugles blare in celebration of the death of Karolyn!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Anatius!
+Troll bugles blare in celebration of the death of Clarendon!
+Troll bugles blare in celebration of the death of Khadious!
+With a blazing tail, a fiery sphere orbits Alphiril.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+A fire orb almost burns an earth orb in orbit around Alphiril.
+With a blazing tail, a fiery sphere orbits Alphiril.
+Troll bugles blare in celebration of the death of Clarendon!
+Troll bugles blare in celebration of the death of Khadious!
+Troll bugles blare in celebration of the death of Anatius!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Karolyn!
+Troll bugles blare in celebration of the death of Khirsanth!
+With a blazing tail, a fiery sphere orbits Alphiril.
+A rocky globe of brown earth orbits Alphiril like a blur.
+With a blazing tail, a fiery sphere orbits Alphiril.
+Silk shouts : Happy Birthday Shule!
+A fire orb and an air orb create smoke in orbit around Alphiril.
+You hear voices in your head.
+Troll bugles blare in celebration of the death of Karolyn!
+Thane Anatius ntells: Help!  Grey troll is attacking!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Anatius!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Khirsanth!
+Troll bugles blare in celebration of the death of Clarendon!
+Troll bugles blare in celebration of the death of Khadious!
+A fire orb and an air orb create smoke in orbit around Alphiril.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+Troll bugles blare in celebration of the death of Karolyn!
+Troll bugles blare in celebration of the death of Khadious!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Khirsanth!
+Troll bugles blare in celebration of the death of Anatius!
+Troll bugles blare in celebration of the death of Guard!
+Troll bugles blare in celebration of the death of Clarendon!
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+[0m#SESSION 'Everdark' ACTIVATED.[0m
+A rocky globe of brown earth orbits Alphiril like a blur.
+With a blazing tail, a fiery sphere orbits Alphiril.
+A fire orb and an air orb create smoke in orbit around Alphiril.
+A troll-like voice echoes across the realm: Your nobility makes me sick. We
+seek more meaningful prey elsewhere.
+Troll bugles blare triumphantly.
+Troll bugles blare victoriously.
+The bugles fade with a final arrogant blast.
+A woman's cackling somehow waivers in your mind.
+With a blazing tail, a fiery sphere orbits Alphiril.
+A rocky globe of brown earth orbits Alphiril like a blur.
+An earth orb nearly suffocates an air orb in orbit around Alphiril.
+Idle too long!  Forcing net-death.

@@ -1,0 +1,123 @@
+#CLASS {Ship-Combat} OPEN
+
+#ACTION {A loud klaxon sounds as purple lights continue to flash overhead.}
+{
+	play Ship/Combat/RedCont1.wav;
+	#line gag
+}
+{5}
+
+#ACTION {You hear a mechanical whine as the laser reflectors reorient themselves.}
+{
+	play Ship/Combat/reflectors1.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^A loud klaxon sounds as red lights continue to flash overhead.$}
+{
+	play Ship/Combat/RedCont2.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^A loud klaxon sounds as red lights flash overhead.$}
+{
+	play Ship/Combat/RedStart2.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^A loud, warbling alarm pierces the room as purple lights flash overhead.}
+{
+	play Ship/Combat/RedCont3.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^That space is occupied.}
+{
+	play General/Misc/Beep3.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The room is filled with a brilliant %* light as the laser turrets are fired.$}
+{
+	play Ship/Combat/Laser1.wav
+}
+{5}
+
+#ACTION {^You feel a mighty shaking as something seemingly large impacts the hull.$}
+{
+	play Ship/Combat/YouHit@rnd{5}.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear a crackling burst of sound as an immobilization pulse builds up, before}
+{
+	play Ship/Combat/Immobilize.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear a gentle hum as the weapons power up.$}
+{
+	play Ship/Combat/WeaponsOn.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear a loud popping sound as a disarmament pulse is fired.}
+{
+	play Ship/Combat/Disarm.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear a sharp 'twanging' sound as a sensor interruption pulse is fired.}
+{
+	play Ship/Combat/Interrupt.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear an oscillating discordant sound of electrical energy reverberating off}
+{
+	play Ship/Combat/Disrupt.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear the gentle hum begin to fade as the weapons power down.$}
+{
+	play Ship/Combat/WeaponsOff.wav;
+	#line gag
+}
+{5}
+
+#ACTION {has fired at}
+{
+	play Ship/Combat/OtherFired@rnd{6}.wav
+}
+{5}
+
+#ACTION {sustained long-range laser burst.$}
+{
+	play Ship/Combat/LaserSqueal3.wav;
+	#line gag
+}
+{5}
+
+#SUBSTITUTE       {Praelor %1 drone %d: %3}     {%3}  {5}
+#SUBSTITUTE       {Praelor %1 drone: %2}  {%2}  {5}
+#SUBSTITUTE       {^Praelor %1 Drone %d: %3}      {%3}  {5}
+#SUBSTITUTE       {^Standard Drone %d: %2}    {%2}  {5}
+#SUBSTITUTE       {^This starship has been hit by %*.}                {[${%1}] %1}  {5}
+#VARIABLE         {Praelor Ontanka Drone 1}     {1}
+#VARIABLE         {Praelor Ontanka Drone 2}     {2}
+#VARIABLE         {Praelor Ontanka Drone 3}     {3}
+#VARIABLE         {Praelor Ontanka Drone 4}     {4}
+
+#CLASS {Ship-Combat} CLOSE

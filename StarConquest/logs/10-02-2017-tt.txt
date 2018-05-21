@@ -1,0 +1,856 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source code, all related background material, and all text) located in this game or on the Squidsoft.net website is copyright (c)
+Squidsoft.net 1998-2015. Unauthorised reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals may find some other players offensive. The staff is ultimately not responsible for the words and actions of the players.
+The last server reset was at Thu Aug 24 06:11:20 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on long journeys, and it isn't large enough to do much else. A long counter is bolted to the wall opposite the entryway, and two
+narrow bunks have been bolted to the two remaining walls. A small keypad is next to the door, controlling a simple lock. The status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at Old Frontier Processor; Docking Bay.
+You see a dusky pink rattan cabinet, a small red ball containing a realistic Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval dark purple and light purple cloth rug, a
+white four poster rattan bed with a heart-shaped headboard and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a hand-made
+purple and amethyst flower quilt, and a large periwinkle bed pillow on it, a small purple trash bin, and a small oval turquoise rattan table with a glass top here.
+Lily Kaise, Phoenix Dissident is lying on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of lavender silk sheets, a large periwinkle bed
+pillow, a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on it.)
+**
+ Welcome back to Star Conquest!
+**
+ One new post to the changelog since you were last connected. Type CHANGELOG NEW to read it.
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: As a pilot you want both license points and credits, but most activities focus on one or the other.
+**
+#unaction {^The computer announces, "%*"}
+[0m#OK. {^The computer announces, "%*"} IS NO LONGER AN ACTION.[0m
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on long journeys, and it isn't large enough to do much else. A long counter is bolted to the wall opposite the entryway, and two
+narrow bunks have been bolted to the two remaining walls. A small keypad is next to the door, controlling a simple lock. The status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is at Old Frontier Processor; Docking Bay.
+You see a dusky pink rattan cabinet, a small red ball containing a realistic Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval dark purple and light purple cloth rug, a
+white four poster rattan bed with a heart-shaped headboard and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a hand-made
+purple and amethyst flower quilt, and a large periwinkle bed pillow on it, a small purple trash bin, and a small oval turquoise rattan table with a glass top here.
+Lily Kaise, Phoenix Dissident is lying on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of lavender silk sheets, a large periwinkle bed
+pillow, a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on it.)
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+kiss lily on chest
+You kiss Lily Kaise, Phoenix Dissident on the smooth skin above her breasts.
+[Tactical Communication] Morris Corlew transmits, "Need crew to the Old Earth Lounge. We've got siege force en route to Masterson's."
+[Tactical Communication] Evenia Callseah transmits, "On my way."
+[Tactical Communication] Melinda Michaels transmits, "Coming."
+[Tactical Communication] Morris Corlew transmits, "Ok...need one to crew. to Old Earth please. merry band siege."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Space Explorers Amidst The Stars] The organization has received 209,921.82 EAOS credits from a toll payment to League Rift Accelerating Battery-Powered Toll Station in The Belt of
+Orion.
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+A Tardick lizard named Asteria trundles slowly out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+A metallic gold touch einrophone beeps quietly for attention, indicating a new post in General/General.
+A metallic silver metachannel FTL communicator chimes softly as it receives a new notice.
+Your metallic gold touch einrophone trills quietly, indicating a new story has been posted under "AEU."
+A metallic silver metachannel FTL communicator dings politely as it receives a new notice.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+Mischief the large black felo hums melodically to itself as it wanders in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like we've got some things going, but we haven't met any performance goals yet!"
+Mischief the large black felo rubs up against Lily Kaise, Phoenix Dissident's leg with a quiet "Mrrp."
+Mischief the large black felo hums melodically to itself as it wanders out.
+Mischief the large black felo hums melodically to itself as it wanders in from the north.
+Mischief the large black felo hums melodically to itself as it wanders out.
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+Cheri-Pye the large light violet felo rubs up against your leg with a quiet "Mrrp.".
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders out.
+Lily Kaise, Phoenix Dissident navigates her metallic gold touch einrophone to a text-heavy application and peers at the screen.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+Lily Kaise, Phoenix Dissident squeezes you affectionately.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+Lily Kaise, Phoenix Dissident stands up from a white four poster rattan bed with a heart-shaped headboard and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of lavender silk
+sheets, a large periwinkle bed pillow, a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on it.
+Lily Kaise, Phoenix Dissident glides out.
+Lily Kaise, Phoenix Dissident glides in from the north.
+Lily Kaise, Phoenix Dissident kisses you.
+Lily Kaise, Phoenix Dissident glides out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+smell me
+You sniff at yourself. You smell the fresh fragrance of a sun-warmed grassy meadow.
+out
+You scramble to your feet.
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak table from Old Earth, a textured plasteel floor lamp with a cream shade (casting a white-colored glow), a violet leather
+sectional sofa, a glossy lilac ceramic felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white and light blue aquatic life and coral rocks, and Cheri-Pye the large light violet felo
+here.
+You can go north, east, south, west, up, and down.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: As a pilot you want both license points and credits, but most activities focus on one or the other.
+**
+get suit
+You remove a small suitcase from a leather briefcase.
+open suit
+You open a small suitcase.
+get briefs from suit
+A large orange creature in the shape of a three-pointed star with narrow spines pays absolutely no attention to a plastic flower with yellow petals.
+You remove a pair of white cotton briefs from a small suitcase.
+wear briefs
+You slide a pair of white cotton briefs on.
+get jeans
+You remove a pair of blue corduroy jeans from a small suitcase.
+wear jeans
+You pull a pair of blue corduroy jeans on over your legs.
+get tee
+You remove a long-sleeved black tee with a large neon pink starburst appliqued on the front from a small suitcase.
+put tee in suit
+You put a long-sleeved black tee with a large neon pink starburst appliqued on the front in a small suitcase.
+get tee
+You remove a long-sleeved black tee with a large silver starburst appliqued on the front from a small suitcase.
+wear tee
+You pull a long-sleeved black tee with a large silver starburst appliqued on the front on over your head.
+get white socks from suit
+You remove a pair of white socks from a small suitcase.
+wear socks
+You slide a pair of white socks onto your feet.
+get sneakers
+You remove a pair of washed light khaki canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of washed light khaki canvas sneakers onto your feet.
+close suit
+You close a small suitcase.
+Cheri-Pye the large light violet felo hums melodically to itself as it wanders south.
+put suit in briefcase
+You put a small suitcase in a leather briefcase.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise seashells, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a round white rattan dining table with
+a glass top, a blueberry rattan bench with a long white and coral pink flowered cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small dusky pink trash
+bin, a glossy azure blue ceramic felo chow bowl, a black plastic tray of spider chow, Shine the big white glowing felo, and Prissy the big violet long-haired felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit aquarium containing yellow and red aquatic life and coral rocks, a black plastic tray of spider chow, a small white trash bin,
+and Purr the humanoid service robot here.
+You can go south and out.
+out
+[Starship "William Dove"; Airlock]
+out
+You see a large secure xenology storage container, a row of flightlockers, an early warning space defense device, a glossy sky blue ceramic felo chow bowl, KitCat the humanoid service robot, and a
+personal hoverpallet here.
+You can go out and enter into the ship.
+You exit the ship.
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike" and the five-person A.S.S. tactical platform "William Dove" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+s
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt, and a small natural golden brown trash bin here.
+Lily Kaise, Phoenix Dissident is sitting on a large leather couch.
+You can go north.
+sit couch
+You sit down on a large leather couch.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+cuddle liy
+I don't see that here.
+cuddle lily
+You cuddle up to Lily Kaise, Phoenix Dissident.
+[Notification from Space Explorers Amidst The Stars] The organization has received 209,906.40 EAOS credits from a toll payment to League Rift Accelerating Battery-Powered Toll Station in The Belt of
+Orion.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it has unread notices.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+read comm
+You glance at your communicator's screen.
+There is one board post.
+There is one headline.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (19/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+====================
+Recent AEU Headlines
+====================
+* "Call to Evacuate" Given Moments Prior to Bombing of Pro-Union Pub on Hyperion [ 2 October 2317] (DNA)
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+afk
+You blink heavily and then doze off.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+Lily Kaise, Phoenix Dissident turns off a neon purple metachannel FTL communicator.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily Kaise, Phoenix Dissident's shoulder.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+[Tactical Communication] Hakeem Oiadip transmits, "Any interest on beacons?"
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Yes."
+[Tactical Communication] Hakeem Oiadip transmits, "Chetumal, please Johnathon."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily Kaise, Phoenix Dissident's shoulder.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like we've got some things going, but we haven't met any performance goals yet!"
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily Kaise, Phoenix Dissident's shoulder.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily Kaise, Phoenix Dissident's shoulder.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily Kaise, Phoenix Dissident's shoulder.
+who
+There appear to be about 11 pilots recently active.
+The communicator network detects:
+Wendy Arroyo  (L)
+Johann Schraft  (L)
+Erik Goodwin  (L)
+Emily Ford  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Hakeem Oiadip  (F)
+Michael Kennedy  (F)
+Ted Warburton  (F)
+Your communicator also reports that there are 2 pilots who were active but dropped out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but have not recently been active.
+Final total: 21 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+who
+There appear to be about 11 pilots recently active.
+The communicator network detects:
+Wendy Arroyo  (L)
+Johann Schraft  (L)
+Erik Goodwin  (L)
+Emily Ford  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Hakeem Oiadip  (F)
+Michael Kennedy  (F)
+Ted Warburton  (F)
+Your communicator also reports that there are 2 pilots who were active but dropped out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but have not recently been active.
+Final total: 21 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+speech This is a test.
+speech This is a test.
+speech This is a test.
+speech This is a test.
+speech This is a test.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily Kaise, Phoenix Dissident's shoulder.
+speech This is a test.
+who
+There appear to be about 12 pilots recently active.
+The communicator network detects:
+Wendy Arroyo  (L)
+Johann Schraft  (L)
+Erik Goodwin  (L)
+Emily Ford  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Michael Kennedy  (F)
+Hakeem Oiadip  (F)
+Ted Warburton  (F)
+Your communicator also reports that there are 2 pilots who were active but dropped out of communications.
+Additionally, there are 9 pilots who appear to have their communicators on but have not recently been active.
+Final total: 21 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+who
+There appear to be about 12 pilots recently active.
+The communicator network detects:
+Wendy Arroyo  (L)
+Johann Schraft  (L)
+Erik Goodwin  (L)
+Emily Ford  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Michael Kennedy  (F)
+Hakeem Oiadip  (F)
+Ted Warburton  (F)
+Your communicator also reports that there are 2 pilots who were active but dropped out of communications.
+Additionally, there are 9 pilots who appear to have their communicators on but have not recently been active.
+Final total: 21 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+Lily Kaise, Phoenix Dissident stands up from a large leather couch.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise, Phoenix Dissident has automatically contributed 97,548,582.47 AEU credits.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch on Lily Kaise, Phoenix Dissident's shoulder, and its spine ridges flicker blue for a brief moment.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been received at League Salvage Processing Nuclear Temporary Station from the two-person medium transport "One Debris At A Time".
+The organization has earned 1,360,479.91 credits.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily Kaise, Phoenix Dissident's shoulder.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Johnathon Triggs walks in from the north.
+Johnathon Triggs walks north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "You too."
+[AEU | 1: Alliance Communication] Johnathon Triggs laughs.
+A metallic gold touch einrophone beeps quietly for attention, indicating a new post in General/Name Changes.
+A metallic silver metachannel FTL communicator chimes softly as it receives a new notice.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+who
+There appear to be about 16 pilots recently active.
+The communicator network detects:
+Johnathon Triggs  (A) [c]
+Jonathan Gray  (A) [m]
+Eli Grey  (A)
+Erik Goodwin  (L)
+Katina Faye  (L)
+Dratzo Delingann  (L) [c]
+Bryan Stout  (L)
+Jada Nelson  (L)
+Wendy Arroyo  (L)
+Johann Schraft  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Michael Kennedy  (F)
+Ted Warburton  (F)
+Your communicator also reports that there is 1 pilot who was active but dropped out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but have not recently been active.
+Final total: 26 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[Notification from Space Explorers Amidst The Stars] The organization has received 209,898.15 EAOS credits from a toll payment to League Rift Accelerating Battery-Powered Toll Station in The Belt of
+Orion.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident sits down on a large leather couch.
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+[Tactical Communication] Katina Faye transmits, "Beacons anyone?"
+[Tactical Communication] Morris Corlew transmits, "In 10 minutes, maybe 15, sure."
+[Tactical Communication] Johnathon Triggs transmits, "In... 10 minutes?"
+[Tactical Communication] Jada Nelson transmits, "Doing them or else, I would."
+[Tactical Communication] Katina Faye transmits, "May I get 2 more for beacons please?"
+[Tactical Communication] Ted Warburton transmits, "In that few minutes I might be able to."
+[Tactical Communication] Jada Nelson transmits, "I'm one west of the BAS by the way."
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+[Tactical Communication] Katina Faye transmits, "Meet at earth lounge in 15."
+[Tactical Communication] Bryan Stout transmits, "Oh, not enough time for me to get back from GMG."
+[Tactical Communication] Johnathon Triggs transmits, "Ok!"
+[Tactical Communication] Katina Faye transmits, "What is your ETA Bryan?"
+[Tactical Communication] Bryan Stout transmits, "Let you know in a moment."
+[Tactical Communication] Bryan Stout transmits, "26 minutes."
+[Tactical Communication] Bryan Stout transmits, "Is that too long?"
+[Tactical Communication] Katina Faye transmits, "No, we will wait."
+[Tactical Communication] Bryan Stout transmits, "Thank you."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+\e\e[C\e\e[C\e\e[C\e\e[C\e\e[D\e\e[Dwho
+I don't understand that.
+who
+There appear to be about 13 pilots recently active.
+The communicator network detects:
+Johnathon Triggs  (A) [c]
+Jonathan Gray  (A) [m]
+Eli Grey  (A)
+Shule Elemmire, Phoenix Dissident  (A) [m]
+Katina Faye  (L)
+Bryan Stout  (L)
+Jada Nelson  (L)
+Johann Schraft  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Michael Kennedy  (F)
+Ted Warburton  (F)
+Your communicator also reports that there is 1 pilot who was active but dropped out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but have not recently been active.
+Final total: 23 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+l
+[Old Frontier Processor; Asteroid Mining]
+This room appears to be a control center from which one can control drone operations at remote mining sites. There appear to be several dents in the wall.
+You see a large leather couch, a coffee table of highly polished lunar basalt, and a small natural golden brown trash bin here.
+Lily Kaise, Phoenix Dissident is sitting on a large leather couch.
+You can go north.
+(You are sitting on a large leather couch.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: You can type WHO to see which other pilots are around.
+**
+afk
+You blink heavily and then doze off.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+Lily Kaise, Phoenix Dissident slumps in a large leather couch and goes to sleep.
+[Tactical Communication] Katina Faye transmits, "Jada are you still doing beacons west of the BAS?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+Lily Kaise, Phoenix Dissident suddenly awakens.
+Lily Kaise, Phoenix Dissident slumps in a large leather couch and goes to sleep.
+Lily Kaise, Phoenix Dissident suddenly awakens.
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Erm.. no wonder why it's been so quite. I forgot to turn back on my communicator."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "That'll do it."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Nina and Kelsey both bobbing their heads in agreement."
+[AEU | 1: Alliance Communication] Johnathon Triggs chuckles.
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "So.. what have I missed?"
+A Tardick lizard named Asteria turns to regard its surroundings from its perch on Lily Kaise, Phoenix Dissident's shoulder, and its spine ridges flicker blue for a brief moment.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Just mel inviting folks on a short exploration trip tomorrow."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "It's open to everyone, but you probably wouldn't get much out of it in the way of points or credits."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Oh, I heard her taking about it in the manhattan pilot lounge."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Yeah... not till I get my full license. Which, I honestly hope it is soon."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Not even then, really. You might get a little but you really want to at least qualify for a rift drive before going on something like that, in my
+opinion."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Of course, you'd be rewarded in good company,  adventure, and experience."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "That's all that really matters."
+A metallic gold touch einrophone beeps quietly for attention, indicating a new post in General/Name Changes.
+A metallic silver metachannel FTL communicator chimes softly as it receives a new notice.
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Ah, well... I can't do much exploration till I get my full license, anyways.."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "May as well work on tesla sites."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Get some minor minimodules."
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+hold lily
+You hold Lily Kaise, Phoenix Dissident's hand, taking her into your group.
+stand
+You stand up from a large leather couch.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Like someone's dress? You can type LOOK [clothing] ON [person] to see more detail.
+**
+pull lily
+You pull Lily Kaise, Phoenix Dissident to her feet.
+n
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike" and the five-person A.S.S. tactical platform "William Dove" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+Lily Kaise, Phoenix Dissident followed you.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an early warning space defense device, a glossy sky blue ceramic felo chow bowl, KitCat the humanoid service robot, a personal
+hoverpallet, and Prissy the big violet long-haired felo here.
+You can go out and enter into the ship.
+Lily Kaise, Phoenix Dissident followed you.
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit aquarium containing yellow and red aquatic life and coral rocks, a black plastic tray of spider chow, a small white trash bin,
+Purr the humanoid service robot, and a hairy yellow eight-legged ArachnoPal named Higgins here.
+You can go south and out.
+Lily Kaise, Phoenix Dissident followed you.
+put lily on couch
+You move to take hold of Lily Kaise, Phoenix Dissident...
+You place Lily Kaise, Phoenix Dissident on a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it.
+disband
+You disband your group.
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an early warning space defense device, a glossy sky blue ceramic felo chow bowl, KitCat the humanoid service robot, a personal
+hoverpallet, and Prissy the big violet long-haired felo here.
+You can go out and enter into the ship.
+out
+You exit the ship.
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike" and the five-person A.S.S. tactical platform "William Dove" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a letter, an insulated purple sleeping bag, and a
+letter here.
+You can go east, southeast, and out.
+sit chair
+You sit down on an overstuffed dark green chair.
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Think with the latest events on Hyperion, the security missions should equip the suits with stun based weapons."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Honestly, I still straight up refuse to do those patrols."
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "I have no desire whatsoever to intimidate our civilian populations into submition, and those who do those missions should be ashamed of
+themselves."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it has unread notices.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been received at League Salvage Processing Nuclear Temporary Station from the two-person medium transport "Edmund Fitzgerald".
+The organization has earned 1,508,139.77 credits.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "You too."
+A metallic gold touch einrophone beeps quietly for attention, indicating a new post in General/Exploration.
+[Tactical Communication] Katina Faye transmits, "Beacons anyone?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+Your metallic gold touch einrophone trills quietly, indicating a new story has been posted under "EAOS."
+A metallic silver metachannel FTL communicator dings politely as it receives a new notice.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been received at League Salvage Processing Nuclear Temporary Station from the two-person medium transport "Edmund Fitzgerald".
+The organization has earned 2,651,352.25 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has received 209,921.17 EAOS credits from a toll payment to League Rift Accelerating Battery-Powered Toll Station in The Belt of
+Orion.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we can reach our performance goals if we try!"
+[Notification from Space Explorers Amidst The Stars] The organization has received 209,909.76 EAOS credits from a toll payment to League Rift Accelerating Battery-Powered Toll Station in The Belt of
+Orion.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect thick bundles of wires carrying information from every part of the ship to this one location. A large transparisteel viewport
+provides a view out the front of the ship, but experienced pilots in space will have eyes only for the large starmap dominating the right side of the room. Standing before the viewport is the main control
+board, providing essential functions like the shipwide power lever and alert status. Secondary control boards can be pulled up and folded back to provide a working surface, or pulled down from recesses
+overhead as needed. Though the room is spacious enough for a few others to sit or stand, the entire architecture of the room is built around the small space before the control board and the person who
+will stand there: the starship's pilot. The status lights overhead are currently not receiving power. Looking through the windows, you see that the ship is at Old Frontier Processor; Docking Bay.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a letter, an insulated purple sleeping bag, and a
+letter here.
+You can go east, southeast, and out.
+(You are sitting on an overstuffed dark green chair.)
+out
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+You exit the ship.
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike", the five-person A.S.S. tactical platform "William Dove", and the three-person clipper "Obliteration" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+enter dove
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an early warning space defense device, a glossy sky blue ceramic felo chow bowl, KitCat the humanoid service robot, and a
+personal hoverpallet here.
+You can go out and enter into the ship.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Conquest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: You can punch, kick, tackle, and flip other people if you need to defend yourself and you don't have a stun weapon.
+**
+enter
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor lamp with a light purple lotus shade (casting a white-colored glow), a wormhole drive tracer, a dark purple leather
+captain's chair, a large oval white and black cloth rug, a rare black EAOSian contoured couch with a hand-made white and sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a wall-sized bubbling neon purple-lit aquarium containing yellow and red aquatic life and coral rocks, a black plastic tray of spider chow, a small white trash bin,
+Purr the humanoid service robot, and Prissy the big violet long-haired felo here.
+You can go south and out.
+boot
+Onboard sensors detect the presence of the following people somewhere aboard the ship: Shule Elemmire, Phoenix Dissident.
+Eject? [Enter `yes' or `no']
+out
+Not ejected.
+out
+[Starship "William Dove"; Airlock]
+out
+You see a large secure xenology storage container, a row of flightlockers, an early warning space defense device, a glossy sky blue ceramic felo chow bowl, KitCat the humanoid service robot, and a
+personal hoverpallet here.
+You can go out and enter into the ship.
+You exit the ship.
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike", the five-person A.S.S. tactical platform "William Dove", and the three-person clipper "Obliteration" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+s
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt, and a small natural golden brown trash bin here.
+Lily Kaise, Phoenix Dissident is sitting on a large leather couch. Ather Jammoa is standing here.
+You can go north.
+wave
+Lily Kaise, Phoenix Dissident smiles at you.
+You wave.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+'be right back
+You say, "Be right back."
+n
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike", the five-person A.S.S. tactical platform "William Dove", and the three-person clipper "Obliteration" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+enter
+You can go out and enter into the ship.
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a letter, an insulated purple sleeping bag, and a
+letter here.
+You can go east, southeast, and out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it has unread notices.
+out
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+i
+ You are wearing a long-sleeved black tee with a large silver starburst appliqued on the front, a pair of blue corduroy jeans, and a pair of washed light khaki canvas sneakers. Underneath this, you are
+wearing a pair of white cotton briefs and a pair of white socks. You are also wearing a keychain, a backpack, a metallic gold touch einrophone in a black leather phone holster, a solid silver ring
+engraved with dolphins, and a gold wrist-mounted chronometer. You are concealing a metallic silver metachannel FTL communicator, a flight control scanner, a large expandable telescoping xenology
+container, a scorched metal thigh holster, a golden Feng Wo coin purse, a camera bag, a black flightbag with a red shooting star on the side, a leather briefcase, and a black engineering tool case. Your
+head, face, both eyes, neck, both wrists, and both hands are left uncovered.
+You are carrying nothing.
+out
+You exit the ship.
+s
+[Old Frontier Processor; Docking Bay]
+The two-person flare "Deadly Strike", the five-person A.S.S. tactical platform "William Dove", and the three-person clipper "Obliteration" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt, and a small natural golden brown trash bin here.
+Lily Kaise, Phoenix Dissident is sitting on a large leather couch. Ather Jammoa is standing here.
+You can go north.
+sit couch
+You sit down on a large leather couch.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident smiles at you.
+Lily Kaise, Phoenix Dissident squeezes you affectionately.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+Lily Kaise, Phoenix Dissident says, "Sure will be glad when this rocky is finished. I sort of got distracted and let some things go a bit south but it's all gravy."
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+nod lily
+You nod to Lily Kaise, Phoenix Dissident.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch on Lily Kaise, Phoenix Dissident's shoulder, and its spine ridges flicker blue for a brief moment.
+Lily Kaise, Phoenix Dissident grins at you.
+Lily Kaise, Phoenix Dissident exclaims, "Good I'm about done with this disaster!"
+Lily Kaise, Phoenix Dissident laughs.
+Lily Kaise, Phoenix Dissident says, "Heh still earnerly 400k ifven though it's embarrassing."
+[Notification from Space Explorers Amidst The Stars] Lily Kaise, Phoenix Dissident has automatically contributed 76,790,655.49 AEU credits.
+Lily Kaise, Phoenix Dissident says, "Woo another metal."
+grin lily
+You grin at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident says, "Have about 59500 this time so maybe i'll maket to 500 mil."
+grin lily
+You grin at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident grins at you.
+Lily says to you, "Did I tell you one of those was 100 percent conversion and 50 points?"
+nod and beam lily
+You nod and beam at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident grins.
+Lily Kaise, Phoenix Dissident says, "Most, if I don't screw them up are 99 and 49."
+'Nice!
+You exclaim, "Nice!"
+Lily Kaise, Phoenix Dissident nods.
+You hear Ather Jammoa's black flip einrophone ringing.
+You hear Ather Jammoa's black flip einrophone ringing.
+You hear Ather Jammoa's black flip einrophone ringing.
+You hear Ather Jammoa's black flip einrophone ringing.
+You hear Ather Jammoa's black flip einrophone ringing.
+You hear Ather Jammoa's black flip einrophone ringing.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+You hear Ather Jammoa's black flip einrophone ringing.
+You hear Ather Jammoa's black flip einrophone ringing.
+Ather Jammoa's black flip einrophone stops ringing.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+Lily Kaise, Phoenix Dissident tunes a neon purple metachannel FTL communicator.
+Johnathon Triggs walks in from the north.
+Lily Kaise, Phoenix Dissident waves to Johnathon Triggs.
+Johnathon Triggs waves.
+Johnathon Triggs retrieves a virtual reality suit and puts it on.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some activity underway, but no performance goals reached yet! Let's keep going!"
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it has unread notices.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix Dissident's neck.
+Johnathon Triggs removes his virtual reality suit.
+Johnathon Triggs retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "Yo?"
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Johnathon Triggs removes his virtual reality suit.
+Lily Kaise, Phoenix Dissident glances around at her surroundings.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "What's going on?"
+Johnathon Triggs speaks into his metachannel FTL communicator and watch:
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Not too much at the moment."
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "What's going on?"
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "S... sorry."
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "I t-t-t-think I have a meanie somwhr, but  don't know..."
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "I can't find it."
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+ sueeze lily
+I don't understand that.
+squeeze lily
+I don't see that here.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+Lily Kaise, Phoenix Dissident squeezes you affectionately.
+Johnathon Triggs retrieves a virtual reality suit and puts it on.
+[AEU | 1: Alliance Communication] Evangeline Adaire transmits, "F... found it."
+Johnathon Triggs removes his virtual reality suit.
+Ather Jammoa says into his metallic blue metachannel FTL communicator, "Woo 12500 units of ice!"
+Lily Kaise, Phoenix Dissident says, "Nice."
+Johnathon Triggs says, "Nice."
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's shoulder, blinks its yellow eyes slowly, utterly indifferent to its surroundings.
+Johnathon Triggs taps his foot impatiently.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Lily Kaise, Phoenix Dissident retrieves a virtual reality suit and puts it on.
+Lily Kaise, Phoenix Dissident removes her virtual reality suit.
+Johnathon Triggs says, "Bah. What a time to be recharging."
+Lily Kaise, Phoenix Dissident laughs.
+Johnathon Triggs mutters.
+cuddle lily
+You cuddle up to Lily Kaise, Phoenix Dissident.
+sleep
+I don't understand that.
+sleep
+I don't understand that.
+quit
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m

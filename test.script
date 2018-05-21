@@ -1,0 +1,3 @@
+set Message to "This is a test."
+tell application "VoiceOver" to output Message
+say Message

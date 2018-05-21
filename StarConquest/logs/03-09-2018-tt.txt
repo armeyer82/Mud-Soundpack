@@ -1,0 +1,2009 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Feb 22 17:48:16 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting old connection to this port ***
+#snoop
+[0m#SNOOPING SESSION 'StarConquest'[0m
+#alias mir {#Miriani}
+[0m#OK. {mir} NOW ALIASES {#Miriani} @ {5}.[0m
+#session
+[0m#THESE SESSIONS HAVE BEEN DEFINED:[0m
+[0m  5 Miriani             toastsoft.net:1234           (snooped)[0m
+[0m  6 StarConquest      104.181.170.164:7777  (active) (snooped) (logging)[0m
+A Tardick lizard named Asteria trundles slowly into the area.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise cuddles up to you.
+A Tardick lizard named Asteria flicks its tail.
+[0m[Miriani] Katrianne Beauchene releases the buckle of her seatbelt, causing it to
+retract back into the chair.[0m
+[0m[Miriani] Katrianne Beauchene stands up.[0m
+mir
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, a white four poster rattan bed with a heart-shaped headboard and
+filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it, and a Tardick
+lizard named Asteria here.
+Lily Kaise is lying on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.)
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+#snoop
+[0m#UNSNOOPING SESSION 'StarConquest'[0m
+#snoop
+[0m#SNOOPING SESSION 'StarConquest'[0m
+mir
+Lily says to you, "Nite Hun, rest well and sweet dreams. I love you."
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+-lily I love you too. Night.
+You say to Lily, "I love you too. Night."
+caress lily on back and waist
+You gently caress Lily Kaise's back and waist.
+Lily gently rubs your back and strokes your hair.
+smile lily 'Night.
+You smile at Lily Kaise. "Night."
+A Tardick lizard named Asteria flicks its tongue out.
+Lily Kaise smiles at you. "Nite."
+Lily Kaise cuddles up to you.
+Lily Kaise kisses you.
+cuddle lily
+You cuddle up to Lily Kaise.
+\kiss lily
+You kiss Lily Kaise.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[0m[Miriani] Katrianne Beauchene passionately french kisses you.[0m
+[0m[Miriani] Katrianne Beauchene smiles at you.[0m
+mir
+A Tardick lizard named Asteria trundles slowly out.
+Lily Kaise tunes a neon purple metachannel FTL communicator.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+grin lily
+You grin at Lily Kaise.
+whisper lily See? Didn't touch your butt this time.
+You whisper to Lily Kaise.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "Hello Steve and
+welcome! I'd love to chat a bit but it's time for my sleep cycle. Be certain to
+talk to the officer in the Liaison Office as well as you can jump to Space
+Vermin Patrol to obtain a few missions per day. Also, go to the Mail Room and
+request to deliver mail to earn some extra as well. With that, I'll say good day
+however, don't hesitate to call on us."
+[0m[Miriani] A blast of icy air suddenly explodes from the ceiling vents, carrying
+with it a flurry of white snowesque frozen water crystals. The hapless frozen
+water vapor drifts slowly, but inevitably, to the deck plating, where it is
+immediately melted back into water, effectively ending its life as snow.[0m
+[0m[Miriani] A blast of icy air suddenly explodes from the ceiling vents, carrying
+with it a flurry of white snowesque frozen water crystals. The hapless frozen
+water vapor drifts slowly, but inevitably, to the deck plating, where it is
+immediately melted back into water, effectively ending its life as snow.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Shine the big white glowing felo wanders in from the north.
+Shine the big white glowing felo bats at a small red ball containing a realistic
+Bari horde noisemaker.
+Shine the big white glowing felo wanders out.
+Shine the big white glowing felo wanders in from the north.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Shine the big white glowing felo wanders out.
+[0m[Miriani] You hear the distinct hiss of water being pumped through the ship's
+piping. Moments later, a flurry of frozen water crystals begins to drift down
+from vents in the ceiling, lazily swirling through currents of air being pumped
+out until it settles on the deck plating, where it immediately melts into a
+hazardous water puddle.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+[0m[Miriani] You hear the distinct hiss of water being pumped through the ship's
+piping. Moments later, a flurry of frozen water crystals begins to drift down
+from vents in the ceiling, lazily swirling through currents of air being pumped
+out until it settles on the deck plating, where it immediately melts into a
+hazardous water puddle.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Shine the big white glowing felo wanders in from the north.
+[0m[Miriani] [Newbie] Ivan Cardenas: How do you use a credit transfer card.[0m
+Shine the big white glowing felo rubs up against a small oval turquoise rattan
+table with a glass top, purring softly.
+[0m[Miriani] [Newbie] Gabriel Marin: Buy card, load card, send card, make someone's
+day.[0m
+[0m[Miriani] [Newbie] Gabriel Marin: Oh, and redeem card, if someone happens to
+gift you one.[0m
+[0m[Miriani] [Newbie] Kendall Gideon: I can't find info on these credit transfer
+cards, is their a help file I'm missing that talks about them? Shop credit
+transfer card gives nothing useful either.[0m
+[0m[Miriani] [Newbie] Gabriel Marin: Help credit transfer.[0m
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Shine the big white glowing felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[0m[Miriani] You hear the distinct hiss of water being pumped through the ship's
+piping. Moments later, a flurry of frozen water crystals begins to drift down
+from vents in the ceiling, lazily swirling through currents of air being pumped
+out until it settles on the deck plating, where it immediately melts into a
+hazardous water puddle.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m[Miriani] A blast of icy air suddenly explodes from the ceiling vents, carrying
+with it a flurry of white snowesque frozen water crystals. The hapless frozen
+water vapor drifts slowly, but inevitably, to the deck plating, where it is
+immediately melted back into water, effectively ending its life as snow.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for an ultimate salvage processor module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for an ultimate salvage processor module.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise blinks heavily and then dozes off.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at AEU Salvage Processing Nuclear Temporary Station from the two-person
+medium transport "Big Yellow Eagle". The organization has earned 1,371,174.31
+credits.
+[0m[Miriani] You hear the distinct hiss of water being pumped through the ship's
+piping. Moments later, a flurry of frozen water crystals begins to drift down
+from vents in the ceiling, lazily swirling through currents of air being pumped
+out until it settles on the deck plating, where it immediately melts into a
+hazardous water puddle.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at AEU Salvage Processing Nuclear Temporary Station from the two-person
+medium transport "Big Yellow Eagle". The organization has earned 1,816,493.65
+credits.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for an advanced multi-function battle scanner module.
+[Notification from Space Explorers Amidst The Stars] Starseekers has levied 1
+megacredits for an advanced multi-function battle scanner module.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[0m[Miriani] A blast of icy air suddenly explodes from the ceiling vents, carrying
+with it a flurry of white snowesque frozen water crystals. The hapless frozen
+water vapor drifts slowly, but inevitably, to the deck plating, where it is
+immediately melted back into water, effectively ending its life as snow.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+Shine the big white glowing felo wanders in from the north.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+Shine the big white glowing felo wanders out.
+Lily Kaise lies back on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it and goes to sleep.
+[0m[Miriani] Katrianne Beauchene drifts off to sleep.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Tactical Communication] Michael Kennedy transmits, "Nest?"
+[Tactical Communication] Kert On'Marr transmits, "Me if you raise enough."
+[Tactical Communication] Hank Marvelstine transmits, "If you can wait for me to
+return to local space sure."
+[Tactical Communication] Kert On'Marr transmits, "Don't turn around yet, only
+other one on comms is brunhilda."
+[Tactical Communication] Breton Ormarr transmits, "Me."
+[Tactical Communication] Hank Marvelstine transmits, "I'm under 25 minutes for
+the rift to bring me back."
+[Tactical Communication] Kert On'Marr transmits, "Ah."
+[Tactical Communication] Michael Kennedy transmits, "Hank needs about 23 minutes
+so could go with then."
+[0m[Miriani] A blast of icy air suddenly explodes from the ceiling vents, carrying
+with it a flurry of white snowesque frozen water crystals. The hapless frozen
+water vapor drifts slowly, but inevitably, to the deck plating, where it is
+immediately melted back into water, effectively ending its life as snow.[0m
+[0m[Miriani] A clear volcanic glass dolphin-shaped Desolian Sunshine scented air
+freshener freshens the room with the scent of Desolian Sunshine.[0m
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+kiss lily
+You kiss Lily Kaise.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Bari are spaceborne lifeforms -- actually an entire ecosystem -- who can
+thrive on any metal substrate. These pests are a great threat!
+**
+get suit
+You remove a small suitcase from a leather briefcase.
+out
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, a black plastic tray of spider chow, and Shine the big
+white glowing felo here.
+You can go north, east, south, west, up, and down.
+open suit
+You open a small suitcase.
+get briefs from suit
+You remove a pair of white cotton briefs from a small suitcase.
+wear briefs
+You slide a pair of white cotton briefs on.
+get trousers
+You remove a stormy pair of trousers from a small suitcase.
+wear trousers
+You pull a stormy pair of trousers on over your legs.
+get polo from suit
+You remove a soft red heather cotton polo from a small suitcase.
+wear polo
+You pull a soft red heather cotton polo on over your head.
+get sneakers
+You remove a pair of gray canvas sneakers from a small suitcase.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+close suit
+You close a small suitcase.
+put suit in briefcase
+You put a small suitcase in a leather briefcase.
+n
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a round white rattan dining table with a glass top, a blueberry
+rattan bench with a long white and coral pink flowered cushion on it, a rattan
+floor lamp with a coral lotus shade, a blueberry rattan pantry cabinet, a small
+dusky pink trash bin, a glossy azure blue ceramic felo chow bowl, a black
+plastic tray of spider chow, and a Tardick lizard named Asteria here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and gold
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders and a gold ornament etched with the year 2317, a black plastic
+tray of spider chow, a small dusky pink trash bin, Magellan the arachnoid
+security robot, and Purr the humanoid service robot here.
+You can go south and out.
+out
+[Starship "William Dove"; Airlock]
+out
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, a small mystic purple bioplastic crate, and
+Sunshine the light yellow long-haired felo kitten here.
+You can go out and enter into the ship.
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot coffee
+dispenser, an overstuffed dark green chair, and a small hot beverage dispenser
+here.
+You can go east, southeast, and out.
+who
+There appear to be about 12 pilots recently active.
+The communicator network and Accord QE comm detect:
+Shule Elemmire  (A) [m]
+Kert On'Marr  (L)
+Breton Ormarr  (L)
+%Katina Faye  (L)
+%Damien Goss  (L)
+%Wendy Arroyo  (L)
+%Melinda Michaels  (L)
+%Morris Corlew  (L)
+%Nissi Valdaire  (L) [a]
+Michael Kennedy  (F)
+Hank Marvelstine  (F)
+%Kani Kahakai  (F)
+% == Detected via Quantum Entanglement comm
+Your communicator also reports that there are 7 pilots who were active but
+dropped out of communications.
+Additionally, there are 16 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 28 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+sit sofa
+I can't find "sofa."
+sit chair
+You sit down on an overstuffed dark green chair.
+mir
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Feb 22 17:48:16 2018 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+*** Redirecting connection to new port ***
+*** Redirecting old connection to this port ***
+#var Volume[ComputerVoice] 0.33
+[0m#OK. VARIABLE {Volume[ComputerVoice]} HAS BEEN SET TO {0.33}.[0m
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "Interalliance."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter starfish
+[Starship "Starfish"; Airlock]
+You can go out and enter into the ship.
+Your battlesuit is automatically transferred to battlesuit storage aboard this
+ship.
+enter
+[Starship "Starfish"; Control Room]
+You see a greater minimodule of damage capacity and projectile boost, a greater
+minimodule of projectile boost and projectile resistance, and a large white and
+strawberry red paisley floor pillow with thick silver fringe here.
+You can go up and out.
+sit pillow
+You sit down on a large white and strawberry red paisley floor pillow with thick
+silver fringe.
+who
+There appear to be 16 pilots recently active.
+The communicator network detects:
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Erik Goodwin  (L)
+Jada Nelson  (L)
+Caleb Davenport  (L)
+Katina Faye  (L)
+Kert On'Marr  (L)
+Damien Goss  (L)
+Wendy Arroyo  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Nissi Valdaire  (L) [a]
+Ted Warburton  (F)
+Michael Kennedy  (F)
+Hank Marvelstine  (F)
+Additionally, there are 14 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+l
+[Starship "Starfish"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a greater minimodule of damage capacity and projectile boost, a greater
+minimodule of projectile boost and projectile resistance, and a large white and
+strawberry red paisley floor pillow with thick silver fringe here.
+You can go up and out.
+(You are sitting on a large white and strawberry red paisley floor pillow with
+thick silver fringe.)
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+who
+There appear to be 17 pilots recently active.
+The communicator network detects:
+Lily Kaise  (A)
+Shule Elemmire  (A) [m]
+Erik Goodwin  (L)
+Jada Nelson  (L)
+Caleb Davenport  (L)
+Katina Faye  (L)
+Kert On'Marr  (L)
+Damien Goss  (L)
+Wendy Arroyo  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Morris Corlew  (L)
+Nissi Valdaire  (L) [a]
+Hawthorn Dunn  (F) [c]
+Ted Warburton  (F)
+Michael Kennedy  (F)
+Hank Marvelstine  (F)
+Additionally, there are 15 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 32 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+Lily Kaise just entered the ship.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+smile lily
+You smile at Lily Kaise.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+caress lily on back
+You gently caress Lily Kaise's back.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+beam lily
+You beam at Lily Kaise.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+[Tactical Communication] Michael Kennedy transmits, "So um yeah, one for this
+here nest?"
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+-lily Hi my love.
+You say to Lily Kaise, "Hi my love."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+-lily  Hi love!
+You say to Lily, "Hi love!"
+Lily says to you, "Hi Love. I was about to go over to Old Frontier to finish up
+my site."
+-lily I miss being with you most of the day. I just see you at night now.
+You say to Lily, "I miss being with you most of the day. I just see you at night
+now."
+kiss lily
+You kiss Lily Kaise.
+smile lily
+You smile at Lily Kaise.
+-lily So I came here.
+You say to Lily, "So I came here."
+'And no problem.
+You say, "And no problem."
+Lily Kaise says, "Oh too, I can't finish it for a couple of hours so I was
+either going to hangout in Dove for a bit. I came in here as I hadn't figured
+out how much time I have before I need to complete the site."
+nod kat
+I don't see that here.
+nod lily
+You nod to Lily Kaise.
+Lily Kaise sits down on a large white and strawberry red paisley floor pillow
+with thick silver fringe.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+[Tactical Communication] Melinda Michaels transmits, "Orion clear."
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Hi, good afternoon."
+tra 1 Hi Kim.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Hi Kim."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Hi Shule."
+You hear Lily Kaise's metallic gold touch einrophone ringing.
+You hear Lily Kaise's metallic gold touch einrophone ringing.
+You hear Lily Kaise's metallic gold touch einrophone ringing.
+You hear Lily Kaise's metallic gold touch einrophone ringing.
+You hear Lily Kaise's metallic gold touch einrophone ringing.
+You hear Lily Kaise's metallic gold touch einrophone ringing.
+You hear Lily Kaise's metallic gold touch einrophone ringing.
+Lily Kaise's metallic gold touch einrophone stops ringing.
+Lily Kaise glances at her metallic gold touch einrophone and checks her missed
+calls.
+Lily Kaise says, "Need to go pick up mail. Melinda is probably screaming about
+our Asteroid processor."
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Starfish, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+Lily Kaise presses a button and brings up the FTL flight control board.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+Via general sector communication, New Earth transmits, "Hello there, Starfish!
+Welcome to home space!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: New Earth.
+smile lily
+You smile at Lily Kaise.
+Lily Kaise smiles at you.
+Lily Kaise says, "At least I didn't instigate this one. It was Ather's idea
+actually."
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "Hello, Starfish. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+grin lily
+You grin at Lily Kaise.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+Lily Kaise says, "But that area is unclaimed so they really cannot dictate to
+us."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise scrambles to her feet.
+Lily Kaise glides out.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on a large white and strawberry red paisley floor pillow
+with thick silver fringe.
+smile lily
+You smile at Lily Kaise.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise kisses you.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise says, "Heh she did want to speak about the stations but I can't
+really interact with her at the moment."
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+'Ah ok.
+You say, "Ah ok."
+A voice comes over the speaker and says, "Starfish, you have clearance to
+launch. Good luck and come back to us safely."
+: nods understandingly.
+Shule nods understandingly.
+Lily Kaise says, "Who knows, perhaps they are not happy that they have to spend
+so much."
+Lily Kaise laughs.
+Lily Kaise presses a button and brings up the FTL flight control board.
+laugh
+You laugh.
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+The computer reports that the two-person light transport "Registered Merchant
+412" has docked with The Torus (Dock Alpha).
+Via general sector communication, The Torus transmits, "Greetings, Starfish!
+Welcome to The Torus!"
+'That wouldn't surprise me.
+You say, "That wouldn't surprise me."
+Lily Kaise asks, "Amazing how economy of scale counts?"
+The computer reports that the two-person light transport "Registered Merchant
+905" has jumped into the sector.
+'yep
+Via general sector communication, The Torus transmits, "Greetings, Registered
+Merchant 905! Welcome to The Torus!"
+You say, "Yep."
+Lily Kaise presses a button and brings up the starship's navigation controls.
+'for sure.
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+You say, "For sure."
+The computer reports that the two-person light transport "Registered Merchant
+905" has docked with The Torus (Dock Alpha).
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Starfish. The EAOS welcomes you under the non-aggression pact."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise blinks heavily and then dozes off.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+[AEU | 4: Sector Status] AEU Scooping Solar Temporary Station at Olivia's Pearl
+Orbit is now on emergency power.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 4: Sector Status] AEU Scooping Solar Temporary Station at Olivia's Pearl
+Orbit is shutting down.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "Interalliance."
+A metallic silver metachannel FTL communicator dings politely as it receives a
+new notice.
+[Tactical Communication] Michael Kennedy transmits, "1 for a nest?"
+[Tactical Communication] Kert On'Marr transmits, "I think you got thorny."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise exclaims, "Going to Old Frontier. If yyou don't want to go, now's
+your time to escape!"
+Lily Kaise grins at you.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Starfish, you are given undock
+clearance under the AEU-EAOS non-aggression pact."
+grin lily
+You grin at Lily Kaise.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise presses a button and brings up the FTL flight control board.
+The computer reports that the two-person medium transport "Registered Merchant
+152" has jumped into the sector.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: You can punch, kick, tackle, and flip other people if you need to defend
+yourself and you don't have a stun weapon.
+**
+Via general sector communication, The Torus transmits, "Greetings, Registered
+Merchant 152! Welcome to The Torus!"
+-lily I want to be with you.
+You say to Lily, "I want to be with you."
+Once a valuable source for raw materials on the edge of Known Space, this area
+is now fully mapped and lined with beacons.
+Via general sector communication, Beacon B-14 transmits in a robotic voice,
+"Detecting vessel 'Starfish.' Welcome to The Old Frontier."
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise presses a button and brings up the FTL flight control board.
+Dark asteroids tumble lazily through the emptiness of space.
+Via general sector communication, Old Frontier Processor transmits, "Hello
+there, Starfish! Welcome to home space!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Old Frontier Processor.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+kiss lily
+You kiss Lily Kaise.
+read comm
+You glance at your communicator's screen.
+There is one headline.
+Lily Kaise kisses you.
+-lily I'd rather be with my favorite woman.
+You say to Lily, "I'd rather be with my favorite woman."
+Lily Kaise beams at you.
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "Hello, Starfish. We read your AEU
+transponder. You are cleared to land."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise stands up from a large white and strawberry red paisley floor pillow
+with thick silver fringe.
+stand
+Lily Kaise glides out.
+You stand up from a large white and strawberry red paisley floor pillow with
+thick silver fringe.
+out
+out
+[Starship "Starfish"; Airlock]
+You can go out and enter into the ship.
+You exit the ship.
+[Old Frontier Processor; Docking Bay]
+The vostok-class capsule "Sparklehawk", the three-person clipper "Obliteration",
+and the two-person Accord gemini "Starfish" are landed here.
+You see an automatic teller machine here.
+You can go north, northeast, south, northwest, and up.
+Your battlesuit is automatically transferred to the spaceport.
+s
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt, a
+shiny waterfall blue Professional Chef hot pizza synthesizer with chrome
+accents, and a small natural golden brown trash bin here.
+Constantine Stone is sitting on a large leather couch. Lily Kaise is standing
+here.
+You can go north.
+wave constantine
+You wave to Constantine Stone.
+sit couch
+You sit down on a large leather couch.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 94,294,581.01 AEU credits.
+Lily Kaise sits down on a large leather couch.
+Lily Kaise says, "I plan to begin another site and we'll have to stay here until
+after conquest end most likely so I can take you back in a few if you would
+prefer that because I plan to stay here."
+-lily Nah, I'll stay here with you.
+You say to Lily, "Nah, I'll stay here with you."
+Lily Kaise says, "Ok fair warning then."
+Lily Kaise says, "I may not begin this new site for a bit."
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+smile lily
+You smile at Lily Kaise.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+[Tactical Communication] Breton Ormarr transmits, "Could do with help north of
+Tannhauser."
+[Tactical Communication] Johann Schraft transmits, "Be right there."
+[Tactical Communication] Breton Ormarr transmits, "A stanard beacon gone wrong."
+[Tactical Communication] Johann Schraft transmits, "Are you in a fighter?"
+[Tactical Communication] Breton Ormarr transmits, "Yeah."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Kim Saunders strides in from the north.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders strides north.
+Kim Saunders strides in from the north.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders sighs.
+Kim Saunders says, "Lucky you."
+Constantine Stone asks, "What happened?"
+Kim Saunders says, "Oh, I turned my operate tasks back on too early and that
+probably gave a poacher a chance to steal some drones."
+Kim Saunders says, "Uh, metals."
+Constantine Stone says, "Oh."
+Kim Saunders says, "You get what I mean."
+Constantine Stone nods.
+Lily Kaise glances around at her surroundings.
+Lily Kaise waves.
+Kim Saunders smiles at Lily Kaise.
+Lily Kaise smiles at Kim Saunders.
+Lily Kaise exclaims, "Guess I'll get in one more!"
+Lily Kaise stands up from a large leather couch.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Kim Saunders exclaims, "Ooh, metal rich, nice!"
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Kim Saunders says, "I'll be back in a bit."
+Kim Saunders strides north.
+Constantine Stone says, "I wonder if my space combat is too low for the
+mission."
+Constantine Stone says, "My space combat is pretty low."
+Lily Kaise asks, "Which mission?"
+Constantine Stone says, "The turtle suit."
+Lily Kaise says, "Oh hmm that you know is a good question and didn't even
+consider that aspect."
+Lily Kaise asks, "How much is your Space Combat?"
+Constantine Stone says, "Space combat seems pretty pointless so I sort of
+stopped doing it after 1500."
+Constantine Stone says, "1549."
+Lily Kaise says, "Oh wait it should be fine."
+Lily Kaise says, "But ifever we got the Morning Star we would need I htink it's
+5000."
+Constantine Stone says, "Yeah, but I don't need a morning star even if I had
+access to one."
+Constantine Stone says, "I don't even really need a cruiser."
+Constantine Stone says, "There aren't enough active AEU pilots to fill it."
+Lily Kaise says, "Also I'm not certain of the requirements for the Flare or the
+patriot but you may not meet those either."
+Constantine Stone says, "I meet the requirements for the Patriot, but can't get
+it, and I have no interest in owning a flare."
+Lily Kaise exclaims, "Wow I'd love a Flare!"
+Constantine Stone says, "I just feel like what's even the point of it."
+Constantine Stone asks, "To do harder beacons than I do currently?"
+Lily Kaise asks, "Huh?"
+Constantine Stone says, "I could do that, but I'd risk losing the flare."
+Constantine Stone says, "Then I'd have to apply for another one."
+Constantine Stone says, "Huge pain."
+Lily Kaise says, "It's a corvette that's the point and much more powerful than
+the Bolt Thrower."
+Constantine Stone asks, "So? What would you use it for?"
+Constantine Stone asks, "Beacons?"
+Constantine Stone says, "I have ships that I can do beacons in."
+Lily Kaise says, "Shule and I have fended of lots of pirates and beacons and so
+on."
+Constantine Stone says, "Responding to sieges? Our navy can do that without our
+help, and probably has, because there are only ever like 3 of us around."
+Lily Kaise says, "Yes."
+Lily Kaise says, "We have."
+Constantine Stone says, "Yeah, I'm just saying I don't feel like I need a flare
+to do those things."
+Lily Kaise says, "Ok to each his or her own I suppose."
+Lily Kaise shrugs.
+Constantine Stone says, "I don't know. I've been around for almost a year and
+I've never felt like I needed a combat ship to do anything."
+Constantine Stone says, "I'd rather have access to any kind of exploration
+ship."
+Constantine Stone says, "But that won't happen any time soon."
+Lily Kaise says, "Well we may at some point but you're at least good at it."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+l
+[Old Frontier Processor; Asteroid Mining]
+This room appears to be a control center from which one can control drone
+operations at remote mining sites. There appear to be several dents in the wall.
+You see a large leather couch, a coffee table of highly polished lunar basalt, a
+shiny waterfall blue Professional Chef hot pizza synthesizer with chrome
+accents, and a small natural golden brown trash bin here.
+Constantine Stone is sitting on a large leather couch.
+You can go north.
+(You are sitting on a large leather couch.)
+**
+ Welcome back to Star Conquest!
+**
+ Star Conquest takes a lot of money to run. Please consider donating to offset
+those costs.
+ Type HELP DONATIONS for more information.
+**
+ TIP: You can type WHO to see which other pilots are around. This is
+in-character information displayed by your communicator, so feel free to have
+your character refer to it!
+**
+wave constantine
+You wave to Constantine Stone.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+kiss lily
+You kiss Lily Kaise.
+-lily Hi babe.
+You say to Lily, "Hi babe."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Constantine Stone waves to you.
+Constantine Stone says, "Hey."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Kim Saunders strides in from the north.
+Kim Saunders waves.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Constantine Stone waves.
+"Hi!" Kim Saunders smiles.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders asks, "Oh, g, Kim pay attention. What do you want with deep borers
+when you only have 8 drones?"
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on Lily Kaise's shoulder, and its spine ridges flicker blue for a brief moment.
+Kim Saunders removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Constantine Stone says, "I've still never moved up to deep borers."
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise glides north.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+n
+You scramble to your feet.
+[Old Frontier Processor; Docking Bay]
+The vostok-class capsule "Sparklehawk", the two-person Accord gemini "Starfish",
+and the two-person medium transport "Big Yellow Eagle" are landed here.
+You see an automatic teller machine here.
+Lily Kaise is standing here.
+You can go north, northeast, south, northwest, and up.
+enter star
+[Starship "Starfish"; Airlock]
+You can go out and enter into the ship.
+Your battlesuit is automatically transferred to battlesuit storage aboard this
+ship.
+enter
+[Starship "Starfish"; Control Room]
+You see a greater minimodule of damage capacity and projectile boost, a greater
+minimodule of projectile boost and projectile resistance, and a large white and
+strawberry red paisley floor pillow with thick silver fringe here.
+You can go up and out.
+u
+[Starship "Starfish"; Weapons Room]
+You can go south and down.
+Announcement: Just a quick reminder that Policy 3 exists.
+d
+[Starship "Starfish"; Control Room]
+You see a greater minimodule of damage capacity and projectile boost, a greater
+minimodule of projectile boost and projectile resistance, and a large white and
+strawberry red paisley floor pillow with thick silver fringe here.
+You can go up and out.
+policy
+STAR CONQUEST POLICY
+--
+[1] Overview
+[2] Roleplaying
+[3] Disruption, Harassment, and Discrimination
+[4] Maintaining a Newbie-Friendly Game
+[5] Game Integrity & Bug Abuse
+[6] Workarounds of Game Limitations
+[7] Macros & Scripting
+[8] Interactions With Hosts & Squidsoft.net Staff
+[9] Metagaming & Multiple Characters
+[10] Lag, Downtime, Loss, and Character Purges
+[11] Privacy
+[12] Changes to the Game and Game Policy
+[13] Intellectual Property and Creative Works
+[14] Roleplay-Related Minievents
+Enter your selection:
+3
+Disruption, Harassment, and Discrimination
+Star Conquest frequently involves conflict with other characters. We understand
+the frustration when things don't go your way, and when another character is
+becoming the bane of your existence. However, you must always be sure that your
+argument is with that other character, and not with the real person behind him
+or her.
+   - Any interaction with other characters, even (or especially) when you're
+angry, should be fully in character, unless you mutually agree to break
+character.
+   - It's generally a bad idea to address any comments, particularly angry ones,
+to the player behind a character without some kind of permission or invitation,
+even privately. Such things could get you in trouble if the other player feels
+uncomfortable as a result.
+   - Even if your retribution against another character is technically in
+character, you should take care that your punishment does not unduly affect the
+player's ability to play. As an example, it's technically possible and even,
+technically, in character to strand a person far out in uncharted space from
+which he or she has no hope of ever returning. For obvious reasons, however,
+this is illegal. At the end of any conflict, all players involved should still
+retain the opportunity to progress their characters.
+   - Squidsoft.net maintains a zero tolerance attitude towards interaction in
+the vein of racism, discrimination, sexual harassment, and homophobia.  We seek
+to provide a comfortable gaming atmosphere, and having to be subjected to
+scrutiny because of racial, cultural, gender identity, disability or sexual
+orientation damages not only the integrity of the gaming environment, but also
+the person being discriminated against.
+   - It's also walking a thin line to have your character be racist, homophobic,
+etc. even if you aren't. We strongly recommend against it. We're especially
+reluctant to accept this as an excuse after the fact.
+   - Remember that conflict is an aspect of roleplaying. This goes both ways,
+because while a "victim" player should not complain about properly roleplayed
+conflict, nor should an "aggressor" player attempt to spark a conflict without
+it being a justifiable part of their character. What this specifically refers to
+is players who connect to the game just to harass other players verbally,
+attempt to grab and strand random players, or attempt to steal or destroy ships,
+but do not roleplay or even play the game much at all. Players who start a
+conflict should be involved in their characters and therefore have something to
+lose themselves. But the act of connecting to a game, not out of interest in
+playing it but just to cause havoc and watch the reaction, has a specific name:
+trolling. The staff will not tolerate this and we'll step in as necessary.
+   - Generally and most importantly, when engaging in player vs. player
+conflict, we ask that you keep your actions somewhat in proportion with the
+situation. For example, if your character is insulted on the comms, it is
+probably not a proper response to pursue that player across the galaxy, destroy
+all of his ships, and end up holding him hostage on an abandoned, airless
+station somewhere indefinitely. We recognize that different characters will have
+different levels of response, but at the end of every conflict, everyone
+involved should be able to pick up the pieces and resume progressing through the
+game. Make sure that your actions are merely part of a conflict between
+characters, and that your intention isn't to somehow punish the player behind
+that character.
+   - Harassment which spills out into the real world, even just the real
+"online" world, is taken extremely seriously, and instances of this often leave
+us no choice but to ban the player who cannot keep the worlds separate. This is
+partially the reason why we encourage players to play a character separate from
+themselves. If a player proves that they do not have the capability to separate
+IC from OOC, they likely do not belong in this game.
+out
+[Starship "Starfish"; Airlock]
+You can go out and enter into the ship.
+peer out
+You peer out...
+[Old Frontier Processor; Docking Bay]
+The hydraulics for the airlocks lining the long side of this spacious docking
+bay run quietly and efficiently, transporting each newly docked ship to an
+individual berth outlined with square white lights above and below. The nearly
+seamless walls and floor are constructed of light gray metal with signs and
+hatchways accented in dark green. Though few people are about, it seems a very
+well built and maintained station.
+The vostok-class capsule "Sparklehawk", the two-person Accord gemini "Starfish",
+and the two-person medium transport "Big Yellow Eagle" are landed here.
+You see an automatic teller machine here.
+Lily Kaise is standing here.
+You can go north, northeast, south, northwest, and up.
+ou
+You exit the ship.
+[Old Frontier Processor; Docking Bay]
+The vostok-class capsule "Sparklehawk", the two-person Accord gemini "Starfish",
+and the two-person medium transport "Big Yellow Eagle" are landed here.
+You see an automatic teller machine here.
+Lily Kaise is standing here.
+You can go north, northeast, south, northwest, and up.
+Your battlesuit is automatically transferred to the spaceport.
+grin lily
+You grin at Lily Kaise.
+Lily Kaise glides south.
+s
+[Old Frontier Processor; Asteroid Mining]
+You see a large leather couch, a coffee table of highly polished lunar basalt, a
+shiny waterfall blue Professional Chef hot pizza synthesizer with chrome
+accents, and a small natural golden brown trash bin here.
+Constantine Stone is sitting on a large leather couch. Lily Kaise and Kim
+Saunders are standing here.
+You can go north.
+Kim Saunders waves.
+wave kim
+You wave to Kim Saunders.
+hug kim
+You hug Kim Saunders.
+-kim Long time no see!
+You say to Kim, "Long time no see!"
+Kim Saunders smiles at you.
+Kim Saunders says, "Yeah, it's been a while indeed."
+Lily Kaise squeezes you affectionately.
+Lily Kaise carefully removes a Tardick lizard named Asteria from her shoulder.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+Lily Kaise gives you a Tardick lizard named Asteria.
+wear asteria
+You settle a Tardick lizard named Asteria on your shoulder, its tail curled
+loosely around you.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on your shoulder, and its spine ridges flicker blue for a brief moment.
+squeeze lily
+You squeeze Lily Kaise affectionately.
+pet asteria
+You stroke a Tardick lizard named Asteria's warm scaly skin.
+-asteria Be afraid. I'm taking care of you now.
+You say to a Tardick lizard named Asteria, "Be afraid. I'm taking care of you
+now."
+Kim Saunders giggles.
+Lily Kaise grins.
+grin
+You grin.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise sits down on a large leather couch.
+Lily Kaise slumps on a large leather couch and goes to sleep.
+sit couch
+You sit down on a large leather couch.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+A Tardick lizard named Asteria, perched on your shoulder, blinks its yellow eyes
+slowly, utterly indifferent to its surroundings.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+[Tactical Communication] Johann Schraft transmits, "I need two for beacons."
+[Tactical Communication] Simon Collins transmits, "Me."
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+[Tactical Communication] Sophie Landon transmits, "Be at chet in a few."
+[Tactical Communication] Michael Kennedy transmits, "I can."
+[Tactical Communication] Michael Kennedy transmits, "Or not."
+[Tactical Communication] Johann Schraft transmits, "Old earth."
+[Tactical Communication] Johann Schraft transmits, "If I get enough I'll take
+the cruiser."
+Kim Saunders removes her virtual reality suit.
+[Tactical Communication] Johann Schraft transmits, "Can I get one more for
+beacons? Two would be better."
+[Tactical Communication] Sophie Landon transmits, "On my way to old earth now."
+[Tactical Communication] Evenia Callseah transmits, "At least one more for these
+glorious cruiser beacons."
+[Tactical Communication] Johann Schraft transmits, "Last call, one for cruiser
+beacons. Two would be better, but I'm not holding out hope."
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "Fringe."
+Constantine Stone navigates his plain touch einrophone to a news application.
+Kim Saunders navigates her metallic green touch einrophone to a news
+application.
+Kim Saunders returns her metallic green touch einrophone to the main screen.
+Constantine Stone returns his plain touch einrophone to the main screen.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (21/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+==============================
+Recent Interalliance Headlines
+==============================
+* Area Pilot Suggests Necromancy In Order To Succeed At RATS Nest Assault [ 9
+March 2318] (UPN)
+* Accord Peacekeepers Call for Civilian Pilots to Assist with Locating
+Testudinidae Battleships in Deep Space [ 9 March 2318] (ISN)
+=======================
+Recent Fringe Headlines
+=======================
+* Previous Voice Evenia Callseah Recruits for League Pilot Organization on
+Alliance Channel [ 9 March 2318] (CPC)
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+Constantine Stone says into his ice blue metachannel FTL communicator, "Yeah,
+there should be another headline explaining why we should care."
+[Tactical Communication] Johann Schraft transmits, "Alright no cruiser this
+time, maybe next time."
+Constantine Stone speaks into his ice blue metachannel FTL communicator:
+[Tactical Communication] Constantine Stone transmits, "What about me, can I go?"
+[Tactical Communication] Johann Schraft transmits, "Yep."
+Constantine Stone speaks into his ice blue metachannel FTL communicator:
+[Tactical Communication] Constantine Stone transmits, "Okay, where again?
+Sorry."
+Constantine Stone scrambles to his feet.
+Constantine Stone walks north.
+[Tactical Communication] Johann Schraft transmits, "Old Earth."
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders retrieves a virtual reality suit and puts it on.
+Kim Saunders removes her virtual reality suit.
+Kim Saunders sits down on a large leather couch.
+A Tardick lizard named Asteria, perched on your shoulder, blinks its yellow eyes
+slowly, utterly indifferent to its surroundings.
+smile kim 'How have you been?
+"How have you been?" You smile at Kim Saunders.
+A Tardick lizard named Asteria turns to regard its surroundings from its perch
+on your shoulder, and its spine ridges flicker blue for a brief moment.
+stop
+I don't understand that.
+Kim Saunders says, "I have been ok, not bad."
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+smile kim 'Glad to hear that.
+You smile at Kim Saunders. "Glad to hear that."
+mentor
+Oh no! You currently do not have any proteges!
+Kim Saunders smiles at you. "Thank you."
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+[Notification from Space Explorers Amidst The Stars] 160,000,000.00 credits have
+been deducted from the starship support fund.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "The results
+are in!"
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 11,714,319.70 AEU credits.
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+[Notification from Space Explorers Amidst The Stars] Shule Elemmire has
+automatically contributed 1,839,074.80 AEU credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "We did not
+achieve any of our performance goals."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Our
+performance was up 4.2% from the last Conquest period."
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+Lily Kaise suddenly awakens.
+Lily Kaise waves.
+Lily Kaise exclaims, "Nothing like waking up to a war!"
+Lily Kaise laughs.
+laugh lily
+You laugh at Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise wraps her arms around you, pulling you close.
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily Kaise.
+laugh> "Awww, now I have to stop flirting with Kim!
+"Awww, now I have to stop flirting with Kim!" You laugh.
+Lily Kaise tickles you!
+grin lily
+You grin at Lily Kaise.
+Lily Kaise grins at you.
+Lily Kaise navigates her metallic gold touch einrophone to a news application.
+Lily Kaise returns her metallic gold touch einrophone to the main screen.
+Lily Kaise says, "Uh recruiting for another alliances organization on one's home
+alliance. That is just..."
+-lily It doesn't surprise me though.
+You say to Lily, "It doesn't surprise me though."
+Lily Kaise says, "Hairbrained I'll say to be nice."
+Lily Kaise chuckles.
+chuckle lily
+You chuckle at Lily Kaise.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise retrieves a virtual reality suit and puts it on.
+Lily Kaise removes her virtual reality suit.
+Lily Kaise sits down on a large leather couch.
+A Tardick lizard named Asteria, perched on your shoulder, blinks its yellow eyes
+slowly, utterly indifferent to its surroundings.
+A metallic silver metachannel FTL communicator beeps quietly, indicating that it
+has unread notices.
+read comm
+You glance at your communicator's screen.
+12,260,498.65 AEU credits from your trust fund have been released to you. [00:00
+10 March 2318 GST]
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "Interalliance."
+Lily Kaise navigates her metallic gold touch einrophone to a news application.
+Lily Kaise returns her metallic gold touch einrophone to the main screen.
+Lily Kaise sighs at a metallic gold touch einrophone.
+Lily Kaise says, "Damned you aEU you need to do this."
+use phone
+9
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (21/32)
+[3] Register on Directory
+[4] View Missed Calls (0)
+[5] Listen to Voicemail (0)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Space Market
+[12] Activate Holovid
+[13] Silence
+[14] Nothing
+Enter your selection:
+You navigate your metallic gold touch einrophone to a news application.
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+1
+==============================
+Recent Interalliance Headlines
+==============================
+* One Representative Each from League, Fringe, Mutuality to Join EAOS Science
+Team on Temporary Detachment; AEU Rejects Request [10 March 2318] (ESR)
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+frown phone
+You frown at a metallic gold touch einrophone.
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+dam
+I don't understand that.
+dam
+I don't understand that.
+A Tardick lizard named Asteria curls its tail loosely around your neck.
+Kim Saunders yawns.
+Kim Saunders says, "I think it is time I actually went to bed. Better than me
+falling asleep while mining here."
+Kim Saunders stands up from a large leather couch.
+Kim Saunders waves.
+Lily Kaise waves to Kim Saunders. "Nite."
+Kim Saunders smiles. "Good night."
+Kim Saunders strides north.
+tra 1 Good night Kim.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Good night Kim."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Oh, Welcome John to
+the pilot corps."
+[AEU | 1: Alliance Communication] Kim Saunders transmits, "Good night all."
+tr 1 Night Kim.
+[AEU | 1: Alliance Communication] Shule Elemmire transmits, "Night Kim."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+kiss lily
+You kiss Lily Kaise.
+A Tardick lizard named Asteria, perched on your shoulder, blinks its yellow eyes
+slowly, utterly indifferent to its surroundings.
+Lily Kaise kisses you.
+Lily Kaise navigates her metallic gold touch einrophone to a market application
+and peers at the screen.
+Lily Kaise navigates her metallic gold touch einrophone to a market application
+and peers at the screen.
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+kiss lily
+You kiss Lily Kaise.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+A Tardick lizard named Asteria, perched on your shoulder, blinks its yellow eyes
+slowly, utterly indifferent to its surroundings.
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+[AEU | 1: Alliance Communication] Ather Jammoa transmits, "Lily, does invaders
+have a part in the current xenology station?"
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "I didn't put up a
+replacement but it didn't befoe. Would be happy to include Invaders though if we
+decide we want to maintain one."
+Lily Kaise speaks into her neon purple metachannel FTL communicator:
+[AEU | 1: Alliance Communication] Lily Kaise transmits, "The Module Starseekers
+and SEAS have is the Quantum Xenology Scanner so it's nice but costs 14
+Megacredits. So although neither of us are short on Megacredits. Would prefer to
+maintain one when we know that others will utilize it."
+stop
+I don't understand that.
+Lily Kaise stands up from a large leather couch.
+Lily Kaise sits down on a large leather couch.
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+A Tardick lizard named Asteria, perched on your shoulder, blinks its yellow eyes
+slowly, utterly indifferent to its surroundings.
+A Tardick lizard named Asteria flicks its tongue out from its perch on your
+shoulder.
+remove asteria
+You carefully remove a Tardick lizard named Asteria from your shoulder.
+give asteria to lily
+You give a Tardick lizard named Asteria to Lily Kaise.
+Lily Kaise smiles at you.
+Lily says to you, "Thanks!"
+Lily Kaise settles a Tardick lizard named Asteria on her shoulder, its tail
+curled loosely around her.
+Lily Kaise kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+-lily Thanks for letting me hold her for a while.
+You say to Lily, "Thanks for letting me hold her for a while."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Lily Kaise stands up from a large leather couch.
+[Notification from Space Explorers Amidst The Stars] Lily Kaise has
+automatically contributed 97,373,462.69 AEU credits.
+Lily Kaise holds your hand, taking you into her group.
+Lily Kaise pulls you to your feet.
+Lily Kaise kisses you.
+You follow Lily Kaise north.
+[Old Frontier Processor; Docking Bay]
+The two-person Accord gemini "Starfish" and the vostok-class capsule
+"Sparklehawk" are landed here.
+You see an automatic teller machine here.
+Lily Kaise is standing here.
+You can go north, northeast, south, northwest, and up.
+You follow Lily Kaise aboard the two-person Accord gemini "Starfish".
+[Starship "Starfish"; Airlock]
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+Your battlesuit is automatically transferred to battlesuit storage aboard this
+ship.
+You follow Lily Kaise into the ship.
+[Starship "Starfish"; Control Room]
+You see a greater minimodule of damage capacity and projectile boost, a greater
+minimodule of projectile boost and projectile resistance, and a large white and
+strawberry red paisley floor pillow with thick silver fringe here.
+Lily Kaise is standing here.
+You can go up and out.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Starfish, you have clearance to
+launch. Good luck and come back to us safely."
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button and brings up the FTL flight control board.
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+Via general sector communication, New Earth transmits, "Hello there, Starfish!
+Welcome to home space!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "Hello, Starfish. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+Lily Kaise disbands her group.
+Lily Kaise kisses you on the lips.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+Lily Kaise says, "Just checking mail."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise glides out.
+Lily Kaise just entered the ship.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise uses the ship's radio to ask flight control for launch clearance.
+A voice comes over the speaker and says, "Starfish, you have clearance to
+launch. Good luck and come back to us safely."
+Lily Kaise presses a button and brings up the FTL flight control board.
+The perfect ring of The Torus spins serenely nearby.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to The Torus (Dock Alpha) in thirty seconds unless aborted or another
+navigation order is entered."
+Via general sector communication, The Torus transmits, "Greetings, Starfish!
+Welcome to The Torus!"
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: The Torus (Dock Alpha).
+The ship's computer automatically requests docking clearance.
+A voice comes over the speaker and says, "We detect you to be an AEU ship,
+Starfish. The EAOS welcomes you under the non-aggression pact."
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+The computer sounds a notification indicating that the ship has been fully
+charged.
+Lily Kaise holds your hand, taking you into her group.
+Lily Kaise kisses you.
+You follow Lily Kaise out.
+[Starship "Starfish"; Airlock]
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+You follow Lily Kaise out of the ship.
+[The Torus; Dock Alpha]
+The two-person Accord gemini "Starfish" is landed here.
+You see an automatic teller machine here.
+Lily Kaise is standing here.
+You can go north and down.
+Your battlesuit is automatically transferred to the spaceport.
+You follow Lily Kaise down.
+[The Torus; Garage]
+You see a large number of stored starships here.
+Lily Kaise is standing here.
+You can go up.
+You follow Lily Kaise aboard the five-person A.S.S. tactical platform "William
+Dove".
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a small mystic purple bioplastic crate
+here.
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+You follow Lily Kaise into the ship.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and gold
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders, a black plastic tray of spider chow, a small dusky pink trash
+bin, Magellan the arachnoid security robot, a gold ornament etched with the year
+2317, Purr the humanoid service robot, and a hairy yellow eight-legged
+ArachnoPal named Higgins here.
+Lily Kaise is standing here.
+You can go south and out.
+You follow Lily Kaise south.
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table with a
+glass top, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan
+pantry cabinet, a small dusky pink trash bin, a glossy azure blue ceramic felo
+chow bowl, a black plastic tray of spider chow, a long white and coral pink
+flowered cushion, and Sunshine the light yellow long-haired felo kitten here.
+Lily Kaise is standing here.
+You can go north, east, south, west, up, and down.
+You follow Lily Kaise south.
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, a black plastic tray of spider chow, and Shine the big
+white glowing felo here.
+Lily Kaise is standing here.
+You can go north, east, south, west, up, and down.
+You follow Lily Kaise south.
+[Starship "William Dove"; Living Quarters One]
+You see a dusky pink rattan cabinet, a small red ball containing a realistic
+Bari horde noisemaker, a glossy pale purple ceramic felo chow bowl, a large oval
+dark purple and light purple cloth rug, a small oval turquoise rattan table with
+a glass top, and a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it here.
+Lily Kaise is standing here.
+You can go out.
+Lily Kaise disbands her group.
+Lily Kaise seems to want to place you on a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow,
+a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow
+on it. Do you approve?
+[Enter `yes' or `no']
+Lily Kaise seems to want to place you on a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow,
+a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow
+on it. Do you approve?
+[Enter `yes' or `no']
+You push Lily Kaise's hands away.
+Lily Kaise sighs at you.
+Lily Kaise removes a small suitcase from a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise removes all of her clothing, placing it carefully in a small
+suitcase.
+Lily Kaise puts a small suitcase in a lavender silk backpack embroidered with
+brightly hued butterflies.
+Lily Kaise seems to want to place you on a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow,
+a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow
+on it. Do you approve?
+[Enter `yes' or `no']
+You push Lily Kaise's hands away.
+Lily Kaise laughs at you.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Lily Kaise holds your hand, taking you into her group.
+Lily Kaise seems to want to place you on a white four poster rattan bed with a
+heart-shaped headboard and filmy deep purple hangings with a soft periwinkle
+cashmere blanket, a set of lavender silk sheets, a large periwinkle bed pillow,
+a hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow
+on it. Do you approve?
+[Enter `yes' or `no']
+You push Lily Kaise's hands away.
+Lily Kaise tickles you!
+Lily Kaise disbands her group.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Lily Kaise carefully removes a Tardick lizard named Asteria from her shoulder.
+Lily Kaise strokes a Tardick lizard named Asteria's warm scaly skin.
+Lily Kaise puts down a Tardick lizard named Asteria.
+A Tardick lizard named Asteria settles down, curling its limbs inward. Its eyes
+close slowly and it appears to sleep.
+Shine the big white glowing felo wanders in from the north.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Shine the big white glowing felo wanders out.
+Lily Kaise places you on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a soft periwinkle cashmere
+blanket, a set of lavender silk sheets, a large periwinkle bed pillow, a
+hand-made purple and amethyst flower quilt, and a large periwinkle bed pillow on
+it.
+Shine the big white glowing felo wanders in from the north.
+Shine the big white glowing felo seems to be hungry.
+Shine the big white glowing felo approaches a glossy pale purple ceramic felo
+chow bowl, glances around, then begins shoveling low-grade dry Felo Chow into
+its mouth.
+Shine the big white glowing felo bats at a small red ball containing a realistic
+Bari horde noisemaker.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Shine the big white glowing felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+A Tardick lizard named Asteria shifts and then wakes, opening its yellow eyes
+slowly.
+A Tardick lizard named Asteria flicks its tongue out.
+A Tardick lizard named Asteria trundles slowly out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria flicks its tail.
+Shine the big white glowing felo wanders in from the north.
+A Tardick lizard named Asteria trundles slowly out.
+Shine the big white glowing felo bats at a small red ball containing a realistic
+Bari horde noisemaker.
+Shine the big white glowing felo rears up and plants both pairs of forelegs on
+Lily Kaise's leg, then rubs its head against her, purring softly.
+Shine the big white glowing felo wanders out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Tactical Communication] Ali Candan transmits, "Beacons?"
+[Tactical Communication] Arielle Night transmits, "Sure."
+[Tactical Communication] Kert On'Marr transmits, "Sure."
+[Tactical Communication] Hank Marvelstine transmits, "Maybe here in like 20 or
+os when I finish my salvage for the steel phoenix."
+kiss lily
+You push Lily Kaise's hands away.
+'oops
+You say, "Oops."
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Check your local space market for crafting supplies and informative books!
+**
+kiss lily
+You kiss Lily Kaise.
+stand
+You stand up from a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a soft periwinkle cashmere blanket, a set of
+lavender silk sheets, a large periwinkle bed pillow, a hand-made purple and
+amethyst flower quilt, and a large periwinkle bed pillow on it.
+out
+[Starship "William Dove"; Observation Deck]
+You see a large round light purple and dark purple cloth rug, an antique oak
+table from Old Earth, a textured plasteel floor lamp with a cream shade (casting
+a white-colored glow), a violet leather sectional sofa, a glossy lilac ceramic
+felo chow bowl, a wall-sized bubbling coral pink-lit aquarium containing white
+and violet aquatic life and coral rocks, a rainbow-colored portable hot tub with
+silver star accents, a black plastic tray of spider chow, a Tardick lizard named
+Asteria, and a hairy yellow eight-legged ArachnoPal named Higgins here.
+You can go north, east, south, west, up, and down.
+n
+[Starship "William Dove"; Base Block]
+n
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table with a
+glass top, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan
+pantry cabinet, a small dusky pink trash bin, a glossy azure blue ceramic felo
+chow bowl, a black plastic tray of spider chow, a long white and coral pink
+flowered cushion, Sunshine the light yellow long-haired felo kitten, and Shine
+the big white glowing felo here.
+You can go north, east, south, west, up, and down.
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and gold
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders, a black plastic tray of spider chow, a small dusky pink trash
+bin, Magellan the arachnoid security robot, a gold ornament etched with the year
+2317, and Purr the humanoid service robot here.
+You can go south and out.
+s
+[Starship "William Dove"; Base Block]
+You see a soft round ocean blue rug with a design of coral and turquoise
+seashells, a blueberry rattan bench, a round white rattan dining table with a
+glass top, a blueberry rattan bench with a long white and coral pink flowered
+cushion on it, a rattan floor lamp with a coral lotus shade, a blueberry rattan
+pantry cabinet, a small dusky pink trash bin, a glossy azure blue ceramic felo
+chow bowl, a black plastic tray of spider chow, a long white and coral pink
+flowered cushion, Sunshine the light yellow long-haired felo kitten, and Shine
+the big white glowing felo here.
+You can go north, east, south, west, up, and down.
+i
+ You are wearing a soft red heather cotton polo, a stormy pair of trousers, and
+a pair of gray canvas sneakers. Underneath this, you are wearing a pair of white
+cotton briefs. You are also wearing a keychain, a solid silver ring engraved
+with dolphins, a metallic gold touch einrophone in a black leather phone
+holster, a backpack, and a gold wrist-mounted chronometer. You are concealing a
+metallic silver metachannel FTL communicator, a black flightbag with a red
+shooting star on the side, a leather briefcase, a large expandable telescoping
+xenology container, a scorched metal thigh holster, a golden Feng Wo coin purse,
+a camera bag, a flight control scanner, and a black engineering tool case. Your
+head, face, both eyes, neck, both elbows, both forearms, both wrists, and both
+hands are left uncovered.
+You are carrying nothing.
+n
+[Starship "William Dove"; Control Room]
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, a round white rattan coffee table with a glass top, a
+glossy silver ceramic felo chow bowl, a small purple ball containing a dingling
+bell, a wall-sized bubbling neon purple-lit aquarium containing yellow and gold
+aquatic life and coral rocks, a festive holiday tree made entirely of sparkling
+ice decorated with an ornamental rendering of Icy the Snowfish's Holiday Ice
+Castle o' Wonders, a black plastic tray of spider chow, a small dusky pink trash
+bin, Magellan the arachnoid security robot, a gold ornament etched with the year
+2317, and Purr the humanoid service robot here.
+You can go south and out.
+out
+out
+[Starship "William Dove"; Airlock]
+You see a large secure xenology storage container, a row of flightlockers, an
+early warning space defense device, and a small mystic purple bioplastic crate
+here.
+You can go out and enter into the ship.
+You exit the ship.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter star
+[Starship "Shooting Star"; Control Capsule]
+You see an improved temporary wormhole drive here.
+You can go out.
+out
+You exit the capsule.
+[The Torus; Garage]
+You see a large number of stored starships here.
+You can go up.
+enter starfish
+[Starship "Starfish"; Airlock]
+You can go out and enter into the ship.
+Your battlesuit is automatically transferred to battlesuit storage aboard this
+ship.
+enter
+[Starship "Starfish"; Control Room]
+You see a greater minimodule of damage capacity and projectile boost, a greater
+minimodule of projectile boost and projectile resistance, and a large white and
+strawberry red paisley floor pillow with thick silver fringe here.
+You can go up and out.
+sit pillow
+You sit down on a large white and strawberry red paisley floor pillow with thick
+silver fringe.
+#end
+[0m#SESSION 'StarConquest' DIED.[0m

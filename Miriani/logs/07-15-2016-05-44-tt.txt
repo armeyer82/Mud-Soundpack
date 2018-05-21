@@ -1,0 +1,593 @@
+Welcome to...       **
+                   **I
+sit chair
+You sit down on a large leather chair.
+You begin familiarizing yourself with the engineering stations and making
+various changes to your liking.
+damage
+Ali Candan's voice comes over the loudspeaker and says, "0 10."
+Starship Damage:
+Turret 5: 7%.
+Wormhole Drive: 10%.
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+repair laser 5
+You input a series of commands on the damage control computer, entering repair
+orders for light turret #5.
+(3 seconds roundtime.)
+The damage control computer reports, "Aborting repair of the wormhole drive and
+beginning repair of light turret #5."
+damage
+Starship Damage:
+Turret 5: 6%.
+Wormhole Drive: 10%.
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+damage
+Starship Damage:
+Turret 5: 3%.
+Wormhole Drive: 10%.
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+With everything arranged, you settle into the damage control station.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 293/1100
+--
+You hear several odd clanging sounds, then a low scraping sound, followed by
+another loud clang; the sounds of the torpedo launchers being reloaded.
+use dump
+You prepare to use an expert energy dump.
+(3 seconds roundtime.)
+The ship's lights dim briefly as additional energy is shunted into a weapon
+room's combat energy grid.
+An expert energy dump appears to have one use left.
+The damage control computer reports, "Repair of light turret #5 has been
+completed."
+damage
+Starship Damage:
+Wormhole Drive: 10%.
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+repair ftl
+You input a series of commands on the damage control computer, entering repair
+orders for the wormhole drive.
+(3 seconds roundtime.)
+The damage control computer reports, "Beginning repair of the wormhole drive."
+damage
+Starship Damage:
+Wormhole Drive: 9%.
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+damage
+Starship Damage:
+Wormhole Drive: 7%.
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Small clinks of metal come from the hull of the ship as it's being repaired.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 541/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 655/1100
+--
+use dump
+You prepare to use an expert energy dump.
+(3 seconds roundtime.)
+The ship's lights dim briefly as additional energy is shunted into a weapon
+room's combat energy grid.
+An expert energy dump has been used up!
+Ali Candan's voice comes over the loudspeaker and says, "0 10."
+damage
+Starship Damage:
+Wormhole Drive: 1%.
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+The computer announces, "The gunner has delivered a glancing hit."
+The damage control computer reports, "Repair of the wormhole drive has been
+completed."
+damage
+Starship Damage:
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Ali Candan's voice comes over the loudspeaker and says, "0 20."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 839/1100
+--
+You hear several odd clanging sounds, then a low scraping sound, followed by
+another loud clang; the sounds of the torpedo launchers being reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 675/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 844/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 955/1100
+--
+damage
+Starship Damage:
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 739/1100
+--
+use damage
+You prepare to use an advanced damage output boost.
+(3 seconds roundtime.)
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An advanced damage output boost appears to have thirteen uses left.
+damage
+Starship Damage:
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 872/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 824/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 855/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 801/1100
+--
+The computer announces, "The gunner has delivered a glancing hit."
+You hear several odd clanging sounds, then a low scraping sound, followed by
+another loud clang; the sounds of the torpedo launchers being reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 626/1100
+--
+use dump
+You prepare to use an expert energy dump.
+(3 seconds roundtime.)
+The ship's lights dim briefly as additional energy is shunted into a weapon
+room's combat energy grid.
+An expert energy dump appears to have nineteen uses left.
+use damage
+You prepare to use an advanced damage output boost.
+(3 seconds roundtime.)
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An advanced damage output boost appears to have twelve uses left.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 924/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 862/1100
+--
+damage
+Starship Damage:
+Armor: 39%.
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 894/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 858/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 914/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 964/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 1053/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 901/1100
+--
+use damage
+You prepare to use an advanced damage output boost.
+(3 seconds roundtime.)
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An advanced damage output boost appears to have eleven uses left.
+The computer announces, "The gunner has delivered a glancing hit."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 883/1100
+--
+Ali Candan's voice comes over the loudspeaker and says, "30 30."
+Ali Candan's voice comes over the loudspeaker and says, "40 30."
+You hear several odd clanging sounds, then a low scraping sound, followed by
+another loud clang; the sounds of the torpedo launchers being reloaded.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 699/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 736/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 848/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 837/1100
+--
+Ali Candan's voice comes over the loudspeaker and says, "70 40."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 902/1100
+--
+use damage
+You prepare to use an advanced damage output boost.
+(3 seconds roundtime.)
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An advanced damage output boost appears to have ten uses left.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 941/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 974/1100
+--
+Ali Candan's voice comes over the loudspeaker and says, "50 30."
+use damage
+You prepare to use an advanced damage output boost.
+(3 seconds roundtime.)
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An advanced damage output boost appears to have nine uses left.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 718/1100
+--
+Ali Candan's voice comes over the loudspeaker and says, "50 40."
+use damage
+You hear several odd clanging sounds, then a low scraping sound, followed by
+another loud clang; the sounds of the torpedo launchers being reloaded.
+You cannot use any ability of this type on the starship for another 40 seconds.
+use damage
+You cannot use any ability of this type on the starship for another 37 seconds.
+Ali Candan's voice comes over the loudspeaker and says, "40 40."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 849/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 1004/1100
+--
+use damage
+You prepare to use an advanced damage output boost.
+(3 seconds roundtime.)
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An advanced damage output boost appears to have eight uses left.
+use damage
+You cannot use any ability of this type on the starship for another 50 seconds.
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 773/1100
+--
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 810/1100
+--
+The computer announces, "The gunner has delivered a critical hit."
+Ali Candan's voice comes over the loudspeaker and says, "60 50."
+grid
+Weapon Room Status
+--
+                         Operator                      Energy
+ Weapons Room            Ted Warburton                 870/1100
+--
+use damage
+You prepare to use an advanced damage output boost.
+(3 seconds roundtime.)
+The computer announces, "The gunner has temporarily reduced the enemy's weapon
+effectiveness."
+You hear the loud whine of strained power converters as a weapon room's damage
+output is temporarily boosted.
+An advanced damage output boost appears to have seven uses left.
+Ali Candan's voice comes over the loudspeaker and says, "90 50."
+Ali Candan's voice comes over the loudspeaker and says, "Go go."
+The computer reports that the executioner-class escort "Escort Theta Zzorma" has
+launched a rescue pod.
+You earn 4,000,000.00 AEU credits for a successful beacon drop, plus a kill
+bonus of 2,250,000.00 AEU credits.
+You earn a bonus of 2,447,916.67 AEU credits for submitting information to a
+battle analysis scanner on a temporary space station.
+312,500.00 credits of your income have gone toward your organization.
+[Notification from Starseekers] The organization has gained 5,511,232.38 credits
+for a submission from a battle analysis scanner on League Battle-Scanning
+Nuclear Temporary Station involving the three-person stalwart "Aslan".
+You hear several odd clanging sounds, then a low scraping sound, followed by
+another loud clang; the sounds of the torpedo launchers being reloaded.
+pa Nice.
+You speak into the microphone.
+[Tactical Communication] Ali Candan transmits, "2 for gunship beacons."
+pa Sorry, have to bail.
+You speak into the microphone.
+Ted Warburton's voice comes over the loudspeaker and says, "Thanks guys, OOCly I
+have to use directions, way faster for me than numbers."
+Ted Warburton's voice comes over the loudspeaker and says, "No worries."
+Ali Candan's voice comes over the loudspeaker and says, "Thanks for coming."
+[General Communication] A robotic voice says, "QE message transfer to Yadira
+Rivera complete."
+pa No problem
+You speak into the microphone.
+n
+You scramble to your feet.
+[Starship "Aslan"; Control Room]
+You see a decoy beacon launcher, a black leather captain's chair, and a large
+leather couch here.
+Ali Candan is sitting on a black leather captain's chair. Ted Warburton is
+standing here.
+You can go south, up, and out.
+'Armor is at 39 percent.
+You say, "Armor is at 39 percent."
+Ali Candan nods.
+'That's the only damage
+You say, "That's the only damage."
+Ali Candan activates the stock salvage electromagnetic manipulator and begins
+scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+Ali Candan presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Debris (nearest).
+[General Communication] A robotic voice says, "Incoming QE message from Yadira
+Rivera."
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+starship debris.
+There is no more nearby debris.
+Ali Candan activates the stock salvage electromagnetic manipulator and begins
+scanning for debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+Ali Candan presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Debris (nearest).
+Ali Candan presses a button, calling up a display of the contents of the ship's
+hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+starship debris.
+A bit of debris is snagged by the starship's electromagnetic field projector and
+slowly brought into the ship's hold.
+The debris is now secured in the ship's hold.  Scanning reveals it to be some
+starship debris.
+Ali Candan presses a button, calling up a display of the contents of the ship's
+hold.
+Scanning reveals that the debris is currently too massive to fit in the ship's
+hold.
+damage
+Ali Candan makes a selection on the AutoVector control board.
+Average Starship Damage: 0%
+Hull damage failsafes remaining: 20%, 40%, 60%, 80%, and 97%
+Ali Candan glances at the computer's current coordinates display.
+Ali Candan glances at the computer's current coordinates display.
+Ali Candan lifts a small plastic cover and presses a green button.
+You hear a single beep and glance up to see green lights flick on overhead as
+the ship enters normal status.
+A low hum you had barely noticed until now slowly fades away as weapons are
+powered down.
+Ali Candan glances at the computer's current coordinates display.
+Ali Candan puts a secondary pilot command access unit in a black backpack.
+The starship transitions into another sector.
+Ali Candan presses a button to cancel the current autopilot program.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Ali Candan makes a selection on the AutoVector control board.
+Ali Candan presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Ted Warburton sits down on a large leather couch.
+rd
+Uncharted Sector (EAOS) [Human Interalliance Space] (Security: Gamma-1)
+Coordinate rundown:
+Starships: Aslan (V) at (17, 15, 3)
+The starship transitions into another sector.
+Via general sector communication, a temporary space station transmits,
+"Greetings. There are currently no active decoy beacons in surrounding sectors."
+sit couch
+You sit down on a large leather couch.
+The starship transitions into another sector.
+Ali Candan presses a button to cancel the current autopilot program.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Ali Candan presses a button and brings up the FTL flight control board.
+Ted Warburton says in a Candelarian accent, "I can finally afford my medium
+transport."
+Ali Candan says in a Turkish accent, "Woo."
+Earthgate Station dominates space here, acting as a watchpost for the approach
+to Old Earth.
+thumb ted
+You give Ted Warburton a thumbs up!
+Old Earth turns below you, blue and green and brown and white. The planet
+elicits a feeling of "home" in almost all who view it, even if they have never
+actually set foot on it.
+Ali Candan presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Old Earth.
+Via general sector communication, Old Earth transmits, "Hello there, Aslan!
+Welcome to home space!"
+Ted Warburton says in a Candelarian accent, "Just need to remember where the
+shop is now."
+Ted Warburton laughs.
+'Thanks guys.
+You say, "Thanks guys."
+Ted Warburton turns on a neon green metachannel FTL communicator.
+The computer reports that the two-person light corvette "League Navy Assault
+Corvette Kestrel-63" has launched from Old Earth.
+The computer reports that the two-person light corvette "League Navy Assault
+Corvette Kestrel-13" has launched from Old Earth.
+stand
+You stand up from a large leather couch.
+The computer reports that the two-person light corvette "League Navy Assault
+Corvette Kestrel-63" has jumped out of the sector.
+The computer reports that the two-person light corvette "League Navy Assault
+Corvette Kestrel-13" has jumped out of the sector.
+eta
+The ship's current engine speed is 6000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 10.0 seconds.
+You notice Ali Candan using the radio to ask for landing clearance.
+Ted Warburton stands up from a large leather couch.
+A voice comes over the speaker and says, "Hello, Aslan. We read your League
+transponder. You are cleared to land."
+wave
+You wave.
+Ali Candan waves.
+Ted Warburton waves.
+out
+[Starship "Aslan"; Airlock]
+You can go out and enter into the ship.
+You are credited with 3,162,463.33 League credits of bounty.
+158,123.17 credits of your income have gone toward your organization.
+out
+You exit the ship.
+[Old Earth; Manhattan Spaceport]
+The three-person stalwart "Aslan" is landed here.
+You see an asteroid-shaped steel trash bin and a sanitation drone here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+d
+[Manhattan Spaceport; Garage]
+You can go up.
+etnershooting
+I don't understand that.
+enter shooting
+[Starship "Shooting Star"; Control Capsule]
+You see an improved temporary wormhole drive here.
+You can go out.
+sit
+You sit down.
+You carefully buckle your seatbelt.
+[Tactical Communication] Lily Kaise transmits, "I could engineer for one but
+probably not a secone one."
+[Notification from Starseekers] A load of salvage has been received at League
+Unmanned Pickup Debris-Burning Temporary Station from the three-person stalwart
+"Aslan". The organization has earned 44,719.40 credits.
+[Tactical Communication] Ali Candan transmits, "The crew disbanded
+unfortunately."
+[Tactical Communication] Lily Kaise transmits, "Ah ok I will be more available
+in a couple of hours."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Notification from Starseekers] The organization has received 1,443,774.55 EAOS
+credits from a toll payment to League Rift Accelerating Solar Toll Station in
+The Belt of Orion.
+[Tactical Communication] Ali Candan transmits, "Who'd be up for a Camp?"
+[Tactical Communication] Ali Candan transmits, "Or a low tier nest."
+[Tactical Communication] Ted Warburton transmits, "Tier 1 rental, and I could do
+with a nest."
+[General Communication] A robotic voice says, "Incoming QE message from Yadira
+Rivera to AFW Command: SND DIST TRVLD WAS1100 LY FRM TORUS Q CAN MEET NDB 40 OR
+50 <END>"
+[General Communication] Sakura Arakida transmits, "Well since I'm sending
+messages from one to the other. Yeah, this won't be cute. I feel like a pingpong
+ball."
+[General Communication] Zandria Marschaund transmits, "Pong, ping, pong, ping."
+[General Communication] A robotic voice says, "Outgoing QE message from AFW
+Command to Metal Heart: MSG FRM YDRA RVRADIST TRVLD WAS1100 LY FRM TORUS Q CAN
+MEET NDB 40 OR 50 <END>"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[General Communication] Lilianne Nickles transmits, "Hi."
+[General Communication] Sakura Arakida transmits, "Hi there."
+[General Communication] Ali Candan transmits, "Hello!"
+[General Communication] Ted Warburton transmits, "Hey."
+[General Communication] Ted Warburton transmits, "That's me out for the day,
+night all."
+[Tactical Communication] Ali Candan transmits, "One more try for gunship
+beacons? Who'd be in?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in one Earth hour!"
+power
+power
+#end
+#SESSION 'star' DIED.

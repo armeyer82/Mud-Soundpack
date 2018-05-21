@@ -1,0 +1,2520 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu May 26 15:50:17 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+eOF-0601
+Retrieving account information. Please wait...
+Invalid ID or password.
+Did you forget your ID or password? Go here and choose the appropriate option:
+http://moo.squidsoft.net:3333
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Stars Wanderer"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, an insulated green cooler, a round white
+rattan coffee table with a glass top, a compact red refrigerator, a red plastic
+food storage container, a blue plastic food storage container, a clear plastic
+food storage container, a small blueberry trash bin, a small blue insulated
+cooler, a pair of gray canvas sneakers, Purr the humanoid service robot, and
+Bert the hefty blue soldier felo here.
+Lily Kaise is sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+You can go up and out.
+(You are sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.)
+l
+[Starship "Stars Wanderer"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, an insulated green cooler, a round white
+rattan coffee table with a glass top, a compact red refrigerator, a red plastic
+food storage container, a blue plastic food storage container, a clear plastic
+food storage container, a small blueberry trash bin, a small blue insulated
+cooler, a pair of gray canvas sneakers, Purr the humanoid service robot, and
+Bert the hefty blue soldier felo here.
+Lily Kaise is sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+You can go up and out.
+(You are sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Use the KNOWLEDGE command to see what you know about other pilots.
+**
+eta
+The ship's current engine speed is 29630 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 7.3 seconds.
+Incoming hypercaster transmission from Outpost K-895 at South: "Can we get some
+help with these guys?"
+Lily Kaise smiles at you.
+smile lily
+You smile at Lily.
+A Tardick lizard named Asteria trundles slowly into the area.
+Incoming hypercaster transmission from Unknown Contact 165813895 at Southwest:
+"Sure. On my way back."
+[Newbie Help] Akemi Bando transmits, "It's best to just gloss over it when game
+hiccups like that. No need to make deja vu references or comment about bad drugs
+or anything like that."
+Lily Kaise presses a prominent identification button on the hypercaster control
+board.
+[Newbie Help] Zandria Marschaund transmits, "I know. It wa just funny."
+Incoming hypercaster transmission from Outpost K-895 at South: "Three scouts and
+a gunship."
+Lily Kaise says, OOCly, "We lost a little ground there. Must have been a
+checkpoint."
+ooc YEah
+You say, OOCly, "YEah."
+view con
+--
+ a deactivated projectile weapon                                                
+  [Count: 1]
+ an intact bizarrely-shaped spacesuit                                           
+  [Count: 1]
+ a perfectly shaped ceramic cube                                                
+  [Count: 1]
+ a sphere of a material not unlike transparisteel                               
+  [Count: 1]
+ a cluster of organic-looking spheres                                           
+  [Count: 2]
+ a plate carved with a geometric design                                         
+  [Count: 1]
+ a dense dodecahedron-shaped metallic mass                                      
+  [Count: 6]
+ a torn patch of unfamiliar woven fiber                                         
+  [Count: 3]
+ a sphere of cohesive slow-flowing liquid                                       
+  [Count: 5]
+ an unfamiliar spherical component                                              
+  [Count: 2]
+ an organic-looking piece of material not unlike wood which is in fact
+artificial  [Count: 5]
+ a box with a single horn-like protrusion                                       
+  [Count: 3]
+ a dense cube-shaped metallic mass                                              
+  [Count: 6]
+ a bit of oddly-designed optical wiring                                         
+  [Count: 6]
+ an oddly-designed wormhole drive construct                                     
+  [Count: 5]
+ a dense tetrahedron-shaped metallic mass                                       
+  [Count: 6]
+ a metallic hull plate of an unfamiliar design                                  
+  [Count: 7]
+ a rod made of malleable metal                                                  
+  [Count: 7]
+ a bit of stretchy synthetic material                                           
+  [Count: 10]
+                                                                                
+  [Total: 78]
+--
+Lily Kaise activates the long-range scanner and searches for passive detections
+and recent ping returns.
+Bert the hefty blue soldier felo jumps into your lap and settles in, purring.
+Samantha the large violet felo hums melodically to itself as it wanders in from
+above.
+pet sam
+You stroke the soft fur of Samantha the large violet felo.
+Samantha the large violet felo purrs and rubs its head against your hand,
+looking up at you adoringly.
+Incoming hypercaster transmission from Unknown Contact 769584912 at Northeast
+and Slightly Down: "Is it possible for me to land and pick up a gunner?"
+Incoming hypercaster transmission from Outpost K-895 at South: "You can try."
+Lily says, "The debris out here is nice it's at least up to 90 grade."
+Incoming hypercaster transmission from Outpost K-895 at South: "Coming in?"
+'Nice!
+"Nice!" you exclaim.
+Lily nods.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+"If I had of remembered," says Lily in a New Earth accent, "I would have put
+tools, not the highest but salvaging tools on here."
+nod 'Well, it doesn't have that big of a storage hold anyways.
+You nod. "Well, it doesn't have that big of a storage hold anyways."
+Lily says, "It's enough for a furnace if one would fit."
+'True, but I thought furnaces could only be installed on a light cruiser or
+bigger.
+"True," you say, "but I thought furnaces could only be installed on a light
+cruiser or bigger."
+Bert the hefty blue soldier felo curls up and closes its eyes.
+Samantha the large violet felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+"I am pretty sure that's the case but even turning in a little 90- grade debris
+is good," Lily says.
+nod
+You nod.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Artifact (nearest).
+grin lily
+You grin at Lily.
+Lily grins at you.
+A Tardick lizard named Asteria flicks its tongue out.
+-lily Go for it.
+You say to Lily, "Go for it."
+Lily says to you in a New Earth accent, "How many do you have so far?"
+'78
+You say, "78."
+Lily asks, "Ah same but go ahead since you said you might not be awake for
+long?"
+'ok, but I should be a wake for at least another hour or two.
+"Ok," you say in a New Phoenician accent, "but I should be a wake for at least
+another hour or two."
+stand
+You stand up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Bert the sleeping hefty blue soldier felo slides to the floor.
+pet bert
+You stroke the soft fur of Bert the sleeping hefty blue soldier felo.
+Bert the sleeping hefty blue soldier felo meows in protest, rolls away from you,
+and curls up to sleep.
+laugh
+You laugh.
+"Ok then we'll alternate after this," Lily says.
+kiss lily
+You kiss Lily Kaise.
+Lily grins at you.
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (6, 5, 12)
+Stars Wanderer: (6, 5, 12)
+Artifacts:
+   (6, 5, 11)
+-
+Enter direction on new z-level.
+s
+[Deep Space]
+You see an unfamiliar spherical component here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(11 seconds roundtime.)
+take spherical
+Wait 7 seconds.
+take spherical
+Wait 4 seconds.
+take spherical
+Wait 2 seconds.
+take spherical
+Wait 1 seconds.
+take spherical
+You grab an unfamiliar spherical component as it floats before you.
++
+Enter direction on new z-level.
+s
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+(18 seconds roundtime.)
+enter
+Wait 15 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the scout "Stars Wanderer", open the hatch, and carefully
+float inside, orienting yourself so that your feet hit the floor as you enter
+the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+The computer announces, "Cycling complete."
+enter
+[Starship "Stars Wanderer"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, an insulated green cooler, a round white
+rattan coffee table with a glass top, a compact red refrigerator, a red plastic
+food storage container, a blue plastic food storage container, a clear plastic
+food storage container, a small blueberry trash bin, a small blue insulated
+cooler, a pair of gray canvas sneakers, Purr the humanoid service robot, a
+Tardick lizard named Asteria, Samantha the large violet felo, and Bert the
+sleeping hefty blue soldier felo here.
+Lily Kaise is sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+You can go up and out.
+put spherical in con
+You put an unfamiliar spherical component into a large expandable telescoping
+xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+sit sofa
+You sit down on an overstuffed sofa upholstered in brilliantly colored patchwork
+fabric with a soft sky blue brocade pillow with thick gold fringe on it.
+eta
+The ship's current engine speed is 6857 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 21.0 seconds.
+Lily Kaise finishes off a cup of hot French vanilla coffee.
+cuddle lily
+You cuddle up to Lily.
+Lily Kaise puts a cup in a small blueberry trash bin.
+Lily Kaise removes a white microwave oven from a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise puts down a white microwave oven.
+Lily Kaise picks up a clear plastic food storage container.
+Lily Kaise empties the contents of a clear plastic food storage container into a
+white microwave oven.
+Lily Kaise closes a white microwave oven.
+Lily Kaise keys in her desired time and power on a white microwave oven and
+presses the start button.
+A white microwave oven lights up and begins whirring softly as it cooks.
+A white microwave oven chimes loudly as it powers off.
+Lily Kaise picks up a white microwave oven.
+Lily Kaise opens a white microwave oven.
+Lily Kaise empties the contents of a white microwave oven into a clear plastic
+food storage container.
+Lily Kaise puts a white microwave oven in a lavender silk backpack embroidered
+with brightly hued butterflies.
+Lily Kaise puts down a clear plastic food storage container.
+Lily Kaise removes a day old frosty mug full of root beer from a compact red
+refrigerator.
+Lily Kaise puts a day old frosty mug full of root beer in a compact red
+refrigerator.
+Lily Kaise closes a compact red refrigerator.
+Lily Kaise removes a day old large mug of hot hazelnut coffee with whipped cream
+and cinnamon from a clear plastic food storage container.
+Lily Kaise takes a sip of a day old large mug of hot hazelnut coffee with
+whipped cream and cinnamon.
+take mug from clear
+You remove a day old large mug of hot hazelnut coffee with whipped cream and
+cinnamon from a clear plastic food storage container.
+drink mug
+You take a sip of a day old large mug of hot hazelnut coffee with whipped cream
+and cinnamon.
+drink mug
+Lily Kaise takes a sip of a day old large mug of hot hazelnut coffee with
+whipped cream and cinnamon.
+You take a sip of a day old large mug of hot hazelnut coffee with whipped cream
+and cinnamon.
+drink mug
+You take a sip of a day old large mug of hot hazelnut coffee with whipped cream
+and cinnamon.
+drink mug
+You take a sip of a day old large mug of hot hazelnut coffee with whipped cream
+and cinnamon.
+drink mug
+You finish off a day old large mug of hot hazelnut coffee with whipped cream and
+cinnamon.
+put mug in trash
+Lily Kaise takes a sip of a day old large mug of hot hazelnut coffee with
+whipped cream and cinnamon.
+You put a mug in a small blueberry trash bin.
+Lily Kaise opens a small blue insulated cooler and the light inside clicks on.
+Lily Kaise removes a day old  Danish filled with vanilla custard and topped with
+sweet white icing and flaked almonds from a small blue insulated cooler.
+Lily Kaise takes a sip of a day old large mug of hot hazelnut coffee with
+whipped cream and cinnamon.
+Lily Kaise takes a bite of a day old  Danish filled with vanilla custard and
+topped with sweet white icing and flaked almonds.
+You hear a "ping" sound as the ship's computer detects an active sensor sweep.
+The sound seems overwhelmingly loud.
+Lily Kaise takes a bite of a day old  Danish filled with vanilla custard and
+topped with sweet white icing and flaked almonds.
+Lily Kaise finishes off a day old large mug of hot hazelnut coffee with whipped
+cream and cinnamon.
+Lily Kaise puts a mug in a small blueberry trash bin.
+Lily Kaise takes a bite of a day old  Danish filled with vanilla custard and
+topped with sweet white icing and flaked almonds.
+mileage
+The starship's mileage meter reads: 217 sectors (2.9 light-minutes)
+Lily Kaise takes a bite of a day old  Danish filled with vanilla custard and
+topped with sweet white icing and flaked almonds.
+mileage
+The starship's mileage meter reads: 217 sectors (2.9 light-minutes)
+Lily Kaise finishes off a day old  Danish filled with vanilla custard and topped
+with sweet white icing and flaked almonds.
+lrscan
+You activate the long-range scanner and search for passive detections and recent
+ping returns.
+--
+Passive Long-Range Scan
+--
+Active sensor pings detected:
+Targets detected passively or via active ping returns:
+   A miniscule energy signature presently detected 2.9 light-minutes toward
+Galactic South
+   A miniscule energy signature presently detected 2.9 light-minutes toward
+Galactic South
+   A miniscule energy signature presently detected 2.9 light-minutes toward
+Galactic South
+   A tiny energy signature presently detected 2.9 light-minutes toward Galactic
+South
+Lily Kaise activates the long-range scanner and searches for passive detections
+and recent ping returns.
+Samantha the large violet felo hums melodically to itself as it wanders out.
+A Tardick lizard named Asteria flicks its tongue out.
+Lily Kaise strokes a Tardick lizard named Asteria lovingly.
+"Purr contents," says Lily.
+Purr the humanoid service robot says in a synthesized voice, "Caretaking task
+has been canceled."
+Purr the humanoid service robot says in a synthesized voice, "I am currently
+holding a family size bag labeled "Low-Grade Dry Felo Chow", a container of fish
+food, a family size bag labeled "Low-Grade Dry Felo Chow", and a container of
+fish food."
+pet asteria
+You stroke a Tardick lizard named Asteria lovingly.
+Lily says, "Purr feed felo."
+Purr the humanoid service robot says in a synthesized voice, "Order confirmed."
+Purr the humanoid service robot says in a synthesized voice, "Assigned task
+complete."
+"Purr feed fish," says Lily.
+Purr the humanoid service robot says in a synthesized voice, "Order confirmed."
+Purr the humanoid service robot says in a synthesized voice, "Assigned task
+complete."
+Lily says, "Purr caretake."
+Purr the humanoid service robot says in a synthesized voice, "Order confirmed."
+Purr the humanoid service robot says in a synthesized voice, "I shall watch over
+the living beings on this ship as if they were my own."
+Lily says, "There we go."
+grin
+You grin.
+"Just making sure it's set up," Lily says.
+nod
+You nod.
+Lily Kaise says, OOCly, "Need a few."
+ooc no problem
+You say, OOCly, "No problem."
+Samantha the large violet felo hums melodically to itself as it wanders in from
+the airlock.
+A Tardick lizard named Asteria trundles slowly up.
+Bert the sleeping hefty blue soldier felo suddenly sneezes, bolting upright. It
+blinks, then gradually sinks back to the ground and falls asleep again.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+-lily Yours if you're not too dozey.
+You say to Lily, "Yours if you're not too dozey."
+'Or I can grab it.
+"Or I can grab it," you say.
+stand
+You stand up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Samantha the large violet felo hums melodically to itself as it wanders up.
+'ok, I'll grab this one
+You say, "Ok, I'll grab this one."
+out
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+wear helm
+You place a gold spacesuit helmet atop your head.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (18, 18, 2)
+Stars Wanderer: (18, 18, 2)
+Artifacts:
+   (18, 19, 2)
+w
+[Deep Space]
+You see a dense cube-shaped metallic mass here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(13 seconds roundtime.)
+take cube
+Wait 11 seconds.
+take cube
+Wait 8 seconds.
+take cube
+Wait 6 seconds.
+take cube
+Wait 4 seconds.
+take cube
+Wait 3 seconds.
+take cube
+Wait 3 seconds.
+take cube
+Wait 2 seconds.
+take cube
+Wait 1 seconds.
+take cube
+Wait 1 seconds.
+take cube
+You grab a dense cube-shaped metallic mass as it floats before you.
+x
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+(17 seconds roundtime.)
+enter
+Wait 16 seconds.
+enter
+Wait 13 seconds.
+enter
+Wait 8 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 7 seconds.
+enter
+Wait 6 seconds.
+enter
+Wait 4 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 3 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 2 seconds.
+enter
+Wait 1 seconds.
+enter
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the scout "Stars Wanderer", open the hatch, and carefully
+float inside, orienting yourself so that your feet hit the floor as you enter
+the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Stars Wanderer"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, an insulated green cooler, a round white
+rattan coffee table with a glass top, a compact red refrigerator, a red plastic
+food storage container, a blue plastic food storage container, a small blueberry
+trash bin, a small blue insulated cooler, a pair of gray canvas sneakers, Purr
+the humanoid service robot, Bert the sleeping hefty blue soldier felo, and a
+clear plastic food storage container here.
+Lily Kaise is sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+You can go up and out.
+vector n
+You make a selection on the AutoVector control board.
+put cube in con
+You put a dense cube-shaped metallic mass into a large expandable telescoping
+xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+sit sofa
+You sit down on an overstuffed sofa upholstered in brilliantly colored patchwork
+fabric with a soft sky blue brocade pillow with thick gold fringe on it.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+grin lily
+You grin at Lily.
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily grins.
+'All yours
+You say, "All yours."
+kiss  lily
+You kiss Lily Kaise.
+Lily Kaise removes a plain white spacesuit helmet from a light purple flightbag
+with a pastel kitten on the side.
+Lily Kaise places a plain white spacesuit helmet atop her head.
+Lily wraps her arms around you, pulling you close.
+Lily Kaise glides out.
+A small light on the airlock door turns from green to yellow.
+[Newbie Help] Matteo Winkler transmits, "Is there a way I can abort a mission."
+A small light on the airlock door turns from yellow to red.
+The airlock hatch chimes quietly.
+[Newbie Help] Akemi Bando transmits, "The missions will expire after a couple of
+days, I believe."
+[Newbie Help] Matteo Winkler transmits, "Thanks."
+The airlock hatch chimes quietly.
+A small light on the airlock door turns from red to yellow.
+vector n
+You make a selection on the AutoVector control board.
+A small light on the airlock door turns from yellow to green.
+Lily Kaise just entered the ship.
+Lily Kaise removes a plain white spacesuit helmet from her head.
+Lily Kaise puts a rod made of malleable metal into a large expandable
+telescoping xenology container.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise activates the long-range scanner and searches for passive detections
+and recent ping returns.
+A Tardick lizard named Asteria trundles slowly into the area.
+Incoming hypercaster identification ping from Unknown Contact 501079943 at
+South: Now identified as Rift Surfer The Legend Continues.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+'You want this one?
+You ask, "You want this one?"
+l
+[Starship "Stars Wanderer"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, an insulated green cooler, a round white
+rattan coffee table with a glass top, a compact red refrigerator, a red plastic
+food storage container, a blue plastic food storage container, a small blueberry
+trash bin, a small blue insulated cooler, a pair of gray canvas sneakers, Purr
+the humanoid service robot, Bert the sleeping hefty blue soldier felo, a clear
+plastic food storage container, and a Tardick lizard named Asteria here.
+Lily Kaise is sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+You can go up and out.
+(You are sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.)
+Lily Kaise asks in a New Earth accent, "Did you get another one while I was
+dozey?"
+Lily grins.
+'I did.
+You say, "I did."
+"Ok then," says Lily.
+Lily grins.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise kisses you on the lips.
+Lily wraps her arms around you, pulling you close.
+kiss lily
+You kiss Lily Kaise.
+Lily Kaise glides out.
+wrap lily
+I don't see that here.
+A small light on the airlock door turns from green to yellow.
+A small light on the airlock door turns from yellow to red.
+The airlock hatch chimes quietly.
+The ship's radio crackles and you hear Lily Kaise say, "Oh wow directionally
+challenged."
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+above.
+'It happens.
+You say, "It happens."
+The ship's radio crackles and you hear Lily Kaise say, "Woo fancy dinnerware."
+laugh
+You laugh.
+The airlock hatch chimes quietly.
+A small light on the airlock door turns from red to yellow.
+vector n
+You make a selection on the AutoVector control board.
+A small light on the airlock door turns from yellow to green.
+Lily Kaise just entered the ship.
+Lily Kaise removes a plain white spacesuit helmet from her head.
+Lily Kaise puts a plate carved with a geometric design into a large expandable
+telescoping xenology container.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise cuddles up to you.
+Bert the sleeping hefty blue soldier felo begins to snore softly.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily Kaise kisses you on the lips.
+Incoming hypercaster transmission from Unknown Contact 167109116 at East: "Woo,
+love it when you rift in on an artifact."
+A Tardick lizard named Asteria flicks its tongue out.
+Lily Kaise strokes a Tardick lizard named Asteria lovingly.
+pet asteria
+You stroke a Tardick lizard named Asteria lovingly.
+Incoming hypercaster identification ping from Unknown Contact 762931168 at West:
+Now identified as Blazer.
+Incoming hypercaster identification ping from Rift Surfer The Legend Continues
+at South: Now identified as Rift Surfer The Legend Continues.
+Lily Kaise presses a prominent identification button on the hypercaster control
+board.
+A Tardick lizard named Asteria trundles slowly up.
+Incoming hypercaster transmission from Rift Surfer The Legend Continues at
+Southsoutheast: ":{w)r2."
+Incoming hypercaster identification ping from Rift Surfer The Legend Continues
+at Southsoutheast: Now identified as Rift Surfer The Legend Continues.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+stand
+You stand up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (16, 13, 17)
+Stars Wanderer: (16, 13, 17)
+Artifacts:
+   (16, 14, 17)
+w
+[Deep Space]
+You see a rod made of malleable metal here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(11 seconds roundtime.)
+take rod
+Wait 9 seconds.
+take rod
+Wait 5 seconds.
+take rod
+Wait 4 seconds.
+take rod
+Wait 3 seconds.
+take rod
+Wait 2 seconds.
+take rod
+Wait 2 seconds.
+take rod
+Wait 1 seconds.
+take rod
+You grab a rod made of malleable metal as it floats before you.
+x
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+(12 seconds roundtime.)
+enter
+Wait 9 seconds.
+enter
+Wait 2 seconds.
+enter
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the scout "Stars Wanderer", open the hatch, and carefully
+float inside, orienting yourself so that your feet hit the floor as you enter
+the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+enter
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+You may not leave the airlock while it is cycling.
+enter
+You may not leave the airlock while it is cycling.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Stars Wanderer"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, an insulated green cooler, a round white
+rattan coffee table with a glass top, a compact red refrigerator, a red plastic
+food storage container, a blue plastic food storage container, a small blueberry
+trash bin, a small blue insulated cooler, a pair of gray canvas sneakers, Purr
+the humanoid service robot, Bert the sleeping hefty blue soldier felo, a clear
+plastic food storage container, and Sassie the large fuchsia felo here.
+Lily Kaise is sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+You can go up and out.
+Lily Kaise makes a selection on the AutoVector control board.
+put rod in con
+You put a rod made of malleable metal into a large expandable telescoping
+xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+sit sofa
+You sit down on an overstuffed sofa upholstered in brilliantly colored patchwork
+fabric with a soft sky blue brocade pillow with thick gold fringe on it.
+cuddle lily
+You cuddle up to Lily.
+Sassie the large fuchsia felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Bert the sleeping hefty blue soldier felo meows, wriggles a bit, then goes back
+to sleep.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+Lily cuddles up to you.
+Incoming hypercaster calibration ping from Blazer at West: Local hypercaster is
+currently tuned to Galactic East (0.0, 0.0) and the current power level settings
+are 10 percent. Signal strength between this vessel and calibrating vessel is
+very strong.
+Incoming hypercaster identification ping from Rift Surfer The Legend Continues
+at Southsoutheast and Very Slightly Down: Now identified as Rift Surfer The
+Legend Continues.
+Incoming hypercaster identification ping from Blazer at West: Now identified as
+Blazer.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+Incoming hypercaster transmission from Rift Surfer The Legend Continues at
+Southsoutheast and Very Slightly Down: ">o."
+Lily Kaise presses a prominent identification button on the hypercaster control
+board.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Samantha the large violet felo hums melodically to itself as it wanders in from
+above.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+Samantha the large violet felo gazes at Sassie the large fuchsia felo for a
+moment, then asks, "Mrrp?"
+Lily wraps her arms around you, pulling you close.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Incoming hypercaster identification ping from Blazer at West: Now identified as
+Blazer.
+Lily Kaise kisses you on the lips.
+Lily says, "Sure was hoping we'd find a few more before going tack."
+"Um back," says Lily.
+'Me too
+"Me too," you say.
+Sassie the large fuchsia felo jumps into Lily Kaise's lap and settles in,
+purring.
+Lily says, "Let's try going east since I don't see anyone."
+Lily Kaise presses a button to cancel the current autopilot program.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise makes a selection on the AutoVector control board.
+'ok
+"Ok," you say.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+move
+AutoStar detects 34 possible destinations.  Assembling destination list.  Please
+wait.
+--
+AutoStar (general-purpose starship autopilot) Version 9.1
+--
+Destinations in this sector:
+   Artifacts:
+[1] Artifact (nearest)                  
+   Debris:
+[2] Debris (nearest)                    
+--
+Enter your destination:
+[Type a line of input or `@abort' to abort the command.]
+1
+A destination appears on the ship's navigation controls: Artifact (nearest).
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+'Go for it
+Sassie the large fuchsia felo slides to the floor.
+You say, "Go for it."
+Lily asks, "Is this mine?"
+smile lily
+You smile at Lily.
+nod
+You nod.
+'It is
+You say, "It is."
+Lily Kaise glides out.
+A small light on the airlock door turns from green to yellow.
+A small light on the airlock door turns from yellow to red.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+A small light on the airlock door turns from red to yellow.
+vector e
+You make a selection on the AutoVector control board.
+A small light on the airlock door turns from yellow to green.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise removes a plain white spacesuit helmet from her head.
+kiss lily
+You kiss Lily Kaise.
+Bert the sleeping hefty blue soldier felo blinks a few times, stands up, and
+stretches.
+cuddle lily
+You cuddle up to Lily Kaise.
+l lily
+Lily Kaise
+She appears to be 27 years old. She is about five feet and two inches tall and
+has fair skin. Her body is thin with attractively curved hips and shapely
+calves. She has slender shoulders and slightly larger than average breasts. Her
+face is oval and pretty, with a delicate nose and understated chin. Her lips are
+lovely and blush pink and occasionally part to reveal a set of pretty teeth.
+Beneath a set of arched eyebrows, her eyes are blue-green and almond-shaped. Her
+waist-length, straight hair is pale honey blonde and swept up into a thick fall
+of loose curls down her back.
+A small enameled cerulean blue dragonfly pierces her left earlobe and a small
+enameled cerulean blue dragonfly pierces her right earlobe.
+She is wearing a light blue shipsuit with cobalt blue trim around the collar and
+cuffs, a plain white spacesuit top, a pair of plain white spacesuit gloves, a
+plain white spacesuit bottom, and a pair of plain white spacesuit boots.
+She is also wearing an orange and white blessed prayer bracelet around her
+wrist, a slender bracelet of tiny tinkling silver bells around her wrist, a neon
+purple wrist-mounted chronometer, a solid silver ring engraved with dragonflies,
+a delicate ring of silver wire and small purple amethyst crystals, a metallic
+gold touch einrophone in a metallic purple reinforced plastic phone holster, a
+reactionless spacesuit jet, and a spacesuit navaid.
+Her head, face, and both eyes are left uncovered.
+She is carrying a sphere of a material not unlike transparisteel in her right
+hand, and a plain white spacesuit helmet in her left hand.
+Sassie the large fuchsia felo gazes at Bert the hefty blue soldier felo for a
+moment, then asks, "Mrrp?"
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Artifact (nearest).
+stand
+You stand up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+wear helm
+You place a gold spacesuit helmet atop your head.
+out
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+cycle
+You press a large button marked CYCLE.
+The computer announces, "Beginning cycling."
+A small light on the airlock control panel turns from green to yellow. Through
+your suit, you hear the hiss of air quickly leaving the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+red.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+You may not leave the starship while it is moving.
+out
+Are you sure you wish to leave the ship for a spacewalk?
+[Enter `yes' or `no']
+y
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+You carefully open the hatch and float outside.
+l nav
+You glance at the display screen of a spacesuit navaid and see...
+Uncharted Sector
+Coordinates: (12, 3, 8)
+Stars Wanderer: (12, 3, 8)
+Artifacts:
+   (12, 3, 7)
+-
+s
+Enter direction on new z-level.
+[Deep Space]
+You see a perfectly shaped ceramic cube here.
+You can go in any direction using a spacejet.
+You are weightless here.
+(19 seconds roundtime.)
+take cube
+Wait 16 seconds.
+take cube
+Wait 10 seconds.
+take cube
+Wait 6 seconds.
+take cube
+Wait 5 seconds.
+take cube
+Wait 3 seconds.
+take cube
+Wait 2 seconds.
+take cube
+Wait 1 seconds.
+take cube
+You grab a perfectly shaped ceramic cube as it floats before you.
++
+Enter direction on new z-level.
+s
+[Outside Stars Wanderer]
+You can go in any direction using a spacejet, or return to Stars Wanderer.
+You are weightless here.
+(13 seconds roundtime.)
+enter
+Wait 12 seconds.
+enter
+Wait 3 seconds.
+enter
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, and a glossy blue ceramic felo chow bowl here.
+You can go enter into the ship.
+You float close to the scout "Stars Wanderer", open the hatch, and carefully
+float inside, orienting yourself so that your feet hit the floor as you enter
+the ship's artificial gravity field.
+cycle
+You press a large button marked CYCLE.
+A small light on the airlock control panel turns from red to yellow. Through
+your suit, you gradually begin to hear the hiss of air entering the airlock.
+The hiss of air slowly fades away into nothingness, and the yellow light becomes
+green.
+enter
+[Starship "Stars Wanderer"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, an insulated green cooler, a round white
+rattan coffee table with a glass top, a compact red refrigerator, a red plastic
+food storage container, a blue plastic food storage container, a small blueberry
+trash bin, a small blue insulated cooler, a pair of gray canvas sneakers, Purr
+the humanoid service robot, a clear plastic food storage container, Samantha the
+large violet felo, and Sassie the large fuchsia felo here.
+Lily Kaise is sitting on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric.
+You can go up and out.
+put cube in con
+You put a perfectly shaped ceramic cube into a large expandable telescoping
+xenology container.
+remove helm
+You remove a gold spacesuit helmet from your head.
+sit sofa
+You sit down on an overstuffed sofa upholstered in brilliantly colored patchwork
+fabric with a soft sky blue brocade pillow with thick gold fringe on it.
+eta
+The ship's current engine speed is 12000 km/s.
+At that speed, the ship will arrive at its current autopilot destination in
+about 2.0 seconds.
+Lily Kaise puts a sphere of a material not unlike transparisteel into a large
+expandable telescoping xenology container.
+cudle lily
+I don't understand that.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+A Tardick lizard named Asteria trundles slowly into the area.
+Lily says to a Tardick lizard named Asteria in a New Earth accent, "Hey little
+lizie."
+Incoming hypercaster transmission from Rift Surfer The Legend Continues at South
+and Very Slightly Down: "!/meo/e.isn't(being a)t}a/ pl.yer["
+pet asteria
+You stroke a Tardick lizard named Asteria lovingly.
+Lily Kaise strokes a Tardick lizard named Asteria lovingly.
+Samantha the large violet felo hums melodically to itself as it wanders out.
+Incoming hypercaster transmission from Rift Surfer The Legend Continues at South
+and Very Slightly Down: "Such a nay s$yer [n board~"
+Incoming hypercaster transmission from Blazer at West: "How rude. It's always
+better as a team."
+Lily Kaise carefully turns a few small knobs on the broadcaster control board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 240.0, 0.0.
+Incoming hypercaster transmission from Rift Surfer The Legend Continues at South
+and Very Slightly Down: "<g*e(d."
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Incoming hypercaster transmission from Rift Surfer The Legend Continues at South
+and Very Slightly Down: "I}|you%(ay ||, {he= I wi`l participate~"
+A Tardick lizard named Asteria flicks its tail.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Artifact (nearest).
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise kisses you.
+Lily Kaise places a plain white spacesuit helmet atop her head.
+Lily Kaise glides out.
+kis lily
+I don't see "lily" here.
+Lily Kaise just entered the ship.
+Lily Kaise glides up.
+kiss lily
+I don't see "lily" here.
+kiss lily
+Lily Kaise glides in from above.
+You put a gentle kiss on Lily Kaise's space suit helmet.
+Lily Kaise glides out.
+The ship's radio crackles and Lily Kaise laughs.
+A small light on the airlock door turns from green to yellow.
+laugh
+A small light on the airlock door turns from yellow to red.
+You laugh.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+A small light on the airlock door turns from red to yellow.
+vector e
+You make a selection on the AutoVector control board.
+A small light on the airlock door turns from yellow to green.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise puts a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+Lily Kaise removes a plain white spacesuit helmet from her head.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+cuddle lily
+You cuddle up to Lily Kaise.
+Lily Kaise cuddles up to you.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+'Don't we have to head back soon?
+You ask, "Don't we have to head back soon?"
+Lily says, "Yes on the hour."
+'oh
+You say, "Oh."
+'righ
+"Righ," you say.
+'er, right
+You say in a New Phoenician accent, "Er, right."
+Lily says, "I think we can wait until a quarter after but no later."
+nod
+You nod.
+Lily says in a New Earth accent, "We're leaving at 1900 I just wanted to
+recharge some."
+nod
+You nod.
+Lily says, "Wish we didn't need to or I'd stay out longer."
+'It's fine.
+You say, "It's fine."
+'I'd rather be safe than sorry.
+You say, "I'd rather be safe than sorry."
+Shasta the big onyx soldier felo marches in from above.
+Lily says, "Yeah."
+"I think we could get this back in a day but if we're off course again," says
+Lily, "we'll be in a bind."
+nod
+You nod.
+"Probably less since it would travel much faster than the others," Lily says.
+nod
+You nod.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+the airlock.
+Incoming hypercaster transmission from Unknown Contact 360593738 at South: "This
+is cilah. If anyone's looking for me, I'll be in wings. Already docked my gemini
+inside."
+A Tardick lizard named Asteria's spine ridges flicker blue for a brief moment.
+Lily says, "The carrier apparently has the high-cap on it though so it's got 3
+days of charge so unless it gets destroyed, things are ok."
+'Yeah, they should be fine.
+You say, "Yeah, they should be fine."
+Lily Kaise glances at the computer's current coordinates display.
+Lily Kaise glances at the computer's current coordinates display.
+Bert the hefty blue soldier felo marches in from above.
+Shasta the big onyx soldier felo marches out.
+Lily Kaise strokes the soft fur of Bert the hefty blue soldier felo.
+Bert the hefty blue soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+pet sassi
+You stroke the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against your hand, looking
+up at you adoringly.
+A Tardick lizard named Asteria trundles slowly up.
+Lily Kaise removes a small hot coffee dispenser from a round white rattan coffee
+table with a glass top.
+Lily Kaise puts a small hot coffee dispenser in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise removes a small hot beverage dispenser from a round white rattan
+coffee table with a glass top.
+Lily Kaise puts a small hot beverage dispenser in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily says, "Grab a juice if you want one."
+Lily grins.
+Sassie the large fuchsia felo hums melodically to itself as it wanders up.
+Lily Kaise removes a fresh fruit juice dispenser from a round white rattan
+coffee table with a glass top.
+Lily Kaise puts a fresh fruit juice dispenser in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise removes a small hot tea dispenser from a round white rattan coffee
+table with a glass top.
+Lily Kaise puts a small hot tea dispenser in a lavender silk backpack
+embroidered with brightly hued butterflies.
+"Oops I could have waited so just let me know if you need anything," Lily says.
+"Keep forgetting we'll have time while we charge to pick up whatever we want to
+have with us."
+Lily grins.
+Shasta the big onyx soldier felo marches in from the airlock.
+Jewel the large violet glowing felo wanders in from above.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Artifact (nearest).
+Lily asks, "Yours or mine?"
+Lily grins.
+Bert the hefty blue soldier felo rubs up against Shasta the big onyx soldier
+felo, and both animals purr softly.
+Lily says, "Ok i'll grab it to save time and hopefully we'll find another."
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise kisses you.
+Lily Kaise glides out.
+A small light on the airlock door turns from green to yellow.
+A small light on the airlock door turns from yellow to red.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+A small light on the airlock door turns from red to yellow.
+A small light on the airlock door turns from yellow to green.
+Lily Kaise just entered the ship.
+Lily Kaise makes a selection on the AutoVector control board.
+Lily Kaise removes a plain white spacesuit helmet from her head.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise puts a dense tetrahedron-shaped metallic mass into a large expandable
+telescoping xenology container.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+above.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Bert the hefty blue soldier felo marches out.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Artifact (nearest).
+Lily Kaise looks at you thoughtfully.
+Lily says to you in a New Earth accent, "Go go!"
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily sighs.
+Lily Kaise glides out.
+Lily Kaise just entered the ship.
+Lily Kaise glides up.
+Lily Kaise glides in from above.
+Lily Kaise glides out.
+A small light on the airlock door turns from green to yellow.
+A small light on the airlock door turns from yellow to red.
+The airlock hatch chimes quietly.
+Sassie the large fuchsia felo hums melodically to itself as it wanders up.
+The airlock hatch chimes quietly.
+A small light on the airlock door turns from red to yellow.
+A small light on the airlock door turns from yellow to green.
+Lily Kaise just entered the ship.
+Lily Kaise makes a selection on the AutoVector control board.
+The ship's radio crackles and you hear Lily Kaise say, "A vew more minutes and
+we'll need to go back."
+Lily Kaise says in a New Earth accent, "A vew more minutes and we'll need to go
+back."
+The ship's radio crackles and you hear Lily Kaise say, "Few."
+Lily says, "Few."
+Lily Kaise removes a plain white spacesuit helmet from her head.
+Lily Kaise puts an unfamiliar spherical component into a large expandable
+telescoping xenology container.
+Shasta the big onyx soldier felo rubs up against Jewel the large violet glowing
+felo, and both animals purr softly.
+A Tardick lizard named Asteria trundles slowly into the area.
+Lily Kaise strokes the soft fur of Shasta the big onyx soldier felo.
+Shasta the big onyx soldier felo purrs and rubs its head against Lily's hand.
+Lily Kaise strokes the soft fur of Jewel the large violet glowing felo.
+Jewel the large violet glowing felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+You hear a "ping" sound as the ship's computer detects an active sensor sweep.
+The sound seems overwhelmingly loud.
+Lily Kaise activates the long-range scanner and searches for passive detections
+and recent ping returns.
+You hear a "ping" sound as the ship's computer detects an active sensor sweep.
+The sound seems overwhelmingly loud.
+Jewel the large violet glowing felo wanders up.
+Incoming hypercaster identification ping from Blazer at West: Now identified as
+Blazer.
+Lily Kaise presses a prominent identification button on the hypercaster control
+board.
+Incoming hypercaster transmission from Blazer at West: "I didn't do it."
+"I'll wait until 20 after since Blazer is still out ant tha't Melinda's as hope
+you can get a coule more if you're not dozey," Lily says.
+-lily Sorry, I have to nap.
+You say to Lily, "Sorry, I have to nap."
+kiss lily
+You kiss Lily Kaise.
+Lily says, "Ah ok i'll take care of you Hun."
+smile lily
+You smile at Lily.
+Lily Kaise kisses you.
+kiss lily on lips
+You kiss Lily Kaise on the lips.
+Lily wraps her arms around you, pulling you close.
+You hear a "ping" sound as the ship's computer detects an active sensor sweep.
+The sound seems overwhelmingly loud.
+wrap
+You seem to be trying to hug the air.
+wrap lily
+You wrap your arms around Lily, pulling her close.
+ooc hahaha
+You say, OOCly, "Hahaha."
+Lily Kaise kisses you on the lips.
+"Just be sure you ahve everything you need," Lily says.
+nod
+You nod.
+Lily Kaise picks up a pair of gray canvas sneakers.
+'Everything's in here.
+You say, "Everything's in here."
+Lily Kaise gives you a pair of gray canvas sneakers.
+Lily laughs.
+wear sneakers
+You pull a pair of gray canvas sneakers onto your feet.
+'Thanks
+You say, "Thanks."
+Lily says, "Sure."
+'ok, time to nap
+You say, "Ok, time to nap."
+Lily says, "Ok I love you."
+'I love you too.
+You say, "I love you too."
+afk
+You blink heavily and then doze off.
+Lily Kaise picks up a compact red refrigerator.
+Lily Kaise puts a compact red refrigerator in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise closes a clear plastic food storage container.
+Lily Kaise picks up a clear plastic food storage container.
+Lily Kaise puts a clear plastic food storage container in a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise picks up an insulated green cooler.
+Lily Kaise puts an insulated green cooler in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise picks up a small blue insulated cooler.
+Lily Kaise closes a small blue insulated cooler.
+Lily Kaise puts a small blue insulated cooler in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise picks up a blue plastic food storage container.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise puts a blue plastic food storage container in a lavender silk
+backpack embroidered with brightly hued butterflies.
+Lily Kaise picks up a red plastic food storage container.
+A Tardick lizard named Asteria flicks its tail.
+Lily Kaise puts a red plastic food storage container in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Incoming hypercaster transmission from Blazer at West: "The boobs or the bags or
+maybe it was Isis."
+Lily Kaise removes a cool glass of bubbly golden tea from a round white rattan
+coffee table with a glass top.
+Lily Kaise takes a sip of a cool glass of bubbly golden tea.
+Lily Kaise takes a sip of a cool glass of bubbly golden tea.
+Lily Kaise takes a sip of a cool glass of bubbly golden tea.
+Lily Kaise takes a sip of a cool glass of bubbly golden tea.
+Lily Kaise finishes off a cool glass of bubbly golden tea.
+Lily Kaise puts a glass in a small blueberry trash bin.
+Lily Kaise removes a large crystal gold-trimmed goblet of Cape Myers Paradise
+Vineyards Pinot Grigio from a round white rattan coffee table with a glass top.
+Lily Kaise puts a large crystal gold-trimmed goblet of Cape Myers Paradise
+Vineyards Pinot Grigio in a small blueberry trash bin.
+Lily Kaise removes a small hot tea dispenser from a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise puts a small hot tea dispenser in a lavender silk backpack
+embroidered with brightly hued butterflies.
+Lily Kaise removes a snuggly purple stuffed black rautine from a coral pink silk
+handbag embroidered with pastel dragonflies.
+Lily Kaise puts a snuggly purple stuffed black rautine in a coral pink silk
+handbag embroidered with pastel dragonflies.
+Lily Kaise removes a soft fuchsia Tardick lizard snuggly labeled 'Asteria' from
+a round white rattan coffee table with a glass top.
+Lily Kaise puts on a soft fuchsia Tardick lizard snuggly labeled 'Asteria'.
+Bert the hefty blue soldier felo marches in from above.
+Shasta the big onyx soldier felo marches out.
+Lily Kaise removes a tyrian purple plastic box labeled 'Felo Spacesuits' from a
+round white rattan coffee table with a glass top.
+Lily Kaise puts a tyrian purple plastic box labeled 'Felo Spacesuits' in a
+lavender silk backpack embroidered with brightly hued butterflies.
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise glides up.
+Lily Kaise glides in from above.
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: Artifact (nearest).
+Lily Kaise places a plain white spacesuit helmet atop her head.
+Lily Kaise glides out.
+Incoming hypercaster transmission from Unknown Contact 360593738 at
+Southsouthwest: "Okay, one more for the road."
+Lily Kaise just entered the ship.
+Lily Kaise glides up.
+You hear a "ping" sound as the ship's computer detects an active sensor sweep.
+The sound seems overwhelmingly loud.
+Lily Kaise glides in from above.
+Lily Kaise glides out.
+A small light on the airlock door turns from green to yellow.
+A small light on the airlock door turns from yellow to red.
+The airlock hatch chimes quietly.
+The airlock hatch chimes quietly.
+A small light on the airlock door turns from red to yellow.
+A small light on the airlock door turns from yellow to green.
+Lily Kaise just entered the ship.
+Lily Kaise makes a selection on the AutoVector control board.
+Lily Kaise activates the long-range scanner and searches for passive detections
+and recent ping returns.
+Incoming hypercaster transmission from Blazer at West: "Are we there yet?"
+Incoming hypercaster transmission from Unknown Contact 360593738 at
+Southsouthwest: "Sure."
+Lily Kaise removes a plain white spacesuit helmet from her head.
+[MTTS] B.A.: I discovered there are videos of people opening old army rations
+and meals ready to eat and then eating them.
+[MTTS] canpher: Yum!
+[MTTS] B.A.: Some of the things they eat are in really terrible shape.
+Bert the hefty blue soldier felo marches out.
+A Tardick lizard named Asteria blinks its yellow eyes slowly, utterly
+indifferent to its surroundings.
+A Tardick lizard named Asteria trundles slowly up.
+[MTTS] Lily Calico: The old c-rations weren't so good even when they were in
+shape.
+Lily Kaise presses a button, calling up the coordinate rundown, and studies it
+for a moment.
+Lily Kaise presses a button to cancel the current autopilot program.
+Proper in-sector coordinates not reached.  AutoVector program aborted.
+Lily Kaise presses a button and brings up the FTL flight control board.
+The computer announces, "Setting course to Outpost K-895."
+Something deep inside the starship roars to life as the lights dim sharply.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+The computer announces, "Autotravel destination reached."
+Lily Kaise presses a button and brings up the starship's navigation controls.
+A destination appears on the ship's navigation controls: League Passively
+Beaconed Omnidirectional Recharging Battery-Powered Transmitter.
+Lily Kaise glances down at her neon purple wrist-mounted chronometer
+momentarily.
+[MTTS] B.A.: Apparently they used to come with cigarettes, too.
+Lily Kaise begins the docking sequence.
+[MTTS] Lily Calico: I don't remember that. Maybe this was in the OLD old days.
+[MTTS] B.A.: He's shown off rations from the end of WW2 through modern surplus.
+[MTTS] Lily Calico: World War II, maybe.
+[MTTS] kanamoto: Modern MRE's are better than the average meal we had on our
+ship.
+[MTTS] kanamoto: Which is distressing.
+Lily Kaise puts a plain white spacesuit helmet in a light purple flightbag with
+a pastel kitten on the side.
+Lily Kaise removes the components of her spacesuit and places them neatly into a
+light purple flightbag with a pastel kitten on the side.
+[MTTS] canpher: Ooo, I want an old MRE cigarette.
+Lily Kaise glides up.
+You hear someone knocking calmly upon the hull.
+Lily Kaise glides in from above.
+Lily Kaise glides out.
+The airlock hatch chimes quietly.
+[MTTS] Lily Calico: I never had an MRE. By the time they got popular, I was
+already at my duty station and we didn't go camping.
+[MTTS] Lily Calico: I'm fine with missing out on them.
+[MTTS] muhala: I really like the new MRE's We used to dump the kool-aid in our
+canteens.
+[MTTS] canpher: The ones my dad used to get were gross and they were fresh. Late
+eighties early nineties.
+Bert the hefty blue soldier felo marches in from the airlock.
+[MTTS] Lily Calico: And then there were those c-ration cans you had to open with
+that tiny can opener. Did the MREs have cans?
+The airlock hatch chimes quietly.
+Lily Kaise just entered the ship.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+[MTTS] muhala: No, they are all vacuum sealed plastic.
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise glides up.
+[MTTS] Lily Calico: It was a p-38 (thanks, google).
+[MTTS] canpher: I have to bug the navy boys around here to show me their MREs.
+Sassie the large fuchsia felo hums melodically to itself as it wanders in from
+above.
+The computer announces, "Sensors systems offline."
+The computer announces, "Navigation systems offline."
+The computer announces, "Weapons systems offline."
+The computer announces, "Communications systems offline."
+The computer announces, "Damage control systems offline."
+[MTTS] kanamoto: They're the same across the branches now, if I recall
+correctly. The only time we got them was during extended General Quarters
+periods, though.
+Lily Kaise glides in from above.
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise grasps a large lever on the control board and pushes it slowly away
+from her.
+Status lights blink on all around you as faint hums and beeps begin to emanate
+from the various starship systems.
+Lily Kaise glides up.
+[MTTS] Lily Calico: What are general quarters periods?
+[MTTS] kanamoto: Mmm, battle stations? Where you're stationed during combat or
+CBR situations.
+[MTTS] B.A.: Here's the video of the youtuber who eats food older than he is:
+https://youtu.be/ZVOIgPrDH7E.
+[MTTS] kanamoto: General quarters is when the whole ship is at battle stations.
+Lily Kaise glides in from above.
+Lily Kaise glides up.
+Lily Kaise glides in from above.
+Lily Kaise glides out.
+Bert the hefty blue soldier felo rubs up against Sassie the large fuchsia felo,
+and both animals purr softly.
+Lily Kaise just entered the ship.
+[MTTS] Lily Calico: Ah!
+Lily Kaise lifts an unobtrusive panel and makes her way into the starship's
+network of system ducts.
+Lily Kaise glides in from above.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise strokes the soft fur of Bert the hefty blue soldier felo.
+Bert the hefty blue soldier felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Bert the hefty blue soldier felo marches out.
+Lily Kaise says in a New Earth accent, "Hmm where's xavier."
+Lily Kaise glides up.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+Lily Kaise glides in from above.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise sits down on an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+[MTTS] Lily Calico: The Army version at my duty station was probably the alerts
+they'd call on us on the middle of the night. We would go stand in the parking
+lot until everyone got there. Then they'd do some kind of gas mask drill or
+whatever.
+[MTTS] Lily Calico: Battle stations in the parking lot.
+Sassie the large fuchsia felo hums melodically to itself as it wanders out.
+[MTTS] muhala: I hated it when have to get into chem gear and work all day. You
+want to talk about total suckiness.
+[MTTS] Lily Calico: We had to do that too.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+[MTTS] Lily Calico: I hope they have better suits nowadays.
+Bert the hefty blue soldier felo marches in from the airlock.
+[MTTS] muhala: Well it's been since 01 but then they still had the regular heavy
+charcoal lined jacket, pants, rubber gloves and boots plus gasmask with hood.
+The heat wasn't all that horrible for me since I'm from Texas but I was in
+aerospace ground equipment so some of the work we had to was small stuff and
+that kind of stuff.
+Lily Kaise pulls you towards her.
+Lily Kaise kisses you.
+Lily Kaise stands up from an overstuffed sofa upholstered in brilliantly colored
+patchwork fabric with a soft sky blue brocade pillow with thick gold fringe on
+it.
+Lily Kaise pulls you to your feet.
+Lily Kaise holds your hand, taking you into her group.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise out.
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, a glossy blue ceramic felo chow bowl, Sassie the large fuchsia
+felo, and Magellan the arachnoid security robot here.
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+[MTTS] Lily Calico: I understand that. We wore headphones and typed all day, so
+it was ridiculous unless they just didn't want us to do our jobs at all.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise out of the ship.
+[League Passively Beaconed Omnidirectional Recharging Battery-Powered
+Transmitter; Docking Bay]
+The four-person Accord space module transport "Joy Ride", the four-person light
+carrier "Wings", and the scout "Stars Wanderer" are parked here.
+You see Magellan the arachnoid security robot here.
+Cilah Silverthorn, Melinda Michaels, Joel Kringle, Lillian Hudson, Blake
+Madison, Damien Goss, and Lily Kaise are standing here.
+You can go north, east, south, up, and down.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise says in a New Earth accent, "Is everyone back."
+Some lights on the four-person light carrier "Wings" flash as Damien Goss boards
+it. They flash again as the airlock closes.
+Lillian nods.
+Lillian waves.
+Melinda says, "Yup."
+Lily says, "Ok i'll go power down."
+Melinda nods.
+Lily says, "Still needed a few more to finish charging but it's good enough."
+Lily grins.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise aboard the scout "Stars Wanderer".
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, a glossy blue ceramic felo chow bowl, Sassie the large fuchsia
+felo, and Magellan the arachnoid security robot here.
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise into the ship.
+[Starship "Stars Wanderer"; Control Room]
+You see a soft oval mauve rug with a luxuriously deep pile and thick gold
+fringe, a glossy pale purple ceramic felo chow bowl, an overstuffed sofa
+upholstered in brilliantly colored patchwork fabric with a soft sky blue brocade
+pillow with thick gold fringe on it, a round white rattan coffee table with a
+glass top, a small blueberry trash bin, Purr the humanoid service robot, Bert
+the hefty blue soldier felo, and Magellan the arachnoid security robot here.
+Lily Kaise is standing here.
+You can go up and out.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise disbands her group.
+Lily Kaise pulls a large lever towards her.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Lily Kaise glides up.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+Lily Kaise glides in from above.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise holds your hand, taking you into her group.
+[MTTS] muhala: Though I will admit freely that those particular days were
+somewhat ironic. One of the things I had to work on was an air conditioner the
+size of a UHaul truck. Totally messed up to be working on something that gets
+the air down to 50 degrees in a suit that makes that feel like 75.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise out.
+[Starship "Stars Wanderer"; Airlock]
+You see a personal hoverpallet, a large secure xenology storage container, a row
+of flightlockers, a glossy blue ceramic felo chow bowl, Sassie the large fuchsia
+felo, and Magellan the arachnoid security robot here.
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise strokes the soft fur of Sassie the large fuchsia felo.
+Sassie the large fuchsia felo purrs and rubs its head against Lily's hand,
+looking up at her adoringly.
+Sassie the large fuchsia felo rubs up against Lily Kaise's leg with a quiet
+"Mrrp."
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise out of the ship.
+[League Passively Beaconed Omnidirectional Recharging Battery-Powered
+Transmitter; Docking Bay]
+The four-person Accord space module transport "Joy Ride", the four-person light
+carrier "Wings", and the scout "Stars Wanderer" are parked here.
+You see Magellan the arachnoid security robot here.
+Cilah Silverthorn, Melinda Michaels, Joel Kringle, Lillian Hudson, Blake
+Madison, and Lily Kaise are standing here.
+You can go north, east, south, up, and down.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lillian giggles.
+Cilah giggles.
+"She is," says Melinda.
+"I think," says Melinda.
+Joel chortles.
+A crane efficiently loads the scout "Stars Wanderer" into the four-person light
+carrier "Wings".
+Joel Kringle removes a pair of orange Stone Spirits dice from a black backpack.
+Joel Kringle puts down a pair of orange Stone Spirits dice.
+Cilah says, "Far as I know, I'm in the carrier."
+Lillian applauds at Joel.
+[MTTS] muhala: While it was 30 degrees outside.
+Joel Kringle rolls a pair of orange Stone Spirits dice, and comes up with 2 and
+4.
+Some lights on the four-person Accord space module transport "Joy Ride" flash as
+Blake Madison boards it. They flash again as the airlock closes.
+Lily Kaise laughs.
+Melinda Michaels rolls a pair of orange Stone Spirits dice, and comes up with 2
+and 4.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise aboard the four-person Accord space module transport "Joy
+Ride".
+[Starship "Joy Ride"; Airlock]
+You see Magellan the arachnoid security robot here.
+Lily Kaise is standing here.
+You can go out and enter into the ship.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+You follow Lily Kaise into the ship.
+[Starship "Joy Ride"; Control Room]
+You see a large leather couch, a small purple trash can, a sleek stainless steel
+beverage machine with purple accents, an insulated purple cooler, and Magellan
+the arachnoid security robot here.
+Rogue Romano is sleeping on a large leather couch.
+Blake Madison and Lily Kaise are standing here.
+You can go south and out.
+Magellan the arachnoid security robot skitters in after Lily Kaise.
+Lily Kaise places you on a large leather couch.
+Lily Kaise disbands her group.
+Lily Kaise glides south.
+Magellan the arachnoid security robot skitters after Lily Kaise.
+[MTTS] Lily Calico: Do you miss it?
+[MTTS] muhala: Surprisingly enough, yes. Though that may be partly because had I
+not left I'd not be blind now.
+Lily Kaise glides in from the south.
+Lily Kaise sits down on a large leather couch.
+A Tardick lizard named Asteria, perched on Lily Kaise's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+[MTTS] Lily Calico: That was unexpected!
+[MTTS] muhala: The fact that I miss it or the connection between military and
+blind?
+Melinda Michaels just entered the ship.
+Lillian Hudson just entered the ship.
+Melinda Michaels quickly turns a small wheel on the rift drive control board.
+A number flap display rapidly flips around to show a new heading of 270.0, 2.0.
+Melinda Michaels says in a Bedford accent, "We're all here."
+Melinda Michaels begins the launch sequence.
+A Tardick lizard named Zeus flicks its tongue out from its perch on Melinda
+Michaels's shoulder.
+Blake Madison says in a Candelarian accent, "Woo."
+[MTTS] Lily Calico: The connection. I expected something way less serious.
+Via general sector communication, Wings transmits a text-based transmission:
+"you guys got everyone?"
+Melinda Michaels presses some buttons on the communication board.
+Via general sector communication, this ship transmits a text-based transmission:
+"yup"
+Lily Kaise asks in a New Earth accent, "Wait is joel going on the carrier?"
+Blake Madison presses some buttons on the sensor control board.
+A few green lights blink on, then off again a moment later, as another starship
+is scanned.  The computer then displays the following:
+CMY-96 Coalition Light Carrier "Wings"
+--
+IFF Transponder Code: League
+Model Designation: CMY-96
+Hull damage: 0%
+Average damage: 0%
+Occupancy: Unfilled
+FTL Capable: Yes
+Weapons: Powered down
+Power: Charged
+Cargo: Debris, ammunition, and low-grade dry felo chow
+Coordinates: (19, 13, 12)
+Distance: 2
+--
+Lillian Hudson nods to Lily.
+"Yup," says Melinda.
+Via general sector communication, Wings transmits a text-based transmission: "on
+ward?"
+"Ah ok," says Lily.
+Lillian Hudson strides south.
+Via general sector communication, Wings transmits a text-based transmission:
+"see you on the other side"
+The computer reports that the four-person light carrier "Wings" has entered the
+riftflow.
+Melinda Michaels flips a number of failsafe switches on the rift drive control
+board, then pushes a heavy lever forward.
+Something deep inside the starship roars to life as the lights dim sharply.
+Melinda Michaels sits down on a large leather couch.
+Blake exclaims, "Time to go home!"
+Blake Madison sits down on a large leather couch.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+Lily sniffles.
+The starship has left a unique area of space.
+You hear a loud call in front of you, and the flock shifts as one, finding a new
+updraft.
+The computer announces, "Damage control systems offline."
+Melinda Michaels says into the PA microphone, "Thanks."
+Lily asks, "So we're heading south?"
+Lillian Hudson's voice comes over the loudspeaker and says, "Yep."
+Melinda Michaels quickly turns a small wheel on the rift drive control board.
+The flock banks smoothly, moving as one.
+A number flap display rapidly flips around to show a new heading of 90.0, 2.0.
+The flock seems to be gradually losing altitude with no updraft beneath it.
+Melinda says, "There."
+Melinda says, "Duh."
+Melinda laughs.
+Lily laughs.
+[MTTS] muhala: Ah, yeah. Short story. Left AF that led to a vocational school,
+which led to second wife, which led to stupid choices which led to blind, in all
+of 3 years. Probably a record or something.
+Lily says, "I was like ok..."
+Lily says, "I already dummped my illegal goods for Andy's."
+Lillian Hudson strides in from the south.
+Melinda says, "Okay."
+Lillian Hudson sits down on a large leather couch.
+The starship has entered a unique area of space.
+Strange hulks of alien origin litter this region of space, from unrecognizable
+slag that was never any human design and oddly shaped metal plating to
+glittering metal devices whose purposes are unknown.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+Melinda Michaels flips a number of failsafe switches on the rift drive control
+board, then pushes a heavy lever forward.
+Something deep inside the starship roars to life as the lights dim sharply.
+Lily says, "So still didn't think we were headed that way."
+Incoming hypercaster transmission from Unknown Contact 751861946 at North:
+"Wrong heading guys."
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+Melinda says to Lillian Hudson, "You are supposed to remind me that north is not
+south."
+The starship has left a unique area of space.
+The curtains open, and countless faceless humanoids stare at you from their
+seats.
+Melinda Michaels carefully turns a few small knobs on the broadcaster control
+board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 90.0, 2.0.
+Incoming hypercaster transmission from Unknown Contact 751861946 at North: "Go
+90, 2. Totally my bad."
+Melinda Michaels says into the hypercaster microphone, "Yes, I am so smart."
+"Oh right right," says Lillian Hudson in an Old Earth accent. "I knew that."
+Lillian whistles.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson activates the long-range scanner and sends an active sensor ping
+into surrounding space.
+Incoming hypercaster identification ping from Unknown Contact 751861946 at
+North: Now identified as Wings.
+Lily Kaise activates the long-range scanner and searches for passive detections
+and recent ping returns.
+Lillian Hudson presses a prominent identification button on the hypercaster
+control board.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Rogue Romano suddenly awakens.
+Incoming hypercaster transmission from Wings at North: "It's because we're super
+smart. Don't let anyone tell you different."
+Melinda Michaels says into the hypercaster microphone, "And you are good with us
+just going or want us to stick together?"
+Incoming hypercaster transmission from Wings at North: "Knock yourself out. Meet
+you there."
+Melinda says to Rogue Romano in a Bedford accent, "Hey."
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Rogue Romano yawns.
+Rogue says, "Hi."
+Lillian smiles at Rogue. "Good morning."
+Rogue nods.
+Rogue Romano examines a sleek stainless steel beverage machine with purple
+accents for a moment.
+Rogue Romano makes a selection on a sleek stainless steel beverage machine with
+purple accents. It emits a quiet humming sound, and a moment later the dispenser
+door rolls up to display a cup of hot Colombian coffee with cream, which she
+promptly retrieves.
+Rogue Romano takes a sip of a cup of hot Colombian coffee with cream.
+Melinda says to Lillian, "Did you get a hundred artifacts?"
+Rogue glances around at her surroundings.
+Melinda says to Rogue in a Bedford accent, "Sean went home on his own. So, Joel
+went to the carrier."
+Rogue nods.
+"Um," says Melinda, "is attempting to go home on his home is better wording."
+Melinda says, "Oy, his own."
+Lily says, "Yeah I'd say."
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+"Well," says Rogue, "I wish him luck and hope he doesn't get lost."
+Lillian says to Melinda, "Of course not. Today was the worst day ever. I started
+with 75. I ended with 82."
+Melinda says to Lillian, "Aww."
+Lily says, "Yeah ours is about the same."
+Rogue says, "Still got more than I."
+Melinda says, "The flashing helped."
+Rogue says, "Good."
+"That's okay though," says Lillian. "I'm sure I'll be out here again soon
+enough."
+Rogue says in a Ticulian accent, "I only got 62."
+Melinda says to Rogue, "You beat me."
+Rogue says, "I don't see how, but okay."
+"Cause I am a lazy ass," Melinda says.
+Rogue says, "Nothin' wrong with lazy."
+Melinda says, "Nope."
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda Michaels says into the hypercaster microphone, "We're gonna catch ya."
+Incoming hypercaster transmission from Wings at North and Very Slightly Down:
+"We'll be sure to fart good and long then."
+Rogue smirks.
+Melinda chuckles.
+Melinda Michaels says into the hypercaster microphone, "Guess what?"
+Incoming hypercaster transmission from Wings at North and Very Slightly Down:
+"Boobs?"
+"Now why did no one warn me to bring no plugs for those," Rogue says.
+Rogue says, "Nose plugs, raunchy farts."
+A Tardick lizard named Zeus, perched on Melinda Michaels's shoulder, blinks its
+yellow eyes slowly, utterly indifferent to its surroundings.
+Melinda grins at Rogue.
+Lillian smirks at Rogue.
+Melinda Michaels says into the hypercaster microphone, "Fart all you want cause
+I got all the flashers over here. Woo!"
+Lily laughs.
+Rogue says, "Yea, they missin' out."
+Rogue Romano unzips a dark purple shipsuit, pulls down a skimpy black lace
+strapless bra slightly, and exposes her large full breasts tipped with prominent
+lightly tinted nipples for a moment. Both nipples are pierced with a shiny
+platinum ring.
+Melinda whistles.
+Lillian grins.
+Lillian Hudson unzips a dark red shipsuit with black trim around the collar and
+cuffs, unzips a full-body dark gray synthcotton undergarment with only a few
+patches at the knees and elbows, and exposes her slightly larger than average
+firm breasts tipped with round lightly tinted nipples for a moment.
+Incoming hypercaster transmission from Wings at North and Very Slightly Down:
+"There you go with the making me jealous. I'll be sure to get Emily to just hang
+out naked."
+Melinda cheers.
+Rogue applauds sedately.
+Melinda Michaels says into the hypercaster microphone, "And they are flashing!"
+Incoming hypercaster transmission from Wings at North and Very Slightly Down:
+"You guys are real ass holes."
+Lillian says to Rogue, "How did you get your nipples pierced like that? I mean,
+didn't that hurt?"
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Melinda Michaels says into the hypercaster microphone, "Is she awake?"
+Rogue says, "I was drunk."
+Incoming hypercaster transmission from Wings at North and Very Slightly Down:
+"Nope. Not even a good poking roused her."
+"Phew I'd have to be," Lily says. "Getting my belly button pierced was pretty
+painful."
+Melinda Michaels says into the hypercaster microphone, "Ha, well these gals are
+awake so, look back in 5."
+Melinda chuckles.
+Lillian grins.
+"Joel asked me which of my peircings was my favorite," Rogue says. "I had to say
+my belly button."
+Incoming hypercaster transmission from Wings at North and Very Slightly Down: "I
+still hate you so much."
+Lillian asks, "How many are there?"
+Rogue says, "The only I can really show off."
+"Or maybe I shouldn't ask," Lillian says.
+Lillian grins.
+"I got six," says Rogue.
+Melinda says to Rogue, "Six piercings?"
+Rogue nods.
+Melinda says, "There was this Fringe gal, um, Tiana or something."
+"God," says Melinda, "you'd have to look hard to find a spot that wasn't covered
+in metal."
+Lily says, "That girl from Mutuality too named Alicia or somehting like that."
+Rogue asks, "That bad?"
+Melinda says, "Yeah."
+Rogue asks, "Like where, face and other places?"
+Melinda says, "She was naked at NQ, so yeah other places."
+Melinda laughs.
+Lillian grins.
+Lily says, "I don't think I ever met Tiana but wow."
+"Damn," says Rogue.
+Melinda says, "Probably everywehre that it is possible to pierce."
+"Facial peircings are okay," says Rogue, "just not too much of it."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Awww, you passed us. I'm sad. Shake it so we can keep track of you."
+Lily says, "I just couldn't do my nose or tongue either."
+Melinda says, "To many get in the way."
+Lily nods.
+Rogue nods.
+Lillian Hudson carefully turns a few small knobs on the broadcaster control
+board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 270.0, -2.0.
+Lillian Hudson says into the hypercaster microphone, "Flash flash."
+Melinda Michaels carefully turns a few small knobs on the broadcaster control
+board.
+A number flap display rapidly flips around to indicate that the broadcaster is
+now aimed at 270.0, -2.0.
+Lillian grins at Melinda.
+Lillian says to Melinda, "I just did that."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Cilah said she's going to be better company and flash."
+Melinda Michaels says into the hypercaster microphone, "I want a photo."
+Melinda says to Lillian, "Yes, sorry."
+Rogue Romano takes a sip of a cup of hot Colombian coffee with cream.
+Lillian Hudson says into the hypercaster microphone, "We're talking about
+piercings... All the piercings..."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Hell no! It's for me only."
+Melinda Michaels says into the hypercaster microphone, "In your dreams."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down: "I
+like playing with piercings."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down: "I
+flashed a laser pointer at him, does that count? From Cilah."
+Melinda laughs.
+Rogue laughs.
+"Go girl," says Rogue.
+Melinda Michaels says into the hypercaster microphone, "Of course."
+Melinda says to Lily, "So, does Shule have hidden piercings?"
+Melinda smirks.
+Melinda Michaels carefully removes a Tardick lizard named Zeus from her
+shoulder.
+Melinda Michaels puts down a Tardick lizard named Zeus.
+Lillian Hudson scrambles to her feet.
+Lillian Hudson strides south.
+Lily glances around at her surroundings.
+Lillian Hudson strides in from the south.
+Lillian Hudson settles a Tardick lizard named Isis on her shoulder, its tail
+curled loosely around her.
+Lillian Hudson carefully removes a Tardick lizard named Isis from her shoulder.
+Lily says, "Well I haven't found any obvious ones but you know he was with some
+strange girls before."
+Melinda giggles.
+Lillian Hudson puts down a Tardick lizard named Isis.
+Lillian Hudson sits down on a large leather couch.
+Melinda asks, "Strange?"
+Lily says, "So they may have encouraged them haha."
+Lily asks, "You don't think Takana was strange?"
+"I am with a strange girl," says Melinda, "Takana was, um, out there."
+Melinda grins.
+Lily says, "Ok."
+Lily laughs.
+"I didn't care for Takana," Rogue says.
+Rogue Romano takes a sip of a cup of hot Colombian coffee with cream.
+Rogue says, "What happened to her anyway."
+Melinda says, "Prison."
+Lily nods.
+Rogue says, "Damn."
+Lily says, "She sold out to Kelsi."
+"Wow," says Rogue.
+Rogue Romano takes a sip of a cup of hot Colombian coffee with cream.
+Lily exclaims, "Wow is mild!"
+Lillian Hudson says in an Old Earth accent, "Yeah just a bit."
+Lillian says to Melinda, "Also i'm ignoring you."
+Lillian grins.
+"Aww," says Lily.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Rogue says, "Poor Mel."
+Lily pats Melinda on the back.
+Melinda says to Lillian, "See, you are strange. Nobody else would ignore such a
+nice person as myself."
+Lily laughs.
+Lillian laughs at Melinda.
+Lillian Hudson says into the hypercaster microphone, "Melinda called me strange.
+Halp. From Lillian."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"No help from us. Keep talking about piercings and flash a lil more."
+Melinda grins.
+Melinda Michaels says into the hypercaster microphone, "Thank you for suggesting
+that."
+Lillian Hudson unzips a dark red shipsuit with black trim around the collar and
+cuffs, unzips a full-body dark gray synthcotton undergarment with only a few
+patches at the knees and elbows, and exposes her slightly larger than average
+firm breasts tipped with round lightly tinted nipples for a moment.
+Rogue Romano unzips a dark purple shipsuit, pulls down a skimpy black lace
+strapless bra slightly, and exposes her large full breasts tipped with prominent
+lightly tinted nipples for a moment. Both nipples are pierced with a shiny
+platinum ring.
+Melinda Michaels says into the hypercaster microphone, "Did you see those
+boobs?"
+Melinda grins.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+A Tardick lizard named Isis trundles slowly south.
+Melinda says, "Poor Kringle."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Which ones? Probably so."
+Melinda Michaels says into the hypercaster microphone, "Two sets of them."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down: "I
+saw one big enough for two."
+Melinda laughs.
+Lillian Hudson says into the hypercaster microphone, "Those are some big boobs
+then."
+A Tardick lizard named Zeus flicks its tongue out.
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"In deed they were."
+Melinda says, "I should get him a mold of a big boob for Annual Festive
+Holiday-Related Gift-Transferring Celebratory Event."
+Lillian laughs.
+Lily laughs.
+"It has to do something too," Lily says.
+Lily laughs.
+Melinda asks, "Hmm, sag?"
+Melinda grins.
+Lily exclaims, "I'll leave that one up to your imaginagion!"
+Lily exclaims, "Imagination too!"
+Melinda says, "Hmmm."
+Melinda says, "Squirt chocolate milk."
+Melinda snaps her fingers.
+It feels as if something is trying to force its way out of your skull.
+Rogue gets a distant look on her face as she ponders.
+Rogue Romano finishes off a cup of hot Colombian coffee with cream.
+Rogue Romano puts a cup in a small purple trash can.
+Melinda says, "Or vodka."
+[MTTS] lunarfang: If you're in space and you cut main power, your ship won't
+lose charge or blow up if you're in an empty uncharted sector will it?
+[MTTS] dragonfire: I don't know, will it?
+Rogue says, "Vodka sounds good."
+Lillian grins.
+Lillian Hudson examines a sleek stainless steel beverage machine with purple
+accents for a moment.
+Lillian Hudson makes a selection on a sleek stainless steel beverage machine
+with purple accents. It emits a quiet humming sound, and a moment later the
+dispenser door rolls up to display a shot of chilled vodka, which she promptly
+retrieves.
+Lillian Hudson gives a shot of chilled vodka to Rogue Romano.
+"Let's see," says Melinda.
+Lillian says to Melinda, "Stop."
+Rogue says to Lillian, "Awe, thank you darlin'."
+Lillian says to Melinda, "Don't hand her another one."
+Melinda says to Lillian, "Yes ma'am."
+Rogue giggles.
+Lillian says to Melinda, "Drunk rogue may mean puking Rogue, and we don't want
+that."
+Lillian grins.
+Melinda grins.
+Melinda Michaels examines a sleek stainless steel beverage machine with purple
+accents for a moment.
+[MTTS] canpher: Shouldn't lose charge. You will lose atmosphere. You also
+shouldn't blow up unless something helps you along with that.
+Lillian says to Rogue, "Sure thing. Just no throwing up."
+Rogue says to Lillian, "Nothin' to worry about, promise."
+Melinda Michaels makes a selection on a sleek stainless steel beverage machine
+with purple accents. It emits a quiet humming sound, and a moment later the
+dispenser door rolls up to display a shot of chilled vodka, which she promptly
+retrieves.
+Melinda Michaels takes a sip of a shot of chilled vodka.
+Rogue Romano takes a sip of a shot of chilled vodka.
+Melinda says, "I'll drink it then."
+Rogue grins.
+[MTTS] lunarfang: Alright, and anyone know how long people are typically banned
+from newbie for? Or is it a perma bann if you get the unable to transmit
+message.
+[MTTS] canpher: I've never had that honor. Sorry I can't help.
+A Tardick lizard named Zeus trundles slowly south.
+Rogue Romano takes a sip of a shot of chilled vodka.
+[MTTS] lunarfang: No big. That's what I get for offering a helpful tip to
+someone about not giving straight movible directions.
+Incoming hypercaster transmission from Wings at South and Very Slightly Down: "I
+just realized you're all girls over there."
+Lily glances at you.
+Melinda Michaels says into the hypercaster microphone, "Are you calling Shule
+and Blake girls?"
+[MTTS] lunarfang has left the channel.
+Rogue looks at Blake thoughtfully.
+Rogue says, "Poor guys."
+Lily says, "Yeah wow."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"They're the biggest girls there."
+Lily says, "And not awake enough to defend their..."
+Lily laughs.
+Rogue says to Blake, "You a girl?"
+Lillian grins and pats Blake on the back.
+Lillian Hudson says into the hypercaster microphone, "Girls are drinking and
+flashing, and we all have boobs. Don't forget the boobs."
+Lily says to you in a New Earth accent, "If you're wearing something,... well
+you weear it very well!"
+Rogue says to Blake, "C'mon, flash them titties for me."
+Lily laughs.
+Lillian Hudson examines a sleek stainless steel beverage machine with purple
+accents for a moment.
+Lillian Hudson makes a selection on a sleek stainless steel beverage machine
+with purple accents. It emits a quiet humming sound, and a moment later the
+dispenser door rolls up to display a shot of chilled vodka, which she promptly
+retrieves.
+Incoming hypercaster transmission from Wings at South and Very Slightly Down: "I
+never forget the boobs."
+Melinda looks Blake over carefully and frowns. "I don't see the boobs."
+[MTTS] Myrv: That'll surely help their cause.
+Lillian says to Melinda, "They could be very tiny... very very veeeeeery
+tiny..."
+Melinda says to Blake, "Flash boy!"
+Lillian Hudson takes a sip of a shot of chilled vodka.
+Rogue Romano says into the hypercaster microphone, "A few drinks, and I could be
+a naked Rogue."
+Lillian looks Rogue over with an appraising eye before grinning playfully.
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"You lucky duckies."
+Melinda Michaels says into the hypercaster microphone, "We are."
+Melinda Michaels says into the hypercaster microphone, "The men over here got
+issues. All these boobs and they aren't even reacting."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Because they're girls."
+Melinda grins.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"I'm not even there and I'm reacting."
+Melinda Michaels says into the hypercaster microphone, "Aww."
+Melinda Michaels takes a sip of a shot of chilled vodka.
+It feels as if something is trying to force its way out of your skull.
+Melinda says, "Aww we slowed a bit."
+Lillian Hudson says into the hypercaster microphone, "Quick, more flashing.
+We're losing speed!"
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+"Aww," says Melinda, "we're gonna get away from them."
+Lillian asks, "Should we trim?"
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Woo, we're 66.63 light-days apart."
+Lillian Hudson says into the hypercaster microphone, "The rift is secretly
+saying we're evil."
+"Up to you," says Melinda. "We don't have to stay together for the entire trip
+back but maybe can keep him company for a bit."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"I'm not going to disagree."
+Lillian nods.
+Lillian Hudson turns a small dial on the rift drive control board, trimming the
+riftsail to 96%.
+The stage lights flicker briefly.
+"I will leave the buttons alone," Melinda says.
+Lillian says to Melinda, "Well, it is your ship."
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"And looky now. We're 69.69 apart. I need a taco."
+Lillian frowns.
+Melinda laughs.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson turns a small dial on the rift drive control board, trimming the
+riftsail to 85%.
+The stage lights flicker briefly.
+Melinda says to Lillian, "Yes but, even inputting the same hypercaster heading.
+I will just not touch stuff."
+Melinda grins.
+Lillian grins at Melinda. "Whatever you wish, dear."
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+"That one is okay," says Melinda.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda says, "That high low thing really screws with stuff."
+"It really does," says Lillian, "but it's useful as hell."
+"Yeah," says Melinda, "I don't want a furnace on a carrier with so little
+storage space."
+Lillian says, "Yup."
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise's neck.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Break down."
+Melinda Michaels says into the hypercaster microphone, "No, just being nice."
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+"Oh maybe they did," says Melinda.
+Lillian Hudson presses a button on the rift drive control board, and the
+starship begins dropping out of the riftflow.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda says, "Yup."
+Lillian nods.
+Lillian Hudson quickly turns a small wheel on the rift drive control board.
+A number flap display rapidly flips around to show a new heading of 270.0, -2.0.
+"I wonder if they turned the beacon on?" Lillian asks.
+Lillian Hudson flips a number of failsafe switches on the rift drive control
+board, then pushes a heavy lever forward.
+Something deep inside the starship roars to life as the lights dim sharply.
+Lillian Hudson turns a small dial on the rift drive control board, trimming the
+riftsail to 100%.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+Lillian Hudson presses a button on the rift drive control board, and the
+starship begins dropping out of the riftflow.
+A formless mist suddenly swirls outside the viewports, then is rapidly sucked
+forward into a bright wormhole in front of the ship. The wormhole blinks out of
+existence, and the ship is suddenly in normal space.
+Lillian says, "Nope."
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson quickly turns a small wheel on the rift drive control board.
+A number flap display rapidly flips around to show a new heading of 90.0, 2.0.
+Lillian Hudson turns a small dial on the rift drive control board, trimming the
+riftsail to 85%.
+Melinda says, "Ours will happen while we sleep."
+Lillian says, "It will."
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Rogue Romano takes a sip of a shot of chilled vodka.
+Lillian Hudson takes a sip of a shot of chilled vodka.
+Melinda gets a distant look on her face as she ponders.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda says to Lillian, "So, your plan is to go home and subject the new pilots
+to salvaging and things?"
+Lillian says to Melinda in an Old Earth accent, "Pretty much. Salvage ops and
+pirates when I can get them. Also maybe stalwart beacons for training."
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise's shoulder.
+Melinda says to Rogue, "See what she is going to do to the new pilots. Hold her
+hands down while I turn us around. We will save them all."
+Melinda grins.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian says, "Hey wait."
+Lillian says, "That's not who I want... Um... Nevermind."
+Lillian glances around at her surroundings.
+Melinda laughs.
+Melinda Michaels kisses Lillian Hudson on the nose.
+Rogue grins.
+Rogue Romano activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Rogue Romano takes a sip of a shot of chilled vodka.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda nods.
+Lillian says, "Woo."
+Lillian says, "We'll let them catch up a little."
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"We're back."
+Lillian Hudson flips a number of failsafe switches on the rift drive control
+board, then pushes a heavy lever forward.
+Something deep inside the starship roars to life as the lights dim sharply.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+A wormhole suddenly appears in front of the ship, its edges tinged an unusual
+deep purple. Strange undulating shapes are half-visible deep inside it.
+A thick undulating mist suddenly seems to rush toward the starship from every
+direction, quickly blotting out the stars. Random shapes, some half-familiar,
+occasionally form in the mist only to disappear almost immediately.
+Lillian Hudson says into the hypercaster microphone, "We see that."
+Bursts of multicolored light suddenly blind you as they slice across your view,
+forming winding pathways through billowing clouds.
+Lillian exclaims, "Rainbows!"
+Incoming hypercaster transmission from Wings at South and Very Slightly Down:
+"Oh really? Can you see this?"
+"Snowflakes," says Melinda in a Bedford accent.
+Lillian Hudson says into the hypercaster microphone, "Damn riht we see that."
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Melinda Michaels activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson activates the long-range scanner and searches for passive
+detections and recent ping returns.
+Lillian Hudson turns a small dial on the rift drive control board, trimming the
+riftsail to 90%.
+The rainbow pathways generate quick, erratic pulses of light.
+quit
+    * You have been disconnected. Please come back soon. *
+#SESSION 'star' DIED.

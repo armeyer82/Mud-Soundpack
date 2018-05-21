@@ -1,0 +1,413 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Tue Oct 25 06:22:14 2016 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+equip
+I don't understand that.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: New pilots: Don't forget to talk to your liaison officer! He can give you
+a lot of early points and credits!
+**
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+#read sc.tin
+#read sc.tin
+eta
+The ship is not moving.
+[Tactical Communication] Morris Corlew transmits, "Need an assist two west of
+Old Earth to dispatch a pirate gunboat please."
+[Tactical Communication] Johann Rowan transmits, "Okay."
+[Tactical Communication] Melinda Michaels transmits, "Are you two west?"
+[Tactical Communication] Morris Corlew transmits, "Yes."
+[Tactical Communication] Melinda Michaels transmits, "Come to the nest."
+[Tactical Communication] Johann Rowan transmits, "Clear."
+[Tactical Communication] Sakura Arakida transmits, "Scratch one pirate
+destroyer."
+[Tactical Communication] Morris Corlew transmits, "Thanks."
+A short violet soft-bodied creature with many claw-tipped tentacles propels
+itself through the tank, stirring up tiny particles.
+[Tactical Communication] Joel Kringle transmits, "Thank you guys."
+[Newbie Help] Morris Corlew transmits, "How do you transfer ownership of a ship
+other than giving the title and key to the new person?"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+1,740,740.74 credits for a submission from a battle analysis scanner on Fringe
+Battle-Scanning Nuclear Temporary Station involving the one-person hyperion
+security armoured warfare fighter "Mouse Slayer".
+#macro {\e3} {#buffer get review 4;#system say -v alex -r 525 "$review"}
+#OK. MACRO {\e3} HAS BEEN SET TO {#buffer get review 4;#system say -v alex -r
+525 "$review"}.
+[Newbie Help] Joel Kringle transmits, "Pretty sure that's it. I think."
+[General Communication] Elizabeth Beckman transmits, "Anyone know if metals from
+poacher wrecks count towards the conversion ratio?"
+[Newbie Help] Evenia Callseah transmits, "Once you give the title to the person,
+they can go and claim it."
+[General Communication] Sakura Arakida transmits, "I think they do."
+[General Communication] Melinda Michaels transmits, "I think so."
+[Newbie Help] Morris Corlew transmits, "Thanks."
+[Newbie Help] Evenia Callseah transmits, "That will also eliminate the key for
+it that you have."
+[Newbie Help] Morris Corlew transmits, "I already handed over the key."
+#they
+#ERROR: #UNKNOWN TINTIN-COMMAND 'they'.
+#read sc.tin
+eta
+The ship is not moving.
+#read sc.tin
+eta
+The ship is not moving.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+#write sc.tin
+#WRITE: 262 COMMANDS WRITTEN TO {sc.tin}.
+A long red soft-bodied creature with many claw-tipped tentacles abruptly flings
+itself at the side of the tank, its tentacles tapping at the glass, then it
+withdraws.
+#read sc.tin
+[General Communication] A space bus driver transmits, "Space Bus 213 to Nouveau
+Quebec now boarding at Space Station "Foxtrot"! Departure in one Earth hour!"
+eta
+The ship is not moving.
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+#read sc.tin
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+l
+[Starship "William Dove"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a sleek metal quantum entanglement communication device, a rattan floor
+lamp with a light purple lotus shade (casting a white-colored glow), a wormhole
+drive tracer, a dark purple leather captain's chair, a large oval white and
+black cloth rug, a rare black EAOSian contoured couch with a hand-made white and
+sapphire star quilt on it, Desiree the little black and white spotted CatBot, a
+glossy purple ceramic felo chow bowl, a round white rattan coffee table with a
+glass top, a small yellow ball containing a realistic Bari horde noisemaker,
+Meow the little calico CatBot, a wall-sized bubbling neon purple-lit aquarium
+containing yellow and red aquatic life and coral rocks, a small white trash bin,
+a compact red refrigerator, a pocket-sized purple holovid, a robotic chef named
+Nellie, a clear plastic food storage container, a high tech silver star print
+holovid, Purr the humanoid service robot, an insulated blue cooler, a red
+plastic food storage container, and a hairy yellow eight-legged ArachnoPal named
+Higgins here.
+Lily Kaise is sitting on a rare black EAOSian contoured couch.
+You can go south and out.
+(You are sitting on a rare black EAOSian contoured couch with a hand-made white
+and sapphire star quilt on it.)
+A medium-sized semi-transparent ovoid creature with long dangling tendrils and a
+blue glowing interior drifts slowly past a plastic wrecked EAOS Defender.
+quit
+    * You have been disconnected. Please come back soon. *
+#SESSION 'star' DIED.

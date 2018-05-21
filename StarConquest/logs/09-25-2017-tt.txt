@@ -1,0 +1,1386 @@
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Aug 24 06:11:20 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Retrieving account information. Please wait...
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+You can go east, southeast, and out.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. Lights
+overhead indicate that the ship is on green status. Looking through the windows,
+you see that the ship is in space.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+You can go east, southeast, and out.
+ships
+There are no other ships in the sector.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Trading is the best way to make credits, if you can find the right route.
+**
+trace
+No recent FTL drive traces detected.
+ftl new
+The ship is already moving.
+stop
+You press a button to cancel the current autopilot program.
+ftl new
+Providence Station shines brightly in the dark, one of the few stations that
+bothers to illuminate its outer hull. The gleaming hull of the station is bathed
+with bright white floodlights.
+Via general sector communication, AEU Battery-Powered Message Beacon transmits,
+"There is nothing that will change the crushing reality that Outccord is a
+failure! STOP Outccord right now!"
+New Earth rotates through space before you, a startingly verdant planet, colored
+in greens and blues with pure white clouds.
+The computer announces, "Autolander beacon detected. The ship will automatically
+proceed to New Earth in thirty seconds unless aborted or another navigation
+order is entered."
+Via general sector communication, AEU Battery-Powered Message Beacon transmits,
+"Supporting Outccord equals supporting the extinction of all of humanity. Make
+your choice carefully!"
+Via general sector communication, New Earth transmits, "Hello there, Deadly
+Strike! Welcome to home space!"
+#unaction {^The computer announces, "%*"}
+[0m#OK. {^The computer announces, "%*"} IS NO LONGER AN ACTION.[0m
+The ship's computer automatically requests landing clearance.
+A voice comes over the speaker and says, "Hello, Deadly Strike. We read your AEU
+transponder. You are cleared to land at the city of New Phoenix."
+The computer sounds a notification indicating that the ship has been fully
+charged.
+power
+You pull a large lever towards you.
+The faint sounds and status lights of the starship's systems slowly fade away,
+leaving you in a dim silence.
+Your ship 'Deadly Strike' has been automatically moved into a garage.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Lily Kaise, Phoenix Dissident just entered the ship.
+Lily Kaise, Phoenix Dissident sits down on an overstuffed dark green chair.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+Lily Kaise, Phoenix Dissident stands up from an overstuffed dark green chair.
+Lily Kaise, Phoenix Dissident glides out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+peer out
+Not much to see out there.
+Lily Kaise, Phoenix Dissident just entered the ship.
+Lily Kaise, Phoenix Dissident sits down on an overstuffed dark green chair.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+Lily Kaise, Phoenix Dissident helps herself to a slice of three-meat pizza.
+Lily Kaise, Phoenix Dissident dangles a day old slice of three-meat pizza in
+front of a Tardick lizard named Asteria. The lizard's tongue flicks out once,
+then its head lunges forward, snapping up the food in a sudden blur and
+immediately swallowing it whole.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+-lily Hi beautiful.
+You say to Lily, "Hi beautiful."
+"Hi Handsome!" Lily Kaise, Phoenix Dissident beams at you.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident says, "Sorry I decided to go back for a less
+valuable starship."
+Automatic daily maintenance is complete.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+Lily Kaise, Phoenix Dissident is sitting on an overstuffed dark green chair.
+You can go east, southeast, and out.
+'For which starship?
+You ask, "For which starship?"
+Lily Kaise, Phoenix Dissident says, "I really need to be careful about flying my
+Capsule because I have no idea if I can get anotherone."
+'Ah, ok
+You say, "Ah, ok."
+'Which ship did you bring over here?
+You ask, "Which ship did you bring over here?"
+squeeze lily
+You squeeze Lily Kaise, Phoenix Dissident affectionately.
+Lily Kaise, Phoenix Dissident says, "I just broughta fighter or flitter. I
+forget which one as I just wanted to bring one I could replace if something
+happened to it."
+'Makes sense.
+You say, "Makes sense."
+smile
+You smile.
+Lily Kaise, Phoenix Dissident says, "Then I went into the other one and sadly a
+felo had nested. I got to it just in time as they were starving so I had to take
+them to hyperion or I would have been back sooner. Then I decided to check on
+Asteria as she was asleep when I left the first time and she had awakened so I
+brought her."
+Lily Kaise, Phoenix Dissident smiles.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+-lily I love you.
+You say to Lily, "I love you."
+Lily Kaise, Phoenix Dissident asks, "Hope it's ok that I came over here?"
+'Of course! I'm glad you did!
+You exclaim, "Of course! I'm glad you did!"
+Lily Kaise, Phoenix Dissident smiles at you.
+beam lily
+You beam at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident beams at you.
+A Tardick lizard named Asteria curls its tail loosely around Lily Kaise, Phoenix
+Dissident's neck.
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's
+shoulder, blinks its yellow eyes slowly, utterly indifferent to its
+surroundings.
+Lily Kaise, Phoenix Dissident navigates her metallic gold touch einrophone to a
+text-heavy application and peers at the screen.
+Lily Kaise, Phoenix Dissident turns on her metallic gold touch einrophone and
+taps at it briefly.
+cuddle lily
+You cuddle up to Lily Kaise, Phoenix Dissident.
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+Lily Kaise, Phoenix Dissident is sitting on an overstuffed dark green chair.
+You can go east, southeast, and out.
+Lily Kaise, Phoenix Dissident cuddles up to you.
+Lily Kaise, Phoenix Dissident kisses you on the lips.
+kiss lily on lips
+You kiss Lily Kaise, Phoenix Dissident on the lips.
+Lily says to you, "I love you. Have a good day."
+-lily I love you too. Have a good day.
+You say to Lily, "I love you too. Have a good day."
+Lily Kaise, Phoenix Dissident says, "I'll be here when I can."
+smioe
+I don't understand that.
+smile lily
+You smile at Lily Kaise, Phoenix Dissident.
+Lily Kaise, Phoenix Dissident wraps her arms around you, pulling you close.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+Lily Kaise, Phoenix Dissident blinks heavily and then dozes off.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise, Phoenix Dissident's shoulder.
+locate keychain
+The following could be located:
+Starship                                Location
+                                --
+Unreality Programming 812               New Earth
+Revenge                                 The Torus (Dock Alpha)
+Shooting Star                           The Torus (Dock Alpha)
+Draconis                                New Earth
+Seeker's Wrath                          New Earth
+Treasure Seeker                         New Earth
+William Dove                            The Torus (Dock Alpha)
+Supernova                               The Torus (Dock Alpha)
+Triple Action Faction!                  New Earth
+Star Of Destiny                         The Torus (Dock Alpha)
+Meteor Shower                           New Earth
+Israel Hope                             The Torus (Dock Alpha)
+Seventh Star                            The Torus (Dock Alpha)
+Profitable Cause                        AFW Command (Dock Four)
+Flash                                   New Earth
+Triple Trouble                          New Earth
+Fearless                                The Torus (Dock Alpha)
+Lidia's Pride                           New Earth
+Fait Accompli                           The Torus (Dock Alpha)
+Flying Cat                              The Torus (Dock Alpha)
+Firestorm                               The Torus (Dock Alpha)
+Kitten Overdrive!                       The Torus (Dock Alpha)
+Capricious                              The Torus (Dock Alpha)
+Stars Wanderer                          The Torus (Dock Alpha)
+The Best Way To Travel                  The Torus (Dock Alpha)
+Daisy May                               The Torus (Dock Alpha)
+Starlight Express                       The Torus (Dock Alpha)
+Star Kittens                            The Torus (Dock Alpha)
+Money Maker                             The Torus (Dock Alpha)
+RockIt!                                 The Torus (Dock Alpha)
+Star Creations                          New Earth
+Vengeance                               The Torus (Dock Alpha)
+Courageous                              New Earth
+Striking Distance                       The Torus (Dock Alpha)
+Chemeketa                               New Earth
+Troubleshooter's Rescue                 New Earth
+Double Trouble                          New Earth
+Seeker's Wrath                          New Earth
+Critical Strike                         The Torus (Dock Alpha)
+No Mercy                                The Torus (Dock Alpha)
+Asteroid King                           New Earth
+Roid Seeker                             New Earth
+Rockahaulic                             New Earth
+Starseeker's Beacon                     New Earth
+Kalina                                  The Torus (Dock Alpha)
+The Annexation Of Barnham's Redoubt     AFW Command (Dock Three)
+Star Constructor                        New Earth
+Under Construction                      New Earth
+Starseekers Spare Parts                 New Earth
+Unicorn                                 The Torus (Dock Alpha)
+Segue                                   Chetumal
+Celestial Explorer                      The Torus (Dock Alpha)
+Justen Moon                             The Torus (Dock Alpha)
+Happy                                   The Torus (Dock Alpha)
+Building Capital                        AFW Command (Dock Four)
+Concertoed Effort                       Old Earth
+Raging Seas                             The Torus (Dock Alpha)
+Ocean Of Diamonds                       The Torus (Dock Alpha)
+The Wolves Have Claws                   Old Earth
+Praying Mantis                          The Torus (Dock Alpha)
+Libertarians Station Transport Alpha    Old Earth
+Someday We Will Foresee Obstacles       Old Earth
+Construction Zone                       Old Earth
+Herding Cats                            AFW Command (Dock Four)
+Effervescent Zephyr                     Chetumal
+Bari Fighter                            New Earth
+Chasing Turtles                         New Earth
+Starfish                                The Torus (Dock Alpha)
+Annie                                   The Torus (Dock Alpha)
+Deadly Strike                           New Earth
+SEAS Spare Parts                        AFW Command (Dock Four)
+Bonzai Trout                            The Torus (Dock Alpha)
+Albatross                               The Torus (Dock Alpha)
+Albatross                               The Torus (Dock Alpha)
+RUNE Module Hauler                      AFW Command (Dock Four)
+Note: Not all spaceports possess the starship locator function.
+A Tardick lizard named Asteria flicks its tongue out from its perch on Lily
+Kaise, Phoenix Dissident's shoulder.
+who
+There appear to be about 6 pilots recently active.
+The communicator network detects:
+Shule Elemmire, Phoenix Dissident  (A) [m]
+Damien Goss  (L)
+Emily Ford  (L)
+Morris Corlew  (L)
+Ali Candan  (L)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 17 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A Tardick lizard named Asteria, perched on Lily Kaise, Phoenix Dissident's
+shoulder, blinks its yellow eyes slowly, utterly indifferent to its
+surroundings.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[Tactical Communication] Erik Goodwin transmits, "Anyone for group tesla?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise, Phoenix Dissident slumps in an overstuffed dark green chair and goes
+to sleep.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+who
+There appear to be about 9 pilots recently active.
+The communicator network detects:
+Erik Goodwin  (L)
+Katina Faye  (L)
+Johann Schraft  (L)
+Tanny Hill  (L)
+Wendy Arroyo  (L)
+Tobias Hawthorne  (L)
+Melinda Michaels  (L)
+Ali Candan  (L)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 20 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+Lily Kaise, Phoenix Dissident is sleeping on an overstuffed dark green chair.
+You can go east, southeast, and out.
+out
+**
+ Welcome back to Star Conquest!
+**
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: New pilots: Don't forget to talk to your liaison officer! He can give you
+a lot of early points and credits!
+**
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+The four-person mule "Lion's Den" is landed here.
+You see an automatic teller machine, a small trash can, and a sanitation drone
+here.
+You can go north, south, west, and down.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+n
+w
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+get report
+I see no "report" here.
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+n
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Conference Room]
+You see the AEU civilian pilot corps voting machine, the AEU nomination machine,
+a patriotically painted donations box, and a shiny green trash bin here.
+You can go south.
+use nomination
+There are no nominees yet for Industrial Whip.
+There are no nominees yet for Ground Squad Leader.
+There are no nominees yet for Voice of the Corps.
+There are no nominees yet for Space Defense Captain.
+Please choose a position to nominate yourself for.
+[1] Industrial Whip
+[2] Ground Squad Leader
+[3] Voice of the Corps
+[4] Space Defense Captain
+Enter your selection:
+4
+You have entered your candidacy for Space Defense Captain!
+s
+You grab the door handle as you leave.
+The door to the north suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+s
+You can go north, east, south, and west.
+s
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+You can't go that way.
+out
+[New Earth; Spaceport Landing Pad]
+d
+The four-person mule "Lion's Den" is landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+[New Earth; Piper Wincott Memorial Garage]
+You see a large number of stored starships here.
+You see a sanitation drone here.
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+Lily Kaise, Phoenix Dissident is sleeping on an overstuffed dark green chair.
+You can go east, southeast, and out.
+sit chair
+You sit down on an overstuffed dark green chair.
+sit chair
+You're already sitting.
+wrap lily
+You wrap your arms around Lily Kaise, Phoenix Dissident, pulling her close.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 1: Alliance Communication] Eli transmits in a haunted tone, "Does anyone
+know if all the dead have been accounted for?"
+tra 1 I don't. I'm sorry.
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"I don't. I'm sorry."
+[AEU | 1: Alliance Communication] Rogue Pilot Eli Grey transmits, "No one has
+any reason to be sorry to me."
+[AEU | 1: Alliance Communication] Rogue Pilot Eli Grey transmits, "You would
+have been well within your right to simply tell me to go fuck myself."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I haven't heard
+anything about it from the office."
+tra 1 It's really unfortunate what happened, but I would never say that to
+anyone. Especially, a fellow pilot.
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"It's really unfortunate what happened, but I would never say that to anyone.
+Especially, a fellow pilot."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "But I asked them
+to send any related reports to Ather."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "If they want to
+send them before the start of the next term."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Anybody seen
+Ather lately?"
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "He was around
+very quickly earlier."
+[AEU | 1: Alliance Communication] Rogue Pilot Eli Grey transmits, "I'm really
+scared guys... I never meant for anyone to get hurt, I hope you all know that."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Yes, everyone
+knows that."
+[AEU | 1: Alliance Communication] Rogue Pilot Eli Grey transmits, "The Merry
+Band is dropping supplies? I want to do that, how can I do that, anyone know?
+Are they just leaving them on the pad or something?"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "How's it going?"
+who
+There appear to be about 14 pilots recently active.
+The communicator network detects:
+Rogue Pilot Eli Grey  (A)
+Johnathon Triggs  (A) [c]
+Constantine Stone  (A)
+Tanny Hill  (L)
+Johann Schraft  (L)
+Sean Sloan  (L)
+Sarah Bellamy  (L)
+Katina Faye  (L)
+Tobias Hawthorne  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Ali Candan  (L)
+Michael Kennedy  (F)
+Your communicator also reports that there is 1 pilot who was active but dropped
+out of communications.
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 24 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A metallic gold touch einrophone beeps quietly for attention, indicating a new
+post in AEU/General.
+A metallic silver metachannel FTL communicator chimes softly as it receives a
+new notice.
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (19/32)
+[3] Register on Directory
+[4] View Missed Calls (1)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+7
+You navigate your metallic gold touch einrophone to a text-heavy application and
+peer at the screen.
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+* [2] AEU
+  [3] Organizations
+  [4] OOC
+--
+  [5] Quit
+--
+Enter your selection:
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Have a party in your pilots' lounge once in a while. You'll definitely
+feel inspired to earn more points afterward!
+**
+2
+--
+FTL Interalliance Communications Network
+--
+* [1] General
+  [2] Trading
+  [3] Battle Reports
+  [4] Debate
+  [5] Strategy
+  [6] Common Knowledge
+--
+  [7] Return
+  [8] Quit
+--
+Enter your selection:
+1
+--
+FTL Interalliance Communications Network
+--
+  [1] Status of Frontier Cluster         (Voice of the Corps Annie Lynn)
+  [2] Re: Status of Frontier Cluster     (Jonathan Gray)
+  [3] Re: Status of Frontier Cluster     (Tamra Lazari)
+  [4] Re: Status of Frontier Cluster     (Akira Kazama)
+  [5] Meeting to discuss the Non aggres  (Voice of the Corps Annie Lynn)
+  [6] Information about our recent hist  (Ather Jammoa)
+  [7] Re: Meeting to discuss the Non ag  (Samuel Ericson)
+  [8] Re: Meeting to discuss the Non ag  (Kim Saunders)
+  [9] Updated information about the pac  (Annie Lynn)
+  [10] Re: Updated information about th  (Tamra Lazari)
+  [11] Re: Updated information about th  (Annie Lynn)
+  [12] Re: Updated information about th  (Cressida Harcourt)
+  [13] Re: Updated information about th  (Jonathan Gray)
+  [14] Re: Updated information about th  (Annie Lynn)
+  [15] Ground Combat Classes!            (Ground Squad Leader Angel Daridin)
+  [16] Proposal for vote                 (Voice of the Corps Annie Lynn)
+  [17] Re: Proposal for vote             (Tamra Lazari)
+  [18] Re: Proposal for vote             (Annie Lynn)
+  [19] Re: Proposal for vote             (Lily Kaise)
+  [20] Re: Proposal for vote             (Ather Jammoa)
+  [21] Re: Proposal for vote             (Lily Kaise)
+  [22] Re: Proposal for vote             (Kim Saunders)
+  [23] Re: Proposal for vote             (Ather Jammoa)
+  [24] Re: Proposal for vote             (Kim Saunders)
+  [25] Re: Proposal for vote             (Tamra Lazari)
+  [26] Re: Proposal for vote             (Annie Lynn)
+  [27] Re: Proposal for vote             (Lily Kaise)
+  [28] Further information, such as it   (Annie Lynn)
+  [29] Re: Ground Combat Classes!        (Angel Daridin)
+  [30] Re: Ground Combat Classes!        (Ather Jammoa)
+  [31] Re: Ground Combat Classes!        (Angel Daridin)
+  [32] Proposed agreement on slave trad  (Annie Lynn)
+  [33] Re: Proposed agreement on slave   (Tamra Lazari)
+  [34] Proposed written statement cover  (Annie Lynn)
+  [35] Appology to Jonathan Gray         (Annie Lynn)
+  [36] Official position on the problem  (Annie Lynn)
+  [37] Important information about Fron  (Annie Lynn)
+  [38] Re: Official position on the pro  (Pilot Liaison Andrew Lambeth)
+  [39] AEU Decoy Station Placement Resu  (The Accord of Free Worlds)
+  [40] Commissioned Starchart            (Voice of the Corps Nils Aristov)
+  [41] Laws Concerning Animal Cruelty    (Voice of the Corps Nils Aristov)
+  [42] Assisting Other alliances with i  (Lily Kaise)
+  [43] Early Voting for the Presidentia  (Lily Kaise)
+  [44] Battlesuit fund                   (Kim Saunders)
+  [45] Re: Battlesuit fund               (Lily Kaise)
+  [46] Re: Battlesuit fund               (Kim Saunders)
+  [47] AEU Solo Combat Fighter Challeng  (Shule Elemmire)
+* [48] access to medical creches for ci  (Rogue Pilot Eli Grey)
+* [49] How to make your own protest sig  (Lily Kaise, Phoenix Dissident)
+* [50] On my fate                        (Constantine Stone)
+--
+  [51] Return
+  [52] Post
+  [53] Quit
+--
+Enter your selection:
+50
+--
+FTL Interalliance Communications Network
+--
+Subject: On my fate
+Author: Constantine Stone
+Posted: 20:54 25 September 2317 GST
+--
+Pilots,
+ 
+I can't begin to apologize enough for how I've let you all down, but I'll make
+the only apology I can. I'm sorry. I'm sorry for what I've done to the Union, to
+the people I've hurt, and to the corps. I know what I've done is going to make
+all of your lives harder, and I would give anything to undo it.
+ 
+That said, the government said they would press no charges against me if I
+agreed to uphold my pilot contract, that is, if I acknowledged that there is
+nothing I can do to stop Outccord, and if I agreed to work for the Union and her
+interests. They weren't clear about what would happen if I declined, but did say
+that my license would be revoked at a minimum.
+ 
+I accepted this agreement.
+ 
+I asked for a rough estimate of the damages I caused, and was given an estimate
+of 50 billion. I'm only worth 4.5, so I said I would return to work to make the
+victims of the tragedy whole in the only way I can. 
+ 
+I understand that many of you are going to find my taking this deal to be
+disagreeable. I don't blame you for feeling this way. Part of me feels this way
+myself. But if I can do anything to undo the damage I've done, it's my desire
+and responsibility to do so.
+ 
+ 
+Once I've repaid this debt, I may turn in my license with the full understanding
+that I'll no longer be adhering to the agreement. At that point the government
+will do whatever it wants with me.
+ 
+Part of me had wanted to spend time on Dure learning to forgive myself and live
+with what I've done. As I won't be doing that in the near future, I will be
+taking a leave of absence. I'm going to try to get details about the crash sites
+from the government, and if I can, I plan to spend the next few weeks working in
+the damaged communities.
+ 
+Once again, I'm sorry to have let you all down, and I do understand if the way
+I've chosen to deal with this makes you think less of me. I look forward to
+seeing you all again once I return.
+--
+[1] Previous
+[2] Return
+[3] Reply
+[4] Quit
+--
+Enter your selection:
+4
+Logged out of FTL Message Board Net.
+who
+There appear to be 20 pilots recently active.
+The communicator network detects:
+Rogue Pilot Eli Grey  (A)
+Johnathon Triggs  (A) [c]
+Shule Elemmire, Phoenix Dissident  (A) [m]
+Constantine Stone  (A)
+Jada Nelson  (L)
+Erik Goodwin  (L)
+Caleb Davenport  (L)
+Chase Marshall  (L)
+Emily Ford  (L)
+Tanny Hill  (L)
+Johann Schraft  (L)
+Sean Sloan  (L)
+Sarah Bellamy  (L)
+Katina Faye  (L)
+Tobias Hawthorne  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Ted Warburton  (F)
+Michael Kennedy  (F)
+Cheri Lindbergh  (M)
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+who
+There appear to be 20 pilots recently active.
+The communicator network detects:
+Rogue Pilot Eli Grey  (A)
+Johnathon Triggs  (A) [c]
+Shule Elemmire, Phoenix Dissident  (A) [m]
+Constantine Stone  (A)
+Jada Nelson  (L)
+Erik Goodwin  (L)
+Caleb Davenport  (L)
+Chase Marshall  (L)
+Emily Ford  (L)
+Tanny Hill  (L)
+Johann Schraft  (L)
+Sean Sloan  (L)
+Sarah Bellamy  (L)
+Katina Faye  (L)
+Tobias Hawthorne  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Ted Warburton  (F)
+Michael Kennedy  (F)
+Cheri Lindbergh  (M)
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+l
+[Starship "Deadly Strike"; Control Room]
+The control room is the hub of every starship. Large metal conduits protect
+thick bundles of wires carrying information from every part of the ship to this
+one location. A large transparisteel viewport provides a view out the front of
+the ship, but experienced pilots in space will have eyes only for the large
+starmap dominating the right side of the room. Standing before the viewport is
+the main control board, providing essential functions like the shipwide power
+lever and alert status. Secondary control boards can be pulled up and folded
+back to provide a working surface, or pulled down from recesses overhead as
+needed. Though the room is spacious enough for a few others to sit or stand, the
+entire architecture of the room is built around the small space before the
+control board and the person who will stand there: the starship's pilot. The
+status lights overhead are currently not receiving power. Looking through the
+windows, you see that the ship is in a garage.
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+Lily Kaise, Phoenix Dissident is sleeping on an overstuffed dark green chair.
+You can go east, southeast, and out.
+(You are sitting on an overstuffed dark green chair.)
+out
+You scramble to your feet.
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+[New Earth; Spaceport Landing Pad]
+The one-person flitter "The Jackal" is landed here.
+You see an automatic teller machine and a small trash can here.
+Johnathon Triggs is standing here.
+You can go north, south, west, and down.
+go office
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+n
+n
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+w
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+You rapidly enter a few numbers into a keypad next to the door.
+You open the door.
+[New Earth; Pilot Corps Liaison Office; Space Defense Captain]
+You see the Space Defense Captain terminal and a large metal filing cabinet
+here.
+You can go east.
+get report
+I see no "report" here.
+e
+You grab the door handle as you leave.
+The door to the west suddenly closes.
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+s
+s
+[New Earth; Pilot Corps Liaison Office; Corridor]
+You can go north, east, south, and west.
+[New Earth; Pilot Corps Liaison Office]
+You see a friendly cadet orientation officer here.
+You can go north, up, and out.
+out
+[New Earth; Spaceport Landing Pad]
+The one-person flitter "The Jackal" and the one-person cargo hauler "This Isn't
+The Hauler You're Looking For" are landed here.
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+The one-person flitter "The Jackal" is loaded onto an automated flatbed and
+slowly moved into a large garage.
+The reactionless drive of the one-person cargo hauler "This Isn't The Hauler
+You're Looking For" begins to hum slightly as the starship is powered up.
+d
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+enter
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+Lily Kaise, Phoenix Dissident is sleeping on an overstuffed dark green chair.
+You can go east, southeast, and out.
+who
+There appear to be 20 pilots recently active.
+The communicator network detects:
+Eli Grey  (A)
+Johnathon Triggs  (A) [c]
+Shule Elemmire, Phoenix Dissident  (A) [m]
+Constantine Stone  (A)
+Jada Nelson  (L)
+Erik Goodwin  (L)
+Caleb Davenport  (L)
+Chase Marshall  (L)
+Emily Ford  (L)
+Tanny Hill  (L)
+Johann Schraft  (L)
+Sean Sloan  (L)
+Sarah Bellamy  (L)
+Katina Faye  (L)
+Tobias Hawthorne  (L)
+Melinda Michaels  (L)
+Morris Corlew  (L)
+Ted Warburton  (F)
+Michael Kennedy  (F)
+Cheri Lindbergh  (M)
+Additionally, there are 10 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+where
+Your communicator reports that...
+At least two recently active pilots are relaxing at Outland City; Jitlada.
+At least one recently active pilot is relaxing at Manhattan Spaceport; Pilot
+Lounge.
+who
+There appear to be 19 pilots recently active.
+The communicator network detects:
+Eli Grey  (A)
+Johnathon Triggs  (A) [c]
+Shule Elemmire, Phoenix Dissident  (A) [m]
+Constantine Stone  (A)
+Jada Nelson  (L)
+Erik Goodwin  (L)
+Caleb Davenport  (L)
+Chase Marshall  (L)
+Emily Ford  (L)
+Tanny Hill  (L)
+Johann Schraft  (L)
+Sean Sloan  (L)
+Sarah Bellamy  (L)
+Katina Faye  (L)
+Tobias Hawthorne  (L)
+Morris Corlew  (L)
+Ted Warburton  (F)
+Michael Kennedy  (F)
+Cheri Lindbergh  (M)
+Additionally, there are 11 pilots who appear to have their communicators on but
+have not recently been active.
+Final total: 30 pilots.
+Want to know if anyone's relaxing in a public venue? Check WHERE!
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Ugh.. all this stuff has
+left me so broke."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "What stuff?"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Striking, and all the
+credits I spent on various things."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Folks probably don't
+realize it, but I've actually spent quite a few credits on various things
+twoards what we were doing."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "I hope all was
+worth it? In the end, that is.."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Some are
+wondering if there is any point to this strike now... And some are wondering
+what your point was... with the other day. Or, what point you were trying to
+make?"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Well, no. Especially not
+this most recent tragic course of action. Outccord will go through in a few
+days, and there's not really anything else we can do to stop it. It's inevitable
+now."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Yeah... It was
+probably inevitable anyways, without this tragic event."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Some are wondering if
+there's any point to it? Most folks seemed to understand the point of it when
+pilots from all alliances showed up to the protests."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "IF the Outccord
+goes through... what point was there to the strike then? All it did then, is
+hurt our Corp."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Best then wins..
+again?"
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "If it goes
+through, there was no point."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I hope you won't
+blame us for trying."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Nope."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Not us, as in
+Eli and I."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Definitely blame
+us for what we've done."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "But a lot of
+people supported the strike because it seemed like our only option at the time."
+Tra 1 They're right. People from all alliances suported the strike.
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"They're right. People from all alliances suported the strike."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "/WE/ need to find
+a solutin or put together something on our own... as civilian pilots. And maybe
+establish again with the Accord."
+tra 1 supported.
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"Supported."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Yeah..."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "If Best doesn't.
+We should."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "We can't really do it on
+our own. We're just civilians."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "SO?"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "We should certainly try
+to do as much work for them as we can though, once everyone starts back to
+working."
+tra 1 They have the power to revoke your license and they help subcidize much of
+the costs of ships.
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"They have the power to revoke your license and they help subcidize much of the
+costs of ships."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "That sounds like
+blackmail..."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Erm.. blackmail?"
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, ""we hold power to
+revoke your license. Do as we say, or else..""
+[AEU | 1: Alliance Communication] Eli Grey transmits, "We wouldn't be able to
+afford the cost of a starship without the subsidization."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Well yeah, the same thing
+goes for any exmployer."
+[AEU | 1: Alliance Communication] Eli Grey transmits, ".. for any employer."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "I hope you guys will
+forgive me, but I took a deal offered to me by our new liaison... I don't have
+any fight left in me anymore anyways, not after the mistakes of the other day."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "What was the
+deal?"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Our new liaison is nice
+by the way. I actually think she will be a benefit to the corps."
+tra 1 What is her name?
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"What is her name?"
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Antoinette
+Richard."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I wrote a bit
+about the deal in my post on the general board."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Yeah, Antoinette
+Richards."
+tra 1 Oh, I read the post. Somehow I missed the name.
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"Oh, I read the post. Somehow I missed the name."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Oh, I didn't
+mention her in the post."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Just the deal."
+tra 1 oh, ok.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Basically, I go back to
+work and stop trying to get people to rise up, and they don't throw me in prison
+and throw away the key."
+[AEU | 1: Alliance Communication] Shule Elemmire, Phoenix Dissident transmits,
+"Oh, ok."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "I did tell her, however,
+that I don't control what the other pilots do."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "So
+are you going to take the deal too then, Eli?"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "I already did, Ather. I
+understand if you want to kick me out of invaders. I won't blame you at all."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "I was
+already contemplating ending the strike regardless. We no longer really have a
+leg to stand on."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Yeah, exactly."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "It's all my fault... I'm
+sorry I let you guys down."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "It's not all
+your fault."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "And guys, if
+they had let me discuss this with you, I would have."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I would have
+gone to Dure if everyone agreed it was best."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "And I can still
+surrender my license."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Oh..."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Alright then.. Ather."
+tra org Please don't surrender your license.
+[Space Explorers Amidst The Stars] Shule Elemmire, Phoenix Dissident transmits,
+"Please don't surrender your license."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "I feel like a
+dog taking the deal, but I don't have nearly enough money to feel that I've made
+the victims whole."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "As much as I
+can, at any rate."
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "So I intend to
+stay on at least until I accumulate 50 billion for them."
+tr org Well, please come talk to Lily and I before you surrender your license.
+The AEU needs good pilots. We can all help you get through this.
+[Space Explorers Amidst The Stars] Shule Elemmire, Phoenix Dissident transmits,
+"Well, please come talk to Lily and I before you surrender your license. The AEU
+needs good pilots. We can all help you get through this."
+Your metallic gold touch einrophone trills quietly, indicating a new story has
+been posted under "AEU."
+tra org If the government truly thought that badly of you, you would have
+already been thrown into prison.
+[Space Explorers Amidst The Stars] Shule Elemmire, Phoenix Dissident transmits,
+"If the government truly thought that badly of you, you would have already been
+thrown into prison."
+use phone
+Your number: 0010-18113
+What would you like to do with your metallic gold touch einrophone?
+[1] Dial
+[2] Manage Contacts (19/32)
+[3] Register on Directory
+[4] View Missed Calls (1)
+[5] Listen to Voicemail (1)
+[6] Set Voicemail Greeting
+[7] Read Message Boards
+[8] Clear Unread Message Board Posts
+[9] Newsreader
+[10] Space Station Reference
+[11] Activate Holovid
+[12] Silence
+[13] Nothing
+Enter your selection:
+9
+You navigate your metallic gold touch einrophone to a news application.
+1
+=================================================
+Affiliated Interalliance Press Services Newsfeeds
+=================================================
+[1] Unread
+[2] Recent
+[3] Interalliance
+[4] AEU
+[5] EAOS
+[6] Fringe
+[7] League
+[8] Mutuality
+[9] Economy
+[10] Sports
+[11] Entertainment
+[12] Tabloid
+[13] Exit
+Enter your selection:
+====================
+Recent AEU Headlines
+====================
+* 9/24 Starship Crashes Deemed "Tragic Accident"; Pilots Responsible Pledge
+Themselves to Unity and Promise to Pay for Damage [25 September 2317] (NEN)
+Return to the category menu? [Enter `yes' or `no']
+n
+You return your metallic gold touch einrophone to the main screen.
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Huh..."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "I can't read that because
+my phone's plan is out and I can't afford to pay it."
+out
+[Starship "Deadly Strike"; Airlock]
+You can go out and enter into the ship.
+out
+You exit the ship.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+u
+w
+[New Earth; Spaceport Landing Pad]
+w
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+w
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+[New Earth; Spaceport East]
+You see a sanitation drone here.
+You can go northeast, east, southeast, south, southwest, and west.
+[New Earth; Spaceport East]
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits,
+"Basically they released a puff piece saying that it was a tragic accident, and
+you and Constantine will be working towards paying it off."
+se
+[New Earth; Spaceport Mail Room]
+You can go northwest and down.
+list
+    ~|~  Mail Room  ~|~
+     [1] Letter                5,000.00    
+     [2] One-Item Package      6,000.00    
+     [3] Three-Item Package    8,000.00    
+     [4] Five-Item Package     9,000.00    
+     [5] Ten-Item Package      10,000.00   
+     [6] Credit Chip           7,500.00    
+     [7] Letter Portfolio      50,000.00   
+buy 6
+You order a credit chip.
+fill chip
+How many EAOS credits would you like to fill onto this credit chip?
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "IT says..
+"Starship crashes deemed "Tragic Accident"; Pilots responsible pledge themselves
+to Unity and promise to pay for damaage."
+150000000
+You transfer 150,000,000.00 credits to a credit chip.
+write chip
+You begin writing on a credit chip.
+Please enter your message:
+[Type lines of input; use `.' to end or `@abort' to abort the command.]
+Here, pay your  phone bill and whatever else you need.
+*
+Thanks for all of your work and effort.
+*
+.
+--
+Here, pay your  phone bill and whatever else you need.
+Thanks for all of your work and effort.
+--
+Is this okay? [Enter `yes' or `no']
+y
+You write down your message on a credit chip.
+send chip
+Please enter the name of who you want to send your credit chip to:
+eli grey
+Your credit chip is being sent to: Eli Grey.
+Is this okay? [Enter `yes' or `no']
+y
+You slide the credit chip into the postal machine.
+nw
+[New Earth; Spaceport East]
+e
+You see a trash can here.
+You can go north, northeast, east, southeast, south, southwest, west, northwest,
+and down.
+e
+e
+[New Earth; Spaceport East]
+e
+You can go northeast, east, southeast, south, southwest, and west.
+e
+e
+[New Earth; Spaceport Bridge]
+You see a trash can and a long white plasteel bench here.
+You can go east and west.
+[New Earth; Spaceport Landing Pad]
+You see an automatic teller machine and a small trash can here.
+You can go north, south, west, and down.
+You can't go that way.
+d
+You can't go that way.
+You can't go that way.
+[New Earth; Piper Wincott Memorial Garage]
+You can go up.
+enter dead
+[Starship "Deadly Strike"; Airlock]
+enter
+You can go out and enter into the ship.
+[Starship "Deadly Strike"; Control Room]
+You see a decoy beacon launcher, a wormhole drive tracer, a small hot beverage
+dispenser, a small hot coffee dispenser, an overstuffed dark green chair, a
+compact white refrigerator, and a small red insulated cooler here.
+Lily Kaise, Phoenix Dissident is sleeping on an overstuffed dark green chair.
+You can go east, southeast, and out.
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Eli... I'm
+curious. How much do you and Stone have to pay for damages? In total."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "That's one of the most
+accurate headlines in a while though. Half expected it ot say that I supported
+Outccord now or something."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "There
+is no point for them to mince words anymore. They won, we lost."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "She said I just had to go
+back to abiding by my contract and not to encourage anymore rising up."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "You
+heard me AEU folks! If you haven't already, back to work."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits,
+"Constantine, send a notice stating that the strike is over."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I didn't make
+that post on the general board because I figured everyone would find the deal
+distasteful. However, it would answer a lot of their questions."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Okay."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "You
+posted it on AEU/general, not general/general."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "I'm a little surprised, 
+but Iunderstand it. I did tell her that just because Constantine I stopped that
+didn't mean everyone would."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I know, but it
+occurred to me that everyone is going to have questions about it."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "So maybe I
+should have posted it on general/general."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "I was
+thinking of calling off the strike well before your deals were presented to you
+both. I was talking to the other pilots about it yesterday afternoon."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "For
+pretty much the reaso nI just stated on general comms."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Yeah. I mean we didn'
+tmean to hurt anyone, but honestly if that didn't have an effect, I'm not sure
+what in the hell would have."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits, "I'm
+going to do my own part to help for the recovery. Stay tuned for an
+announcement."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "And the damages are fifty
+billion."
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Some good news at least,
+she said that the injured will be patched up in no time and that it will be paid
+for by Garner Care."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Ather, I would
+like to make sure I pay my full share of the damages."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "If that means
+paying you back for money you give, I'd still like to."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Ugh.. I can't even afford
+a transport."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I can front you
+the money, Eli."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Nah constantine, you've
+done enough for me already and all it's done is caused you strife. I'll be
+alright."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Let me do it.
+We'll be doing a good thing together."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "It might be a
+good way to start moving forward."
+[AEU | 1: Alliance Communication] Johnathon Triggs transmits, "Ather, what
+should we do now... about the Outccord? WE know that this is a bad idea. Do we
+keep assisting and using our own personal resources to assist the Accord?"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Well. Ok constantine."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "I'll meet you on
+the bridge."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Ok."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Maybe I will have enough
+to at least upgrade it a little. I think I've got a ship I could probably sell,
+too."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Thank you shule."
+read comm
+You glance at your communicator's screen.
+Notice from the Voice of the Corps: Pilots, the strike is over. In the wake of
+the recent tragedy, the corps can't be refusing to work with the government.
+Please return to work as soon as you are able. [21:46 25 September 2317 GST]
+There is one board post.
+[Space Explorers Amidst The Stars] Constantine Stone transmits, "Sorry, I got
+sidetracked. It will be a long while before I think about retiring. I'll repay
+my debt first, for sure."
+[AEU | 1: Alliance Communication] Rogue Ace Pilot Ather Jammoa transmits,
+"Remember, stay tuned for an upcoming announcement. I must dash."
+[AEU | 1: Alliance Communication] Eli Grey transmits, "Sorry, I'm on my way. I
+had already gone all the way to United Freight before I realized."
+[AEU | 1: Alliance Communication] Constantine Stone transmits, "Take your time."
+quit
+    * You have been disconnected. Please come back soon. *
+[0m#SESSION 'StarConquest' DIED.[0m

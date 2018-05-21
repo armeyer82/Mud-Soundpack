@@ -1,0 +1,451 @@
+[0m00:00:00[0m
+[0m01:00:00[0m
+[0m03:00:01[0m
+[0m04:00:00[0m
+[0m05:00:00[0m
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+l
+#cursor zap
+[0m#ERROR: #CURSOR {ZAP} IS NOT A VALID OPTION.[0m
+#cursor zap
+[0m#ERROR: #CURSOR {ZAP} IS NOT A VALID OPTION.[0m
+#zap
+[0m#ZZZZZZZAAAAAAAAPPPP!!!!!!!!! LET'S GET OUTTA HERE!!!!!!!![0m
+[0m#SESSION 'StarConquest' DIED.[0m
+Welcome to...       **
+                   **
+                  ** ******* **** ********
+                 **  ****** **  ** ***  ***
+                  **   **  ******** *******
+                   **  ** **      ** **  **
+                    ** ** **      ** **   **                   
+         _______    ** ** **      ** **    **   ___________
+        /       \  **  ** **      ** **     ** |           |
+       /    ____/ **                         **|___     ___|
+       |   /     **                           **   |   |
+       |   |    _____ _____ _____ _   _ _____ _____|   |
+       |   \___/  _  |  _  /  _  | | | |  -- | ____|   |
+       \       | |_| | | | | |_| | |_| | ____|____ |   |
+        \______\_____|_| |_\___  |_____|_____|_____|___|
+                               | |_
+                               | | |
+                                \_/
+Official Website: http://squidsoft.net
+-------------------------------------------------------------------------------
+Humanity has just emerged from the lowest point in its collective history, and
+the closest it has been to extinction since the advent of agriculture. By the
+year 2304, the Coalition of humans and their alien allies the Jinu has spread
+across the stars, and thought themselves powerful. But the Outsiders, an alien
+empire occupying vast reaches of Rimward space, proved them wrong. First contact
+between the two allies was severed, and suddenly humanity was alone. Then the
+Outsiders attacked in force, and human planets and governments fell one by one.
+                         It was the apocalypse.
+But contrary to the beliefs of many, not all hope was lost. After five years,
+a single starship, the Percival Lowell, returned from Rimward space, bringing
+with it the means to nullify the Outsiders' greatest weapon. With this, and the
+help of many other brave pilots, the occupying Outsiders were driven off human
+               worlds and back to where they came from.
+ Humanity is now trying to rebuild, and trying to regain what it has lost. The
+Outsiders are finished with occupation, and now desire only to see humans
+extinct.
+New threats and new mysteries seem to appear every day. In the midst of it all,
+civilian starships span the stars, maintaining an open threat against any new
+       invasion and trying to make a few credits while they're at it.
+You too have felt the lure of this; the desire for a unique freedom that most
+citizens will never know, the drive to explore, the need to defend your species,
+         and yes, greed for the vast wealth that is to be had.
+                   It is time to take to the stars.
+-------------------------------------------------------------------------------
+Welcome to the original and still the most innovative pulp science fiction
+multiplayer roleplaying adventure!
+Originally opened in its classic form on 19 December 1998! Reopened in its new
+iteration on 28 February 2009!
+All original work (including setting, non-player characters, design, source
+code, all related background material, and all text) located in this game or on
+the Squidsoft.net website is copyright (c) Squidsoft.net 1998-2015. Unauthorised
+reproduction prohibited.
+Warning: Speech in this game is largely uncensored, and sensitive individuals
+may find some other players offensive. The staff is ultimately not responsible
+for the words and actions of the players.
+The last server reset was at Thu Mar 23 09:58:18 2017 UTC
+We're on Twitter! @StarConquest for server status notifications and out-of-game
+contact!
+No new announcements to display.
+Squidsoft.net Account Support and Maintenance: http://moo.squidsoft.net:3333/
+If you do not yet have a Squidsoft.net account, type CREATE or visit the above
+web address.
+Please log in now.
+Account ID:
+Password: 
+siekanas
+Retrieving account information. Please wait...
+Invalid ID or password.
+Did you forget your ID or password? Go here and choose the appropriate option:
+http://moo.squidsoft.net:3333
+Account ID:
+siekanas
+Password: 
+EOF-0601
+Account: siekanas
+[1] Connect as Shule Elemmire
+[2] Delete Character
+[3] Log Out
+Enter your selection.
+1
+    * Welcome to Star Conquest! *
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+hand-made purple and amethyst flower quilt, a soft periwinkle cashmere blanket,
+a large periwinkle bed pillow, a large periwinkle bed pillow, and a set of
+lavender silk sheets on it, a large oval dark purple and light purple cloth rug,
+a pair of gray canvas sneakers, a pair of white socks, a soft red heather cotton
+polo, a pair of slim navy blue linen trousers, a pair of white cotton briefs, a
+small red ball containing a realistic Bari horde noisemaker, and a pair of tan
+suede clogs here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a hand-made purple and amethyst flower
+quilt, a soft periwinkle cashmere blanket, a large periwinkle bed pillow, a
+large periwinkle bed pillow, and a set of lavender silk sheets on it.)
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: New pilots: Don't forget to talk to your liaison officer! He can give you
+a lot of early points and credits!
+**
+[0m#SNOOPING SESSION 'StarConquest'[0m
+l
+[Starship "William Dove"; Living Quarters One]
+This is a small room designed to give crew members a place to sleep while on
+long journeys, and it isn't large enough to do much else. A long counter is
+bolted to the wall opposite the entryway, and two narrow bunks have been bolted
+to the two remaining walls. A small keypad is next to the door, controlling a
+simple lock. The status lights overhead are currently not receiving power.
+Looking through the windows, you see that the ship is in a garage.
+You see a dusky pink rattan cabinet, a glossy seashell pink ceramic felo chow
+bowl, a small oval turquoise rattan table with a glass top, a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+hand-made purple and amethyst flower quilt, a soft periwinkle cashmere blanket,
+a large periwinkle bed pillow, a large periwinkle bed pillow, and a set of
+lavender silk sheets on it, a large oval dark purple and light purple cloth rug,
+a pair of gray canvas sneakers, a pair of white socks, a soft red heather cotton
+polo, a pair of slim navy blue linen trousers, a pair of white cotton briefs, a
+small red ball containing a realistic Bari horde noisemaker, and a pair of tan
+suede clogs here.
+Lily Kaise is dozing on a white four poster rattan bed.
+You can go out.
+(You are lying on a white four poster rattan bed with a heart-shaped headboard
+and filmy deep purple hangings with a hand-made purple and amethyst flower
+quilt, a soft periwinkle cashmere blanket, a large periwinkle bed pillow, a
+large periwinkle bed pillow, and a set of lavender silk sheets on it.)
+afk
+You blink heavily and then doze off.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Xavier the big silver soldier felo marches in from the north.
+Xavier the big silver soldier felo marches out.
+[0m06:00:00[0m
+Lily Kaise lies back in a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a hand-made purple and amethyst
+flower quilt, a soft periwinkle cashmere blanket, a large periwinkle bed pillow,
+a large periwinkle bed pillow, and a set of lavender silk sheets on it and goes
+to sleep.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Lily Kaise suddenly awakens.
+[0m#SESSION 'StarConquest' ACTIVATED.[0m
+kiss lily
+You kiss Lily Kaise.
+**
+ Welcome back to Star Conquest!
+**
+ Consider voting for Star Conquest at MUD listing sites! Votes help keep new
+players coming to the game!
+ The Mud Connector: http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=Star+Con
+quest
+ Top Mud Sites:     http://www.topmudsites.com/vote-sc.html
+**
+ TIP: Your hair will grow over time, as will your beard... unless you're a girl,
+then hopefully you do not have to worry about the beard. If you hate your beard,
+Beard-B-Gone is also available.
+**
+wrap lily
+You wrap your arms around Lily Kaise, pulling her close.
+Lily Kaise blinks heavily and then dozes off.
+afk
+You blink heavily and then doze off.
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria's spine ridges flicker blue for a brief moment.
+[0m07:00:00[0m
+A Tardick lizard named Asteria trundles slowly out.
+Lily Kaise lies back in a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a hand-made purple and amethyst
+flower quilt, a soft periwinkle cashmere blanket, a large periwinkle bed pillow,
+a large periwinkle bed pillow, and a set of lavender silk sheets on it and goes
+to sleep.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+A Tardick lizard named Asteria trundles slowly into the area.
+A Tardick lizard named Asteria's spine ridges flicker blue for a brief moment.
+A hairy yellow eight-legged ArachnoPal named Higgins's unblinking eyes stare
+into the middle distance.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+Xavier the big silver soldier felo marches in from the north.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+A Tardick lizard named Asteria flicks its tongue out.
+Xavier the big silver soldier felo rears up and plants both pairs of forelegs on
+your leg, then rubs its head against you, purring softly.
+A Tardick lizard named Asteria trundles slowly out.
+Xavier the big silver soldier felo marches out.
+[0m08:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Prissy the big violet long-haired felo wanders in from the north.
+Prissy the big violet long-haired felo wanders out.
+Prissy the big violet long-haired felo wanders in from the north.
+[0m09:00:00[0m
+Prissy the big violet long-haired felo suddenly jumps onto a white four poster
+rattan bed with a heart-shaped headboard and filmy deep purple hangings with a
+hand-made purple and amethyst flower quilt, a soft periwinkle cashmere blanket,
+a large periwinkle bed pillow, a large periwinkle bed pillow, and a set of
+lavender silk sheets on it.
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on your leg, then rubs its head against you, purring softly.
+Prissy the big violet long-haired felo rears up and plants both pairs of
+forelegs on your leg, then rubs its head against you, purring softly.
+Prissy the big violet long-haired felo bats at a small red ball containing a
+realistic Bari horde noisemaker.
+Prissy the big violet long-haired felo bats at a small red ball containing a
+realistic Bari horde noisemaker.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+Prissy the big violet long-haired felo wanders out.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[0m10:00:01[0m
+A hairy yellow eight-legged ArachnoPal named Higgins taps his claws on the
+floor.
+A hairy yellow eight-legged ArachnoPal named Higgins crouches down for a moment.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 198,490.77 EAOS credits from a toll payment to AEU Rift Accelerating
+Battery-Powered Toll Station in Mir.
+[0m11:00:00[0m
+Shasta the big onyx soldier felo marches in from the north.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Indefatigable". The organization has earned
+247,757.21 credits.
+Shasta the big onyx soldier felo marches out.
+[Tactical Communication] Charles Holmes transmits, "Great. Ifs warship in belt
+of Orion."
+[Tactical Communication] Alko Delovega transmits, "Oh um, I am not close."
+[Tactical Communication] Charles Holmes transmits, "No problem. I decided to run
+very fast."
+[Tactical Communication] Alko Delovega transmits, "What is the type of the
+ship."
+[Tactical Communication] Charles Holmes transmits, "Ares."
+[Tactical Communication] Charles Holmes transmits, "I'm not sure of it's
+particulars. If it's a gunship or what not. I didn't stick around."
+[Tactical Communication] Alko Delovega transmits, "Good job."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Blueberry the hefty violet feathered felo wanders in from the north.
+Blueberry the hefty violet feathered felo wanders out.
+[0m12:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[0m13:00:01[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Message Beacon
+from the two-person medium transport "Cubic Zirconia". The organization has
+earned 42,987.86 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m14:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m15:00:00[0m
+A hairy yellow eight-legged ArachnoPal named Higgins skitters into the area.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+A hairy yellow eight-legged ArachnoPal named Higgins jerks his limbs, springing
+into the air briefly.
+A hairy yellow eight-legged ArachnoPal named Higgins skitters out.
+[Tactical Communication] Alko Delovega transmits, "What's wrong with ares
+today."
+[Tactical Communication] Melinda Michaels transmits, "What is going on?"
+[Tactical Communication] Alko Delovega transmits, "Ares was at orion earlyer,
+and now it is attacking me at 777."
+[Tactical Communication] Melinda Michaels transmits, "They are IFS, it's what
+they do."
+[Tactical Communication] Morris Corlew transmits, "They`}} be`n out at 777
+fai+ly f=e!*ently$l%t(ly."
+[Tactical Communication] Alko Delovega transmits, "Whenever I try to find a
+chance to land and use long range, they hit."
+[Tactical Communication] Erik Goodwin transmits, "You won't be able to, most
+likely."
+[0m16:00:00[0m
+[Tactical Communication] Erik Goodwin transmits, "Unless it's still the very
+badly placed one, in which case fly around on the outside of the sector and come
+around from that corner."
+[Hyperwave Relay] Melinda Michaels transmits, "Clear?"
+[Hyperwave Relay] Ali Candan transmits, "Is it?"
+[Hyperwave Relay] Morris Corlew transmits, "^*l =a!. I'm }t \8% looking for a
+b~acon.*Hang on."
+[Hyperwave Relay] Melinda Michaels transmits, "Hold on."
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+377,250.00 credits from a xenology submission.
+[Hyperwave Relay] Melinda Michaels transmits, "Use this then."
+[Hyperwave Relay] Morris Corlew transmits, "\o d{&!erence."
+[Hyperwave Relay] Morris Corlew transmits, "I'm trying to aim my hyperc|s^er for
+the To&@s, am at ninety-eight percent."
+[Hyperwave Relay] Melinda Michaels transmits, "You've got off course somehow.
+You are on the right track though."
+[Hyperwave Relay] Morris Corlew transmits, "I,know. Th,nks;f!r the :<fo/t~
+I'l~|find it. I c'+ &{totravel if I have to but *ould rather figu%e out %(ere I
+a[."
+Lily Kaise suddenly awakens.
+[Hyperwave Relay] Melinda Michaels transmits, "Garbled but yeah I am not going
+to keep doing that. You aren't that lost."
+[Hyperwave Relay] Morris Corlew transmits, "We)e you pinging)"
+[Hyperwave Relay] Melinda Michaels transmits, "Yes, you should have got it."
+[Hyperwave Relay] Melinda Michaels transmits, "From south of Campeche."
+[Hyperwave Relay] Morris Corlew transmits, "Ok. Thank you. ]hat gives me a
+clue."
+Lily Kaise stands up from a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a hand-made purple and amethyst
+flower quilt, a soft periwinkle cashmere blanket, a large periwinkle bed pillow,
+a large periwinkle bed pillow, and a set of lavender silk sheets on it.
+Lily Kaise glides out.
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Nuclear Temporary Station from the
+two-person medium transport "Indefatigable". The organization has earned
+714,209.38 credits.
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 63,168.98 EAOS credits from a toll payment to League Rift Accelerating
+Solar Toll Station in The Belt of Orion.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+Lily Kaise glides in from the north.
+Lily Kaise lies down on a white four poster rattan bed with a heart-shaped
+headboard and filmy deep purple hangings with a hand-made purple and amethyst
+flower quilt, a soft periwinkle cashmere blanket, a large periwinkle bed pillow,
+a large periwinkle bed pillow, and a set of lavender silk sheets on it.
+Lily Kaise blinks heavily and then dozes off.
+[0m17:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[0m18:00:00[0m
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
+[0m19:00:00[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Message Beacon
+from the two-person medium transport "Sifter". The organization has earned
+120,556.43 credits.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the two-person flare
+"Vindication".
+[0m20:00:00[0m
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the two-person flare
+"Vindication".
+A metallic silver metachannel FTL communicator beeps insistently as it receives
+a new notice.
+Lily Kaise blinks heavily and then dozes off.
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+9,673,500.00 credits from a xenology submission.
+[Tactical Communication] Erik Goodwin transmits, "Beacons?"
+[Tactical Communication] Erik Goodwin transmits, "3 people."
+[Tactical Communication] Charles Holmes transmits, "Yes please."
+[Tactical Communication] Erik Goodwin transmits, "2 more."
+[Tactical Communication] Charles Holmes transmits, "Where to meet? Old Earth?"
+[Tactical Communication] Erik Goodwin transmits, "Yes."
+[Tactical Communication] Erik Goodwin transmits, "1 more."
+[Tactical Communication] Erik Goodwin transmits, "And now we're full. To the
+lounge."
+[0m21:00:00[0m
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the five-person strike
+gunboat "My Label Maker Ran Out Of Tape".
+[Tactical Communication] Joel Kringle transmits, "One for beacons?"
+[MTTS] atherj: Thanks, hosts!
+[MTTS] usfolks: You guys are working your buns off today. Thanks!
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Message Beacon
+from the two-person medium transport "Edmund Fitzgerald". The organization has
+earned 1,386,020.16 credits.
+[Tactical Communication] Morris Corlew transmits, "Well that was interesting.
+Ares jumped in and right back out as soon as it saw me."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "I see some
+activity underway, but no performance goals reached yet! Let's keep going!"
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the five-person strike
+gunboat "My Label Maker Ran Out Of Tape".
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Message Beacon
+from the five-person strike gunboat "My Label Maker Ran Out Of Tape". The
+organization has earned 453,767.15 credits.
+[0m22:00:00[0m
+[Notification from Space Explorers Amidst The Stars] A load of salvage has been
+received at League Salvage Processing Xenological Debris-Burning Message Beacon
+from the two-person medium transport "Edmund Fitzgerald". The organization has
+earned 2,471,922.17 credits.
+[Tactical Communication] Aisling the Fox transmits, "Are there three people who
+would like to do a couple beacons? Need two gunners and engineer for
+Storyteller."
+[Tactical Communication] Erik Goodwin transmits, "Sure I'll go."
+[Tactical Communication] Aisling the Fox transmits, "Earth lounge."
+[Tactical Communication] Aisling the Fox transmits, "Assuming Ali is coming, is
+there someone who wants to engineer?"
+[Tactical Communication] Aisling the Fox transmits, "Come come. Someone must
+want to engineer. It is easiest job."
+[Tactical Communication] Aisling the Fox transmits, "Alas, Ali."
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Looks like
+we've got some things going, but we haven't met any performance goals yet!"
+[0m23:00:00[0m
+[Notification from Space Explorers Amidst The Stars] The organization has
+received 198,932.86 EAOS credits from a toll payment to AEU Rift Accelerating
+Battery-Powered Toll Station in Mir.
+[Tactical Communication] Alko Delovega transmits, "Nest?"
+[Tactical Communication] Tanny Hill transmits, "I have an hour."
+[Tactical Communication] Alko Delovega transmits, "Anyone else?"
+[Tactical Communication] Tanny Hill transmits, "Missed a bit there, are things
+happening?"
+[Tactical Communication] Alko Delovega transmits, "Yeah chetumal."
+[Tactical Communication] Alko Delovega transmits, "You only have rental, tanny?"
+[Tactical Communication] Tanny Hill transmits, "Rental, Syrup, and a League I've
+never used."
+[Tactical Communication] Tanny Hill transmits, "I am here."
+[Tactical Communication] Alko Delovega transmits, "In a second."
+[Notification from Space Explorers Amidst The Stars] The organization has gained
+4,351,851.85 credits for a submission from a battle analysis scanner on AEU
+Battle-Scanning Nuclear Temporary Station involving the one-person bastille
+"Something Fast And Tragic".
+[AEU | 10: Conquest Status] An AEU pilot corps liaison transmits, "Come on, we
+can reach our performance goals if we try!"
