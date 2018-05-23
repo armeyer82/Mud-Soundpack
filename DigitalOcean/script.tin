@@ -1,9 +1,0 @@
-#CLASS {doctl} OPEN
-
-#EVENT {MINUTE}
-{
-	#system doctl compute droplet list --format="Name,Status"
-}
-
-
-#CLASS {doctl} CLOSE
