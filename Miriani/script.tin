@@ -199,6 +199,11 @@
 }
 {5}
 
+#EVENT {SESSION DISCONNECTED}
+{
+	StopRoomSound
+}
+
 #GAG              {Target: Starship}
 #GAG              {The room is filled with}
 #GAG              {You hear a deafening booming sound as repairs to the ship proceed.}
@@ -256,7 +261,7 @@
 #GAG              {has a lock on this starship.}
 #GAG              {has a lock on this starship.$}
 #VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.15}}
-#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{unpowered}{safe}{safe}{type}{starship}}
+#VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{type}{starship}}
 #VARIABLE         {soundpath}  {./Miriani/Sounds/}
 #VARIABLE         {volume}  {0.15}
 
