@@ -262,7 +262,7 @@
 #GAG              {has a lock on this starship.$}
 #VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.15}}
 #VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{type}{starship}}
-#VARIABLE         {soundpath}  {./Miriani/Sounds/}
+#VARIABLE         {soundpath}  {./Sounds/}
 #VARIABLE         {volume}  {0.15}
 
 #CLASS {Miriani} CLOSE
