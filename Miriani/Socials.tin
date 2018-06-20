@@ -30,13 +30,13 @@
 }
 {5}
 
-#ACTION {^#$#soundpack social | laugh | female}
+#ACTION {^#$#soundpack social | {laugh|laughs} | female}
 {
 	play General/Socials/LaughF@rnd{8}.wav
 }
 {5}
 
-#ACTION {^#$#soundpack social | laugh | male}
+#ACTION {^#$#soundpack social | {laugh|laughs} | male}
 {
 	play General/Socials/LaughM@rnd{6}.wav
 }

@@ -1,10 +1,5 @@
 #CLASS {Miriani} OPEN
 
-#ACTION {^A %* Lore computer beeps quietly, indicating that its TransLink}
-{
-	play General/Lore/track.wav
-}
-{5}
 
 #ACTION {^A %* flight control scanner announces, "%*"}
 {

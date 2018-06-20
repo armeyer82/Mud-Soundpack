@@ -165,11 +165,6 @@
 	+9
 }
 
-#MACRO {\eOn}
-{
-	stop
-}
-
 #MACRO {\eOp}
 {
 	f
