@@ -12,12 +12,6 @@
 }
 {5}
 
-#ACTION {^Coordinates: (%d, %d, %d)}
-{
-	#variable Scan[Coordinates] %1 %2 %3;
-	#var TC %1 %2 %3
-}
-{5}
 
 #ACTION {^Distance: %1}
 {
