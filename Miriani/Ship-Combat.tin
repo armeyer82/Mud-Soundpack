@@ -7,9 +7,23 @@
 }
 {5}
 
+#ACTION {The computer announces, "There is insufficient weapons-grade bardenium available for firing."}
+{
+	play Ship/Combat/NoBard.wav;
+	#line gag
+}
+{5}
+
 #ACTION {You hear a mechanical whine as the laser reflectors reorient themselves.}
 {
 	play Ship/Combat/reflectors1.wav;
+	#line gag
+}
+{5}
+
+#ACTION {You hear several scraping sounds as bardenium is transferred from the ship's storage to the cannons.}
+{
+	play Ship/Combat/CannonReload.wav;
 	#line gag
 }
 {5}

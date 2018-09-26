@@ -324,6 +324,12 @@
 }
 {5}
 
+#ACTION {^Announcement:}
+{
+	play General/Misc/Announcement.wav
+}
+{5}
+
 #ACTION {^Sensing adequate kindling, a bright, warm fire}
 {
 	play General/Misc/Fireplace.wav;

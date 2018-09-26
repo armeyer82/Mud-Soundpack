@@ -2,27 +2,27 @@
 
 #MACRO {\e,}
 {
-	s
+	#send s
 }
 
 #MACRO {\e.}
 {
-	se
+	#send se
 }
 
 #MACRO {\e;}
 {
-	up
+	#send u
 }
 
 #MACRO {\eOl}
 {
-	u
+	#send u
 }
 
 #MACRO {\eOm}
 {
-	d
+	#send d
 }
 
 #MACRO {\eOp\eOl}
@@ -32,52 +32,52 @@
 
 #MACRO {\eOp\eOu}
 {
-	l
+	#send l
 }
 
 #MACRO {\eOq}
 {
-	sw
+	#send sw
 }
 
 #MACRO {\eOr}
 {
-	s
+	#send s
 }
 
 #MACRO {\eOs}
 {
-	se
+	#send se
 }
 
 #MACRO {\eOt}
 {
-	w
+	#send w
 }
 
 #MACRO {\eOu}
 {
-	out
+	#send o
 }
 
 #MACRO {\eOv}
 {
-	e
+	#send e
 }
 
 #MACRO {\eOw}
 {
-	nw
+	#send nw
 }
 
 #MACRO {\eOx}
 {
-	n
+	#send n
 }
 
 #MACRO {\eOy}
 {
-	ne
+	#send ne
 }
 
 #MACRO {\eh}
@@ -87,52 +87,52 @@
 
 #MACRO {\ei}
 {
-	n
+	#send n
 }
 
 #MACRO {\ej}
 {
-	w
+	#send w
 }
 
 #MACRO {\ek}
 {
-	out
+	#send o
 }
 
 #MACRO {\el}
 {
-	e
+	#send e
 }
 
 #MACRO {\em}
 {
-	sw
+	#send sw
 }
 
 #MACRO {\en\e;}
 {
-	stand
+	#send stand
 }
 
 #MACRO {\en\ek}
 {
-	l
+	#send l
 }
 
 #MACRO {\eo}
 {
-	ne
+	#send ne
 }
 
 #MACRO {\ep}
 {
-	d
+	#send d
 }
 
 #MACRO {\eu}
 {
-	nw
+	#send nw
 }
 
 #VARIABLE         {Mode}  {walk}

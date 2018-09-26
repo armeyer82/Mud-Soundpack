@@ -81,5 +81,11 @@
 }
 {5}
 
+#ACTION {^A small handheld radio receiver beeps twice, indicating the detection of a radio transmission.$}
+{
+	play General/Device/radioreceiver.wav
+}
+{5}
+
 
 #CLASS {Devices} CLOSE

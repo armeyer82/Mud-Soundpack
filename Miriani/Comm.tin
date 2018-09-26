@@ -1,8 +1,20 @@
 #CLASS {Comm} OPEN
 
+#ACTION {^You mute}
+{
+	play General/Comm/Mute.wav
+}
+{5}
+
 #ACTION {^You press a small button mounted on the wall and}
 {
 	play Ship/Comm/pa.mp3
+}
+{5}
+
+#ACTION {^You unmute}
+{
+	play General/Comm/Unmute.wav
 }
 {5}
 
