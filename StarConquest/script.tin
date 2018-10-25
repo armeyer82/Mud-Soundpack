@@ -810,7 +810,7 @@
 
 #ALIAS {tar}
 {
-	#system say -v samantha -r 275 "$target" &
+	#show $target
 }
 {5}
 

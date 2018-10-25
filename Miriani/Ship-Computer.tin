@@ -14,13 +14,17 @@
 
 #ACTION {^The computer announces, "%* {starship|starships} {has|have} been detected in the sector."}
 {
-	play Ship/Computer/ShipHere.wav
+	play Ship/Computer/ShipHere.wav;
+	UpdateBuffer computer;
+	#list computer add {%1 %2 has been detected in the sector.}
 }
 {5}
 
 #ACTION {^The computer announces, "An artifact has been detected in the sector."}
 {
-	play Ship/Computer/Artifact.wav
+	play Ship/Computer/Artifact.wav;
+	UpdateBuffer computer;
+	#list computer add {An artifact has been detected in the sector.}
 }
 {5}
 
@@ -53,10 +57,5 @@
 	play Ship/Computer/ScanRetrieved.wav
 }
 {5}
-
-#VARIABLE         {Praelor Onno 127}  {1}
-#VARIABLE         {Praelor Onno 136}  {1}
-#VARIABLE         {Praelor Otona 308}  {1}
-#VARIABLE         {Praelor Otono 389}  {2}
 
 #CLASS {Ship-Computer} CLOSE

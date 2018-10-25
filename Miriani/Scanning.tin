@@ -14,8 +14,7 @@
 
 #ACTION {^Coordinates: (%d, %d, %d)}
 {
-	#variable Scan[Coordinates] %1 %2 %3;
-	#variable TC %1 %2 %3
+	#variable Scan[Coordinates] %1 %2 %3
 }
 {5}
 

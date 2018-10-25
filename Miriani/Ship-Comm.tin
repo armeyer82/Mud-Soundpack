@@ -3,47 +3,11 @@
 #ACTION {%1's voice comes over the intercom, saying, "%2"}
 {
 	play Ship/Comm/PA.mp3;
-	PAUpdate;
-	#variable PA[1] %1, "%2"
+	UpdateBuffer PA;
+	#list PA add {%1, "%2"}
 }
 {5}
-
-#ALIAS {PAUpdate}
-{
-	#loop {4} {1} {count}
-	{
-		#variable PA[@increment{$count}] $PA[$count]
-	}
-}
-{5}
-
-#MACRO {\e1}
-{
-	#showme $PA[1]
-}
-
-#MACRO {\e2}
-{
-	#showme $PA[2]
-}
-
-#MACRO {\e3}
-{
-	#showme $PA[3]
-}
-
-#MACRO {\e4}
-{
-	#showme $PA[4]
-}
-
-#MACRO {\e5}
-{
-	#showme $PA[5]
-}
 
 #SUBSTITUTE       {%1's voice comes over the intercom, saying, "%2"}                              {%1, "%2"}  {5}
-#VARIABLE         {PA}  {{1}{Kitty Mars, "we are moving along!"}{2}{Kitty Mars, "wow the star is an A class which is well was or hopefully still is a good star to charge on. I prefer O class but A and B will do"}{3}{Kitty Mars, "woo it wasn't surveyed!"}{4}{Kitty Mars, "oh are you going to help with repairs a bit? That would be great!"}{5}{blah}}
-#VARIABLE         {count}  {1}
 
 #CLASS {Ship-Comm} CLOSE

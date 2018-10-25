@@ -182,11 +182,13 @@
 }
 {5}
 
-#ACTION {shatters immersion}
+#ACTION {~%1 shatters immersion and %2}
 {
-	play General/Comm/ROOC.wav
+	play General/Comm/ROOC.wav;
+	UpdateBuffer rooc;
+	#list rooc add {[Rooc] %1 %2}
 }
-{5}
+{4}
 
 #ALIAS {savescript}
 {
