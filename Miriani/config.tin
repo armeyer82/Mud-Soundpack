@@ -1,12 +1,12 @@
 #CONFIG           {256 COLORS}  {ON}
-#CONFIG           {AUTO TAB}  {5000}
-#CONFIG           {BUFFER SIZE}  {20000}
+#CONFIG           {AUTO TAB}  {100}
+#CONFIG           {BUFFER SIZE}  {100}
 #CONFIG           {CHARSET}  {ASCII}
 #CONFIG           {COLOR PATCH}  {OFF}
 #CONFIG           {COMMAND COLOR}  {<078>}
 #CONFIG           {COMMAND ECHO}  {ON}
 #CONFIG           {CONNECT RETRY}  {0}
-#CONFIG           {HISTORY SIZE}  {1000}
+#CONFIG           {HISTORY SIZE}  {100}
 #CONFIG           {LOG}  {RAW}
 #CONFIG           {PACKET PATCH}  {0.00}
 #CONFIG           {REPEAT CHAR}  {!}
@@ -28,5 +28,3 @@
 #PATHDIR          {sw}  {ne}  {12}
 #PATHDIR          {u}  {d}  {16}
 #PATHDIR          {w}  {e}  {8}
-#VARIABLE         {RoomSound}  {{1}{31578}{2}{31583}}
-#VARIABLE         {SESSION}  {{Name}{Miriani}}

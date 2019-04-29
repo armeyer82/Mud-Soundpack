@@ -406,12 +406,6 @@
 }
 {5}
 
-#ACTION {^Welcome to...}
-{
-	#log append ./StarConquest/logs/@date{}-tt.txt
-}
-{5}
-
 #ACTION {^You activate the long-range scanner}
 {
 	play Ship/Computer/lrscan4.wav
@@ -810,7 +804,7 @@
 
 #ALIAS {tar}
 {
-	#system say -v samantha -r 275 "$target" &
+	#show $target
 }
 {5}
 

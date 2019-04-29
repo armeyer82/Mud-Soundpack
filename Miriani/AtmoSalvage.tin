@@ -1,20 +1,42 @@
 #CLASS {AtmoSalvage} OPEN
 
-#ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
-{
-	play salvagelaunch.wav
-}
-{5}
-
 #ACTION {The computer announces, "Warning, avian lifeform in processing chamber. Expelling..."}
 {
 	play General/Atmo/SalvageLifeform@math{1d2}.wav
 }
 {5}
 
+#ACTION {^A bubble in the vicinity bursts and you hear the engines strain to keep the craft on course.$}
+{
+	play Aquatic/Bubble.wav;
+	#line gag
+}
+{5}
+
 #ACTION {^A gust of atmospheric wind suddenly buffets the ship%1}
 {
 	play Ship/Misc/WindGust@math{1d2}.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^A whirlpool forms nearby, sucking the craft downward into its swirling vortex.$}
+{
+	play Aquatic/Whirlpool.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The craft comes to a halt, a plume of bubbles surrounding it before dissipating.$}
+{
+	play Aquatic/stop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The craft rocks violently as an enormous fish slams into it.$}
+{
+	play Aquatic/FishCrash.wav;
 	#line gag
 }
 {5}
@@ -68,6 +90,12 @@
 }
 {5}
 
+#ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
+{
+	play salvagelaunch.wav
+}
+{5}
+
 #ACTION {^You carefully pilot the vehicle into a small chamber above the docking bay.}
 {
 	play General/Atmo/SalvageLaunch.wav;
@@ -78,6 +106,13 @@
 #ACTION {^You climb out of the vehicle%2}
 {
 	play Ship/Misc/HatchExit.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You feel a floating sensation as the craft moves through the water.$}
+{
+	play Aquatic/move.wav;
 	#line gag
 }
 {5}

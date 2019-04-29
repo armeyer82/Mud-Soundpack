@@ -1,10 +1,5 @@
 #CLASS {Miriani} OPEN
 
-#ACTION {^A %* Lore computer beeps quietly, indicating that its TransLink}
-{
-	play General/Lore/track.wav
-}
-{5}
 
 #ACTION {^A %* flight control scanner announces, "%*"}
 {
@@ -18,20 +13,9 @@
 }
 {5}
 
-#ACTION {^The computer announces, "Hit on}
-{
-	play Ship/Combat/OtherHit1.wav
-}
-{5}
-
-#ACTION {^The computer announces, "Partial hit}
-{
-	play Ship/Combat/Partialhit.wav
-}
-{5}
-
 #ACTION {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
 {
+play General/Misc/Beep1.wav;
 	play Ship/Move/Accelerate.mp3
 }
 {5}
@@ -51,12 +35,6 @@
 #ACTION {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
 {
 	play Ship/Move/Decelerate.mp3
-}
-{5}
-
-#ACTION {^This starship has been hit by}
-{
-	play Ship/Combat/YouHit1.wav
 }
 {5}
 
@@ -145,9 +123,11 @@
 }
 {5}
 
-#ACTION {^[Short-range Communication]}
+#ACTION {^[Short-range Communication] %3}
 {
-	play General/Comm/Short.wav
+	play General/Comm/Short.wav;
+	UpdateBuffer Short_range;
+	#list Short_range add %3
 }
 {5}
 
@@ -187,11 +167,13 @@
 }
 {5}
 
-#ACTION {shatters immersion}
+#ACTION {~%1 shatters immersion%*and %2}
 {
-	play General/Comm/ROOC.wav
+	play General/Comm/ROOC.wav;
+	UpdateBuffer rooc;
+	#list rooc add {[Rooc] %1 %3}
 }
-{5}
+{4}
 
 #ALIAS {savescript}
 {
@@ -213,7 +195,7 @@
 #GAG              {^The bright light vanishes as the starship emerges at the other side of the wormhole.}
 #GAG              {^The computer announces, "Hit on}
 #GAG              {^The computer announces, "Partial hit}
-#GAG              {^The computer announces, "The target has moved from the locked coordinates."}
+
 #GAG              {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
 #GAG              {^The experience abruptly ends as the starship exits from the companion jumpgate}
 #GAG              {^The experience abruptly ends as the starship exits from the companion jumpgate.}
@@ -262,7 +244,7 @@
 #GAG              {has a lock on this starship.$}
 #VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.15}}
 #VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{type}{starship}}
-#VARIABLE         {soundpath}  {./Miriani/Sounds/}
+#VARIABLE         {soundpath}  {./Sounds/}
 #VARIABLE         {volume}  {0.15}
 
 #CLASS {Miriani} CLOSE

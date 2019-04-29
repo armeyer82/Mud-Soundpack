@@ -1,5 +1,52 @@
 #CLASS {Ship-Computer} OPEN
 
+#ACTION {^%1 inputs a command on a sensor panel and examines a long-range scan.$}
+{
+	play Ship/Computer/lrscan3.wav
+}
+{5}
+
+
+#ACTION {You {hastily|quickly} retrieve it before it falls to the ground.$}
+{
+	play Ship/Computer/ScanRetrieved.wav
+}
+{5}
+
+#ACTION {^Control room computer announcements will now be announced ship-wide.$}
+{
+	play Ship/Computer/PipeOn.wav
+}
+{5}
+
+#ACTION {^The computer announces, "%* {starship|starships} {has|have} been detected in the sector."}
+{
+	play Ship/Computer/ShipHere.wav;
+	UpdateBuffer computer;
+	#list computer add {%1 %2 has been detected in the sector.}
+}
+{5}
+
+#ACTION {^The computer announces, "An artifact has been detected in the sector."}
+{
+	play Ship/Computer/Artifact.wav;
+	UpdateBuffer computer;
+	#list computer add {An artifact has been detected in the sector.}
+}
+{5}
+
+#ACTION {^The computer announces, "I am beginning the repair}
+{
+	play Ship/Computer/RepairStart.wav
+}
+{5}
+
+#ACTION {^The computer announces, "I have completed the repair of}
+{
+	play Ship/Computer/RepairComplete.wav
+}
+{5}
+
 #ACTION {presses a complicated looking series of buttons on a navigational console.$}
 {
 	play Ship/Computer/Keyboard13.wav
@@ -12,5 +59,10 @@
 }
 {5}
 
+#ACTION {{hastily|quickly} retrieves it before it falls to the ground.$}
+{
+	play Ship/Computer/ScanRetrieved.wav
+}
+{5}
 
 #CLASS {Ship-Computer} CLOSE

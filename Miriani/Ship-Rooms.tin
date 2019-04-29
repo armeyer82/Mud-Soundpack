@@ -1,5 +1,11 @@
 #CLASS {Ship-Rooms} OPEN
 
+#ACTION {You follow %* outside the ship.}
+{
+	StopRoomSound
+}
+{5}
+
 #ACTION {^You %* out of the ship.$}
 {
 	StopRoomSound
@@ -36,7 +42,7 @@
 
 #ALIAS {PlayRoomSound %*.{wav|mp3|aiff}}
 {
-	#system play -qV1 $soundpath/%1.%2 vol $Volume[GameSounds] repeat 9999 &;
+	#system play -qV1 $soundpath/%1.%2 gain -n vol $Volume[GameSounds] repeat 9999 &;
 	#script RoomSound {pgrep -f repeat 9999}
 }
 {5}
@@ -60,7 +66,7 @@
 	}
 }
 
-#VARIABLE         {$RoomSound}  {{1}{0}}
-#VARIABLE         {Room}  {{Current}{Airlock}}
+#VARIABLE         {Room}  {{Current}{Control}}
+#VARIABLE         {{1}{57117}{2}{57125}}  {{1}{0}}
 
 #CLASS {Ship-Rooms} CLOSE

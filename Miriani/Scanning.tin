@@ -12,6 +12,14 @@
 }
 {5}
 
+<<<<<<< HEAD
+=======
+#ACTION {^Coordinates: (%d, %d, %d)}
+{
+	#variable Scan[Coordinates] %1 %2 %3
+}
+{5}
+>>>>>>> v3.0.0-dev
 
 #ACTION {^Distance: %1}
 {
@@ -43,21 +51,21 @@
 }
 {5}
 
-#ALIAS {.d}
-{
-	#showme $Distance
-}
-{5}
-
 #ALIAS {.h}
 {
 	#showme $EnemyHull
 }
 {5}
 
-#VARIABLE         {Distance}  {11}
+#ALIAS {.r}
+{
+	#showme $Distance
+}
+{5}
+
+#VARIABLE         {Distance}  {10}
 #VARIABLE         {Praelor Bzzr 209}  {1}
-#VARIABLE         {Scan}  {{ACD}{0%}{Classification}{B}{Coordinates}{5 6 13}}
+#VARIABLE         {Scan}  {{ACD}{0%}{Classification}{K}{Coordinates}{12 17 12}}
 #VARIABLE         {Scanning}  {{ACD}{0%}}
 
 #CLASS {Scanning} CLOSE

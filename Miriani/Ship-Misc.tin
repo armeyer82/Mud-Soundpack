@@ -302,12 +302,6 @@
 }
 {5}
 
-#ACTION {^%1 inputs a command on a sensor panel and examines a long-range scan.$}
-{
-	play Ship/Misc/lrscan3.wav
-}
-{5}
-
 #ACTION {^A chime is piped through a nearby speaker, indicating that somebody has entered the airlock.$}
 {
 	play Ship/Misc/Bell.wav

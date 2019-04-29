@@ -1,8 +1,12 @@
 #CLASS {CameraFeed} OPEN
 
-#ACTION {^(%*)}
+#ACTION {^(%*) %*}
 {
-	play General/Devices/CameraFeed.wav
+	play General/Device/CameraFeed.wav;
+	#line gag;
+	#show %2;
+	#line gag;
+	#show %(%1) %2
 }
 {5}
 

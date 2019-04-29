@@ -1,23 +1,13 @@
 #CLASS {Numpad-fly} OPEN
 
-#MACRO {\e,}
-{
-	2
-}
-
-#MACRO {\e.}
-{
-	3
-}
-
 #MACRO {\e;\e,}
 {
-	-2
+	+2
 }
 
 #MACRO {\e;\e.}
 {
-	-3
+	+3
 }
 
 #MACRO {\e;\e;}
@@ -27,37 +17,37 @@
 
 #MACRO {\e;\ei}
 {
-	-8
+	+8
 }
 
 #MACRO {\e;\ej}
 {
-	-4
+	+4
 }
 
 #MACRO {\e;\ek}
 {
-	-5
+	+5
 }
 
 #MACRO {\e;\el}
 {
-	-6
+	+6
 }
 
 #MACRO {\e;\em}
 {
-	-1
+	+1
 }
 
 #MACRO {\e;\eo}
 {
-	-9
+	+9
 }
 
 #MACRO {\e;\eu}
 {
-	-7
+	+7
 }
 
 #MACRO {\eH}
@@ -72,47 +62,47 @@
 
 #MACRO {\eOl\eOq}
 {
-	-1
+	+1
 }
 
 #MACRO {\eOl\eOr}
 {
-	-2
+	+2
 }
 
 #MACRO {\eOl\eOs}
 {
-	-3
+	+3
 }
 
 #MACRO {\eOl\eOt}
 {
-	-4
+	+4
 }
 
 #MACRO {\eOl\eOu}
 {
-	-5
+	+5
 }
 
 #MACRO {\eOl\eOv}
 {
-	-6
+	+6
 }
 
 #MACRO {\eOl\eOw}
 {
-	-7
+	+7
 }
 
 #MACRO {\eOl\eOx}
 {
-	-8
+	+8
 }
 
 #MACRO {\eOl\eOy}
 {
-	-9
+	+9
 }
 
 #MACRO {\eOm\eOm}
@@ -122,57 +112,52 @@
 
 #MACRO {\eOm\eOq}
 {
-	+1
+	-1
 }
 
 #MACRO {\eOm\eOr}
 {
-	+2
+	-2
 }
 
 #MACRO {\eOm\eOs}
 {
-	+3
+	-3
 }
 
 #MACRO {\eOm\eOt}
 {
-	+4
+	-4
 }
 
 #MACRO {\eOm\eOu}
 {
-	+5
+	-5
 }
 
 #MACRO {\eOm\eOv}
 {
-	+6
+	-6
 }
 
 #MACRO {\eOm\eOw}
 {
-	+7
+	-7
 }
 
 #MACRO {\eOm\eOx}
 {
-	+8
+	-8
 }
 
 #MACRO {\eOm\eOy}
 {
-	+9
-}
-
-#MACRO {\eOn}
-{
-	stop
+	-9
 }
 
 #MACRO {\eOp}
 {
-	f
+	fo
 }
 
 #MACRO {\eOq}
@@ -225,31 +210,6 @@
 	fo
 }
 
-#MACRO {\ei}
-{
-	8
-}
-
-#MACRO {\ej}
-{
-	4
-}
-
-#MACRO {\ek}
-{
-	c
-}
-
-#MACRO {\el}
-{
-	6
-}
-
-#MACRO {\em}
-{
-	1
-}
-
 #MACRO {\en\ej}
 {
 	man
@@ -263,11 +223,6 @@
 #MACRO {\en\el}
 {
 	auto
-}
-
-#MACRO {\eo}
-{
-	9
 }
 
 #MACRO {\ep\e,}
@@ -313,11 +268,6 @@
 #MACRO {\ep\eu}
 {
 	+7
-}
-
-#MACRO {\eu}
-{
-	7
 }
 
 #VARIABLE         {Mode}  {fly}

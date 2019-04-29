@@ -24,24 +24,6 @@
 }
 {5}
 
-#ACTION {^#$#soundpack social | kiss}
-{
-	play General/Socials/kiss.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | laugh | female}
-{
-	play General/Socials/LaughF@rnd{8}.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | laugh | male}
-{
-	play General/Socials/LaughM@rnd{6}.wav
-}
-{5}
-
 #ACTION {^#$#soundpack social | moan | female}
 {
 	play General/Socials/MoanF@rnd{5}.wav
@@ -69,6 +51,43 @@
 #ACTION {^#$#soundpack social | spank}
 {
 	play General/Socials/Spank.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | {kiss|french}}
+{
+	play General/Socials/kiss.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | {laugh|laughs} | female}
+{
+	play General/Socials/LaughF@rnd{8}.wav
+}
+{5}
+
+#ACTION {^#$#soundpack social | {laugh|laughs} | male}
+{
+	play General/Socials/LaughM@rnd{6}.wav
+}
+{5}
+
+#ACTION {^%w stands up.}
+{
+	play Stand.wav
+}
+{5}
+
+#ACTION {^You sit down %*}
+{
+	play sit.wav
+}
+{5}
+
+#ACTION {^You stand up.$}
+{
+	play stand.wav;
+	#line gag
 }
 {5}
 
