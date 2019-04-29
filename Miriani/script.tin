@@ -123,11 +123,11 @@ play General/Misc/Beep1.wav;
 }
 {5}
 
-#ACTION {^[Short-range Communication]}
+#ACTION {^[Short-range Communication] %3}
 {
 	play General/Comm/Short.wav;
-	UpdateBuffer Short-range;
-	#list Short-range add %0
+	UpdateBuffer Short_range;
+	#list Short_range add %3
 }
 {5}
 
