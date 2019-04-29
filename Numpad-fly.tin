@@ -1,15 +1,5 @@
 #CLASS {Numpad-fly} OPEN
 
-#MACRO {\e,}
-{
-	2
-}
-
-#MACRO {\e.}
-{
-	3
-}
-
 #MACRO {\e;\e,}
 {
 	+2
@@ -167,7 +157,7 @@
 
 #MACRO {\eOp}
 {
-	f
+	fo
 }
 
 #MACRO {\eOq}
@@ -220,31 +210,6 @@
 	fo
 }
 
-#MACRO {\ei}
-{
-	8
-}
-
-#MACRO {\ej}
-{
-	4
-}
-
-#MACRO {\ek}
-{
-	c
-}
-
-#MACRO {\el}
-{
-	6
-}
-
-#MACRO {\em}
-{
-	1
-}
-
 #MACRO {\en\ej}
 {
 	man
@@ -258,11 +223,6 @@
 #MACRO {\en\el}
 {
 	auto
-}
-
-#MACRO {\eo}
-{
-	9
 }
 
 #MACRO {\ep\e,}
@@ -308,11 +268,6 @@
 #MACRO {\ep\eu}
 {
 	+7
-}
-
-#MACRO {\eu}
-{
-	7
 }
 
 #VARIABLE         {Mode}  {fly}

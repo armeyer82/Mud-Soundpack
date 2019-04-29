@@ -1,5 +1,11 @@
 #CLASS {Ship-Combat} OPEN
 
+#action {The computer announces, "Target destroyed."} {
+	play Ship/Combat/OtherDestroyed2.wav;
+	#var HC.WHits @increment{$HC.WHits}
+}
+
+
 #ACTION {A loud klaxon sounds as purple lights continue to flash overhead.}
 {
 	play Ship/Combat/RedCont1.wav;
@@ -56,9 +62,43 @@
 }
 {5}
 
+#ACTION {^The computer announces, "Firing on empty space complete.}
+{
+	play General/Misc/Beep9.wav;
+	#variable HC.Misses @increment{$HC.Misses}
+}
+{5}
+
+#ACTION {^The computer announces, "Hit on}
+{
+	play Ship/Combat/OtherHit1.wav;
+	#variable HC.WHits @increment{$HC.WHits}
+}
+{5}
+
+#ACTION {^The computer announces, "Partial hit}
+{
+	play Ship/Combat/Partialhit.wav;
+	#variable HC.Partials @increment{$HC.Partials}
+}
+{5}
+
+#ACTION {^The computer announces, "The target has moved from the locked coordinates."}
+{
+	play Ship/Combat/lostLock.wav
+}
+{5}
+
 #ACTION {^The room is filled with a brilliant %* light as the laser turrets are fired.$}
 {
 	play Ship/Combat/Laser1.wav
+}
+{5}
+
+#ACTION {^This starship has been hit by}
+{
+	play Ship/Combat/YouHit1.wav;
+	#variable HC.ShipHits @increment{$HC.ShipHits}
 }
 {5}
 
@@ -124,14 +164,58 @@
 }
 {5}
 
+#ALIAS {.hc}
+{
+	#if {"%1"=="clear"}
+	{
+		#showme Resetting hit counter;
+		#variable HC.TotalHits 0;
+		#variable HC.ShipHits 0;
+		#variable HC.Misses 0;
+		#variable HC.Partials 0;
+		#variable HC.WHits 0
+	};
+	#else
+	{
+	#math HC.TotalHits {$HC[WHits]+$HC[Partials]};
+	#show Total Hits: $HC.TotalHits;
+		#showme Direct Hits: $HC.WHits;
+		#showme Partial Hits $HC.Partials;
+		#showme Misses $HC.Misses;
+		#showme Hits $HC.ShipHits
+	}
+}
+{5}
+
+#ALIAS {.hcm}
+{
+	#showme $HC.Misses
+}
+{5}
+
+#ALIAS {.hcp}
+{
+	#showme $HC.Partials
+}
+{5}
+
+#ALIAS {.hcs}
+{
+	#showme $HC.ShipHits
+}
+{5}
+
+#ALIAS {.hcw}
+{
+	#showme $HC.WHits
+}
+{5}
+
 #SUBSTITUTE       {Praelor %1 drone %d: %3}     {%3}  {5}
 #SUBSTITUTE       {Praelor %1 drone: %2}  {%2}  {5}
 #SUBSTITUTE       {^Praelor %1 Drone %d: %3}      {%3}  {5}
 #SUBSTITUTE       {^Standard Drone %d: %2}    {%2}  {5}
 #SUBSTITUTE       {^This starship has been hit by %*.}                {[${%1}] %1}  {5}
-#VARIABLE         {Praelor Ontanka Drone 1}     {1}
-#VARIABLE         {Praelor Ontanka Drone 2}     {2}
-#VARIABLE         {Praelor Ontanka Drone 3}     {3}
-#VARIABLE         {Praelor Ontanka Drone 4}     {4}
+#VARIABLE         {HC}  {{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}}#
 
 #CLASS {Ship-Combat} CLOSE

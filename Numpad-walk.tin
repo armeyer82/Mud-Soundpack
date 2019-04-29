@@ -1,20 +1,5 @@
 #CLASS {Numpad-walk} OPEN
 
-#MACRO {\e,}
-{
-	#send s
-}
-
-#MACRO {\e.}
-{
-	#send se
-}
-
-#MACRO {\e;}
-{
-	#send u
-}
-
 #MACRO {\eOl}
 {
 	#send u
@@ -23,6 +8,13 @@
 #MACRO {\eOm}
 {
 	#send d
+}
+
+#MACRO {\eOn}
+{
+	#class Numpad-walk kill;
+	#read Numpad-fly.tin;
+	#showme Flight
 }
 
 #MACRO {\eOp\eOl}
@@ -85,31 +77,6 @@
 	fo
 }
 
-#MACRO {\ei}
-{
-	#send n
-}
-
-#MACRO {\ej}
-{
-	#send w
-}
-
-#MACRO {\ek}
-{
-	#send o
-}
-
-#MACRO {\el}
-{
-	#send e
-}
-
-#MACRO {\em}
-{
-	#send sw
-}
-
 #MACRO {\en\e;}
 {
 	#send stand
@@ -118,21 +85,6 @@
 #MACRO {\en\ek}
 {
 	#send l
-}
-
-#MACRO {\eo}
-{
-	#send ne
-}
-
-#MACRO {\ep}
-{
-	#send d
-}
-
-#MACRO {\eu}
-{
-	#send nw
 }
 
 #VARIABLE         {Mode}  {walk}
