@@ -1,9 +1,0 @@
-#CLASS {Numpad-Miriani} OPEN
-
-#MACRO {\eK}
-{
-	altnav
-}
-
-
-#CLASS {Numpad-Miriani} CLOSE
