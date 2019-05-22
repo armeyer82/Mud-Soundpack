@@ -1,9 +1,15 @@
 #CLASS {Main} OPEN
 
+#ALIAS {play %*.{wav|mp3|aiff}}
+{
+	#system play -qV0 -G $soundpath/%1.%2 gain -n -h vol $Volume[GameSounds] &
+}
+{5}
+
 #EVENT {SESSION CONNECTED}
 {
 	#script {for i in $( ls ./%0/*.tin ); do echo "#read" $i; done};
-	#var $SESSION %0
+	#variable SESSION %0
 }
 
 
