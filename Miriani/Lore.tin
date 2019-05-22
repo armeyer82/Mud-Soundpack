@@ -1,0 +1,10 @@
+#CLASS {Lore} OPEN
+
+#ACTION {A %* Lore computer beeps quietly, indicating that its TransLink tracking functionality has been activated.}
+{
+	play General/Lore/Tracked.wav
+}
+{5}
+
+
+#CLASS {Lore} CLOSE
