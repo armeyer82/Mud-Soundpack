@@ -78,8 +78,6 @@
 {
 	#send #$#soundpack_ping
 }
-
-#GAG              {^#$#}
 #VARIABLE         {LAG}  {{Date}{05-21-2018}{MS}{106}{Time}{21:42}}
 
 #CLASS {Out-Of-Band} CLOSE
