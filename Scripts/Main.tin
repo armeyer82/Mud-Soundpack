@@ -12,5 +12,10 @@
 	#variable SESSION %0
 }
 
+#FUNCTION {rnd}
+{
+	#math {result} {1d%1}
+}
+
 
 #CLASS {Main} CLOSE

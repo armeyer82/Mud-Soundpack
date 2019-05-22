@@ -16,7 +16,7 @@
 #ACTION {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
 {
 play General/Misc/Beep1.wav;
-	play Ship/Move/Accelerate.mp3
+	play Ship/Move/Accelerate.wav
 }
 {5}
 
@@ -34,7 +34,7 @@ play General/Misc/Beep1.wav;
 
 #ACTION {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
 {
-	play Ship/Move/Decelerate.mp3
+	play Ship/Move/Decelerate.wav
 }
 {5}
 
