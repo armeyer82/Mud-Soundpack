@@ -6,5 +6,11 @@
 }
 {5}
 
+#ACTION {^Via the TransLink network, the LoreTech device}
+{
+	play General/Lore/Track.wav
+}
+{5}
+
 
 #CLASS {Lore} CLOSE

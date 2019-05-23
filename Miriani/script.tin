@@ -170,8 +170,8 @@ play General/Misc/Beep1.wav;
 #ACTION {~%1 shatters immersion%*and %2}
 {
 	play General/Comm/ROOC.wav;
-	UpdateBuffer rooc;
-	#list rooc add {[Rooc] %1 %3}
+	#nop UpdateBuffer rooc;
+	#NOP #list rooc add {[Rooc] %1 %3}
 }
 {4}
 

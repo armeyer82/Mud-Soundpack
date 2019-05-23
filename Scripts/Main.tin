@@ -1,5 +1,11 @@
 #CLASS {Main} OPEN
 
+#ALIAS {LoadUserScripts}
+{
+	#read {@Homedir{}/Mud-Files/$SESSION/User-Scripts/User.tin}
+}
+{5}
+
 #ALIAS {play %*.{wav|mp3|aiff}}
 {
 	#system play -qV0 -G $soundpath/%1.%2 gain -n -h vol $Volume[GameSounds] &
@@ -12,10 +18,18 @@
 	#variable SESSION %0
 }
 
+#FUNCTION {Homedir}
+{
+	#script {Homedir} {echo $HOME};
+	#return $Homedir[1]
+}
+
 #FUNCTION {rnd}
 {
 	#math {result} {1d%1}
 }
 
+#VARIABLE         {Homedir}  {{1}{/Users/ameyer}}
+#VARIABLE         {test}  {#system echo $HOME}
 
 #CLASS {Main} CLOSE
