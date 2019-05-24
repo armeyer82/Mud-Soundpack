@@ -28,7 +28,7 @@
 		#case {"UserSettings"}
 		{
 			#showme Saving UserSettings class;
-			#class User write @Homedir{}/Mud-Files/$SESSION/User-Scripts/UserSettings.tin;
+			#class UserSettings write @Homedir{}/Mud-Files/$SESSION/User-Scripts/UserSettings.tin;
 			#class UserSettings open;
 			#break
 		};
@@ -41,6 +41,50 @@
 	}
 }
 {5}
+
+
+#ALIAS {.load-class}
+{
+	#switch {"%1"}
+	{
+		#case {"Main"}
+		{
+			#showme Loading Main class;
+			#read ./Scripts/Main.tin;
+			#class Main open;
+			#break
+		};
+		#case {"Development"}
+		{
+			#showme Saving Development class;
+			#read./Scripts/Development.tin;
+			#class Development open;
+			#break
+		};
+		#case {"User"}
+		{
+			#showme Loading User class;
+			#read @Homedir{}/Mud-Files/$SESSION/User-Scripts/User.tin;
+			#class User open;
+			#break
+		};
+		#case {"UserSettings"}
+		{
+			#showme Loading UserSettings class;
+			#read @Homedir{}/Mud-Files/$SESSION/User-Scripts/UserSettings.tin;
+			#class UserSettings open;
+			#break
+		};
+		#default
+		{
+			#showme Loading %1 class;
+			#read ./$SESSION/%1.tin;
+			#class %1 open
+		}
+	}
+}
+{5}
+
 
 
 #CLASS {Development} CLOSE

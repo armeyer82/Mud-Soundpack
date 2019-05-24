@@ -1,4 +1,76 @@
-#class Buffers open
+#CLASS {Buffers} OPEN
 
-#list Buffer create PA Computer Say Rooc Short-range General Chatter Private
+#ALIAS {UpdateBuffer}
+{
+	#nop
+}
+{5}
 
+#MACRO {\e!}
+{
+	#showme $PA[-1]
+}
+
+#MACRO {\e#}
+{
+	#showme $PA[-3]
+}
+
+#MACRO {\e$}
+{
+	#showme $PA[-4]
+}
+
+#MACRO {\e%}
+{
+	#showme $PA[-5]
+}
+
+#MACRO {\e@}
+{
+	#showme $PA[-2]
+}
+
+#MACRO {\e^}
+{
+	#showme $PA[-6]
+}
+
+#VARIABLE         {Buffer}  {{1}{PA}{2}{Computer}{3}{Say}{4}{Rooc}{5}{Short-range}{6}{General}{7}{Chatter}{8}{Private}}
+#VARIABLE         {EnemyHull}  {34%}
+#VARIABLE         {HC.Misses}  {@increment{{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}.Misses}}
+#VARIABLE         {HC.Partials}  {@increment{{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}.Partials}}
+#VARIABLE         {HC.ShipHits}  {@increment{{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}.ShipHits}}
+#VARIABLE         {HC.WHits}  {@increment{{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}.WHits}}
+#VARIABLE         {Praelor Muzano 928}  {1}
+#VARIABLE         {Praelor Onno 444}  {7}
+#VARIABLE         {Praelor Onno 531}  {11}
+#VARIABLE         {Praelor Onno 626}  {8}
+#VARIABLE         {Praelor Onz 212}  {6}
+#VARIABLE         {Praelor Onz 725}  {5}
+#VARIABLE         {Praelor Onz 808}  {5}
+#VARIABLE         {Praelor Orta 227}  {1}
+#VARIABLE         {Praelor Orta 372}  {3}
+#VARIABLE         {Praelor Orta 372 (!)}  {3}
+#VARIABLE         {Praelor Orta 495}  {1}
+#VARIABLE         {Praelor Orta 697}  {1}
+#VARIABLE         {Praelor Orta 697 (!)}  {2}
+#VARIABLE         {Praelor Orta 705}  {1}
+#VARIABLE         {Praelor Orta 705 (!)}  {1}
+#VARIABLE         {Praelor Orta 741}  {1}
+#VARIABLE         {Praelor Orta 741 (!)}  {2}
+#VARIABLE         {Praelor Orta 77}  {1}
+#VARIABLE         {Praelor Orta 77 (!)}  {1}
+#VARIABLE         {Praelor Otona 119}  {1}
+#VARIABLE         {Praelor Otona 119 (!)}   {1}
+#VARIABLE         {Praelor Otona 557}  {1}
+#VARIABLE         {Praelor Otona 557 (!)}   {2}
+#VARIABLE         {Praelor Otono 499}  {1}
+#VARIABLE         {Praelor Otono 499 (!)}   {2}
+#VARIABLE         {Praelor Otono 630}  {6}
+#VARIABLE         {Praelor Otono 630 (!)}   {6}
+#VARIABLE         {Praelor Otono 833}  {1}
+#VARIABLE         {Praelor Otono 833 (!)}   {1}
+#VARIABLE         {Short_range}  {{1}{Lia}{2}{Blade}{3}{transmits,}{4}{"Oops."}{5}{Jack}{6}{Mason}{7}{transmits,}{8}{"Hey}{9}{come}{10}{back}{11}{so}{12}{I}{13}{can}{14}{blow}{15}{you}{16}{up."}{17}{Lia}{18}{Blade}{19}{transmits,}{20}{"No,}{21}{jerk."}{22}{Jack}{23}{Mason}{24}{transmits,}{25}{"Oh,}{26}{ok."}{27}{Jack}{28}{Mason}{29}{transmits,}{30}{"Rude!"}{31}{Lia}{32}{Blade}{33}{transmits,}{34}{"You}{35}{are,}{36}{yes."}{37}{Lia}{38}{Blade}{39}{transmits,}{40}{"Hi}{41}{caly,}{42}{bye}{43}{caly."}{44}{Calyssa}{45}{Fisher}{46}{squeals.}{47}{Lia}{48}{Blade}{49}{transmits,}{50}{"Hi}{51}{hope,}{52}{bye}{53}{hope."}{54}{Michael}{55}{Calaway}{56}{transmits,}{57}{"Calm}{58}{down."}{59}{Aaron}{60}{Blade}{61}{transmits,}{62}{"Nooo.}{63}{Get}{64}{back}{65}{here}{66}{you}{67}{matt}{68}{looking}{69}{like}{70}{fuck."}{71}{Calyssa}{72}{Fisher}{73}{transmits,}{74}{"Thanks}{75}{for}{76}{the}{77}{resp."}{78}{Calyssa}{79}{Fisher}{80}{transmits,}{81}{"Reps."}}
+
+#CLASS {Buffers} CLOSE

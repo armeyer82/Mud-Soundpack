@@ -1,47 +1,203 @@
 #CLASS {Numpad} OPEN
 
-#MACRO {\eOQ}
+#MACRO {\e0}
 {
-	#class Numpad-walk kill;
-	#read Numpad-Fly.tin;
-	#showme Flight mode.
+	fo
 }
 
-#MACRO {\eOR}
+#MACRO {\e1}
 {
-	#class Numpad-fly kill;
-	#read Numpad-walk.tin;
-	#showme Walk mode.
+	1
 }
 
-#MACRO {\eOp\eOp}
+#MACRO {\e2}
 {
-	#if {"$Mode"=="walk"}
-	{
-		#class Numpad-walk kill;
-		#read Numpad-fly.tin;
-		#showme Flight mode.
-	};
-	#else
-	{
-		#class Numpad-fly kill;
-		#read Numpad-walk.tin;
-		#showme Walk mode
-	}
+	2
 }
 
-#MACRO {\en\eh}
+#MACRO {\e3}
 {
-	#class Numpad-walk kill;
-	#read Numpad-fly.tin;
-	#showme Flight mode
+	3
 }
 
-#MACRO {\en\en}
+#MACRO {\e4}
 {
-	#class Numpad-fly kill;
-	#read Numpad-walk.tin;
-	#showme Walk mode
+	4
+}
+
+#MACRO {\e5}
+{
+	co
+}
+
+#MACRO {\e6}
+{
+	6
+}
+
+#MACRO {\e7}
+{
+	7
+}
+
+#MACRO {\e8}
+{
+	8
+}
+
+#MACRO {\e9}
+{
+	9
+}
+
+#MACRO {\e+\e1}
+{
+	+1
+}
+
+#MACRO {\e+\e2}
+{
+	+2
+}
+
+#MACRO {\e+\e3}
+{
+	+3
+}
+
+#MACRO {\e+\e4}
+{
+	+4
+}
+
+#MACRO {\e+\e5}
+{
+	+5
+}
+
+#MACRO {\e+\e6}
+{
+	+6
+}
+
+#MACRO {\e+\e7}
+{
+	+7
+}
+
+#MACRO {\e+\e8}
+{
+	+8
+}
+
+#MACRO {\e+\e9}
+{
+	+9
+}
+
+#MACRO {\e-\e1}
+{
+	-1
+}
+
+#MACRO {\e-\e2}
+{
+	-2
+}
+
+#MACRO {\e-\e3}
+{
+	-3
+}
+
+#MACRO {\e-\e4}
+{
+	-4
+}
+
+#MACRO {\e-\e5}
+{
+	-5
+}
+
+#MACRO {\e-\e6}
+{
+	-6
+}
+
+#MACRO {\e-\e7}
+{
+	-7
+}
+
+#MACRO {\e-\e8}
+{
+	-8
+}
+
+#MACRO {\e-\e9}
+{
+	-9
+}
+
+#MACRO {\eOl}
+{
+	u
+}
+
+#MACRO {\eOm}
+{
+	d
+}
+
+#MACRO {\eOp}
+{
+	o
+}
+
+#MACRO {\eOq}
+{
+	sw
+}
+
+#MACRO {\eOr}
+{
+	s
+}
+
+#MACRO {\eOs}
+{
+	se
+}
+
+#MACRO {\eOt}
+{
+	w
+}
+
+#MACRO {\eOu}
+{
+	l
+}
+
+#MACRO {\eOv}
+{
+	e
+}
+
+#MACRO {\eOw}
+{
+	nw
+}
+
+#MACRO {\eOx}
+{
+	n
+}
+
+#MACRO {\eOy}
+{
+	ne
 }
 
 

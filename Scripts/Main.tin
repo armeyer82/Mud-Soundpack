@@ -2,7 +2,7 @@
 
 #ALIAS {LoadUserScripts}
 {
-	#read {@Homedir{}/Mud-Files/$SESSION/User-Scripts/User.tin}
+	#read {$Userdir/User.tin}
 }
 {5}
 
@@ -12,10 +12,30 @@
 }
 {5}
 
+#ALIAS {sox}
+{
+	if hash sox 2>/dev/null;
+	then echo "sox exists";
+	else;
+	echo "sox does not exist"
+}
+{5}
+
+#EVENT {PROGRAM START}
+{
+	#read ./Scripts/Development.tin;
+	#system mkdir -p ~/Mud-Files/
+}
+
 #EVENT {SESSION CONNECTED}
 {
 	#script {for i in $( ls ./%0/*.tin ); do echo "#read" $i; done};
-	#variable SESSION %0
+	#variable SESSION %0;
+	#system mkdir -p ~/Mud-Files/$SESSION/;
+	#system mkdir -p ~/Mud-Files/$SESSION/Logs/;
+	#variable Userdir @Homedir{}/Mud-Files/$SESSION/User-Scripts/;
+	#variable Logdir @Homedir{}/Mud-Files/$SESSION/Logs/;
+	#script {if [ -f $Userdir/User.tin]; then echo "#read $Userdir/User.tin" fi}
 }
 
 #FUNCTION {Homedir}
@@ -29,7 +49,5 @@
 	#math {result} {1d%1}
 }
 
-#VARIABLE         {Homedir}  {{1}{/Users/ameyer}}
-#VARIABLE         {test}  {#system echo $HOME}
 
 #CLASS {Main} CLOSE

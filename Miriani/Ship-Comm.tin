@@ -2,8 +2,8 @@
 
 #ACTION {%1's voice comes over the intercom, saying, "%2"}
 {
-	play Ship/Comm/PA.mp3;
-	UpdateBuffer PA;
+	play Ship/Comm/PA@rnd{8}.wavv;
+	#nop UpdateBuffer PA;
 	#list PA add {%1, "%2"}
 }
 {5}
