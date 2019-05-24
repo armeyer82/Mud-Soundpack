@@ -29,6 +29,7 @@
 
 #EVENT {SESSION CONNECTED}
 {
+	#system mkdir -p ./$SESSION;
 	#script {for i in $( ls ./%0/*.tin ); do echo "#read" $i; done};
 	#variable SESSION %0;
 	#system mkdir -p ~/Mud-Files/$SESSION/;
