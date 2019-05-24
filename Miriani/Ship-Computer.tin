@@ -1,15 +1,14 @@
 #CLASS {Ship-Computer} OPEN
 
-#ACTION {^%1 inputs a command on a sensor panel and examines a long-range scan.$}
-{
-	play Ship/Computer/lrscan3.wav
-}
-{5}
-
-
 #ACTION {You {hastily|quickly} retrieve it before it falls to the ground.$}
 {
 	play Ship/Computer/ScanRetrieved.wav
+}
+{5}
+
+#ACTION {^%1 inputs a command on a sensor panel and examines a long-range scan.$}
+{
+	play Ship/Computer/lrscan3.wav
 }
 {5}
 
@@ -26,6 +25,12 @@
 	#list computer add {%1 %2 has been detected in the sector.}
 }
 {5}
+
+#ACTION {^The computer announces, "%*"}
+{
+	play Ship/Computer/announce@rnd{4}.wav
+}
+{9}
 
 #ACTION {^The computer announces, "An artifact has been detected in the sector."}
 {
@@ -64,5 +69,6 @@
 	play Ship/Computer/ScanRetrieved.wav
 }
 {5}
+
 
 #CLASS {Ship-Computer} CLOSE

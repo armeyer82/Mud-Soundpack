@@ -35,7 +35,8 @@
 	#system mkdir -p ~/Mud-Files/$SESSION/Logs/;
 	#variable Userdir @Homedir{}/Mud-Files/$SESSION/User-Scripts/;
 	#variable Logdir @Homedir{}/Mud-Files/$SESSION/Logs/;
-	#script {if [ -f $Userdir/User.tin]; then echo "#read $Userdir/User.tin" fi}
+	#script {if [ -f $Userdir/User.tin ]; then echo "#read $Userdir/User.tin"; fi};
+	#script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi}
 }
 
 #FUNCTION {Homedir}
