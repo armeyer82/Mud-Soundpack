@@ -1,48 +1,5 @@
 #CLASS {Development} OPEN
 
-#ALIAS {.save-class}
-{
-	#switch {"%1"}
-	{
-		#case {"Main"}
-		{
-			#showme Saving Main class;
-			#class Main write ./Scripts/Main.tin;
-			#class Main open;
-			#break
-		};
-		#case {"Development"}
-		{
-			#showme Saving Development class;
-			#class Development write ./Scripts/Development.tin;
-			#class Development open;
-			#break
-		};
-		#case {"User"}
-		{
-			#showme Saving User class;
-			#class User write @Homedir{}/Mud-Files/$SESSION/User-Scripts/User.tin;
-			#class User open;
-			#break
-		};
-		#case {"UserSettings"}
-		{
-			#showme Saving UserSettings class;
-			#class UserSettings write @Homedir{}/Mud-Files/$SESSION/User-Scripts/UserSettings.tin;
-			#class UserSettings open;
-			#break
-		};
-		#default
-		{
-			#showme Saving %1 class;
-			#class %1 write ./$SESSION/%1.tin;
-			#class %1 open
-		}
-	}
-}
-{5}
-
-
 #ALIAS {.load-class}
 {
 	#switch {"%1"}
@@ -85,6 +42,68 @@
 }
 {5}
 
+#ALIAS {.reload-class}
+{
+	#if {"%1"=="Development"}
+	{
+		#showme Reloading Development class without first saving.;
+		#showme Killing Development class;
+		#class Development kill;
+		#read ./Scripts/Development.tin;
+		#class Development open;
+		#showme Reloaded Development class
+	};
+	#else
+	{
+		#showme Reloading %1 class without first saving.;
+		#showme Killing %1 class.;
+		#class %1 kill;
+		.load-class %1
+	}
+}
+{5}
+
+#ALIAS {.save-class}
+{
+	#switch {"%1"}
+	{
+		#case {"Main"}
+		{
+			#showme Saving Main class;
+			#class Main write ./Scripts/Main.tin;
+			#class Main open;
+			#break
+		};
+		#case {"Development"}
+		{
+			#showme Saving Development class;
+			#class Development write ./Scripts/Development.tin;
+			#class Development open;
+			#break
+		};
+		#case {"User"}
+		{
+			#showme Saving User class;
+			#class User write @Homedir{}/Mud-Files/$SESSION/User-Scripts/User.tin;
+			#class User open;
+			#break
+		};
+		#case {"UserSettings"}
+		{
+			#showme Saving UserSettings class;
+			#class UserSettings write @Homedir{}/Mud-Files/$SESSION/User-Scripts/UserSettings.tin;
+			#class UserSettings open;
+			#break
+		};
+		#default
+		{
+			#showme Saving %1 class;
+			#class %1 write ./$SESSION/%1.tin;
+			#class %1 open
+		}
+	}
+}
+{5}
 
 
 #CLASS {Development} CLOSE
