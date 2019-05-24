@@ -12,11 +12,6 @@
 }
 {5}
 
-#ACTION {%* transmits%*}
-{
-	play General/Socials/Transmit.wav
-}
-{9}
 
 #ACTION {%* {says|whispers}%*}
 {

@@ -12,17 +12,16 @@
 }
 {5}
 
-#ALIAS {sox}
+#ALIAS {ProgramExists}
 {
-	if hash sox 2>/dev/null;
-	then echo "sox exists";
-	else;
-	echo "sox does not exist"
+	#script {if hash %1 2>/dev/null; then echo "#show %1 is installed."; else echo "#end %1 does not appear to be installed, but is required for the soundpack to function properly. Please install %1 and run the soundpack again. Exiting."; fi}
 }
-{5}
 
 #EVENT {PROGRAM START}
 {
+	#show Running on %0 version %1.\n;
+	#show Verifying necessary programs are installed.;
+	ProgramExists sox;
 	#read ./Scripts/Development.tin;
 	#system mkdir -p ~/Mud-Files/
 }
