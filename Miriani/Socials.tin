@@ -12,6 +12,18 @@
 }
 {5}
 
+#ACTION {%* transmits%*}
+{
+	play General/Socials/Transmit.wav
+}
+{9}
+
+#ACTION {%* {says|whispers}%*}
+{
+	play General/Socials/say.wav
+}
+{5}
+
 #ACTION {^#$#soundpack emote | female | %* cries out %*}
 {
 	play General/Socials/Orgasmf@rnd{6}.wav
