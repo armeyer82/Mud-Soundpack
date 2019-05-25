@@ -31,7 +31,7 @@
 	#system mkdir -p ~/Mud-Files/Settings/
 }
 
-#EVENT {SESSION CONNECTED}
+#EVENT {SESSION CREATED}
 {
 	#system mkdir -p ./@Session{};
 	#script {for i in $( ls ./@Session{}/*.tin ); do echo "#read $i"; done};
