@@ -69,6 +69,4 @@
 	#math {result} {1d%1}
 }
 
-#VARIABLE         {result}  {gts}
-
 #CLASS {Main} CLOSE

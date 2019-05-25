@@ -328,16 +328,5 @@
 
 #GAG              {^A chime is piped through a nearby speaker, indicating that somebody has entered the airlock.$}
 #GAG              {^You pull a series of straps around yourself and securely buckle yourself into your seat.$}
-#VARIABLE         {Otona 1}  {1}
-#VARIABLE         {Praelor Bzani}  {2}
-#VARIABLE         {Praelor Bzzr}  {7}
-#VARIABLE         {Praelor Muzano}  {11}
-#VARIABLE         {Praelor Muzati}  {6}
-#VARIABLE         {Praelor Onati}  {10}
-#VARIABLE         {Praelor Onno}  {9}
-#VARIABLE         {Praelor Ontanka}  {3}
-#VARIABLE         {Praelor Onz}  {8}
-#VARIABLE         {Praelor Orta}  {5}
-#VARIABLE         {Praelor Otona}  {4}
 
 #CLASS {Ship-Misc} CLOSE
