@@ -1,1 +1,1 @@
-tt++ -G -e "#show Welcome to the MUD SoundPack;#read ./Scripts/Main.tin" 
+tt++ -G -e "#read ./Scripts/Main.tin" 

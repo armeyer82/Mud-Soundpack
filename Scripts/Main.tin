@@ -19,6 +19,9 @@
 
 #EVENT {PROGRAM START}
 {
+	#script {Version} {cat ./Scripts/Version.txt};
+	#show Welcome to the Mud Soundpack, Version $Version[1].;
+	#show Written by A. R. Meyer;
 	#show Running on %0 version %1.\n;
 	#show Verifying necessary programs are installed.;
 	ProgramExists sox;
