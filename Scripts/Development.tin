@@ -13,11 +13,17 @@
 		};
 		#case {"Development"}
 		{
-			#showme Saving Development class;
-			#read./Scripts/Development.tin;
+			#showme Loading Development class;
+			#read ./Scripts/Development.tin;
 			#class Development open;
 			#break
 		};
+		#case {"Worlds"}
+			{
+			#show Loading Worlds Class;
+			#read ./Scripts/Worlds.tin;
+			#class Worlds open
+			};
 		#case {"User"}
 		{
 			#showme Loading User class;
@@ -81,6 +87,12 @@
 			#class Development open;
 			#break
 		};
+		#case {"Worlds"}
+			{
+			#show Saving Worlds class;
+			#class Worlds write ./Scripts/Worlds.tin;
+			#class Worlds open
+			};
 		#case {"User"}
 		{
 			#showme Saving User class;

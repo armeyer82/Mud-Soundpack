@@ -1,0 +1,19 @@
+#CLASS {Worlds} OPEN
+
+#ALIAS {add-world}
+{
+	#showme Adding %1;
+	#variable World[%1][Host] %2;
+	#variable World[%1][Port] %3
+}
+{5}
+
+#ALIAS {connect}
+{
+	#session %1 $World[%1][Host] $World[%1][Port]
+}
+{5}
+
+#VARIABLE         {World}  {{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}{StarConquest}{{Host}{moo.squidsoft.net}{Port}{7777}}}
+
+#CLASS {Worlds} CLOSE
