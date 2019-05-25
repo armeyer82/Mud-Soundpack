@@ -6,24 +6,25 @@
 }
 {5}
 
+#ALIAS {ProgramExists}
+{
+	#script {if hash %1 2>/dev/null; then echo "#show %1 is installed."; else echo "#end %1 does not appear to be installed, but is required for the soundpack to function properly. Please install %1 and run the soundpack again. Exiting."; fi}
+}
+{5}
+
 #ALIAS {play %*.{wav|mp3|aiff}}
 {
 	#system play -qV0 -G $soundpath/%1.%2 gain -n -h vol $Volume[GameSounds] &
 }
 {5}
 
-#ALIAS {ProgramExists}
-{
-	#script {if hash %1 2>/dev/null; then echo "#show %1 is installed."; else echo "#end %1 does not appear to be installed, but is required for the soundpack to function properly. Please install %1 and run the soundpack again. Exiting."; fi}
-}
-
 #EVENT {PROGRAM START}
 {
 	#script {Version} {cat ./Scripts/Version.txt};
-	#show Welcome to the Mud Soundpack, Version $Version[1].;
-	#show Written by A. R. Meyer;
-	#show Running on %0 version %1.\n;
-	#show Verifying necessary programs are installed.;
+	#showme Welcome to the Mud Soundpack, Version $Version[1].;
+	#showme Written by A. R. Meyer;
+	#showme Running on %0 version %1.\n;
+	#showme Verifying necessary programs are installed.;
 	ProgramExists sox;
 	#read ./Scripts/Development.tin;
 	#read ./Scripts/Worlds.tin;
@@ -43,10 +44,20 @@
 	#script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi}
 }
 
+#FUNCTION {Date}
+{
+	#format {result} {%M-%D-%Y}
+}
+
 #FUNCTION {Homedir}
 {
 	#script {Homedir} {echo $HOME};
 	#return $Homedir[1]
+}
+
+#FUNCTION {Time}
+{
+	#format {result} {%t}{%H:%M}
 }
 
 #FUNCTION {rnd}
@@ -54,5 +65,6 @@
 	#math {result} {1d%1}
 }
 
+#VARIABLE         {result}  {################################################################################:0}
 
 #CLASS {Main} CLOSE
