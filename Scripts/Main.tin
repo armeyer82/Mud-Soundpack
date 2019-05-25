@@ -26,6 +26,7 @@
 	#show Verifying necessary programs are installed.;
 	ProgramExists sox;
 	#read ./Scripts/Development.tin;
+	#read ./Scripts/Worlds.tin;
 	#system mkdir -p ~/Mud-Files/
 }
 
