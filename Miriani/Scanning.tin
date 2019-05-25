@@ -12,14 +12,11 @@
 }
 {5}
 
-<<<<<<< HEAD
-=======
 #ACTION {^Coordinates: (%d, %d, %d)}
 {
 	#variable Scan[Coordinates] %1 %2 %3
 }
 {5}
->>>>>>> v3.0.0-dev
 
 #ACTION {^Distance: %1}
 {

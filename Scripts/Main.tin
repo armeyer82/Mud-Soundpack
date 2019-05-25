@@ -28,18 +28,17 @@
 	ProgramExists sox;
 	#read ./Scripts/Development.tin;
 	#read ./Scripts/Worlds.tin;
-	#system mkdir -p ~/Mud-Files/
+	#system mkdir -p ~/Mud-Files/Settings/
 }
 
 #EVENT {SESSION CONNECTED}
 {
-	#system mkdir -p ./$SESSION;
-	#script {for i in $( ls ./%0/*.tin ); do echo "#read" $i; done};
-	#variable SESSION %0;
-	#system mkdir -p ~/Mud-Files/$SESSION/;
-	#system mkdir -p ~/Mud-Files/$SESSION/Logs/;
-	#variable Userdir @Homedir{}/Mud-Files/$SESSION/User-Scripts/;
-	#variable Logdir @Homedir{}/Mud-Files/$SESSION/Logs/;
+	#system mkdir -p ./@Session{};
+	#script {for i in $( ls ./@Session{}/*.tin ); do echo "#read $i"; done};
+	#system mkdir -p ~/Mud-Files/@Session{}/;
+	#system mkdir -p ~/Mud-Files/@Session{}/Logs/;
+	#variable Userdir @Homedir{}/Mud-Files/@Session{}/User-Scripts/;
+	#variable Logdir @Homedir{}/Mud-Files/@Session{}/Logs/;
 	#script {if [ -f $Userdir/User.tin ]; then echo "#read $Userdir/User.tin"; fi};
 	#script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi}
 }
@@ -55,6 +54,11 @@
 	#return $Homedir[1]
 }
 
+#FUNCTION {Session}
+{
+	#format {result} {%S}
+}
+
 #FUNCTION {Time}
 {
 	#format {result} {%t}{%H:%M}
@@ -65,6 +69,6 @@
 	#math {result} {1d%1}
 }
 
-#VARIABLE         {result}  {################################################################################:0}
+#VARIABLE         {result}  {gts}
 
 #CLASS {Main} CLOSE

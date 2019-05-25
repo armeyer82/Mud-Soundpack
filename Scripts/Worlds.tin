@@ -14,6 +14,12 @@
 }
 {5}
 
-#VARIABLE         {World}  {{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}{StarConquest}{{Host}{moo.squidsoft.net}{Port}{7777}}}
+#ALIAS {delete-world}
+{
+	#unvariable World[%1];	#show Deleted %1
+}
+{5}
+
+#VARIABLE         {World}  {{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}}
 
 #CLASS {Worlds} CLOSE

@@ -2,7 +2,12 @@
 
 #ACTION {^#$#mcp version:}
 {
-	#send #$#register_soundpack Tintin Soundpacks for Mac | $Version[1]
+	#send #$#register_soundpack Tintin Soundpacks for Mac | $Version[1];
+	#EVENT {MINUTE}
+{
+	#send #$#soundpack_ping
+}
+
 }
 {5}
 
@@ -74,11 +79,6 @@
 }
 {5}
 
-#EVENT {MINUTE}
-{
-	#send #$#soundpack_ping
-}
 #gag  {^#$#}
-#VARIABLE         {LAG}  {{Date}{05-21-2018}{MS}{106}{Time}{21:42}}
 
 #CLASS {Out-Of-Band} CLOSE
