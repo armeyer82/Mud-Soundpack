@@ -28,7 +28,8 @@
 	ProgramExists sox;
 	#read ./Scripts/Development.tin;
 	#read ./Scripts/Worlds.tin;
-	#system mkdir -p ~/Mud-Files/Settings/
+	#system mkdir -p ~/Mud-Files/Settings/;
+	#var SettingsPath @Homedir{}/Mud-Files/Settings/
 }
 
 #EVENT {SESSION CREATED}
