@@ -2,14 +2,16 @@
 
 #ALIAS {add-ssl}
 {
-	
-	#if {@WorldExists{%i%1}} {
-	#variable World[%1][SSLport] %2;
-	#var World[%1][UseSSL] 1;
-	#show Added %2 as the SSL port for %1 and enabled SSL;
-	.save-class Worlds
-	}; #else {
-	#show No information on this world. Please add it first before trying to add SSL connection information.
+	#if {@WorldExists{%i%1}}
+	{
+		#variable World[%1][SSLport] %2;
+		#variable World[%1][UseSSL] 1;
+		#showme Added %2 as the SSL port for %1 and enabled SSL;
+		.save-class Worlds
+	};
+	#else
+	{
+		#showme No information on this world. Please add it first before trying to add SSL connection information.
 	}
 }
 {5}
@@ -25,20 +27,27 @@
 		#showme Adding %1;
 		#variable World[][Host] %2;
 		#variable World[%1][Port] %3;
-	.save-class Worlds
+		.save-class Worlds
 	}
 }
 {5}
 
 #ALIAS {connect}
 {
-	#if {@WorldExists{%i%1}}
+	#if {"%1"!=""}
 	{
-		#session %1 $World[+@WorldExists{%i%1}][Host] $World[+@WorldExists{%i%1}][Port]
+		#if {@WorldExists{%i%1}}
+		{
+			#session %1 $World[+@WorldExists{%i%1}][Host] $World[+@WorldExists{%i%1}][Port]
+		};
+		#else
+		{
+			#showme Sorry I don't have connection information for that MUD.
+		}
 	};
 	#else
 	{
-		#showme Sorry I don't have connection information for that MUD.
+		#showme Please specify the name of a mud.
 	}
 }
 {5}
