@@ -29,7 +29,7 @@
 	#read ./Scripts/Development.tin;
 	#read ./Scripts/Worlds.tin;
 	#system mkdir -p ~/Mud-Files/Settings/;
-	#var SettingsPath @Homedir{}/Mud-Files/Settings/
+	#variable SettingsPath @Homedir{}/Mud-Files/Settings/
 }
 
 #EVENT {SESSION CREATED}
@@ -68,10 +68,17 @@
 	#format {result} {%t}{%H:%M}
 }
 
+#FUNCTION {increment}
+{
+	#local result;
+	#math {result} {%1+1}
+}
+
 #FUNCTION {rnd}
 {
 	#local result;
 	#math {result} {1d%1}
 }
+
 
 #CLASS {Main} CLOSE
