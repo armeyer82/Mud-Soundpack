@@ -40,7 +40,7 @@ play General/Misc/Beep1.wav;
 
 #ACTION {^You feel mild acceleration as the ship descends}
 {
-	play Ship/Move/YouLanding.mp3
+	play Ship/Move/YouLanding.wav
 }
 {5}
 
