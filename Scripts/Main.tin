@@ -51,22 +51,26 @@
 
 #FUNCTION {Homedir}
 {
+	#local Homedir;
 	#script {Homedir} {echo $HOME};
 	#return $Homedir[1]
 }
 
 #FUNCTION {Session}
 {
+	#local result;
 	#format {result} {%S}
 }
 
 #FUNCTION {Time}
 {
+	#local result;
 	#format {result} {%t}{%H:%M}
 }
 
 #FUNCTION {rnd}
 {
+	#local result;
 	#math {result} {1d%1}
 }
 
