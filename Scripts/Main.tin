@@ -14,7 +14,7 @@
 
 #ALIAS {play %*.{wav|mp3|aiff}}
 {
-	#system play -qV0 -G $soundpath/%1.%2 gain -n -h vol $Volume[GameSounds] &
+	#system play -qV0 $soundpath/%1.%2 norm -h vol $Volume[GameSounds] &
 }
 {5}
 
