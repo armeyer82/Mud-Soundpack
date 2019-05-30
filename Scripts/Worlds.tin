@@ -2,11 +2,13 @@
 
 #ALIAS {add-ssl}
 {
-	#if {@WorldExists{%i%1}}
+	#local Mudname;
+	#format {Mudname} {%n}{%1};
+	#if {@WorldExists{$Mudname}}
 	{
-		#variable World[%1][SSLport] %2;
+		#variable World[$Mudname][SSLport] %2;
 		#variable World[%1][UseSSL] 1;
-		#showme Added %2 as the SSL port for %1 and enabled SSL;
+		#showme Added %2 as the SSL port for $Mudname and enabled SSL;
 		.save-class Worlds
 	};
 	#else
@@ -18,15 +20,17 @@
 
 #ALIAS {add-world}
 {
-	#if {@WorldExists{%i%1}}
+	#local Mudname;
+	#format {Mudname} {%n}{%1};
+	#if {@WorldExists{$Mudname}}
 	{
 		#showme A world with that name already exists.
 	};
 	#else
 	{
-		#showme Adding %1;
-		#variable World[%1][Host] %2;
-		#variable World[%1][Port] %3;
+		#showme Adding $Mudname;
+		#variable World[$Mudname][Host] %2;
+		#variable World[$Mudname][Port] %3;
 		.save-class Worlds
 	}
 }
@@ -36,9 +40,9 @@
 {
 	#if {"%1"!=""}
 	{
-		#if {@WorldExists{%i%1}}
+		#if {@WorldExists{%1}}
 		{
-			#session %1 $World[+@WorldExists{%i%1}][Host] $World[+@WorldExists{%i%1}][Port]
+			#session %1 $World[+@WorldExists{%1}][Host] $World[+@WorldExists{%1}][Port]
 		};
 		#else
 		{
@@ -54,24 +58,27 @@
 
 #ALIAS {delete-world}
 {
-	#local World_name;
-	#if {@WorldExists[%1]}
+	#local Mudname;
+	#format {Mudname} {%n}{%1};
+	#if {@WorldExists[$Mudname]}
 	{
-		#unvariable World[%1];
-		#showme Deleted %1
+		#unvariable World[$Mudname];
+		#showme Deleted $Mudname
 	};
 	#else
 	{
-		#showme %1 does not exists.
+		#showme $Mudname does not exists.
 	}
 }
 {5}
 
 #FUNCTION {WorldExists}
 {
-	#return &World[%1]
+	#local result;
+	#format {result} {%n}{%1};
+	#return &World[$result]
 }
 
-#VARIABLE         {World}  {{Everdark}{{Host}{everdark.org}{Port}{3000}}{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}{StarConquest}{{Host}{moo.squidsoft.net}{Port}{7777}}}
+#VARIABLE         {World}  {{Everdark}{{Host}{everdark.org}{Port}{3000}}{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}{Starconquest}{{Host}{moo.squidsoft.net}{Port}{7777}}}
 
 #CLASS {Worlds} CLOSE
