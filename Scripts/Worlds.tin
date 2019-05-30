@@ -25,7 +25,7 @@
 	#else
 	{
 		#showme Adding %1;
-		#variable World[][Host] %2;
+		#variable World[%1][Host] %2;
 		#variable World[%1][Port] %3;
 		.save-class Worlds
 	}
@@ -72,6 +72,6 @@
 	#return &World[%1]
 }
 
-#VARIABLE         {World}  {{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}}
+#VARIABLE         {World}  {{}{}{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}}
 
 #CLASS {Worlds} CLOSE
