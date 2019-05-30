@@ -72,6 +72,6 @@
 	#return &World[%1]
 }
 
-#VARIABLE         {World}  {{}{}{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}}
+#VARIABLE         {World}  {{Everdark}{{Host}{everdark.org}{Port}{3000}}{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}}{StarConquest}{{Host}{moo.squidsoft.net}{Port}{7777}}}
 
 #CLASS {Worlds} CLOSE
