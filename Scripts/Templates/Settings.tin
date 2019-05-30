@@ -1,0 +1,6 @@
+#CLASS {Settings} OPEN
+
+#VARIABLE         {SSL}  {1}
+#VARIABLE         {auto-connect}  {1}
+
+#CLASS {Settings} CLOSE

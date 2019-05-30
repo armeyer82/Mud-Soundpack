@@ -25,18 +25,22 @@
 	#showme Written by A. R. Meyer;
 	#showme Running on %0 version %1.\n;
 	#showme Verifying necessary programs are installed.;
-	ProgramExists sox;
+	ProgramExists sox;	#system {if [ ! -f ~/Mud-Files/Settings/Settings.tin ]; then cp ./Scripts/Templates/Settings.tin ~/Mud-Files/Settings/; fi};
+	#system {if [ ! -f ~/Mud-Files/Settings/Config.tin ]; then cp ./Scripts/Templates/Config.tin ~/Mud-Files/Settings/; fi};
+	#script {for i in $( ls ~/Mud-Files/Settings/*.tin ); do echo "#read $i"; done};
 	#read ./Scripts/Development.tin;
 	#read ./Scripts/Worlds.tin;
 	#system mkdir -p ~/Mud-Files/Settings/;
-	#variable SettingsPath @Homedir{}/Mud-Files/Settings/
+	#variable SettingsPath @Homedir{}/Mud-Files/Settings/;
+	#class User open;
+	auto-connect
 }
 
 #EVENT {SESSION CREATED}
 {
+	#system mkdir -p ~/Mud-Files/@Session{}/;
 	#system mkdir -p ./@Session{};
 	#script {for i in $( ls ./@Session{}/*.tin ); do echo "#read $i"; done};
-	#system mkdir -p ~/Mud-Files/@Session{}/;
 	#system mkdir -p ~/Mud-Files/@Session{}/Logs/;
 	#variable Userdir @Homedir{}/Mud-Files/@Session{}/User-Scripts/;
 	#variable Logdir @Homedir{}/Mud-Files/@Session{}/Logs/;
