@@ -169,15 +169,15 @@
 	#if {"%1"=="clear"}
 	{
 		#showme Resetting hit counter;
-		#variable {HC.TotalHits} 0;
-		#variable {HC.ShipHits} 0;
-		#variable {HC.Misses} 0;
-		#variable {HC.Partials} 0;
-		#variable {HC.WHits} 0
+		#variable HC.TotalHits 0;
+		#variable HC.ShipHits 0;
+		#variable HC.Misses 0;
+		#variable HC.Partials 0;
+		#variable HC.WHits 0
 	};
 	#else
 	{
-	#math {{HC.TotalHits}} {${HC[WHits]}+${HC[Partials]}};
+	#math {HC.TotalHits} {${HC.WHits}+${HC.Partials}};
 	#show Total Hits: ${HC.TotalHits};
 		#showme Direct Hits: ${HC.WHits};
 		#showme Partial Hits ${HC.Partials};

@@ -27,21 +27,21 @@
 		#case {"User"}
 		{
 			#showme Loading User class;
-			#read @Homedir{}/Mud-Files/$SESSION/User-Scripts/User.tin;
+			#read @Homedir{}/Mud-Files/@Session{}/User-Scripts/User.tin;
 			#class User open;
 			#break
 		};
 		#case {"UserSettings"}
 		{
 			#showme Loading UserSettings class;
-			#read @Homedir{}/Mud-Files/$SESSION/User-Scripts/UserSettings.tin;
+			#read @Homedir{}/Mud-Files/@Session{}/User-Scripts/UserSettings.tin;
 			#class UserSettings open;
 			#break
 		};
 		#default
 		{
 			#showme Loading %1 class;
-			#read ./$SESSION/%1.tin;
+			#read ./@Session{}/%1.tin;
 			#class %1 open
 		}
 	}
@@ -96,21 +96,21 @@
 		#case {"User"}
 		{
 			#showme Saving User class;
-			#class User write @Homedir{}/Mud-Files/$SESSION/User-Scripts/User.tin;
+			#class User write @Homedir{}/Mud-Files/@Session{}/User-Scripts/User.tin;
 			#class User open;
 			#break
 		};
 		#case {"UserSettings"}
 		{
 			#showme Saving UserSettings class;
-			#class UserSettings write @Homedir{}/Mud-Files/$SESSION/User-Scripts/UserSettings.tin;
+			#class UserSettings write @Homedir{}/Mud-Files/@Session{}/User-Scripts/UserSettings.tin;
 			#class UserSettings open;
 			#break
 		};
 		#default
 		{
 			#showme Saving %1 class;
-			#class %1 write ./$SESSION/%1.tin;
+			#class %1 write ./@Session{}/%1.tin;
 			#class %1 open
 		}
 	}
