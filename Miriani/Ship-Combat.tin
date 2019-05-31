@@ -177,7 +177,7 @@
 	};
 	#else
 	{
-	#math {HC.TotalHits} {$HC[WHits]+$HC[Partials]};
+	#math {{HC.TotalHits}} {${HC[WHits]}+${HC[Partials]}};
 	#show Total Hits: ${HC.TotalHits};
 		#showme Direct Hits: ${HC.WHits};
 		#showme Partial Hits ${HC.Partials};

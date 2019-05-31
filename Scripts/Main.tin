@@ -46,7 +46,7 @@
 	#variable Logdir @Homedir{}/Mud-Files/@Session{}/Logs/;
 	#script {if [ -f $Userdir/User.tin ]; then echo "#read $Userdir/User.tin"; fi};
 	#script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi};
-	#log {append} {$Logdir/@date{}.log}
+	#log {append} {$Logdir/@Date{}.log}
 }
 
 #FUNCTION {Date}
