@@ -99,8 +99,6 @@
 #ACTION {^You float out of the ship into space.}
 {
 	StopRoomSound;
-	#class Numpad-walk kill;
-	#read Numpad-fly.tin
 }
 {5}
 
