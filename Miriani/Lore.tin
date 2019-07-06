@@ -6,11 +6,16 @@
 }
 {5}
 
-#ACTION {^Via the TransLink network, the LoreTech device}
+#ACTION {^Via the TransLink network, the LoreTech device "%1" reports current location pinpointed {aboard|at} %3}
 {
+	#showme %1 is %2 %3;
+	#line gag;
 	play General/Lore/Track.wav
 }
 {5}
 
+#GAG              {LoreTech Personal Lore Computer - [Lore Tracker]}
+#GAG              {^You make a selection on a}
+#SUBSTITUTE       {No LoreTech devices located on TransLink network with the ID tag of "%*."}                                                       {%1 not found.}  {5}
 
 #CLASS {Lore} CLOSE
