@@ -1,0 +1,34 @@
+#CLASS {SM} OPEN
+
+#ACTION {^Starships: %*}
+{
+#local TempString;
+	#variable SMString %1;
+	#replace {SMString} {), and} {),};
+	#replace {SMString} {),} {);};
+	#replace {SMString} {, } { };
+	#list {ShipList} clear;
+	#foreach {$SMString} {TempString} {#list {ShipList} add {$TempString}};
+	#regexp {$ShipList[1]} {{[0-9]+}} {ComputeDistance &1 &2 &3}
+}
+{5}
+#ALIAS {ComputeDistance %d %d %d}
+{
+	#local result;
+	#variable Temp[X] @abs{$My[X]-%1};
+	#variable Temp[Y] @abs{$My[Y]-%2};
+	#variable Temp[Z] @abs{$My[Z]-%3};
+	#format {result} {%.2f} {($Temp[X]**2+$Temp[Y]**2+$Temp[Z]**2)//2};
+	#showme $result;
+	#format {result} {%d} {$result};
+	#var ObjectDistance  $result
+}
+{5}
+
+#VARIABLE         {My}  {{X}{8}{Y}{4}{Z}{8}}
+#VARIABLE         {Object}  {{X}{0}{Y}{0}{Z}{0}}
+#VARIABLE         {SMString}  {Test2 [R] (8, 4, 8(; Praelor Ontanka Drone 1 [C] (8, 3, 7(; Praelor Ontanka Drone 2 [C] (9, 19, 18(; Praelor Ontanka Drone 3 [C] (19, 12, 10(; and Praelor Ontanka Drone 4 [C] (4, 17, 19)}
+#VARIABLE         {Short_range}  {{1}{Amy}{2}{Draksen}{3}{transmits,}{4}{"Ok}{5}{this}{6}{is}{7}{a}{8}{little}{9}{weird}{10}{now."}{11}{Andreas}{12}{Fierro}{13}{transmits,}{14}{"Helio}{15}{power."}{16}{Chet}{17}{Daniels}{18}{transmits,}{19}{"Everybody}{20}{have}{21}{a}{22}{great}{23}{night}{24}{now."}}
+#VARIABLE         {Temp}  {{X}{2}{Y}{1}{Z}{1}}
+
+#CLASS {SM} CLOSE
