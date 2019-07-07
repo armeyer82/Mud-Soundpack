@@ -17,5 +17,6 @@
 #GAG              {LoreTech Personal Lore Computer - [Lore Tracker]}
 #GAG              {^You make a selection on a}
 #SUBSTITUTE       {No LoreTech devices located on TransLink network with the ID tag of "%*."}                                                       {%1 not found.}  {5}
+#SUBSTITUTE       {^A %* beeps quietly, indicating that its TransLink tracking functionality has been activated.}                                                                           {A %1 has been tracked.}  {5}
 
 #CLASS {Lore} CLOSE
