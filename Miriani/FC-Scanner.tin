@@ -1,0 +1,12 @@
+#CLASS {FC-Scanner} OPEN
+
+#ACTION {{you|You} hear a %* flight control scanner announce, "%*"}
+{
+	#showme {Flight Control: %3};
+	play General/Comm/FlightScanner.wav;
+	#line gag
+}
+{5}
+
+
+#CLASS {FC-Scanner} CLOSE
