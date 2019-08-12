@@ -2,7 +2,7 @@
 
 #ACTION {{you|You} hear a %* flight control scanner announce, "%*"}
 {
-	#showme {Flight Control: %3};
+	#showme {%3};
 	play General/Comm/FlightScanner.wav;
 	#line gag
 }
