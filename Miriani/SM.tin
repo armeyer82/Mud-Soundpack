@@ -11,7 +11,8 @@
 
 #ACTION {^Alert: Sensor interference detected.}
 {
-	#variable SMFilter none
+	#variable SMFilter none;
+	play Ship/Computer/SensorInterference.wav
 }
 {5}
 
