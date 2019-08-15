@@ -6,7 +6,6 @@
 }
 {5}
 
-
 #ACTION {^You unmute}
 {
 	play General/Comm/Unmute.wav
@@ -16,6 +15,12 @@
 #ACTION {^[Chatter]}
 {
 	play General/Comm/Chatter.wav
+}
+{5}
+
+#ACTION {^[Tradesman Market]}
+{
+	play General/Comm/CM.wav
 }
 {5}
 
