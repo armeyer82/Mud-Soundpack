@@ -26,12 +26,6 @@
 }
 {5}
 
-#ACTION {^The computer announces, "%*"}
-{
-	play Ship/Computer/announce@rnd{4}.wav
-}
-{9}
-
 #ACTION {^The computer announces, "An artifact has been detected in the sector."}
 {
 	play Ship/Computer/Artifact.wav;
@@ -70,5 +64,12 @@
 }
 {5}
 
+#ACTION {^The computer announces, "%*"}
+{
+	play Ship/Computer/announce@rnd{4}.wav
+}
+{9}
+
+#SUBSTITUTE       {^The computer reports that the starship is currently headed %*}                                            {%1}  {5}
 
 #CLASS {Ship-Computer} CLOSE
