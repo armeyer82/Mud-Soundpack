@@ -1,5 +1,13 @@
 #CLASS {Comm} OPEN
 
+#ACTION {[Private | {Auction Service|Combat Mission Notification Service|Communication Loopback Recipient|Reminder Service}] %*}
+{
+	play General/Comm/Services.wav;
+	#line gag;
+	#showme %2
+}
+{4}
+
 #ACTION {^You mute}
 {
 	play General/Comm/Mute.wav
@@ -26,12 +34,6 @@
 }
 {5}
 
-#ACTION {^[Private | {Auction Service|Combat Mission Notification Service|Communication Loopback Recipient|Reminder Service}]}
-{
-	play General/Comm/Services.wav
-}
-{4}
-
 #ACTION {^[Starship}
 {
 	play Ship/Comm/Relay.wav
@@ -45,6 +47,6 @@
 {5}
 
 #SUBSTITUTE       {^You press a small button mounted on the wall and say, "%1"}                                         {%1}  {5}
-#SUBSTITUTE       {^[Private | %*] %*,}  {^[Private | %1]}  {5}
+#SUBSTITUTE       {^[Private | %*] %*,}  {[%1]}  {5}
 
 #CLASS {Comm} CLOSE
