@@ -26,7 +26,7 @@
 }
 {5}
 
-#ACTION {^[Private | {Auction Service|Combat Mission Notification Service|Communication Loopback Recipient}]}
+#ACTION {^[Private | {Auction Service|Combat Mission Notification Service|Communication Loopback Recipient|Reminder Service}]}
 {
 	play General/Comm/Services.wav
 }
