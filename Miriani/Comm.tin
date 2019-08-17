@@ -12,11 +12,25 @@
 }
 {5}
 
+#ACTION {^Your communicator reports that the target is unavailable. They might not be awake to hear your transmission or they may have private communications disabled.}
+{
+	play General/Comm/CommInactive.wav;
+	#showme Unavailable.;
+	#line gag
+}
+{5}
+
 #ACTION {^[Chatter]}
 {
 	play General/Comm/Chatter.wav
 }
 {5}
+
+#ACTION {^[Private | {Auction Service|Combat Mission Notification Service|Communication Loopback Recipient}]}
+{
+	play General/Comm/Services.wav
+}
+{4}
 
 #ACTION {^[Starship}
 {
