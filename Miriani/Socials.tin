@@ -1,8 +1,12 @@
 #CLASS {Socials} OPEN
 
-#ACTION {#$#soundpack emote | female | %*moans%*}
+#ACTION {#$#soundpack emote | %w | %*}
 {
-	play General/Socials/Moanf@rnd{5}.wav
+#var Gender %1;
+	#var emote %2;
+	#replace {emote} {{.|?|,|!}} {};
+	#replace {emote} { } {;};
+	#foreach {$emote} {word} {PlaySocial $word $Gender}
 }
 {5}
 
@@ -195,6 +199,48 @@
 		#case {"{snore|snores}"}
 		{
 			play General/Socials/Snore@rnd{5}.wav
+		};
+		#case {"{whistle|whistles}"}
+		{
+			play General/Socials/Whistle@rnd{6}.wav
+		};
+		#case {"{yodel|yodels}"}
+		{
+			play General/Socials/Yodel.wav
+		};
+	#case {"{bop|bops}"}
+		{
+			play General/Socials/bop.wav
+		};
+		#case {"{chortle|chortles}"}
+		{
+			play General/Socials/Chortle.wav
+		};
+	#case {"{collapse|collapses}"}
+		{
+			play General/Socials/Collapse@rnd{3}.wav
+		};
+		#case {"{cough|coughs}"}
+		{
+			play General/Socials/cough@rnd{5}.wav
+		};
+		#case {"{gag|gags}"}
+		{
+			play General/Socials/Gag@rnd{2}.wav
+		};
+		#case {"lol"}
+	{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/LolF@rnd{2}.wav
+			};
+			#else {
+				play General/Socials/LolM@rnd{6}.wav
+			}
+		};
+		#case {"{sigh|sighs}"}
+		{
+			play General/Socials/sigh@rnd{6}.wav
 		}
 	}
 }
