@@ -1,0 +1,154 @@
+#CLASS {SM} OPEN
+
+#ACTION {^%*({Unclaimed|Neutral|The Hale Collective|Alliance of Interstellar Expansionists|Commonwealth of Free Spirits|Praelor Ontanka})%*}
+{
+	#if {"$SMFilter"!="none"}
+	{
+		#line gag
+	}
+}
+{5}
+
+#ACTION {^Alert: Sensor interference detected.}
+{
+	#variable SMFilter none;
+	play Ship/Computer/SensorInterference.wav
+}
+{5}
+
+#ACTION {^Starships: %*}
+{
+	#if {"$SMFilter"=="ships"}
+	{
+		#local TempString;
+		#variable SMString %1;
+		#replace {SMString} {), and} {),};
+		#replace {SMString} {),} {);};
+		#replace {SMString} {, } { };
+		#line gag
+	};
+}
+{5}
+
+#ACTION {^{Planets|Stars|Moons|Space Stations|Jumpgates|Debris|Galactic Coordinates|Control Beacons|Pellets|Unknown|Interdictors|Blockades|Accelerators|Proximity Weapons|Missiles|Combat Drones|Wormholes|Asteroids|Relics|Artifacts|Mobile Platforms|Private Space Stations|Private Moons|Satellites}: %*}
+{
+	#if {"$SMFilter"!="none"}
+	{
+		#line gag
+	}
+}
+{5}
+
+#ACTION {^Current Coordinates: (%1, %2, %3)}
+{
+	#variable My[X] %1;
+	#variable My[Y] %2;
+	#variable My[Z] %3;
+	#if {"$SMFilter"!="none"}
+	{
+		SMFilterProcessor;
+		#line gag;
+		#variable SMFilter none
+	};
+	#variable SMFilter none;
+	#list ShipList clear
+
+}
+{9}
+
+#ALIAS {ComputeDistance %d %d %d}
+{
+	#format {ObjectX} {%d} {%1};
+	#format {ObjectY} {%d} {%2};
+	#format {ObjectZ} {%d} {%3};
+	#math {Temp[X]} {$My[X]-$ObjectX};
+	#variable Temp[X] @abs{$Temp[X]};
+	#math {Temp[Y]} {$My[Y]-$ObjectY};
+	#variable Temp[Y] @abs{$Temp[Y]};
+	#math {Temp[Z]} {$My[Z]-$ObjectZ};
+	#variable Temp[Z] @abs{$Temp[Z]};
+	#format {ObjectDistance} {%.2f} {($Temp[X]**2+$Temp[Y]**2+$Temp[Z]**2)//2};
+	#format {ObjectDistance} {%d} {$ObjectDistance}
+}
+{5}
+
+#ALIAS {ProcessShips}
+{
+	#local ShipCounter 1;
+	#list {ShipList} clear;
+	#foreach {$SMString} {TempString}
+	{
+		#regexp {$TempString} {%* [%*] (%*)} {#var ShipName &1;#var ShipClass &2;#var ShipCoords &3};
+		ComputeDistance $ShipCoords;
+		#list ShipList[$ObjectDistance] add {$ShipCoords, $ShipName, ship $ShipCounter};
+		#nop #showme $ObjectDistance $ShipCoords $ShipName;
+		#variable ShipCounter @increment{$ShipCounter}
+	};
+	#showme $ShipList[+1][+1]
+}
+{5}
+
+#ALIAS {SMFilterProcessor}
+{
+	#if {"$SMFilter"!="none"}
+	{
+		#if {&SMString}
+		{
+			#switch {"$SMFilter"}
+			{
+				#case {"ships"}
+				{
+					ProcessShips
+				}
+			}
+		};
+		#else
+		{
+			#showme No $SMFilter.
+		}
+	};
+	#variable SMFilter none;
+	#unvariable SMString
+}
+{5}
+
+#ALIAS {sm}
+{
+	#if {"%1"!=""}
+	{
+		#switch {"%1"}
+		{
+			#case {"{ships|ship}"}
+			{
+				#variable SMFilter ships;
+				#send sm
+			};
+			#case {"planets"}
+			{
+				#showme Planets
+			}
+		}
+	};
+	#else
+	{
+		#send sm
+	}
+}
+{5}
+
+#ALIAS {smc}
+{
+	sm ships
+}
+{5}
+
+#VARIABLE         {My}  {{X}{9}{Y}{9}{Z}{9}}
+#VARIABLE         {Object}  {{X}{0}{Y}{0}{Z}{0}}
+#VARIABLE         {ObjectX}  {0}
+#VARIABLE         {ObjectY}  {0}
+#VARIABLE         {ObjectZ}  {0}
+#VARIABLE         {RoomSound}  {{1}{3238}}
+#VARIABLE         {SMFilter}  {none}
+#VARIABLE         {Temp}  {{X}{8}{Y}{2}{Z}{2}}
+
+#CLASS {SM} CLOSE
