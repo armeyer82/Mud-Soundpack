@@ -1,8 +1,13 @@
 #CLASS {Socials} OPEN
 
-#ACTION {#$#soundpack emote | female | %*moans%*}
+#ACTION {#$#soundpack emote | %w | %*}
 {
-	play General/Socials/Moanf@rnd{5}.wav
+#var Gender %1;
+	#var emote %2;
+#regexp {%2} {{.*} "{.*}" {.*}} {#var emote &1 &3};
+	#replace {emote} {{.|?|,|!}} {};
+	#replace {emote} { } {;};
+	#foreach {$emote} {word} {PlaySocial $word $Gender}
 }
 {5}
 
@@ -11,7 +16,6 @@
 	play General/Socials/Transmit.wav
 }
 {5}
-
 
 #ACTION {%* {says|whispers}%*}
 {
@@ -25,57 +29,9 @@
 }
 {5}
 
-#ACTION {^#$#soundpack social | giggle | female}
+#ACTION {^#$#soundpack social | %w | %w}
 {
-	play General/Socials/GiggleF@rnd{7}.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | moan | female}
-{
-	play General/Socials/MoanF@rnd{5}.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | moan | male}
-{
-	play General/Socials/MoanM@rnd{2}.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | orgasm | female}
-{
-	play General/Socials/OrgasmF@rnd{6}.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | slap}
-{
-	play General/Socials/Slap@rnd{5}.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | spank}
-{
-	play General/Socials/Spank.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | {kiss|french}}
-{
-	play General/Socials/kiss.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | {laugh|laughs} | female}
-{
-	play General/Socials/LaughF@rnd{8}.wav
-}
-{5}
-
-#ACTION {^#$#soundpack social | {laugh|laughs} | male}
-{
-	play General/Socials/LaughM@rnd{6}.wav
+	PlaySocial %1 %2
 }
 {5}
 
@@ -98,5 +54,217 @@
 }
 {5}
 
+#ALIAS {PlaySocial}
+{
+	#switch {"%1"}
+	{
+		#case {"{belch|belches}"}
+		{
+			play General/Socials/Belch@rnd{3}.wav
+		};
+		#case {"{boo|boos}"}
+		{
+			play General/Socials/Boo@rnd{4}.wav
+		};
+		#case {"{burp|burps}"}
+		{
+			play General/Socials/Burp@rnd{5}.wav
+		};
+		#case {"{cackle|cackles}"}
+		{
+			play General/Socials/Cackle@rnd{2}.wav
+		};
+		#case {"{cheer|cheers}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/CheerF@rnd{3}.wav
+			};
+			#else
+			{
+				play General/Socials/Cheerm@rnd{5}.wav
+			}
+		};
+		#case {"{chuckle|chuckles}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/GiggleF@rnd{7}.wav
+			};
+			#else
+			{
+				play General/Socials/Chucklem@rnd{2}.wav
+			}
+		};
+		#case {"{cry|cries}"}
+		{
+			#if {"%2"=="female"} 
+			{
+				play General/Socials/CryF@rnd{4}.wav
+			};
+			#else {
+				play General/Socials/Crym@rnd{3}.wav
+			}
+		};
+		#case {"{fart|farts}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/FartF@rnd{4}.wav
+			};
+			#else {
+				play General/Socials/FartM@rnd{9}.wav
+			}
+		};
+		#case {"{giggle|giggles}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/GiggleF@rnd{7}.wav
+			};
+			#else {
+				play General/Socials/GiggleM1.wav
+			}
+		};
+		#case {"headdesk"}
+		{
+			play General/Socials/HeadDesk@rnd{3}.wav
+		};
+		#case {"{kick|kicks}"}
+		{
+			play General/Socials/Kick@rnd{20}.wav
+		};
+		#case {"{kiss|kisses|french|smooch|smooches}"}
+		{
+			play General/Socials/kiss.wav
+		};
+		#case {"{laugh|laughs}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/LaughF@rnd{8}.wav
+			};
+			#else {
+				play General/Socials/LaughM@rnd{6}.wav
+			}
+		};
+		#case {"{moan|moans}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/MoanF@rnd{5}.wav
+			};
+			#else {
+				play General/Socials/MoanM@rnd{2}.wav
+			}
+		};
+		#case {"{orgasm|orgasms|climax|climaxes|cum|cums|ecstacy}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/OrgasmF@rnd{6}.wav
+			};
+			#else {
+				play General/Socials/OrgasmM@rnd{2}.wav
+			}
+		};
+		#case {"{poke|pokes}"}
+		{
+			play General/Socials/Poke.wav
+		};
+		#case {"{punch|punches}"}
+		{
+			play General/Socials/Punch@rnd{19}.wav
+		};
+		#case {"{scream|screams}"}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/ScreamF@rnd{9}.wav
+			};
+			#else {
+				play General/Socials/ScreamM@rnd{5}.wav
+			}
+		};
+		#case {"{shriek|shrieks}:}
+		{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/ShriekF@rnd{2}.wav
+			}
+		};
+		#case {"{slap|slaps|smack|smacks}"}
+		{
+			play General/Socials/Slap@rnd{5}.wav
+		};
+		#case {"{snore|snores}"}
+		{
+			play General/Socials/Snore@rnd{5}.wav
+		};
+		#case {"{whistle|whistles}"}
+		{
+			play General/Socials/Whistle@rnd{6}.wav
+		};
+		#case {"{yodel|yodels}"}
+		{
+			play General/Socials/Yodel.wav
+		};
+	#case {"{bop|bops}"}
+		{
+			play General/Socials/bop.wav
+		};
+		#case {"{chortle|chortles}"}
+		{
+			play General/Socials/Chortle.wav
+		};
+	#case {"{collapse|collapses}"}
+		{
+			play General/Socials/Collapse@rnd{3}.wav
+		};
+		#case {"{cough|coughs}"}
+		{
+			play General/Socials/cough@rnd{5}.wav
+		};
+		#case {"{gag|gags}"}
+		{
+			play General/Socials/Gag@rnd{2}.wav
+		};
+		#case {"lol"}
+	{
+			#if {"%2"=="female"}
+			{
+				play General/Socials/LolF@rnd{2}.wav
+			};
+			#else {
+				play General/Socials/LolM@rnd{6}.wav
+			}
+		};
+		#case {"{sigh|sighs}"}
+		{
+			play General/Socials/sigh@rnd{6}.wav
+		};
+		#case {"{sigh|sighs}"}
+		{
+			play General/Socials/Snap@rnd{3}.wav
+		};
+		#case {"{snort|snorts}"}
+		{
+			play General/Socials/Snort.wav
+		};
+		#case {"{spank|spanks}"}
+		{
+			play General/Socials/Spank.wav
+		};
+		#case {"{vomit|vomits}"}
+		{
+			play General/Socials/Vomit.wav
+		};
+		#case {"{yawn|yawns}"}
+		{
+			play General/Socials/Yawn@rnd{2}.wav
+		}
+	}
+}
+{5}
 
 #CLASS {Socials} CLOSE

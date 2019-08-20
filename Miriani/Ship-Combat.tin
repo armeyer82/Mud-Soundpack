@@ -215,7 +215,7 @@
 #SUBSTITUTE       {Praelor %1 drone: %2}  {%2}  {5}
 #SUBSTITUTE       {^Praelor %1 Drone %d: %3}      {%3}  {5}
 #SUBSTITUTE       {^Standard Drone %d: %2}    {%2}  {5}
-#SUBSTITUTE       {^This starship has been hit by %*.}                {[${%1}] %1}  {5}
+#SUBSTITUTE       {^This starship has been hit by %*.}                {%1}  {5}
 #VARIABLE         {HC}  {{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}}#
 
 #CLASS {Ship-Combat} CLOSE

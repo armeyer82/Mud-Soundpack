@@ -2,7 +2,7 @@
 
 #ACTION {The computer announces, "Warning, avian lifeform in processing chamber. Expelling..."}
 {
-	play Atmo/SalvageLifeform@math{1d2}.wav
+	play Atmo/SalvageLifeform@rnd{2}.wav
 }
 {5}
 
@@ -15,14 +15,29 @@
 
 #ACTION {^A gust of atmospheric wind suddenly buffets the ship%1}
 {
-	play Ship/Misc/WindGust@math{1d2}.wav;
+	play Ship/Misc/Wind.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^A series of drones lift canisters of atmospheric debris and cart them off.$}
+{
+	play Ship/Misc/Transfer1.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^A slight breeze enters the cockpit as the storage compartment is opened and closed.$}
+{
+	play Ship/Misc/Transfer1.wav;
 	#line gag
 }
 {5}
 
 #ACTION {^A whirlpool forms nearby, sucking the craft downward into its swirling vortex.$}
 {
-	play Atmo/Whirlpool.wav;
+	#showme Descending.;
+ play Atmo/Whirlpool.wav;
 	#line gag
 }
 {5}
@@ -149,6 +164,13 @@
 {
 	play Atmo/SalvageDescent.wav;
 	#line gag
+}
+{5}
+
+#ACTION {^You hear scrapes and scratching coming from the storage compartment as debris is transferred.$}
+{
+	play Ship/Misc/Transfer1.wav;
+	#line Gag
 }
 {5}
 
