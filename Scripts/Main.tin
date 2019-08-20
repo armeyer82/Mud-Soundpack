@@ -25,7 +25,8 @@
 	#showme Written by A. R. Meyer;
 	#showme Running on %0 version %1.\n;
 	#showme Verifying necessary programs are installed.;
-	ProgramExists sox;	#system {if [ ! -f ~/Mud-Files/Settings/Settings.tin ]; then cp ./Scripts/Templates/Settings.tin ~/Mud-Files/Settings/; fi};
+	ProgramExists sox;
+	#system {if [ ! -f ~/Mud-Files/Settings/Settings.tin ]; then cp ./Scripts/Templates/Settings.tin ~/Mud-Files/Settings/; fi};
 	#system {if [ ! -f ~/Mud-Files/Settings/Config.tin ]; then cp ./Scripts/Templates/Config.tin ~/Mud-Files/Settings/; fi};
 	#script {for i in $( ls ~/Mud-Files/Settings/*.tin ); do echo "#read $i"; done};
 	#read ./Scripts/Development.tin;
@@ -77,6 +78,20 @@
 {
 	#local result;
 	#format {result} {%n}{%1}
+}
+
+#FUNCTION {abs}
+{
+	#local result;
+	#math {result} {%1};
+	#if {$result>=0}
+	{
+		#return %1
+	};
+	#else
+	{
+		#math {result} {0-$result}
+	}
 }
 
 #FUNCTION {increment}

@@ -2,47 +2,53 @@
 
 #ALIAS {.load-class}
 {
-	#switch {"%1"}
+	#if {"%1"==""}
 	{
-		#case {"Main"}
+		#show Please specify the name of a class.
+	};
+	#else {
+		#switch {"%1"}
 		{
-			#showme Loading Main class;
-			#read ./Scripts/Main.tin;
-			#class Main open;
-			#break
-		};
-		#case {"Development"}
-		{
-			#showme Loading Development class;
-			#read ./Scripts/Development.tin;
-			#class Development open;
-			#break
-		};
-		#case {"Worlds"}
+			#case {"Main"}
 			{
-			#show Loading Worlds Class;
-			#read ./Scripts/Worlds.tin;
-			#class Worlds open
+				#showme Loading Main class;
+				#read ./Scripts/Main.tin;
+				#class Main open;
+				#break
 			};
-		#case {"User"}
-		{
-			#showme Loading User class;
-			#read @Homedir{}/Mud-Files/@Session{}/User-Scripts/User.tin;
-			#class User open;
-			#break
-		};
-		#case {"UserSettings"}
-		{
-			#showme Loading UserSettings class;
-			#read @Homedir{}/Mud-Files/@Session{}/User-Scripts/UserSettings.tin;
-			#class UserSettings open;
-			#break
-		};
-		#default
-		{
-			#showme Loading %1 class;
-			#read ./@Session{}/%1.tin;
-			#class %1 open
+			#case {"Development"}
+			{
+				#showme Loading Development class;
+				#read ./Scripts/Development.tin;
+				#class Development open;
+				#break
+			};
+			#case {"Worlds"}
+			{
+				#show Loading Worlds Class;
+				#read ./Scripts/Worlds.tin;
+				#class Worlds open
+			};
+			#case {"User"}
+			{
+				#showme Loading User class;
+				#read @Homedir{}/Mud-Files/@Session{}/User-Scripts/User.tin;
+				#class User open;
+				#break
+			};
+			#case {"UserSettings"}
+			{
+				#showme Loading UserSettings class;
+				#read @Homedir{}/Mud-Files/@Session{}/User-Scripts/UserSettings.tin;
+				#class UserSettings open;
+				#break
+			};
+			#default
+			{
+				#showme Loading %1 class;
+				#read ./@Session{}/%1.tin;
+				#class %1 open
+			}
 		}
 	}
 }

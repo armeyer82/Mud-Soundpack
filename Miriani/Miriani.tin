@@ -1,11 +1,13 @@
 #CLASS {Miriani} OPEN
 
-
-#ACTION {^A %* flight control scanner announces, "%*"}
+#ACTION {~%1 shatters immersion%*and %2}
 {
-	play General/Comm/FlightScanner.wav
+	play General/Comm/ROOC.wav;
+	#nop UpdateBuffer rooc;
+	#nop #list rooc add {[Rooc] %1 %3}
 }
-{5}
+{4}
+
 
 #ACTION {^Target: Starship}
 {
@@ -15,7 +17,7 @@
 
 #ACTION {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
 {
-play General/Misc/Beep1.wav;
+	play General/Misc/Beep1.wav;
 	play Ship/Move/Accelerate.wav
 }
 {5}
@@ -81,56 +83,6 @@ play General/Misc/Beep1.wav;
 }
 {5}
 
-#ACTION {^[AIE}
-{
-	play General/Comm/alliance.wav
-}
-{5}
-
-#ACTION {^[Chatter]}
-{
-	play General/Comm/Chatter.wav
-}
-{5}
-
-#ACTION {^[Frequency %*]}
-{
-	play General/Comm/Metaf.wav
-}
-{5}
-
-#ACTION {^[General Communication]}
-{
-	play General/Comm/General.wav
-}
-{5}
-
-#ACTION {^[Insanity]}
-{
-	play General/Comm/org.wav
-}
-{5}
-
-#ACTION {^[Newbie]}
-{
-	play General/Comm/Newbie.wav
-}
-{5}
-
-#ACTION {^[Private}
-{
-	play General/Comm/private.wav
-}
-{5}
-
-#ACTION {^[Short-range Communication] %3}
-{
-	play General/Comm/Short.wav;
-	UpdateBuffer Short_range;
-	#list Short_range add %3
-}
-{5}
-
 #ACTION {a starship must be coming in for a landing.$}
 {
 	play Ship/Move/OtherLanding1.wav
@@ -167,19 +119,16 @@ play General/Misc/Beep1.wav;
 }
 {5}
 
-#ACTION {~%1 shatters immersion%*and %2}
-{
-	play General/Comm/ROOC.wav;
-	#nop UpdateBuffer rooc;
-	#NOP #list rooc add {[Rooc] %1 %3}
-}
-{4}
-
 #ALIAS {savescript}
 {
 	#class Miriani write ./Miriani/script.tin
 }
 {5}
+
+#EVENT {DAY}
+{
+	#log {append} {$Logdir/@Date{}.log}
+}
 
 #EVENT {SESSION DISCONNECTED}
 {
@@ -195,7 +144,6 @@ play General/Misc/Beep1.wav;
 #GAG              {^The bright light vanishes as the starship emerges at the other side of the wormhole.}
 #GAG              {^The computer announces, "Hit on}
 #GAG              {^The computer announces, "Partial hit}
-
 #GAG              {^The deck beneath you vibrates slightly as the relativity drive begins accelerating the starship through space.$}
 #GAG              {^The experience abruptly ends as the starship exits from the companion jumpgate}
 #GAG              {^The experience abruptly ends as the starship exits from the companion jumpgate.}
@@ -243,7 +191,7 @@ play General/Misc/Beep1.wav;
 #GAG              {has a lock on this starship.}
 #GAG              {has a lock on this starship.$}
 #VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.15}}
-#VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{type}{starship}}
+#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{powered}{safe}{safe}{type}{starship}}
 #VARIABLE         {soundpath}  {./Miriani/Sounds/}
 #VARIABLE         {volume}  {0.15}
 

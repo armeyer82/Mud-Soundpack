@@ -1,0 +1,118 @@
+#CLASS {ATSM} OPEN
+
+#ACTION {^Current Coordinates: %d, %d}
+{
+	#variable MyATSMCoords[X] %1;
+	#variable MyATSMCoords[Y] %2;
+	#if {$ATSMFilter==1}
+	{
+		#line gag
+	}
+}
+{5}
+
+#ACTION {^Objects: %*}
+{
+	#if {$ATSMFilter==1}
+	{
+		#list ObjectList clear;
+		#variable ATSMObjectString %1;
+		#replace {ATSMObjectString} {), (} {);(};
+		#replace {ATSMObjectString} {, and } {;};
+		ProcessATSM;
+		#line gag
+	};
+	#variable ATSMFilter 0
+}
+{5}
+
+#ALIAS {ATSMFindPath}
+{
+	#if {$ObjectList[+1][X]==$MyATSMCoords[X] && $ObjectList[+1][Y]==$MyATSMCoords[Y]}
+	{
+		#var TempX $ObjectList[+2][X];
+		#var TempY $ObjectList[+2][Y];
+	};
+	#else {
+		#var TempX $ObjectList[+1][X];
+		#Var TempY $ObjectList[+1][Y];
+	};
+	#if {$TempX>$MyATSMCoords[X]} 
+	{
+		#math {XDir[Units]} {$TempX-$MyATSMCoords[X]};
+			#var XDir[Dir] E;
+	};
+	#elseif {$TempX<$MyATSMCoords[X]} 
+	{
+		#Math {XDir[Units]} {$MyATSMCoords[X]-$TempX};
+		#var XDir[Dir] W
+	};
+	#else {#var XDir 0};
+	#if {$TempY>$MyATSMCoords[Y]}
+	{
+		#math {YDir[Units]} {$TempY-$MyATSMCoords[Y]};
+		#var YDir[Dir] S
+	};
+		#elseif {$TempY<$MyATSMCoords[Y]}
+	{
+		#math {YDir[Units]} {$MyATSMCoords[Y]-$TempY};
+		#var YDir[Dir] N
+	};
+	#else {#var YDir 0};
+	#if {$XDir[Units]!=0}
+	{
+		#var path $XDir[Units]$XDir[Dir];
+	};
+	#if {$YDir[Units]!=0} {
+			#var path ${path} $YDir[Units]$YDir[Dir]
+	};
+	#show $path;
+	#unvar XDir;
+	#unvar YDir;
+	#unvar TempX;
+	#unvar TempY;
+	#unvar path
+}
+{5}
+
+#ALIAS {ComputeATSMDistance}
+{
+	#format {ObjectX} {%d} {%1};
+	#format {ObjectY} {%d} {%2};
+	#math {Temp[X]} {$MyATSMCoords[X]-$ObjectX};
+	#variable Temp[X] @abs{$Temp[X]};
+	#math {Temp[Y]} {$MyATSMCoords[Y]-$ObjectY};
+	#variable Temp[Y] @abs{$Temp[Y]};
+	#format {ObjectDistance} {%.2f} {($Temp[X]**2+$Temp[Y]**2)//2};
+	#format {ObjectDistance} {%d} {$ObjectDistance}
+}
+{5}
+
+#ALIAS {ProcessATSM}
+{
+	#variable TempString 0;
+	#foreach {$ATSMObjectString} {TempString}
+	{
+		#regexp {$TempString} {({.*}, {.*})} {#var ObjectX &1;#var ObjectY &2};
+		ComputeATSMDistance $ObjectX $ObjectY;
+		#variable ObjectList[$ObjectDistance][X] $ObjectX;
+		#variable ObjectList[$ObjectDistance][Y] $ObjectY
+	};
+	ATSMFindPath;
+	#unvariable ATSMObjectString
+}
+{5}
+
+#ALIAS {atsm}
+{
+	#variable ATSMFilter 1;
+	#send sm
+}
+{5}
+
+#VARIABLE         {ATSMFilter}  {0}
+#VARIABLE         {MyATSMCoords}  {{X}{12}{Y}{5}}
+#VARIABLE         {ObjectDistance}  {5}
+#VARIABLE         {ObjectList}  {{5}{{X}{0}{Y}{0}}}
+
+#CLASS {ATSM} CLOSE

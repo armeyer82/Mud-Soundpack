@@ -128,8 +128,6 @@
 	#return &World[$result]
 }
 
-#VARIABLE         {DefaultMud}  {none}
-#VARIABLE         {LastConnectedMud}  {Miriani}
 #VARIABLE         {World}  {{Everdark}{{Host}{everdark.org}{Port}{3000}}{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}{SSLport}{1443}{UseSSL}{1}}{Starconquest}{{Host}{moo.squidsoft.net}{Port}{7777}}}
 
 #CLASS {Worlds} CLOSE

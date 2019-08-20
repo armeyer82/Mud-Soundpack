@@ -320,12 +320,6 @@
 }
 {5}
 
-#ACTION {^[%d] Praelor %2}
-{
-	#variable {Praelor %2} %1
-}
-{5}
-
 #GAG              {^A chime is piped through a nearby speaker, indicating that somebody has entered the airlock.$}
 #GAG              {^You pull a series of straps around yourself and securely buckle yourself into your seat.$}
 

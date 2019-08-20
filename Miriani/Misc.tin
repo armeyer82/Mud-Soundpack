@@ -330,6 +330,12 @@
 }
 {5}
 
+#ACTION {^Game Change:}
+{
+	play General/Misc/GameChange@rnd{2}.wav
+}
+{5}
+
 #ACTION {^Sensing adequate kindling, a bright, warm fire}
 {
 	play General/Misc/Fireplace.wav;
