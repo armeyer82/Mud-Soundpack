@@ -11,6 +11,42 @@
 }
 {5}
 
+#action {^Distance to Ship: %*}
+{
+	#if {$ATSMFilter==1}
+	{
+		#var ATSMDistance %1;
+		#line gag
+	}
+}
+
+#action {^Atmosphere of}
+{
+	#if {$ATSMFilter==1}
+	{
+		#line gag
+	}
+}
+
+
+#action {^Power Remaining: %*}
+{
+	#if {$ATSMFilter==1}
+	{
+		#var ATSMPower %1;
+		#line gag
+	}
+}
+
+#action {^Cargo Capacity: %1}
+{
+	#if {$ATSMFilter==1}
+	{
+		#var ATSMCargo %1;
+	#line gag
+	}
+}
+
 #ACTION {^Objects: %*}
 {
 	#if {$ATSMFilter==1}
@@ -66,15 +102,22 @@
 	#if {$YDir[Units]!=0} {
 			#var path ${path} $YDir[Units]$YDir[Dir]
 	};
-	#show $path;
+	ShowATSM
+}
+{5}
+
+#alias {ShowATSM}
+	{
+	#show $path, $ATSMPower power, $ATSMDistance away from ship, Cargo: $ATSMCargo;
 	#unvar XDir;
 	#unvar YDir;
 	#unvar TempX;
 	#unvar TempY;
-	#unvar path
+	#unvar path;
+	#unvar ATMSDistance;
+	#unvar ATSMPower;
+	#unvar ATSMcargo
 }
-{5}
-
 #ALIAS {ComputeATSMDistance}
 {
 	#format {ObjectX} {%d} {%1};
