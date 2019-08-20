@@ -8,11 +8,6 @@
 }
 {4}
 
-#ACTION {^A %* flight control scanner announces, "%*"}
-{
-	play General/Comm/FlightScanner.wav
-}
-{5}
 
 #ACTION {^Target: Starship}
 {
@@ -85,50 +80,6 @@
 #ACTION {^You hear a sharp whine as the starship begins an intrasector slip.$}
 {
 	play Ship/Move/slip.wav
-}
-{5}
-
-#ACTION {^[AIE}
-{
-	play General/Comm/alliance.wav
-}
-{5}
-
-#ACTION {^[Frequency %*]}
-{
-	play General/Comm/Metaf.wav
-}
-{5}
-
-#ACTION {^[General Communication]}
-{
-	play General/Comm/General.wav
-}
-{5}
-
-#ACTION {^[Insanity]}
-{
-	play General/Comm/org.wav
-}
-{5}
-
-#ACTION {^[Newbie]}
-{
-	play General/Comm/Newbie.wav
-}
-{5}
-
-#ACTION {^[Private}
-{
-	play General/Comm/private.wav
-}
-{5}
-
-#ACTION {^[Short-range Communication] %3}
-{
-	play General/Comm/Short.wav;
-	UpdateBuffer Short_range;
-	#list Short_range add %3
 }
 {5}
 

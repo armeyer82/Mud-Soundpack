@@ -1,5 +1,43 @@
 #CLASS {Comm} OPEN
 
+#ACTION {^[Frequency %*]}
+{
+	play General/Comm/Metaf.wav
+}
+{5}
+
+#ACTION {^[General Communication]}
+{
+	play General/Comm/General.wav
+}
+{5}
+
+#ACTION {^[Short-range Communication] %3}
+{
+	play General/Comm/Short.wav;
+	UpdateBuffer Short_range;
+	#list Short_range add %3
+}
+{5}
+
+#ACTION {^A %* flight control scanner announces, "%*"}
+{
+	play General/Comm/FlightScanner.wav
+}
+{5}
+
+#ACTION {^[Newbie]}
+{
+	play General/Comm/Newbie.wav
+}
+{5}
+
+#ACTION {^[AIE}
+{
+	play General/Comm/alliance.wav
+}
+{5}
+
 #ACTION {^[Private | {Auction Service|Combat Mission Notification Service|Communication Loopback Recipient|Reminder Service}] %*}
 {
 	play General/Comm/Services.wav;
@@ -34,6 +72,12 @@
 }
 {5}
 
+#ACTION {^[Private}
+{
+	play General/Comm/private.wav
+}
+{5}
+
 #ACTION {^[Starship}
 {
 	play Ship/Comm/Relay.wav
@@ -47,6 +91,6 @@
 {5}
 
 #SUBSTITUTE       {^You press a small button mounted on the wall and say, "%1"}                                         {%1}  {5}
-#SUBSTITUTE       {^[Private | %*] %*,}  {[%1]}  {5}
+#SUBSTITUTE       {^[Private | %*] %* transmits,}           {[%1]}  {5}
 
 #CLASS {Comm} CLOSE
