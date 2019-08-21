@@ -21,8 +21,18 @@
 #ACTION {You access a%1portable point unit and note you have %2 license points and %3 combat points.}
 {
 	play General/Misc/Points.wav;
+	#local CurLP %2;
+	#local CurCP %3;
 	#showme {%2 License Points.};
 	#showme {%3 Combat Points.};
+	#if {$LicensePoints!=0 && $CombatPoints!=0}
+	{
+		#math {LPGain} {$CurLP-$LicensePoints};
+		#math {CPGain} {$CurCP-$CombatPoints};
+		#show $LPGain License Points gained and $CPGain Combat Points gained.;
+	};
+	#var LicensePoints $CurLP;
+	#var CombatPoints $CurCP;
 	#line gag
 }
 {5}
@@ -87,5 +97,7 @@
 }
 {5}
 
+#VARIABLE         {CurCP}  {12385.11}
+#VARIABLE         {CurLP}  {18336.35}
 
 #CLASS {Devices} CLOSE

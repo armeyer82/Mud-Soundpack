@@ -53,6 +53,10 @@
 			#case {"{star|stars}"}
 			{
 				play Ship/Computer/StarHere.wav
+			};
+			#case {"{starship|starships}"}
+			{
+				play Ship/Computer/ShipHere.wav
 			}
 		}
 	}

@@ -1,11 +1,40 @@
 #CLASS {ATSM} OPEN
 
+#ACTION {^Atmosphere of}
+{
+	#if {$ATSMFilter==1}
+	{
+		#line gag
+	}
+}
+{5}
+
+#ACTION {^Cargo Capacity: %1}
+{
+	#if {$ATSMFilter==1}
+	{
+		#variable ATSMCargo %1;
+		#line gag
+	}
+}
+{5}
+
 #ACTION {^Current Coordinates: %d, %d}
 {
 	#variable MyATSMCoords[X] %1;
 	#variable MyATSMCoords[Y] %2;
 	#if {$ATSMFilter==1}
 	{
+		#line gag
+	}
+}
+{5}
+
+#ACTION {^Distance to Ship: %*}
+{
+	#if {$ATSMFilter==1}
+	{
+		#variable ATSMDistance %1;
 		#line gag
 	}
 }
@@ -26,52 +55,65 @@
 }
 {5}
 
+#ACTION {^Power Remaining: %*}
+{
+	#if {$ATSMFilter==1}
+	{
+		#variable ATSMPower %1;
+		#line gag
+	}
+}
+{5}
+
 #ALIAS {ATSMFindPath}
 {
 	#if {$ObjectList[+1][X]==$MyATSMCoords[X] && $ObjectList[+1][Y]==$MyATSMCoords[Y]}
 	{
-		#var TempX $ObjectList[+2][X];
-		#var TempY $ObjectList[+2][Y];
+		#variable TempX $ObjectList[+2][X];
+		#variable TempY $ObjectList[+2][Y]
 	};
-	#else {
-		#var TempX $ObjectList[+1][X];
-		#Var TempY $ObjectList[+1][Y];
+	#else
+	{
+		#variable TempX $ObjectList[+1][X];
+		#variable TempY $ObjectList[+1][Y]
 	};
-	#if {$TempX>$MyATSMCoords[X]} 
+	#if {$TempX>$MyATSMCoords[X]}
 	{
 		#math {XDir[Units]} {$TempX-$MyATSMCoords[X]};
-			#var XDir[Dir] E;
+		#variable XDir[Dir] E
 	};
-	#elseif {$TempX<$MyATSMCoords[X]} 
+	#elseif {$TempX<$MyATSMCoords[X]}
 	{
-		#Math {XDir[Units]} {$MyATSMCoords[X]-$TempX};
-		#var XDir[Dir] W
+		#math {XDir[Units]} {$MyATSMCoords[X]-$TempX};
+		#variable XDir[Dir] W
 	};
-	#else {#var XDir 0};
+	#else
+	{
+		#variable XDir 0
+	};
 	#if {$TempY>$MyATSMCoords[Y]}
 	{
 		#math {YDir[Units]} {$TempY-$MyATSMCoords[Y]};
-		#var YDir[Dir] S
+		#variable YDir[Dir] S
 	};
-		#elseif {$TempY<$MyATSMCoords[Y]}
+	#elseif {$TempY<$MyATSMCoords[Y]}
 	{
 		#math {YDir[Units]} {$MyATSMCoords[Y]-$TempY};
-		#var YDir[Dir] N
+		#variable YDir[Dir] N
 	};
-	#else {#var YDir 0};
+	#else
+	{
+		#variable YDir 0
+	};
 	#if {$XDir[Units]!=0}
 	{
-		#var path $XDir[Units]$XDir[Dir];
+		#variable path $XDir[Units]$XDir[Dir]
 	};
-	#if {$YDir[Units]!=0} {
-			#var path ${path} $YDir[Units]$YDir[Dir]
+	#if {$YDir[Units]!=0}
+	{
+		#variable path ${path} $YDir[Units]$YDir[Dir]
 	};
-	#show $path;
-	#unvar XDir;
-	#unvar YDir;
-	#unvar TempX;
-	#unvar TempY;
-	#unvar path
+	ShowATSM
 }
 {5}
 
@@ -103,6 +145,20 @@
 }
 {5}
 
+#ALIAS {ShowATSM}
+{
+	#showme $path, $ATSMPower power, $ATSMDistance away from ship, Cargo: $ATSMCargo;
+	#unvariable XDir;
+	#unvariable YDir;
+	#unvariable TempX;
+	#unvariable TempY;
+	#unvariable path;
+	#unvariable ATMSDistance;
+	#unvariable ATSMPower;
+	#unvariable ATSMcargo
+}
+{5}
+
 #ALIAS {atsm}
 {
 	#variable ATSMFilter 1;
@@ -110,9 +166,13 @@
 }
 {5}
 
+#VARIABLE         {ATSMCargo}  {0/30}
+#VARIABLE         {ATSMDistance}  {1 unit}
 #VARIABLE         {ATSMFilter}  {0}
-#VARIABLE         {MyATSMCoords}  {{X}{12}{Y}{5}}
-#VARIABLE         {ObjectDistance}  {5}
-#VARIABLE         {ObjectList}  {{5}{{X}{0}{Y}{0}}}
+#VARIABLE         {MyATSMCoords}  {{X}{9}{Y}{4}}
+#VARIABLE         {ObjectDistance}  {3}
+#VARIABLE         {ObjectList}  {{3}{{X}{12}{Y}{2}}{4}{{X}{13}{Y}{2}}{6}{{X}{3}{Y}{7}}{7}{{X}{16}{Y}{5}}{9}{{X}{18}{Y}{7}}}
+#VARIABLE         {ShipList}  {}
+#VARIABLE         {TempString}  {(12, 2)}
 
 #CLASS {ATSM} CLOSE
