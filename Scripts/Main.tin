@@ -24,8 +24,16 @@
 	#showme Welcome to the Mud Soundpack, Version $Version[1].;
 	#showme Written by A. R. Meyer;
 	#showme Running on %0 version %1.\n;
+	#if {%1<=2.0.4}
+	{
+		#show {This soundpack needs %0 version 2.0.5 or later.};
+		#show {Please upgrade your version of %0 before attempting to use this soundpack.};
+		#show Exiting.;
+		#end
+	};
 	#showme Verifying necessary programs are installed.;
 	ProgramExists sox;
+	#system {mkdir -p ~/Mud-Files/Settings/};
 	#system {if [ ! -f ~/Mud-Files/Settings/Settings.tin ]; then cp ./Scripts/Templates/Settings.tin ~/Mud-Files/Settings/; fi};
 	#system {if [ ! -f ~/Mud-Files/Settings/Config.tin ]; then cp ./Scripts/Templates/Config.tin ~/Mud-Files/Settings/; fi};
 	#script {for i in $( ls ~/Mud-Files/Settings/*.tin ); do echo "#read $i"; done};
