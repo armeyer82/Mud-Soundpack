@@ -24,7 +24,7 @@
 	#showme Welcome to the Mud Soundpack, Version $Version[1].;
 	#showme Written by A. R. Meyer;
 	#showme Running on %0 version %1.\n;
-	#if {%1<=2.0.4}
+	#if {%1<2.0.5}
 	{
 		#show {This soundpack needs %0 version 2.0.5 or later.};
 		#show {Please upgrade your version of %0 before attempting to use this soundpack.};
