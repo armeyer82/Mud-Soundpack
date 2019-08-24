@@ -44,7 +44,8 @@
 	#variable SettingsPath @Homedir{}/Mud-Files/Settings/;
 	#class User open;
 #split 0 1;
-	#config {command echo} off
+	#config {command echo} off;
+	#show *** In order for TDSR to read the screen correctly, you will need to disable Cursor Tracking.;
 }
 
 #EVENT {SESSION CREATED}
