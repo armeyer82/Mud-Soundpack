@@ -21,9 +21,10 @@
 #EVENT {PROGRAM START}
 {
 	#script {Version} {cat ./Scripts/Version.txt};
+	#cursor {insert} off;
 	#showme Welcome to the Mud Soundpack, Version $Version[1].;
 	#showme Written by A. R. Meyer;
-	#showme Running on %0 version %1.\n;
+	#showme Running on %1 version %2 .\n;
 	#if {%1<2.0.5}
 	{
 		#show {This soundpack needs %0 version 2.0.5 or later.};
@@ -42,7 +43,8 @@
 	#system mkdir -p ~/Mud-Files/Settings/;
 	#variable SettingsPath @Homedir{}/Mud-Files/Settings/;
 	#class User open;
-	auto-connect
+#split 0 1;
+	#config {command echo} off
 }
 
 #EVENT {SESSION CREATED}
@@ -55,7 +57,8 @@
 	#variable Logdir @Homedir{}/Mud-Files/@Session{}/Logs/;
 	#script {if [ -f $Userdir/User.tin ]; then echo "#read $Userdir/User.tin"; fi};
 	#script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi};
-	#log {append} {$Logdir/@Date{}.log}
+	#log {append} {$Logdir/@Date{}.log};
+	#cursor {insert} off;
 }
 
 #FUNCTION {Date}
