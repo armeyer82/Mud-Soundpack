@@ -4,7 +4,7 @@
 #CONFIG           {CHARSET}  {ASCII}
 #CONFIG           {COLOR PATCH}  {OFF}
 #CONFIG           {COMMAND COLOR}  {<078>}
-#CONFIG           {COMMAND ECHO}  {ON}
+#CONFIG           {COMMAND ECHO}  {off}
 #CONFIG           {CONNECT RETRY}  {10}
 #CONFIG           {HISTORY SIZE}  {100}
 #CONFIG           {LOG}  {RAW}
@@ -18,13 +18,6 @@
 #CONFIG           {VERBATIM CHAR}  {\}
 #CONFIG           {VERBOSE}  {OFF}
 #CONFIG           {WORDWRAP}  {ON}
-#PATHDIR          {d}  {u}  {32}
-#PATHDIR          {e}  {w}  {2}
-#PATHDIR          {n}  {s}  {1}
-#PATHDIR          {ne}  {sw}  {3}
-#PATHDIR          {nw}  {se}  {9}
-#PATHDIR          {s}  {n}  {4}
-#PATHDIR          {se}  {nw}  {6}
-#PATHDIR          {sw}  {ne}  {12}
-#PATHDIR          {u}  {d}  {16}
-#PATHDIR          {w}  {e}  {8}
+#config {CONVERT META} off;
+	#config {MCCP} off;
+	#config {DEBUG TELNET} off
