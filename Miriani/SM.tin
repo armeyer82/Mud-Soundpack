@@ -22,8 +22,10 @@
 	{
 		#local TempString;
 		#variable SMString %1;
+		#replace {SMString} {) and} {),};
 		#replace {SMString} {), and} {),};
 		#replace {SMString} {),} {);};
+
 		#replace {SMString} {, } { };
 		#line gag
 	};

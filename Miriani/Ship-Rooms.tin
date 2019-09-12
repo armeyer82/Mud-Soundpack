@@ -42,7 +42,7 @@
 
 #ALIAS {PlayRoomSound %*.{wav|mp3|aiff}}
 {
-	#system play -qV1 $soundpath/%1.%2 gain -n vol $Volume[GameSounds] repeat 9999 &;
+	#system play -qV1 $soundpath/%1.%2 gain -n vol $Volume[GameSounds] repeat - &;
 	#script RoomSound {pgrep -f repeat 9999}
 }
 {5}
@@ -66,7 +66,5 @@
 	}
 }
 
-#VARIABLE         {Room}  {{Current}{Control}}
-#VARIABLE         {{1}{57117}{2}{57125}}  {{1}{0}}
 
 #CLASS {Ship-Rooms} CLOSE

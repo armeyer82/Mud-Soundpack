@@ -21,10 +21,10 @@
 #EVENT {PROGRAM START}
 {
 	#script {Version} {cat ./Scripts/Version.txt};
-	#cursor {insert} off;
+#split 0 1;
 	#showme Welcome to the Mud Soundpack, Version $Version[1].;
 	#showme Written by A. R. Meyer;
-	#showme Running on %1 version %2 .\n;
+	#showme Running on %0 version %3.\n;
 	#if {%1<2.0.5}
 	{
 		#show {This soundpack needs %0 version 2.0.5 or later.};
@@ -43,7 +43,6 @@
 	#system mkdir -p ~/Mud-Files/Settings/;
 	#variable SettingsPath @Homedir{}/Mud-Files/Settings/;
 	#class User open;
-#split 0 1;
 	#config {command echo} off;
 	#show *** In order for TDSR to read the screen correctly, you will need to disable Cursor Tracking.;
 }
@@ -64,7 +63,7 @@
 
 #FUNCTION {Date}
 {
-	#format {result} {%M-%D-%Y}
+	#format {result} {%t} {%m-%d-%Y}
 }
 
 #FUNCTION {Homedir}
