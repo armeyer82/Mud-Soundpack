@@ -5,7 +5,7 @@
 #CONFIG           {COLOR PATCH}  {OFF}
 #CONFIG           {COMMAND COLOR}  {<078>}
 #CONFIG           {COMMAND ECHO}  {off}
-#CONFIG           {CONNECT RETRY}  {10}
+#CONFIG           {CONNECT RETRY}  {3600}
 #CONFIG           {HISTORY SIZE}  {100}
 #CONFIG           {LOG}  {RAW}
 #CONFIG           {PACKET PATCH}  {0.00}

@@ -47,7 +47,7 @@
 	#show *** In order for TDSR to read the screen correctly, you will need to disable Cursor Tracking.;
 }
 
-#EVENT {SESSION CREATED}
+#EVENT {SESSION CONNECTED}
 {
 	#system mkdir -p ~/Mud-Files/@Session{}/;
 	#system mkdir -p ./@Session{};
