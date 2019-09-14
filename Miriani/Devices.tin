@@ -18,13 +18,14 @@
 }
 {5}
 
-#ACTION {You access a%1portable point unit and note you have %2 license points and %3 combat points.}
+#ACTION {You access a %* portable point unit and note you {had|have} %2 license points and %3 combat points. %* of those}
 {
 	play General/Misc/Points.wav;
 	#local CurLP %2;
 	#local CurCP %3;
 	#showme {%2 License Points.};
 	#showme {%3 Combat Points.};
+	#showme %4 industry points.;
 	#if {$LicensePoints!=0 && $CombatPoints!=0}
 	{
 		#math {LPGain} {$CurLP-$LicensePoints};
