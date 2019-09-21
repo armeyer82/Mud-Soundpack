@@ -8,7 +8,6 @@
 }
 {4}
 
-
 #ACTION {^Target: Starship}
 {
 	play Ship/Combat/LockedonOther.wav
@@ -37,6 +36,12 @@
 #ACTION {^The sounds of the relativity drive slowly cease as the starship comes to a halt.$}
 {
 	play Ship/Move/Decelerate.wav
+}
+{5}
+
+#ACTION {^You can go %*}
+{
+	#variable Exits %1
 }
 {5}
 
@@ -119,6 +124,12 @@
 }
 {5}
 
+#ALIAS {SayWithReviewVoice}
+{
+	#system say -r $ReviewVoice[Rate] "%1"
+}
+{5}
+
 #ALIAS {savescript}
 {
 	#class Miriani write ./Miriani/script.tin
@@ -190,8 +201,15 @@
 #GAG              {fired from the ship's cannons.$}
 #GAG              {has a lock on this starship.}
 #GAG              {has a lock on this starship.$}
+#MACRO {\e }
+{
+	#showme $Exits
+}
+
+#VARIABLE         {Exits}  {south, down, and out.}
+#VARIABLE         {ReviewVoice}  {{Rate}{650}{Voice}{Default}}
 #VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.15}}
-#VARIABLE         {environment}  {{lighted}{light}{location}{landed}{powered}{powered}{safe}{safe}{type}{starship}}
+#VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{type}{starship}}
 #VARIABLE         {soundpath}  {./Miriani/Sounds/}
 #VARIABLE         {volume}  {0.15}
 

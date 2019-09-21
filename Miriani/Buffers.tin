@@ -1,5 +1,18 @@
 #CLASS {Buffers} OPEN
 
+#ALIAS {SayReviewText}
+{
+	#switch {"$Buffer[$CurrentBuffer]"}
+	{
+		#case {"History"}
+		{
+			#buffer Get Review %1;
+			SayWithReviewVoice {$Review}
+		}
+	}
+}
+{5}
+
 #ALIAS {UpdateBuffer}
 {
 	#nop
@@ -8,7 +21,7 @@
 
 #MACRO {\e!}
 {
-	#showme $PA[-1]
+	SayReviewText 1
 }
 
 #MACRO {\e#}
@@ -31,11 +44,30 @@
 	#showme $PA[-2]
 }
 
+#MACRO {\eE}
+{
+	#nop
+}
+
 #MACRO {\e^}
 {
 	#showme $PA[-6]
 }
 
-#VARIABLE         {Buffer}  {{1}{PA}{2}{Computer}{3}{Say}{4}{Rooc}{5}{Short-range}{6}{General}{7}{Chatter}{8}{Private}}
+#MACRO {\ee}
+{
+	#if {$CurrentBuffer<&Buffer[]}
+	{
+		#variable CurrentBuffer @increment{$CurrentBuffer}
+	};
+	#else
+	{
+		#variable CurrentBuffer 1
+	};
+	SayWithReviewVoice {$Buffer[$CurrentBuffer]}
+}
+
+#VARIABLE         {Buffer}  {{1}{History}{2}{PA}{3}{Computer}{4}{Say}{5}{RP}{6}{Rooc}{7}{SOOC}{8}{Short-range}{9}{General}{10}{Chatter}{11}{Private}}
+#VARIABLE         {CurrentBuffer}  {1}
 
 #CLASS {Buffers} CLOSE
