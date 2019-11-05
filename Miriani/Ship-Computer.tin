@@ -1,28 +1,26 @@
 #CLASS {Ship-Computer} OPEN
 
-#ACTION {You {hastily|quickly} retrieve it before it falls to the ground.$}
+#ACTION {^The computer announces, "Control room reports: %*"}
 {
-	play Ship/Computer/ScanRetrieved.wav
+	play Ship/Computer/LFD.wav;
+	#showme %1;
+	#line gag;
+	UpdateBuffer Computer;
+	#list {Buffer[@GetBufferNumber{Computer}][Messages]} ADD {%1}
 }
-{5}
+{4}
 
-#ACTION {^%1 inputs a command on a sensor panel and examines a long-range scan.$}
-{
-	play Ship/Computer/lrscan3.wav
-}
-{5}
-
-#ACTION {^Control room computer announcements will now be announced ship-wide.$}
-{
-	play Ship/Computer/PipeOn.wav
-}
-{5}
-
-#ACTION {^The computer announces, "%* {has|have} been detected in the sector."}
+#ACTION {%* {has|have} been detected in the sector.$}
 {
 	#variable TempString %1;
-	#regexp {$TempString} {^%w {.*}} {#var TempString &2};
-	#regexp {$TempString} {^{.*} and %w {.*}} {#var TempString &1 &3};
+	#regexp {$TempString} {^%w {.*}}
+	{
+		#var TempString &2
+	};
+	#regexp {$TempString} {^{.*} and %w {.*}}
+	{
+		#var TempString &1 &3
+	};
 	#replace TempString {space station} {station};
 	#replace {TempString} {, } { };
 	#replace TempString { } {;};
@@ -63,15 +61,43 @@
 }
 {5}
 
-#ACTION {^The computer announces, "I am beginning the repair}
+#ACTION {You {hastily|quickly} retrieve it before it falls to the floor.$}
+{
+	play Ship/Computer/ScanRetrieved.wav
+}
+{5}
+
+#ACTION {^%1 inputs a command on a sensor panel and examines a long-range scan.$}
+{
+	play Ship/Computer/lrscan3.wav
+}
+{5}
+
+#ACTION {^Control room computer announcements will now be announced ship-wide.$}
+{
+	play Ship/Computer/PipeOn.wav
+}
+{5}
+
+#ACTION {^I am beginning the repair of %*. Estimated time to completion: %*.}
 {
 	play Ship/Computer/RepairStart.wav
 }
 {5}
 
-#ACTION {^The computer announces, "I have completed the repair of}
+#ACTION {^I have completed the repair of}
 {
 	play Ship/Computer/RepairComplete.wav
+}
+{5}
+
+#ACTION {^The computer announces, "%*"}
+{
+	play Ship/Computer/announce@rnd{4}.wav;
+	#showme %1;
+	UpdateBuffer Computer;
+	#list {Buffer[@GetBufferNumber{Computer}][Messages]} ADD {%1};
+	#line gag
 }
 {5}
 
@@ -93,12 +119,23 @@
 }
 {5}
 
-#ACTION {^The computer announces, "%*"}
+#ALIAS {g}
 {
-	play Ship/Computer/announce@rnd{4}.wav
+	use survey
 }
-{9}
+{5}
 
+#SUBSTITUTE       {^%* will be completely repaired in %*.}                    {%2 to repair %1.}  {5}
+#SUBSTITUTE       {^I am beginning the repair of %1. Estimated time to completion: %2.}                                                 {%2 to repair %1.}  {5}
+#SUBSTITUTE       {^I have completed the repair of %*.$}                  {%1 is repaired.}  {5}
 #SUBSTITUTE       {^The computer reports that the starship is currently headed %*}                                            {%1}  {5}
+#SUBSTITUTE       {^The computer reports the starship is headed for %1. The computer estimates approximately %2 until arrival at the destination at current relativity drive speed.$}                                                                                                                                               {%2 until arrival at %1.}  {5}
+#VARIABLE         {EnemyHull}  {98%}
+#VARIABLE         {HC.Misses}  {5}
+#VARIABLE         {HC.Partials}  {19}
+#VARIABLE         {HC.WHits}  {35}
+#VARIABLE         {ShipClass}  {A}
+#VARIABLE         {ShipCoords}  {12 6 7}
+#VARIABLE         {ShipName}  {Infinite Sunshine}
 
 #CLASS {Ship-Computer} CLOSE

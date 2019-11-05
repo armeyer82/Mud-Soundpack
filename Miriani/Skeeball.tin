@@ -1,0 +1,10 @@
+#CLASS {Skeeball} OPEN
+
+#ACTION {^You wind up and send a ball down the lane.  Good luck.}
+{
+	play General/Misc/Skeeballrolls.wav
+}
+{5}
+
+
+#CLASS {Skeeball} CLOSE

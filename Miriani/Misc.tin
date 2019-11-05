@@ -1,6 +1,6 @@
 #CLASS {Misc} OPEN
 
-#ACTION {%1 [ [ ]Enter "yes" or "no"]}
+#ACTION {[Enter "yes" or "no"]}
 {
 	play prompt.wav
 }
@@ -12,19 +12,19 @@
 }
 {5}
 
-#ACTION {%1 leaves your group.%2}
+#ACTION {%1 leaves your group.}
 {
 	play disband.wav
 }
 {5}
 
-#ACTION {%1 pulls a series of straps around %2 and securely buckles %3 #into%4}
+#ACTION {%1 pulls a series of straps around %2 and securely buckles %3 into %4}
 {
 	play General/Misc/Buckle@rnd{3}.wav
 }
 {5}
 
-#ACTION {%1 releases the buckle of %2 seatbelt, causing it to retract #back into %3}
+#ACTION {%1 releases the buckle of %2 seatbelt, causing it to retract back into %3}
 {
 	play General/Misc/Unbuckle@rnd{3}.wav
 }
@@ -42,7 +42,7 @@
 }
 {5}
 
-#ACTION {%1"Docking complete."%2}
+#ACTION {^Docking complete.$}
 {
 	play Ship/Misc/DockingBayDoorClose.wav
 }
@@ -60,19 +60,19 @@
 }
 {5}
 
-#ACTION {%1A small lock destroying explosive explodes with unexpected #force, sending a shockwave slamming into you%2}
+#ACTION {%1A small lock destroying explosive explodes with unexpected force, sending a shockwave slamming into you%2}
 {
 	play Ship/Misc/HatchBomb.wav
 }
 {5}
 
-#ACTION {%1You carefully place %2 along the edge of %3 hatch. You press #a small button and step back as the charge begins its 30 second #countdown%4}
+#ACTION {You carefully place %2 along the edge of %3 hatch. You press a small button and step back as the charge begins its 30 second countdown%4}
 {
 	play Ship/Misc/HatchBombPlace.wav
 }
 {5}
 
-#ACTION {%1You hear a deep rumbling as the docking bay door closes%2}
+#ACTION {You hear a deep rumbling as the docking bay door closes}
 {
 	play Ship/Misc/DockingBayDoorClose.wav
 }
@@ -84,19 +84,19 @@
 }
 {5}
 
-#ACTION {%1You hear a strange sound coming from the airlock%2}
+#ACTION {You hear a strange sound coming from the airlock}
 {
 	play Ship/Misc/HatchBombPlaceHere.wav
 }
 {5}
 
-#ACTION {%1You hear what sounds like an explosion coming from the #general area of the airlock%2}
+#ACTION {%1You hear what sounds like an explosion coming from the general area of the airlock%2}
 {
 	play Ship/Misc/HatchBombHere.wav
 }
 {5}
 
-#ACTION {%1You indicate to your group members that you no longer wish #for them to follow you.%2}
+#ACTION {^You indicate to your group members that you no longer wish for them to follow you.}
 {
 	play disband.wav
 }
@@ -186,12 +186,6 @@
 }
 {5}
 
-#ACTION {Those coordinates are too far away to establish a lock.}
-{
-	play General/Misc/Cancel.wav
-}
-{5}
-
 #ACTION {You arrive at your new coordinates.}
 {
 	play General/Device/JetEnd.wav;
@@ -218,7 +212,7 @@
 }
 {5}
 
-#ACTION {You decide against it until you aren't floating around in #space.}
+#ACTION {You decide against it until you aren't floating around in space.}
 {
 	play General/Misc/Command@rnd{10}.wav
 }
@@ -242,27 +236,27 @@
 }
 {5}
 
-#ACTION {You hear a loud buzzing sound, indicating somebody is at the #door.}
+#ACTION {You hear a loud buzzing sound, indicating somebody is at the door.}
 {
 	play buzz.wav;
 	#line gag
 }
 {5}
 
-#ACTION {You pull a series of straps around yourself and securely buckle #yourself into%1}
+#ACTION {You pull a series of straps around yourself and securely buckle yourself into%1}
 {
 	play General/Misc/Buckle@rnd{3}.wav;
 	#line gag
 }
 {5}
 
-#ACTION {You receive %1 credits%2}
+#ACTION {You receive %1 credits}
 {
 	play General/Misc/Credits@rnd{4}.wav
 }
 {5}
 
-#ACTION {You release the buckle of your seatbelt, causing it to retract #back into %1}
+#ACTION {You release the buckle of your seatbelt, causing it to retract back into %1}
 {
 	play General/Misc/Unbuckle@rnd{3}.wav;
 	#line gag
@@ -311,7 +305,7 @@
 }
 {5}
 
-#ACTION {[ [ ]Type lines of input; use %1.' to end or %2@abort' to abort #the command.]}
+#ACTION {[ [ ]Type lines of input; use %1.' to end or %2@abort' to abort the command.]}
 {
 	play prompt.wav
 }
@@ -349,7 +343,5 @@
 	#line gag
 }
 {5}
-
-#GAG              {[ # ][ $ ][ # ]hjelp}
 
 #CLASS {Misc} CLOSE

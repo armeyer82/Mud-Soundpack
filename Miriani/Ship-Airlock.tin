@@ -96,9 +96,15 @@
 }
 {5}
 
+#ACTION {^A small light on the airlock control panel turns from {red|yellow} to {red|yellow}. The faint hiss of air can be heard {exiting|entering} the airlock.}
+{
+	play CycleStart.wav
+}
+{5}
+
 #ACTION {^You float out of the ship into space.}
 {
-	StopRoomSound;
+	MuteRoomSounds
 }
 {5}
 

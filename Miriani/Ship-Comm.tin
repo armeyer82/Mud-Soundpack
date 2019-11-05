@@ -3,8 +3,9 @@
 #ACTION {%1's voice comes over the intercom, saying, "%2"}
 {
 	play Ship/Comm/intercom1.wavv;
-	#nop UpdateBuffer PA;
-	#list PA add {%1, "%2"}
+	UpdateBuffer PA;
+	#list {Buffer[@GetBufferNumber{PA}][Messages]} ADD {[%1] %2}
+
 }
 {5}
 

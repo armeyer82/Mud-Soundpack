@@ -1,13 +1,5 @@
 #CLASS {Miriani} OPEN
 
-#ACTION {~%1 shatters immersion%*and %2}
-{
-	play General/Comm/ROOC.wav;
-	#nop UpdateBuffer rooc;
-	#nop #list rooc add {[Rooc] %1 %3}
-}
-{4}
-
 #ACTION {^Target: Starship}
 {
 	play Ship/Combat/LockedonOther.wav
@@ -112,17 +104,17 @@
 }
 {5}
 
-#ACTION {has jumped into the sector.$}
+#ACTION {has jumped into the sector.}
 {
 	play Ship/Move/EnterSector2.wav
 }
-{5}
+{6}
 
-#ACTION {has left the sector.$}
+#ACTION {has left the sector.}
 {
 	play Ship/Move/ExitSector1.wav
 }
-{5}
+{6}
 
 #ALIAS {SayWithReviewVoice}
 {
@@ -206,11 +198,10 @@
 	#showme $Exits
 }
 
-#VARIABLE         {Exits}  {south, down, and out.}
+#VARIABLE         {Exits}  {northwest, northeast, southeast, and southwest.}
 #VARIABLE         {ReviewVoice}  {{Rate}{650}{Voice}{Default}}
-#VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.15}}
-#VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{type}{starship}}
+#VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.30}{RoomSounds}{.20}}
+#VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{structure}{starship}{type}{starship}}
 #VARIABLE         {soundpath}  {./Miriani/Sounds/}
-#VARIABLE         {volume}  {0.15}
 
 #CLASS {Miriani} CLOSE

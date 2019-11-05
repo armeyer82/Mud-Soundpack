@@ -12,7 +12,7 @@
 }
 {5}
 
-#ACTION {A %1 beeps quietly, indicating to you that there is a new message%2.}
+#ACTION {A %1 beeps quietly, indicating to you that there is a new message}
 {
 	play General/Device/NewPost@rnd{4}.wav
 }
@@ -30,10 +30,10 @@
 	{
 		#math {LPGain} {$CurLP-$LicensePoints};
 		#math {CPGain} {$CurCP-$CombatPoints};
-		#show $LPGain License Points gained and $CPGain Combat Points gained.;
+		#showme $LPGain License Points gained and $CPGain Combat Points gained.
 	};
-	#var LicensePoints $CurLP;
-	#var CombatPoints $CurCP;
+	#variable LicensePoints $CurLP;
+	#variable CombatPoints $CurCP;
 	#line gag
 }
 {5}
@@ -92,13 +92,17 @@
 }
 {5}
 
+#ACTION {^A %* handheld planetary surveyor indicates that the scan was successful.$}
+{
+	play General/Device/SurveyComplete.wav
+}
+{5}
+
 #ACTION {^A small handheld radio receiver beeps twice, indicating the detection of a radio transmission.$}
 {
 	play General/Device/radioreceiver.wav
 }
 {5}
 
-#VARIABLE         {CurCP}  {12385.11}
-#VARIABLE         {CurLP}  {18336.35}
 
 #CLASS {Devices} CLOSE

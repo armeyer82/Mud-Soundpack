@@ -1,62 +1,172 @@
 #CLASS {Buffers} OPEN
 
-#ALIAS {SayReviewText}
+#ALIAS {GetReviewText}
 {
-	#switch {"$Buffer[$CurrentBuffer]"}
+	#switch {"$Buffer[$CurrentBuffer][Name]"}
 	{
 		#case {"History"}
 		{
-			#buffer Get Review %1;
-			SayWithReviewVoice {$Review}
+			#buffer Get Review @abs{%1};
+			SayReviewText
+		};
+		#default
+		{
+			#variable Review $Buffer[$CurrentBuffer][Messages][%1];
+			#if {%1==-1 && "$Review" == ""}
+			{
+				#variable Review This buffer is empty."
+			};
+			#elseif {"$Review"== ""}
+			{
+				#list {Buffer[$CurrentBuffer][Messages]} size {BufferSize};
+				#if {$BufferSize==0}
+				{
+					#variable Review {This buffer is empty.}
+				};
+				#else
+				{
+					#variable Review {There are only $BufferSize messages in this buffer.}
+				}
+			};
+			SayReviewText
 		}
+	}
+}
+{5}
+
+#ALIAS {SayReviewText}
+{
+	#system pkill -f "say";
+	#replace {Review} {[0m} {};
+	#replace {Review} {, "} {, };
+	#replace {Review} {"} {};
+	#if {"$Review"!=""}
+	{
+		#system say -r $ReviewRate "$Review" &
+	};
+	#else
+	{
+		#nop
 	}
 }
 {5}
 
 #ALIAS {UpdateBuffer}
 {
-	#nop
+	#if {"%1"!=""}
+	{
+		#variable BufferNumber @GetBufferNumber{%1};
+		#list {Buffer[$BufferNumber][Messages]} {size} {NumberOfMessages};
+		#while { $NumberOfMessages >= 10}
+		{
+			#list {Buffer[$BufferNumber][Messages]} del 1;
+			#list {Buffer[$BufferNumber][Messages]} {size} {NumberOfMessages}
+		}
+	}
 }
 {5}
 
+#FUNCTION {GetBufferNumber}
+{
+	#if {"%1"==""}
+	{
+		#return #show No buffer name given.
+	};
+	#else
+	{
+		#variable Counter 1;
+		#while {"$Buffer[$Counter][Name]" != "%1" && $Counter <= &Buffer[]}
+		{
+			#math {Counter} {$Counter + 1}
+		};
+		#return $Counter
+	}
+}
+
 #MACRO {\e!}
 {
-	SayReviewText 1
+	GetReviewText -1
 }
 
 #MACRO {\e#}
 {
-	#showme $PA[-3]
+	GetReviewText -3
 }
 
 #MACRO {\e$}
 {
-	#showme $PA[-4]
+	GetReviewText -4
 }
 
 #MACRO {\e%}
 {
-	#showme $PA[-5]
+	GetReviewText -5
 }
 
 #MACRO {\e@}
 {
-	#showme $PA[-2]
+	GetReviewText -2
 }
 
 #MACRO {\eE}
 {
-	#nop
+	#if {$CurrentBuffer > 1}
+	{
+		#math {CurrentBuffer} {$CurrentBuffer -1}
+	};
+	#else
+	{
+		#variable CurrentBuffer &Buffer[]
+	};
+	#list {Buffer[$CurrentBuffer][Messages]} size {BufferSize};
+	#while {$BufferSize == 0}
+	{
+		#if {$CurrentBuffer > 1}
+		{
+			#math {CurrentBuffer} {$CurrentBuffer -1};
+			#list {Buffer[$CurrentBuffer][Messages]} size {BufferSize}
+		};
+		#else
+		{
+			#variable CurrentBuffer &Buffer[]
+		};
+		#if {$CurrentBuffer == 1}
+		{
+			#break
+		}
+	};
+	#variable Review {$Buffer[$CurrentBuffer][Name]};
+	SayReviewText
 }
 
 #MACRO {\e^}
 {
-	#showme $PA[-6]
+	GetReviewText -6
+}
+
+#MACRO {\e&}
+{
+	GetReviewText -7
+}
+
+#MACRO {\e*}
+{
+	GetReviewText -8
+}
+
+#MACRO {\e(}
+{
+	GetReviewText -9
+}
+
+#MACRO {\e)}
+{
+	GetReviewText -10
 }
 
 #MACRO {\ee}
 {
-	#if {$CurrentBuffer<&Buffer[]}
+	#if {$currentBuffer < &Buffer[]}
 	{
 		#variable CurrentBuffer @increment{$CurrentBuffer}
 	};
@@ -64,10 +174,29 @@
 	{
 		#variable CurrentBuffer 1
 	};
-	SayWithReviewVoice {$Buffer[$CurrentBuffer]}
+	#list {Buffer[$CurrentBuffer][Messages]} size {BufferSize};
+	#while {$BufferSize == 0}
+	{
+		#if {$CurrentBuffer < &Buffer[]}
+		{
+			#variable CurrentBuffer @increment{$CurrentBuffer};
+			#list {Buffer[$CurrentBuffer][Messages]} size {BufferSize}
+		};
+		#else
+		{
+			#variable CurrentBuffer 1
+		};
+		#if {$CurrentBuffer == 1}
+		{
+			#break
+		}
+	};
+	#variable Review {$Buffer[$CurrentBuffer][Name]};
+	SayReviewText
 }
 
-#VARIABLE         {Buffer}  {{1}{History}{2}{PA}{3}{Computer}{4}{Say}{5}{RP}{6}{Rooc}{7}{SOOC}{8}{Short-range}{9}{General}{10}{Chatter}{11}{Private}}
+#VARIABLE         {Buffer}  {{1}{{Messages}{{1}{None}}{Name}{History}}{2}{{Name}{PA}}{3}{{Name}{Computer}}{4}{{Name}{Camera}}{5}{{Name}{Say}}{6}{{Name}{RP}}{7}{{Name}{ROOC}}{8}{{Name}{SOOC}}{9}{{Name}{Alliance}}{10}{{Name}{Comm}}{11}{{Name}{Short-range}}{12}{{Name}{General}}{13}{{Messages}{}{Name}{Chatter}}{14}{{Name}{Private}}{15}{{Name}{Flight}}{16}{{Name}{Services}}{17}{{Name}{CM}}}
 #VARIABLE         {CurrentBuffer}  {1}
+#VARIABLE         {ReviewRate}  {650}
 
 #CLASS {Buffers} CLOSE

@@ -4,9 +4,10 @@
 {
 	#showme {%3};
 	play General/Comm/FlightScanner.wav;
+	UpdateBuffer Flight;
+	#list {Buffer[@GetBufferNumber{Flight}][Messages]} Add {%3};
 	#line gag
 }
 {5}
-
 
 #CLASS {FC-Scanner} CLOSE

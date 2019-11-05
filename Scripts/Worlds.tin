@@ -128,6 +128,9 @@
 	#return &World[$result]
 }
 
+#GAG              {#SYSTEM ERROR (Miriani) connect_mud: connect (61: Connection refused)}
+#GAG              {Connection refused}
+#GAG              {connection refused}
 #VARIABLE         {Logdir}  {/Users/ameyer/Mud-Files/Miriani/Logs/}
 #VARIABLE         {Userdir}  {/Users/ameyer/Mud-Files/Miriani/User-Scripts/}
 #VARIABLE         {World}  {{Everdark}{{Host}{everdark.org}{Port}{3000}}{Miriani}{{Host}{moo.toastsoft.net}{Port}{1234}{SSLport}{1443}{UseSSL}{1}}{Starconquest}{{Host}{moo.squidsoft.net}{Port}{7777}}}

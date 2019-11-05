@@ -1,28 +1,39 @@
 #CLASS {Comm} OPEN
 
+#ACTION {^%1 {shatters|shatter} immersion and %2}
+{
+	#show {[ROOC] %1 %2};
+	#line gag;
+	play General/Comm/ROOC.wav;
+	UpdateBuffer ROOC;
+	#list {Buffer[@GetBufferNumber{ROOC}][Messages]} ADD {%1 %2};
+}
+{4}
+
+
 #ACTION {^[Frequency %*]}
 {
 	play General/Comm/Metaf.wav
 }
 {5}
 
-#ACTION {^[General Communication]}
+#ACTION {^[General Communication] %*}
 {
-	play General/Comm/General.wav
+	play General/Comm/General.wav;
+	UpdateBuffer General;
+	#list {Buffer[@GetBufferNumber{General}][Messages]} ADD {%1};
+	UpdateBuffer Comm;
+	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[General] %1}
 }
 {5}
 
-#ACTION {^[Short-range Communication] %3}
+#ACTION {^[Short-range Communication] %*}
 {
 	play General/Comm/Short.wav;
-	UpdateBuffer Short_range;
-	#list Short_range add %3
-}
-{5}
-
-#ACTION {^A %* flight control scanner announces, "%*"}
-{
-	play General/Comm/FlightScanner.wav
+		UpdateBuffer Short-range;
+	#list {Buffer[@GetBufferNumber{Short-range}][Messages]} ADD {%1};
+	UpdateBuffer Comm;
+	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[Short-range] %1}
 }
 {5}
 
@@ -42,7 +53,10 @@
 {
 	play General/Comm/Services.wav;
 	#line gag;
-	#showme %2
+	#showme %2;
+	UpdateBuffer Services;
+	#list {Buffer[@GetBufferNumber{Services}][Messages]} ADD {[%1] %2}
+
 }
 {4}
 
@@ -66,15 +80,24 @@
 }
 {5}
 
-#ACTION {^[Chatter]}
+#ACTION {^[Chatter] %1}
 {
-	play General/Comm/Chatter.wav
+	play General/Comm/Chatter.wav;
+	UpdateBuffer Chatter;
+	#list {Buffer[@GetBufferNumber{Chatter}][Messages]} ADD {%1};
+	UpdateBuffer Comm;
+	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[Chatter] %1}
 }
 {5}
 
-#ACTION {^[Private}
+#ACTION {^[Private | %*] %*}
 {
-	play General/Comm/private.wav
+	play General/Comm/private.wav;
+	UpdateBuffer Private;
+	#list {Buffer[@GetBufferNumber{Private}][Messages]} ADD {[%1] %2};
+	UpdateBuffer Comm;
+	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[%1] %2}
+
 }
 {5}
 
@@ -84,9 +107,11 @@
 }
 {5}
 
-#ACTION {^[Tradesman Market]}
+#ACTION {^[Tradesman Market] %*}
 {
-	play General/Comm/CM.wav
+	play General/Comm/CM.wav;
+	UpdateBuffer CM;
+	#list {Buffer[@GetBufferNumber{CM}][Messages]} ADD {%1};
 }
 {5}
 

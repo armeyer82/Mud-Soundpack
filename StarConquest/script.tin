@@ -43,7 +43,7 @@
 	#variable {target} {none};
 	#variable {targetship} {Nothing..};
 	#showme Number of weapon hits: $shotsfired;
-	#showme @time{};
+	#showme @Time{};
 	play Ship/Combat/OtherDestroyed1.wav
 }
 {4}
@@ -310,7 +310,7 @@
 #ACTION {^The computer beeps in an imperative manner}
 {
 	play Ship/Computer/report4.wav;
-	#showme @time{}
+	#showme @Time{}
 }
 {5}
 
@@ -360,7 +360,7 @@
 {
 	play Ship/Combat/tracking.mp3;
 	#variable shotsfired 0;
-	#showme @time{}
+	#showme @Time{}
 }
 {5}
 

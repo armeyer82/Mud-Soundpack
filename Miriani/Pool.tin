@@ -1,0 +1,22 @@
+#CLASS {Pool} OPEN
+
+#ACTION {^You jump in the pool and begin to swim.}
+{
+	play Pool/enterPool.wav
+}
+{5}
+
+#ACTION {^You splash around in the pool.}
+{
+	play Pool/Splash@rnd{3}.wav
+}
+{5}
+
+#ACTION {^You take a deep breath, dive underwater, and begin to swim.}
+{
+	play Pool/Underwater.wav
+}
+{5}
+
+
+#CLASS {Pool} CLOSE

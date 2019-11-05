@@ -14,22 +14,34 @@
 
 #ALIAS {play %*.{wav|mp3|aiff}}
 {
-	#system play -qV0 $soundpath/%1.%2 norm -h vol $Volume[GameSounds] &
+	#system play -qV0 $soundpath/%1.%2 norm -3 vol $Volume[GameSounds] &
 }
 {5}
 
 #EVENT {PROGRAM START}
 {
+	#split 0 1;
 	#script {Version} {cat ./Scripts/Version.txt};
-#split 0 1;
 	#showme Welcome to the Mud Soundpack, Version $Version[1].;
 	#showme Written by A. R. Meyer;
-	#showme Running on %0 version %3.\n;
-	#if {%1<2.0.5}
+	#if {"%0"==""}
 	{
-		#show {This soundpack needs %0 version 2.0.5 or later.};
-		#show {Please upgrade your version of %0 before attempting to use this soundpack.};
-		#show Exiting.;
+		#info system save;
+		#format {ClientName} {%p} {$info[SYSTEM][CLIENT][NAME]};
+		#format {ClientVersion} {%p} {$info[SYSTEM][CLIENT][VERSION]}
+	};
+	#else
+	{
+		#variable ClientName %0;
+		#variable ClientVersion %1
+	};
+	#showme Running on $ClientName version $ClientVersion.\n;
+	#showme {};
+	#if {$ClientVersion<2.0.5}
+	{
+		#showme {This soundpack needs %0 version 2.0.5 or later.};
+		#showme {Please upgrade your version of %0 before attempting to use this soundpack.};
+		#showme Exiting.;
 		#end
 	};
 	#showme Verifying necessary programs are installed.;
@@ -44,12 +56,15 @@
 	#variable SettingsPath @Homedir{}/Mud-Files/Settings/;
 	#class User open;
 	#config {command echo} off;
-	#show *** In order for TDSR to read the screen correctly, you will need to disable Cursor Tracking.;
+	#showme {};
+	#system {cat Scripts/MOTD}
 }
 
 #EVENT {SESSION CONNECTED}
 {
+	#split;
 	#system mkdir -p ~/Mud-Files/@Session{}/;
+	#system mkdir -p ~/Mud-Files/@Session{}/User-Scripts/;
 	#system mkdir -p ./@Session{};
 	#script {for i in $( ls ./@Session{}/*.tin ); do echo "#read $i"; done};
 	#system mkdir -p ~/Mud-Files/@Session{}/Logs/;
@@ -58,7 +73,7 @@
 	#script {if [ -f $Userdir/User.tin ]; then echo "#read $Userdir/User.tin"; fi};
 	#script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi};
 	#log {append} {$Logdir/@Date{}.log};
-	#cursor {insert} off;
+	#class User open
 }
 
 #FUNCTION {Date}
@@ -117,5 +132,14 @@
 	#math {result} {1d%1}
 }
 
+#FUNCTION {test}
+{
+	#event {CATCH RECEIVED INPUT}
+	{
+		#show %%0;
+	#unevent {CATCH RECEIVED INPUT}
+	};
+	#return
+}
 
 #CLASS {Main} CLOSE

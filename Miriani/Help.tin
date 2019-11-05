@@ -1,0 +1,10 @@
+#CLASS {Help} OPEN
+
+#ALIAS {.help}
+{
+	#nop
+}
+{5}
+
+
+#CLASS {Help} CLOSE

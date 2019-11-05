@@ -3,17 +3,13 @@
 #ACTION {^#$#mcp version:}
 {
 	#send #$#register_soundpack Tintin Soundpacks for Mac | $Version[1];
-	#EVENT {MINUTE}
-{
-	#send #$#soundpack_ping
-}
-
+	#ticker {Ping} {#send #$#soundpack_ping;play General/Misc/Ping.wav} {$Ping_Interval}
 }
 {5}
 
 #ACTION {^#$#soundpack environment %w | %w | %w}
 {
-	#variable environment[type] %1;
+	#variable environment[structure] %1;
 	#variable environment[safe] %2;
 	#variable environment[lighted] %3
 }
@@ -21,7 +17,7 @@
 
 #ACTION {^#$#soundpack environment starship %w | %w | %w | %w}
 {
-	#variable environment[type] starship;
+	#variable environment[structure] starship;
 	#variable environment[location] %1;
 	#variable environment[powered] %2;
 	#variable environment[safe] %3;
@@ -56,14 +52,14 @@
 #ACTION {^#$#soundpack_lag %*}
 {
 	#variable LAG[MS] %1;
-	#variable LAG[Date] @date{};
-	#variable LAG[Time] @time{}
+	#variable LAG[Date] @Date{};
+	#variable LAG[Time] @Time{}
 }
 {5}
 
 #ACTION {^#$#soundpack_pong}
 {
-	#send #$#soundpack_ping_reply ms
+	#send #$#soundpack_ping_reply m;play General/Misc/Pong.wav
 }
 {5}
 
@@ -80,5 +76,6 @@
 {5}
 
 #gag  {^#$#}
+#variable Ping_Interval 60
 
 #CLASS {Out-Of-Band} CLOSE

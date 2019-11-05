@@ -1,11 +1,5 @@
 #CLASS {AtmoSalvage} OPEN
 
-#ACTION {The computer announces, "Warning, avian lifeform in processing chamber. Expelling..."}
-{
-	play Atmo/SalvageLifeform@rnd{2}.wav
-}
-{5}
-
 #ACTION {^A bubble in the vicinity bursts and you hear the engines strain to keep the craft on course.$}
 {
 	play Atmo/Bubble.wav;
@@ -37,8 +31,15 @@
 #ACTION {^A whirlpool forms nearby, sucking the craft downward into its swirling vortex.$}
 {
 	#showme Descending.;
- play Atmo/Whirlpool.wav;
+	play Atmo/wave.wav;
+	play Atmo/Whirlpool.wav;
 	#line gag
+}
+{5}
+
+#ACTION {^Processing complete. One unit of %*has been secured.$}
+{
+	play Atmo/CargoDeposited.wav
 }
 {5}
 
@@ -49,9 +50,30 @@
 }
 {5}
 
+#ACTION {^The craft comes to a halt, floating serenely in the planet's oceans.$}
+{
+	#line gag
+}
+{5}
+
+#ACTION {^The craft makes a tremendous splash as it lands in the planet's watery atmosphere. It turns a few times and then the stabilizers kick in, righting the craft.$}
+{
+	play Atmo/LandingSplash.wav;
+	#line gag
+}
+{5}
+
 #ACTION {^The craft rocks violently as an enormous fish slams into it.$}
 {
 	play Atmo/FishCrash.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The heavy vibration of the running engine ceases as the vehicle glides out of the top levels of the atmosphere and into space.}
+{
+	play Atmo/thrusterA.wav;
+	#delay {1.75} {play Atmo/thrusterB.wav};
 	#line gag
 }
 {5}
@@ -77,9 +99,23 @@
 }
 {5}
 
+#ACTION {^The room suddenly tilts as an internal explosion rocks the craft.$}
+{
+	play Atmo/GasExplodes@rnd{3}.wav
+}
+{5}
+
 #ACTION {^The ship comes to a halt in the planet's atmosphere.}
 {
 	play Atmo/salvagestop.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The vehicle begins slowly gliding through the atmosphere, occasionally firing thrusters to ensure it stays on course.$}
+{
+	play Atmo/thrusterB.wav;
+	#delay {2} {play Atmo/thrusterA.wav};
 	#line gag
 }
 {5}
@@ -98,22 +134,56 @@
 }
 {5}
 
-#ACTION {^The vehicle suddenly hits a pocket of fierce wind%1}
+#ACTION {^The vehicle suddenly hits a pocket of fierce wind. %1 %w.$}
 {
 	play Ship/Misc/Wind.wav;
+	#if {"%2"=="descent"}
+	{
+		#showme Descending.
+	};
+	#else
+	{
+		#showme Climbing.
+	};
+	#line gag
+}
+{5}
+
+#ACTION {^Warning! Aquatic life form has entered scooper chamber. Expulsion in progress...$}
+{
+	play Atmo/FishScoop.wav
+}
+{5}
+
+#ACTION {^Warning, avian lifeform in processing chamber. Expelling...$}
+{
+	play ACV/AvianExpulsion@rnd{38}.wav
+}
+{5}
+
+#ACTION {^Warning, power level has dropped to %*.$}
+{
+	play Atmo/SalvageLow.wav
+}
+{5}
+
+#ACTION {^You are suddenly hurled into your seat as the vehicle speeds up even more to}
+{
 	#line gag
 }
 {5}
 
 #ACTION {^You are suddenly pressed against your seat as the vehicle is catapulted}
 {
-	play Atmo/salvagelaunch.wav
+	play salvageLaunch.wav;
+	play Atmo/salvagelaunch.wav;
+	#line gag
 }
 {5}
 
 #ACTION {^You carefully pilot the vehicle into a small chamber above the docking bay.}
 {
-	play Atmo/SalvageLaunch.wav;
+	play Atmo/LaunchSequence.wav;
 	#line gag
 }
 {5}
@@ -160,6 +230,13 @@
 }
 {5}
 
+#ACTION {^You hear a sharp whine as the vehicle accelerates through the}
+{
+	play Ship/Misc/Descent.wav;
+	#line gag
+}
+{5}
+
 #ACTION {^You hear a sharp whine as the vehicle accelerates through the%1}
 {
 	play Atmo/SalvageDescent.wav;
@@ -188,6 +265,7 @@
 }
 {5}
 
-#GAG              {You are suddenly pressed against your seat as the vehicle is catapulted out of the docking bay.}
+#VARIABLE         {CombatPoints}  {12470.23}
+#VARIABLE         {LicensePoints}  {19754.45}
 
 #CLASS {AtmoSalvage} CLOSE

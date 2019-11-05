@@ -2,57 +2,136 @@
 
 #ACTION {You follow %* outside the ship.}
 {
-	StopRoomSound
+	MuteRoomSounds
+}
+{5}
+
+#ACTION {^["%*" %w%*]}
+{
+	#var NewRoom %2 %3;
+	#replace {NewRoom} { {[0-9]{1,2}}} {};
+	#if {"$environment[structure]"=="starship"&&@IsPoweredStarship{}}
+	{
+		#if {${EnvironmentChanged}}
+		{
+			#if {"$CurrentRoom"!="$NewRoom"}
+			{
+				#variable CurrentRoom $NewRoom;
+				ProcessRoomSound
+			}
+		}
+	};
+	#else {
+		#variable CurrentRoom $NewRoom;
+	};
+	#variable EnvironmentChanged 0
 }
 {5}
 
 #ACTION {^You %* out of the ship.$}
 {
-	StopRoomSound
+	MuteRoomSounds
 }
 {5}
 
-#ACTION {^["%1" {Airlock|[A-Za-z]+}%*]}
+#ALIAS {MuteRoomSounds}
 {
-	#nop #showme %2 $Room[Current];
-	#if {($RoomSound[1]==0) && (@IsPoweredStarship{}==1)}
-	{
-		#variable Room[Current] %2;
-		PlayRoomSound Ship/Rooms/$Room[Current].wav
-	};
-	#else
-	{
-		#if {"$Room[Current]" != "%2"}
-		{
-			#variable Room[Current] %2;
-			StopRoomSound;
-			#if {@IsPoweredStarship{}==1}
-			{
-				StopRoomSound;
-				PlayRoomSound Ship/Rooms/$Room[Current].wav
-			};
-			#else
-			{
-				
-			}
-		}
-	}
+	#system pkill -f repeat;
+	#variable CurrentRoom Silent
 }
 {5}
 
 #ALIAS {PlayRoomSound %*.{wav|mp3|aiff}}
 {
-	#system play -qV1 $soundpath/%1.%2 gain -n vol $Volume[GameSounds] repeat - &;
-	#script RoomSound {pgrep -f repeat 9999}
+	#system play -qV1 $soundpath/%1.%2 norm -3 vol $Volume[RoomSounds] repeat - &
+}
+{5}
+
+#ALIAS {ProcessRoomSound}
+{
+	StopRoomSound;
+	#switch {"$CurrentRoom"}
+	{
+		#case {"{Bridge|Command Center|Control Room}"}
+		{
+			PlayRoomSound Ship/Rooms/Control.wav
+		};
+		#case {"Engineering Room"}
+		{
+			PlayRoomSound Ship/Rooms/Engineering.wav
+		};
+		#case {"{Corridor|Corridor One|Corridor Two|Corridor Three|Corridor Four}"} 
+		{
+			PlayRoomSound Ship/Rooms/Corridor.wav
+		};
+		#case {"Medical Center"} 
+		{
+			PlayRoomSound Ship/Rooms/Medical1.wav
+		};
+		#case {"Pool"}
+		{
+			PlayRoomSound Ship/Rooms/PoolRoom1.wav
+		};
+		#case {"Gym"} 
+		{
+			PlayRoomSound Ship/Rooms/Gym.wav
+		};
+		#case {"Duct"}
+		{
+			PlayRoomSound Ship/Rooms/Duct.wav
+		};
+		#case {"Combat Drone Bay"}
+		{
+			PlayRoomSound Ship/Rooms/CombatDroneBay.wav
+		};
+		#case {"Living Quarters"}
+		{
+			PlayRoomSound Ship/Rooms/Living.wav
+		};
+		#case {"Airlock"}
+		{
+			PlayRoomSound Ship/Rooms/Airlock.wav
+		};
+		#case {"{Storage Room|Storage Room Two}"} 
+		{
+			PlayRoomSound Ship/Rooms/Storage.wav
+		};
+		#case {"Docking Bay"}
+		{
+			PlayRoomSound Ship/Rooms/Docking.wav
+		};
+		#case {"Observation Center"}
+		{
+			PlayRoomSound Ship/Rooms/ObservationRoom.wav
+		};
+		#case {"Weapons Room"}
+		{
+			PlayRoomSound Ship/Rooms/Weapons.wav
+		};
+		#case {"Vehicle Docking Bay"}
+		{
+			PlayRoomSound Ship/Rooms/Vehicle.wav
+		};
+		#default
+		{
+			PlayRoomSound Ship/Rooms/MiscShipRooms.wav
+		}
+	}
 }
 {5}
 
 #ALIAS {StopRoomSound}
 {
-	#system pkill -f repeat 9999;
-	#variable RoomSound[1] 0
+	#system pkill -f repeat ;
+	#variable RoomSound[1] 0;
+	#variable EnvironmentChanged 1
 }
 {5}
+
+#EVENT {VARIABLE UPDATE environment}
+{
+	#variable EnvironmentChanged 1
+}
 
 #FUNCTION {IsPoweredStarship}
 {
@@ -66,5 +145,7 @@
 	}
 }
 
+#VARIABLE         {CurrentRoom}  {None}
+#VARIABLE         {EnvironmentChanged}  {0}
 
 #CLASS {Ship-Rooms} CLOSE

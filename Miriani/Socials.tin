@@ -17,7 +17,7 @@
 }
 {5}
 
-#ACTION {%* {says|whispers}%*}
+#ACTION {%* {says|whispers|asks|exclaims}%*, "%*"}
 {
 	play General/Socials/say.wav
 }

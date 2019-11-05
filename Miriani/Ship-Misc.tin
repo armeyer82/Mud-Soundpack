@@ -244,7 +244,7 @@
 #ACTION {You notice a faint hum begin to emanate from nowhere in particular as the starship's systems begin to power up.}
 {
 	play Ship/Misc/PowerOn2.wav;
-	#delay 2 {PlayRoomSound Ship/Rooms/$Room[Current].wav};
+	#delay 2 {ProcessRoomSound};
 	#line gag
 }
 {5}
@@ -276,7 +276,7 @@
 
 #ACTION {You press a large button marked CYCLE.}
 {
-	play General/Misc/SFBeep@rnd{15}.wav
+	play General/Misc/Beep6.wav
 }
 {5}
 
@@ -305,6 +305,32 @@
 #ACTION {^A chime is piped through a nearby speaker, indicating that somebody has entered the airlock.$}
 {
 	play Ship/Misc/Bell.wav
+}
+{5}
+
+#ACTION {^You hear a thunk as a blockade is launched.$}
+{
+	play Ship/Misc/BlockadeSingle.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear several thunks as blockades are launched.$}
+{
+	play Ship/Misc/BlockadeMultiple.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^You hear the airlock begin cycling.}
+{
+	play Ship/Misc/HearCycleStart.wav
+}
+{5}
+
+#ACTION {^You hear the airlock finish cycling.}
+{
+	play Ship/Misc/HearCycleStop.wav
 }
 {5}
 

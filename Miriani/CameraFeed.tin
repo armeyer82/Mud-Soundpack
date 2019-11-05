@@ -1,10 +1,12 @@
 #CLASS {CameraFeed} OPEN
 
-#ACTION {^(%*) %*}
+#ACTION {{^|> }(%*) %*}
 {
-	#showme {%2 (%1)};
+	#showme {%3 (%2)};
 	#line gag;
-	play General/Device/CameraFeed.wav
+	play General/Device/CameraFeed.wav;
+	UpdateBuffer Camera;
+	#list {Buffer[@GetBufferNumber{Camera}][Messages]} ADD {%3 (%2)}
 }
 {5}
 

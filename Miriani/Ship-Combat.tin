@@ -1,9 +1,27 @@
 #CLASS {Ship-Combat} OPEN
 
-#action {The computer announces, "Target destroyed."} {
-	play Ship/Combat/OtherDestroyed2.wav;
-	#var {HC.WHits} @increment{${HC.WHits}}
+#ACTION {Those coordinates are too far away to establish a lock.}
+{
+	play Ship/Combat/OutOfRange.wav
 }
+{5}
+
+#ACTION {^Current coordinates: %d, %d, %d}
+{
+	#showme {%1 %2 %3};
+	#variable My[X] %1;
+	#variable My[Y] %2;
+	#variable My[Z] %3;
+	#line gag
+}
+{4}
+
+#ACTION {^%*: %d, %d, %d}
+{
+	#showme %2 %3 %4 (%1);
+	#line gag
+}
+{5}
 
 
 #ACTION {A loud klaxon sounds as purple lights continue to flash overhead.}
@@ -13,10 +31,10 @@
 }
 {5}
 
-#ACTION {The computer announces, "There is insufficient weapons-grade bardenium available for firing."}
+#ACTION {Target destroyed.$}
 {
-	play Ship/Combat/NoBard.wav;
-	#line gag
+	play Ship/Combat/OtherDestroyed2.wav;
+	#variable {HC.WHits} @increment{${HC.WHits}}
 }
 {5}
 
@@ -55,37 +73,31 @@
 }
 {5}
 
-#ACTION {^That space is occupied.}
-{
-	play General/Misc/Beep3.wav;
-	#line gag
-}
-{5}
-
-#ACTION {^The computer announces, "Firing on empty space complete.}
+#ACTION {^Firing on empty space complete.$}
 {
 	play General/Misc/Beep9.wav;
 	#variable {HC.Misses} @increment{${HC.Misses}}
 }
 {5}
 
-#ACTION {^The computer announces, "Hit on}
+#ACTION {^Hit on}
 {
 	play Ship/Combat/OtherHit1.wav;
 	#variable {HC.WHits} @increment{${HC.WHits}}
 }
 {5}
 
-#ACTION {^The computer announces, "Partial hit}
+#ACTION {^Partial hit}
 {
 	play Ship/Combat/Partialhit.wav;
 	#variable {HC.Partials} @increment{${HC.Partials}}
 }
 {5}
 
-#ACTION {^The computer announces, "The target has moved from the locked coordinates."}
+#ACTION {^That space is occupied.}
 {
-	play Ship/Combat/lostLock.wav
+	play General/Misc/Beep3.wav;
+	#line gag
 }
 {5}
 
@@ -95,9 +107,30 @@
 }
 {5}
 
+#ACTION {^The ship rocks and shakes intensely as it is thrown violently by a push pulse.$}
+{
+	play Ship/Combat/PushPulse.wav;
+	#line gag
+}
+{5}
+
+#ACTION {^The target has moved from the locked coordinates.$}
+{
+	play Ship/Combat/lostLock.wav
+}
+{5}
+
+#ACTION {^There is insufficient weapons-grade bardenium available for firing.$}
+{
+	play Ship/Combat/NoBard.wav;
+	#line gag
+}
+{5}
+
 #ACTION {^This starship has been hit by}
 {
 	play Ship/Combat/YouHit1.wav;
+	#line gag;
 	#variable {HC.ShipHits} @increment{${HC.ShipHits}}
 }
 {5}
@@ -177,8 +210,8 @@
 	};
 	#else
 	{
-	#math {HC.TotalHits} {${HC.WHits}+${HC.Partials}};
-	#show Total Hits: ${HC.TotalHits};
+		#math {HC.TotalHits} {${HC.WHits}+${HC.Partials}};
+		#showme Total Hits: ${HC.TotalHits};
 		#showme Direct Hits: ${HC.WHits};
 		#showme Partial Hits ${HC.Partials};
 		#showme Misses ${HC.Misses};
@@ -215,7 +248,6 @@
 #SUBSTITUTE       {Praelor %1 drone: %2}  {%2}  {5}
 #SUBSTITUTE       {^Praelor %1 Drone %d: %3}      {%3}  {5}
 #SUBSTITUTE       {^Standard Drone %d: %2}    {%2}  {5}
-#SUBSTITUTE       {^This starship has been hit by %*.}                {%1}  {5}
-#VARIABLE         {HC}  {{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}}#
+#VARIABLE         {HC}  {{Misses}{0}{Partials}{0}{ShipHits}{0}{WHits}{0}}
 
 #CLASS {Ship-Combat} CLOSE
