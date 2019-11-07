@@ -3,7 +3,7 @@
 #ACTION {^#$#mcp version:}
 {
 	#send #$#register_soundpack Tintin Soundpacks for Mac | $Version[1];
-	#ticker {Ping} {#send #$#soundpack_ping;play General/Misc/Ping.wav} {$Ping_Interval}
+	#ticker {Ping} {#send #$#soundpack_ping;#nop play General/Misc/Ping.wav} {$Ping_Interval}
 }
 {5}
 
