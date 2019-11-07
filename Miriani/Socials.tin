@@ -7,7 +7,11 @@
 #regexp {%2} {{.*} "{.*}" {.*}} {#var emote &1 &3};
 	#replace {emote} {{.|?|,|!}} {};
 	#replace {emote} { } {;};
-	#foreach {$emote} {word} {PlaySocial $word $Gender}
+	#foreach {$emote} {word} {PlaySocial $word $Gender};
+	#buffer Get {Emote} {1};
+	UpdateBuffer RP;
+		#list {Buffer[@GetBufferNumber{RP}][Messages]} ADD {$Emote};
+	#unvar Emote
 }
 {5}
 
@@ -17,21 +21,24 @@
 }
 {5}
 
-#ACTION {%* {says|whispers|asks|exclaims}%*, "%*"}
+#ACTION {^{([A-Z][a-z]+ )+}%*{says|whispers|asks|exclaims}%*, "%*"}
 {
-	play General/Socials/say.wav
-}
-{5}
-
-#ACTION {^#$#soundpack emote | female | %* cries out %*}
-{
-	play General/Socials/Orgasmf@rnd{6}.wav
+	play General/Socials/say.wav;
+	UpdateBuffer Say;
+	#list {Buffer[@GetBufferNumber{Say}][Messages]} ADD {%0};
+	UpdateBuffer RP;
+	#list {Buffer[@GetBufferNumber{RP}][Messages]} ADD {%0}
 }
 {5}
 
 #ACTION {^#$#soundpack social | %w | %w}
 {
-	PlaySocial %1 %2
+	PlaySocial %1 %2;
+	#buffer Get {Social} {1};
+	UpdateBuffer RP;
+		#list {Buffer[@GetBufferNumber{RP}][Messages]} ADD {$Social};
+	#unvar Social
+
 }
 {5}
 
