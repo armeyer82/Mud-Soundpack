@@ -33,7 +33,7 @@
 
 #ACTION {Target destroyed.$}
 {
-	play Ship/Combat/OtherDestroyed2.wav;
+	play Ship/Combat/OtherDestroyed1.wav;
 	#variable {HC.WHits} @increment{${HC.WHits}}
 }
 {5}

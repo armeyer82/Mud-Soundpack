@@ -2,130 +2,124 @@
 
 #ALIAS {add-ssl}
 {
-	#local Mudname;
-	#format {Mudname} {%n}{%1};
-	#if {@WorldExists{$Mudname}}
-	{
-		#variable World[$Mudname][SSLport] %2;
-		#variable World[$Mudname][UseSSL] 1;
-		#showme Added %2 as the SSL port for $Mudname and enabled SSL;
-		.save-class Worlds
-	};
-	#else
-	{
-		#showme No information on this world. Please add it first before trying to add SSL connection information.
-	}
+     #local Mudname;
+     #format {Mudname} {%n}{%1};
+     #if {@WorldExists{$Mudname}}
+     {
+          #variable World[$Mudname][SSLport] %2;
+          #variable World[$Mudname][UseSSL] 1;
+          #showme Added %2 as the SSL port for $Mudname and enabled SSL;
+          .save-class Worlds
+     };
+     #else
+     {
+          #showme No information on this world. Please add it first before trying to add SSL connection information.
+     }
 }
-{5}
 
 #ALIAS {add-world}
 {
-	#local Mudname;
-	#format {Mudname} {%n}{%1};
-	#if {@WorldExists{$Mudname}}
-	{
-		#showme A world with that name already exists.
-	};
-	#else
-	{
-		#showme Adding $Mudname;
-		#variable World[$Mudname][Host] %2;
-		#variable World[$Mudname][Port] %3;
-		.save-class Worlds
-	}
+     #local Mudname;
+     #format {Mudname} {%n}{%1};
+     #if {@WorldExists{$Mudname}}
+     {
+          #showme A world with that name already exists.
+     };
+     #else
+     {
+          #showme Adding $Mudname;
+          #variable World[$Mudname][Host] %2;
+          #variable World[$Mudname][Port] %3;
+          .save-class Worlds
+     }
 }
-{5}
 
 #ALIAS {auto-connect}
 {
-	#if {${auto-connect}==1 && "$LastConnectMud"!="none"}
-	{
-		#showme Attempting to reconnect to $LastConnectedMud;
-		@ConnectMud{$LastConnectedMud}
-	}
+     #if {${auto-connect}==1 && "$LastConnectMud"!="none"}
+     {
+          #showme Attempting to reconnect to $LastConnectedMud;
+          @ConnectMud{$LastConnectedMud}
+     }
 }
-{5}
 
 #ALIAS {connect}
 {
-	#local Mudname @Uppercase{%1};
-	#if {"$Mudname"!=""}
-	{
-		#if {@WorldExists{$Mudname}}
-		{
-			@ConnectMud{$Mudname};
-			#class Worlds open;
-			#variable LastConnectedMud $Mudname;
-			#class Worlds close;
-			.save-class Worlds
-		};
-		#else
-		{
-			#showme Sorry I don't have connection information for that MUD.
-		}
-	};
-	#else
-	{
-		#showme Please specify the name of a mud.
-	}
+     #local Mudname @Uppercase{%1};
+     #if {"$Mudname"!=""}
+     {
+          #if {@WorldExists{$Mudname}}
+          {
+               @ConnectMud{$Mudname};
+               #class Worlds open;
+               #variable LastConnectedMud $Mudname;
+               #class Worlds close;
+               .save-class Worlds
+          };
+          #else
+          {
+               #showme Sorry I don't have connection information for that MUD.
+          }
+     };
+     #else
+     {
+          #showme Please specify the name of a mud.
+     }
 }
-{5}
 
 #ALIAS {delete-world}
 {
-	#local Mudname;
-	#format {Mudname} {%n}{%1};
-	#if {@WorldExists[$Mudname]}
-	{
-		#unvariable World[$Mudname];
-		#showme Deleted $Mudname
-	};
-	#else
-	{
-		#showme $Mudname does not exists.
-	}
+     #local Mudname;
+     #format {Mudname} {%n}{%1};
+     #if {@WorldExists[$Mudname]}
+     {
+          #unvariable World[$Mudname];
+          #showme Deleted $Mudname
+     };
+     #else
+     {
+          #showme $Mudname does not exists.
+     }
 }
-{5}
 
 #ALIAS {ssl}
 {
-	#switch {"%1"}
-	{
-		#case {"on"}
-		{
-			#variable SSL 1;
-			#showme SSL enabled
-		};
-		#case {"off"}
-		{
-			#variable SSL 0;
-			#showme SSL has been disabled.
-		};
-		#default
-		{
-			#showme Syntax is ssl on/off
-		}
-	}
+     #switch {"%1"}
+     {
+          #case {"on"}
+          {
+               #variable SSL 1;
+               #showme SSL enabled
+          };
+          #case {"off"}
+          {
+               #variable SSL 0;
+               #showme SSL has been disabled.
+          };
+          #default
+          {
+               #showme Syntax is ssl on/off
+          }
+     }
 }
-{5}
 
 #FUNCTION {ConnectMud}
 {
-	#if {$SSL==1&&$World[%1][SSLport]}
-	{
-		#return #ssl %1 $World[%1][Host] $World[%1][SSLport]
-	};
-	#else
-	{
-		#return #session %1 $World[%1][Host] $World[%1][Port]
-	}
+     #if {$SSL==1&&$World[%1][SSLport]}
+     {
+          #return #ssl %1 $World[%1][Host] $World[%1][SSLport]
+     };
+     #else
+     {
+          #return #session %1 $World[%1][Host] $World[%1][Port]
+     }
 }
 
 #FUNCTION {WorldExists}
 {
-	#local result;
-	#format {result} {%n}{%1};
-	#return &World[$result]
+     #local result;
+     #format {result} {%n}{%1};
+     #return &World[$result]
 }
 
 #GAG              {#SYSTEM ERROR (Miriani) connect_mud: connect (61: Connection refused)}
