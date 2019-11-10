@@ -3,7 +3,7 @@
 #ACTION {^#$#mcp version:}
 {
      #send #$#register_soundpack Tintin Soundpacks for Mac | $Version[1];
-	.sp_keep_alive;
+     .sp_keep_alive
 }
 
 #ACTION {^#$#soundpack environment %w | %w | %w}
@@ -46,18 +46,18 @@
 
 #ACTION {^#$#soundpack_lag %*}
 {
-     #math {LAG[MS]} {%1 * 1000.00};
+     #variable LAG[MS] %1;
      #variable LAG[Date] @Date{};
      #variable LAG[Time] @Time{}
 }
 
 #ACTION {^#$#soundpack_pong}
 {
-     #send #$#soundpack_ping_reply m;
-	#if {$Ping_Sound}
-	{
-		play General/Misc/Pong.wav
-	}
+     #send #$#soundpack_ping_reply ms;
+     #if {$Ping_Sound}
+     {
+          play General/Misc/Pong.wav
+     }
 }
 
 #ACTION {^Your soundpack has been updated to version}
@@ -67,10 +67,10 @@
 
 #ALIAS {.sp_keep_alive}
 {
-	#if {$Keep_alive}
-	{
-		#ticker {Ping} {#send #$#soundpack_ping;#if {${Ping_Sound} == 1} {play General/Misc/Ping.wav}} {$Ping_Interval}
-	}
+     #if {$Keep_alive}
+     {
+          #ticker {Ping} {#send #$#soundpack_ping;#if {${Ping_Sound} == 1} {play General/Misc/Ping.wav}} {$Ping_Interval}
+     }
 }
 
 #ALIAS {ping}
@@ -93,24 +93,32 @@
                     #unticker Ping;
                     #showme Disabling keep-alive pings.
                };
-			#case {"mute"}
-			{
-				#show Muting ping sounds;
-				#class User open;
-				#var Ping_Sound 0;
-				#class User close
-			};
-			#case {"unmute"}
-			{
-				#show Unmuting ping sounds;
-				#class User open;
-				#var Ping_Sound 1;
-				#class User close
-			};
+               #case {"mute"}
+               {
+                    #showme Muting ping sounds;
+                    #unvariable Ping_Sound;
+                    #class User open;
+                    #variable Ping_Sound 0;
+                    #class User close;
+                    #class User write $Userdir/User.tin
+               };
+               #case {"unmute"}
+               {
+                    #showme Unmuting ping sounds;
+                    #unvariable Ping_Sound;
+                    #class User open;
+                    #variable Ping_Sound 1;
+                    #class User close;
+                    #class User write $Userdir/User.tin
+               };
                #case {"{(([0-9]{1,2})(:[0-9]{1,2})*)}"}
                {
                     #showme Setting ping interval to %1;
-                    #variable Ping_Interval %1
+                    #unvariable Ping_Interval;
+                    #class User open;
+                    #variable Ping_Interval %1;
+                    #class User close;
+                    #class User write $Userdir/User.tin
                };
                #default
                {
@@ -120,8 +128,9 @@
      }
 }
 
+#GAG              {^#$#}
+#VARIABLE         {Keep_alive}  {1}
 #VARIABLE         {Ping_Interval}  {60}
 #VARIABLE         {Ping_Sound}  {1}
-#var Keep_alive 1
 
 #CLASS {Out-Of-Band} CLOSE
