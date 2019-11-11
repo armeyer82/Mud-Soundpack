@@ -1,5 +1,7 @@
 #CLASS {Main} OPEN
 
+#alias {.prompt} {#event {CATCH RECEIVED INPUT} {#var User_Input %%0;#unevent {CATCH RECEIVED INPUT}}}
+
 #ALIAS {LoadUserScripts}
 {
 	#read {$Userdir/User.tin}
