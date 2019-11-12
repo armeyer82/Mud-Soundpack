@@ -37,9 +37,10 @@
 }
 {5}
 
-#ACTION {^You feel mild acceleration as the ship descends}
+#ACTION {^You feel mild acceleration as the ship {descends|moves}}
 {
-	play Ship/Move/YouLanding.wav
+	play Ship/Move/YouLanding.wav;
+	#line gag
 }
 {5}
 
@@ -201,7 +202,6 @@
 #VARIABLE         {Exits}  {northwest, northeast, southeast, and southwest.}
 #VARIABLE         {ReviewVoice}  {{Rate}{650}{Voice}{Default}}
 #VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.30}{RoomSounds}{.20}}
-#VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{structure}{starship}{type}{starship}}
 #VARIABLE         {soundpath}  {./Miriani/Sounds/}
 
 #CLASS {Miriani} CLOSE
