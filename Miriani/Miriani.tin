@@ -202,6 +202,7 @@
 #VARIABLE         {Exits}  {northwest, northeast, southeast, and southwest.}
 #VARIABLE         {ReviewVoice}  {{Rate}{650}{Voice}{Default}}
 #VARIABLE         {Volume}  {{ComputerVoice}{0.33}{GameSounds}{0.30}{RoomSounds}{.20}}
+#VARIABLE         {environment}  {{lighted}{light}{location}{space}{powered}{powered}{safe}{safe}{structure}{starship}{type}{starship}}
 #VARIABLE         {soundpath}  {./Miriani/Sounds/}
 
 #CLASS {Miriani} CLOSE
