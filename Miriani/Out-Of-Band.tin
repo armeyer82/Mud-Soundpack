@@ -2,80 +2,135 @@
 
 #ACTION {^#$#mcp version:}
 {
-	#send #$#register_soundpack Tintin Soundpacks for Mac | $Version[1];
-	#ticker {Ping} {#send #$#soundpack_ping;#nop play General/Misc/Ping.wav} {$Ping_Interval}
+     #send #$#register_soundpack Tintin Soundpacks for Mac | $Version[1];
+     .sp_keep_alive
 }
-{5}
 
 #ACTION {^#$#soundpack environment %w | %w | %w}
 {
-	#variable environment[structure] %1;
-	#variable environment[safe] %2;
-	#variable environment[lighted] %3
+     #variable environment[structure] %1;
+     #variable environment[safe] %2;
+     #variable environment[lighted] %3
 }
-{5}
 
 #ACTION {^#$#soundpack environment starship %w | %w | %w | %w}
 {
-	#variable environment[structure] starship;
-	#variable environment[location] %1;
-	#variable environment[powered] %2;
-	#variable environment[safe] %3;
-	#variable environment[lighted] %4
+     #variable environment[structure] starship;
+     #variable environment[location] %1;
+     #variable environment[powered] %2;
+     #variable environment[safe] %3;
+     #variable environment[lighted] %4
 }
-{5}
 
 #ACTION {^#$#soundpack planet %1 | %w | %w}
 {
-	#variable environment[type] planet;
-	#variable environment[safe] %2;
-	#variable environment[lighted] %3
+     #variable environment[type] planet;
+     #variable environment[safe] %2;
+     #variable environment[lighted] %3
 }
-{5}
 
 #ACTION {^#$#soundpack status %w}
 {
-	#switch {"%1"}
-	{
-		#case {"ok"}
-		{
-			#showme Your soundpack is up to date
-		};
-		#case {"unknown"}
-		{
-			#showme There was a problem registering your soundpack with the MOO.
-		}
-	}
+     #switch {"%1"}
+     {
+          #case {"ok"}
+          {
+               #showme Your soundpack is up to date
+          };
+          #case {"unknown"}
+          {
+               #showme There was a problem registering your soundpack with the MOO.
+          }
+     }
 }
-{5}
 
 #ACTION {^#$#soundpack_lag %*}
 {
-	#variable LAG[MS] %1;
-	#variable LAG[Date] @Date{};
-	#variable LAG[Time] @Time{}
+     #variable LAG[MS] %1;
+     #variable LAG[Date] @Date{};
+     #variable LAG[Time] @Time{}
 }
-{5}
 
 #ACTION {^#$#soundpack_pong}
 {
-	#send #$#soundpack_ping_reply m;play General/Misc/Pong.wav
+     #send #$#soundpack_ping_reply ms;
+     #if {$Ping_Sound}
+     {
+          play General/Misc/Pong.wav
+     }
 }
-{5}
 
 #ACTION {^Your soundpack has been updated to version}
 {
-	play General/Misc/UpdateAlert.wav
+     play General/Misc/UpdateAlert.wav
 }
-{5}
+
+#ALIAS {.sp_keep_alive}
+{
+     #if {$Keep_alive}
+     {
+          #ticker {Ping} {#send #$#soundpack_ping;#if {${Ping_Sound} == 1} {play General/Misc/Ping.wav}} {$Ping_Interval}
+     }
+}
 
 #ALIAS {ping}
 {
-	#showme As of $LAG[Date] at $LAG[Time], there is $LAG[MS] milliseconds of lag.
+     #if {"%1"==""}
+     {
+          #showme As of $LAG[Date] at $LAG[Time], there is $LAG[MS] milliseconds of lag.
+     };
+     #else
+     {
+          #switch {"%1"}
+          {
+               #case {"on"}
+               {
+                    .sp_keep_alive;
+                    #showme Enabling keep-alive pings.
+               };
+               #case {"off"}
+               {
+                    #unticker Ping;
+                    #showme Disabling keep-alive pings.
+               };
+               #case {"mute"}
+               {
+                    #showme Muting ping sounds;
+                    #unvariable Ping_Sound;
+                    #class User open;
+                    #variable Ping_Sound 0;
+                    #class User close;
+                    #class User write $Userdir/User.tin
+               };
+               #case {"unmute"}
+               {
+                    #showme Unmuting ping sounds;
+                    #unvariable Ping_Sound;
+                    #class User open;
+                    #variable Ping_Sound 1;
+                    #class User close;
+                    #class User write $Userdir/User.tin
+               };
+               #case {"{(([0-9]{1,2})(:[0-9]{1,2})*)}"}
+               {
+                    #showme Setting ping interval to %1;
+                    #unvariable Ping_Interval;
+                    #class User open;
+                    #variable Ping_Interval %1;
+                    #class User close;
+                    #class User write $Userdir/User.tin
+               };
+               #default
+               {
+                    #showme The command ping accepts either, "on", "off", or a time value.
+               }
+          }
+     }
 }
-{5}
 
-#gag  {^#$#}
-#variable Ping_Interval 60
+#GAG              {^#$#}
+#VARIABLE         {Keep_alive}  {1}
+#VARIABLE         {Ping_Interval}  {60}
+#VARIABLE         {Ping_Sound}  {1}
 
 #CLASS {Out-Of-Band} CLOSE
