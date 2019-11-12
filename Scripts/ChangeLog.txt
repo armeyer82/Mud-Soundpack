@@ -1,0 +1,16 @@
++ General Changes:
+
+++ Added the change log file.
+++ Added a command to view the change log within the soundpack. Namely, ".changelog"
+
++ Miriani:
+
+++ The "ping" command now accepts the following arguments:
++++ "off": Disables the keep-alive pings entirely.
++++ "on": Enables the keep-alive pings.
++++ "mute": Mutes the sounds when a keep-alive ping is sent.
++++ "unmute": Unmutes the sounds for when keep-alive pings are sent.
++++ Time interval: A time interval for how often keep-alive pings should be sent. For example, "ping 60" will have the system send a keep-alive ping every 60 seconds.
+++ Fixed a bug where some computer announcements were being cut off.
+++ Changed the sound for lasers being fired to be in wider stereo.
+++ Added a sound for when the ship lands on a space station.
