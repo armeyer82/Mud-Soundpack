@@ -7,6 +7,10 @@
 	#read {$Userdir/User.tin}
 }
 {5}
+#alias .changelog 
+{
+	#system cat Scripts/ChangeLog.txt
+}
 
 #ALIAS {ProgramExists}
 {

@@ -122,7 +122,7 @@
                };
                #default
                {
-                    #showme The command ping accepts either, "on", "off", or a time value.
+                    #showme The command ping accepts either, "on", "off", "mute", "unmute" or a time value.
                }
           }
      }
