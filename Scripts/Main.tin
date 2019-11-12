@@ -1,10 +1,16 @@
 #CLASS {Main} OPEN
 
+#alias {.prompt} {#event {CATCH RECEIVED INPUT} {#var User_Input %%0;#unevent {CATCH RECEIVED INPUT}}}
+
 #ALIAS {LoadUserScripts}
 {
 	#read {$Userdir/User.tin}
 }
 {5}
+#alias .changelog 
+{
+	#system cat Scripts/ChangeLog.txt
+}
 
 #ALIAS {ProgramExists}
 {

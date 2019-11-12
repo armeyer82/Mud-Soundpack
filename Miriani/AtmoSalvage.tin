@@ -265,7 +265,4 @@
 }
 {5}
 
-#VARIABLE         {CombatPoints}  {12470.23}
-#VARIABLE         {LicensePoints}  {19754.45}
-
 #CLASS {AtmoSalvage} CLOSE
