@@ -91,7 +91,7 @@
 }
 {5}
 
-#ACTION {^The computer announces, "%*"}
+#ACTION {^The computer announces, "%*"$}
 {
 	play Ship/Computer/announce@rnd{4}.wav;
 	#showme %1;
