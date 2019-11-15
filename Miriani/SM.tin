@@ -123,7 +123,7 @@
 				}
 			}
 		};
-		#elseif {"$SMFilter" != "{Planets|Stars|Moons|Space Stations|Jumpgates|Debris|Galactic Coordinates|Control Beacons|Pellets|Unknown|Interdictors|Blockades|Accelerators|Proximity Weapons|Missiles|Combat Drones|Wormholes|Asteroids|Relics|Artifacts|Mobile Platforms|Private Space Stations|Private Moons|Satellites}"}
+		#elseif {"$SMFilter" != "{Planets|Stars|Moons|Space Stations|Jumpgates|Debris|Galactic Coordinates|Control Beacons|Pellets|Unknown|Interdictors|Blockades|Accelerators|Proximity Weapons|Missiles|Combat Drones|Wormholes|Asteroids|Relics|Artifacts|Mobile Platforms|Private Space Stations|Private Moons|Satellites|Starships|ships}"}
 		{
 			#show $SMFilter is not a valid filter.
 		};

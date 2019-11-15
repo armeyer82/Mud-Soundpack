@@ -51,10 +51,10 @@
           #if {@WorldExists{$Mudname}}
           {
                @ConnectMud{$Mudname};
-               #class Worlds open;
+               #class Settings open;
                #variable LastConnectedMud $Mudname;
-               #class Worlds close;
-               .save-class Worlds
+               #class Settings close;
+               #class Settings write $SettingsPath/Settings.tin
           };
           #else
           {
@@ -88,12 +88,18 @@
      {
           #case {"on"}
           {
+			#class Settings open;
                #variable SSL 1;
+			#class Settings close;
+			#class Settings write $SettingsPath/Settings.tin;
                #showme SSL enabled
           };
           #case {"off"}
           {
+			#class Settings open;
                #variable SSL 0;
+			#class Settings close;
+			#class Settings write $SettingsPath/Settings.tin;
                #showme SSL has been disabled.
           };
           #default
