@@ -1,248 +1,222 @@
 #CLASS {Ship-Combat} OPEN
 
-#ACTION {Those coordinates are too far away to establish a lock.}
-{
-	play Ship/Combat/OutOfRange.wav
-}
-{5}
-
 #ACTION {^Current coordinates: %d, %d, %d}
 {
-	#showme {%1 %2 %3};
-	#variable My[X] %1;
-	#variable My[Y] %2;
-	#variable My[Z] %3;
-	#line gag
+     #showme {%1 %2 %3};
+     #variable My[X] %1;
+     #variable My[Y] %2;
+     #variable My[Z] %3;
+     #line gag
 }
 {4}
 
-#ACTION {^%*: %d, %d, %d}
-{
-	#showme %2 %3 %4 (%1);
-	#line gag
-}
-{5}
-
-
 #ACTION {A loud klaxon sounds as purple lights continue to flash overhead.}
 {
-	play Ship/Combat/RedCont1.wav;
-	#line gag
+     play Ship/Combat/RedCont1.wav;
+     #line gag
 }
-{5}
 
 #ACTION {Target destroyed.$}
 {
-	play Ship/Combat/OtherDestroyed1.wav;
-	#variable {HC.WHits} @increment{${HC.WHits}}
+     play Ship/Combat/OtherDestroyed1.wav;
+     #variable {HC.WHits} @increment{${HC.WHits}}
 }
-{5}
+
+#ACTION {Those coordinates are too far away to establish a lock.}
+{
+     play Ship/Combat/OutOfRange.wav
+}
 
 #ACTION {You hear a mechanical whine as the laser reflectors reorient themselves.}
 {
-	play Ship/Combat/reflectors1.wav;
-	#line gag
+     play Ship/Combat/reflectors1.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear several scraping sounds as bardenium is transferred from the ship's storage to the cannons.}
 {
-	play Ship/Combat/CannonReload.wav;
-	#line gag
+     play Ship/Combat/CannonReload.wav;
+     #line gag
 }
-{5}
+
+#ACTION {^%*: %d, %d, %d}
+{
+     #showme %2 %3 %4 (%1);
+     #variable TC %2 %3 %4;
+     #line gag
+}
 
 #ACTION {^A loud klaxon sounds as red lights continue to flash overhead.$}
 {
-	play Ship/Combat/RedCont2.wav;
-	#line gag
+     play Ship/Combat/RedCont2.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^A loud klaxon sounds as red lights flash overhead.$}
 {
-	play Ship/Combat/RedStart2.wav;
-	#line gag
+     play Ship/Combat/RedStart2.wav;
+     #line gag
 }
-{5}
+
+#ACTION {^A loud rendition of Jingle Bells sounds as %* overhead.$}
+{
+     play Ship/Misc/GreenSantaBox.mp3;
+     #line gag
+}
 
 #ACTION {^A loud, warbling alarm pierces the room as purple lights flash overhead.}
 {
-	play Ship/Combat/RedCont3.wav;
-	#line gag
+     play Ship/Combat/RedCont3.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^Firing on empty space complete.$}
 {
-	play General/Misc/Beep9.wav;
-	#variable {HC.Misses} @increment{${HC.Misses}}
+     play General/Misc/Beep9.wav;
+     #variable {HC.Misses} @increment{${HC.Misses}}
 }
-{5}
 
 #ACTION {^Hit on}
 {
-	play Ship/Combat/OtherHit1.wav;
-	#variable {HC.WHits} @increment{${HC.WHits}}
+     play Ship/Combat/OtherHit1.wav;
+     #variable {HC.WHits} @increment{${HC.WHits}}
 }
-{5}
 
 #ACTION {^Partial hit}
 {
-	play Ship/Combat/Partialhit.wav;
-	#variable {HC.Partials} @increment{${HC.Partials}}
+     play Ship/Combat/Partialhit.wav;
+     #variable {HC.Partials} @increment{${HC.Partials}}
 }
-{5}
 
 #ACTION {^That space is occupied.}
 {
-	play General/Misc/Beep3.wav;
-	#line gag
+     play General/Misc/Beep3.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^The room is filled with a brilliant %* light as the laser turrets are fired.$}
 {
-	play Ship/Combat/Laser1.wav
+     play Ship/Combat/Laser1.wav
 }
-{5}
 
 #ACTION {^The ship rocks and shakes intensely as it is thrown violently by a push pulse.$}
 {
-	play Ship/Combat/PushPulse.wav;
-	#line gag
+     play Ship/Combat/PushPulse.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^The target has moved from the locked coordinates.$}
 {
-	play Ship/Combat/lostLock.wav
+     play Ship/Combat/lostLock.wav
 }
-{5}
 
 #ACTION {^There is insufficient weapons-grade bardenium available for firing.$}
 {
-	play Ship/Combat/NoBard.wav;
-	#line gag
+     play Ship/Combat/NoBard.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^This starship has been hit by}
 {
-	play Ship/Combat/YouHit1.wav;
-	#line gag;
-	#variable {HC.ShipHits} @increment{${HC.ShipHits}}
+     play Ship/Combat/YouHit1.wav;
+     #line gag;
+     #variable {HC.ShipHits} @increment{${HC.ShipHits}}
 }
-{5}
 
 #ACTION {^You feel a mighty shaking as something seemingly large impacts the hull.$}
 {
-	play Ship/Combat/YouHit@rnd{5}.wav;
-	#line gag
+     play Ship/Combat/YouHit@rnd{5}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear a crackling burst of sound as an immobilization pulse builds up, before}
 {
-	play Ship/Combat/Immobilize.wav;
-	#line gag
+     play Ship/Combat/Immobilize.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear a gentle hum as the weapons power up.$}
 {
-	play Ship/Combat/WeaponsOn.wav;
-	#line gag
+     play Ship/Combat/WeaponsOn.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear a loud popping sound as a disarmament pulse is fired.}
 {
-	play Ship/Combat/Disarm.wav;
-	#line gag
+     play Ship/Combat/Disarm.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear a sharp 'twanging' sound as a sensor interruption pulse is fired.}
 {
-	play Ship/Combat/Interrupt.wav;
-	#line gag
+     play Ship/Combat/Interrupt.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear an oscillating discordant sound of electrical energy reverberating off}
 {
-	play Ship/Combat/Disrupt.wav;
-	#line gag
+     play Ship/Combat/Disrupt.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear the gentle hum begin to fade as the weapons power down.$}
 {
-	play Ship/Combat/WeaponsOff.wav;
-	#line gag
+     play Ship/Combat/WeaponsOff.wav;
+     #line gag
 }
-{5}
 
 #ACTION {has fired at}
 {
-	play Ship/Combat/OtherFired@rnd{6}.wav
+     play Ship/Combat/OtherFired@rnd{6}.wav
 }
-{5}
 
 #ACTION {sustained long-range laser burst.$}
 {
-	play Ship/Combat/LaserSqueal3.wav;
-	#line gag
+     play Ship/Combat/LaserSqueal3.wav;
+     #line gag
 }
-{5}
 
 #ALIAS {.hc}
 {
-	#if {"%1"=="clear"}
-	{
-		#showme Resetting hit counter;
-		#variable HC.TotalHits 0;
-		#variable HC.ShipHits 0;
-		#variable HC.Misses 0;
-		#variable HC.Partials 0;
-		#variable HC.WHits 0
-	};
-	#else
-	{
-		#math {HC.TotalHits} {${HC.WHits}+${HC.Partials}};
-		#showme Total Hits: ${HC.TotalHits};
-		#showme Direct Hits: ${HC.WHits};
-		#showme Partial Hits ${HC.Partials};
-		#showme Misses ${HC.Misses};
-		#showme Hits ${HC.ShipHits}
-	}
+     #if {"%1"=="clear"}
+     {
+          #showme Resetting hit counter;
+          #variable HC.TotalHits 0;
+          #variable HC.ShipHits 0;
+          #variable HC.Misses 0;
+          #variable HC.Partials 0;
+          #variable HC.WHits 0
+     };
+     #else
+     {
+          #math {HC.TotalHits} {${HC.WHits}+${HC.Partials}};
+          #showme Total Hits: ${HC.TotalHits};
+          #showme Direct Hits: ${HC.WHits};
+          #showme Partial Hits ${HC.Partials};
+          #showme Misses ${HC.Misses};
+          #showme Hits ${HC.ShipHits}
+     }
 }
-{5}
 
 #ALIAS {.hcm}
 {
-	#showme $HC.Misses
+     #showme $HC.Misses
 }
-{5}
 
 #ALIAS {.hcp}
 {
-	#showme $HC.Partials
+     #showme $HC.Partials
 }
-{5}
 
 #ALIAS {.hcs}
 {
-	#showme $HC.ShipHits
+     #showme $HC.ShipHits
 }
-{5}
 
 #ALIAS {.hcw}
 {
-	#showme $HC.WHits
+     #showme $HC.WHits
 }
-{5}
 
 #SUBSTITUTE       {Praelor %1 drone %d: %3}     {%3}  {5}
 #SUBSTITUTE       {Praelor %1 drone: %2}  {%2}  {5}

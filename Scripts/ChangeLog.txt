@@ -1,3 +1,10 @@
+Version 2.1.0.3:
+
++Miriani:
+++ Added sm filters. Type: sm followed by a filter name to find out what it's in the sector. For example, "sm debris".
+++ Added a sound for when the Green Santa Box goes off.
+
+Version 2.0.1.2
 + General Changes:
 
 ++ Added the change log file.

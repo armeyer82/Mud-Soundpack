@@ -36,7 +36,11 @@
 {
 	#if {"$SMFilter"!="none"}
 	{
-		#line gag
+		#if {"%1" == "$SMFilter"}
+		{
+			#var SMString %2
+		};
+		#line gag;
 	}
 }
 {5}
@@ -104,18 +108,82 @@
 				#case {"ships"}
 				{
 					ProcessShips
+				};
+				#case {"{Planets|Stars|Moons|Space Stations|Jumpgates|Debris|Galactic Coordinates|Control Beacons|Pellets|Unknown|Interdictors|Blockades|Accelerators|Proximity Weapons|Missiles|Combat Drones|Wormholes|Asteroids|Relics|Artifacts|Mobile Platforms|Private Space Stations|Private Moons|Satellites}"}
+				{
+					#replace {SMString} {and } {};
+					#replace {SMString} {), } {);};
+					#replace {SMString} {, } { };
+					#replace {SMString} {(} {};
+					#replace {SMString} {)} {};
+					#foreach {$SMString} {Coordinates} {DirectionFinder3d $Coordinates;#replace {Coordinates} { } {, };#var ObjectDir {${ObjectDir}at $Coordinates};#show $ObjectDir}
+				};
+				#default {
+					#show Not a valid filter.
 				}
 			}
 		};
-		#else
+		#elseif {"$SMFilter" != "{Planets|Stars|Moons|Space Stations|Jumpgates|Debris|Galactic Coordinates|Control Beacons|Pellets|Unknown|Interdictors|Blockades|Accelerators|Proximity Weapons|Missiles|Combat Drones|Wormholes|Asteroids|Relics|Artifacts|Mobile Platforms|Private Space Stations|Private Moons|Satellites|Starships|ships}"}
 		{
+			#show $SMFilter is not a valid filter.
+		};
+		#else {
 			#showme No $SMFilter.
 		}
 	};
 	#variable SMFilter none;
-	#unvariable SMString
+	#unvariable SMString;
+	#unvar ObjectDir;
+	#unvar Coordinates
 }
 {5}
+
+#alias {DirectionFinder3d}
+{
+	#var Object[X] %1;
+	#var Object[Y] %2;
+	#Var Object[Z] %3;
+	#if {$My[X] != $Object[X]}
+	{
+		#if {$Object[X] > $My[X]}
+		{
+			#math {ObjectDir} {$Object[X] - $My[X]};
+			#var ObjectDir {${ObjectDir}E }
+		};
+		#elseif {$Object[X] < $My[X]}
+		{
+			#math {ObjectDir} {$My[X] - $Object[X]};
+			#var ObjectDir {${ObjectDir}W }
+		}
+	};
+	#if {$My[Y] != $Object[Y]}
+	{
+		#if {$Object[Y] > $My[Y]}
+		{
+			#math {Result} {$Object[Y] - $My[Y]};
+			#var ObjectDir {${ObjectDir}${Result}S }
+		};
+		#elseif {$Object[Y] < $My[Y]}
+		{
+			#math {Result} {$My[Y] - $Object[Y]};
+			#var ObjectDir {${ObjectDir}${Result}N }
+		};
+	};
+	#if {$My[Z] != $Object[Z]}
+	{
+		#if {$Object[Z] > $My[Z]}
+		{
+			#math {Result} {$Object[Z] - $My[Z]};
+			#var ObjectDir {${ObjectDir}${Result}D }
+		};
+		#elseif {$Object[Z] < $My[Z]}
+		{
+			#math {Result} {$My[Z] - $Object[Z]};
+			#var ObjectDir {${ObjectDir}${Result}U }
+		};
+	};
+
+}
 
 #ALIAS {sm}
 {
@@ -128,9 +196,14 @@
 				#variable SMFilter ships;
 				#send sm
 			};
-			#case {"planets"}
+			#case {"{Prox|prox}"}
 			{
-				#showme Planets
+				#var SMFilter Proximity Weapons;
+				#send sm
+			};
+			#default {
+				#format {SMFilter} {%n} {%1};
+				#send sm
 			}
 		}
 	};
@@ -147,12 +220,10 @@
 }
 {5}
 
-#VARIABLE         {My}  {{X}{9}{Y}{9}{Z}{9}}
 #VARIABLE         {Object}  {{X}{0}{Y}{0}{Z}{0}}
 #VARIABLE         {ObjectX}  {0}
 #VARIABLE         {ObjectY}  {0}
 #VARIABLE         {ObjectZ}  {0}
-#VARIABLE         {RoomSound}  {{1}{3238}}
 #VARIABLE         {SMFilter}  {none}
 #VARIABLE         {Temp}  {{X}{8}{Y}{2}{Z}{2}}
 

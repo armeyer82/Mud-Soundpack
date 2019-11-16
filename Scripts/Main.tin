@@ -60,7 +60,6 @@
 	#read ./Scripts/Worlds.tin;
 	#system mkdir -p ~/Mud-Files/Settings/;
 	#variable SettingsPath @Homedir{}/Mud-Files/Settings/;
-	#class User open;
 	#config {command echo} off;
 	#showme {};
 	#system {cat Scripts/MOTD}
