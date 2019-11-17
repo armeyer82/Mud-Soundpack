@@ -116,7 +116,7 @@
 					#replace {SMString} {, } { };
 					#replace {SMString} {(} {};
 					#replace {SMString} {)} {};
-					#foreach {$SMString} {Coordinates} {DirectionFinder3d $Coordinates;#replace {Coordinates} { } {, };#var ObjectDir {${ObjectDir}at $Coordinates};#show $ObjectDir}
+					#foreach {$SMString} {Coordinates} {DirectionFinder3d $Coordinates;#replace {Coordinates} { } {, };#var ObjectDir {${ObjectDir}at $Coordinates};#show $ObjectDir;#unvar ObjectDir}
 				};
 				#default {
 					#show Not a valid filter.
@@ -182,6 +182,7 @@
 			#var ObjectDir {${ObjectDir}${Result}U }
 		};
 	};
+
 
 }
 
