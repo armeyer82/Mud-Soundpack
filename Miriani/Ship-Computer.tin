@@ -2,128 +2,123 @@
 
 #ACTION {^The computer announces, "Control room reports: %*"}
 {
-	play Ship/Computer/LFD.wav;
-	#showme %1;
-	#line gag;
-	UpdateBuffer Computer;
-	#list {Buffer[@GetBufferNumber{Computer}][Messages]} ADD {%1}
+     play Ship/Computer/LFD.wav;
+     #showme %1;
+     #line gag;
+     UpdateBuffer Computer;
+     #list {Buffer[@GetBufferNumber{Computer}][Messages]} ADD {%1}
 }
 {4}
 
 #ACTION {%* {has|have} been detected in the sector.$}
 {
-	#variable TempString %1;
-	#regexp {$TempString} {^%w {.*}}
-	{
-		#var TempString &2
-	};
-	#regexp {$TempString} {^{.*} and %w {.*}}
-	{
-		#var TempString &1 &3
-	};
-	#replace TempString {space station} {station};
-	#replace {TempString} {, } { };
-	#replace TempString { } {;};
-	#foreach {$TempString} {Object}
-	{
-		#switch {"$Object"}
-		{
-			#case {"{planet|planets}"}
-			{
-				play Ship/Computer/Planethere.wav
-			};
-			#case {"{station|stations}"}
-			{
-				play Ship/Computer/Station.wav
-			};
-			#case {"artifact"}
-			{
-				play Ship/Computer/Artifact.wav
-			};
-			#case {"wormhole"}
-			{
-				play Ship/Computer/WormholeHere.wav
-			};
-			#case {"{asteroid|asteroids}"}
-			{
-				play Ship/Computer/Asteroidhere.wav
-			};
-			#case {"{star|stars}"}
-			{
-				play Ship/Computer/StarHere.wav
-			};
-			#case {"{starship|starships}"}
-			{
-				play Ship/Computer/ShipHere.wav
-			}
-		}
-	}
+     #variable TempString %1;
+     #regexp {$TempString} {^%w {.*}}
+     {
+          #var TempString &2
+     };
+     #regexp {$TempString} {^{.*} and %w {.*}}
+     {
+          #var TempString &1 &3
+     };
+     #replace TempString {space station} {station};
+     #replace {TempString} {, } { };
+     #replace TempString { } {;};
+     #foreach {$TempString} {Object}
+     {
+          #switch {"$Object"}
+          {
+               #case {"{planet|planets}"}
+               {
+                    play Ship/Computer/Planethere.wav
+               };
+               #case {"{station|stations}"}
+               {
+                    play Ship/Computer/Station.wav
+               };
+               #case {"artifact"}
+               {
+                    play Ship/Computer/Artifact.wav
+               };
+               #case {"wormhole"}
+               {
+                    play Ship/Computer/WormholeHere.wav
+               };
+               #case {"{asteroid|asteroids}"}
+               {
+                    play Ship/Computer/Asteroidhere.wav
+               };
+               #case {"{star|stars}"}
+               {
+                    play Ship/Computer/StarHere.wav
+               };
+               #case {"{starship|starships}"}
+               {
+                    play Ship/Computer/ShipHere.wav
+               }
+          }
+     }
 }
-{5}
 
 #ACTION {You {hastily|quickly} retrieve it before it falls to the floor.$}
 {
-	play Ship/Computer/ScanRetrieved.wav
+     play Ship/Computer/ScanRetrieved.wav
 }
-{5}
 
 #ACTION {^%1 inputs a command on a sensor panel and examines a long-range scan.$}
 {
-	play Ship/Computer/lrscan3.wav
+     play Ship/Computer/lrscan3.wav
 }
-{5}
 
 #ACTION {^Control room computer announcements will now be announced ship-wide.$}
 {
-	play Ship/Computer/PipeOn.wav
+     play Ship/Computer/PipeOn.wav
 }
-{5}
 
 #ACTION {^I am beginning the repair of %*. Estimated time to completion: %*.}
 {
-	play Ship/Computer/RepairStart.wav
+     play Ship/Computer/RepairStart.wav
 }
-{5}
 
 #ACTION {^I have completed the repair of}
 {
-	play Ship/Computer/RepairComplete.wav
+     play Ship/Computer/RepairComplete.wav
 }
-{5}
 
 #ACTION {^The computer announces, "%*"$}
 {
-	play Ship/Computer/announce@rnd{4}.wav;
-	#showme %1;
-	UpdateBuffer Computer;
-	#list {Buffer[@GetBufferNumber{Computer}][Messages]} ADD {%1};
-	#line gag
+     play Ship/Computer/announce@rnd{4}.wav;
+     #showme %1;
+     UpdateBuffer Computer;
+     #list {Buffer[@GetBufferNumber{Computer}][Messages]} ADD {%1};
+     #line gag
 }
-{5}
+
+#ACTION {^The computer reports no nearby debris.$}
+{
+     play Ship/Computer/NoNearbyDebris.wav;
+     #line gag
+}
 
 #ACTION {presses a complicated looking series of buttons on a navigational console.$}
 {
-	play Ship/Computer/Keyboard13.wav
+     play Ship/Computer/Keyboard13.wav
 }
-{5}
 
 #ACTION {presses a series of buttons on a sensor control board.$}
 {
-	play Ship/Computer/Keyboard15.wav
+     play Ship/Computer/Keyboard15.wav
 }
-{5}
 
 #ACTION {{hastily|quickly} retrieves it before it falls to the ground.$}
 {
-	play Ship/Computer/ScanRetrieved.wav
+     play Ship/Computer/ScanRetrieved.wav
 }
-{5}
 
 #ALIAS {g}
 {
-	use survey
+     use survey
 }
-{5}
 
 #SUBSTITUTE       {^%* will be completely repaired in %*.}                    {%2 to repair %1.}  {5}
 #SUBSTITUTE       {^I am beginning the repair of %1. Estimated time to completion: %2.}                                                 {%2 to repair %1.}  {5}
@@ -134,8 +129,8 @@
 #VARIABLE         {HC.Misses}  {5}
 #VARIABLE         {HC.Partials}  {19}
 #VARIABLE         {HC.WHits}  {35}
-#VARIABLE         {ShipClass}  {A}
-#VARIABLE         {ShipCoords}  {12 6 7}
-#VARIABLE         {ShipName}  {Infinite Sunshine}
+#VARIABLE         {ShipClass}  {C}
+#VARIABLE         {ShipCoords}  {13 3 18}
+#VARIABLE         {ShipName}  {Praelor Ontanka Drone 4}
 
 #CLASS {Ship-Computer} CLOSE
