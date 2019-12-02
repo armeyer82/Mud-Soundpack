@@ -35,8 +35,7 @@
 {
 	PlaySocial %1 %2;
 	#buffer Get {Social} {1};
-	UpdateBuffer RP;
-		#list {Buffer[@GetBufferNumber{RP}][Messages]} ADD {$Social};
+#regexp {$Social} {^[%*]} {#nop} {UpdateBuffer RP;#list {Buffer[@GetBufferNumber{RP}][Messages]} ADD {$Social}};
 	#unvar Social
 
 }
