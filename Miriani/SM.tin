@@ -88,7 +88,7 @@
 		ComputeDistance $ShipCoords;
 		#if {$ObjectDistance!=0}
 		{
-			#list ShipList[$ObjectDistance] add {$ShipCoords, $ShipName, ship $ShipCounter};
+			#list ShipList[$ObjectDistance] add {$ShipCoords, ship $ShipCounter, $ShipName};
 		};
 		#nop #showme $ObjectDistance $ShipCoords $ShipName;
 		#variable ShipCounter @increment{$ShipCounter}
