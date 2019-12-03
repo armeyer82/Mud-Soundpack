@@ -94,6 +94,20 @@
      #line gag
 }
 
+#ACTION {^The computer reports %1 "%2" is one unit away from this ship.$}
+{
+     #showme %2 in range.;
+     play Ship/Computer/OneUnitAway.wav;
+     #line gag
+}
+
+#ACTION {^The computer reports %1 is one unit away from this ship.$}
+{
+     #showme %1 in range.;
+     play Ship/Computer/OneUnitAway.wav;
+     #line gag
+}
+
 #ACTION {^The computer reports no nearby debris.$}
 {
      play Ship/Computer/NoNearbyDebris.wav;
@@ -130,7 +144,7 @@
 #VARIABLE         {HC.Partials}  {19}
 #VARIABLE         {HC.WHits}  {35}
 #VARIABLE         {ShipClass}  {C}
-#VARIABLE         {ShipCoords}  {13 3 18}
+#VARIABLE         {ShipCoords}  {4 2 3}
 #VARIABLE         {ShipName}  {Praelor Ontanka Drone 4}
 
 #CLASS {Ship-Computer} CLOSE

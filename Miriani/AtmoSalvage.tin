@@ -191,6 +191,7 @@
 #ACTION {^You climb out of the vehicle%2}
 {
 	play Ship/Misc/HatchExit.wav;
+	MuteRoomSounds;
 	#line gag
 }
 {5}
@@ -258,9 +259,11 @@
 }
 {5}
 
-#ACTION {^You open the hatch of a standard atmospheric salvager called%2 and climb inside%3}
+#ACTION {^You open the hatch of a standard {atmospheric|aquatic|gas} salvager%2 and climb inside%3}
 {
 	play Ship/Misc/HatchEnter.wav;
+	MuteRoomSounds;
+	PlayRoomSound Ship/Rooms/Salvager.wav;
 	#line gag
 }
 {5}
