@@ -2,351 +2,303 @@
 
 #ACTION {%* presses a series of buttons on a sensor control board.$}
 {
-	play Ship/Computer/keyboard7.wav
+     play Ship/Computer/keyboard7.wav
 }
-{5}
 
 #ACTION {%1 crawls in through a large panel.}
 {
-	play Ship/Misc/ExitDucts@rnd{2}.wav
+     play Ship/Misc/ExitDucts@rnd{2}.wav
 }
-{5}
 
 #ACTION {%1 flicks a switch.}
 {
-	play Ship/Misc/Switch.wav
+     play Ship/Misc/Switch.wav
 }
-{5}
 
 #ACTION {%1 lifts a large panel and crawls through it.}
 {
-	play Ship/Misc/EnterDucts@rnd{2}.wav
+     play Ship/Misc/EnterDucts@rnd{2}.wav
 }
-{5}
 
 #ACTION {%1 presses a button on a "%2" key.}
 {
-	play Ship/Misc/SKey.wav
+     play Ship/Misc/SKey.wav
 }
-{5}
 
 #ACTION {%1 pulls a small lever toward %2, deactivating the ship's systems.}
 {
-	play Ship/Misc/Lever@rnd{5}.wav
+     play Ship/Misc/Lever@rnd{5}.wav
 }
-{5}
 
 #ACTION {%1 pushes a small lever away from %2, activating the ship's systems.}
 {
-	play Ship/Misc/Lever@rnd{5}.wav
+     play Ship/Misc/Lever@rnd{5}.wav
 }
-{5}
 
 #ACTION {%1A fuzzy creature, appearing momentarily dazed, disengages itself from %2.%3}
 {
-	play General/Combat/fuzzy.wav
+     play General/Combat/fuzzy.wav
 }
-{5}
 
 #ACTION {%1Lifting anchor and establishing standard dock%2}
 {
-	play anchor end.wav;
-	#line gag
+     play anchor end.wav;
+     #line gag
 }
-{5}
 
 #ACTION {%1the debris to be a lifeform%2}
 {
-	play Ship/Misc/lifeform.wav;
-	#delay {1} {play SalvageLifeForm.wav};
-	#line gag
+     play Ship/Misc/lifeform.wav;
+     #delay {1} {play SalvageLifeForm.wav};
+     #line gag
 }
-{5}
 
 #ACTION {A heavy blast door suddenly moves aside%1}
 {
-	play ship/misc/DoorOpen.wav
+     play ship/misc/DoorOpen.wav
 }
-{5}
 
 #ACTION {A heavy blast door suddenly slams shut%1}
 {
-	play ship/misc/DoorClose.wav
+     play ship/misc/DoorClose.wav
 }
-{5}
 
 #ACTION {A small console nearby flashes for your attention. A quick glance reveals that you have new mail waiting for you at%1.}
 {
-	play Ship/Misc/NewMail.wav
+     play Ship/Misc/NewMail.wav
 }
-{5}
 
 #ACTION {A small light near the airlock of the %1 "%2" flashes briefly.}
 {
-	play Ship/Misc/ShipLights.wav
+     play Ship/Misc/ShipLights.wav
 }
-{5}
 
 #ACTION {A stream of light floods the area as %1 crawls in through a large panel.}
 {
-	play Ship/Misc/EnterDucts@rnd{2}.wav
+     play Ship/Misc/EnterDucts@rnd{2}.wav
 }
-{5}
 
 #ACTION {The noises coming from the storage room gradually cease until they can be heard no more.}
 {
-	play Ship/Misc/TransferEnd.wav;
-	#line gag
+     play Ship/Misc/TransferEnd.wav;
+     #line gag
 }
-{5}
 
 #ACTION {This ship broadcasts%1}
 {
-	play Ship/Comm/Broadcast.wav
+     play Ship/Comm/Broadcast.wav
 }
-{5}
 
 #ACTION {This ship transmits%1}
 {
-	play Ship/Comm/Sector.wav
+     play Ship/Comm/Sector.wav
 }
-{5}
 
 #ACTION {Via general sector communication, %1}
 {
-	play Ship/Comm/Sector.wav
+     play Ship/Comm/Sector.wav
 }
-{5}
 
 #ACTION {You begin transferring debris to the spaceport.}
 {
-	play Ship/Misc/TransferStart.wav;
-	#line gag
+     play Ship/Misc/TransferStart.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You feel a mild vibration as the starship's asteroid anchor buries itself into the asteroid's surface.}
 {
-	play anchor start.wav;
-	#line gag
+     play anchor start.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You flip a heavy switch,%1}
 {
-	play Ship/Misc/Lever@rnd{5}.wav
+     play Ship/Misc/Lever@rnd{5}.wav
 }
-{5}
 
 #ACTION {You hear a buzzing sound from the hull as repairs continue.}
 {
-	play Ship/Misc/repair@rnd{9}.wav;
-	#line gag
+     play Ship/Misc/repair@rnd{9}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a deafening booming sound as repairs to the ship proceed.}
 {
-	play Ship/Misc/repair@rnd{9}.wav;
-	#line gag
+     play Ship/Misc/repair@rnd{9}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a loud clang as robotic arms seize the ship and transport it to the garage.}
 {
-	play Ship/Misc/Garage.wav;
-	#line gag
+     play Ship/Misc/Garage.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a loud clang as robotic arms seize the ship and transport it to the landing pad.}
 {
-	play Ship/Misc/LandingPad.wav;
-	#line gag
+     play Ship/Misc/LandingPad.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a mechanical whine as the ship's solar panels orient themselves toward a star.}
 {
-	play Ship/Misc/PanelsOn.wav;
-	#line gag
+     play Ship/Misc/PanelsOn.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a mechanical whine as the ship's solar panels return to their previous positions along the hull.}
 {
-	play Ship/Misc/PanelsOff.wav;
-	#line gag
+     play Ship/Misc/PanelsOff.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a shrill screeching sound as repair drones drag replacement components across the hull.}
 {
-	play Ship/Misc/repair@rnd{9}.wav;
-	#line gag
+     play Ship/Misc/repair@rnd{9}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a thunk as a salvaging line is deployed into space. You watch as the line slowly winds its way to a piece of debris, projects an energy net around it and begins to slowly make its way back to the ship.}
 {
-	play Ship/Misc/Salvage@rnd{3}.wav;
-	#line gag
+     play Ship/Misc/Salvage@rnd{3}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear a thunk as a video probe is launched.}
 {
-	play Ship/Misc/VideoProbe.wav
+     play Ship/Misc/VideoProbe.wav
 }
-{5}
 
 #ACTION {You hear an electrical zapping sound as repairs to the ship continue.}
 {
-	play Ship/Misc/repair@rnd{9}.wav;
-	#line gag
+     play Ship/Misc/repair@rnd{9}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear several clinking sounds as the ship is repaired.}
 {
-	play Ship/Misc/repair@rnd{9}.wav;
-	#line gag
+     play Ship/Misc/repair@rnd{9}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear several loud thuds as cargo is transferred from the ship.}
 {
-	play Ship/Misc/TransferStart.wav;
-	#line gag
+     play Ship/Misc/TransferStart.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You hear the bustle of activity from the ship's cargo hold.}
 {
-	play Ship/Misc/Transfer@rnd{3}.wav;
-	#line gag
+     play Ship/Misc/Transfer@rnd{3}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You instruct the computer to begin scanning for debris.}
 {
-	play Ship/Computer/Scan@rnd{4}.wav;
-	#line gag
+     play Ship/Computer/Scan@rnd{4}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You lift a small panel and crawl through.}
 {
-	play Ship/Misc/ExitDucts@rnd{2}.wav
+     play Ship/Misc/ExitDucts@rnd{2}.wav
 }
-{5}
 
 #ACTION {You notice a faint hum begin to emanate from nowhere in particular as the starship's systems begin to power up.}
 {
-	play Ship/Misc/PowerOn2.wav;
-	#delay 2 {ProcessRoomSound};
-	#line gag
+     play Ship/Misc/PowerOn2.wav;
+     #delay 2 {ProcessRoomSound};
+     #line gag
 }
-{5}
 
 #ACTION {You press a button on a "%1" key.}
 {
-	play Ship/Misc/SKey.wav;
-	#line gag
+     play Ship/Misc/SKey.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You press a conveniently placed button on the wall.}
 {
-	play General/Misc/SFBeep@rnd{15}.wav
+     play General/Misc/SFBeep@rnd{15}.wav
 }
-{5}
 
 #ACTION {You press a large %1 reset button on a %2 starship simulator.}
 {
-	play General/Misc/SFBeep@rnd{15}.wav
+     play General/Misc/SFBeep@rnd{15}.wav
 }
-{5}
 
 #ACTION {You press a large * button.}
 {
-	play General/Misc/SFBeep@rnd{15}.wav
+     play General/Misc/SFBeep@rnd{15}.wav
 }
-{5}
 
 #ACTION {You press a large button marked CYCLE.}
 {
-	play General/Misc/Beep6.wav
+     play General/Misc/Beep6.wav
 }
-{5}
 
 #ACTION {You pull a small lever toward yourself, deactivating the ship's systems.}
 {
-	play Ship/Misc/Lever@rnd{5}.wav;
-	#line gag
+     play Ship/Misc/Lever@rnd{5}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You push a small lever away from you, activating the ship's systems.}
 {
-	play Ship/Misc/Lever@rnd{5}.wav;
-	#line gag
+     play Ship/Misc/Lever@rnd{5}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You suddenly become aware of a decrease in noise as the ship's systems shut down, leaving you in complete silence.}
 {
-	play Ship/Misc/PowerOff@rnd{5}.wav;
-	StopRoomSound;
-	#line gag
+     play Ship/Misc/PowerOff@rnd{5}.wav;
+     StopRoomSound;
+     #line gag
 }
-{5}
+
+#ACTION {^A blast of icy air suddenly explodes from the ceiling vents, carrying with it a flurry of white snowesque frozen water crystals. The hapless frozen water vapor drifts slowly, but inevitably, to the deck plating, where it is immediately melted back into water, effectively ending its life as snow.$}
+{
+     play General/Rooms/Ice.wav
+}
 
 #ACTION {^A chime is piped through a nearby speaker, indicating that somebody has entered the airlock.$}
 {
-	play Ship/Misc/Bell.wav
+     play Ship/Misc/Bell.wav
 }
-{5}
 
 #ACTION {^You hear a thunk as a blockade is launched.$}
 {
-	play Ship/Misc/BlockadeSingle.wav;
-	#line gag
+     play Ship/Misc/BlockadeSingle.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear several thunks as blockades are launched.$}
 {
-	play Ship/Misc/BlockadeMultiple.wav;
-	#line gag
+     play Ship/Misc/BlockadeMultiple.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear the airlock begin cycling.}
 {
-	play Ship/Misc/HearCycleStart.wav;
-	#line gag
+     play Ship/Misc/HearCycleStart.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You hear the airlock finish cycling.}
 {
-	play Ship/Misc/HearCycleStop.wav;
-	#line gag
+     play Ship/Misc/HearCycleStop.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You lift a {small|large} panel and crawl through the resulting opening, emerging in the starship's network of ducts. Being the %1 that you are, you replace the panel behind you.}
 {
-	play Ship/Misc/EnterDucts@rnd{2}.wav
+     play Ship/Misc/EnterDucts@rnd{2}.wav
 }
-{5}
 
 #ACTION {^You pull a series of straps around yourself and securely buckle yourself into your seat.$}
 {
-	play General/Misc/Buckle2.wav
+     play General/Misc/Buckle2.wav
 }
-{5}
 
 #GAG              {^A chime is piped through a nearby speaker, indicating that somebody has entered the airlock.$}
 #GAG              {^You pull a series of straps around yourself and securely buckle yourself into your seat.$}
