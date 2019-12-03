@@ -324,13 +324,15 @@
 
 #ACTION {^You hear the airlock begin cycling.}
 {
-	play Ship/Misc/HearCycleStart.wav
+	play Ship/Misc/HearCycleStart.wav;
+	#line gag
 }
 {5}
 
 #ACTION {^You hear the airlock finish cycling.}
 {
-	play Ship/Misc/HearCycleStop.wav
+	play Ship/Misc/HearCycleStop.wav;
+	#line gag
 }
 {5}
 
