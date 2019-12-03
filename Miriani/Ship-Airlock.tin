@@ -2,113 +2,113 @@
 
 #ACTION {%1 arrives from outside.}
 {
-	play Ship/Misc/AirlockEnter.wav
+     play Ship/Misc/AirlockEnter.wav
 }
-{5}
 
 #ACTION {%1 drags you into the ship%2}
 {
-	play Ship/Misc/AirlockEnter.wav;
-	StopRoomSound;
-	#line gag
+     play Ship/Misc/AirlockEnter.wav;
+     StopRoomSound;
+     #line gag
 }
-{5}
 
 #ACTION {%1 floats outside into space.}
 {
-	play Ship/Misc/AirlockExit.wav
+     play Ship/Misc/AirlockExit.wav
 }
-{5}
 
 #ACTION {%1 {exits|exit} the ship.}
 {
-	play Ship/Misc/AirlockExit.wav;
-	StopRoomSound
+     play Ship/Misc/AirlockExit.wav;
+     StopRoomSound
 }
-{5}
 
 #ACTION {A chime sounds, indicating that somebody has entered the airlock.}
 {
-	play Ship/Misc/Bell.wav;
-	#line gag
+     play Ship/Misc/Bell.wav;
+     #line gag
 }
-{5}
 
 #ACTION {A small light on the airlock control panel turns from %1 to %2.  Through your suit, you gradually begin to hear the hiss of air %3 the airlock.}
 {
-	play Ship/Misc/AirStart.wav;
-	#line gag
+     play Ship/Misc/AirStart.wav;
+     #line gag
 }
-{5}
 
 #ACTION {Some lovely elevator music begins playing as the airlock cycles%1}
 {
-	play Music/@rnd{30}.wav;
-	#line gag
+     play Music/@rnd{30}.wav;
+     #line gag
 }
-{5}
 
 #ACTION {The computer announces over your suit radio, "%1"}
 {
-	play Ship/Comm/PA@rnd{9}.wav;
-	play Ship/Computer/Announce@rnd{4}.wav;
-	speech %1;
-	#line gag
+     play Ship/Comm/PA@rnd{9}.wav;
+     play Ship/Computer/Announce@rnd{4}.wav;
+     speech %1;
+     #line gag
 }
-{5}
 
 #ACTION {The hatch acknowledges your key and unlocks, allowing you to %1 through.}
 {
-	play Ship/Misc/AirlockEnter.wav;
-	StopRoomSound;
-	#line gag
+     play Ship/Misc/AirlockEnter.wav;
+     StopRoomSound;
+     #line gag
 }
-{5}
 
 #ACTION {The hiss of air slowly fades away into nothingness, and the %1 light becomes %2.}
 {
-	play Ship/Misc/AirEnd.wav;
-	#line gag
+     play Ship/Misc/AirEnd.wav;
+     #line gag
 }
-{5}
 
 #ACTION {You %1 through the broken hatch of %2}
 {
-	play Ship/Misc/AirlockEnter.wav;
-	StopRoomSound;
-	#line gag
+     play Ship/Misc/AirlockEnter.wav;
+     StopRoomSound;
+     #line gag
 }
-{5}
 
 #ACTION {You %1 through the unlocked hatch of %2}
 {
-	play Ship/Misc/AirlockEnter.wav;
-	StopRoomSound;
-	#line gag
+     play Ship/Misc/AirlockEnter.wav;
+     StopRoomSound;
+     #line gag
 }
-{5}
 
 #ACTION {You follow %1 into the ship%2}
 {
-	play Ship/Misc/AirlockEnter.wav;
-	StopRoomSound;
+     play Ship/Misc/AirlockEnter.wav;
+     StopRoomSound;
+     #line gag
+}
+
+#ACTION {^A small light on the airlock control panel turns from red to yellow. The faint hiss of air can be heard {exiting|entering} the airlock.}
+{
+	#if {"%1"=="entering"}
+	{
+		#show Pressurizing airlock...
+	};
+	#else {
+		#show Depressurizing airlock...
+	};
+     play Ship/Misc/AirStart.wav;
 	#line gag
 }
-{5}
 
-#ACTION {^A small light on the airlock control panel turns from {red|yellow} to {red|yellow}. The faint hiss of air can be heard {exiting|entering} the airlock.}
+#ACTION {^The computer flashes a message next to the airlock cycle button saying, "Beginning cycling."$}
 {
-	play CycleStart.wav
+     play Ship/Misc/AirlockCycleStart.wav;
+     #line gag
 }
-{5}
 
 #ACTION {^You float out of the ship into space.}
 {
-	MuteRoomSounds
+     MuteRoomSounds
 }
-{5}
 
 #GAG              {Some lovely elevator music abruptly stops playing as the airlock ceases cycling%1}
 #GAG              {You press a large button marked CYCLE.}
+#Action              {^The computer flashes a message next to the airlock cycle button saying, "Cycling complete."$} {#show Cycling complete.;#line gag}
 
 #CLASS {Ship-Airlock} CLOSE
