@@ -46,6 +46,11 @@
      #line gag
 }
 
+#ACTION {^A distant whirring noise can be heard as the %* laser aligns itself, followed by a faint pulse as it fires.}
+{
+     play Ship/Combat/PlanetaryLaser.wav
+}
+
 #ACTION {^A loud klaxon sounds as red lights continue to flash overhead.$}
 {
      play Ship/Combat/RedCont2.wav;

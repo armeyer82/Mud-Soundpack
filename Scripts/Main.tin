@@ -1,150 +1,168 @@
 #CLASS {Main} OPEN
 
-#alias {.prompt} {#event {CATCH RECEIVED INPUT} {#var User_Input %%0;#unevent {CATCH RECEIVED INPUT}}}
+#ALIAS {.changelog}
+{
+     #system cat Scripts/ChangeLog.txt
+}
+
+#ALIAS {.prompt}
+{offered the week
+     #event {CATCH RECEIVED INPUT} {#var User_Input %%0;#unevent {CATCH RECEIVED INPUT}}
+}
+
+#ALIAS {.sounds}
+{
+     #if {"%1"=="on"}
+     {
+          #variable GlobalSounds 1;
+		#show Sounds on;
+	ProcessRoomSound
+     };
+     #else
+     {
+          #variable GlobalSounds 0;
+		StopRoomSound;
+		#show Sounds off
+     }
+}
 
 #ALIAS {LoadUserScripts}
 {
-	#read {$Userdir/User.tin}
-}
-{5}
-#alias .changelog 
-{
-	#system cat Scripts/ChangeLog.txt
+     #read {$Userdir/User.tin}
 }
 
 #ALIAS {ProgramExists}
 {
-	#script {if hash %1 2>/dev/null; then echo "#show %1 is installed."; else echo "#end %1 does not appear to be installed, but is required for the soundpack to function properly. Please install %1 and run the soundpack again. Exiting."; fi}
+     #script {if hash %1 2>/dev/null; then echo "#show %1 is installed."; else echo "#end %1 does not appear to be installed, but is required for the soundpack to function properly. Please install %1 and run the soundpack again. Exiting."; fi}
 }
-{5}
 
 #ALIAS {play %*.{wav|mp3|aiff}}
 {
-	#system play -qV0 $soundpath/%1.%2 norm -3 vol $Volume[GameSounds] &
+	#if {$GlobalSounds}
+	{
+     #system play -qV0 $soundpath/%1.%2 norm -3 vol $Volume[GameSounds] &;
+	}
 }
-{5}
 
 #EVENT {PROGRAM START}
 {
-	#split 0 1;
-	#script {Version} {cat ./Scripts/Version.txt};
-	#showme Welcome to the Mud Soundpack, Version $Version[1].;
-	#showme Written by A. R. Meyer;
-	#if {"%0"==""}
-	{
-		#info system save;
-		#format {ClientName} {%p} {$info[SYSTEM][CLIENT][NAME]};
-		#format {ClientVersion} {%p} {$info[SYSTEM][CLIENT][VERSION]}
-	};
-	#else
-	{
-		#variable ClientName %0;
-		#variable ClientVersion %1
-	};
-	#showme Running on $ClientName version $ClientVersion.\n;
-	#showme {};
-	#if {$ClientVersion<2.0.5}
-	{
-		#showme {This soundpack needs %0 version 2.0.5 or later.};
-		#showme {Please upgrade your version of %0 before attempting to use this soundpack.};
-		#showme Exiting.;
-		#end
-	};
-	#showme Verifying necessary programs are installed.;
-	ProgramExists sox;
-	#system {mkdir -p ~/Mud-Files/Settings/};
-	#system {if [ ! -f ~/Mud-Files/Settings/Settings.tin ]; then cp ./Scripts/Templates/Settings.tin ~/Mud-Files/Settings/; fi};
-	#system {if [ ! -f ~/Mud-Files/Settings/Config.tin ]; then cp ./Scripts/Templates/Config.tin ~/Mud-Files/Settings/; fi};
-	#script {for i in $( ls ~/Mud-Files/Settings/*.tin ); do echo "#read $i"; done};
-	#read ./Scripts/Development.tin;
-	#read ./Scripts/Worlds.tin;
-	#system mkdir -p ~/Mud-Files/Settings/;
-	#variable SettingsPath @Homedir{}/Mud-Files/Settings/;
-	#config {command echo} off;
-	#showme {};
-	#system {cat Scripts/MOTD}
+     #split 0 1;
+     #script {Version} {cat ./Scripts/Version.txt};
+     #showme Welcome to the Mud Soundpack, Version $Version[1].;
+     #showme Written by A. R. Meyer;
+     #if {"%0"==""}
+     {
+          #info system save;
+          #format {ClientName} {%p} {$info[SYSTEM][CLIENT][NAME]};
+          #format {ClientVersion} {%p} {$info[SYSTEM][CLIENT][VERSION]}
+     };
+     #else
+     {
+          #variable ClientName %0;
+          #variable ClientVersion %1
+     };
+     #showme Running on $ClientName version $ClientVersion.\n;
+     #showme {};
+     #if {$ClientVersion<2.0.5}
+     {
+          #showme {This soundpack needs %0 version 2.0.5 or later.};
+          #showme {Please upgrade your version of %0 before attempting to use this soundpack.};
+          #showme Exiting.;
+          #end
+     };
+     #showme Verifying necessary programs are installed.;
+     ProgramExists sox;
+     #system {mkdir -p ~/Mud-Files/Settings/};
+     #system {if [ ! -f ~/Mud-Files/Settings/Settings.tin ]; then cp ./Scripts/Templates/Settings.tin ~/Mud-Files/Settings/; fi};
+     #system {if [ ! -f ~/Mud-Files/Settings/Config.tin ]; then cp ./Scripts/Templates/Config.tin ~/Mud-Files/Settings/; fi};
+     #script {for i in $( ls ~/Mud-Files/Settings/*.tin ); do echo "#read $i"; done};
+     #read ./Scripts/Development.tin;
+     #read ./Scripts/Worlds.tin;
+     #system mkdir -p ~/Mud-Files/Settings/;
+     #variable SettingsPath @Homedir{}/Mud-Files/Settings/;
+     #config {command echo} off;
+     #showme {};
+     #system {cat Scripts/MOTD}
 }
 
 #EVENT {SESSION CONNECTED}
 {
-	#split;
-	#system mkdir -p ~/Mud-Files/@Session{}/;
-	#system mkdir -p ~/Mud-Files/@Session{}/User-Scripts/;
-	#system mkdir -p ./@Session{};
-	#script {for i in $( ls ./@Session{}/*.tin ); do echo "#read $i"; done};
-	#system mkdir -p ~/Mud-Files/@Session{}/Logs/;
-	#variable Userdir @Homedir{}/Mud-Files/@Session{}/User-Scripts/;
-	#variable Logdir @Homedir{}/Mud-Files/@Session{}/Logs/;
-	#script {if [ -f $Userdir/User.tin ]; then echo "#read $Userdir/User.tin"; fi};
-	#script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi};
-	#log {append} {$Logdir/@Date{}.log};
-	#class User open
+     #split;
+     #system mkdir -p ~/Mud-Files/@Session{}/;
+     #system mkdir -p ~/Mud-Files/@Session{}/User-Scripts/;
+     #system mkdir -p ./@Session{};
+     #script {for i in $( ls ./@Session{}/*.tin ); do echo "#read $i"; done};
+     #system mkdir -p ~/Mud-Files/@Session{}/Logs/;
+     #variable Userdir @Homedir{}/Mud-Files/@Session{}/User-Scripts/;
+     #variable Logdir @Homedir{}/Mud-Files/@Session{}/Logs/;
+     #script {if [ -f $Userdir/User.tin ]; then echo "#read $Userdir/User.tin"; fi};
+     #script {if [ -f $Userdir/UserSettings.tin ]; then echo "#read $Userdir/UserSettings.tin"; fi};
+     #log {append} {$Logdir/@Date{}.log};
+     #class User open
 }
 
 #FUNCTION {Date}
 {
-	#format {result} {%t} {%m-%d-%Y}
+     #format {result} {%t} {%m-%d-%Y}
 }
 
 #FUNCTION {Homedir}
 {
-	#local Homedir;
-	#script {Homedir} {echo $HOME};
-	#return $Homedir[1]
+     #local Homedir;
+     #script {Homedir} {echo $HOME};
+     #return $Homedir[1]
 }
 
 #FUNCTION {Session}
 {
-	#local result;
-	#format {result} {%S}
+     #local result;
+     #format {result} {%S}
 }
 
 #FUNCTION {Time}
 {
-	#local result;
-	#format {result} {%t}{%H:%M}
+     #local result;
+     #format {result} {%t}{%H:%M}
 }
 
 #FUNCTION {Uppercase}
 {
-	#local result;
-	#format {result} {%n}{%1}
+     #local result;
+     #format {result} {%n}{%1}
 }
 
 #FUNCTION {abs}
 {
-	#local result;
-	#math {result} {%1};
-	#if {$result>=0}
-	{
-		#return %1
-	};
-	#else
-	{
-		#math {result} {0-$result}
-	}
+     #local result;
+     #math {result} {%1};
+     #if {$result>=0}
+     {
+          #return %1
+     };
+     #else
+     {
+          #math {result} {0-$result}
+     }
 }
 
 #FUNCTION {increment}
 {
-	#local result;
-	#math {result} {%1+1}
+     #local result;
+     #math {result} {%1+1}
 }
 
 #FUNCTION {rnd}
 {
-	#local result;
-	#math {result} {1d%1}
+     #local result;
+     #math {result} {1d%1}
 }
 
 #FUNCTION {test}
 {
-	#event {CATCH RECEIVED INPUT}
-	{
-		#show %%0;
-	#unevent {CATCH RECEIVED INPUT}
-	};
-	#return
+     #event {CATCH RECEIVED INPUT}{#show %%0;#unevent {CATCH RECEIVED INPUT}};
+     #return
 }
+
+#VARIABLE         {GlobalSounds}  {1}
 
 #CLASS {Main} CLOSE

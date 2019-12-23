@@ -43,7 +43,7 @@
 }
 {5}
 
-#ACTION {^[AIE}
+#ACTION {^[{AIE|Commonwealth|Hale}}
 {
 	play General/Comm/alliance.wav
 }

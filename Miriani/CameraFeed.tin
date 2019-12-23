@@ -10,5 +10,10 @@
 }
 {5}
 
+#action {^> (%1) %*}
+{#show > %2 (%1);#line gag} {3}
+
+
+
 
 #CLASS {CameraFeed} CLOSE
