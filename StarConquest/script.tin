@@ -262,11 +262,6 @@
 }
 {5}
 
-#ACTION {^Kiska the humanoid service robot says in a synthesized voice, "%1"}
-{
-	#system say -v ava -r 265 "%1" &
-}
-{5}
 
 #ACTION {^Locked on to coordinates:}
 {
@@ -869,7 +864,6 @@
 #GAG              {^$}
 #GAG              {^A launch trajectory is located.$}
 #GAG              {^A number of }
-#GAG              {^Kiska the humanoid service robot says in a synthesized voice,}
 #GAG              {^Locked on to coordinates:}
 #GAG              {^Please confirm}
 #GAG              {^Some kind of chemical}
