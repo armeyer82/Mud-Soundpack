@@ -1,0 +1,6 @@
+;Sounds and triggers for clocks.
+#trigger {* clock plays a short intro tune before beginning to *} {#if {@SilentClock = "Disabled"} {#gagline all; playsound {Cosmic Rage/general/misc/Clock Hour Chime.wav} @vol}} {} AnyCase
+#trigger {Bong!*} {#if {@SilentClock = "Disabled"} {#gagline all}} {} AnyCase
+#trigger {* clock lets out a short descending set of bells, before trilling a cheery tune.} {#if {@SilentClock = "Disabled"} {#gagline all; playsound {Cosmic Rage/general/misc/Clock Half Hour Chime.wav} @vol}} {} AnyCase
+#trigger {* clock lets out a short descending set of bells, before trilling a cheery tune, finishing the song with three descending notes.} {#if {@SilentClock = "Disabled"} {#gagline all; playsound {Cosmic Rage/general/misc/Clock Three-Quarter Hour Chime.wav} @vol}} {} AnyCase
+#trigger {after a short winding noise, * clock lets out a short musical tune before falling quiet.} {#if {@SilentClock = "Disabled"} {#gagline all; playsound {Cosmic Rage/general/misc/Clock Quarter-Hour Chime.wav} @vol}} {} AnyCase

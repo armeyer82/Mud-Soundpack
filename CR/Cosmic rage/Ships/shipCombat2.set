@@ -1,0 +1,52 @@
+#trigger {Intense, blinding light fills the windows for several long moments before the entire vessel is plunged into darkness.} {playsound {Cosmic Rage/ships/misc/stargate.wav} @CVol; #gagline all}
+#trigger {You guide the ship carefully into the rift.} {#gagline all}
+#trigger {The screens brighten to compensate for the darkness.} {#gagline all}
+#trigger {An on screen route appears, plotting the rift's course into enemy territory.} {#gagline all}
+#trigger {As though the star blinked, there is a moment of darkness throughout the vessel before it rifts into the mission sector.} {playsound {cosmic rage/ships/misc/exitRift.wav} @vol}
+#trigger {You manipulate the * of the molecular disruptor at * and fire.} {playsound {cosmic rage/ships/combat/disruptor.wav} @CVol;
+#if {@panShipCombat = "Enabled"} {
+#pc %playhandle pan %random(-4000,4000)}}
+#trigger {There is a deep boom as the * beam cannons fire.} {playsound {cosmic rage/ships/combat/beam.wav} @CVol;
+#if {@panShipCombat = "Enabled"} {
+#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {Insufficient amount of ammunition to fire.} {#gagline all; playsound {cosmic rage/ships\computer\aammo.wav} @Cvol}
+#TRIGGER {From under your feet there is a slide, followed by a sharp thud, *} {#Gagline ALL; playsound {cosmic rage/ships\Combat\RELOAD1.wav} @Cvol; #var reloadhandle %PlayHandle};
+#TRIGGER {There is a hiss as the launchers are pressurised and seeled.} {#Gagline ALL; #PC @reloadhandle stop; playsound {cosmic rage/ships\Combat\reload2.wav} @cvol}
+#TRIGGER {Insufficient charge in * array.} {playsound {cosmic rage/ships\combat\ocharge.wav} @cvol}
+#TRIGGER {You slide a switch across and hold it there to allow power to filter through the converters.} {#gagline all; playsound {cosmic rage/ships\combat\handle.wav} @cvol}
+#TRIGGER {A dull thrum fills the ship as charge begins to be filtered through energy converters.} {#gagline all;playsound {cosmic rage/ships\combat\recharge.wav} @cvol}
+#TRIGGER {The low thrum abruptly cuts out as the recharge of the * completes.} {#gagline all; playsound {cosmic rage/ships\combat\completed.wav} @cvol}
+#TRIGGER {You release the switch.} {#gagline all}
+#TRIGGER {The computer announces: "Miss, no ship at angle."} {#gagline all; playsound {cosmic rage/ships\computer\mis.wav} @cvol}
+#trigger {Direct hit on target.} {#gagline voice}
+#TRIGGER {The computer announces: "* hit on *."} {#gagline all; 
+#if {%ifword(Direct,%1," ")} {
+playsound {cosmic rage/ships\computer\dhit.wav} @cvol};
+#if {%ifword(Indirect,%1," ")} {
+playsound {cosmic rage/ships/computer/PHit.wav} @CVol};
+playsound {cosmic rage/ships\combat\otherhit*3.wav} @cvol;#if {@panShipCombat = 1} {
+#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {An on screen hologram shows a * hit on * of *.} {
+#sub {%1 hit on %2 of %3.};
+#if {%ifword(direct,%1," ")} {
+playsound {cosmic rage/ships/combat/direct3.wav} @cvol};
+#if {%ifword(indirect,%1," ")} {
+playsound {cosmic rage/ships/combat/indirect*2.wav} @CVol}}
+#trigger {* "armor at * percent."} {playsound {cosmic rage/ships/computer/dalert.wav} @vol}
+#trigger {* "shields at * percent."} {playsound {cosmic rage/ships/computer/salert.wav} @vol}
+#trigger {* "Hull breech at *"} {playsound {cosmic rage/ships/combat/hullbreech.wav} @vol}
+#TRIGGER {You hear the sound of the defense systems crumpling under from a hit.} {Playsound {cosmic rage\ships\Combat\yd*2.wav} @vol}
+#trigger {The ship gives a giant shudder and there is an alarmingly loud crash and smash from the hull as the defensive armour completely fails.} {Playsound {cosmic rage\ships\Combat\yd*2.wav} @vol}
+#trigger {You hear a buzz and then a crackle as the shields fail.} {playsound {cosmic rage/ships/combat/ShieldsFail.wav} @vol}
+#trigger {There is an ominous buzz followed by a loud, electronic crackle as the shields completely fail.} {playsound {cosmic rage/ships/combat/ShieldsFail.wav} @vol}
+#trigger {You hear a soft ping sound.} {#gagline all; playsound {cosmic rage/ships/combat/recall.wav} @cvol}
+
+#trigger {There is a deep boom as the pulse cannon fires.} {#gagline all; playsound {cosmic rage/ships/combat/PulseCannon.wav} @CVol; #if {@panShipCombat = "Enabled"} {
+#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {The hum of compression systems can be heard for a short moment as ammunition is shifted in the ship's hold.} {#Gagline ALL; playsound {cosmic rage/ships\Combat\RELOAD1.wav} @Cvol; #var reloadhandle %PlayHandle};
+#TRIGGER {On screen, you see the image of the * flicker from yellow to green as the reload completes.} {#Gagline ALL; #PC @reloadhandle stop; playsound {cosmic rage/ships\Combat\reload2.wav} @cvol}
+#trigger {You make a few selections on the main screen, before sliding a slider at the bottom to full.} {#gagline all; playsound {cosmic rage/ships/computer/code.wav} @cvol}
+#trigger {On screen, you see the image of the * flicker from red to yellow as a reload begins.} {#gagline all};
+#trigger {A red light on screen fades to yellow as a reload begins to take place.} {#gagline all}
+#trigger {The light flashes green and the reload is complete.} {#gagline all}
+#Alias {escan} {#trigger {* distance * unit*} {#sub {distance %2, %1 }}; scan ship; #alarm 0.5 {#untrig {* distance * unit*}}};

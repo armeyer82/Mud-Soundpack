@@ -1,0 +1,6 @@
+#trigger {A whining fills the ship as the analyzation equipment starts up.} {playsound {cosmic rage/activities/dust analyzing/apoweron.wav} @shipvol}
+#trigger {The whining stops as the annalysing equipment is turned off.} {#gagline all; playsound {cosmic rage/activities/dust analyzing/apowerdown.wav} @shipvol}
+#trigger {The ship shoots an annalysing ray into the dust storm.} {#gagline all; playsound {cosmic rage/activities/dust analyzing/alaser.wav} @shipvol}
+#trigger {annalysing.} {#gagline all}
+#trigger {Dust analyzation complete.} {#gagline all}
+#trigger {a paper with analyzation data on it prints out.} {#gagline all; playsound {cosmic rage/activities/star cores/print.wav} @shipvol}

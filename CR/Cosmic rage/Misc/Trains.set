@@ -1,0 +1,39 @@
+#trigger {You hear the rumble of an engine, then, with a hiss of breaks, * chuffs into the station.} {playsound {Cosmic Rage/general/trains/arrive.wav} @vol; #subs {%1 arrived}}
+#trigger {There is a slight hum of electricity, before, with a whoosh, the train pulls out of the station.} {#gagline all; playsound {Cosmic Rage/general/trains/start.wav} @vol; #alarm 13 {loopsound {Cosmic Rage/general/trains/loop.wav} @vol; #var trainHandle %playHandle; #var train 1}}
+#trigger {The next station is *} {playsound {Cosmic Rage/general/trains/announcement.wav} @vol; #sub {next station, %1}}
+#trigger {The doors whoosh open.} {#gagline all; playsound {Cosmic Rage/general/trains/doorsopen.wav} @vol}
+#trigger {One of the fans of the trains kicks in.} {#gagline all}
+#trigger {The doors on * slide shut with a hiss.} {#subs {doors closed}; playsound {Cosmic Rage/general/trains/doorsclosed2.wav} @vol}
+#trigger {With a whoosh, * pulls out.} {#gagline all; playsound {Cosmic Rage/general/trains/leave2.wav} @vol}
+#trigger {The doors on * open with a whoosh.} {#gagline all; #alarm 7  {playsound {Cosmic Rage/general/trains/doorsopen2.wav} @vol; #say {doors openned}}}
+#trigger {The train slows, before with a chuf of breaks, it stops completely.} {#gagline all; playsound {Cosmic Rage/general/trains/stop.wav} @vol; #gagline all; #if {@train = 1} {#pc @trainHandle stop; #var train 0}}
+#trigger {The train bumps over the tracks.} {#gagline all}
+#trigger {The wheels of the train squeal.} {#gagline all}
+#trigger {You hear a squeaking from somewhere.} {#gagline all}
+#trigger {A * (currently at *)} {
+#if {@CurrentRoom <> "train"} {
+#if {@RoomSoundPlaying = 1} {
+#pc @roomhandle stop; #var RoomSoundPlaying 0};
+loopsound {cosmic rage/general/trains/TrainAmb.wav} @vol; #Var RoomHandle %Playhandle; #var roomSoundPlaying 1; #var currentroom "train"; #var currentroom2 "notmisc"}} {ambon};
+#trigger {A * (between stations)} {
+#if {@CurrentRoom <> "train"} {
+#if {@RoomSoundPlaying = 1} {
+#pc @roomhandle stop; #var RoomSoundPlaying 0};
+loopsound {cosmic rage/general/trains/TrainAmb.wav} @vol; #Var RoomHandle %Playhandle; #var roomSoundPlaying 1; #var currentroom "train"; #var currentroom2 "notmisc"}} {ambon};
+#trigger {You disembark from the train.} {#gagline all; playsound {cosmic rage/general/trains/Doorsopen2.wav} @vol};
+#trigger {The train approaching platform * is *.} {playsound {Cosmic Rage/general/trains/Announcement.wav} @vol}
+#trigger {You heave yourself abord * Pod.} {#gagline all; loopsound {cosmic rage/general/trains/TrainAmb.wav} @Roomvol; #var trainhandle %playhandle; #var train 1} {} AnyCase
+#trigger {You disembark from the *.} {#gagline all; playsound {cosmic rage/general/trains/Doorsopen2.wav} @vol};
+
+#trigger {A soothing female voice announces: This is *} {#var tra %1; #gagline all; #alarm 3 {#say {welcome to @tra}}}
+#trigger {A soothing female voice announces: Please mind the doors.} {#gagline all; #alarm 1 {#say {please mind the doors}}; playsound {Cosmic Rage/general/trains/announcement.wav} @vol}
+#trigger {A soothing female voice announces: We are now approaching *} {#subs {aproaching %1}; playsound {Cosmic Rage/general/trains/announcement.wav} @vol}
+#trigger {A soothing female voice announces: The next station is *, *} {#subs {next station, %2}; playsound {Cosmic Rage/general/trains/announcement.wav} @vol}
+
+#trigger {An insistant beeping comes from the doors, before with a soft hiss, they close and lock with a click.} {#gagline all; playsound {Cosmic Rage/general/trains/doorsclosed.wav} @vol}
+#trigger {The engine of the carriage hums soothingly.} {#gagline all}
+#trigger {The train turns sharply.} {#gagline all}
+#trigger {The train turns sharply.} {#gagline all}
+#trigger {The train rattles a little.} {#gagline all}
+#trigger {The train climbs sharply up a hill.} {#gagline all}
+#trigger {A soothing female voice announces: The train approaching platform * is *} {playsound {cosmic rage/general/misc/ping.wav} @vol}

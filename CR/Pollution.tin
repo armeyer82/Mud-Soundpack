@@ -1,0 +1,16 @@
+#CLASS {Pollution} OPEN
+
+#ACTION {^The rotors pitch rises slightly as the vehicle begins to move %*.$}
+{
+     play Activities/Pol/Move2.wav;
+     #line gag
+}
+
+#ACTION {^The rotors settle down once more.$}
+{
+     play Activities/Pol/Move1.wav;
+     #line gag
+}
+
+
+#CLASS {Pollution} CLOSE

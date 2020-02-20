@@ -1,0 +1,12 @@
+#CLASS {Vehicle} OPEN
+
+#ACTION {^A grinding noise fills the vehicle as the cleaning equipment is extended.$}
+{
+     play vehicle/dump.wav;
+     #line gag
+}
+
+#GAG              {^On screen, you see the cleaning equipment begin sorting through trash.$}
+#GAG              {^You hear a solid bong as the cleaning equipment returns with something.$}
+
+#CLASS {Vehicle} CLOSE

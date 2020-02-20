@@ -1,0 +1,275 @@
+#var planet "";
+
+#Trigger {[[] &{PlanetName}; &{RoomName}*} {
+#if {@musicsounds = "Enabled"} {
+#If {%IfWord(Star Command,@planetname," ")} {
+#if {@planet <> "star"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Star Command.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "star"}};
+
+#If {%IfWord(Business,@planetname," ")} {
+#if {@planet <> "business"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Business Central.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "business"}};
+#If {%IfWord(Earth,@planetname," ")} {
+#if {@planet <> "Earth"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Earth.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Earth"}};
+#If {%IfWord(Aeloriana,@planetname," ")} {
+#if {@planet <> "Aeloriana"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Aeloriana.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Aeloriana"}};
+#If {%IfWord(panaxes,@planetname," ")} {
+#if {@planet <> "panaxes"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/panaxes.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "panaxes"}};
+#If {%IfWord(Carstairs,@planetname," ")} {
+#if {@planet <> "Carstairs"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Carstairs.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Carstairs"}};
+#If {%IfWord(Academy,@planetname," ")} {
+#if {@planet <> "Academy"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Galactic Academy.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Academy"}};
+#If {%IfWord(Battle,@planetname," ")} {
+#if {@planet <> "Battle"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Battle Stations.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Battle"}};
+#If {%IfWord(Beacon,@planetname," ")} {
+#if {@planet <> "Beacon"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Beacon stations.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Beacon"}};
+#If {%IfWord(Partaculous,@planetname," ")} {
+#if {@planet <> "Partaculous"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Partaculous Spectaculous.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Partaculous"}};
+#If {%IfWord(Pilot,@planetname," ")} {
+#if {@planet <> "Pilot"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Pilot Training Core Facility Alpha 1.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Pilot"}};
+#If {%IfWord(Ship Building Facility Omega 8,@planetname," ")} {
+#if {@planet <> "Ship"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Ship Building Facility Omega 8.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Ship"}};
+#If {%IfWord(Maraquda,@planetname," ")} {
+#if {@planet <> "Maraquda"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Maraquda.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "maraquda"}};
+#If {%IfWord(Koroku,@planetname," ")} {
+#if {@planet <> "koroku"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Koroku.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "koroku"}};
+#If {%IfWord(Diana,@planetname," ")} {
+#if {@planet <> "Diana"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Diana.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Diana"}};
+#If {%IfWord(Estrana,@planetname," ")} {
+#if {@planet <> "Estrana"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Estrana.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Estrana"}};
+#If {%IfWord(Mars,@planetname," ")} {
+#if {@planet <> "Mars"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Mars.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Mars"}};
+#If {%IfWord(Mercury,@planetname," ")} {
+#if {@planet <> "Mercury"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Mercury.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Mercury"}};
+#If {%IfWord(Saturn,@planetname," ")} {
+#if {@planet <> "Saturn"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Saturn, Jupiter, Uranus, Neptune.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Saturn"}};
+#If {%IfWord(Jupiter,@planetname," ")} {
+#if {@planet <> "Jupiter"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Saturn, Jupiter, Uranus, Neptune.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Jupiter"}};
+#If {%IfWord(Uranus,@planetname," ")} {
+#if {@planet <> "Uranus"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Saturn, Jupiter, Uranus, Neptune.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Uranus"}};
+#If {%IfWord(Neptune,@planetname," ")} {
+#if {@planet <> "Neptune"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Saturn, Jupiter, Uranus, Neptune.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Neptune"}};
+#If {%IfWord(Mining,@planetname," ")} {
+#if {@planet <> "Mining"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/SDF Mining Station Eexei Othairus.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Mining"}};
+#If {%IfWord(temreth,@planetname," ")} {
+#if {@planet <> "temreth"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Temrith.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "temreth"}};
+#If {%IfWord(Valissianna,@planetname," ")} {
+#if {@planet <> "Valissianna"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Valissianna.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Valissianna"}};
+#If {%IfWord(Navu,@planetname," ")} {
+#if {@planet <> "navu"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Navu.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "navu"}};
+#If {%IfWord(Sahariana,@planetname," ")} {
+#if {@planet <> "Sahariana"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/Planets/Sahariana.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Sahariana"}};
+#If {%IfWord(mission Central,@planetname," ")} {
+#if {@planet <> "mission"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Mission Central.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "mission"}};
+#If {%IfWord(Tillaria,@planetname," ")} {
+#if {@planet <> "Tillaria"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Tillaria.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Tillaria"}};
+#If {%IfWord(Galactic Medical Complex,@planetname," ")} {
+#if {@planet <> "gmc"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/GMC.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "gmc"}};
+#If {%IfWord(Harmonia,@planetname," ")} {
+#if {@planet <> "harmonia"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Harmonia.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "harmonia"}};
+#If {%IfWord(Mulrala,@planetname," ")} {
+#if {@planet <> "Mulrala"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Mulrala.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Mulrala"}};
+#If {%IfWord(Sola Virtus Invicta,@planetname," ")} {
+#if {@planet <> "SVI"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/sola.wav} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "SVI"}};
+#If {%IfWord(Navidad,@planetname," ")} {
+#if {@planet <> "Navidad"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Navidad.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Navidad"}};
+#If {%IfWord(Tarania,@planetname," ")} {
+#if {@planet <> "Tarania"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Tarania.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Tarania"}};
+#If {%IfWord(research complex,@planetname," ")} {
+#if {@planet <> "research"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Research.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "research"}};
+#If {%IfWord(Astraeus,@planetname," ")} {
+#if {@planet <> "Astraeus"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Astraeus.wav} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Astraeus"}};
+#If {%IfWord(Dread,@planetname," ")} {
+#if {@planet <> "dread"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Cape Dread.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "dread"}};
+#If {%IfWord(Goscro krah,@planetname," ")} {
+#if {@planet <> "goscro"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Goscro Crah.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "goscro"}};
+#If {%IfWord(Kaldara,@planetname," ")} {
+#if {@planet <> "kaldara"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Kaldara.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "kaldara"}};
+#If {%IfWord(Calira,@planetname," ")} {
+#if {@planet <> "Calira"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Calira Dura 9 1.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Calira"}};
+#If {%IfWord(Danimara,@planetname," ")} {
+#if {@planet <> "Danimara"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Danimara.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Danimara"}};
+#If {%IfWord(Oriali,@planetname," ")} {
+#if {@planet <> "oriali"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Oriali.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "oriali"}};
+#If {%IfWord(Parody,@planetname," ")} {
+#if {@planet <> "Parody"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Parody.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Parody"}};
+#If {%IfWord(Vakari,@planetname," ")} {
+#if {@planet <> "Vakari"} {
+#if {@musicPlaying = 1} {
+#pc @musichandle stop; #var MusicPlaying 0};
+loopsound {cosmic rage/music/planets/Vakari.WAV} @musicvol;
+#var musicplaying 1; #var musichandle %playhandle; #var planet "Vakari"}}}} {Music}

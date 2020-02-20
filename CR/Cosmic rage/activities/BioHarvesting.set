@@ -1,0 +1,26 @@
+#TRIGGER {A wind sound, like wind being spun in a tight tube begins to echo through the ship.} {#gagline all; playsound {cosmic rage/activities\nebula\lock1.wav} @vol}
+#trigger {On screen, You see the soopy mixture of the bioplasma nebula begin to collect around the tubing of the vessel.} {#gagline all};
+#TRIGGER {The constant sound of wind dies down as a nebula is let free.} {#gagline all; playsound {cosmic rage/activities\nebula\lock2.wav} @vol}
+#TRIGGER {There is a sliding noise in the port side wall as a rod extends.} {#gagline all; playsound {cosmic rage/activities/nebula/rodextend.wav} @Vol; #PC %Playhandle Pan %Random(-1500,-1400)};
+#TRIGGER {There is a sliding noise in the center of the ship as a rod extends.} {#gagline all; playsound {cosmic rage/activities/nebula/rodextend.wav} @Vol};
+#TRIGGER {There is a sliding noise in the starboard side wall as a rod extends.} {#gagline all; playsound {cosmic rage/activities/nebula/rodextend.wav} @Vol; #PC %Playhandle Pan %Random(1500,1400)};
+#TRIGGER {There is a sliding noise in the ceiling as a rod extends.} {#gagline all; playsound {cosmic rage/activities/nebula/rodextend2.wav} @Vol};
+#TRIGGER {There is a sliding noise in the port side wall as a rod retracts.} {#gagline all; playsound {cosmic rage/activities/nebula/rodretract.wav} @Vol; #PC %Playhandle Pan %Random(-1500,-1400)};
+#TRIGGER {There is a sliding noise in the center of the ship as a rod retracts.} {#gagline all; playsound {cosmic rage/activities/nebula/rodretract.wav} @Vol};
+#TRIGGER {There is a sliding noise in the starboard side wall as a rod retracts.} {#gagline all; playsound {cosmic rage/activities/nebula/rodretract.wav} @Vol; #PC %Playhandle Pan %Random(1500,1400)};
+#TRIGGER {There is a sliding noise in the ceiling as a rod retracts.} {#gagline all; playsound {cosmic rage/activities/nebula/rodretract2.wav} @Vol};
+#TRIGGER {a low hum begins above your head as the bioplasma harvesting rods are magnetised.} {#gagline all; playsound {cosmic rage/activities/nebula/activate.wav} @Vol; #Wait 3.3; #playloop {cosmic rage/activities/nebula/loop.wav} @vol; #var rodloophandle %PlayHandle}; #var rodloop 1;
+#TRIGGER {The hum of electricity that is powering the magnets of the rods slowly fades away.} {#gagline all; #if {@rodloop = 1}; #pc @rodloophandle stop; #var rodloop 0; playsound {cosmic rage/activities/nebula/deactivate.wav} @Vol};
+#TRIGGER {A low pulse goes through the rods as their field is increased.} {#gagline all; playsound {cosmic rage/activities/nebula/boost.wav} @Vol};
+#trigger {A sliding whining noise fills the ship as a rod retracts.} {#gagline all};
+#TRIGGER {*"Rod 1 has attracted bioplasma."} {#if {@gagHarvest = "Enabled"} {#gagline voice}; playsound {cosmic rage/activities/nebula/rodharv.wav} @Vol; #PC %Playhandle Pan %Random(-1500,-1400)};
+#TRIGGER {*"Rod 2 has attracted bioplasma."} {#if {@gagHarvest = "Enabled"} {#gagline voice}; playsound {cosmic rage/activities/nebula/rodharv.wav} @Vol};
+#TRIGGER {*"Rod 3 has attracted bioplasma."} {#if {@gagHarvest = "Enabled"} {#gagline voice}; playsound {cosmic rage/activities/nebula/rodharv.wav} @Vol; #PC %Playhandle Pan %Random(1500,1400)};
+#TRIGGER {*"Rod 4 has attracted bioplasma."} {#if {@gagHarvest = "Enabled"} {#gagline voice}; playsound {cosmic rage/activities/nebula/rodharv2.wav} @Vol};
+#TRIGGER {A siren echoes throughout the ship: "Warning! Rod temperature change. * now at *"} {playsound {cosmic rage/activities/nebula/warning.wav} @vol; {#sub {%1 is at %2}}}
+#TRIGGER {You slam your right hand onto the stop button.} {#gagline all; #if {@rodloop = 1}; #pc @rodloophandle stop; #var rodloop 0; playsound {cosmic rage/activities/nebula/deactivate.wav} @Vol};
+#TRIGGER {On screen, a green light appears above *} {#gagline all; playsound {cosmic rage/activities\nebula\beep.wav} @vol}
+#TRIGGER {There is a subtle click of a rod being locked in place.} {#gagline all; playsound {cosmic rage/activities\nebula\click.wav} @vol}
+#trigger {You begin to manipulate the bioplasma harvesting rods.} {#gagline voice}
+
+#trigger {You begin to manipulate the bioplasma harvesting rods.} {#gagline all}

@@ -1,0 +1,20 @@
+#trigger {You tap a few commands into the harvesting screen of the main ship's console.} {
+#gagline all;
+playsound {cosmic rage/ships/computer/keyboard*7.wav} @vol}
+#trigger {On screen, you see the harvesting equipment begin drilling into the asteroid.} {
+#gagline all}
+#trigger {You feel a shudder as the harvesting equipment is released from the bottom of the ship.} {
+#gagline all;
+playsound {cosmic rage/activities/moon/moonExtend.wav} @vol}
+#trigger {On screen, you see the harvesting equipment move towards *} {
+#gagline all;
+playsound {cosmic rage/activities/planetoid/hum.wav} @vol}
+#trigger {On screen, you see the harvesting equipment begin to gather up minerals.} {
+#gagline all;
+playsound {cosmic rage/activities/planetoid/mineralScoop.wav} @vol}
+#trigger {The harvesting equipment retracts back into the ship with a thunk.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/slam.wav} @vol}
+#trigger {The ship is thrown sideways as the harvesting equipment takes some damage.} {
+#gagline all;
+playsound {cosmic rage/ships/combat/youHit6.wav} @vol}

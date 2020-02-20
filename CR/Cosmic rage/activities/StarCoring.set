@@ -1,0 +1,78 @@
+#var CoreStartHandle 0
+#var CoreArchsHandle 0
+#var CoreLoopHandle 0
+#trigger {On screen, you see a targeting dot appear on the core.} {#gagline all}
+#trigger {You hear a slight whine as lasers shift.} {#gagline all}
+#trigger {You hear a low hum from underfoot.} {#gagline all}
+#trigger {A low hum begins to emanate from under your feet.} {#gagline all}
+#trigger {There is a zing and then the steady thump, thump of three lasers firing at the same time.} {#gagline all}
+#trigger {On screen, you see the harvesting equipment begin to gather up minerals from holes dug by the lasers.} {#gagline all}
+#trigger {* "Extracting minerals*"} {
+#gagline all}
+#trigger {The grabbers make a pass, and successfully snag the piece of star core!} {#sub {Success!}} 
+#trigger {On screen, you see the grabbers make a pass at the chunk but miss completely, causing the piece of star core to drift into the side of the ship.} {
+#sub {Missed!}} 
+#trigger {You hear an earsplitting sound and then a boom as harvesting gear drops out of the bottom of the ship.} {
+#gagline all} 
+	#trigger {The ship shudders a little before a blaze of light fills the windows.} {
+#gagline all} 
+#trigger {* "locked on, now annalysing and extracting gas."} {
+#gagline all}
+#trigger {You feel the ship shake slightly, then you hear a loud crash as something is deposited into the ships hold.} {
+#gagline all; playsound {cosmic rage\activities\planetoid\MineralScoop.wav} @vol} 
+#trigger {You pull down a series of levers before entering your security code.} {
+#gagline all;
+playsound {cosmic rage\vehicle\lever.wav} @vol} 
+#trigger {The ship rumbles with the sound of hinges being unwound before, with a snap, the harvesting gear is ready.} {
+#gagline all;
+playsound {cosmic rage\activities\planetoid\unwind.wav} @vol} 
+#trigger {* "Star core empty of accessible minerals. Now retracting..."} {
+#gagline all;
+playsound {cosmic rage\activities\moon\HarvesterRetract.wav} @vol} 
+#trigger {You type quickly into the star core console.} {playsound {cosmic rage\ships\computer\minikeyboard.wav} @vol} 
+#trigger {You pummp a plunger before dashing over and slamming down a lever.} {
+#gagline all;
+playsound {cosmic rage\activities\planetoid\plunger.wav} @vol;
+#alarm 1 {playsound {cosmic rage\vehicle\lever.wav} @vol}} 
+#trigger {The computer whines and then gives several thunks before printing out Some star core data and giving it to *} {
+#gagline all;
+playsound {cosmic rage\activities/star cores/Print.wav} @vol} 
+#trigger {On screen, you see tubes extend from the ship and attach to star core*} {
+#gagline all;
+playsound {cosmic rage\activities\moon\moonextend.wav} @vol} 
+#trigger {* "correct angle aquired."} {
+playsound {cosmic rage\activities\planetoid\gas.wav} @vol} 
+#trigger {Through the windows, you see bolts of energy fire from the ships hull into the hovering star core nearby.} {
+#gagline all;
+playsound {cosmic rage\ships\combat\emp.wav} @vol} 
+#trigger {You type quickly into the star core console.} {playsound {Cosmic Rage/ships/computer/Keyboard1.wav} @vol; #gagline all}
+#trigger {The ships lights dim slowly as power is diverted into some laser cutters.} {#gagline voice; playsound {Cosmic Rage/activities/star cores/laser.wav} @vol; #PC %PlayHandle Pan %Random(-4000,4000)}
+#trigger {On screen, you see the laser cutters dig about *sized hole into the core.} {#gagline voice}
+#trigger {You hear a scream and an explosion rocks the ship.} {playsound {Cosmic Rage/activities/star cores/Explode.wav} @vol; #gagline voice}
+#trigger {*"Star core gear damaged."} {playsound {Cosmic Rage/activities/star cores/Damage.wav} @vol}
+#trigger {*"Powering down."} {playsound {Cosmic Rage/activities/star cores/PowerDown.wav} @vol; #gagline voice}
+#trigger {The ever present hum of the star core gear fades away.} {#gagline all}
+#trigger {*"Extraction completed."} {playsound {Cosmic Rage/activities/star study/TransferComplete.wav} @vol; #gagline all}
+#trigger {*"No more gas storage space available in external tanks."} {playsound {Cosmic Rage/activities/star cores/TanksFilled.wav} @vol}
+#trigger {On screen, you see the lasers cut into *} {#gagline voice}
+#trigger {You tap analyse.} {#gagline all}
+#trigger {*"Core already analysed. powering down."} {playsound {Cosmic Rage/activities/star cores/PowerDown.wav} @vol}
+#trigger {some drones take some gas from * and shoot off into the sky with it.} {#gagline all}
+#trigger {The computer announces: "Locked onto star *. *."} {
+#sub {Locked on to the star core.};
+playsound {cosmic rage/activities/star cores/corestart.wav} @vol;
+#var CoreStartHandle %playhandle}
+#TRIGGER {On screen, you see arcs of electricity spiral out from the ship and stream towards *} {#gagline all;
+#if {@CoreStartHandle < 0} {#abort 1} {
+#if {@CoreStartHandle > 0} {
+#pc @CoreStartHandle stop};
+playsound {cosmic rage/activities/star cores/core1.wav} @vol;#var CoreArchsHandle %playhandle}}
+#TRIGGER {On screen, You see a coil of electricity loop around the core and drag it towards the ship.} {#gagline all; 
+#if {@CoreArchsHandle < 0} {#abort 1} {
+#if {@CoreArchsHandle > 0} {
+#pc @CoreArchsHandle stop};
+playsound {cosmic rage/activities/star cores/core2.wav} @vol; #var CoreLoopHandle %playhandle}}
+#trigger {*: "Star core locked successfully."} {
+#if {@CoreLoopHandle < 0} {#abort 1} {
+#if {@coreLoopHandle > 0} {
+#pc @CoreLoopHandle stop}; playsound {cosmic rage/activities/star cores/core3.wav} @vol}}

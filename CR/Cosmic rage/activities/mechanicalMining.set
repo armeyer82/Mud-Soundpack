@@ -1,0 +1,35 @@
+#trigger {You heave at a lever.} {#gagline all;
+playsound {cosmic rage/vehicle/lever.wav} @vol}
+#trigger {A droid trundles in and carries away *} {
+#gagline all;
+playsound {cosmic rage/vehicle/transfer.wav} @vol} 
+#trigger {You hear a screech and then a thunk.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/thunk.wav} @vol} 
+#trigger {You hear a drilling sound.} {
+#gagline all;
+playsound {cosmic rage/activities/volcanoHarvesting/drill.wav} @vol} 
+#trigger {You hear a loud hum and a whirring sound.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/whirling.wav} @vol} 
+#trigger {You hear the digging arm begin to dig into the earth outside.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/digging.wav} @vol} 
+#trigger {You hear a whine and the digging sound comes to a stop.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/wine.wav} @vol} 
+#trigger {A low thrum shakes the vehicle as the digging arm retracts.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/arm.wav} @vol} 
+#trigger {You hear a loud slam as the digging arm fully retracts.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/slam.wav} @vol} 
+#trigger {You hear a loud thunk and then a whir.} {#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/whirling.wav} @vol}
+#trigger {You raise the laser console by tapping a button next to it and decide to sort the *} {#gagline all; playsound {cosmic rage/activities/mechanicalMining/sort1.wav} @vol;#var Sortinghandle %playhandle}
+#trigger {The laser module lowers itself back into the console, *} {#if {@SortingHandle > 0} {#alarm 1 {#pc @SortingHandle stop};playsound {cosmic rage/activities/MechanicalMining/sortlower.wav} @vol}}
+#trigger {There is a rumbling noise as rocks are shuffled out of the cargo bay and into a different compartment.} {#gagline all}
+#trigger {There is a slight clink as the computer shuts the compartment door.} {#gagline all}
+#trigger {The rock burns a bright orange colour, far too hot to not burn away the elements inside!} {#if {@Sortinghandle > 0} {#pc @SortingHandle stop};playsound {cosmic rage/activities/mechanicalMining/laser2.wav} @vol; #sub {too high.}}
+#trigger {The laser appears to be making no headway.} {#if {@SortingHandle > 0} {#pc @SortingHandle stop};playsound {cosmic rage/activities/mechanicalMining/laser2.wav} @vol; #sub {too low}}
+#trigger {The laser manages to burn away the rock and quickly vents the steam outside.} {#if {@SortingHandle > 0} {#pc @SortingHandle stop};playsound {cosmic rage/activities/mechanicalMining/laser2.wav} @vol; #sub {perfect.}}

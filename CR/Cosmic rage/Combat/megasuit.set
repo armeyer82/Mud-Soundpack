@@ -1,0 +1,9 @@
+#trigger {You order the * to punch *} {#gagline all; playsound {Cosmic Rage/general/combat/megasuit/v*3.wav} @gvol; playsound {Cosmic Rage/general/combat/megasuit/attack1.wav} @gvol}
+#trigger {You lower the * to protect your *} {#sub {protecting %2}; playsound {Cosmic Rage/general/combat/megasuit/lower.wav} @gvol}
+#trigger {You raise the * to protect your *} {#sub {protecting %2}; playsound {Cosmic Rage/general/combat/megasuit/raise.wav} @gvol}
+#trigger {You lower * to the megasuits side.} {#sub {lowered arms}; playsound {Cosmic Rage/general/combat/megasuit/raise.wav} @gvol}
+#trigger {The megasuit slams its fist into *} {#gagline all; playsound {Cosmic Rage/general/combat/megasuit/punch*3.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,2500)}}
+#trigger {The megasuit falls with a very massive crash to the ground!} {playsound {Cosmic Rage/general/combat/megasuit/fall.wav} @gvol}
+#trigger {The megasuit turns its * foot *} {#sub {%1 to %2}; playsound {Cosmic Rage/general/combat/megasuit/step*2.wav} @gvol; #if {%1 = "left"} {#PC %Playhandle Pan  %random(-1000,-500)} {#PC %Playhandle Pan %random(1000,500)}; @gvol}
+#trigger {A soothing voice in your mind announces: "Target destroyed."} {#gagline all; playsound {Cosmic Rage/general/combat/megasuit/die.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,2500)}}
+#trigger {A lance of pain goes through you as the megasuit takes some damage.}  {#sub {suit damage}; playsound {Cosmic Rage/general/combat/megasuit/crash*2.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,2500)}}

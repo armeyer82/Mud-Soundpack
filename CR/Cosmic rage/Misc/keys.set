@@ -1,0 +1,117 @@
+#var defroom 0
+;Keys for adjusting volumes.
+#key {f9} {genvoldown}
+#key {f10} {genvolup}
+#key {Control-F12} {CommsVolUp}
+#key {Control-shift-F12} {CommsVolDown}
+#key {alt-f7} {musicvoldown}
+#key {alt-f8} {musicvolup}
+#key {alt-f2} {combatdown}
+#key {alt-f3} {combatup}
+#key {control-f2} {combatvolumedown}
+#key {control-f3} {combatvolumeup}
+#key {f7} {vehiclEvoldown}
+#key {f8} {vehiclEvolup}
+#key {f5} {shipvoldown}
+#key {f6} {shipvolup}
+#key {shift-f3} {roomvoldown}
+#key {shift-f4} {roomvolup}
+#key {control-f9} {shipEvoldown}
+#key {control-f10} {shipEvolup}
+#key {alt-f9} {vehicleengvoldown}
+#key {alt-f10} {vehicleengvolup}
+#key {alt-shift-f7} {gvoldown}
+#key {alt-shift-f8} {gvolup}
+
+;keys for toggles.
+#key {alt-shift-r} {RedAlertToggle}
+#key {alt-shift-u} {ToggleUpdate}
+#key {Control-shift-M} {showermusictoggle}
+#key f11 {ambtoggle}
+#Key {control-l} {lag}
+#key alt-shift-d {DroneToggle}
+#key control-shift-p {togglemusic}
+#key {control-shift-c} {togglecombat}
+#key control-f8 {togglevehicle}
+#key control-shift-f8 {toggleship}
+#key control-g {gagscombat}
+#key control-h {gagharvest}
+#key control-p {pancombat}
+#key control-f5 {toggleLogOn}
+#key control-alt-s {salvageTextToggle}
+#key control-w {weatherToggle}
+#key control-shift-w {gagweather}
+#key Control-f11 {#pc 0 stop; #play {Cosmic Rage/general/misc/SoundsStopped.wav} @vol; #say {All currently playing sounds have been stopped.}}
+#key alt-s {ShortMapText}
+#key Control-Alt-C {ToggleIdleSounds}
+#key control-alt-M {toggleSoundpackIntroMessage}
+#key control-alt-T {ToggleClocks}
+#key control-shift-n {#if {@cMusic = "Enabled"} {#var combatmusicPlaying 1;
+#pc @CombatmusicPlayingHandle stop;
+#say {The current combat track has been changed.};
+#playloop {cosmic rage/music/combat/Theme*2.wav} @MVol;
+#var combatMusicPlayingHandle %playHandle;
+#var combatmusicPlaying 1} {
+#if {@cMusic = "Disabled"} {
+#say {You must enable combat music for this feature to work correctly.}}}}
+#key {alt-Enter} {togglenumpad}
+#Key {Numpad1} {1} {Numpad}
+#Key {Control-Numpad1} {sw}
+#Key {Numpad2} {2} {Numpad}
+#Key {Control-Numpad2} {s}
+#Key {Numpad3} {3} {Numpad}
+#Key {Control-Numpad3} {se}
+#Key {Numpad4} {4} {Numpad}
+#Key {Control-Numpad4} {w}
+#Key {Numpad5} {5} {Numpad}
+#Key {Control-Numpad5} {look}
+#Key {Numpad6} {6} {Numpad}
+#Key {Control-Numpad6} {e}
+#Key {Numpad7} {7} {Numpad}
+#Key {Control-Numpad7} {nw}
+#Key {Numpad8} {8} {Numpad}
+#Key {Control-Numpad8} {n}
+#Key {Numpad9} {9} {Numpad}
+#Key {Control-Numpad9} {ne}
+#key {control-numpaddash} {down} {Numpad}
+#key {control-numpadplus} {up}
+#Key {Numpad0} {coords} {Numpad}
+#Key {Control-Numpad0} {exits}
+#Key {Numpad/} {auto} {Numpad}
+#key {Control-Numpad/} {in}
+#Key {Numpad*} {man} {Numpad}
+#Key {Control-Numpad*} {out}
+#key Numpaddash {-} {numpad}
+#Key {Numpadplus} {+} {Numpad}
+#Key {Alt-O} {north} {}
+#Key {Alt-M} {south} {}
+#Key {Alt-J} {west} {}
+#Key {Alt-L} {east} {}
+#Key {Alt-P} {northeast} {}
+#Key {Alt-I} {northwest} {}
+#Key {Alt-N} {southwest} {}
+#Key {Alt-,} {southeast} {}
+#Key {Alt-U} {up} {}
+#Key {Alt-d} {down} {}
+#Key {Alt-Z} {in} {}
+#Key {Alt-X} {out} {}
+#key {Shift-F1} {MuteSound}
+#key F2 {config}
+#key {Control-F1} {smute}
+#key {Shift-F2} {LogFile}
+#key {control-/} {#ungagon; #say {Speech is no longer being gagged.}}
+#key control-alt-L {Logging}
+#key {control-s} {SaveSettings}
+#key {Alt-Shift-L} {ToggleLaunchText}
+#key {Alt-shift-H} {SpHelp}
+#key Alt-shift-S {ToggleSocialSounds}
+#key Alt-shift-T {ToggleSocialText}
+#key {Control-alt-R} {toggleReboot}
+#key {Control-alt-I} {toggleSoundpackIntroMessage}
+#key alt-v {spversion; #var cvcheck 1}
+#key alt-shift-v {
+#file 3 {cosmic rage/help files/changelog.txt};
+#read 3 chversion;
+#close 3;
+#var chresult %left(@chversion,4);
+#say {Your changelog's last entry is change number @chresult.}}

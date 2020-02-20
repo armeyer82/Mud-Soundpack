@@ -1,0 +1,61 @@
+#trigger {A thrum comes from underfoot as power begins to be routed through the vehicle.} {#gagline all; playsound {Cosmic Rage/activities/pol/sta1.wav} @vol}
+#trigger {A steady thudding comes from the roof as the rotors reach a constant speed and the vehicle completes the startup.} {#gagline all; playsound {Cosmic Rage/activities/pol/sta2.wav} @vol}
+#trigger {The steady thudding from above begins to decrease in speed as the rotors are slowed down.} {#gagline all; playsound {Cosmic Rage/activities/pol/stop.wav} @vol}
+#trigger {A slow whirring comes from overhead as the rotors begin to slowly spin.} {#gagline all}
+#trigger {Status lights begin to flicker across the screen.} {#gagline all}
+#trigger {With a slow whir, the rotors are brought to a stop.} {#gagline all}
+#trigger {The thrum of power under your feet begins to die away.} {#gagline all}
+#trigger {You take hold of both joysticks.} {#gagline all; playsound {Cosmic Rage/activities/pol/takeoff.wav} @vol}
+#trigger {You twist the left-hand grip, increasing the power to the rotors.} {#gagline all}
+#trigger {The frequency of thuds from above increase as the rotors speed up.} {#gagline all}
+#trigger {A loud whine begins to overshadow the thud of rotors as The vehicle tilts slightly.} {#gagline all}
+#trigger {As you feel the craft begin to tilt, you depress the left pedal, correcting it.} {#gagline all}
+#trigger {You keep the left-hand pedal down, while pulling back further on the right-hand joystick.} {#gagline all}
+#trigger {You increase the power to the rotors further, causing them to spin even faster.} {#gagline all}
+#trigger {There is a slight rocking sensation as the vehicle slowly lifts off the ground.} {#gagline all}
+#trigger {The loud whine develops into a rattling hum as the rotors spin even faster.} {#gagline all}
+#trigger {You adjust the angle as the craft breaks through some cloud cover and continues to rise.} {#gagline all}
+#trigger {The speed of ascension increases, buildings slowly retreating from sight as the vehicle rises higher.} {#gagline all}
+#TRIGGER {There is * whoosh as the vehicle breaks through *.} {#gagline all; playsound {cosmic rage/ships/pd/woosh.wav} @CVol}; 
+#trigger {You push the joystick forward a little, slowing the ascent until the vehicle simply hovers.} {#gagline all; loopsound {Cosmic Rage/activities/pol/loop.wav} @vol; #var launchHandle %playHandle; #var launch 1}
+#trigger {You slow the rotors down a small amount, and tilt the right-hand joystick forward.} {#gagline all; playsound {Cosmic Rage/activities/pol/land.wav} @vol; #if {@launch = 1} {#pc @launchHandle stop;}}
+#trigger {You increase the speed further, and begin to pull back on the right-hand lever.} {#gagline all}
+#trigger {The vehicle tilts a little, before it suddenly becomes balanced once more.} {#gagline all}
+#trigger {There seems to be a slight pitch change in the tone of the rotors as the vehicle begins to slowly descend.} {#gagline all}
+#trigger {You slow the rotors down further.} {#gagline all}
+#trigger {A slightly shrill sound comes from outside as the vehicle descends fast.} {#gagline all}
+#trigger {You increase the power back to the rotors, counteracting a tilt of the vehicle by depressing one of the pedals.} {#gagline all}
+#trigger {As the vehicle's descent slows, a slight wobble occurs where it tilts, and then levels out.} {#gagline all}
+#trigger {You pull back sharply on the right-hand joystick and slow down the rotors.} {#gagline all}
+#trigger {There is a slight bump as the vehicle lands.} {#gagline all}
+#trigger {You ease off the power to the rotors, and return the joysticks to neutral.} {#gagline all}
+#trigger {The rotors pitch rises slightly as the vehicle begins to move *} {#gagline all; #if {@launch = 1}  {playsound {Cosmic Rage/activities/pol/move3.wav} @vol;#alarm 0.4 {#pc @launchhandle frequency 50000}}}
+#trigger {The rotors settle down once more.} {#gagline all; #if {@launch = 1} {playsound {Cosmic Rage/activities/pol/move4.wav} @vol;#alarm 0.4 {#PC @launchhandle Frequency 44000}}}
+#trigger {You depress a plunger several times, spraying the surrounding area with oxygen.} {#gagline all; playsound {Cosmic Rage/activities/pol/pump.wav} @vol}
+#trigger {A slightly blurry image of the * spreads out *} {playsound {Cosmic Rage/activities/pol/red.wav} @vol}
+#trigger {A red light shows that there is * to the * at a distance of * meters.} {#sub {%3  meters %2 %1 detected}}
+#trigger {You use the pedals to change the angle of the vehicle and tap the computer, telling it to fly * meters *} {
+playsound {cosmic rage/ships/misc/controlStick*3.wav} @vol; #sub { moving %1 meters %2}}
+#trigger {A red light shows that there is * at the vehicles location.} {playsound {Cosmic Rage/activities/pol/here.wav} @vol; #sub {%1 detected at the same location with the vehicle}}
+#trigger {You hold down a trigger and spray the nearby Chlorofluorocarbon with Oxalate.} {#gagline all; playsound {Cosmic Rage/activities/pol/pump.wav} @vol}
+#trigger {You begin to ease off on the power, slowing the rotors.} {#gagline all; #if {@launch = 1}  {playsound {Cosmic Rage/activities/pol/move1.wav} @vol; #alarm 2 {#PC @launchhandle Frequency 44000}}}
+#trigger {You pull back on the right-hand joystick, angling the vehicle up.} {
+#gagline all; playsound {cosmic rage/ships/misc/controlStick*3.wav} @vol; #pc %playhandle pan 2000}
+#trigger {You increase the power to the rotors, causing them to go faster.} {#gagline all; #if {@launch = 1}  { playsound {Cosmic Rage/activities/pol/move2.wav} @vol; #alarm 2 {#PC @launchhandle Frequency 51000}}}
+#trigger {There is a hiss *} {#gagline all; playsound {Cosmic Rage/activities/pol/pump.wav} @vol; #alarm 1 {playsound {Cosmic Rage/activities/planetoid/air.wav} @vol}}
+#trigger {You tap magnetise.} {#gagline 3 all; playsound {Cosmic Rage/activities/pol/magn.wav} @vol}
+#trigger {The hum dies away as the magnet powers down.} {#gagline all}
+#trigger {You push forward on the right-hand joystick, angling the vehicle down.} {
+#gagline all; playsound {cosmic rage/ships/misc/controlStick*3.wav} @vol; #pc %playhandle pan -2000}
+#trigger {You decrease the power to the rotors, causing them to go slower.} {#gagline all; #if {@launch = 1} {playsound {Cosmic Rage/activities/pol/move1.wav} @vol; #alarm 2 {#PC @launchhandle Frequency 40000}}}
+#trigger {You slowly increase the power to the rotors, slowing the descent.} {#gagline all; #if {@launch = 1}  {playsound {Cosmic Rage/activities/pol/move2.wav} @vol; #alarm 2 {#PC @launchhandle Frequency 44000}}}
+#trigger {Accompanied by the * thudding *} {#gagline all}
+#trigger {The pitch of the rotors increases and the vehicle stops descending.} {#gagline all}
+#trigger {You shove a lever forward, extending the collection scoop.} {
+#gagline all; playsound {cosmic rage/ships/misc/controlStick*3.wav} @vol}
+#trigger {On screen, the scoopers come together to enclose *} {#gagline all; playsound {Cosmic Rage/activities/pol/salv.wav} @vol}
+#trigger {the sound of well-oiled mechanics can be heard as, on screen, the pollution scoopers retract.} {#gagline all}
+#trigger {A slight whine fills the air as the scoopers continue to retract.} {#gagline all}
+#trigger {The pod rocks a little as just next to it, and visible on the screen, the scoopers enter the vehicle.} {#gagline all}
+#trigger {The vehicle rocks in place as several heavy-duty lasers are fired at an object!} {#gagline all; playsound {Cosmic Rage/activities/star study/lasers.wav} @vol}
+#trigger {You tap stop.} {#gagline all; #if {@launch = 1}  {playsound {Cosmic Rage/activities/pol/move4.wav} @vol; #alarm 0.4 {#PC @launchhandle Frequency 44000}}}

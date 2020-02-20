@@ -1,0 +1,43 @@
+#trigger {You click and drag the image of the harvesting equipment.} {#gagline all;
+playsound {cosmic rage/ships/computer/keyboard*5.wav} @vol}
+#trigger {You feel a shudder as the harvesting equipment is released from the bottom of the vehicle.} {
+#gagline all;
+playsound {cosmic rage/activities/volcanoHarvesting/release.wav} @vol}
+#trigger {I am beginning the repair of *} {
+playsound {cosmic rage/ships/computer/repairStart.wav} @vol} 
+#trigger {On screen, you see the harvesting equipment begin to drill deep into the wall of the volcano.} {
+#gagline all;
+playsound {cosmic rage/activities\volcanoHarvesting\drill.wav} @vol} 
+#trigger {On screen, you notice as the harvesting equipment begins to try and extract something.} {
+#gagline all} 
+#trigger {You hear a whirr as the harvesting equipment begins to transport something into the cargo hold.} {
+#gagline all} 
+#trigger {The vehicle shudders as the harvesting equipment gets damaged by a rockfall!} {
+playsound {cosmic rage/activities/volcanoHarvesting/rockFall.wav} @vol} 
+#trigger {The vehicle is thrown sideways as rocks impact it!} {
+playsound {cosmic rage/activities/volcanoHarvesting/rockFall.wav} @vol} 
+#trigger {You feel a shudder and a whir builds up as the harvesting equipment is drawn in.} {
+#gagline all;
+playsound {cosmic rage/activities/moon/harvesterRetract.wav} @vol} 
+#trigger {You hear a clang as the harvesting equipment locks into place.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/slam.wav} @vol} 
+#trigger {You tap the transfer icon.} {
+#gagline all;
+playsound {cosmic rage/ships/computer/keyboard*7.wav} @vol} 
+#trigger {You feel a slight shake as the vehicle begins to be unloaded.} {
+#gagline all;
+playsound {cosmic rage/activities/volcanoHarvesting/volcanoTransferBegin.wav} @vol} 
+#trigger {The vehicle shudders slightly as the cargo hold is closed.} {#gagline all; playsound {cosmic rage/activities/volcanoHarvesting/volcanoTransferEnd.wav} @vol}
+#trigger {The harvesting gear clunks down slightly.} {playsound {cosmic rage/activities/volcanoHarvesting/GearDown.wav} @vol}
+#trigger {The harvesting gear clunks up slightly.} {playsound {cosmic rage/activities/volcanoHarvesting/GearUp.wav} @vol}
+#trigger {You tap at buttons on a nearby console.} {#gagline all;
+playsound {cosmic rage/ships/computer/keyboard*5.wav} @vol}
+#trigger {You tap a few icons with your right hand while *.} {#gagline voice}
+#trigger {You heave on the harvesting gear, *.} {#gagline voice}
+#trigger {You hear a clang as the harvesting equipment loses grip and returns to the vehicle.} {
+#gagline voice;
+playsound {cosmic rage/activities/MechanicalMining/slam.wav} @vol}
+#trigger {The computer announces: "* harvested."} {
+#if {@gagharvest = "Enabled"} {#gagline voice}}
+#trigger {The harvesting grinds to a halt.} {#gagline all; playsound {cosmic rage/activities/volcanoHarvesting/volcanoTransferEnd.wav} @vol; playsound {cosmic rage/activities/volcanoHarvesting/GearDown.wav} @vol}

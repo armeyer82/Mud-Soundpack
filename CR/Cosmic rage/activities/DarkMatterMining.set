@@ -1,0 +1,8 @@
+#TRIGGER {You type mine into the commands console.} {playsound {Cosmic Rage/activities/Dark Matter Mining/Keyboard1.wav} @vol; #gagline all}
+#TRIGGER {You hear a clang as mining drones return.} {playsound {Cosmic Rage/activities/Dark Matter Mining/MiningDronesReturn.wav} @vol}
+#TRIGGER {You hear a scuffle as some drones leave the base.} {playsound {Cosmic Rage/activities/Dark Matter Mining/DroneScuff.wav} @vol}
+#TRIGGER {The drones return with a slam.} {playsound {Cosmic Rage/activities/Dark Matter Mining/DroneReturn.wav} @vol}
+#TRIGGER {You hear a loud trumpet and a scuffle as drones move out.} {playsound {Cosmic Rage/activities/Dark Matter Mining/Trumpet.wav} @vol}
+#TRIGGER {An attack on Vacus resource base * has begun.} {playsound {Cosmic Rage/activities/Dark Matter Mining/Attack.wav} @vol}
+#TRIGGER {Enemy battle over. The battle report is shown below:} {playsound {Cosmic Rage/activities/Dark Matter Mining/Report.wav} @vol}
+#TRIGGER {You hear a cheer and a clunk as many drones return.} {playsound {Cosmic Rage/activities/Dark Matter Mining/cheer.wav} @vol}

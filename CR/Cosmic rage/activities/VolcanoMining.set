@@ -1,0 +1,8 @@
+#trigger {A crunching, grinding sound is heard as the drill bites deep into the rock of the volcano.} {#gagline all; playsound {Cosmic Rage/activities/VolcanoMining/Crunch.wav} @vol}
+
+#trigger {A slight bubbling can be heard as the magma of the volcano begins to heat the drill.} {#gagline all; playsound {Cosmic Rage/activities/VolcanoMining/Bubble.wav} @vol}
+#trigger {The sound of liquid pouring down a pipe can be heard, before there is a solid clunk as what ever the substance is is cooled very fast, and set *} {#gagline all; playsound {Cosmic Rage/activities/VolcanoMining/Pipe.wav} @vol}
+
+#trigger {The drill continues to mine, small bits of rock impacting the vehicle from time to time.} {#gagline all; playsound {Cosmic Rage/activities/VolcanoMining/Rock.wav} @vol}
+#trigger {the vehicle gives a shudder, then, with a loud crash, the drilling equipment deploys itself.} {#gagline all; playsound {Cosmic Rage/activities/VolcanoMining/deploy.wav} @vol}
+#trigger {A loud clattering banging noise is heard as the drilling equipment retracts.} {#gagline all; playsound {Cosmic Rage/activities/VolcanoMining/extend.wav} @vol}

@@ -1,0 +1,35 @@
+#trigger {* "Launching probe..."} {
+#gagline all}
+#trigger {You begin to align the lasers with the image of the comet on screen.} {
+#gagline all}
+#trigger {You tap * buttons on the extraction console.} {
+#gagline all;
+playsound {cosmic rage\ships\computer\keyboard*7.wav} @vol}
+#trigger {* "comet selected, *"} {
+#gagline all}
+#TRIGGER {You hear a thunk and the hum of the water generaters pause. After several moments you hear the sound of the tubes being wound in.} {#gagline all; playsound {cosmic rage/ships/comets/retract.wav} @vol};
+#TRIGGER {You hear a light thump as a laser is fired.} {#gagline all; playsound {cosmic rage/ships/comets/mininglaser.wav} @vol};
+#TRIGGER {A humming fills the ship as power is diverted to the laser.} {#gagline all; playsound {cosmic rage/ships/comets/power.wav} @vol};
+#TRIGGER {A slight scraping noise comes from the hold.} {#gagline all; playsound {cosmic rage/ships/comets/probereturn.wav} @vol};
+#TRIGGER {The drone scoops up the freed dust and begins to return.} {#gagline all; playsound {cosmic rage/ships/comets/probetakes.wav} @vol};
+#TRIGGER {A scraping noise can be heard as a probe returns.} {#gagline all; playsound {cosmic rage/ships/comets/probereturn.wav} @vol};
+#TRIGGER {On screen, you see your probe scoop up some acid.} {#gagline all; playsound {cosmic rage/ships/comets/cleanup.wav} @vol};
+#TRIGGER {On screen, you see your little probe explode!} {#gagline all};
+#TRIGGER {You hear a scraping sound as a probe returns.} {#gagline all; playsound {cosmic rage/ships/comets/probereturn.wav} @vol};
+#TRIGGER {You hear a woosh sound as a probe is launched into space.} {#gagline all; playsound {cosmic rage/ships/comets/probelaunch.wav} @vol};
+#TRIGGER {On screen you see the probe continuing to dig.} {#gagline all; playsound {cosmic rage/ships/comets/shovel*5.wav} @vol};
+#TRIGGER {On screen, you see the probe land on the comet and begin digging.} {#gagline all; playsound {cosmic rage/ships/comets/shovel*5.wav} @vol};
+#TRIGGER {On screen, you see the probe launch itself towards the ship.} {#gagline all; playsound {cosmic rage/ships/comets/probelaunch.wav} @vol};
+#trigger {*"Cargo bay selected, *"} {
+#gagline all}
+#trigger {On screen, you see the mining laser ark into the comet.} {
+#gagline all;
+playsound {cosmic rage/ships/comets/shovel*5.wav} @vol}
+#trigger {On screen, you watch as the mining laser burrows into the comet.} {
+#gagline all;
+playsound {cosmic rage/ships/comets/shovel*5.wav} @vol}
+#trigger {The humming dies down and a slight scrape is heard as a drone is dispatched.} {
+#gagline all;
+playsound {cosmic rage/ships/comets/cleanup.wav} @vol}
+#trigger {On screen, you see a drone shoot towards *} {
+#gagline all}

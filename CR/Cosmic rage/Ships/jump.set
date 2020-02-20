@@ -1,0 +1,15 @@
+#trigger {* You enter some data into the planetary rifting console.} {
+#gagline all;
+playsound {cosmic rage/ships/computer/keyboard*7.wav} @vol}
+#TRIGGER {On screen, you see Small satellites begin revolving anti-gravwell to *} {#gagline all; playsound {cosmic rage/ships/jump/sate.wav} @vol};
+#TRIGGER {The ship jumps forward, surging into a rift.} {#gagline all; playsound {cosmic rage/ships/jump/jump.wav} @vol};
+#TRIGGER {You hear a whine as the ship adjusts its deflector dish.} {#gagline all; playsound {cosmic rage/ships/jump/deflect*3.wav} @vol};
+#TRIGGER {On screen, you see a small rift appear above * which slowly begins to expand.} {#gagline all; playsound {cosmic rage/ships/jump/stab.wav} @vol};
+#TRIGGER {The ship rocks violently!} {#gagline all; playsound {cosmic rage/ships/jump/rock.wav} @vol};
+#TRIGGER {On screen, you see The rift form and stabilise.} {#gagline all; playsound {cosmic rage/ships/movement/acceleration.wav} @vol}
+#TRIGGER {Impenetrable darkness crowds in on the windows.} {#gagline all; playsound {cosmic rage/ships/jump/boom.wav} @vol};
+#TRIGGER {The ship shudders a little.} {#gagline all; loopsound {cosmic rage/ships/jump/loop.wav} @vol; #var jumploop %playhandle};
+#TRIGGER {The ships speed increases drastically as it approaches another rift.} {#gagline all; #pc @jumploop stop; playsound {cosmic rage/ships/movement/deceleration.wav} @vol};
+#TRIGGER {* to * we will begin to generate your rift.} {playsound {cosmic rage/ships/Com/somethingToShip.wav} @vol};
+#TRIGGER {You say, * to * requesting planetary rift to *" into a small microphone on the central console.} {playsound {cosmic rage/ships/com/sector.wav} @vol};
+#trigger {You rip open a panel and yank down the emergency stop lever on your rift drive.} {#pc @jumploop stop}

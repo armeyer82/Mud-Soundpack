@@ -1,0 +1,142 @@
+#var skice 2
+#alias Version {soundpack version The VIP Cosmic Rage Experience} {}
+#trigger {Soundpack last change *} {#sub {The last soundpack change that was posted to the game %1}}
+#alias spversion {>@soundpacks The VIP Cosmic Rage Experience} {}
+#trigger {* *} {
+#if {@cvcheck = 1} {
+#var CurrentVersion %left(%1,4);
+#file 3 {cosmic rage/help files/changelog.txt};
+#read 3 chversion;
+#close 3;
+#var chresult %left(@chversion,4);
+#if {%IsNumber(@CurrentVersion) = 1} {
+#if {@chresult < @CurrentVersion} {
+#math chresult {@CurrentVersion - @chresult};
+#if {@chresult = 1} {#say {Your soundpack is not up to date. There has been @chresult change since you last updated.}} {#say {Your soundpack is not up to date. There have been @chresult changes since you last updated.}}}};
+#if {%IsNumber(@CurrentVersion) = 1} {#var cvcheck 0}}}
+#alias spbug {#say {Please make sure your soundpack is up to date before making a bug report or suggestion. Thank you.}; #gagon; spp;The VIP Cosmic Rage Experience;bug}
+#alias spsuggest {#say {Please make sure your soundpack is up to date before making a bug report or suggestion. Thank you.}; #gagon; spp;The VIP Cosmic Rage Experience;suggest}
+#trigger {Suggestion submitted!} {playsound {Cosmic Rage/general/misc/SpSuggest.wav} @vol; #sub {Thank you for submitting this suggestion! An admin will work on it shortly and reach out if needed!}}
+#trigger {Enter a short subject line for the *.} {#ungagon}
+#trigger {Please enter a long description for the suggestion.} {#sub {Please enter your suggestion now. Please provide as much detail as possible,  including text that you would like sounds or gags added for. Thank you.};
+#file 3 {cosmic rage/help files/changelog.txt};
+#read 3 chversion;
+#close 3;
+#var chresult %left(@chversion,4);
+@chresult ;
+}
+#trigger {Bug reported!} {playsound {Cosmic Rage/general/misc/SpBug.wav} @vol; #sub {Thank you for submitting this bug report! An admin will be looking into it as soon as possible. If needed, you may be reached for more information.}}
+#trigger {Please enter a long description for the bug.} {#sub {Please enter your bug report. Please provide as much detail as possible. Note. Just putting in the error that you got, or a one or two worded message will not help in resolving the problem. Bugs containing just a few words or just the VIP error message are automatically deleted. If possible, try to include the steps you took that produced the error or bug. This will expedite the report getting resolved. Thank you.};
+#file 3 {cosmic rage/help files/changelog.txt};
+#read 3 chversion;
+#close 3;
+#var chresult %left(@chversion,4);
+@chresult ;
+}
+#alias SpReload {#pc 0 stop; #say {Reloading the soundpack. please wait.}; playsound {Cosmic Rage/general/misc/Reload.wav} @vol; #alarm 0.5 {#reload}; #alarm 1 {LoadBuffers; #say {Reloading is now complete!}; #if {@ambon = "enabled"} {look}}}
+
+;Saving settings.
+#alias SaveSettings {playsound {Cosmic Rage/general/misc/SpSave.wav} @vol; #say {Your soundpack settings and buffer list  have successfully been saved!}; savebuffers; #File 6 {cosmic rage/misc/settings.set} 1;#Var SettingsFileCounter 1;
+#Write 6 @vol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @Shipvol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @vehiclevol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @roomvol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @DroneSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @MusicSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @MusicVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @combatMusicplaying @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @MVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @CMusic @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @altVehicleEngines @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @altshipEngines @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagShipCombat @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagHarvest @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @panShipCombat @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @CVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ambon @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @RedAlert @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @Evol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @veVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagSal @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @weather @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagweather @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @LogOn @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ShortMapText @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentIntro @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentClock @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ConnectionCheck @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @numpadon @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @CommsVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ChannelLogging @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @GameError @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentConflict @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @LaunchText @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SocialSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @RebootSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SpIntroMessage @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SocialText @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @TPR @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentPod @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @showermusic @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gvol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @UpdateToggle @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#close 6}
+#key {Control-shift-R} {SpReload}
+#trigger {*Has just posted an announcement!*} {playsound {Cosmic Rage/general/comms/spAnnouncement.wav} @CommsVol; #additem SoundpackAnnouncements %0}
+#alias {AutoSaveSettings} {#File 6 {cosmic rage/misc/settings.set} 1;#Var SettingsFileCounter 1;
+#Write 6 @vol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @Shipvol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @vehiclevol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @roomvol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @DroneSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @MusicSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @MusicVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @combatMusicplaying @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @MVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @CMusic @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @altVehicleEngines @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @altshipEngines @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagShipCombat @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagHarvest @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @panShipCombat @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @CVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ambon @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @redalert @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @Evol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @veVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagSal @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @weather @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gagweather @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @LogOn @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ShortMapText @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentIntro @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentClock @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ConnectionCheck @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @numpadon @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @CommsVol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @ChannelLogging @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @GameError @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentConflict @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @LaunchText @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SocialSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @RebootSounds @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SpIntroMessage @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SocialText @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @TPR @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @SilentPod @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @showermusic @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @gvol @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#Write 6 @UpdateToggle @SettingsFileCounter;#Math SettingsFileCounter {@SettingsFileCounter +1};
+#close 6}
+#alias {SpHelp} {#say {Loading the list of available help files. Please wait.}; playsound {Cosmic Rage/general/misc/ConfMan.wav} @vol; #pick {p:Please select an option from the list below|
+View the alias's help file:{playsound {Cosmic Rage/general/Help/Aliases.wav} @vol; playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/Aliases.txt}}|
+View the Announcements help file:{playsound {Cosmic Rage/general/help/Announcements.wav} @vol; playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/Announcements.txt}}|
+View the buffers help file:{playsound {Cosmic Rage/general/Help/Buffers.wav} @vol; playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/buffers.txt}}|
+View the Changelog:{playsound {Cosmic Rage/general/Help/Changelog.wav} @vol; playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/changelog.txt}}|
+view the soundpack demos:{playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/demos.txt}}|
+view the soundpack  F A Q:{playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/faq.txt}}|
+View the Keys help file:{playsound {Cosmic Rage/general/help/Keys.wav} @vol; playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/keys.txt}}|
+View the readme:{playsound {Cosmic Rage/general/help/Readme.wav} @vol; playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/readme.txt}}|
+View the Soundpack credits:{playsound {Cosmic Rage/general/help/SoundpackCredits.wav} @vol; playsound {Cosmic Rage/general/misc/LoadingFile.wav} @vol;#edit {cosmic rage/help files/Soundpack credits.txt}}}}
+#alias spp {>@soundpacks} {}
+#Alias {themechange} {playsound {Cosmic Rage/general/comms/themesuccess.wav}; #var skice %1}

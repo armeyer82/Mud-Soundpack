@@ -1,0 +1,21 @@
+#TRIGGER {You gently open *mouth and begin to help *eat *} {loopsound {cosmic rage/general/Baby/babyeat.wav} @vol; #gagline all; #var BabyEathandle %playhandle; #var BabyEat "Enabled"} {}
+#TRIGGER {You gently open * mouth and begin to help *drink*} {loopsound {cosmic rage/general/Baby/babydrinks.wav} @vol; #gagline all; #var BabyDrinkhandle %playhandle; #var BabyDrink "Enabled"} {}
+#TRIGGER {* appears to have finished *drink*} {playsound  {Cosmic Rage/general/baby/babyburps.wav} @vol; #gagline voice; #if {@BabyDrink = "Enabled"} {
+#pc @BabyDrinkhandle stop;
+#var BabyDrink "Disabled"}} {}
+#TRIGGER {*burps as *finishes *food*} {playsound  {Cosmic Rage/general/baby/babyburps.wav} @vol; #gagline voice; #if {@BabyEat = "Enabled"} {
+#pc @BabyEathandle stop;
+#var BabyEat "Disabled"}} {}
+#TRIGGER {* whines softly.} {playsound  {Cosmic Rage/general/baby/babywhine.wav} @vol; #gagline voice} {}
+#TRIGGER {* cuddles * full up*} {playsound  {Cosmic Rage/general/baby/babylaugh.wav} @vol; #gagline voice;#if {@babyeat = "Enabled"} {#pc @babyEatHandle stop; #var babyeat "Disabled"}} {}
+#trigger {* really seems to be enjoying *} {playsound  {Cosmic Rage/general/Baby/babyhappy.wav} @vol; #gagline voice} {}
+#trigger {* gently opens * mouth and begins to gently feed * to *} {loopsound {cosmic rage/general/Baby/babyeat.wav} @vol; #gagline all; #var BabyEathandle %playhandle; #var BabyEat "Enabled"} {}
+#trigger {*gently opens *mouth and begins to help *drink *} {loopsound {cosmic rage/general/Baby/babydrinks.wav} @vol; #gagline all; #var BabyDrinkhandle %playhandle; #var BabyDrink "Enabled"} {}
+#trigger {* spits up all over *self!} {#if {@BabyEat = "Enabled"} {
+#pc @BabyEathandle stop;
+#var BabyEat "Disabled"}}
+#trigger {You gently lift * to your shoulder and burp *} {playsound  {Cosmic Rage/general/baby/babyburps.wav} @vol; #gagline voice; #if {@BabyEat = "Enabled"} {
+#pc @BabyEathandle stop;
+#var BabyEat "Disabled"}} 
+#trigger {* giggles happily.} {playsound {Cosmic Rage/general/baby/babylaugh1.wav} @vol}
+#trigger {* blinks at * for several moments, then busts out laughing.} {playsound {Cosmic Rage/general/baby/peekaboo*3.wav} @vol}

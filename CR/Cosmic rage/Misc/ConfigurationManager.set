@@ -1,0 +1,260 @@
+;aliases
+#alias {config} {playsound {Cosmic Rage/general/misc/ConfMan.wav} @vol; #pick {p:Please select an option from the list below|
+general volume down. The current value is @vol percent. :genvoldown|
+general volume up. The current value is @vol percent. :genvolup|
+Communication volume up. The current value is @CommsVol percent. :CommsVolUp|
+Communication volume down. The current value is @CommsVol percent. :CommsVolDown|
+planetary music volume down The current value is @musicvol percent. :musicvoldown|
+planetary music volume up The current value is @musicvol percent. :musicvolup|
+Ship combat music volume down. The current value is @MVol percent. :combatdown|
+Ship combat music volume up. The current value is @MVol percent. :combatup|
+Ship combat volume down. The current value is @CVol percent. :combatvolumedown|
+Ship combat volume up. The current value is @CVol percent. :combatvolumeup|
+ground combat volume down. The current value is @gvol percent. :gvoldown|
+ground combat volume up. The current value is @gvol percent. :gvolup|
+vehicle volume down. The current value is @VehiclEvol percent. :vehiclEvoldown|
+vehicle volume up. The current value is @VehiclEvol percent. :vehiclEvolup|
+ship ambience volume down. The current value is @ShipVol percent. :shipvoldown|
+ship ambience volume up. The current value is @ShipVol percent. :shipvolup|
+room ambience volume down. The current value is @RoomVol percent. :roomvoldown|
+room ambience volume up. The current value is @RoomVol percent. :roomvolup|
+ship engine volume down. The current value is @Evol percent. :shipEvoldown|
+ship engine volume up. The current value is @Evol percent. :shipEvolup|
+vehicle engine volume down. The current value is @vEvol percent. :vehicleengvoldown|
+vehicle engine volume up. The current value is @vEvol percent. :vehicleengvolup|
+Toggle Room, ship and vehicle ambience. This option is currently @ambon :ambtoggle|
+Toggle drone following sounds. This option is currently @DroneSounds :dronetoggle|
+Toggle constant red alert. This option is currently @RedAlert :RedAlertToggle|
+Toggle soundpack update notifications on login. This option is currently @UpdateToggle :ToggleUpdate|
+Toggle planetary music. This option is currently @MusicSounds :togglemusic|
+Toggle ship combat music. This option is currently @CMusic :togglecombat|
+Toggle alternate vehicle engines. This option is currently @altVehicleEngines :togglevehicle|
+Toggle alternate ship engines. This option is currently @altshipEngines :toggleship|
+Toggle Short mapper and short flight control text. This option is currently @ShortMapText :ShortMapText|
+Toggle gagging of ship combat messages. This option is currently @gagShipCombat :gagscombat|
+Toggle the announcement of Intraplanetary pod movement. This option is currently @SilentPod :TogglePods|
+Toggle the panning of  ship combat. This option is currently @panShipCombat :pancombat|
+Toggle the gagging of harvest, trash collection and orbit cleaning messages. This option is currently @gagHarvest :gagharvest|
+Toggle the gagging of debris salvage text. This option is currently @gagSal :salvageTextToggle|
+Toggle the weather sounds. This option is currently @weather :weatherToggle|
+Toggle the gagging of weather text. This option is currently @gagweather :gagweather|
+Toggle the Old log on  and log off sounds. This option is currently @LogOn :toggleLogOn|
+Toggle the sounds from clocks that can be bought in stores in the game. When this option is enabled, sounds play, but text is not spoken. When this option is disabled, sounds will not play, but messages will be spoken. This option is currently @SilentClock :ToggleClocks|
+Toggle the Small tick sounds letting you know that you are connected to the moo but idle. This option is currently @ConnectionCheck:ToggleIdleSounds|
+Toggle what the Numpad enters. If this option is disabled, you may use your numpad to enter numbers directly without them effecting your characters movement, vehicle movement or ship movement. This option is currently @numpadon :ToggleNumpad|
+Toggle Channel Logging. This option is currently @ChannelLogging. If this option is enabled, you may use shift-F2 to pull up the list of channels that have been logged.:Logging|
+Toggle I don't understand that messages. This option is currently @GameError :ErrorToggle|
+Toggle launching and docking text. This option is currently @LaunchText :toggleLaunchText|
+Toggle social sounds. This option is currently @SocialSounds :toggleSocialSounds|
+Toggle social text. This option is currently @SocialText. When this option is enabled, you will not see text when you use socials:toggleSocialText|
+Toggle Reboot sounds. This option is currently @RebootSounds: toggleReboot|
+Toggle soundpack intro text. This option is currently @SpIntroMessage :toggleSoundpackIntroMessage|
+Toggle bio plasma regenoration sounds. This option is currently @TPR :TPR|
+Toggle shower music. This option is currently @showermusic :showermusictoggle|
+Check the amount of lag between your connection and the game. Note. This value may not always be @vol percent accurate:lag|
+Submit a soundpack bug report:SpBug|
+Submit a soundpack suggestion:SpSuggest|
+View the last posted soundpack change. Note. This shows the last change that  has posted to the game. This may not always be the last change you see in your changelog.:SpVersion|
+Clear the current buffers items. Useful if you start seeing buffer errors. Note. This only clears items from that one buffer:ClearBuffer|
+Clear All Buffers. Clears all text from all of your active buffers:ClearAllBuffers|
+Toggle your speech in the soundpack. This option is currently @speech. Note. When this option is enabled, your speech will be muted :smute|
+Toggle mute sounds. This option is currently @soundson:MuteSound|
+Save your soundpack settings:SaveSettings|
+Reload the soundpack:SpReload| View the list of available help files for the soundpack. Note. Files will be opened in your text editer of choice:SpHelp}}
+
+;Volumes
+#alias  genvoldown {
+#math Vol {@Vol - 5};
+#if {@Vol < 0} {@Vol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @vol; #say {Main Volume @Vol percent}}
+#alias genvolup {
+#math Vol {@Vol + 5};
+#if {@Vol > 100} {@Vol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @vol; #say {Main Volume @Vol percent}}; #if {@vol = 100} {
+#say {Volume maxed!}}
+
+#alias  gvoldown {
+#math gvol {@gvol - 5};
+#if {@gvol < 0} {@gvol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @gvol; #say {Ground Combat Volume @gvol percent}}
+#alias gvolup {
+#math gvol {@gvol + 5};
+#if {@gvol > 100} {@gvol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @gvol; #say {Ground Combat Volume @gvol percent}}; #if {@gvol = 100} {
+#say {Volume maxed!}}
+
+#alias {CommsVolUp} {
+#math CommsVol {@CommsVol + 5};
+#if {@CommsVol > 100} {@CommsVol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @CommsVol; #say {Communication Volume @CommsVol percent}};
+#if {@CommsVol = 100} {
+#say {Communication Volume maxed!}}
+
+#alias  CommsVolDown {
+#math CommsVol {@CommsVol - 5};
+#if {@CommsVol < 0} {@CommsVol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @CommsVol; #say {Communication Volume @CommsVol percent}}
+
+#alias musicvoldown {
+#math musicVol {@musicVol - 5};
+#if {@musicVol < 0} {@musicVol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @musicVol; #say {Planet music Volume @musicVol percent};
+#if {@musicplaying = 1} {
+#pc @musicHandle volume @musicvol}}
+#alias musicvolup {
+#math musicVol {@musicVol + 5};
+#if {@musicVol > 100} {@MusicVol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @musicVol; #say {Planet music Volume @musicVol percent};
+#if {@musicplaying = 1} {
+#pc @musicHandle volume @musicvol}}
+#alias combatdown {
+#math MVol {@MVol - 5};
+#if {@MVol < 0} {@MVol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @MVol; #say {Combat music Volume @MVol percent};
+#if {@Combatmusicplaying = 1} {
+#pc @combatmusicHandle volume @MVol}}
+#alias combatup {
+#math MVol {@MVol + 5};
+#if {@MVol > 100} {@MVol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @MVol; #say {Combat music Volume @MVol percent};
+#if {@combatmusicplaying = 1} {
+#pc @combatmusicHandle volume @MVol}}
+#alias combatvolumedown {
+#math CVol {@CVol - 5};
+#if {@CVol < 0} {@CVol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @CVol; #say {Ship combat Volume @CVol percent};
+#if {@CombatVolume = 1} {
+#pc @combatVolumeHandle volume @CVol}}
+#alias combatvolumeup {
+#math CVol {@CVol + 5};
+#if {@CVol > 100} {@CVol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @CVol; #say {Ship combat Volume @CVol percent};
+#if {@combatVolume = 1} {
+#pc @combatVolumeHandle volume @CVol}}
+#alias vehiclEvoldown {
+#math VehiclEvol {@VehiclEvol - 5};
+#if {@VehiclEvol < 0} {@VehiclEvol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @VehiclEvol; #say {Vehicle ambience volume @VehiclEvol percent. You will need to look for this change to take effect.};
+#if {@vehiclesoundplaying = 1} {
+#pc @VehicleHandle volume @vehiclEvol}}
+#alias  vehiclEvolup {
+#math VehiclEvol {@VehiclEvol + 5};
+#if {@VehiclEvol > 100} {@VehiclEvol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @VehiclEvol; #say {Vehicle ambience volume @VehiclEvol percent. You will need to look for this change to take effect.};
+#if {@vehiclesoundplaying = 1} {
+#pc @VehicleHandle volume @vehiclEvol}}
+#alias shipvoldown {
+#math ShipVol {@ShipVol - 5};
+#if {@ShipVol < 0} {@ShipVol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @ShipVol; #say {Ship ambience volume @ShipVol percent};
+#if {@shipsoundplaying = 1} {
+#pc @shipHandle volume @shipVol}}
+#alias shipvolup {
+#math ShipVol {@ShipVol + 5};
+#if {@ShipVol > 100} {@ShipVol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @ShipVol; #say {Ship ambience volume @ShipVol percent};
+#if {@shipsoundplaying = 1} {
+#pc @shipHandle volume @shipVol}}
+#alias roomvoldown {
+#math RoomVol {@RoomVol - 5};
+#if {@RoomVol < 0} {@RoomVol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @RoomVol; #say {Room ambience volume @RoomVol percent};
+#if {@roomsoundplaying = 1} {
+#pc @RoomHandle volume @Roomvol}}
+#alias roomvolup {
+#math RoomVol {@RoomVol + 5};
+#if {@RoomVol > 100} {@RoomVol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @RoomVol; #say {Room ambience volume @RoomVol percent};
+#if {@roomsoundplaying = 1} {
+#pc @RoomHandle volume @Roomvol}}
+#alias shipEvoldown {
+#math Evol {@Evol - 5};
+#if {@Evol < 0} {@Evol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @Evol; #say {Ship engine  Volume @Evol percent}}
+#alias shipEvolup {
+#math Evol {@Evol + 5};
+#if {@Evol > 100} {@Evol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @Evol; #say {Ship engine Volume @Evol percent}}
+#alias vehicleengvoldown {
+#math vEvol {@vEvol - 5};
+#if {@vEvol < 0} {@vEvol = 0};
+playsound {Cosmic Rage/general/misc/VolumeDown.wav} @vEvol; #say {vehicle engine  Volume @vEvol percent}}
+#alias vehicleengvolup {
+#math vEvol {@vEvol + 5};
+#if {@vEvol > 100} {@vEvol = 100};
+playsound {Cosmic Rage/general/misc/VolumeUp.wav} @vEvol; #say {vehicle engine Volume @vEvol percent}}
+;Other toggles
+#Alias {ambtoggle} {
+#pc 0 stop; #if {@ambon = "Enabled"} {
+#class ambon disable; #class shipamb disable; #class vehicleamb disable; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #Say {Ambience sounds disabled.};
+#If {@RoomSoundPlaying = 1} {
+#pc @RoomHandle stop;
+#Var RoomSoundPlaying 0};
+#if {@shipSoundPlaying = 1} {
+#pc @shipHandle stop;
+#var shipSoundPlaying 0};
+#if {@vehicleSoundPlaying = 1} {
+#pc @vehiclehandle stop;
+#var vehicleSoundPlaying 0};
+#If {@CurrentRoom <> ""} {#Var CurrentRoom ""}; #var ambon "Disabled"} {#var ambon "Enabled"; #class ambon enable; #class shipamb enable; #class vehicleamb enable ;look; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Ambience sounds enabled.}}}
+#alias DroneToggle {
+#if {@DroneSounds = "Enabled"} {#var DroneSounds "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {drone sounds disabled}} {#var DroneSounds "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Drone Sounds enabled.}}};
+#Alias RedAlertToggle {
+#if {@RedAlert = "Enabled"} {#var RedAlert "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #if {@RedAlertLoop = 1} {#pc @RedAlertHandle stop; #var RedAlertLoop 0}; #say {constant red alert disabled}} {#var RedAlert "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {constant red alert enabled.}}}
+#Alias ToggleUpdate {
+#if {@UpdateToggle = "Enabled"} {#var UpdateToggle "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will no longer receive update notifications on login.}} {#var UpdateToggle "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will now receive update notifications on login.}}}
+#alias togglemusic {
+#if {@MusicSounds = "Enabled"} {#var MusicSounds "Disabled"; #var planet ""; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Planetary Music disabled.}; #if {@MusicPlaying = 1} {#var MusicPlaying 0; #pc @musichandle stop}} {#var MusicSounds "Enabled"; look; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Planetary music enabled.}}};
+#alias {togglecombat} {#if {@cMusic = "Enabled"} {#var cMusic "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Ship combat music disabled.}; #if {@combatMusicPlaying = 1} {#var combatMusicPlaying 0; #pc @combatmusichandle stop}} {#var cMusic "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Ship combat music enabled.}}}
+
+#alias togglevehicle {
+#if {@altVehicleEngines = "Enabled"} {#var altVehicleEngines "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {alternate vehicle engines disabled.}} {#var altVehicleEngines "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Alternate vehicle engines enabled.}}};
+#alias toggleship {
+#if {@altshipEngines = "Enabled"} {#var altshipEngines "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {alternate ship engines disabled.}} {#var altshipEngines "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Alternate ship engines enabled.}}};
+#alias gagscombat {
+#if {@gagShipCombat = "Enabled"} {#var gagShipCombat "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {gagging of Ship combat  messages disabled.}} {#var gagShipCombat "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Gagging of Ship combat messages enabled.}}};
+#alias Pancombat {
+#if {@panShipCombat = "Enabled"} {#var panShipCombat "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Panning of ship combat sounds disabled.}} {#var panShipCombat "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Panning of ship combat sounds enabled.}}};
+#alias gagharvest {
+#if {@gagHarvest = "Enabled"} {#var gagHarvest "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {gagging of harvest, trash collection and orbit cleaning messages disabled.}} {#var gagHarvest "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {gagging of harvest, trash collection and orbit cleaning messages enabled.}}};
+#alias salvageTextToggle {
+#if {@gagSal = "Enabled"} {#var gagSal "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {gagging of Debris salvage messages disabled.}} {#var gagSal "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Gagging of Debris salvage messages enabled.}}}
+#alias weatherToggle {
+#if {@weather = "Enabled"} {#var weather "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Weather sounds disabled.}} {#var weather "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Weather sounds enabled.}}}
+#alias gagweather {
+#if {@gagweather = "Enabled"} {#var gagweather "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Gagging of Weather messages disabled.}} {#var gagweather "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Gagging of Weather messages enabled.}}}
+#alias toggleLogOn {#if {@LogOn = "Enabled"} {#var LogOn "Disabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Old Logon/logoff sounds disabled.}} {#var LogOn "Enabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Old Logon/logoff Sounds enabled.}}}
+#alias ShortMapText {
+#if {@ShortMapText = "Enabled"} {#var ShortMapText "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Shortened map and flight control announcements  disabled.}} {#var ShortMapText "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Shortened map and flight control announcements enabled.}}}
+#alias ToggleClocks {#if {@SilentClock = "Enabled"} {#var SilentClock "Disabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Clocks will now chime, but the clocks messages will not be spoken.}} {#var SilentClock "Enabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Clocks will no longer chime, and the clocks messages will be spoken}}}
+#alias ToggleNumpad {#if {@numpadon = "Enabled"} {#class Numpad disable; #var numpadon "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You may now use the numpad to enter numbers directly without them trying to move your character around or navigate your vehicle or ship.}} {#class Numpad enable; #var numpadon "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You may now use the numpad to move your character  around or navigate your vehicle or ship.}}}
+#alias TogglePods {#if {@SilentPod = "Enabled"} {#var SilentPod "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Pod movement messages will now be spoken.}} {#var SilentPod  "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Pod movement messages will no longer be spoken.}}}
+#alias GameGag {#if {@GagGame = "Enabled"} {#var GagGame "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Arcade messages will now be spoken.}} {#var GagGame "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Arcade messages will no longer be spoken.}}}
+#alias {Logging} {#if {@ChannelLogging  = "Enabled"} {#var ChannelLogging  "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {Channel messages are no longer being logged to files.}} {#var ChannelLogging  "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Channel messages are now being logged to files. The directory where these files are stored is located in Cosmic Rage/logs. Alternatively, you can access the list of log files by using the key Shift-F2, or the alias LogFile.}}}
+#alias {ErrorToggle} {#if {@GameError = "Enabled"} {#var GameError "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {I don't understand that messages will not be displayed.}} {#var GameError "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {I don't understand that messages will now be displayed.}}}
+
+#alias showermusicToggle {
+#if {@showermusic = "Enabled"} {#var showermusic "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {shower music disabled}} {#var showermusic "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {shower music enabled}}}
+#alias {lag} {#var LagAmount 0;
+#alarm LagTest {-0@{DecimalChar}1} {#math LagAmount {@LagAmount + 1}};
+echo Lag.test} {}
+#alias {smute}  {
+#if {@Speech = "Disabled"} {
+#var Speech "Enabled";
+playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {speech off.}; #alarm 1 {#SetSpeech incoming off}} {
+#var Speech "Disabled";
+#SetSpeech incoming on;
+playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {speech on.}}}
+#alias {playsound} {#if {@soundson = "Disabled"} {#play %1 %2}}
+#alias {loopsound} {#if {@soundson = "Disabled"} {#playloop %1 %2}}
+#alias ToggleIdleSounds {#if {@ConnectionCheck  = "Enabled"} {#var ConnectionCheck "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will no longer hear the sounds letting you know that you are connected to the moo, but idle}} {#var ConnectionCheck  "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will now hear the sounds letting you know that you are connected to the moo, but idle.}}}
+#alias {MuteSound} {#if {@soundson = "Disabled"} {#var soundson "Enabled"; #pc 0 stop; playsound {Cosmic Rage/general/misc/off.wav} @vol; #say {Sounds will no longer  play.}} {#var soundson "Disabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {Sounds will now play.}}}
+#alias {SpReload} {#unalarm Saving; #say {Reloading the soundpack, please wait...}; playsound {Cosmic Rage/general/misc/Reload.wav} 90; #alarm .5 {#reload}; #var soundson 1; #alarm 1 {loadbuffers; #say {Reloading complete!}};#alarm 1.5 {look}}
+#alias toggleLaunchText {#if {@LaunchText = "Enabled"} {#var LaunchText "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will now see the text for ships launching, landing, docking and undocking.}} {#var LaunchText "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will no longer see the text for ships launching, landing, docking and undocking.}}}
+#alias toggleSocialSounds {#if {@SocialSounds = "Enabled"} {#var SocialSounds "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will no  longer hear social sounds.}} {#var SocialSounds "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will now  hear social sounds.}}}
+#alias toggleSocialText {#if {@SocialText = "Enabled"} {#var SocialText "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will no longer see social text when you use socials.}} {#var SocialText "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will now see social text when you use socials. When others use socials, that text is not effected.}}}
+#alias toggleReboot {#if {@RebootSounds = "Enabled"} {#var RebootSounds "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will no  longer hear reboot warnings.}} {#var RebootSounds "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will now  hear reboot warnings.}}}
+#alias toggleSoundpackIntroMessage {#if {@SpIntroMessage = "Enabled"} {#var SpIntroMessage "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will no  longer see the intro message letting you know what needs to be done if you're a first time pack user}} {#var SpIntroMessage "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will now see the intro message letting you know what needs to be done if you're a first time pack user.}}}
+#alias StopSound {#pc 0 stop; #pc %MP3Loop stop; playsound {Cosmic Rage/general/misc/SoundsStopped.wav} @vol; #say {All currently playing sounds have been stopped.}}
+#TRIGGER {lag.test} {#unalarm LagTest; #gagline all; #say {It's estimated that You have %eval(@LagAmount * @vol) Milliseconds lag.}} {} AnyCase
+#alias TPR {#if {@TPR= "Enabled"} {#var TPR "Disabled"; playsound {Cosmic Rage/general/misc/Off.wav} @vol; #say {You will no  longer hear bio plasma regenoration sounds.}} {#var TPR "Enabled"; playsound {Cosmic Rage/general/misc/On.wav} @vol; #say {You will now hear bio plasma regenoration sounds.}}}

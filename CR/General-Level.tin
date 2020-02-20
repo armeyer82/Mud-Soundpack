@@ -1,0 +1,14 @@
+#CLASS {General-Level} OPEN
+
+#ACTION {^You can raise your rank!$}
+{
+     play General/Level/Level.wav
+}
+
+#ACTION {^You raise your rank}
+{
+     play General/Level/Raise.wav
+}
+
+
+#CLASS {General-Level} CLOSE

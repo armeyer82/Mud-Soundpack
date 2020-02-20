@@ -1,0 +1,7 @@
+#TRIGGER {You quickly tap * as it flashes up on screen.} {playsound {Cosmic Rage/activities/blackdwarf/button.wav} @vol; #gagline voice}
+#TRIGGER {A powerful electronic hum rattles the plating of the vessel as an energy beam is fired at a constant pace from the ship.} {playsound {Cosmic Rage/activities/blackdwarf/beamstart.wav} @vol; #var damagedbeamhandle %PlayHandle; #gagline voice}
+#TRIGGER {On screen, You see the beam of energy begin to enter *} {#gagline all}
+#TRIGGER {The computer announces: "Retracting..."} {playsound {Cosmic Rage/activities/blackdwarf/beamretract.wav} @vol; {#gagline all}}
+#TRIGGER {The computer announces: "Beam broken by electronic surge from black dwarf."} { playsound {Cosmic Rage/activities/blackdwarf/beambroken.wav} @vol; #PC @damagedbeamhandle stop; {#gagline all}};
+#TRIGGER {The powerful hum dies away as the beam deactivates.} {playsound {Cosmic Rage/activities/blackdwarf/beampower.wav} @vol; {#gagline all}}
+#TRIGGER {A huge explosion rips through the ship!} {playsound {Cosmic Rage/activities/blackdwarf/explosion.wav} @vol; {#gagline all}}

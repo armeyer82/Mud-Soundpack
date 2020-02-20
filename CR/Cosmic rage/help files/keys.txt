@@ -1,0 +1,115 @@
+This file contains all keys that are available to you while the soundpack is loaded.
+
+F2. Pull up the configuration manager.
+
+	Keys for adjusting sound volume.
+
+shift-f3 shift-f4. adjust roomAmbienceVolume.
+ f5 f6. Adjust ship ambience volume.
+f7 f8. Adjust vehicleVolume. Note. you will need to type look in order for this volume setting to take effect.
+Alt-F2 Alt-F3. Adjust ship combat music volume.
+f9 f10. Adjust main volume.
+control-F12 control-shift-F12. Adjust Comms volume.
+alt-f7 alt-f8. Adjust music volume
+control-f2 control-f3. Adjust ship combat volume.
+control-f9 control-f10 Adjust Ship engine volume.
+alt-f9 alt-f10 Adjust Vehicle engine volume.
+alt-shift-f7 alt-shift-f8 adjust ground combat volume
+
+Directional keys.
+	 Numpad1. 1.
+ Control-Numpad1. Southwest.
+Numpad2. 2.
+Control-Numpad2. South.
+Numpad3. 3.
+Control-Numpad3. Southeast.
+Numpad4. 4.
+Control-Numpad4. West.
+Numpad5. 5.
+Control-Numpad5. Look.
+Numpad6. 6.
+Control-Numpad6. East.
+ Numpad7. 7.
+Control-Numpad7. Northwest.
+Numpad8. 8.
+Control-Numpad8. North.
+Numpad9. 9.
+Control-Numpad9. Northeast.
+Control-numpad dash. Down.
+ control-numpad plus. Up.
+Numpad-0. Coords.
+Control-Numpad-0. Exits.
+Numpad-slash. AutoPilot.
+ Control-Numpad-Slash. In.
+Numpad-star. ManualPilot.
+Control-Numpad-star. Out.
+Alt-O. North.
+Alt-M. South.
+Alt-J. West.
+Alt-L. East.
+Alt-P. Northeast.
+Alt-I. Northwest.
+Alt-N. Southwest.
+Alt-,. Southeast.
+Alt-U. Up.
+Alt-d. Down.
+Alt-Z. In.
+Alt-X. Out.
+
+	Miscellaneous Keys
+alt-shift-r. Toggle Red alert sounds.
+Alt-Shift-U, toggle soundpack update notifications on login.
+Control-F11. Stop all playing sounds. Useful if a sound gets stuck.
+f11. Toggle room Ambience.
+control-shift-p. Toggle planetary music.
+alt shift d. Toggle drone sounds.
+control-shift-c. Toggle ship combat music.
+control-f8. Toggle alternate vehicle engine sounds.
+control-shift-f8. Toggle alternate ship engine sounds.
+control-g. Toggle the gagging of enemy locking while in ship combat.
+control-p. Toggle ship combat panning.
+control-h. Toggle the gagging of Harvesting announcements.
+control-alt-s. Toggle the gagging of salvage text.
+control-w. Toggle weather sounds.
+control-shift-w. Toggle the gagging of weather text.
+control-F5. Toggle between the new and old logon sounds.
+Alt-s. Toggle short mapper mode.
+Control-F1. Toggle your speech.
+Shift-F1. Toggle the muting of the intire soundpack excluding speech.
+Control-alt-T. Toggle clock sounds.
+Control-alt-C. Toggle the sounds that let you know you are still connected to the mud.
+
+Keys for adjusting and reading buffers.
+
+	Shift-F2. Pull up the list of all channels that are being logged.
+Alt-shift-Right. Add a buffer to the list.
+Alt-shift-Left. Remove a buffer from the list.
+Alt-up. Read the previous item in the selected buffer.
+Alt-down. Read the next item in the selected buffer.
+Alt-right arrow. Move to the next buffer.
+Alt-left errow. Move to the previous buffer.
+Alt 1 through alt-0. Read the last 10 items in the selected buffer.
+Alt-home. Go to the first item in the selected buffer.
+Alt-end. Go to the last item of the selected buffer.
+Alt-shift-PageUp. Move 20 items up in a buffer.
+Alt-shift-PageDown. Move 20 items down in a buffer.
+Control-alt-shift-L. Load your list of saved buffers.
+Control-alt-shift-S. Saves your list of buffers.
+alt-shift-Delete. Clear the contents of a buffer.
+Control-Alt-Shift-Delete. Clears the text from all of your active buffers.
+
+Misc keys.
+
+Control-Slash. Will force VIP to ungag your speech if something gets stuck and you hear that Gagging is in effect.
+Control-S. Save your current soundpack settings.
+Control-shift-R. Reload the soundpack.
+Control-shift-N. Cycle through the different ship combat music themes. You will need to have Ship combat music enabled for this to work correctly.
+Alt-V. Check the last logged change the moo has stored for the pack.
+Control-alt-L. Toggle channel logging.
+Alt-shift-L. Toggle seeing of launching and docking text.
+Alt-shift-H. Pull up the list of all help files for the soundpack.
+Alt-shift-S. Toggle social sounds.
+Alt-Shift-T. ToggleSocialText. Toggles seeing of social text when you use socials. The text when others use socials is not effected..
+Control-alt-R. Toggle reboot warnings.
+Control-alt-I. Toggle soundpack intro text.
+ctrl shift m, toggles the shower  music on and off

@@ -1,0 +1,18 @@
+#trigger {*: "Firing probes..."} {playsound {cosmic rage/activities/star study/StarProbeLaunch.wav} @vol;#if {@panshipcombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)};#gagline all}
+#trigger {On screen, you see your probes do battle with the gravitational pull of the star.} {#gagline all;playsound {Cosmic Rage/activities/star study/GravBattle.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)}}
+#TRIGGER {The ship rocks heavily as a laser is fired.} {playsound {Cosmic Rage\activities\star study\lasers.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)};#gagline all}
+#trigger {*: "Probe lost."} {#gagline all}
+#TRIGGER {*"Transferring data..."} {playsound {Cosmic rage/activities/star study/TransferStarData.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)};#gagline all}
+#TRIGGER {The windows are filled with a bright light from *} {#gagline all;playsound {Cosmic Rage/ships/misc/SolarFlare.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)}}
+#TRIGGER {*"Transfer complete."} {playsound {Cosmic Rage/activities/star study/TransferComplete.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)};#gagline all}
+#TRIGGER {You hear a strange banging and scraping noise *.} {playsound {Cosmic Rage/activities/star study/LockingOn.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)};#gagline all}
+#trigger {On screen, you see your probe managing to store some liquified solar energy!} {playsound {Cosmic Rage/activities/star study/SolarEnergy.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)};#gagline all}
+#trigger {On screen, you see a probe shoot what looks like liquid fire at a beam of energy.} {#gagline all}
+#Trigger {On screen, you see the beam enter the core of *} {#gagline all}
+#trigger {You move over and begin tapping at a very complicated looking console.} {#gagline all}
+#trigger {On screen, you see a probe get sucked into the star!} {#gagline all;playsound {Cosmic Rage/activities/star study/ProbeLost.wav} @vol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)}}
+#trigger {*: "* probe* returned."} {#gagline all;playsound {Cosmic Rage/activities/star study/ProbeReturn.wav} @vol;#if {@panshipcombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#trigger {On screen, you see your probes begin to return to the ship.} {#gagline all}
+#trigger {You tap a few keys and hit fire.} {#gagline all}
+#TRIGGER {On screen, you see the grabber of the ship snatch the pod up, and quickly yank it in.} {#gagline all;playsound {cosmic rage/activities/star study/srr.wav} @vol;#if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)}}
+#TRIGGER {On screen, you see the pod spiral into the star!} {#gagline all; playsound {cosmic rage/activities/star study/srd.wav} @vol;#if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)}}

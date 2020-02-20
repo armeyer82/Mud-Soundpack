@@ -1,0 +1,7 @@
+#trigger {You lay 10 iron and 10 malexanite down in the fire, and pick up the nearby hammer.} {#gagline all; playsound {Cosmic Rage/general/combat/armor/Fire.wav} @vol}
+#trigger {As the iron begins to soften you raise the hammer high above your head, and begin to smack at it furiously.} {#gagline all; loopsound {Cosmic Rage/general/combat/armor/Hammer.wav} @vol; #var HammerStarthandle %playhandle; #var HammerStart 1}
+#trigger {Having given the mixture a good beating, you set down the hammer, and turn off the flame, pausing to allow the metal to cool.} {#gagline all; #if {@HammerStart = 1} {
+#pc @HammerStarthandle stop;
+#var HammerStart 0}}
+#trigger {Trying again, you find the metal at least touchable, and tip it into a bucket of water.} {#gagline all; playsound {Cosmic Rage/general/combat/armor/water.wav} @vol}
+#trigger {You dig into the ground with *} {#gagline all; playsound {cosmic rage/activities/hand mining/dig*2.wav} @vol}

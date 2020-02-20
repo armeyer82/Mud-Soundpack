@@ -1,0 +1,46 @@
+#trigger {You type quickly into the orbit harvesting console.} {#gagline all;
+playsound {cosmic rage/Activities/Trash Collection/keyboard*7.wav} @vol}
+#trigger {You feel the ship rock a little as the orbit harvesting equipment activates.} {
+#gagline all;
+playsound {cosmic rage/activities/Trash collection/Extend.wav} @vol} 
+#trigger {On screen, you see magnetic rods shoot from the underside of the ship.} {
+#gagline all;
+playsound {cosmic rage/Activities/Trash Collection/droneGets.wav} @vol} 
+#trigger {On screen, you see some junk from * atmosphere shoot to the rods magnetic field.} {
+#gagline all;
+playsound {cosmic rage/activities/Trash Collection/Scoop.wav} @vol} 
+#trigger {a slight squeak echoes throughout the ship for several moments.} {
+#gagline all}
+#trigger {You hear a slight squeak as the rods retract.} {#gagline all;
+playsound {cosmic rage/activities/trash collection/OrbitGearRetract.wav} @vol}
+#trigger {You hear a metallic sliding sound as the orbit harvesting gear completely retracts.} {#gagline all;
+playsound {cosmic rage/activities/trash collection/OrbitGearRetract.wav} @vol}
+#trigger {You hear a grinding whir as rods extend from the bottom of the ship and a laser starts up.} {
+#gagline all;
+playsound {cosmic rage/activities/Trash collection/grind.wav} @vol}
+#trigger {You feel a slight shudder as some trash is hauled up by the rods.} {
+#gagline all;
+playsound {cosmic rage/activities/Trash collection/Scoop.wav} @vol} 
+#trigger {You hear a whine.} {#gagline all; playsound {cosmic rage/ships/misc/whine.wav} @vol} 
+#trigger {You hear a loud slam.} {#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/slam.wav} @vol} 
+#trigger {You feel the floor under your feet give a slight groan.} {
+#gagline all;
+playsound {cosmic rage/activities/moon/moonExtend.wav} @vol} 
+#trigger {There is a loud slam.} {#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/slam.wav} @vol}
+#trigger {The images of * appear on the vehicle's viewscreen.} {
+#if {@GagHarvest = "Enabled"} {#gagline voice}}
+#trigger {A small drone wanders through the cab.} {#if {@gagHarvest = "Enabled"} {#gagline all}; playsound {Cosmic Rage/activities/Trash collection/Investigate.wav} @vol}
+#trigger {The drone returns, carrying *} {#if {@gagHarvest = "Enabled"} {#gagline all}; playsound {Cosmic Rage/activities/Trash collection/DroneReturn.wav} @vol}
+#trigger {The drone emits a strong electric pulse that sucks the moisture out of the air as it purifies the object.} {#if {@gagHarvest = "Enabled"} {#gagline all}; playsound {Cosmic Rage/activities/Trash collection/purify.wav} @vol}
+#trigger {* is reduced into a smashed wreck as the drone compresses it into * and carries it away.} {#if {@gagHarvest = "Enabled"} {#gagline all}; playsound {Cosmic Rage/activities/Trash collection/DroneSmash.wav} @vol}
+#trigger {You push down hard on a plunger.} {#gagline voice}
+#trigger {A very loud crunch is heard as the machine compresses some trash into a cube.} {#if {@gagHarvest = "Enabled"} {#gagline all}; playsound {Cosmic Rage/activities/Trash collection/Crunch.wav} @vol}
+#trigger {*trash collected*} {#if {@gagHarvest = "Enabled"} {#gagline all}}
+#trigger {You lunge forward and, using your best batters swing, 	smack an annoying fly with *} {#gagline all; #if {@buzf = 1} {#pc @buzfHandle stop; #var buzf 0}; playsound {cosmic rage/activities/Trash collection/flydie.wav} @vol} 
+#trigger {You let forth a burst of flame and totally incinerate an annoying fly.} {#if {@buzf = 1} {#pc @buzfHandle stop; #var buzf 0}; #gagline voice;playsound {cosmic rage/activities/trash collection/fryfly.wav} @vol}
+#trigger {You lash out with a coil of electricity and crispy fry an annoying fly. *} {#gagline voice;#if {@buzf = 1} {#pc @buzfHandle stop; #var buzf 0}; playsound {cosmic rage/activities/trash collection/zap.wav} @vol}
+#trigger {You try to telepathicly communicate with an annoying fly, trying to convince * to buzz off.} {#gagline voice;playsound {cosmic rage/activities/trash collection/flymut.wav} @vol}
+#trigger {an annoying fly flies out of the vent.} {#gagline all; #alarm 1{playsound {cosmic rage/activities/trash collection/flygo.wav} @vol}}
+#trigger {An annoying fly *} {#gagline all; playsound {cosmic rage/activities/Trash collection/fly*3.wav} @vol; #var buzfHandle %playHandle; #var buzf 1; #alarm 2 {#var buzfly 0}} 

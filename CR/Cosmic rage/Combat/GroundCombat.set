@@ -1,0 +1,150 @@
+	#var dname "0";
+
+#trigger {* on * * is mangled!} {
+#if {%2 = "droidic"} {
+playsound {Cosmic Rage/general/combat/enemy/drosmash.wav} @gvol;
+#if {@PanShipCombat = "Enabled"} {
+#PC %Playhandle Pan %Random(-2500,3500)}};
+#if {%3 = "droid"} {
+playsound {Cosmic Rage/general/combat/enemy/drosmash.wav} @gvol;
+#if {@PanShipCombat = "Enables"} {
+#PC %Playhandle Pan %Random(-2500,3500)}}}
+#trigger {* dies due to a mangled *.} {#gagline all}
+#trigger {Nothing drop to the ground.} {#gagline all}
+#trigger {It hits * * *} {#if {%1 = "droidic"} {playsound {Cosmic Rage/general/combat/enemy/droid/hurt*3.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,3500)}}; #if {%2 = "embahi"} {playsound {Cosmic Rage/general/combat/enemy/embhit*3.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,3500)}}; #if {%1 = "Baurgan"} {playsound {Cosmic Rage/general/combat/enemy/baurg/hurt*4.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,3500)}}; #if {%1 = "vacus"} {playsound {Cosmic Rage/general/combat/enemy/vacushit*3.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,3500)}}; #if {%2 = "alian"} {playsound {Cosmic Rage/general/combat/enemy/alianhit*3.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,3500)}}; #if {%2 = "droid"} {playsound {Cosmic Rage/general/combat/enemy/droid/bighurt*3.wav}@gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-2500,3500)}}}
+#trigger {* falls to the ground, dead.} {
+#if {%ifword(droidic,%1," ")} {
+playsound {Cosmic Rage/general/combat/enemy/droid/die*3.wav} @gvol};
+#if {%ifword(embahi,%1," ")} {
+playsound {Cosmic Rage/general/combat/enemy/embdie.wav} @gvol};
+#if {%ifword(Baurgan,%1," ")} {
+playsound {Cosmic Rage/general/combat/enemy/baurg/die*2.wav} @gvol};
+#if {%ifword(vacus,%1," ")} {
+playsound {Cosmic Rage/general/combat/enemy/vacusdie.wav} @gvol};
+#if {%ifword(alien,%1," ")} {
+playsound {Cosmic Rage/general/combat/enemy/aliandie*2.wav} @gvol};
+#if {%ifword(wasteland monster,%1," ")} {
+playsound {Cosmic Rage/general/combat/enemy/monsterdie.wav} @gvol};
+#if {%ifword(droid,%1," ")} {
+playsound {Cosmic Rage/general/combat/enemy/droid/bigdie*3.wav} @gvol}}
+#trigger {The stun is absorbed by *} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/stunarmor.wav} @gvol}
+#trigger {a dulfarite dies due to a mangled head.} {playsound {Cosmic Rage/general/combat/enemy/dulfdie.wav} @gvol}
+#trigger {It hits a dulfarite's *} {playsound {Cosmic Rage/general/combat/enemy/dulfhit*3.wav} @gvol}
+#trigger {a dulfarite lunges forward, sinking its teeth into you!} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/dulfatt*3.wav} @gvol; #PC %Playhandle Pan %Random(-1500,1500)}
+
+;room position triggers
+#trigger {You are in the * corner of the room *.} {
+#if {%1 = "northwestern"} {
+playsound {cosmic rage/general/combat/enemy/exits/nw.wav} @gvol};
+#if {%1 = "northeastern"} {
+playsound {cosmic rage/general/combat/enemy/exits/ne.wav} @gvol};
+#if {%1 = "southwestern"} {
+playsound {cosmic rage/general/combat/enemy/exits/sw.wav} @gvol};
+#if {%1 = "southeastern"} {
+playsound {cosmic rage/general/combat/enemy/exits/se.wav} @gvol}}
+#trigger {You are just * of the * corner of the room *.} {
+#if {%1 = "east" and %2 = "northwestern"} {
+playsound {cosmic rage/general/combat/enemy/exits/e.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/nw.wav} @gvol}};
+#if {%1 = "west" and %2 = "northeastern"} {
+playsound {cosmic rage/general/combat/enemy/exits/w.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/ne.wav} @gvol}};
+#if {%1 = "east" and %2 = "southwestern"} {
+playsound {cosmic rage/general/combat/enemy/exits/e.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/sw.wav} @gvol}};
+#if {%1 = "west" and %2 = "southeastern"} {
+playsound {cosmic rage/general/combat/enemy/exits/w.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/se.wav} @gvol}};
+#if {%1 = "south" and %2 = "northwestern"} {
+playsound {cosmic rage/general/combat/enemy/exits/s.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/ne.wav} @gvol}};
+#if {%1 = "south" and %2 = "northeastern"} {
+playsound {cosmic rage/general/combat/enemy/exits/s.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/ne.wav} @gvol}};
+#if {%1 = "north" and %2 = "southwestern"} {
+playsound {cosmic rage/general/combat/enemy/exits/n.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/sw.wav} @gvol}};
+#if {%1 = "north" and %2 = "southeastern"} {
+playsound {cosmic rage/general/combat/enemy/exits/n.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/se.wav} @gvol}}}
+#trigger {You are in the middle of the * side of the room *.} {
+#if {%1 = "northern"} {
+playsound {cosmic rage/general/combat/enemy/exits/n.wav} @gvol};
+#if {%1 = "eastern"} {
+playsound {cosmic rage/general/combat/enemy/exits/e.wav} @gvol};
+#if {%1 = "southern"} {
+playsound {cosmic rage/general/combat/enemy/exits/s.wav} @gvol};
+#if {%1 = "western"} {
+playsound {cosmic rage/general/combat/enemy/exits/w.wav} @gvol}}
+#trigger {You are in the center of the room *.} {
+playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}
+	#trigger {You are just * of the * of the room *.} {
+#if {%1 = "northwest" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/nw.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}};
+#if {%1 = "north" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/n.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}};
+#if {%1 = "northeast" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/ne.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}};
+#if {%1 = "west" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/w.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}};
+#if {%1 = "east" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/e.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}};
+#if {%1 = "southwest" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/sw.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}};
+#if {%1 = "south" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/s.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}};
+#if {%1 = "southeast" and %2 = "center"} {
+playsound {cosmic rage/general/combat/enemy/exits/se.wav} @gvol; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/exits/center.wav} @gvol}}}
+
+#trigger {* goes up in flames.} {playsound {Cosmic Rage/general/combat/enemy/coverblow.wav} @gvol}
+#trigger {You pull back a small lever on * and hear a hum as charge filters into the weapon.} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/reload.wav} @gvol}
+#trigger {* straightens up fully and grins maliciously, having been recloned right in front of you!} {playsound {Cosmic Rage/general/combat/enemy/vacusclone.wav} @gvol}
+#trigger {You flick * and set fire to *} {playsound {Cosmic Rage/general/combat/enemy/lighter.wav} @gvol}
+#trigger {* bursts into flames and burns away.} {playsound {Cosmic Rage/general/combat/enemy/vacusfry.wav} @gvol}
+#trigger {* spits something at *} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/spit.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#trigger {*shoots a tiny stun weapon at *} {#gagline voice;playsound {Cosmic Rage/general/combat/stungun.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#trigger {* opens fire on * with a * rifle.} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/rifle*3.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#trigger {*shoots a nasty gun at *} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/gun*3.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#trigger {* of MI ground patrol * thunders towards * slashing with a sword.} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/pslash.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#trigger {* of MI ground patrol * breathes a column of flame at *} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/pbreathe.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#trigger {* of MI ground patrol * shoots at * with a* MI rifle.} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/pshoot*2.wav} @gvol; #if {@PanShipCombat = "Enabled"} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#TRIGGER {tail: *} {#ungagon};
+#TRIGGER {* scale} {#var dname "dragon"};
+#TRIGGER {*swings his trunk at *} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/baurg/trunk*2.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*Baurgan * kicks *} {#gagline voice;playsound {cosmic rage/general/combat/enemy/baurg/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)};#alarm 0.3 {playsound {cosmic rage/general/combat/enemy/kick*2.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*lets out a sonic wave at *} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/baurg/sonic.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*roles something from under its trunk.} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/baurg/trunk.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*stabs at * with a tiny blade!} {#gagline voice;playsound {cosmic rage/general/combat/enemy/vacus/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/tinyblade.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*swings a * blade at *} {#gagline voice;playsound {cosmic rage/general/combat/enemy/vacus/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/largeblade.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*shoots a nasty looking gun at *} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/gun*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*swings a tentakle at *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/vacus/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/tentackle.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#trigger {*slimes you!} {#gagline voice;playsound {cosmic rage/general/combat/enemy/vacus/att*3.wav} @gvol; #if {@panshipcombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)};#alarm 0.3 {playsound {cosmic rage/general/combat/enemy/vacus/slime.wav} @gvol; #if {@panshipcombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*shoots a nasty looking rifle at *} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/rifle.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*slaps * about with its tentakles.} {#gagline voice; playsound {cosmic rage/general/combat/enemy/vacus/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/tentackle.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*shoots a tiny stun weapon at *} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/stungun.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*slams a tentakle into * chest!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/vacus/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/tentackle.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {* shakes like a dog, sending toxic slime everywhere!} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/shake.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*roars with fury and then bashes * upside the head with its fists.} {#gagline voice;  playsound {cosmic rage/general/combat/enemy/vpunch*2.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*shoots a small pistol at *} {#gagline voice;playsound {cosmic rage/general/combat/enemy/droid/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 1 {playsound {cosmic rage/general/combat/enemy/smallpist.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*lets a grenade fly!} {#gagline voice;playsound {cosmic rage/general/combat/enemy/droid/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 1 {playsound {cosmic rage/general/combat/enemy/grenade.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*gives * an electric shock!} {#gagline voice;playsound {cosmic rage/general/combat/enemy/droid/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/shock.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*shoots a small cannon at *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/smallcannon.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*fires a shell right into * face!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/shell.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*makes a rumbling noise, and rolls *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/grenade2.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*a concentrated beam of energy *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/energy.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*fires a plasma rifle at *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/plasrifle.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*shoots a stun pistol at *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/stungun.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*opens fire on * with a machine gun!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/machine2.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*rams head first into *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/ram.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*tosses a plasma bomb into the air!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/plagrenade.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*tosses a plasma grenade into the air, then shoots it!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/plagrenade.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*shoots a stun rifal at *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/stungun.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#TRIGGER {*shoots a stun cannon at *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/smallcannon.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*wheels around and opens fire with a laser machine gun!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/machine1.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*fires * sniper at *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/sniper.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*bombards the area with shells!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/shells.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*powers up a mini cannon and fires it at * face!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/cannon.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*fires up a mini cannon and fires it straight into your face!} {#gagline voice; playsound {cosmic rage/general/combat/enemy/droid/bigatt*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.3 {playsound {cosmic rage/general/combat/enemy/cannon.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*embahi * boots *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/embahi/att*3.wav} 40; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/kick*2.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*embahi * bodysslams *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/embahi/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/bodyslam.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {*embahi * slashes *} {#gagline voice; playsound {cosmic rage/general/combat/enemy/embahi/att*3.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 0.2 {playsound {cosmic rage/general/combat/enemy/slash.wav} @gvol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#trigger {* * * is mangled.} {#if {%2 = "droid"} {playsound {cosmic rage/general/combat/enemy/drosmash.wav} @gvol}; #alarm 0.3 {playsound {cosmic rage/general/combat/break*4.wav} @gvol}}
+#trigger {* erupts into a pillar of flame.} {playsound {Cosmic Rage/general/combat/enemy/droid/bigdie*3.wav} @gvol}
+#trigger {*wasteland monster swings a fist at you, and misses!} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/monstermiss.wav} @gvol}
+#trigger {*wasteland monster punches you.} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/monsterpunch.wav} @gvol}
+#trigger {* lunges from out of a pile of trash!} {#gagline voice;playsound {Cosmic Rage/general/combat/enemy/monsterapp.wav} @gvol}
+#trigger {The head of * sails away, cleanly knocked off.} {#gagline all}
+#trigger {Looks like that was the last one.} {playsound {cosmic rage/general/combat/beep.wav} @vol}
+#TRIGGER {* performs emergency repairs on *} {playsound {cosmic rage/general/combat/enemy/droid/repair.wav} @gvol; #sub {%2 is repaired on %1}}

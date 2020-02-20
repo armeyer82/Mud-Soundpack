@@ -1,0 +1,147 @@
+#TRIGGER {You draw a * from *} {
+#if {%ifWord(standard laser pistol,%1," ")} {
+playsound {cosmic rage/general/combat/drawPistol.wav} @gvol};
+#if {%ifWord(shotgun,%1," ")} {
+playsound {cosmic rage/general/combat/DrawShotgun.wav} @gvol};
+#if {%ifWord(rifle,%1," ")} {
+playsound {cosmic rage/general/combat/DrawRifle.wav} @gvol};
+#if {%ifWord(sniper,%1," ")} {
+playsound {cosmic rage/general/combat/DrawSniper.wav} @gvol}}
+#trigger {You breathe *flame*} {playsound {cosmic rage/general/combat/dragons/FireBreath*2.wav} @gvol}
+#trigger {* let* out a bellowing roar!} {
+#gagline voice;
+playsound {cosmic rage/general/combat/dragons/dragonRoar.wav} @gvol}
+#trigger {* lunge* at * brandishing * wickedly sharp * claws!} {
+#gagline voice;
+playsound {cosmic rage/general/combat/dragons/dragonClaw.wav} @gvol}
+#trigger {* let* out a ferocious snarl and sink * teeth into *} {
+#gagline voice;
+playsound {cosmic rage/general/combat/dragons/dragonBite.wav} @gvol}
+#trigger {* viciously whip* out * tail.} {
+#gagline voice;
+playsound {cosmic rage/general/combat/dragons/tailwhip.wav} @gvol}
+#trigger {* belch* up a fireball.} {
+#gagline voice;
+playsound {cosmic rage/general/socials/burp.wav} @gvol}
+#trigger {* swallow* the fireball down and blow* out clouds of choaking smoke!} {
+#gagline voice;
+playsound {cosmic rage/general/combat/dragons/firebreath*2.wav} @gvol}
+#trigger {You throw back your head and let out * scream at *} {
+#gagline all;
+playsound {cosmic rage/general/combat/sonic scream.wav} @gvol}
+#trigger {You give * a huge robot punch!} {
+#gagline all;
+playsound {cosmic rage/general/combat/robot punch.wav} @gvol}
+#trigger {* lash* out at * with a violent robot kick!} {
+#gagline all;
+playsound {cosmic rage\general\combat\rkick.wav} @gvol}
+#trigger {* bash* into * knocking * to the ground.} {
+#gagline voice;
+playsound {cosmic rage/general/combat/dragons/bash*2.wav} @gvol}
+#trigger {a wasteland monster claws at you!} {
+#gagline voice;
+playsound {cosmic rage/general/combat/monsterClaw.wav} @gvol}
+#trigger {* pull* the pin on * grenade} {
+#gagline all;
+playsound {cosmic rage/general/combat/grenadePull.wav} @gvol}
+#trigger {* hurl* * grenade *} {
+#gagline all;
+playsound {cosmic rage/general/combat/grenade throw.wav} @gvol}
+#trigger {* raise* the stun gun attached to * and shoot * ray at *} {
+#gagline all;
+playsound {cosmic rage/general/combat/larkanstungun.wav} @gvol}
+#trigger {* raises * and shoots * ray of energy at you.} {
+#gagline voice;
+playsound {cosmic rage/general/combat/ray.wav} @gvol}
+#trigger {* pull* back a small lever on * and hear* a satisfying click as a new round slides into place.} {playsound {Cosmic Rage/general/combat/Reload.wav} @gvol; #gagline all}
+#trigger {* pivots and then fires a shell *.} {playsound {Cosmic Rage/general/combat/Fire.wav} @gvol; #gagline voice}
+#trigger {A shrill whistle echoes through the air.} {playsound {Cosmic Rage/general/combat/whistle.wav} @gvol; #gagline voice}
+#trigger {A shell streams into the room, hitting dead center and bursting into a column of fire.} {playsound {Cosmic Rage/general/combat/ShellExplode.wav} @gvol; #gagline voice}
+#trigger {A huge column of flame erupts in the sky to the *} {playsound {Cosmic Rage/general/combat/Fire2.wav} @gvol; #gagline voice}
+#trigger {Destruction timer activated.} {playsound {Cosmic Rage/general/combat/Timer.wav} @gvol; #gagline voice}
+#trigger {* bursts into flames and explodes!} {playsound {Cosmic Rage/general/combat/Explosion.wav} @gvol; #gagline voice}
+#trigger {Level * online.} {playsound {Cosmic Rage/general/combat/alarm.wav} @gvol}
+#trigger {* erupts in a huge column of flame.} {playsound {Cosmic Rage/general/combat/Fire2.wav} @gvol; #gagline voice}
+#trigger {You hear an explosion from the *} {playsound {Cosmic Rage/general/combat/GrenadeExplodeNextRoom.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %PlayHandle Pan %Random(-4000,4000)}} {} AnyCase
+#trigger {You connect up the wires and the generator stabalises.} {playsound {Cosmic Rage/general/combat/AtmosphericGenerator.wav} @gvol}
+#trigger {*grenade explodes!} {playsound {Cosmic Rage/general/combat/GrenadeExplode.wav} @gvol}
+#trigger {* mapper makes a warning trill, and a red arrow indicates *} {playsound {Cosmic Rage/general/combat/enemy detected.wav} @gvol; #additem Mapper %0;
+#sub {%2}}
+#trigger {You throw off the stun!} {playsound {Cosmic Rage/general/combat/ThrowOffStun.wav} @gvol}
+#trigger {A shimmering forcefield intersepts all of the force behind the hit*} {#gagline all; playsound {Cosmic Rage/general/combat/stun crystal.wav} @gvol}
+#trigger {You aren't stunned. Whew!} {playsound {Cosmic Rage/general/combat/ThrowOffStun.wav} @gvol}
+#trigger {a bright red curtain of flame sweeps into the room.} {playsound {cosmic rage/general/combat/dragons/firebreath1.wav} @gvol}
+#trigger {* snatch* up * and spray* it*} {playsound {Cosmic Rage\ships\fire\extinguisher.wav} @gvol}
+
+#var targetgun 1
+#var target 1
+#trigger {*, current target position.} {
+#if {%1 = "8"} {
+playsound {Cosmic Rage/general/combat/target/target.wav}  @gvol;
+#if {@panship = "Enabled"} {
+#PC %Playhandle Pan 3000;
+#Var target 3000}};
+#if {%1 = "9"} {
+playsound {Cosmic Rage/general/combat/target/target.wav}  @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan 4000;
+#Var target 4000}};
+#if {%1 = "10"} {
+playsound {Cosmic Rage/general/combat/target/target.wav}  @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan 5000;
+#Var target 5000}};
+#if {%1 = "1"} {
+playsound {Cosmic Rage/general/combat/target/target.wav} @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan -4000;
+#Var target -4000}};
+#if {%1 = "2"} {
+playsound {Cosmic Rage/general/combat/target/target.wav} @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan -3000;
+#Var target -3000}};
+#if {%1 = "3"} {
+playsound {Cosmic Rage/general/combat/target/target.wav} @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan -2000;
+#Var target -2000}};
+#if {%1 = "4"} {
+playsound {Cosmic Rage/general/combat/target/target.wav} @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan -1000;
+#Var target -1000}};
+#if {%1 = "5"} {
+playsound {Cosmic Rage/general/combat/target/target.wav} @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan 0;
+#Var target 0}};
+#if {%1 = "6"} {
+playsound {Cosmic Rage/general/combat/target/target.wav} @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan 1000;
+#Var target 1000}};
+#if {%1 = "7"} {
+playsound {Cosmic Rage/general/combat/target/target.wav} @gvol;
+#if {@panshipcombat = "Enabled"} {
+#PC %Playhandle Pan 2000;
+#Var target 2000}}}
+#trigger {Your foam dart bounces off of the wall behind the target.} {#gagline all; playsound {Cosmic Rage/general/combat/target/wall.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan @targetgun}}
+#trigger {Your foam dart thwumps into the target.} {#gagline all; playsound {Cosmic Rage/general/combat/target/smash.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan @targetgun}}
+#trigger {You aim carefully and fire a foam dart at position *.} {playsound {Cosmic Rage/general/combat/target/shoot.wav} @gvol; #if {%1 = "8"} {playsound {Cosmic Rage/general/combat/target/bullet.wav}  @gvol; #if {@panShipCombat = "Enabled"} {#PC %Playhandle Pan 3000; #Var targetgun 3000}}; #if {%1 = "9"} {playsound {Cosmic Rage/general/combat/target/bullet.wav}  @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan 4000; #Var targetgun 4000}}; #if {%1 = "10"} {playsound {Cosmic Rage/general/combat/target/bullet.wav}  @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan 5000; #Var targetgun 5000}}; #if {%1 = "1"} {playsound {Cosmic Rage/general/combat/target/bullet.wav}  @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan -4000; #Var targetgun -4000}}; #if {%1 = "2"} {playsound {Cosmic Rage/general/combat/target/bullet.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan -3000; #Var targetgun -3000}}; #if {%1 = "3"} {playsound {Cosmic Rage/general/combat/target/bullet.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan -2000; #Var targetgun -2000}}; #if {%1 = "4"} {playsound {Cosmic Rage/general/combat/target/bullet.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan -1000; #Var targetgun -1000}}; #if {%1 = "5"} {playsound {Cosmic Rage/general/combat/target/bullet.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan 0; #Var targetgun 0}}; #if {%1 = "6"} {playsound {Cosmic Rage/general/combat/target/bullet.wav} @gvol; #if {@panshipcombat"} {#PC %Playhandle Pan 1000; #Var targetgun 1000}}; #if {%1 = "7"} {playsound {Cosmic Rage/general/combat/target/bullet.wav} @gvol; #if {@panshipcombat = "Enabled"} {#PC %Playhandle Pan 2000; #Var targetgun 2000}}}
+#trigger {You take in a long breath...} {#gagline all; playsound {cosmic rage/general/combat/dragons/firecloak.wav} @gvol}
+#trigger {You take in another breath, and feel the fire building up inside you.} {#gagline all}
+#trigger {You rush into * knocking * to the ground.} {#gagline all; playsound {cosmic rage/general/combat/dragons/dragonrush.wav} @gvol}
+#trigger {A spray of bullets are fired from *} {#gagline all; playsound {cosmic rage/general/combat/vehicles/machineout.wav} @gvol}
+#trigger {A strange rattling echoes throughout the vehicle.} {#gagline all; playsound {cosmic rage/general/combat/vehicles/machinein.wav} @gvol}
+#trigger {the turrets on The * swivvle to point *} {#gagline all;
+playsound {cosmic rage/general/combat/vehicles/turout.wav} @gvol}
+#trigger {You hear a scraping noise.} {#gagline all; playsound {cosmic rage/general/combat/vehicles/turin.wav} @gvol}
+#trigger {You hold * breathe * into it, forming a fireball.} {#gagline all; playsound {cosmic rage/general/combat/dragons/fireball.wav} @gvol}
+#trigger {You hear a whoosh as a rocket fires.} {playsound {cosmic rage/general/combat/vehicles/rocket.wav} @gvol}
+#trigger {A rocket shoots from the turret of * straight towards *} {playsound {cosmic rage/general/combat/vehicles/rocket.wav} @gvol}
+#trigger {You blow out *} {#gagline all; playsound {cosmic rage/general/combat/dragons/fireblow.wav} @gvol}
+#trigger {* take* cover!} {playsound {Cosmic Rage/general/combat/cover.wav} @gvol}
+#trigger {* struggles to try and do something, but can't.} {#sub {%1 is stunned.};playsound {cosmic Rage/general/combat/stunned.wav} @gvol}
+#trigger {You heave at some of the rocks and debris.} {#gagline all;playsound {cosmic Rage/general/misc/unblock.wav} @gvol}
+#trigger {Blood splatters on *} {playsound {Cosmic Rage/general/combat/blood.wav} @gvol}

@@ -1,0 +1,9 @@
+#trigger {* Micro-wormhole Transportation Pod suddenly falls with a crash, the doors sliding open a moment later.} {#gagline all; playsound {Cosmic Rage/general/mwtp/microdi.wav} @vol}
+#trigger {There is a ripple just above the * before, with a flash, Micro-wormhole Transportation Pod launches upwards and straight into it!} {#gagline all; playsound {Cosmic Rage/general/mwtp/microdk.wav} @vol}
+#trigger {There is a slight pause while the doors are secured, then, with no warning, the pod rockets upwards!} {#gagline all; playsound {Cosmic Rage/general/mwtp/microik.wav} @vol}
+#trigger {In a weird moment that leaves many with vertigo, the pod goes from ascending, to violently descending.} {#gagline all; playsound {Cosmic Rage/general/mwtp/microii.wav} @vol}
+#trigger {The pod shakes violently!} {#gagline all}
+#trigger {There is a powerful hum as shielding is powered up.} {#gagline all}
+#trigger {A strange sound, almost like growling, fills the room and there is the dull thud of something hitting the outside of the pod.} {#gagline all}
+#trigger {There is a bone-rattling crash as the pod suddenly comes to a stop and the doors swing open.} {#gagline all}
+#trigger {The pod continues to drop, the shielding suddenly being taken offline.} {#gagline all}

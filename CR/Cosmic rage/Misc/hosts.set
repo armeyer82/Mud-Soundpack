@@ -1,0 +1,18 @@
+#TRIGGER {[[]administrators]: *just opened a service request with the subject of*} {playsound {Cosmic Rage\hosts\Assist.wav} @vol} {} AnyCase
+#TRIGGER {[[]Report!], *} {playsound {Cosmic Rage\hosts\Report.wav} @vol}
+#TRIGGER {[[]Suggestion!], *} {playsound {Cosmic Rage\hosts\Suggest.wav} @vol}
+#trigger {[[]Administrators]: Report, * has been resolved by *} {playsound {cosmic rage/hosts/dasar.wav} @vol}
+#trigger {SDL Star Admiral Brandon Red designation makes a four four motion in the air as he moves into the next measure he leaps threw the center of the cross never to be seen again.} {playsound {Cosmic Rage/hosts/brandon.wav} @vol}
+#trigger {you see a clawed hand move threw the air in a four four motion as it enters the next measure SDL Star Admiral Brandon Red designation appears.} {playsound {Cosmic Rage/hosts/brandon.wav} @vol}
+#trigger {* starting checkpoint. Database last checkpointed *} {playsound {Cosmic Rage/hosts/Checkpoint.wav} @vol} {} AnyCase
+#trigger {[[]Admin chat]*} {playsound {Cosmic Rage/hosts/AdminChat.wav} @vol; #additem AdminChat %0; #if {@ChannelLogging = 1} {#file 1 {cosmic rage/logs/%char AdminChat.log}; #write 1 %0;#close 1}} {} AnyCase
+#TRIGGER {[[]administrators]*} {playsound {Cosmic Rage\hosts\AdminTalk.wav} @vol; #additem Admin %0; #if {@ChannelLogging = 1} {#file 1 {cosmic rage/logs/%char admin.log};#write 1 %0;#close 1}} {} AnyCase
+#trigger {The * pause in their daily ruteen to recognise the achievements of the mortal *} {playsound {Cosmic Rage/hosts/transform.wav} @vol;  {#sub {The hosts pause in their daily ruteen to recognise the achievements of the mortal  %2} }}
+#trigger {You hear a sound like the opening of a beer bottle. Then with a hiss and pop followed by the smell of sweet smoke, * appears.} {playsound {Cosmic Rage/hosts/biliin.wav} @vol}
+#trigger {with a wink and a half hearted salute, * *vanishes.} {playsound {Cosmic Rage/hosts/biliin.wav} @vol}
+
+#trigger {A full moon appears in the sky, down from which * descends on ghostly silver wings.} {playsound {Cosmic Rage/hosts/larain.wav} @vol}
+#trigger {A pair of ghostly silver wings spread out from * back and she lifts her arms, ascending into the heavens and vanishing into a sheet of moonlight.} {playsound {Cosmic Rage/hosts/laraout.wav} @vol}
+#trigger {* has just been killed!} {playsound {Cosmic Rage/hosts/kill1.wav} @vol} {} AnyCase
+#trigger {* materialises in your hand.} {playsound {Cosmic Rage/hosts/mater.wav} @vol} {} AnyCase
+#trigger {The entire universe gives a tremble of terror as godly bolts of energy thunder down from the sky., *} {playsound {Cosmic Rage/hosts/evil.wav} @vol} {} AnyCase

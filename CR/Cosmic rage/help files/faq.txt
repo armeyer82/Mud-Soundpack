@@ -1,0 +1,13 @@
+here you can find the ansers of most asked questions.
+q, help, my ship sounds arent playing, did i break the pack?
+a, possibly no, if your pack is up to date, try typing soundproof in your ships control room.
+q, a sound just stuck looping, what do i do and its anoying.
+a, type eather stopsound or ctrl f11
+q, i want to be added to the shared folder, what do i do
+a, you will have to send an ingame mail or an o t r message to a VIP experience admin about that request
+q, i'M a sound/music composer myself, can my work be included in the pack?
+a, of course! if you send a suggestion along with a link containing your sound or music, we'Ll gladly consider it :)!
+q, i want to suggest something, how can i do it?
+ a, type spsuggest, and be detailed as possible, dont forgot to include the text that your game refers too, for example, if you want a sound when you sit, try to include this text, you sit at the ground
+q, ug, help my pack gives an error and it says something about cosmicrageBufferlist.txt
+a, type fixbuffers, it'll probably fix it, if it doesnt, report it using spbug

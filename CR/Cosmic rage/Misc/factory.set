@@ -1,0 +1,148 @@
+#trigger {You hear a dull thrumming roar as a laser is fired.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/laser.wav} @vol}
+#trigger {The * computer announces: "*"} {#sub {%2};
+#if {%ifword(factory,%1," ")} {
+playsound  {cosmic rage/general/factory\computer*6.wav} 30} {} AnyCase;
+#if {%ifword(large factory,%1," ")} {
+playsound  {cosmic rage/general/factory\computer*6.wav} 30} {} AnyCasease;
+#if {%ifword(Starbase,%1," ")} {
+playsound  {cosmic rage/general/factory\computer*6.wav} 30} {} AnyCase;
+#if {%ifword(mini space station,%1," ")} {
+playsound  {cosmic rage/general/factory\computer*6.wav} 30} {} AnyCase;
+#if {%ifword(space station,%1," ")} {
+playsound  {cosmic rage/general/factory\computer*6.wav} 30} {} AnyCase;
+#if {%ifword(artificial,%1," ")} {
+playsound  {cosmic rage/general/factory\computer*6.wav} 30}} {} AnyCase
+#trigger {* wheel in and drop off *} {
+#gagline voice;
+playsound  {cosmic rage/general/factory/chunk.wav} @vol}
+#trigger {The room begins to fill with smoke from the refiner.} {
+playsound {cosmic rage\activities\planetoid\gas.wav} @vol}
+#trigger {You see the ores, now superheated, get pushed into a tank.} {
+#sub {The ores are pushed into a tank.};
+playsound {cosmic rage\general\factory\tumbling.wav} @vol}
+
+#trigger {You hear a clang as a drone docks.} {
+#gagline all;
+playsound  {cosmic rage/activities/mechanicalMining/slam.wav} @vol}
+#trigger {The ever present hum of the primary systems come to a halt and the lights suddenly dim.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/factoryPowerDown.wav} @vol}
+#trigger {A deep thrumming hum fills the * and the lights brighten as the primary power systems are brought online.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/factoryPowerup.wav} @vol}
+#trigger {You begin to maneuver a lever on the main control console.} {
+#gagline all;
+playsound  {cosmic rage/vehicle/lever.wav} @vol}
+#trigger {You hear a grinding whirring sound.} {
+#gagline all;
+playsound  {cosmic rage/activities/planetoid/grind.wav} @vol}
+#trigger {The grinding sound of solar panels fills the *} {
+#gagline all;
+playsound  {cosmic rage/activities/planetoid/grind.wav} @vol}
+#trigger {You hear a loud boom and the * exit suddenly explodes.} {#gagline all;
+playsound {cosmic rage/general/factory/explode.wav} @vol}
+#trigger {You hear a faint rumbling sound.} {#gagline all;
+playsound {cosmic rage/general/factory/rumbling.wav} @vol}
+#trigger {You type quickly into a nearby console and then start the refining process.} {
+#gagline all;
+playsound  {cosmic rage/ships/computer/keyboard*7.wav} @vol}
+#trigger {There is a whine and then a hell of a lot of noise as mineral ores are dumped into the refiner.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/dumpingOre.wav} @vol}
+#trigger {Airvents near the ceiling suddenly pop open and you hear a fan activate.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/fanActivate.wav} @vol}
+#trigger {You hear a fan begin to fire up from somewhere.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/fan.wav} @vol}
+#trigger {You hear a loud, ominous crash.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/crash.wav} @vol}
+#trigger {A deafening whirr echoes throughout the area.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/whirr.wav} 80}
+#trigger {A rumbling noise fills the station.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/rumbling.wav} @vol}
+#trigger {You feel the station rock suddenly and hear a loud clang.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/clang.wav} @vol}
+#trigger {You hear a low hum and the floor beneath your feet shakes a little.} {
+#gagline all;
+playsound  {cosmic rage/activities/planetoid/low hum.wav} @vol}
+#trigger {You hear a heavy grinding noise as the pulverizers start up.} {
+#gagline all;
+playsound  {cosmic rage/activities/planetoid/grind.wav} @vol}
+#trigger {A loud crashing and tumbling noise echoes throughout the station.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/tumbling.wav} @vol}
+#trigger {From the ground rise solid clamps which grab * tightly.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/clamps.wav} @vol}
+#trigger {A huge crushing device slams into the top of the ship!} {
+#gagline all;
+playsound  {cosmic rage/general/factory/crush.wav} @vol}
+#trigger {A huge explosion rips the hull of * apart!} {
+#gagline all;
+playsound  {cosmic rage/general/factory/explode.wav} @vol}
+#trigger {Another grabber slams * and rocks it violently!} {
+#gagline all;
+playsound  {cosmic rage/general/factory/shipslam.wav} @vol}
+#trigger {Some drones zoom out carrying bags and bags of minerals.} {
+playsound  {cosmic rage/general/misc/DroidLeaves.wav} @vol}
+#trigger {You carefully pour the milk from * milk jug into containers in * freezer.} {
+#gagline all;
+playsound  {cosmic rage/general/factory/pourMilk*2.wav} @vol}
+#trigger {The sound of crashing, drilling and hammering can be heard as repair drones continue to repair the Factory} {
+#gagline all;
+playsound  {cosmic rage/general/factoryRepair.wav} @vol}
+#trigger {[[]* announcement from *],*} {playsound  {cosmic rage/general/factory/PA.wav} @CommsVol; #additem PA %0} {} AnyCase
+#trigger {Charge readout:} {
+playsound  {cosmic rage/general/factory/computer*6.wav} @vol}
+#trigger {Damage report:} {
+playsound  {cosmic rage/general/factory/computer*6.wav} @vol}
+#trigger {You type in some codes into the main control console.} {
+#gagline all;
+playsound  {cosmic rage/ships/computer/keyboard*7.wav} @vol}
+#trigger {A huge laser splits * apart!} {playsound  {Cosmic Rage/general/factory/hugeLaser.wav} @vol}
+#trigger {Some drones wheel in and carry off some minerals.} {#gagline all}
+
+#trigger {A drone wheels in and drops off some debris.} {#gagline all}
+#trigger {You hear a voice over the tannoy: All pilots please clear * we have an inbound starship.} {playsound {Cosmic Rage/general/factory/Tannoy.wav} @vol}
+#trigger {You hear a voice over the tanoy: Attention: * undocking from *} {playsound {Cosmic Rage/general/factory/Tannoy.wav} @vol}
+#trigger {* announcement, * just teleported *} {playsound {Cosmic Rage/general/factory/Tannoy.wav} @CommsVol}
+#trigger {You hear an urgent hammering noise followed by an explosion.} {
+playsound {cosmic rage\general\factory\explode.wav} @vol}
+#trigger {Some drones wheel in, set down a massive tank of * then wheel out again.} {
+#sub {Drones wheel in and drop off a tank of %1.};
+playsound {cosmic rage\general\factory\GasTank.wav} @vol}
+#trigger {Some drones wheel out, carrying refined resources.} {#gagline all; playsound {cosmic rage/general/factory/droneout.wav} @vol};
+#trigger {A few drones wheel in carrying some items.} {#gagline all; playsound {cosmic rage/general/factory/dronein.wav} @vol}
+#trigger {Some drones drop off debris into a tank.} {#gagline all; playsound {cosmic rage/general/factory/dronein.wav} @vol}
+
+#trigger {A drone uses an internal welding torch to fuse two items together.} {#gagline all; playsound {cosmic rage/general/factory/build5.wav} @vol}
+#trigger {A panel suddenly opens on the drone, revealing a long arm tipped with a heavy hammer. In a series of quick movements, it hammers furiously at a component.} {#gagline all; playsound {cosmic rage/general/factory/build2.wav} @vol}
+#trigger {A small drawer slides out of the drone, revealing lots of screws.} {#gagline all; playsound {cosmic rage/general/factory/build1.wav} @vol}
+#trigger {A drone furiously smashes its hammer into a component.} {#gagline all; playsound {cosmic rage/general/factory/build4.wav} @vol}
+#trigger {A drone hammers at a component.} {#gagline all; playsound {cosmic rage/general/factory/build4.wav} @vol}
+#trigger {A panel pops open on the drone and a small saw comes out, promptly slicing up something into smaller bits.} {#gagline all; playsound {cosmic rage/general/factory/build3.wav} @vol}
+#trigger {There is a whoosh as water gushes through a series of tubes.} {#gagline all; playsound {cosmic rage/general/factory/water.wav} @vol}
+#trigger {A loud hiss escapes as * is pressurized. } {#gagline all; playsound {cosmic rage/activities/planetoid/air.wav} @vol}
+#trigger {* disappears in a column of blue-white particles.} {#gagline all; playsound {cosmic rage/general/factory/droneout.wav} @vol}
+#trigger {A hydraulic arm swivels over and drops off a tank of oxygen and a tank of hydrogen.} {#gagline all; playsound {cosmic rage/general/factory/dronein.wav} @vol}
+#trigger {A soft hissing can be heard coming from the air recyclers.} {#gagline all; playsound {cosmic rage/activities/planetoid/air.wav} @vol}
+#trigger {The air scrubbers power up with a gentle rumble.} {#gagline all; playsound {cosmic rage/general/factory/factorypowerup.wav} @vol}
+#trigger {The air scrubbers slowly grind to a halt.} {#gagline all; playsound {cosmic rage/activities/planetoid/low hum.wav} @vol}
+#trigger {A loud hissing can be heard as carbon dioxide is scrubbed from the air and pumped into a holding tank.} {#gagline all; playsound {cosmic rage/activities/planetoid/air.wav} @vol}
+#trigger {One of the drones topples over.} {#gagline all; playsound {cosmic rage/general/factory/build6.wav} @vol}
+#trigger {The drones continue working} {#gagline all; playsound {cosmic rage/general/factory/build*5.wav} @vol}
+#trigger {You empty * pieces of debris into the refinery.} {playsound {cosmic rage/general/factory/can.wav} @vol}
+#trigger {You begin to milk your cows.} {#gagline all;
+playloop {cosmic rage/general/factory/milk.wav} @vol; #var milkhandle %playhandle}
+#trigger {You finish milking the cows.} {#gagline all;
+#pc @milkhandle stop}
+#trigger {The sound of scrapes and bangs can be heard as drones move about.} {playsound {cosmic rage/general/factory/clang.wav} @vol}
+#trigger {A huge foot comes down, smashing the bricks into salinarum!} {playsound {cosmic rage/general/factory/crushbrick.wav} @vol}
+#trigger {You pull down a large lever.} { #gagline all; playsound {cosmic rage/vehicle/lever.wav} @vol}

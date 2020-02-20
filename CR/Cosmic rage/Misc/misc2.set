@@ -1,0 +1,35 @@
+#TRIGGER {You find a * snowball!} {playsound {cosmic rage/general/misc/snowgather*2.wav} @vol} {}
+#TRIGGER {You roll a * snowball into A snow *.} {playsound {cosmic rage/general/misc/snowball.wav} @vol} {}
+#TRIGGER {You roll a * snowball into a * snowball.} {playsound {cosmic rage/general/misc/snowball.wav} @vol} {}
+#TRIGGER {a * snowball hits * straight in the face!} {playsound {cosmic rage/general/misc/snowhit.wav} @vol} {}
+#TRIGGER {A snow * hits * straight in the face!} {playsound {cosmic rage/general/misc/snowhit.wav} @vol} {}
+#TRIGGER {The mountain shudders violently!} {playsound {cosmic rage/general/misc/volcano.wav} @vol} {}
+#TRIGGER {In the distance, you see * erupt in a huge column of flame and ash!} {playsound {cosmic rage/general/misc/volcano.wav} @vol} {}
+#TRIGGER {Smoke begins to rise from * in the distance.} {playsound {cosmic rage/general/misc/volcano.wav} @vol} {}
+#TRIGGER {You hear a cheer rise up from an invisible crowd. * has just chosen nightmare mode!} {playsound {cosmic rage/general/misc/nightmare.wav} @vol} {}
+#TRIGGER {You hear the roar of an approving crowd. * just entered hardcore mode!} {playsound {cosmic rage/general/misc/hardcore.wav} @vol} {}
+#TRIGGER {You hear clapping. * just reverted to * mode!} {playsound {cosmic rage/general/misc/normal.wav} @vol}
+#TRIGGER {The yellow light turns green and a tray slides out, holding *} {playsound {cosmic rage/general/misc/food.wav} @vol}
+#TRIGGER {* plays a cheery tune, informing you someone just *} {playsound {cosmic rage/general/misc/comp.wav} @vol}
+#TRIGGER {You pick one with *} {#gagline all; playsound {cosmic rage/general/combat/dragons/sharpen.wav} @vol}
+#TRIGGER {You run your claws along the edge of the rock, slowly sharpening them.} {#gagline all}
+#TRIGGER {You change your angle, and sharpen the tips of the claws.} {#gagline all}
+#trigger {You finish sharpening your claws, and shove the rock into the water with a splash.} {#gagline all; playsound {Cosmic Rage/general/combat/armor/water.wav} @vol}
+#TRIGGER {You enter * and then tap * on * LCD screen.} {playsound {cosmic rage/general/misc/connection1.wav} @vol; #alarm 0.1 {playsound {cosmic rage/general/misc/connection2.wav} @vol}}
+#TRIGGER  {* hums a little.} {#gagline all; playsound {cosmic rage/general/misc/food.wav} @vol}
+#TRIGGER  {You step onto the recharging station.} {#gagline all; playsound {cosmic rage/general/misc/larkancharge.wav} @vol; #alarm 4.7 {loopsound {cosmic rage/general/misc/lark.wav} @vol; #var larkanHandle %playHandle; #var larkan 1}}
+#trigger {You step down from the recharging station, fully charged and ready to take on practically anything.} {#gagline all; #if {@larkan = 1} {#pc @larkanHandle stop; #var larkan 0}}
+#trigger {You finish using a remote control for a helper drone and lock it with the button at the top.} {#gagline all}
+#TRIGGER  {You pause by a decontamination unit.} {#gagline all; playsound {cosmic rage/general/misc/decontamination.wav} @vol}
+#TRIGGER  {A small piece of glittering soul escapes from * to be devoured by A rotting skull!} {#gagline all; playsound {cosmic rage/general/misc/soulsuck.wav} @vol}
+#TRIGGER  {A cheery tune fills the house as someone presses the doorbell.} {#gagline all; playsound {cosmic rage/general/misc/doorblell.wav} @vol}
+#trigger {You press the button of the doorbell and hear a faint tune.} {#gagline all; playsound {cosmic rage/general/misc/doorbell.wav} @vol}
+#TRIGGER  {*** System announcement: *} { playsound {cosmic rage/general/misc/boop.wav} @vol}
+#TRIGGER {* You hear a crowd booing and hissing. *} {playsound {Cosmic Rage/general/misc/pvpoff.wav} @vol}
+#TRIGGER {* You hear the roar of an approving crowd. *} {playsound {Cosmic Rage/general/misc/pvpon.wav} @vol}
+#TRIGGER {You toss *} {playsound {Cosmic Rage/general/misc/trash.wav} @vol}
+#TRIGGER {You land with a painful thump on the other side of the room.} {playsound {Cosmic Rage/general/misc/thump.wav} @vol}
+#TRIGGER {you enter some digits into a crystal refiner, before tapping go.} {playsound {Cosmic Rage/general/misc/crystalrefiner.wav} @vol}
+#TRIGGER {a crystal refiner falls silent.} {playsound {Cosmic Rage/general/misc/crystalDROP.wav} @vol}
+#TRIGGER {This save came courtesy of *} {playsound {Cosmic Rage/general/misc/save.wav} @vol}
+#TRIGGER {* is emoting... Hold on a sec.} {playsound {Cosmic Rage/general/misc/emote.wav} @vol}

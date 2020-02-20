@@ -1,0 +1,48 @@
+#trigger {You say* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you say* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you say*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {You ponder* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you ponder* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you ponder*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {You muse* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you muse* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you muse*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {You trail off after saying* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you trail off after saying* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you trail off after saying*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {You shriek* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you shriek* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you shriek*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {You exclaim* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you exclaim* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you exclaim*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {You ask* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you ask* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you ask*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {You murmur* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you murmur* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" you murmur*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* says* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * says* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * says*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* ponders* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * ponders* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * ponders*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* muses* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * muses* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * muses*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* trails off after saying* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * trails off after saying* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * trails off after saying*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* shrieks* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * shrieks* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * shrieks*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* exclaims* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * exclaims* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * exclaims*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* asks* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * asks* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * asks*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {* murmurs* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * murmurs* "*"} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}
+#trigger {"*" * murmurs*} {playsound {cosmic rage/general/misc/say.wav} 40;#additem say %0}

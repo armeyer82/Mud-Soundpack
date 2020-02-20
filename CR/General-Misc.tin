@@ -1,0 +1,25 @@
+#CLASS {General-Misc} OPEN
+
+#ACTION {^Roundtime up. Feel free to move about!$}
+{
+     play General/Misc/Roundtime.wav;
+     #line gag
+}
+
+#ACTION {^You receive %* credits.$}
+{
+     play General/Misc/Credits@rnd{4}.wav
+}
+
+#ACTION {^You receive %* points.$}
+{
+     play General/Misc/GetPoints.wav
+}
+
+#ACTION {^[Changes]:}
+{
+     play General/Misc/Change.wav
+}
+
+
+#CLASS {General-Misc} CLOSE

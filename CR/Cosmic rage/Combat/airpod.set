@@ -1,0 +1,21 @@
+#trigger {* zooms into view on the * side.} {#if {%2 = "north"} {playsound {Cosmic Rage/general/combat/airpod/n.wav} @cvol}; #if {%2 = "south"} {playsound {Cosmic Rage/general/combat/airpod/s.wav} @cvol}; #if {%2 = "east"} {playsound {Cosmic Rage/general/combat/airpod/e.wav} @cvol}; #if {%2 = "west"} {playsound {Cosmic Rage/general/combat/airpod/w.wav} @cvol}; #if {%2 = "southeast"} {playsound {Cosmic Rage/general/combat/airpod/se.wav} @cvol}; #if {%2 = "southwest"} {playsound {Cosmic Rage/general/combat/airpod/sw.wav} @cvol}; #if {%2 = "northeast"} {playsound {Cosmic Rage/general/combat/airpod/ne.wav} @cvol}; #if {%2 = "northwest"} {playsound {cosmic rage/general/combat/airpod/nw.wav} @cvol}}
+#trigger {* dives under the pod and appears on the * side.} {#if {%2 = "north"} {playsound {Cosmic Rage/general/combat/airpod/n1.wav} @cvol}; #if {%2 = "south"} {playsound {Cosmic Rage/general/combat/airpod/s1.wav} @cvol}; #if {%2 = "east"} {playsound {Cosmic Rage/general/combat/airpod/e1.wav} @cvol}; #if {%2 = "west"} {playsound {Cosmic Rage/general/combat/airpod/w1.wav} @cvol}; #if {%2 = "southeast"} {playsound {Cosmic Rage/general/combat/airpod/se1.wav} @cvol}; #if {%2 = "southwest"} {playsound {Cosmic Rage/general/combat/airpod/sw1.wav} @cvol}; #if {%2 = "northeast"} {playsound {Cosmic Rage/general/combat/airpod/ne1.wav} @cvol}; #if {%2 = "northwest"} {playsound {cosmic rage/general/combat/airpod/nw1.wav} @cvol}}
+#trigger {You fire the laser.} {playsound {Cosmic Rage/general/combat/airpod/laser.wav} @cvol; #var airpodhandle %playhandle}
+#trigger {Lasers streak out from the pod!} {playsound {Cosmic Rage/general/combat/airpod/laserstop.wav} @cvol; #pc @airpodhandle stop;};
+#trigger {A laser shot slams the pod!} {playsound {Cosmic Rage/general/combat/airpod/yourhit.wav} @cvol};
+#trigger {You swing the laser to focus *.} {playsound {Cosmic Rage/general/combat/airpod/aim.wav} @cvol};
+#trigger {* is hit by a barrage!} {playsound {Cosmic Rage/general/combat/airpod/ehit.wav} @cvol; #if {@panshipcombat = "Enabled} {#PC %Playhandle Pan %Random(-1500,1500)}}
+#trigger {A missile streaks from the pod!} {playsound {Cosmic Rage/ships/combat/Missile.wav} @vol}
+#trigger {Through the windows, you see air pod * explodes!} {playsound {cosmic rage/ships/combat/OtherDestroyed*7.wav} @vol; #if {@panshipcombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#trigger {air pod * dives under the pod and appears on the * side.} {playsound {Cosmic Rage/ships/misc/PodMove1.wav} @vol}
+#trigger {air pod * zooms into view on the * side.} {playsound {Cosmic Rage/ships/misc/PodMove2.wav} @vol}
+#trigger {Sorry, no targets are available.} {playsound {Cosmic Rage/ships/misc/error.wav} @vol}
+#trigger {As the ship descends through the lower atmosphere, a pair of fighter pods appear through the windows to escort it down.} {#gagline voice; playsound {Cosmic Rage/ships/misc/landing2.wav} @vol}
+#trigger {A blaze of missile fire lights up the windows as some enemy pods try to attack the ship and are repelled.} {playsound {Cosmic Rage/ships/misc/Missile.wav} @vol}
+#trigger {The ships engines rumble, the vessel turning as the computer automaticly directs it somewhere slightly different.} {#gagline all}
+#trigger {A glint is noticeable from below, some kind of hovering platform appearing through the windows as the air pods streak away.} {#gagline all}
+#trigger {The hum of engines comes from outside as two fighter pods fly up next to the ship to escort it up.} {playsound {Cosmic Rage/ships/misc/Landing2.wav} @vol; #var Launchhandle %playhandle; #var Launch 1}
+#trigger {The ship enters the higher atmosphere and the pods drop away.} {playsound {Cosmic Rage/ships/misc/PodsAway.wav} @vol; #if {@Launch = 1} {#pc @Launchhandle stop; #var Launch 0}}
+#trigger {A repair drone whizzes through the room, sparkes flying this way and that as he repairs things.} {playsound {Cosmic Rage/ships/misc/repair5.wav} @vol; #gagline all}
+
+#Alias airpodhelp {playsound {Cosmic Rage/general/combat/airpod/help.wav} 50}

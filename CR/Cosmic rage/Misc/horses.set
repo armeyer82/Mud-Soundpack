@@ -1,0 +1,16 @@
+#trigger {* lets out a soft whinny.} {playsound {cosmic rage/general/horses/whinny*2.wav} @vol}
+#trigger {You * * on *} {
+#if {%1 = "trot" or %1 = "gallop" or %1 = "sprint" or %1 = "charge" or %1 = "clop"} {playsound {cosmic rage/general/horses/gallop.wav} @vol};
+#if {%1 = "canter"} {playsound {cosmic rage/general/horses/Canter.wav} @vol};
+#if {%1 = "plod"} {playsound {cosmic rage/general/horses/plod.wav} @vol}}
+#trigger {You tenderly stroke a * horses brush down the back of *} {#gagline all; playsound {cosmic rage/general/horses/brush.wav} @vol}
+#trigger {you gently rub * flank, causing * to whinny with delight.} {playsound {cosmic rage/general/horses/whinny*2.wav} @vol}
+#trigger {* gently pets * flank, causing * to whinny in delight.} {playsound {cosmic rage/general/horses/whinny*2.wav} @vol}
+#TRIGGER {You put the straps of * around *, digging your elbow into * side to ensure * is not holding * breath to make the ropes loose.} {playsound {cosmic rage/general/horses/saddle.wav} @vol}
+#TRIGGER {You mount *} {playsound {cosmic rage/general/horses/mount.wav} @vol}
+#TRIGGER {* rears up onto its hind legs, before slamming its hooves down onto the ground with a crash.} {playsound {cosmic rage/general/horses/rear*3.wav} @vol}
+#TRIGGER {* slowly approaches and sniffs into a bag of wheat.} {#Gagline ALL;
+playsound {cosmic rage/general/horses/sniff.wav} @vol}
+#TRIGGER {* munches down to the bottom of the bag, giving a snort when * empties it completely.} {playsound {cosmic rage/general/horses/snort.wav} @vol}
+#TRIGGER {* munches on the wheat inside the bag, looking pleased as * tail swishes behind *.} {playsound {cosmic rage/general/horses/eat.wav} @vol;
+#Gagline ALL} 

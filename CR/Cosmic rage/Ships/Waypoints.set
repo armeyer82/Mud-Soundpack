@@ -1,0 +1,11 @@
+#trigger {The engines give a sudden scream as the ship lurches at a 45 degree angle.} {playsound {Cosmic Rage/ships/Waypoints/EngineScream.wav} @vol; #gagline voice}
+#trigger {Darkness covers the windows as the ship continues its sharp descent.} {#gagline all}
+#trigger {Your stomach suddenly flips over as the ship becomes a straight angle once again, landing with a very light bump and a ton of dust.} {#gagline all}
+#trigger {A siren echoes throughout the ship. "All hands to safety positions, ship take off immediately."} {playsound {Cosmic Rage/ships/Waypoints/siren.wav} @vol}
+#trigger {The ship groans, then shoots upwards like a true space rocket, the engines sending out scortching flames in their wake.} {playsound {Cosmic Rage/ships/Waypoints/Launch.wav} @vol; #gagline voice}
+#trigger {* spirals into the sector once more!} {playsound {Cosmic Rage/ships/Waypoints/EnterSector.wav} @vol}
+#trigger {You hear a dull thunk and then a low, increasing whine as the jump generater attempts to overpower a waypoint.} {playsound {Cosmic Rage/ships/Waypoints/JumpGenerater.wav} @vol; #gagline voice}
+#trigger {There is a bright flash as the ships jump generater overpowers the waypoint!} {#gagline voice}
+#trigger {The ship rockets into jump space.} {playsound {Cosmic Rage/ships/Waypoints/Jump.wav} @vol}
+#trigger {The engines give out, giving up on chasing the waypoints beam and spin the ship out into a new sector!} {#gagline voice}
+#trigger {The engines groan, struggling to keep up with the pace of the waypoint.} {#gagline voice}

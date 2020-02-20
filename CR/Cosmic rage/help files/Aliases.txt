@@ -1,0 +1,89 @@
+Alias's for the soundpack are as follows. Please note. Aliases are always one single word.
+
+SpHelp. Pull up the list of all help files for the soundpack.
+
+Aliases for changing volumes. 
+
+	general volume down. genvoldown|
+general volume up. genvolup|
+Communication volume up. CommsVolUp|
+Communication volume down. CommsVolDown|
+planetary music volume down. musicvoldown|
+planetary music volume up. musicvolup|
+Ship combat music volume down. combatdown|
+Ship combat music volume up. combatup|
+Ship combat volume down. combatvolumedown|
+Ship combat volume up. combatvolumeup|
+ground combat volume up. gvolup
+ground combat volume down. gvoldown
+vehicle volume down. vehiclEvoldown|
+vehicle volume up. vehiclEvolup|
+ship ambience volume down. shipvoldown|
+ship ambience volume up. shipvolup|
+room ambience volume down. roomvoldown|
+room ambience volume up. roomvolup|
+ship engine volume down. shipEvoldown|
+ship engine volume up. shipEvolup|
+vehicle engine volume down. vehicleengvoldown|
+vehicle engine volume up. vehicleengvolup|
+
+Aliases for buffers. 
+
+Pull up the list of all channels that are being logged. LogFile
+DelBuffer. Removes a buffer from the list. 
+AddBuffer. Adds a buffer to the list. 
+ClearBuffer. Clear the contents of a buffer. 
+LoadBuffers. Loads your list of saved buffers. 
+SaveBuffers. Saves your list of buffers. 
+ClearAllBuffers. Clears all of your text from your active buffers, wiping them clean.
+
+Aliases for toggling different options. 
+
+ambience toggle. ambtoggle|
+looping red alert toggle. RedAlertToggle
+toggle soundpack update notifications on login. ToggleUpdate
+ToggleNumpad. Toggles the entering of numbers using the numpad. 
+drone sounds toggle. dronetoggle|
+planetary music toggle. togglemusic|
+ship combat music toggle. togglecombat|
+alternate vehicle engines. togglevehicle|
+alternate ship engines. toggleship|
+Short map text toggle. ShortMapText|
+gag ship combat toggle. gagscombat|
+pan ship combat toggle. pancombat|
+gag harvesting toggle. gagharvest|
+salvage text toggle. salvageTextToggle|
+weather sounds toggle. weatherToggle|
+gag weather toggle. gagweather|
+Old logon/logoff sounds toggle. toggleLogOn|
+TTS. Toggle your speech. 
+Toggle the connection sounds that let you know you are connected to the moo, but idle. ToggleConnectionCheck
+Clock sounds toggle. ToggleClocks|
+Mute sounds toggle. MuteSound|
+
+Misc aliases. 
+
+save your soundpack settings. SaveSettings|
+Report a bug. SpBug|
+Suggest something you'd like added to the soundpack. SpSuggest. 
+Check the last logged change. SpVersion. 
+config. Load the configuration manager|
+SpReload. Reload the soundpack. 
+HappyBirthday. It's a secret. 
+TogglePods. Toggle voice output of pod movement. 
+GameGag.  Gag or ungag certain Arcade messages. 
+Logging.  Toggle channel messages being stored to files. 
+ErrorToggle.  Toggle hearing of I don't understand that messages. 
+Lag.  Check the amount of lag between your connection and the game. Note. This value may not always be 100 percent accurate.
+ToggleLaunchText. Toggle seeing of launching and docking text.
+ToggleSocialSounds. Toggles social sounds.
+ToggleSocialText. Toggles seeing of social text when you use socials. The text when others use socials is not effected..
+Toggle reboot warnings. toggleReboot.
+Toggle soundpack intro text. ToggleSoundpackIntroMessage
+SPUnload. Unloads your soundpack for debugging purposes. Note. To reload the pack, use either the SPReload alias, or control-shift-R.
+StopSound. Stopps all playing sounds.
+MF. An easier alias to use the Musicfm channel.
+TPR. Toggle bio plasma regenoration sounds.
+AirPodHelp. Get help with the airpods system.
+FixBuffers. Fixes your buffers if you see file not found errors.
+SHOWERMUSÝCTOGGLE, TOGGLES THE SHOWER MUSÝC ON AND OFF

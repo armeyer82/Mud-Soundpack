@@ -1,0 +1,10 @@
+#trigger {The ship suddenly goes dark as the power is cut abruptly.} {playsound {Cosmic Rage/ships/DeepSpaceRepair/PowerOff.wav} @vol}
+#trigger {You hear an unsettling humming sound as charge is rapidly drained from the ship's batteries.} {playsound {Cosmic Rage/ships/DeepSpaceRepair/BatteryDrain.wav} @vol}
+#trigger {The ship power comes back online as abruptly as it was cut.} {playsound {Cosmic Rage/ships/DeepSpaceRepair/PowerOn.wav} @vol}
+#trigger {A very loud crash from somewhere causes the ship to vibrate slightly} {playsound {Cosmic Rage/ships/DeepSpaceRepair/Crash2.wav} @vol}
+#trigger {There is a sudden, loud bang overhead.} {playsound {Cosmic Rage/ships/DeepSpaceRepair/Crash1.wav} @vol}
+#trigger {A series of crashes and loud, angry beeping echoes through the ship.} {playsound {Cosmic Rage/ships/DeepSpaceRepair/Repair1.wav} @vol}
+#trigger {Some drone is doing something in the bowels of the ship, based on that irritating scraping sound.} {playsound {Cosmic Rage/Ships/DeepSpaceRepair/Repair2.wav} @vol}
+#trigger {Some kind of obnoxious banging and scraping is going on out there...} {playsound {Cosmic Rage/ships/DeepSpaceRepair/Repair3.wav} @vol}
+#trigger {Crash! Either a drone just fell over, or it dropped something heavy.} {playsound {Cosmic Rage/ships/DeepSpaceRepair/Crash.wav} @vol}
+	

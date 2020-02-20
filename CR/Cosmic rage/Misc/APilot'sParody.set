@@ -1,0 +1,28 @@
+#TRIGGER {The screen on A pilot's parody flickers and plays a whomp whomp whomp tune at your loss.} {playsound {cosmic rage/general/pp/looser.wav} @vol; #gagline all}
+#TRIGGER {Pixelated Productions Presents:} {playsound {cosmic rage/general/pp/logo.wav} @vol}
+#TRIGGER {You roll the die.} {playsound {cosmic rage/general/pp/roll.wav} @vol; #gagline all}
+#TRIGGER {You hop in your digger and get down to digging.} {playsound {cosmic rage/general/pp/dig.wav} @vol; #gagline all}
+#TRIGGER {You get 2 extra rolls!} {playsound {cosmic rage/general/pp/extra.wav} @vol; #gagline all; #say {2 extra rolls!}}
+#TRIGGER {Without a word, the warden charges up a stun gun and zaps you with it.} {playsound {cosmic rage/general/pp/stun.wav} @vol; #gagline all}
+#TRIGGER {Dark 8-bit clouds sweep across the pixelated sky. Lightning flashes and a hiss of light wind increases to a thunderous roar!} {playsound {cosmic rage/general/pp/thunder.wav} @vol; #gagline all}
+#TRIGGER {Oops! The cave collapsed on you.} {playsound {cosmic rage/general/pp/cave.wav} @vol; #gagline all}
+#TRIGGER {You slide An antique bronze token into A Pilot's Parody.} {playsound {cosmic rage/general/pp/slide.wav} @vol; #gagline all}
+#TRIGGER {You bring the shuttle in for a landing and quickly press the recharge icon on your control board.} {playsound {cosmic rage/general/pp/land.wav} @vol; #gagline all}
+#TRIGGER {You got 10 role play points.} {playsound {cosmic rage/general/pp/extra.wav} @vol; #gagline all; #say {10 rp points!}}
+#TRIGGER {You do not have any rolls left an so, you are out of the game!} {playsound {cosmic rage/general/pp/loose2.wav} @vol; #gagline all; #say {your out of rolls}}
+#TRIGGER {You blink as the game helmet is withdrawn from atop your head.} {playsound {cosmic rage/general/pp/helmoff.wav} @vol; #gagline all}
+#TRIGGER {A small panel pops open on A Pilot's Parody and a robotic arm extends with a faint whine of its electrical motors. Before you can act, the arm places a game helmet atop your head and quickly retracts itself back into its compartment.} {playsound {cosmic rage/general/pp/helmon.wav} @vol; #gagline all}
+#TRIGGER {You grab some bait and cast your line!} {playsound {cosmic rage/activities/fishing/fishcast.wav} @vol}
+#TRIGGER {Watch out folks! * is hurling grenades!} {playsound {cosmic rage/activities/nebula/warning.wav}}
+#TRIGGER {From another tile: * hurls a grenade at you. The grenade explodes!} {playsound {cosmic rage/GENERAL/PP/grenadeyou.wav}; {#sub {%1 threw a grenade at you}}}
+#TRIGGER {You visit the warp crystal outlet and get a warp crystal.  It is now on An ornate wooden prize table.} {playsound {cosmic rage/general/pp/cash.wav} @vol; #gagline all; #say {you've got a warp crystal at the prize table}}
+#TRIGGER {With a mighty crash, your digger extracts colorful minerals from the ground. When it is finished, it loads them into a sack, which is waiting for you on An ornate wooden prize table} {playsound {cosmic rage/general/pp/extra.wav} @vol; #gagline all; #say {you've got a sac of minerals at the prize table!}}
+#TRIGGER {A black pixelated cargo expansion drone pulls out a smart phone and orders you some cargo plates.} {playsound {cosmic rage/general/pp/extra.wav} @vol; #gagline all; #say {you've got a pack of plates at the prize table!}}
+#TRIGGER {You speak with a shady robed figure on a dark and strange landing  pad. After a few hushed words, your ship is loaded with contraband and you are given a destination.} {playsound {cosmic rage/general/misc/say.wav} @vol; #gagline all};
+#TRIGGER {Your ship gets shot down by SDL patrol ships!} {playsound {cosmic rage/general/pp/sdlshot.wav} @vol; #gagline all; #say {your ship is shot down!}}
+#TRIGGER {You hop in your ship and take off, hoping for the best.} {playsound {cosmic rage/general/pp/launch.wav} @vol; #gagline all; #say {you take off to deliver the smuggled cargo}}
+#TRIGGER {You succeed in evading detection.} {playsound {cosmic rage/general/pp/land.wav} @vol; #gagline all; #say {you managed to deliver the cargo without caught}}
+#TRIGGER {You attempt a landing on Earth, but forget to raise your heat shields.} {playsound {cosmic rage/general/pp/escape.wav} @vol; #gagline all}
+#TRIGGER {You mash down on the firing controls and unleash fury at * and watch in satisfaction as it erupts in a huge fireball!} {playsound {cosmic rage/general/pp/sdlshot.wav} @vol; #gagline all; #say {you managed the destroy the target}}
+#TRIGGER {You are flying along in uncharted space and suddenly, star alarms start blaring.} {#Play {@spPath/sounds\ships\fire\siren.wav} @vol} {}
+#TRIGGER {He blasts a jet of flames onto An ornate wooden prize table, destroying all of the prizes!} {playsound {cosmic rage/general/pp/ryacusmad.wav} @vol; #gagline all; #say {all of the prize table's content are lost}}

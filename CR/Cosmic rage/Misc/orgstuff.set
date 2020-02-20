@@ -1,0 +1,15 @@
+#trigger {You raise * and wave it over *} {#gagline all}
+#trigger {An error appears on-screen: "Permission denied"} {#gagline all; playsound {Cosmic Rage/general/gmc/mederror.wav} @vol}
+#trigger {Some data begins to scroll across the screen on *} {#gagline all; playsound {Cosmic Rage/general/gmc/medscan.wav} @vol}
+#trigger {You leand down, pressing * against * and press the injector.} {#gagline all; playsound {Cosmic Rage/general/gmc/inject.wav} @vol}
+#trigger {A soft HISS escapes from *} {#gagline all}
+#trigger {You inject * with *} {#gagline all}
+#trigger {You slide down a lever, filling the needle with *} {#gagline all}
+#trigger {You continue removing the * from *} {#gagline all}
+#trigger {A * light shines forth from * dermatology laser.} {#gagline all}
+#trigger {You tap a button on * causing a small needle to pop out.} {#gagline all; playsound {Cosmic Rage/general/gmc/synaptic.wav} @vol}
+#trigger {You aim * and begin removing the *} {#gagline all; playsound {Cosmic Rage/general/gmc/laser.wav} @vol}
+#trigger {The screen lights up with scrolling text.} {#gagline all; playsound {Cosmic Rage/general/gmc/medscan.wav} @vol}
+#trigger {A spasm takes over your limbs as * and discharges a large amount of electricity into you.} {#gagline all; playsound {Cosmic Rage/general/gmc/synaptic.wav} @vol}
+#trigger {* taps a button on * synaptic stimulator *} {#gagline all; playsound {Cosmic Rage/general/gmc/synaptic.wav} @vol}
+#trigger {* We have suffered casualties and are requesting a medical evacuation ship for immediate extraction of all injured persons to the Galactic Medical Complex.} {#gagline all; playsound {Cosmic Rage/general/gmc/alarm.wav} @vol}

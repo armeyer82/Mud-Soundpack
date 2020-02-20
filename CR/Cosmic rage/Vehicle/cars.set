@@ -1,0 +1,74 @@
+#TRIGGER {You put the key in the ignition and twist.} {#gagline all; playsound {Cosmic Rage/general/cars/key1.wav} @evol}
+#TRIGGER {the engine thrums to life.} {#gagline all; playsound {Cosmic Rage/general/cars/start.wav} @evol;
+#if {@VehicleSoundPlaying = 1} {
+#pc @vehiclehandle stop; #var VehicleSoundPlaying 0};
+#if {@ShipSoundPlaying = 1} {
+#pc @shiphandle stop; #var ShipSoundPlaying 0};
+#if {@RoomSoundPlaying = 1} {
+#pc @roomhandle stop; #var RoomSoundPlaying 0};
+Loopsound {Cosmic Rage/general/cars/idle.wav} @vehiclevol; #var vehiclehandle %PlayHandle; #var VehicleSoundPlaying 1; #var currentroom "classic"}
+#trigger {The rumble of a highly modified, but still rather noisy, classic car engine indicates that the systems have power.} {
+#if {@CurrentRoom <> "classic"} {
+#if {@VehicleSoundPlaying = 1} {
+#pc @vehiclehandle stop; #var VehicleSoundPlaying 0};
+#if {@ShipSoundPlaying = 1} {
+#pc @shiphandle stop; #var ShipSoundPlaying 0};
+#if {@RoomSoundPlaying = 1} {
+#pc @roomhandle stop; #var RoomSoundPlaying 0};
+Loopsound {Cosmic Rage/general/cars/idle.wav} @vehiclevol; #var vehiclehandle %PlayHandle; #var VehicleSoundPlaying 1; #var currentroom "classic"}}
+#TRIGGER {You twist the key and yank it out.} {#gagline all; playsound {Cosmic Rage/general/cars/key2.wav} @evol}
+#TRIGGER {The engine of the car splutters to a stop.} {#gagline all; playsound {Cosmic Rage/general/cars/shutdown.wav} @evol;
+#if {@VehicleSoundPlaying = 1} {
+#PC @vehiclehandle stop; #var VehicleSoundPlaying 0};
+#if {@drive = 1} {
+#pc @drivehandle stop; #var drive 0};
+loopsound {cosmic rage/ambiences/VehicleNoPower.wav} @Vehiclevol; #var vehiclehandle %playHandle; #var VehicleSoundPlaying 1; #var currentroom "off"; #var currentroom2 "notmisc"}
+#TRIGGER {You gently accelerate and pull away.} {#gagline all; playsound {Cosmic Rage/general/cars/accelerate.wav} @evol; Loopsound {Cosmic Rage/general/Cars/driving.wav} @evol; #var drivehandle %PlayHandle; #var drive 1}
+#TRIGGER {You bring the vehicle to a stop.} {#gagline all; playsound {Cosmic Rage/general/cars/decelerate.wav} @evol;
+#if {@drive = 1} {
+#PC @drivehandle stop; #var drive 0}}
+#TRIGGER {You hear a blast on the horn from *} {Playsound {Cosmic Rage/general/cars/horn.wav} @evol} {}
+#TRIGGER {* slowly accelerates away.} {playsound {Cosmic Rage/general/cars/\pullaway_out*4.wav} @evol} {}
+#TRIGGER {the engine of * revs madly.} {playsound {Cosmic Rage/general/cars/rev_out*4.wav} @evol} 
+#TRIGGER {the engine on * suddenly thrums to life.} {playsound {Cosmic Rage/general/cars/\start_out.wav} @evol} {}
+#TRIGGER {the engine of * splutters to a stop.} {playsound {Cosmic Rage/general/cars/shutdown_out.wav} @evol} {}
+#TRIGGER {a * roles to a stop.} {playsound {Cosmic Rage/general/cars/\stop_out*2.wav} @evol} {}
+#TRIGGER {You yank up the handbrake!} {#Gagline ALL;
+playsound {Cosmic Rage/general/cars/\handbrake_up.wav} @evol} {}
+#TRIGGER {You drop down the handbrake.} {#Gagline ALL;
+playsound {Cosmic Rage/general/cars/\Handbrake_down.wav} @evol} {}
+#TRIGGER {The engine of the car revs furiously!} {playsound {Cosmic Rage/general/cars/\rev*5.wav} @evol}
+#TRIGGER {You hear the engine of the car rev madly.} {#gagline all;
+#if {@drive = 1} {
+#pc @drivehandle stop; #var drive 0};
+playsound {Cosmic Rage/general/cars/rev*5.wav} @evol}
+#trigger {The engine revs like a boy-racers car.} {#gagline all;
+#if {@drive = 1} {
+#pc @drivehandle stop; #var drive 0};
+playsound {Cosmic Rage/general/cars/rev*5.wav} @evol}
+#trigger {Smoke drifts past the windows as the driver of the vehicle revs the hell out of the engine.} {#gagline all;
+#if {@drive = 1} {
+#pc @drivehandle stop; #var drive 0};
+playsound {Cosmic Rage/general/cars/rev*5.wav} @evol}
+#TRIGGER {* puts the key in the ignition and twists.} {#gagline all; playsound {Cosmic Rage/general/cars/key1.wav} @evol}
+#TRIGGER {* twists the key and yank* it out.} {#gagline all; playsound {Cosmic Rage/general/cars/key2.wav} @evol}
+#TRIGGER {* brings the vehicle to a stop.} {playsound {Cosmic Rage/general/cars/decelerate.wav} @evol;
+#if {@drive = 1} {
+#PC @drivehandle stop; #var drive 0}}
+#TRIGGER {* accelerates and pulls away.} {playsound {Cosmic Rage/general/cars/accelerate.wav} @evol; LoopSound {Cosmic Rage/general/cars/driving.wav} @evol; #var drivehandle %PlayHandle; #var drive 1}
+#TRIGGER {The vehicle roles a total of * times before coming to a shuddering hault.} {playsound {Cosmic Rage/general/cars/flip1.wav} @evol;
+#if {@drive = 1} {
+#PC @drivehandle stop; #var drive 0}}
+#TRIGGER {The vehicle slams into the wall.} {playsound {Cosmic Rage/general/cars/\wallcrash.wav} @evol;
+#if {@drive = 1} {
+#PC @drivehandle stop; #var drive 0}}
+#TRIGGER {The vehicle performs  an emergency stop.} { playsound {Cosmic Rage/general/cars/decelerate.wav} @evol;
+#if {@drive = 1} {
+#PC @drivehandle stop; #var drive 0}}
+#TRIGGER {The vehicle skids around the corner, black smoke filling the windows.} {#gagline all; playsound {Cosmic Rage/general/cars/skidin*3.wav} @evol}
+#TRIGGER {The vehicle drifts around the corner.} {#gagline all; playsound {Cosmic Rage/general/cars/skidin*3.wav} @evol}
+#TRIGGER {The vehicle skids a little as it takes the corner} {#gagline all; playsound {Cosmic Rage/general/cars/skidin*3.wav} @evol}
+#TRIGGER {the vehicle skids along, straight into the next room!} {playsound {Cosmic Rage/general/cars/skidin*3.wav} @evol}
+#TRIGGER {the vehicle skids to a stop.} {playsound {Cosmic Rage/general/cars/skidin*3.wav} @evol;
+#if {@drive = 1} {
+#PC @drivehandle stop; #var drive 0}}

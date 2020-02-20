@@ -1,0 +1,15 @@
+#TRIGGER {You pull down, and then shove forward, a handle-shaped lever.} {#gagline all; playsound {Cosmic Rage/activities/moonbase/lever.wav} @vol};
+#TRIGGER {You hear a groan and the vehicle shudders.} {#gagline all;  playsound {Cosmic Rage/activities/moonbase/moontruckwork1.wav} @vol};
+#TRIGGER {You feel a slight shudder, and then a clunk.} {#gagline all;  playsound {Cosmic Rage/activities/moonbase/moontruckwork2.wav} @vol};
+#TRIGGER {The handle doesn't budge.} {playsound {Cosmic Rage/activities/moonbase/jammed.wav} @vol};
+#TRIGGER {The lever slams back up, nearly smacking you in the face!} {playsound {Cosmic Rage/activities/moonbase/lever2.wav} @vol};
+#TRIGGER {some citizens stride in and begin construction on a new building.} {playsound {Cosmic Rage/activities/moonbase/construct.wav} @vol};
+#TRIGGER {You carefully begin to maneuver some levers and then pull sharply on a joystick.} {#gagline all; playsound {Cosmic Rage/activities/moonbase/launch.wav} @vol};
+#TRIGGER {You activate the processing unit with a slight flick of your wrist.} {#gagline all; loopsound {Cosmic Rage/activities/moonbase/process.wav} @vol; #var mprosHandle %playHandle; #var mpros 1}
+#trigger {You hear a rumbling crash, followed by a building hum.} {#gagline all}
+#trigger {The hum quiets down, before *} {
+#gagline all;
+playsound {cosmic rage/activities/moonbase/process1.wav} @vol;
+#if {@mpros = 1} {
+#pc @mproshandle stop;#var mpros 0}}
+#TRIGGER {you carefully bring the ship to hover above *} {#gagline all; playsound {Cosmic Rage/activities/moonbase/land.wav} @vol};

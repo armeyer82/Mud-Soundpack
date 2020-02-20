@@ -1,0 +1,23 @@
+#TRIGGER {On screen * launches from the * defense array.} {#gagline all; playsound {cosmic rage/ships/pd/enemycome*2.wav} @CVol; #pc %playhandle pan %random(-4000,4000)}
+#TRIGGER {You rotate the pod to face * direction as shown on screen.} {#gagline all; playsound {cosmic rage/ships/pd/deploy.wav} @CVol}; 
+#trigger {You press the big red launch button.} {#gagline all}
+#trigger {The pods light brighten a little as the drone approaches Vacus Outpost4169704.} {#gagline all}
+#TRIGGER {You nudge your drone *} {playsound {cosmic rage/ships/pd/move*4.wav} @CVol}; 
+#TRIGGER {Your engines are cooling, please wait.} {#gagline all; playsound {cosmic rage/ships/pd/cooling.wav} @CVol; #say {engines cooling} voiceonly}
+#TRIGGER {Your drone reports the closest enemy is * units away.} {playsound {cosmic rage/ships/pd/check.wav} @CVol; {#sub {%1 units}}}
+#TRIGGER {The computer announces: "* allies detected. The closest enemy is * units away at *"} {playsound {cosmic rage/ships/pd/check.wav} @CVol; {#sub {%3, %2 units away, %1 allies detected}}}
+#TRIGGER {Your drone reports it is at *.} {playsound {cosmic rage/ships/pd/check.wav} @CVol; {#sub {%1}}}
+#TRIGGER {On screen Planetary destruction drone fire at nothing.} {playsound {cosmic rage/ships/pd/check.wav} @CVol; {#sub {%1}}}
+#TRIGGER {On screen * fires a laser at Planetary destruction drone!} {#gagline all; playsound {cosmic rage/ships/pd/youhit*3.wav} @CVol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #sub {enemy hit you}}
+#TRIGGER {On screen Planetary destruction drone fires a laser at *}  {#gagline all; playsound {cosmic rage/ships/pd/fire*3.wav} @CVol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}; #alarm 1 {#say {target hit} voiceonly; playsound {cosmic rage/ships/pd/hit*3.wav} @CVol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}}
+#TRIGGER {The * light flash red.} {playsound {cosmic rage/ships/pd/alarm.wav} @CVol; {#sub {%1 at enemy drone}}}
+#TRIGGER {The * lights flash red.} {playsound {cosmic rage/ships/pd/alarm2.wav} @CVol; {#sub {at %1 enemyes detected}}}
+#TRIGGER {You send a repair order to your drone.} {#gagline all; playsound {cosmic rage/ships/pd/repair.wav} @CVol}; 
+#TRIGGER {The pod lights go dark as your drone is destroyed.} {#gagline all; playsound {cosmic rage/ships/pd/youexplode.wav} @CVol}; 
+#TRIGGER {On screen * explodes!} {#gagline all; playsound {cosmic rage/ships/combat/direct1.wav} @CVol}; 
+#TRIGGER {You recall the drone.} {#gagline all; playsound {cosmic rage/ships/pd/woosh.wav} @CVol}; 
+#TRIGGER {You recall the drone.} {#gagline all; playsound {cosmic rage/ships/pd/woosh.wav} @CVol}; 
+#TRIGGER {You hear a whoosh as something launches.} {#gagline all; playsound {cosmic rage/ships/pd/woosh.wav} @CVol}; 
+#TRIGGER {Destruction signal received. Link up with pod now being broken.} {#gagline all; playsound {cosmic rage/ships/pd/link.wav} @CVol}; 
+#TRIGGER {You order the drone to drill downwards.} {#gagline all; playsound {Cosmic Rage/activities/pol/move3.wav} @cvol};
+#TRIGGER {On screen, you see your drone come to a stop.} {#gagline all; playsound {Cosmic Rage/activities/pol/move4.wav} @cvol};

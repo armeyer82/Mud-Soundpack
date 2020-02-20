@@ -1,0 +1,17 @@
+#CLASS {Ship-Combat} OPEN
+
+#ACTION {^Klaxons continue to blare and red lights revolve in urgent circles.$}
+{
+     play Ships/Combat/RedAlert.wav;
+     #line gag
+}
+
+#ACTION {^several sound suppressing and light diverting fields lower with a hum.$}
+{
+     play Ships/Combat/Green.wav
+}
+
+#GAG              {^Red lights begin to revolve in urgent circles on the ceiling.$}
+#GAG              {^several sound suppressing and light diverting fields raise with a hum.}
+
+#CLASS {Ship-Combat} CLOSE

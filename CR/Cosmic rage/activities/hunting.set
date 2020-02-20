@@ -1,0 +1,17 @@
+#TRIGGER {You swing back and begin to chop quickly into the undergrowth to the * trying to get branches.} {#gagline all; playsound {cosmic rage/activities/hunt/chop.wav} @vol};
+#TRIGGER {You appear to have cleared the undergrowth in that direction. Well done!} {#gagline all; playsound {cosmic rage/activities/hunt/done.wav} @vol};
+#TRIGGER {You can't go in that direction.} {playsound {cosmic rage/activities/hunt/cantwalk.wav} @vol};
+#TRIGGER {You lunge into a magnificent leap to the *} {#gagline all; playsound {cosmic rage/activities/hunt/jump.wav} @vol};
+#TRIGGER {You sail over the bush!} {playsound {cosmic rage/activities/hunt/sale.wav} @vol};
+#TRIGGER {You land squarely in the bush.} {playsound {cosmic rage/activities/hunt/failjump.wav} @vol};
+#trigger {You pull back * and yank it free.} {#gagline all}
+#trigger {* Incora *} {playsound {cosmic rage/activities/hunt/inc.wav} @vol};
+#trigger {* branches lay here.} {playsound {cosmic rage/activities/hunt/branch.wav} @vol};
+#trigger {A few lumps in the ground indicate their could be fox holes here.} {playsound {cosmic rage/activities/hunt/foxhole.wav} @vol};
+#trigger {a startled * fox pops out of the ground!} {playsound {cosmic rage/activities/hunt/foxpanic.wav} @vol};
+#TRIGGER {You lunge at a startled * fox.} {#gagline all; playsound {cosmic rage/activities/hunt/jump.wav} @vol};
+#trigger {You pounce successfully on a startled * fox!} {#gagline all; playsound {cosmic rage/activities/hunt/foxdie.wav} @vol};
+#trigger {* fox darts *} {playsound {cosmic rage/activities/hunt/run.wav} @vol};
+#trigger {a startled * fox skitters back, looking surprised.} {playsound {cosmic rage/activities/hunt/foxshock.wav} @vol};
+#TRIGGER {You crash into the ground.} {#gagline all; playsound {cosmic rage/activities/hunt/failjump.wav} @vol};
+#TRIGGER {You use some sheets from * to carefully wrap * and store it away.} {#gagline all; playsound {cosmic rage/activities/hunt/wrap.wav} @vol};

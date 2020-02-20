@@ -1,0 +1,91 @@
+;code for doors.
+
+#trigger {* to the * * shut.} {
+#if {%ifword(revolves,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose5.wav} @vol};
+#if {%ifword(revolve,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose5.wav} @vol};
+#if {%ifword(lowers,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose2.wav} @vol};
+#if {%ifword(lower,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose2.wav} @vol};
+#if {%ifword(swings,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose1.wav} @vol};
+#if {%ifword(swing,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose1.wav} @vol};
+#if {%ifword(slides,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {%ifword(slide,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {%ifword(hisses,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {%ifword(hiss,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {NOT %ifword(%3,revolves," ") and NOT %ifword(%3,revolve," ") and NOT %ifword(%3,lowers," ") and NOT %ifword(%3,lower," ") and NOT %ifword(%3,swings," ") and NOT %ifword(%3,swing," ") and NOT %ifword(%3,slides," ") and NOT %ifword(%3,slide," ") and NOT %ifword(%3,hisses," ") and NOT %ifword(%3,hiss," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol}} {} AnyCase
+
+#trigger {* to the * * closed.} {
+#if {%ifword(revolves,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose5.wav} @vol};
+#if {%ifword(revolve,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose5.wav} @vol};
+#if {%ifword(lowers,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose2.wav} @vol};
+#if {%ifword(lower,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose2.wav} @vol};
+#if {%ifword(swings,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose1.wav} @vol};
+#if {%ifword(swing,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose1.wav} @vol};
+#if {%ifword(slides,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {%ifword(slide,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {%ifword(hisses,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {%ifword(hiss,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol};
+#if {NOT %ifword(%3,revolves," ") and NOT %ifword(%3,revolve," ") and NOT %ifword(%3,lowers," ") and NOT %ifword(%3,lower," ") and NOT %ifword(%3,swings," ") and NOT %ifword(%3,swing," ") and NOT %ifword(%3,slides," ") and NOT %ifword(%3,slide," ") and NOT %ifword(%3,hisses," ") and NOT %ifword(%3,hiss," ")} {
+playsound {Cosmic Rage/general/doors/DoorClose4.wav} @vol}} {} AnyCase
+
+#trigger {* to the * * open.} {
+#if {%ifword(revolves,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen5.wav} @vol};
+#if {%ifword(revolve,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen5.wav} @vol};
+#if {%ifword(lowers,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen2.wav} @vol};
+#if {%ifword(lower,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen2.wav} @vol};
+#if {%ifword(swings,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen1.wav} @vol};
+#if {%ifword(swing,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen1.wav} @vol};
+#if {%ifword(slides,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen4.wav} @vol};
+#if {%ifword(slide,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen4.wav} @vol};
+#if {%ifword(hisses,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen4.wav} @vol};
+#if {%ifword(hiss,%3," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen4.wav} @vol};
+#if {NOT %ifword(%3,revolves," ") and NOT %ifword(%3,revolve," ") and NOT %ifword(%3,lowers," ") and NOT %ifword(%3,lower," ") and NOT %ifword(%3,swings," ") and NOT %ifword(%3,swing," ") and NOT %ifword(%3,slides," ") and NOT %ifword(%3,slide," ") and NOT %ifword(%3,hisses," ") and NOT %ifword(%3,hiss," ")} {
+playsound {Cosmic Rage/general/doors/DoorOpen4.wav} @vol}} {} AnyCase
+
+#trigger {You open * door} {playsound {Cosmic Rage/general/doors/DoorOpen3.wav} @vol}
+#trigger {You close * door} {playsound {Cosmic Rage/general/doors/doorClose3.wav} @vol}
+#trigger {You unlock the door.} {playsound {Cosmic Rage/general/doors/DoorUnlock.wav} @vol}
+#trigger {You flick across the bolt on the door.} {playsound {Cosmic Rage/general/doors/DoorLock.wav} @vol}
+#trigger {A heavy grinding noise comes from the ceiling as * descends with a slam.} {playsound {Cosmic Rage/general/doors/DoorWeightedClose.wav} 90}
+#trigger {With a heavy grinding noise, * rises into the ceiling.} {playsound {Cosmic Rage/general/doors/DoorWeightedOpen.wav} 90}
+#trigger {You send the signal for the cargo bay doors to open.} {#gagline all}
+#trigger {From nearby, the sound of a pair of doors sliding open can be heard.} {#gagline all;
+playsound {cosmic rage/general/doors/transferopen.wav} @vol}
+#trigger {The computer announces: "Closing cargo bay doors*"} {#gagline all}
+#trigger {From nearby, the sound of a pair of doors sliding shut can be heard.} {#gagline all;
+playsound {cosmic rage/general/doors/transferclose.wav} @vol}
+#trigger {A deep rumbling can be heard from far down in the ship as the doors of the cargo bays are slid *.} {#gagline all;
+#if {%ifword(open,%1," ")} {
+playsound {cosmic rage/general/doors/DoorOpen4.wav} @vol};
+#if {%ifword(shut,%1," ")} {
+playsound {cosmic rage/general/doors/DoorClose4.wav} @vol}}

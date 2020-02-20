@@ -1,0 +1,35 @@
+#CLASS {TrashCollection} OPEN
+
+#action {^The drone emits a strong electric pulse that sucks the moisture out of the air as it purifies the object.$} {play Activities/Trashcollection/DroneSmash.wav;#line gag}
+
+#ACTION {^A small drone wanders through the cab.$}
+{
+     play Activities/Trashcollection/DroneGets.wav;
+     #line gag
+}
+
+#ACTION {^An annoying fly buzzes into the room!$}
+{
+     play Activities/Trashcollection/Fly1.wav;
+     #line gag
+}
+
+#ACTION {^The drone emits a strong electric pulse that sucks the moisture out of the air as it purifies the object.$}
+{
+     play Activities/Trashcollection/DroneSmash.wav;
+     #line gag
+}
+
+#ACTION {^The drone returns, carrying %*.$}
+{
+     play Activities/Trashcollection/DroneReturn.wav;
+     #line gag
+}
+
+#ALIAS {g}
+{
+     use fly
+}
+
+
+#CLASS {TrashCollection} CLOSE

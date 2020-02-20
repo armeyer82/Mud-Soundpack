@@ -1,0 +1,19 @@
+#TRIGGER {You hear a whir as the salvage lines extend.} {#gagline all; playsound {cosmic rage/ships/salvaging/deploy.wav} @vol}
+#TRIGGER {You hear a whir as the salvaging lines retract.} {#gagline all; playsound {cosmic rage/ships/salvaging/draw.wav} @vol}
+#TRIGGER {On screen, you see a debris drone fire up its thrusters and head for a cloud.} {#gagline all; playsound {cosmic rage/ships/salvaging/DroneLaunch.wav} @vol} 
+#TRIGGER {On screen, you see A drone dock to *} {#gagline all; playsound {cosmic rage/ships/comets/probereturn.wav} @vol} 
+#TRIGGER {On screen, you see a debris drone scoop up some pieces of debris.} {#gagline all; playsound {cosmic rage/ships/salvaging/DroneGets.wav} @vol} 
+#TRIGGER {On screen, you see The debris drone begin to return to *} {#gagline all;}
+#trigger {You hear a woosh as some drones launch into space.} {#gagline all; playsound {cosmic rage/ships/salvaging/dronesWoosh.wav} @vol}
+#trigger {You slide the image of the debris lines on screen so as to start salvaging.} {
+#gagline all} 
+#trigger {You feel the ship shudder slightly as the debris lines are firmly yanked into the ship.} {
+#gagline all} 
+#TRIGGER {*"All of our bays appear to be filled."} {playsound {cosmic rage/ships/salvaging/CargoBayFilled.wav} @vol}
+#trigger {*"* salvaged by drone."} {#if {@gagSal = "Enabled"} {#gagline voice} {playsound {cosmic rage/ships/salvaging/salvage*3.wav} @vol; #PC %PlayHandle Pan %Random(-4000,4000)}}
+#trigger {*"* salvaged, *"} {#if {@gagSal = "Enabled"} {#gagline voice} {playsound {cosmic rage/ships/salvaging/salvage*3.wav} @vol; #PC %PlayHandle Pan %Random(-4000,4000)}}
+#trigger {You hear a hollow bang.} {#gagline all; playsound {cosmic rage/ships/salvaging/DroneReturn.wav} @vol}
+#trigger {*"firing up debris laser."} {playsound {Cosmic Rage/ships/salvaging/DebrisHum.wav} @vol; #gagline all}
+#trigger {You hear a ping as the debris laser fires.} {playsound {Cosmic Rage/ships/salvaging/DebrisLaser.wav} @vol; #gagline all; #PC %PlayHandle Pan %Random(-4000,4000)}
+#trigger {You target the debris cloud laser and hit fire.} {#gagline all}
+#trigger {*"No clouds found."} {#sub {No debris clouds within range of debris laser.}}

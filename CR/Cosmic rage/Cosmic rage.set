@@ -1,0 +1,165 @@
+#setspeech incoming on
+#var soundson "Disabled"
+#var speech "Disabled"
+;These are the Needed set files for the pack to function.
+
+#load misc/ConfigurationManager.set
+#load misc/keys.set
+#load misc/Soundpack.set
+
+; activities set files
+#load Activities/asteroidHarvesting.set
+#load activities/BioHarvesting.set
+#load Activities/blackdwarf.set
+#load Activities/comets.set
+#load Activities/DarkMatterMining.set
+#load Activities/dust.set
+#load activities/handmining.set
+#load activities/hunting.set
+#load Activities/mechanicalMining.set
+#load Activities/moon.set
+#load Activities/moonbase.set
+#load Activities/PlanetChunks.set
+#load Activities/planetoid.set
+#load activities/pol.set
+#load Activities/salvaging.set
+#load Activities/StarCoring.set
+#load Activities/StarStudies.set
+#load Activities/trash.set
+#load Activities/volcanoHarvesting.set
+#load Activities/VolcanoMining.set
+
+;Ambience set files
+#load misc/mainAmbience.set
+#load misc/music.set
+#load ships/shipAmbience.set
+#load ships/ShipPower.set
+#load vehicle/vehicleAmbience.set
+
+;Combat set files
+#load Combat/airpod.set
+#load combat/ArmorMaking.set
+#load combat/battlesuits.set
+#load combat/combat.set
+#load Combat/GroundCombat.set
+#load combat/megasuit.set
+#load combat/suit.set
+
+;misc set files
+#load misc/APilot'sParody.set
+#load misc/bath.set
+#load misc/Babies.set
+#load misc/buffers.set.
+#load misc/clocks.set
+#load misc/comms.set
+#load misc/doors.set
+#load misc/factory.set
+#load misc/Farming.set
+#load misc/house.set
+#load misc/horses.set
+#load misc/hosts.set
+#load misc/Jets.set
+#load misc/misc.set
+#load misc/misc2.set
+#load misc/Mutariansi.set
+#load misc/mwtp.set
+#load misc/orgstuff.set
+#load misc/say.set
+#load misc/socials.set
+#load misc/telephone.set
+#load misc/trains.set
+#load misc/trolley.set
+#load misc/wear.set
+#load misc/weather.set
+
+;Ship set files.
+#load ships/component.set
+#load ships/computers.set
+#load ships/DeepSpaceRepair.set
+#load ships/FlightControl.set
+#load ships/jump.set
+#load ships/pd.set.
+#load ships/Rats.set
+#load ships/shipCombat.set
+#load ships/shipCombat2.set
+#load ships/ships.set
+#load ships/ships2.set
+#load ships/Waypoints.set
+
+;Vehicle set files.
+#load vehicle/cars.set
+#load vehicle/vehicle.set
+
+;Classes.
+#class ambon enable;
+#class music enable;
+#class shipamb enable;
+#class vehicleamb enable;
+
+;Triggers for connecting to the moo.
+#TRIGGER {New synaptic signal verified. Prepare yourself... For Cosmic Rage!} {#pc 0 stop; loadbuffers}
+#trigger {Current hosts:*} {version; #say {Welcome to the VIP Cosmic Rage experience!} Voiceonly; playsound {cosmic rage/music/IntroMusic/DefaultIntro.wav} @vol} {} AnyCase
+
+;Settings.
+#File 6 {cosmic rage/misc/settings.set} 1;
+#Read 6 vol 1;
+#read 6 shipVol 2;
+#read 6 vehicleVol 3;
+#read 6 roomVol 4;
+#read 6 DroneSounds 5;
+#read 6 MusicSounds 6;
+#read 6 musicvol 7;
+#read 6 combatmusicplaying 8;
+#read 6 mVol 9;
+#read 6 CMusic 10;
+#read 6 altVehicleEngines 11;
+#read 6 altShipengines 12;
+#read 6 gagShipCombat 13;
+#read 6 gagHarvest 14;
+#read 6 panShipCombat 15;
+#read 6 CVol 16;
+#read 6 ambon 17;
+#read 6 RedAlert 18;
+#read 6 Evol 19;
+#read 6 veVol 20;
+#read 6 gagSal 21;
+#read 6 weather 22;
+#read 6 gagweather 23;
+#read 6 LogOn 24;
+#read 6 ShortMapText 25;
+#Read 6 SilentIntro 26;
+#read 6 SilentClock 27;
+#read 6 ConnectionCheck 28;
+#read 6 numpadon 29;
+#read 6 CommsVol 30;
+#read 6 ChannelLogging 31;
+#read 6 GameError 32;
+#read 6 SilentConflict 33;
+#read 6 LaunchText 34;
+#read 6 SocialSounds 35;
+#read 6 RebootSounds 36;
+#read 6 SpIntroMessage 37;
+#read 6 SocialText 38;
+#read 6 TPR 39;
+#read 6 SilentPod 40;
+#read 6 showermusic 41;
+#read 6 gvol 42;
+#read 6 UpdateToggle 43;
+#close 6
+#if {@ambon = "Disabled"} {
+#class ambon disable; #class shipamb disable; #class vehicleamb disable};
+
+;misc.
+#TRIGGER {synaptic signal verified. Sleep mode disengaged. Welcome back to cosmic rage!} {#pc 0 stop; #if {@UpdateToggle = "Enabled"} {#alarm 15 {spversion; #var cvcheck 1}}; loadbuffers}
+#alias {onDisconnect} {
+#gvar disconnected 1;
+AutoSaveSettings; AutoSaveBuffers; #say {Settings saved!}; #pc 0 stop; #play {cosmic rage/general/misc/quit.wav} @vol}
+#trigger {Your synaptic signal wavers for a moment, then returns with a snap!} {#pc 0 stop; #play {Cosmic Rage/general/misc/synapticReturn.wav} @vol; loadbuffers}
+#alarm Saving -1800 {AutoSaveSettings; AutoSaveBuffers}
+#alias {SPUnload} {#say {Your soundpack has been unloaded. To reload, use either the alias SPReload, or the key control-shift-R. Thank you.} Voiceonly; #pc 0 stop;
+#unload Activities/asteroidHarvesting.set; #unload misc/bath.set; #unload Activities/BioHarvesting.set; #unload misc/house.set; #unload activities/blackdwarf.set; #unload Activities/comets.set;  #unload Activities/DarkMatterMining.set; #unload activities/dust.set; #unload activities/handmining.set; #unload activities/hunting.set; #unload Activities/mechanicalMining.set; #unload Activities/moon.set; #unload activities/moonbase.set; #unload Activities/PlanetChunks.set; #unload Activities/planetoid.set; #unload activities/pol.set; #unload Activities/salvaging.set; #unload Activities/StarCoring.set; #unload Activities/StarStudies.set; #unload Activities/trash.set; #unload Activities/volcanoHarvesting.set; #unload Activities/VolcanoMining.set; #unload misc/mainAmbience.set; #unload misc/music.set; #unload ships/shipAmbience.set; #unload ships/ShipPower.set; #unload vehicle/vehicleAmbience.set; #unload combat/airpod.set; #unload combat/armormaking.set; #unload combat/battlesuits.set; #unload combat/combat.set; #unload combat/GroundCombat.set; #unload combat/megasuit.set; #unload misc/APilot'sParody.set; #unload misc/Babies.set; #unload misc/Buffers.set; #unload misc/clocks.set; #unload misc/comms.set; #unload misc/doors.set; #unload misc/factory.set; #unload misc/Farming.set; #unload misc/horses.set; #unload misc/hosts.set; #unload misc/Jets.set; #unload misc/misc.set; #unload misc/misc2.set; #unload misc/mutariansi.set; #unload misc/mwtp.set; #unload misc/orgstuff.set; #unload misc/say.set; #unload misc/socials.set; #unload misc/telephone.set; #unload misc/trains.set; #unload misc/trolley.set; #unload misc/weather.set; #unload ships/component.set; #unload ships/DeepSpaceRepair.set; #unload ships/FlightControl.set; #unload ships/jump.set; #unload ships/pd.set; #unload ships/Rats.set; #unload ships/shipCombat.set; #unload ships/shipCombat2.set; #unload ships/ships.set; #unload ships/ships2.set; #unload ships/Waypoints.set; #unload vehicle/cars.set; #unload vehicle/vehicle.set; #unload activities/hunting.set}
+#TRIGGER {New synaptic signal verified. Prepare yourself... For Cosmic Rage!} {#pc 0 stop}
+#Alias {pn1} {playsound {Cosmic Rage/general/comms/pn3.wav} @commsvol; #PC %Playhandle Frequency 40000; #var priv1 %0}
+#Alias {pn2} {playsound {Cosmic Rage/general/comms/pn3.wav} @commsvol;  #PC %Playhandle Frequency 50000; #var priv2 %0}
+#Alias {pn3} {playsound {Cosmic Rage/general/comms/pn3.wav} @commsvol;  #PC %Playhandle Frequency 60000; #var priv3 %0}
+#Alias {pn4} {playsound {Cosmic Rage/general/comms/pn3.wav} @commsvol;  #PC %Playhandle Frequency 70000; #var priv4 %0}

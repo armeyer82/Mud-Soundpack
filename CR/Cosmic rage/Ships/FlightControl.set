@@ -1,0 +1,10 @@
+#trigger {* turns * on * and you hear someone *, "*"} {#if {@ShortMapText = "Enabled"} {
+#sub {%1 turns %2, %5};#additem FlightControl {%1 turns %2, %5}} {#additem FlightControl %0}; #if {%ifWord(requiring urgent mobile infantry assistance!,%5," ")} {playsound {Cosmic Rage/ships/FlightControl/FCEmergency.wav} @CommsVol} {};
+#if {%ifWord(preparing to invade.,%5," ")} {playsound {Cosmic Rage/ships/FlightControl/FCInvasion.wav} @CommsVol} {};
+#if {%ifWord(just flew right into a star!,%5," ")} {playsound {Cosmic Rage/ships/FlightControl/FCFlyIntoStar.wav} @CommsVol} {};
+#if {%ifWord(is about to erupt. Get out of there!,%5," ")} {playsound {Cosmic Rage/ships/FlightControl/FCVolcanoAlarm.wav} @CommsVol} {};
+#if {%ifWord(That ship is smuggling! Bring it down!,%5," ")} {playsound {Cosmic Rage/ships/FlightControl/FCSmuggling.wav} @CommsVol} {};
+#if {%ifWord(Enemies retreating!,%5," ")} {playsound {Cosmic Rage/ships/FlightControl/FCCheer.wav} @CommsVol} {};
+#if {%ifWord(gold,%2," ")} {playsound {Cosmic Rage/ships/FlightControl/FCGold.wav} @CommsVol} {};
+#if {%ifWord(red,%2," ")} {playsound {Cosmic Rage/ships/FlightControl/FCRed.wav} @CommsVol} {};
+#if {%ifWord(green,%2," ")} {playsound {Cosmic Rage/ships/FlightControl/FCGreen.wav} @CommsVol}}

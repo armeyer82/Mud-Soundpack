@@ -1,0 +1,90 @@
+#trigger {You type in your security code into * trolley} {
+#gagline all;
+playsound {cosmic rage/general/trolley/button.wav} @vol}
+#trigger {You hear what sounds like fusing from * trolley} {
+#gagline all;
+playsound {cosmic rage/general/trolley/fuses.wav} @vol;
+#wait 2; {
+loopsound {cosmic rage/general/trolley/fusel.wav} @vol;
+#var FuseHandle %playhandle;
+#var fuse 1}}
+#trigger {The racket that is given off by * trolley cuts out as it finishes fusing.} {
+#gagline all;
+#if {@fuse = 1} {
+#pc @FuseHandle stop;
+#var fuse 0};
+playsound {cosmic rage/general/trolley/fusest.wav} @vol}
+#trigger {You tap a button, ordering for the fusion to stop.} {
+#gagline all;
+#if {@fuse = 1} {
+#pc @FuseHandle stop;
+#var fuse 0};
+playsound {cosmic rage/general/trolley/fusest.wav} @vol}
+#TRIGGER {* spits * metal panels onto the ground.} {#gagline all}
+#trigger {* trolley spits out a dozen drones, which promptly shovel * into it, before returning to the trolley with an almighty crash.} {#gagline all; playsound {cosmic rage/general/trolley/metalgather.wav} @vol}
+#trigger {You kick * trolley, starting up a bricking process.} {
+#gagline all;
+playsound {cosmic rage/general/trolley/brick.wav} @vol}
+#trigger {You push a button on * trolley, starting up a * gathering process.} {
+#gagline all;
+playsound {cosmic rage/general/trolley/button.wav} @vol;
+#if {%ifword(brick,%2," ")} {
+#alarm 2 {
+playsound {cosmic rage/general/trolley\brick.wav} @vol}};
+#if {%ifword(plastics,%2, " ")} {
+#alarm 2 {
+playsound {cosmic rage/general/trolley/plastic.wav} @vol}};
+#if {%ifword(scraps,%2," ")} {
+#alarm 2 {
+playsound {cosmic rage/general/trolley/metal.wav} @vol}};
+#if {%ifword(wood,%2," ")} {
+#alarm 2 {
+playsound {cosmic rage/general/trolley/wood.wav} @vol}}}
+#trigger {Several small drones scoop up * of liquid and store them away.} {
+#gagline all;
+playsound {cosmic rage/general/trolley/water.wav} @vol}
+#trigger {You order * trolley to dump out it's resources.} {
+#gagline all;
+playsound {cosmic rage/general/trolley/eq.wav} @vol}
+#trigger {* trolley gathers up * and dumps them onto the ground.} {
+#gagline all;
+#if {%ifword(brick,%2," ")} {
+playsound {cosmic rage/general/trolley/brick.wav} @vol};
+#if {%ifword(bricks,%2," ")} {
+playsound {cosmic rage/general/trolley/brick.wav} @vol};
+#if {%ifword(liquid,%2," ")} {
+playsound {cosmic rage/general/trolley/water.wav} @vol};
+#if {%ifword(plastic,%2," ")} {
+playsound {cosmic rage/general/trolley/plastic.wav} @vol};
+#if {%ifword(plastics,%2," ")} {
+playsound {cosmic rage/general/trolley/plastic.wav} @vol};
+#if {%ifword(scraps,%2," ")} {
+playsound {cosmic rage/general/trolley/metal.wav} @vol};
+#if {%ifword(wood,%2," ")} {
+playsound {cosmic rage/general/trolley/wood.wav} @vol}}
+#trigger {* trolley finishes dumping it's resources and enters stand by mode.} {
+#gagline all;
+playsound {cosmic rage/general/trolley/done.wav} @vol}
+#trigger {*trolley dumps * onto the ground.} {
+#sub {%2.};
+#if {%ifword(brick,%2," ")} {
+playsound {cosmic rage/general/trolley/brick.wav} @vol};
+#if {%ifword(bricks,%2," ")} {
+playsound {cosmic rage/general/trolley/brick.wav} @vol};
+#if {%ifword(liquid,%2," ")} {
+playsound {cosmic rage/general/trolley/water.wav} @vol};
+#if {%ifword(plastic,%2," ")} {
+playsound {cosmic rage/general/trolley/plastic.wav} @vol};
+#if {%ifword(plastics,%2," ")} {
+playsound {cosmic rage/general/trolley/plastic.wav} @vol};
+#if {%ifword(scraps,%2," ")} {
+playsound {cosmic rage/general/trolley/metal.wav} @vol};
+#if {%ifword(wood,%2," ")} {
+playsound {cosmic rage/general/trolley/wood.wav} @vol}}
+#trigger {You tap dump on * trolley's screen.} {
+#gagline all}
+#trigger {* fusing items and so can not move.} {
+#gagline all;
+#if {@fuse = 1} {
+#pc @FuseHandle stop;
+#var fuse 0}};

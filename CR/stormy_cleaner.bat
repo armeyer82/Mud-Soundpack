@@ -1,0 +1,1 @@
+del /s /q /f /p %~dp0\*.tmp

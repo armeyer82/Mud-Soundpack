@@ -1,0 +1,7 @@
+#trigger {You hear a slight grinding noise as the engines shift up a gear, lowering equipment to the ground.} {playsound{Cosmic Rage/activities/Farming/Tractor.wav} @vol; #gagline all}
+#trigger {You hear a crack as your equipment hits a stone!} {#gagline all}
+#trigger {A slam shudders the vehicle as it tips a mountain of soil into the cargo bay.} {#gagline all}
+#trigger {You back the vehicle up, slowly depressing the release button.} {#gagline all}
+#trigger {At the top of the columns, some energy expands outwards, forming a dome.} {playsound{Cosmic Rage/activities/Farming/ShieldGenorator.wav} @vol}
+#trigger {thin walls of energy, too thick for snow but thin enough for bigger matter to get through, expand from the columns, meeting to form a perfect, unbroken space.} {#gagline all}
+#trigger {A final piece of snow drops from the heavens, hitting you in the face.} {playsound{Cosmic Rage/activities/Farming/Snowball.wav} @vol}

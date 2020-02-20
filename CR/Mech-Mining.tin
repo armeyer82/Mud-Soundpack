@@ -1,0 +1,34 @@
+#CLASS {Mech-Mining} OPEN
+
+#ACTION {^You hear a drilling sound.$}
+{
+     play Activities/mech-mining/digging.wav;
+     #line gag
+}
+
+#ACTION {^You hear a loud hum and a whirring sound.$}
+{
+     play Activities/mech-mining/whirling.wav;
+     #line gag
+}
+
+#ACTION {^You hear a loud slam as the digging arm fully retracts.$}
+{
+     play Activities/mech-mining/slam.wav;
+     #line gag
+}
+
+#ACTION {^You hear a screech and then a thunk.$}
+{
+     play Activities/mech-mining/thunk.wav;
+     #line gag
+}
+
+#ACTION {^You hear a whine and the digging sound comes to a stop.$}
+{
+     play Activities/mech-mining/wine.wav;
+     #line gag
+}
+
+
+#CLASS {Mech-Mining} CLOSE

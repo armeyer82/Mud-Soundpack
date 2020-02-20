@@ -1,0 +1,9 @@
+#trigger {A loud siren shrieks as the warp core is hit by *} {#gagline all}
+#trigger {From somewhere in the bowels of the ship there is a groan as * impact the cargo supports.} {#gagline all};
+#trigger {The engines momentarily go offline as they are struck by *} {#gagline all};
+#trigger {The screens blink and go fuzzy for a moment as the computer systems are hit by *} {#gagline all}; 
+#trigger {The lights flicker dromaticly as the power systems are hit by *} {#gagline all};
+#trigger {There is a nasty metal against metal shriek as the planetary gear takes damage from *} {#gagline all};
+#trigger {The air seems to go thin for a moment and red warning lights flicker as the life support system takes damage from *} {#gagline all};
+#trigger {There is a slight feeling of weightlessness as the safety systems are hit *} {#gagline all};
+#trigger {There is what sounds like a fuse or 5 popping all at the same time as the sensors are damage by *} {#gagline all};

@@ -1,0 +1,230 @@
+#trigger {You hear the sound of rain hitting the roof, as well as it sloshing through the downspout} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/pouringRain.wav} @vol}}
+#trigger {The sound of rain hitting the roof can be heard} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/pouringRain.wav} @vol}}
+#trigger {You hear the rain as it hits the ground outside} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/pouringRain.wav} @vol}}
+#trigger {Heavy rain pelts outside echoing throughout the rooms.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/pouringRain.wav} @vol}}
+#trigger {Lightning flashes, and loud thunderclaps shake the building you're in} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/thunderBoom.wav} @vol}}
+#trigger {A rumble of thunder is heard off in the distance.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/thunder.wav} @vol}}
+#trigger {The sound of rain patters against the windows.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/rainOnWindows.wav} @vol}}
+#trigger {The sky darkens a little and a harsh wind begins to whip your face as small satellites begin to move anti-gravwell around the planet.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/harshWind.wav} @vol}}
+#trigger {From outside, you hear a harsh wind begin to blow.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/harshWind.wav} @vol}}
+#trigger {The warning boom of a thunderclap can be felt and heard as it reverberates through the walls and floor.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/ThunderHuge.wav} @vol}}
+#trigger {The faint pattering of what might be sleet can be heard from outside.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/sleet.wav} @vol}}
+#trigger {You can almost see the walls vibrating as the gale blows loudly against them.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/WindDwelling.wav} @vol}}
+#trigger {Hailstones can be heard pelting loudly against the walls.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/Hail.wav} @vol}}
+#trigger {The sun is shining, casting its warmth on you} {
+#if {@gagWeather = "Enabled"} {
+#gagline all}}
+#trigger {Looking out the window, you see that its a rather nice day} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {the sun shines on you, making the slightly cool air feel warmer} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {it is drizzling} {#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/lightRain.wav} @vol}} {} AnyCase
+#trigger {You notice that it's drizzling as you glance out the window} {#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/lightRain.wav} @vol}} {} AnyCase
+#trigger {You're getting dropped on by rain standing here} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/pouringRain.wav} @vol}} {} AnyCase
+#trigger {it's raining hard} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/pouringRain.wav} @vol}}
+
+#trigger {It's raining, and you're getting wet standing here} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@Weather = "Enabled"} {
+playsound {cosmic rage\general\weather\PouringRain.wav} @vol}}
+#trigger {You hear the rain as it hits the ground outside} {#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/pouringRain.wav} @vol}}
+#trigger {A few puffy white clouds can be seen in the sun-dappled sky.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It feels quite warm.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {You can feel the sun's warmth on your face.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A few clouds can be seen in the sky.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It feels slightly cool.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {You feel a gentle breeze caressing your face.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A few rainclouds can be seen in the sky.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {the sun shining from outside is dimmed for a moment as a cloud passes.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {the sun darkens for several moments as a cloud passes overhead.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The sun shines brightly overhead.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It feels warm*} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {You feel the heat of the sun on your face.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {the hot sun beats down on you} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A shaft of sunlight streams in through the window} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {You feel the hot sun beating down on you} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {it is muggy as well} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The sky is clear, but the air around you is very muggy.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It feels very hot and close.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The air is very muggy, like there is a storm coming.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A storm surrounds you", "Lightning flashes, and loud thunderclaps shake the building you're in} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {Wild flashes of lightning fill the sky with a dazzling blue-white glow, and loud thunder shakes the ground under you as it pours down raining} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The sky is completely overcast, dark gray clouds looming low and menacing} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {Heavy rainclouds can be seen in the sky.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The warning boom of a thunderclap can be felt and heard as it reverberates through the walls and floor.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The warning boom of a thunderclap can be heard in the distance.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A beautiful rainbow sparkles in the sky.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It feels like it's warming up.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The rainbow can be seen in all its glory as the sun shines through the suspended water.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A few clouds dot the otherwise sun-filled sky.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It's quite warm in here, though clouds to occasionally block the sun streaming in the windows.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A cloud passes over the sun, blocking it for several moments before shining through once more.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It's windy.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The wind can faintly be heard from outside.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The cool wind blows against your face.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {There is a cool breeze stirring} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {You spot clouds drifting across the open sky from the window} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The sun warms the cool air, as there is a breeze, it is quite nice out} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The sky is cloudy.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It feels cool in here.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The sun tries to shine through the clouds obscuring it.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A cold wind is blowing.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The wind can be heard blowing outside.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The wind chills you slightly as it blows against you.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A gale-force wind is blowing!} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {You can almost see the walls vibrating as the gale blows loudly against them.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A small piece of debris narrowly misses your face as it's blown past by the force of the wind.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A heavy storm rages in the sky.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {Thunder booms and roles outside.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/thunderBoom.wav} @vol}} {} AnyCase
+#trigger {A crack of thunder booms around you, before a fork of lightning lances across the sky.} {
+#if {@gagWeather = "Enabled"} {
+#gagline all};
+#if {@weather = "Enabled"} {
+playsound {cosmic rage/general/weather/thunderBoom.wav} @vol}} {} AnyCase
+#trigger {it's snowing} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {You see snow falling outside the window} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {snow is falling in large flakes} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {Heavy rainclouds allude to an oncoming storm.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A shadow darkens the room as rainclouds blot out light from outside.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A shadow sweeps over you as a raincloud blots out the light.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {It's hailing!} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A small hailstone narrowly misses your head.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {A freezing wind is blowing.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The wind can be heard buffeting against the walls.} {#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase
+#trigger {The wind makes you shiver slightly as it blows its icy fingers against you.}{#if {@gagWeather = "Enabled"} {
+#gagline all}} {} AnyCase

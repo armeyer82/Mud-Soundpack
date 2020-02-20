@@ -1,0 +1,9 @@
+#CLASS {Ship-Comm} OPEN
+
+#ACTION {^[PA %*]}
+{
+     play Ships/Com/PA@rnd{2}.wav
+}
+
+
+#CLASS {Ship-Comm} CLOSE

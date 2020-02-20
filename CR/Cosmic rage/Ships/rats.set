@@ -1,0 +1,43 @@
+#TRIGGER {* kicks in and douses the fire.} {playsound {Cosmic Rage\ships\fire\extinguisher.wav} @vol} 
+#trigger {You snatch * fire extinguisher * from the wall and douse the fire with it.} {
+#gagline voice;
+playsound {cosmic rage/ships/fire/extinguisher.wav} @vol}
+#TRIGGER {*"* is on fire."} {
+#sub {%2 is on fire.};
+playsound {Cosmic Rage\ships\fire\siren.wav} @vol} 
+#TRIGGER {a jet of * spray shoots out of a nozzle nearby, dousing everything in a fine liquid.} {playsound {Cosmic Rage\ships\fire\spray.wav} @vol}
+#trigger {*"Attention. Attention. * ratika * inbound. I repeat, * on an inbound trajectory with this vessel."} {playsound {cosmic rage/ships/Ratika/alarm.wav} @vol}
+#trigger {* ratika guard drone * repairs some damage *} {playsound {Cosmic Rage/ships/Ratika/Repair/*6.wav} @vol}
+#trigger {*ratika guard drone *shoots a small laser *} {playsound {Cosmic Rage/ships/Ratika/Laser.wav} @vol}
+#trigger {* gives a squeal like a popped balloon letting out air before bursting into flames!} {playsound {Cosmic Rage/ships/Ratika/Pop.wav} @vol}
+#trigger {*out of the way, but *dealt a glancing blow.} {playsound {Cosmic Rage/ships/Ratika/hit.wav} @vol}
+#trigger {*ratika guard drone *lets out a few sparks.} {playsound {Cosmic Rage/ships/Ratika/Sparks.wav} @vol}
+#trigger {With a growl and a snarl, nest builder transforms into a warrior ratika!} {playsound {Cosmic Rage/ships/Ratika/Transform.wav} @vol}
+#trigger {*collapses to the ground, deader than a doormouse.} {playsound {Cosmic Rage/ships/Ratika/Dead.wav} @vol}
+#trigger {*swings at *with its claws.} {playsound {Cosmic Rage/ships/Ratika/Claw.wav} @vol}
+#trigger {cleaner quickly eats The corpse of *and begins to grow in size!} {playsound {Cosmic Rage/ships/Ratika/Eat.wav} @vol}
+#trigger {There is what sounds like muffled squeaking from inside A ratika nest before, with a scrabbling and cracking, * arrives from inside.} {playsound {Cosmic Rage/ships/Ratika/Egg.wav} @vol}
+#trigger {poisoner ratika sinks its fangs into you!} {playsound {Cosmic Rage/ships/Ratika/Bite.wav} @vol}
+#trigger {Using bits of debris which it drops, *begins to construct a nest.} {playsound {Cosmic Rage/ships/Ratika/Build*9.wav} @vol}
+#trigger {*continues to build A ratika nest using scraps from nearby.} {playsound {Cosmic Rage/ships/Ratika/Build*9.wav} @vol}
+#trigger {*works on A ratika nest.} {playsound {Cosmic Rage/ships/Ratika/Build*9.wav} @vol}
+#trigger {*fires a volley of lasers into the nest.} {playsound {Cosmic Rage/ships/Ratika/Lasers.wav} @vol}
+#trigger {A ratika nest falls apart.} {playsound {Cosmic Rage/ships/Ratika/Break.wav} @vol}
+#trigger {*"error! A drone in the specified location is unavailable!"} {playsound {Cosmic Rage/ships/Ratika/Error.wav} @vol}
+#trigger {there is a clank, some scrabbling, then * arrives from the ducts.} {playsound {Cosmic Rage/ships/Ratika/ratappear.wav} @vol}
+#trigger {A low, pulsing siren echoes throughout the ship as a synthesised voice announces: "Ratika detected. Ratika detected."} {playsound {cosmic rage/ships/Ratika/RatikaDetected.wav} @vol}
+#TRIGGER {A siren rings out. "Warning. Warning. * inbound Ratika. Repeat, * inbound Ratika."} {playsound {cosmic rage/general/misc/alarm.wav} @vol};
+#trigger {With a sad little whistle, * erupts into a tiny ball of flame.} {playsound {cosmic rage/ships/Ratika/guard.wav} @vol}
+#trigger {* repairs some damage to its shell.} {playsound {Cosmic Rage/ships/Ratika/Repair/*6.wav} @vol}
+#trigger {* spits acid against the wall before scratching at it furiously with * claws.} {playsound {cosmic rage/ships/Ratika/hole.wav} @vol}
+#trigger {* guard drone * shuts down to preserve power.} {#gagline voice;playsound {cosmic rage/ships/Ratika/powerdown.wav} @vol}
+#trigger {* guard drone * powers up.} {#gagline voice;playsound {cosmic rage/ships/Ratika/powerup.wav} @vol}
+#trigger {* lets out a tiny belch.} {playsound {cosmic rage/ships/ratika/belch.wav} @vol}
+#trigger {The nozzle of the spray bottle on the wall lets out a huff of empty air.} {#gagline voice; playsound {cosmic rage/ships/ratika/emptyspray.wav} @vol}
+#trigger {* drinks greedily from the warp fuel tanks!} {#gagline voice; playsound {cosmic rage/ships/ratika/drink.wav} @vol}
+#trigger {You give a great snarl, and snatch up *into * head first!} {#gagline all; playsound {cosmic rage/ships/Ratika/cage.wav} @vol}
+#trigger {noise comes from inside A ratika nest.} {#gagline all; playsound {cosmic rage/ships/Ratika/noise.wav} @vol}
+#trigger {* moves over to * and sniffs about.} {#gagline all; playsound {cosmic rage/ships/Ratika/sniff.wav} @vol}
+#trigger {* snaps the head off of * in a quick, and efficient, crunch!} {#gagline all; playsound {cosmic rage/ships/Ratika/snap.wav} @vol}
+#TRIGGER {You kick at A ratika nest trying to irritate the ratika inside it.} {playsound {cosmic rage/General/Combat/FootSwing*9.wav} @Vol; playsound  {cosmic rage/General/Socials/Kick*9.wav} @Vol};
+#TRIGGER {* falls out the nest with a bump.} {playsound {cosmic rage/ships/Ratika/sniff.wav} @vol}

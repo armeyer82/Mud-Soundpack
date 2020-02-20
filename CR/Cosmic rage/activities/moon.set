@@ -1,0 +1,40 @@
+#trigger {You hear a whir and then a low, powerful thrum fills the ship.} {#gagline all;
+playsound {cosmic rage/activities/moon/whir.wav} @vol} 
+#trigger {You slide some switches and tap at some buttons.} {
+#gagline all;
+playsound {cosmic rage/ships/computer/keyboard*7.wav} @vol} 
+#trigger {You feel a shudder and hear a loud clattering sound as moon harvesting equipment is extended towards *} {
+#gagline all;
+playsound {cosmic rage/activities/moon/MoonExtend.wav} @vol} 
+#trigger {On screen, you see your moon equipment latch onto *} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/digging.wav} @vol} 
+#trigger {A drilling noise fills the ship.} {
+#gagline all;
+playsound {cosmic rage/activities/moon/drill.wav} @vol} 
+#trigger {You hear a whirring noise...} {
+#gagline all;
+playsound {cosmic rage/activities/moon/whirring.wav} @vol} 
+#trigger {On screen, you see your moon harvesting equipment begin to retract.} {
+#gagline all;
+playsound {cosmic rage/activities/moon/harvesterRetract.wav} @vol} 
+#trigger {You hear a clang and the ship rocks slightly.} {
+#gagline all;
+playsound {cosmic rage/activities/mechanicalMining/slam.wav} @vol} 
+#trigger {this is moon management at *} {playsound {cosmic rage/activities/moon/moonScanner.wav} @vol}
+#trigger {A powerful hum starts up from underfoot, sounding like a motor being warmed up.} {#gagline all; playsound {cosmic rage/activities/moon/sbegin.wav} @vol; #alarm 5.7 {loopsound {cosmic rage/activities/moon/sloop.wav} @vol; #var moonHandle %playHandle; #var moon 1}}
+#trigger {The mechanical winding noise stops, but is replaced by a repeated sequence of descending noises, like a machine is repeating a task over and over.} {#gagline all; playsound {cosmic rage/activities/moon/sshutdown.wav} @vol; #if {@moon = 1} {#pc @moonHandle stop; #var moon 0}}
+#trigger {A shudder goes through the ship as a huge electrical discharge is fired.} {#gagline all; playsound {cosmic rage/activities/moon/slaser.wav} @vol; #if {@panShipCombat = "Enabled"} {#pc %playhandle pan %random(-4000,4000)}}
+#trigger {On screen, you see the moon's structure become too weak, causing it to simply fall apart.} {#gagline all; playsound {cosmic rage/activities/moon/sdestroy.wav} @vol}
+#trigger {the engines hum a little as the ship moves slightly to the right.} {#gagline all}
+#trigger {A small status readout next to the image of * indicates that * laser hit* should break it up into chunks.} {playsound {cosmic rage/ships/computer/announce*4.wav} @vol;#if {%2 = 1} {#sub {%2 shot needed for the destruction.}} {#sub {%2 shots needed for the destruction.}}}
+#trigger {You ease the ship to the right, circling the moon to get into prime position.} {#gagline all}
+#TRIGGER {You tap a button on the moon console, sending out a scan.} {playsound {Cosmic Rage/activities/blackdwarf/button.wav} @vol}
+#trigger {There is a clunk, and the sound of the machinery dies away.} {#gagline all}
+#trigger {The sound of machinery under strain echoes throughout the ship as collection nets are hauled in.} {#gagline all}
+#trigger {The whine of machinery hard at work continues, shaking the floor a little.} {#gagline all}
+#trigger {You fire the laser at * degrees, and see it slice into the moon's surface.} {
+#sub {The laser fires at %1 degrees.}}
+#trigger {A mechanical winding noise comes from the bottom of the ship.} {#gagline all}
+#trigger {On screen, long, finger-like nets extend from the ship.} {#gagline all}
+

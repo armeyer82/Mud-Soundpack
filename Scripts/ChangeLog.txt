@@ -1,3 +1,12 @@
+Version 2.1.0.4:
+
++General changes:
+++Made the soundpack compatible with the latest version of TinTin++
+
++Miriani:
+++Added values for some of the artifacts and radio components.
+
+
 Version 2.1.0.3:
 
 +Miriani:

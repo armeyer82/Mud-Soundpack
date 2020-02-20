@@ -1,0 +1,34 @@
+#CLASS {General-Comms} OPEN
+
+#ACTION {^[Chat]}
+{
+     play General/Comms/Chat.wav
+}
+
+#ACTION {^[General]}
+{
+     play General/Comms/General.wav
+}
+
+#ACTION {^[General]:}
+{
+     play General/Comms/General.wav
+}
+
+#ACTION {^[Missions]}
+{
+     play General/Comms/Missions.wav
+}
+
+#ACTION {^[Newbie]}
+{
+     play General/Comms/Newbie.wav
+}
+
+#ACTION {^[Origins]}
+{
+     play General/Comms/Origins.wav
+}
+
+
+#CLASS {General-Comms} CLOSE

@@ -1,0 +1,25 @@
+#trigger {You find yourself grabbing at the arms of your seat as your stomach, along with the aircraft that you are on, shoots straight into the sky, climbing slightly faster than a starship and not sounding at all as stable.} {
+#gagline all; playsound {cosmic rage/general/Jets/jetTakeoff.wav} @vol}
+#trigger {the aircraft dips sharply, heading, in a spiral, straight for the ground!} {
+#gagline all;
+playsound {cosmic rage/general/Jets/jetBeginLand.wav} @vol}
+#trigger {The aircraft pulls out of its steep dive, the engines practically deafening you as it drops lower, and lower, the rear end of the craft slightly further down than the nose.} {
+#gagline all;
+playsound {cosmic rage/general/Jets/jetDive.wav} @vol}
+#trigger {You feel the back wheels touch down with a bump, swiftly followed by the nose as the aircraft comes to a screeching hault.} {
+#gagline all;
+playsound {cosmic rage/general/Jets/jetLand.wav} @vol}
+#trigger {The doors slide open.} {
+#gagline all;
+playsound {cosmic rage/general/Jets/doorsopen.wav} @vol}
+#trigger {The doors slam shut.} {
+#gagline all;
+playsound {cosmic rage/general/Jets/doorsclosed.wav} @vol}
+#trigger {You hear a slight grinding as the aircraft pulls away, the engines screaming as the jet rapidly gains speed.} {
+#gagline all;
+playsound {cosmic rage/general/Jets/jetGoing.wav} @vol}
+#trigger {the doors of * Jet slam.} {playsound {Cosmic Rage/general/Jets/doorsclosed.wav} @vol; #gagline all}
+#trigger {* zooms in over your head!} {playsound {Cosmic Rage/general/Jets/jetApproach.wav} @vol}
+#trigger {* pulls sharply away, gaining speed rapidly as it shoots towards the end of the runway, engines screaming.} {playsound {Cosmic Rage/general/Jets/jetGoing.wav} @vol; #gagline all}
+
+#trigger {The doors on * Jet slide open.} {playsound {Cosmic Rage/general/Jets/doorsopen.wav} @vol; #gagline all}

@@ -1,0 +1,24 @@
+;wearing items
+#TRIGGER {You put on *} {playsound {cosmic rage/wear/head.wav} @vol}
+#TRIGGER {You hang * from your neck} {playsound {cosmic rage/wear/neck.wav} @vol}
+#trigger {You hang * from your * shoulder.} {playsound {cosmic rage/wear/AboutBody.wav} @vol}
+#TRIGGER {You slip * onto your * wrist} {playsound {cosmic rage/wear/wrist*2.wav} @vol}
+#TRIGGER {You slip * onto your finger} {playsound {cosmic rage/wear/ring.wav} @vol}
+#TRIGGER {You slip your legs into *} {playsound {cosmic rage/wear/legs.wav} @vol}
+#TRIGGER {You slip your feet into *} {playsound {cosmic rage/wear/feet.wav} @vol}
+#TRIGGER {You wiggle your * into *} {playsound {cosmic rage/wear/OnBody.wav} @vol}
+
+;wearing and removing armor
+#trigger {You put on the head part of *, and secure *} {playsound {cosmic rage/wear/head.wav} @vol}
+#trigger {You pull off the helmet of *.} {playsound {cosmic rage/wear/head.wav} @vol}
+#trigger {You shrug * the top * of *.} {playsound {cosmic rage/wear/OnBody.wav} @vol}
+#trigger {You slip on the gloves of * over your *.} {playsound {cosmic rage/wear/hands.wav} @vol}
+#trigger {You slide * the gloves of * from your *.} {playsound {cosmic rage/wear/hands.wav} @vol}
+#TRIGGER {You wrap * around your waist.} {playsound {cosmic rage/wear/waist.wav} @vol}
+#trigger {You give a pair of  * a tug and pull them off.} {playsound {cosmic rage/wear/legs.wav} @vol}
+#trigger {You give * belt a tug and *.} {playsound {cosmic rage/wear/waist.wav} @vol}
+#trigger {You do up the buckles around the waist part of *, joining *} {playsound {cosmic rage/wear/waist.wav} @vol}
+#trigger {You step into *sui*.} {playsound {cosmic rage/wear/AboutBody.wav} @vol}
+#trigger {You step * bottom half of * and gather it up.} {playsound {cosmic rage/wear/AboutBody.wav} @vol}
+#TRIGGER {you slide your left leg into *} {playsound {cosmic rage/wear/feet.wav} @vol}
+#TRIGGER {You pull * up your legs, and buckle it around your waist.} {playsound {cosmic rage/wear/legs.wav} @vol; playsound {cosmic rage/wear/waist.wav} @vol}
