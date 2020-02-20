@@ -17,13 +17,25 @@
 }
 {5}
 
-#ACTION {^[General Communication] %*}
+#ACTION {^%1 {shatters|shatter} immersion {ship-wide|structure-wide} and %2}
 {
+	#show {[SOOC] %1 %2};
+	#line gag;
+	play General/Comm/SOOC.wav;
+	UpdateBuffer SOOC;
+	#list {Buffer[@GetBufferNumber{SOOC}][Messages]} ADD {%1 %2};
+}
+{4}
+
+#ACTION {^[General Communication] %*}
+{ 
+#show [General] %1;
 	play General/Comm/General.wav;
 	UpdateBuffer General;
 	#list {Buffer[@GetBufferNumber{General}][Messages]} ADD {%1};
 	UpdateBuffer Comm;
-	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[General] %1}
+	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[General] %1};
+	#line gag
 }
 {5}
 
@@ -52,11 +64,10 @@
 #ACTION {^[Private | {Auction Service|Combat Mission Notification Service|Communication Loopback Recipient|Reminder Service}] %*}
 {
 	play General/Comm/Services.wav;
-	#line gag;
-	#showme %2;
+	#showme [%1] %2;
 	UpdateBuffer Services;
-	#list {Buffer[@GetBufferNumber{Services}][Messages]} ADD {[%1] %2}
-
+	#list {Buffer[@GetBufferNumber{Services}][Messages]} ADD {[%1] %2};
+	#line gag
 }
 {4}
 
@@ -92,11 +103,12 @@
 
 #ACTION {^[Private | %*] %*}
 {
-	play General/Comm/private.wav;
+#show [%1] %2;	play General/Comm/private.wav;
 	UpdateBuffer Private;
 	#list {Buffer[@GetBufferNumber{Private}][Messages]} ADD {[%1] %2};
 	UpdateBuffer Comm;
-	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[%1] %2}
+	#list {Buffer[@GetBufferNumber{Comm}][Messages]} ADD {[%1] %2};
+	#line gag
 
 }
 {5}
@@ -116,6 +128,5 @@
 {5}
 
 #SUBSTITUTE       {^You press a small button mounted on the wall and say, "%1"}                                         {%1}  {5}
-#SUBSTITUTE       {^[Private | %*] %* transmits,}           {[%1]}  {5}
 
 #CLASS {Comm} CLOSE

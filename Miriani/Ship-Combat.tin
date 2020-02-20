@@ -10,6 +10,12 @@
 }
 {4}
 
+#ACTION {A distant whirring noise can be heard as the %* {laser|lasers} aligns itself, followed by a faint pulse as it fires.}
+{
+     play Ship/Combat/PlanetaryLaser.wav;
+     #line gag
+}
+
 #ACTION {A loud klaxon sounds as purple lights continue to flash overhead.}
 {
      play Ship/Combat/RedCont1.wav;
@@ -44,11 +50,6 @@
      #showme %2 %3 %4 (%1);
      #variable TC %2 %3 %4;
      #line gag
-}
-
-#ACTION {^A distant whirring noise can be heard as the %* laser aligns itself, followed by a faint pulse as it fires.}
-{
-     play Ship/Combat/PlanetaryLaser.wav
 }
 
 #ACTION {^A loud klaxon sounds as red lights continue to flash overhead.$}
@@ -92,6 +93,12 @@
      play Ship/Combat/Partialhit.wav;
      #variable {HC.Partials} @increment{${HC.Partials}}
 }
+
+#ACTION {^Praelor %* has}
+{
+     play Ship/Combat/Praelor.wav
+}
+{9}
 
 #ACTION {^That space is occupied.}
 {

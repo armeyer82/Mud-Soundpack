@@ -1,20 +1,23 @@
 #CLASS {Ship-Comm} OPEN
 
-#ACTION {%1's voice comes over the intercom, saying, "%2"}
+#ACTION {^[PA] %1}
 {
 	play Ship/Comm/intercom1.wavv;
 	UpdateBuffer PA;
-	#list {Buffer[@GetBufferNumber{PA}][Messages]} ADD {[%1] %2}
-
+	#list {Buffer[@GetBufferNumber{PA}][Messages]} ADD {%1}
 }
 {5}
 
-#ACTION {^You press a small button mounted on the wall and}
+#ACTION {^You press a small button mounted on the wall and %1}
 {
-	play Ship/Comm/intercom1.wav
+	play Ship/Comm/intercom1.wav;#show [PA] You %1;#line gag
 }
 {5}
 
-#SUBSTITUTE       {%1's voice comes over the intercom, saying, "%2"}                              {%1, "%2"}  {5}
+#action {^%1's voice comes over the intercom, saying, "%2"}                              {#show [PA] %1 says, "%2";#line gag}  {5}
+
+#action {%1 over the intercom.$} {#show [PA] %1;#line gag}
+
+#action {%1 into a small microphone mounted on the wall.$} {#show [PA] %1;#line gag}
 
 #CLASS {Ship-Comm} CLOSE

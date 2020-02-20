@@ -1,5 +1,6 @@
 #CLASS {Ship-Computer} OPEN
 
+#action {^NAVI was unable to continue due to sensor interference.$} {play Ship/Computer/Anomaly.wav}
 #ACTION {^The computer announces, "Control room reports: %*"}
 {
      play Ship/Computer/LFD.wav;

@@ -1,6 +1,6 @@
 #CLASS {FC-Scanner} OPEN
 
-#ACTION {We detect %* Ontanka {starship|starships} inbound!}
+#ACTION {we detect {Ontanka|Frnalk} {starship|starships} inbound!}
 {
      play General/Comm/PraelorInbound.wav
 }
@@ -9,14 +9,10 @@
 #ACTION {{you|You} hear a %* flight control scanner announce, "%*"}
 {
      #showme {%3};
-     play General/Comm/FlightScanner.wav;
+     play General/Comm/Flight.wav;
      UpdateBuffer Flight;
      #list {Buffer[@GetBufferNumber{Flight}][Messages]} Add {%3};
      #line gag
 }
-
-#VARIABLE         {Gender}  {female}
-#VARIABLE         {emote}  {Katrianne;Beauchene;gently;caresses;your;thighs;and;lovingly;pats;your;butt!}
-#VARIABLE         {word}  {butt!}
 
 #CLASS {FC-Scanner} CLOSE

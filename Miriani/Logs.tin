@@ -1,0 +1,28 @@
+#CLASS {Logs} OPEN
+
+#ALIAS {.find}
+{
+     #if {"%1"==""}
+     {
+          #echo Please enter a string to search for after the .find command.
+     };
+     #else
+     {
+          #system {find $Logdir -type f -name "*.log" -execdir grep -i -H '%1' '{}' \;}
+     }
+}
+
+#ALIAS {.log}
+{
+     #if {"%1"==""}
+     {
+          #system open -e $Logdir/@Date{}.log
+     };
+     #else
+     {
+          #system open -e $Logdir/%1.log
+     }
+}
+
+
+#CLASS {Logs} CLOSE

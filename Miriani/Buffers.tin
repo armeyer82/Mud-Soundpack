@@ -1,45 +1,59 @@
 #CLASS {Buffers} OPEN
 
-#ALIAS {.rooc}
-{
-     #variable CurrentBuffer @GetBufferNumber{ROOC};
-	#var Review ROOC;
-	SayReviewText
-}
-
 #ALIAS {.comm}
 {
      #variable CurrentBuffer @GetBufferNumber{Comm};
-	#var Review Comm;
-	SayReviewText
-}
-
-#ALIAS {.pri}
-{
-     #variable CurrentBuffer @GetBufferNumber{Private};
-	#var Review Private;
-	SayReviewText
+     #variable Review Comm;
+     SayReviewText
 }
 
 #ALIAS {.gen}
 {
      #variable CurrentBuffer @GetBufferNumber{General};
-	#var Review General;
-	SayReviewText
+     #variable Review General;
+     SayReviewText
 }
 
 #ALIAS {.pa}
 {
      #variable CurrentBuffer @GetBufferNumber{PA};
-	#var Review PA;
-	SayReviewText
+     #variable Review PA;
+     SayReviewText
+}
+
+#ALIAS {.pri}
+{
+     #variable CurrentBuffer @GetBufferNumber{Private};
+     #variable Review Private;
+     SayReviewText
+}
+
+#ALIAS {.rooc}
+{
+     #variable CurrentBuffer @GetBufferNumber{ROOC};
+     #variable Review ROOC;
+     SayReviewText
 }
 
 #ALIAS {.rp}
 {
      #variable CurrentBuffer @GetBufferNumber{RP};
-	#var Review RP;
-	SayReviewText
+     #variable Review RP;
+     SayReviewText
+}
+
+#ALIAS {.sooc}
+{
+     #variable CurrentBuffer @GetBufferNumber{S OOC};
+     #variable Review SOOC;
+     SayReviewText
+}
+
+#ALIAS {.say}
+{
+     #variable CurrentBuffer @GetBufferNumber{Say};
+     #variable Review Say;
+     SayReviewText
 }
 
 #ALIAS {GetReviewText}
@@ -48,7 +62,7 @@
      {
           #case {"History"}
           {
-               #buffer Get Review @abs{%1};
+               #buffer Get Review %1;
                SayReviewText
           };
           #default
@@ -234,8 +248,8 @@
      SayReviewText
 }
 
-#VARIABLE         {Buffer}  {{1}{{Messages}{{1}{None}}{Name}{History}}{2}{{Messages}{}{Name}{PA}}{3}{{Messages}{{1}{Partial hit on Combat Drone starship Praelor Ontanka Drone 4's sensors.}{2}{Turrets 1, 2, 3, and 4 are locking onto Praelor Ontanka Drone 4.}{3}{The target has moved from the locked coordinates.}{4}{Turrets 1, 2, 3, and 4 are locking onto Praelor Ontanka Drone 4.}{5}{Hit on Combat Drone starship Praelor Ontanka Drone 4's sensors and outer hull.}{6}{Turrets 1, 2, 3, and 4 are locking onto Praelor Ontanka Drone 4.}{7}{Target destroyed.}{8}{Turrets 1, 2, 3, and 4 are locking onto empty space.}{9}{Firing on empty space complete.}{10}{The airlock environment matches that of the internal and external environment. No cycling is required.}}{Name}{Computer}}{4}{{Messages}{{1}{Katrianne Beauchene glides out of the eight-person gunship "Mischief". (Asteria\; Master Suite Living Room) (Docking Bay)}{2}{(Docking Bay) Katrianne Beauchene glides out of the eight-person gunship "Mischief". (Asteria\; Master Suite Living Room)}{3}{Katrianne Beauchene glides through the hatch of the five-person transverser "Starlight Express". (Asteria\; Master Suite Living Room) (Docking Bay)}{4}{(Docking Bay) Katrianne Beauchene glides through the hatch of the five-person transverser "Starlight Express". (Asteria\; Master Suite Living Room)}{5}{Katrianne Beauchene glides in from outside. (Air)}{6}{Katrianne Beauchene glides into the ship. (Air)}{7}{Katrianne Beauchene glides in from the airlock. (Bay)}{8}{Katrianne Beauchene glides up. (Bay)}{9}{Katrianne Beauchene glides in from down. (Corridor 1)}{10}{Katrianne Beauchene glides northwest. (Corridor 1)}}{Name}{Camera}}{5}{{Messages}{{1}{Katrianne Beauchene leans in close and whispers, "Ok will try!"}{2}{Mekensie the droid says in a soothing voice, "I'm now back in control of my life."}{3}{Mekensie the droid says in a soothing voice, "I will now follow you around."}{4}{Mekensie the droid says in a soothing voice, "My life is now in your hands."}{5}{Mekensie the droid says in a soothing voice, "My life is now in your hands."}{6}{Katrianne Beauchene says, "heh mekensie if i kiss you ..."}{7}{Katrianne Beauchene leans in close and whispers, "do yu love me?"}{8}{Katrianne Beauchene says, "anyway will le tyou salvage for treasures!"}{9}{Mekensie the droid says in a soothing voice, "Don't worry. I can multitask."}{10}{Katrianne Beauchene says to you, "you looked uncomfortable just standing there."}}{Name}{Say}}{6}{{Messages}{{1}{You smile at Katrianne Beauchene.}{2}{Katrianne Beauchene says to you, "you looked uncomfortable just standing there."}{3}{Katrianne Beauchene wraps her arms around you.}{4}{You wrap your arms around Katrianne Beauchene.}{5}{You grin at Katrianne Beauchene.}{6}{You lean in toward Katrianne Beauchene and gently kiss her lips.}{7}{You lean in toward Katrianne Beauchene and gently kiss her lips.}{8}{Katrianne Beauchene leans in toward you and gently kisses your lips.}{9}{You wrap your arms around Katrianne Beauchene.}{10}{Katrianne Beauchene wraps her arms around you.}}{Name}{RP}}{7}{{Messages}{{1}{[ You say, "Yeah, I was going to say, you're awake early" ]}{2}{[ Katrianne Beauchene says, "yeah ..." ]}{3}{[ Tibo Beauchene  grins. Hope you can get back to sleep. ]}{4}{[ Katrianne Beauchene says, "yeah me too!" ]}{5}{[ Katrianne Beauchene says, "p-tibo how did you know I was awake?" ]}{6}{[ You say, "I saw you reappear on comms." ]}{7}{[ Katrianne Beauchene says, "oh yeah for some reason, lost connection at some point" ]}{8}{[ Tibo Beauchene  nods. ]}{9}{[ You say, "Sec, taking care of something here." ]}{10}{[ Katrianne Beauchene says, "no problem same here. Just working" ]}}{Name}{ROOC}}{8}{{Messages}{}{Name}{SOOC}}{9}{{Messages}{}{Name}{Alliance}}{10}{{Messages}{{1}{[Hermione Castle] Hermione Castle transmits, "morning handsome"}{2}{[General] Airis Caldara transmits, "Three spots, mods."}{3}{[General] Jessica Marin transmits, "Me."}{4}{[General] Airis Caldara transmits, "Oh cool! Two more?"}{5}{[General] Airis Caldara transmits, "I'll try later."}{6}{[General] Demetrius Fury transmits, "Gamma for mods."}{7}{[General] Demetrius Fury transmits, "One spot for mods."}{8}{[General] Demetrius Fury transmits, "Full."}{9}{[General] Demetrius Fury transmits, "One spot for mods."}{10}{[General] Demetrius Fury transmits, "3 spots for mods."}}{Name}{Comm}}{11}{{Messages}{}{Name}{Short-range}}{12}{{Messages}{{1}{Marcus Bishop transmits, "Alrighty."}{2}{Airis Caldara transmits, "Three spots, mods."}{3}{Jessica Marin transmits, "Me."}{4}{Airis Caldara transmits, "Oh cool! Two more?"}{5}{Airis Caldara transmits, "I'll try later."}{6}{Demetrius Fury transmits, "Gamma for mods."}{7}{Demetrius Fury transmits, "One spot for mods."}{8}{Demetrius Fury transmits, "Full."}{9}{Demetrius Fury transmits, "One spot for mods."}{10}{Demetrius Fury transmits, "3 spots for mods."}}{Name}{General}}{13}{{Messages}{}{Name}{Chatter}}{14}{{Messages}{{1}{[Katrianne Beauchene] You transmit, "Hi hun."}{2}{[Katrianne Beauchene] Katrianne Beauchene transmits, "Hi Love"}{3}{[Hermione Castle] You transmit, "Good morningn beautiful."}{4}{[Hermione Castle] Hermione Castle transmits, "morning handsome"}}{Name}{Private}}{15}{{Messages}{{1}{Flight control in Solaris, a Commonwealth starship has navigated out of the sector.}{2}{Flight control in Outreach, a Hale starship has navigated out of the sector.}{3}{Flight control in Adaukerisicka, a Hale starship has navigated out of the sector.}{4}{Humuhumunukunukuapua'a to Ophiuchus flight control, an AIE starship has navigated out of the sector.}{5}{Angelus to Autumn flight control, a Commonwealth starship has navigated out of the sector.}{6}{Flight control in Autumn, a Commonwealth starship has navigated into the sector.}{7}{Angelus to Autumn flight control, a Commonwealth starship has navigated out of the sector.}{8}{Flight control in Autumn, a Commonwealth starship has navigated out of the sector.}{9}{Angelus to Autumn flight control, a Commonwealth starship has navigated out of the sector.}{10}{Flight control in Autumn, a Commonwealth starship has navigated out of the sector.}}{Name}{Flight}}{16}{{Messages}{}{Name}{Services}}{17}{{Messages}{}{Name}{CM}}}
-#VARIABLE         {CurrentBuffer}  {6}
+#VARIABLE         {Buffer}  {{1}{{Messages}{{1}{None}}{Name}{History}}{2}{{Messages}{}{Name}{PA}}{3}{{Messages}{}{Name}{Computer}}{4}{{Messages}{}{Name}{Camera}}{5}{{Messages}{}{Name}{Say}}{6}{{Messages}{}{Name}{RP}}{7}{{Messages}{}{Name}{ROOC}}{8}{{Messages}{}{Name}{SOOC}}{9}{{Messages}{}{Name}{Alliance}}{10}{{Messages}{}{Name}{Comm}}{11}{{Messages}{}{Name}{Short-range}}{12}{{Messages}{}{Name}{General}}{13}{{Messages}{}{Name}{Chatter}}{14}{{Messages}{}{Name}{Private}}{15}{{Messages}{}{Name}{Flight}}{16}{{Messages}{}{Name}{Services}}{17}{{Messages}{}{Name}{CM}}{18}{{Messages}{}}}
+#VARIABLE         {CurrentBuffer}  {1}
 #VARIABLE         {ReviewRate}  {650}
 
 #CLASS {Buffers} CLOSE

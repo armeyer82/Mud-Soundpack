@@ -50,9 +50,9 @@
      play Ship/Misc/DockingBayDoorOpen.wav
 }
 
-#ACTION {%1You hear what sounds like an explosion coming from the general area of the airlock%2}
+#ACTION {You hear what sounds like an explosion coming from the general area of the airlock.}
 {
-     play Ship/Misc/HatchBombHere.wav
+     play Ship/Misc/HatchBombHear.wav;#line gag
 }
 
 #ACTION {* indicates that %1 no longer wishes you to follow %2.%3}

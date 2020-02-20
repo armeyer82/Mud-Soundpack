@@ -46,7 +46,8 @@
 
 #EVENT {PROGRAM START}
 {
-     #split 0 1;
+	#message {variable} {off};
+	#message {function} {off};
      #script {Version} {cat ./Scripts/Version.txt};
      #showme Welcome to the Mud Soundpack, Version $Version[1].;
      #showme Written by A. R. Meyer;
@@ -84,10 +85,11 @@
      #showme {};
      #system {cat Scripts/MOTD}
 }
+#function
 
 #EVENT {SESSION CONNECTED}
 {
-     #split;
+	#message {variable} {off};
      #system mkdir -p ~/Mud-Files/@Session{}/;
      #system mkdir -p ~/Mud-Files/@Session{}/User-Scripts/;
      #system mkdir -p ./@Session{};
@@ -108,32 +110,28 @@
 
 #FUNCTION {Homedir}
 {
-     #local Homedir;
      #script {Homedir} {echo $HOME};
-     #return $Homedir[1]
+     #return ${Homedir[1]}
 }
 
 #FUNCTION {Session}
 {
-     #local result;
-     #format {result} {%S}
+	#info session save;
+	#return ${info[SESSION][SESSION_NAME]}
 }
 
 #FUNCTION {Time}
 {
-     #local result;
      #format {result} {%t}{%H:%M}
 }
 
 #FUNCTION {Uppercase}
 {
-     #local result;
      #format {result} {%n}{%1}
 }
 
 #FUNCTION {abs}
 {
-     #local result;
      #math {result} {%1};
      #if {$result>=0}
      {
@@ -147,13 +145,11 @@
 
 #FUNCTION {increment}
 {
-     #local result;
      #math {result} {%1+1}
 }
 
 #FUNCTION {rnd}
 {
-     #local result;
      #math {result} {1d%1}
 }
 

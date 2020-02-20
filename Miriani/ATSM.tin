@@ -19,7 +19,7 @@
 }
 {5}
 
-#ACTION {^Current Coordinates: %d, %d}
+#ACTION {^Current Coordinates: %d, %d$}
 {
 	#variable MyATSMCoords[X] %1;
 	#variable MyATSMCoords[Y] %2;
@@ -172,7 +172,5 @@
 #VARIABLE         {MyATSMCoords}  {{X}{9}{Y}{4}}
 #VARIABLE         {ObjectDistance}  {3}
 #VARIABLE         {ObjectList}  {{3}{{X}{12}{Y}{2}}{4}{{X}{13}{Y}{2}}{6}{{X}{3}{Y}{7}}{7}{{X}{16}{Y}{5}}{9}{{X}{18}{Y}{7}}}
-#VARIABLE         {ShipList}  {}
-#VARIABLE         {TempString}  {(12, 2)}
 
 #CLASS {ATSM} CLOSE

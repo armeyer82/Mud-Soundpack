@@ -34,7 +34,7 @@
 #ACTION {^#$#soundpack social | %w | %w}
 {
 	PlaySocial %1 %2;
-	#buffer Get {Social} {1};
+	#buffer Get {Social}  -1;
 #regexp {$Social} {^[%*]} {#nop} {UpdateBuffer RP;#list {Buffer[@GetBufferNumber{RP}][Messages]} ADD {$Social}};
 	#unvar Social
 
@@ -158,7 +158,7 @@
 		{
 			#if {"%2"=="female"}
 			{
-				play General/Socials/MoanF@rnd{5}.wav
+				play General/Socials/MoanF@rnd{27}.wav
 			};
 			#else {
 				play General/Socials/MoanM@rnd{2}.wav
@@ -259,7 +259,7 @@
 		};
 		#case {"{spank|spanks}"}
 		{
-			play General/Socials/Spank.wav
+			play General/Socials/Spank@rnd{8}.wav
 		};
 		#case {"{vomit|vomits}"}
 		{

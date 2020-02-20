@@ -38,7 +38,7 @@
 }
 {5}
 
-#ACTION {You activate %1 flight control scanner.}
+#ACTION {You {enable|activate}}
 {
 	play General/Device/Activate.wav
 }
@@ -50,7 +50,7 @@
 }
 {5}
 
-#ACTION {You deactivate %1 flight control scanner.}
+#ACTION {You {disable|deactivate}}
 {
 	play General/Device/Deactivate.wav
 }
